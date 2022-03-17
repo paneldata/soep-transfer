@@ -1,0 +1,200 @@
+*******************************
+***		transfer-Plattform 	***
+***		SOEP statistics 	***
+***		Personen-Datensatz	***
+*******************************
+
+clear all
+set more off
+capture log close
+
+* Install soeptools
+net install soeptools, from(http://ddionrails.github.io/soeptools/)
+
+* Define paths
+
+* Windows
+*global data "\\hume\rdc-prod\distribution\soep-core\soep.v36\Stata\"
+*global data "C:\Users\User\Documents\DIW\SOEP-Daten\soep_long_v36\"
+
+* MAC
+global data "/Users/katjaschmidt/Desktop/SOEPdata/v36/"
+global save "/Users/katjaschmidt/Desktop/SOEPdata/plattform/"
+
+
+* Load and merge datasets
+
+use pid hid syear netto pop phrf sex migback syear sampreg gebjahr using ${data}ppathl.dta, clear
+
+merge 1:1 pid syear using ${data}pl.dta, nogen keep (1 3) keepusing (plh0012_h plh0182 plh0032 plh0033 ///
+		plh0034 plh0035 plh0036 plh0037 plh0038 plh0039 plh0040 plh0042 plj0046 plj0047 pli0092_h pli0095_h ///
+		pli0096_h pli0097_h pli0098_h plb0022_h plh0171 plb0571 hid plh0164 plh0166 plh0171 plh0172 plh0173 ///
+		plh0174 plh0175 plh0176 plh0177 plh0178 plh0179 plh0180 plh0181 plh0182 plh0183 plh0258_h)
+
+merge 1:1 pid syear using ${data}pgen.dta, nogen keep (1 3)  keepusing (pgcasmin pglabgro pglabnet ///
+		pgtatzeit pgvebzeit pgisced97 pgpsbil pgstib pglfs pgoeffd pgisco88 pgisco08 pgemplst) 
+
+merge 1:1 pid syear using ${data}pequiv.dta, nogen keep (1 3) keepusing (y11101)
+
+merge m:1 hid syear using ${data}hbrutto.dta, nogen keep (1 3) keepusing (bula_h hhgr regtyp) //
+
+
+* Define population
+
+* keep observations with valid interview
+drop if netto>19
+
+* keep observations with weighting factor
+drop if phrf==0
+
+* keep only private households
+keep if inlist(pop,1,2)
+
+
+*Missings to systemmissings NA
+mvdecode _all, mv(-1/-8)
+
+
+*** Dimensionen
+* sampreg sex bula bildungsniveau alter_gr migback regtyp
+
+* Labels Dimensionen
+lab var sampreg "Ost-/ Westdeutschland"
+label define sampreg_lbl 1 "West" 2 "Ost"
+label values sampreg sampreg_lbl
+
+label define sex_lbl 1 "männlich" 2 "weiblich"
+label define sex_EN 1 "male" 2 "female"
+label values sex sex_lbl
+
+* warum 7 "Rheinland-Pfalz,Saarland" ?
+lab var bula "Bundesland"
+label define bula_lbl 1	"Schleswig-Holstein" 2	"Hamburg" 3	"Niedersachsen" 4	"Bremen" 5	"Nordrhein-Westfalen" 6	"Hessen" 7	"Rheinland-Pfalz,Saarland" 8	"Baden-Württemberg" 9	"Bayern" 10	"Saarland" 11	"Berlin" 12	"Brandenburg" 13	"Mecklenburg-Vorpommern" 14	"Sachsen" 15	"Sachsen-Anhalt" 16	"Thüringen"
+label values bula bula_lbl
+
+lab var regtyp "Stadt/Land"
+lab def regtyp_lbl 1 "städtischer Raum" 2 "ländlicher Raum"
+
+
+* Bildungsniveau: Zusammenfassung von pgcasmin
+gen bildungsniveau=pgcasmin
+recode bildungsniveau (0/1 = 1) (2/3=2) (4/5=3) (6/7=4) (8/9=5)
+label variable bildungsniveau "Bildungsniveau"
+label define bildungsniveau_lbl 1 "(noch) kein Abschluss" 2 "Hauptschule" 3 "Realschule" 4 "(Fach-)Abitur" 5 "AkademikerIn"
+label values bildungsniveau bildungsniveau_lbl
+
+* Altersgruppen
+gen alter= syear-gebjahr
+label variable alter "Alter"
+drop if alter<=16
+drop if alter>=2000
+gen alter_gr=alter
+recode alter_gr (16/34=1) (35/65=2) (66/max=3)
+label variable alter_gr "Altersgruppen"
+label define alter_gr_lbl 1 "16-34 J." 2 "35-65 J." 3 "66 und älter"
+label define alter_gr_EN 1 "16-34 y." 2 "35-65 y." 3 "66 and over"
+label values alter_gr alter_gr_lbl 
+tab alter_gr
+
+
+*** Variablen
+
+* kategorielle Variablen
+* party beruf pli0092_hpli0095_hpli0096_hpli0097_hpli0098_h plh0032 plh0033 plh0034 plh0035 plh0036 plh0037 plh0038 plh0039 plh0040 plh0042 plj0046 plj0047
+
+* Parteineigung
+clonevar party=plh0012_h
+recode party (-5 -4 -1=.) (-2=0) (1 10=2) (2/3 13=1) (4 11 14 22 23=3) (5 9 15=4) (6 16 17 20 24=5) (7 12 18 19 21 25=6) (27 30 31=7) (8 26=8)
+label var party "Parteineigung"
+label define party_lbl 0 "keine PN" 1 "CDU/CSU" 2 "SPD" 3 "FDP" 4 "Grüne" 5 "PDS/Linke" 6 "Rechtsextrem" 7 "AfD" 8 "Sonstige"
+label values party party_lbl
+
+
+* Berufsgruppen: Abhängig Beschäftigte mit einfachen Tätigkeiten, Abhängig Beschäftigte mit qualifizierten Tätigkeiten
+gen beruf=pgstib
+recode beruf (210 220 310 510 520 521 522=1) (230 240 250 320 330 340 530 540=2) (410/440 550 560=3) (11 110/150=4) (13=5) (12=6) (10 15=7) (610/640=8)
+label var beruf "Berufsgruppen"
+label define beruf_lbl 1 "Angestellte, einfache Tätigkeiten"	2 "Angestellte, qualifizierte Tätigkeiten" ///
+3 "Selbstständige/ManagerInnen" 4 "In Ausbildung"	5 "In Rente oder Pension"	6 "Arbeitslose"	7 "Sonstige Nichterwerbspersonen"	///
+8 "Beamte"
+label values beruf beruf_lbl
+
+
+* Vollzeit / Teilzeitbeschäftigte
+gen erwst=pgemplst
+recode erwst (3 4 = 6) 
+label define erwst_lbl 1 "Vollzeit" 2 "Teilzeit" 5 "Nicht erwerbstätig" 6 "Sonstiges"
+label define erwst_EN 1 "Full-time" 2 "Part-time" 5 "Non-working" 6 "Other"
+label values erwst erwst_lbl
+lab var erwst "Erwerbsstatus"
+
+* Branchen (für ZeithistorikerInnen) --> ergänzen (pgnace pgnace2)
+
+*** Labels kategorielle Variablen
+
+label var plh0012_h "Parteineigung"
+lab var	plh0032 "Sorgen um allgemeine wirtschaftliche Entwicklung"
+lab var plh0033 "Sorgen um eigene wirtschaftliche Situation"
+lab var	plh0034 "Sorgen um Stabilität der Finanzmärkte"
+lab var	plh0035 "Sorgen um eigene Gesundheit"
+lab var	plh0036 "Sorgen um Umweltschutz"
+lab var plh0037 "Sorgen um Klimawandelfolgen"
+lab var	plh0038 "Sorgen um Friedenserhaltung"
+lab var	plh0039 "Sorgen über globalen Terrorismus"
+lab var	plh0040 "Sorgen über Kriminalitätsentwicklung in Deutschland"
+lab var	plh0042 "Sorgen um Arbeitsplatzsicherheit"
+lab var	pli0092_h "Häufigkeit Aktiver Sport"
+lab var	pli0095_h "Häufigkeit Mithelfen bei Freunden, Verwandten"
+lab var	pli0096_h "Häufigkeit ehrenamtliche Tätigkeiten in Vereinen, Verbänden oder sozialen Diensten"
+lab var	pli0097_h "Häufgkeit Beteiligung in Bürgerinitiativen, in Parteien, in der Kommunalpolitik"
+lab var	pli0098_h "Häufigkeit Kirchgang, Besuch religiöser Veranstaltungen"
+lab var plj0046 "Sorgen über Zuwanderung"
+lab var	plj0047 "Sorgen über Ausländerfeindlichkeit"
+lab var pgemplst "Erwerbsstatus"
+
+
+*** Labels numerische Variablen
+
+label variable pglabgro	"Aktuelles Bruttoerwerbseinkommen in Euro"
+lab var	pglabnet "Aktuelles Nettoerwerbseinkommen in Euro"
+lab var	pgtatzeit "Tatsächliche Arbeitszeit pro Woche"
+lab var pgvebzeit "Vereinbarte Arbeitszeit pro Woche"
+lab var plh0164	"Zufriedenheit mit Schul- und Berufsausbildung"
+lab var	plh0166 "Allgemeine Lebenszufriedenheit in einem Jahr"
+lab var	plh0171 "Zufriedenheit mit Gesundheit"
+lab var	plh0172 "Zufriedenheit mit Schlaf"
+lab var	plh0173 "Zufriedenheit mit Arbeit"
+lab var	plh0174 "Zufriedenheit mit Haushalts-Tätigkeit"
+lab var	plh0175 "Zufriedenheit mit Haushalts-Einkommen"
+lab var	plh0176 "Zufriedenheit mit persönlichem Einkommen"
+lab var	plh0177 "Zufriedenheit mit Wohnung"
+lab var	plh0178 "Zufriedenheit mit Freizeit" 
+lab var	plh0179 "Zufriedenheit mit Kinderbetreuung"
+lab var	plh0180 "Zufriedenheit mit Familienleben"
+lab var	plh0181 "Zufriedenheit mit Freundes-, Bekanntenkreis"
+lab var	plh0182 "Allgemeine Lebenszufriedenheit gegenwärtig"
+lab var	plh0183 "Allgemeine Lebenszufriedenheit in 5 Jahren" 
+lab var y11101 "Verbraucherpreisindex"
+
+
+
+* Beobachtungen für 1984 löschen, um einheitliche Angaben zu erhalten:
+* aktiver Sport, helfen bei Freunden, Vereine, Parteien
+recode pli0092_h (6 7 8 =.) if syear==1984
+recode pli0095_h (6 7 8 =.) if syear==1984
+recode pli0096_h (6 7 8 =.) if syear==1984
+recode pli0097_h (6 7 8 =.) if syear==1984
+
+* Sorgen Labels
+foreach var of varlist plh003* plh004* plj004* {
+    label define `var'_lbl 1 "Große Sorgen" 2 "Einige Sorgen" 3 "Keine Sorgen"
+	lab val `var' `var'_lbl
+	lab drop `var'_EN
+	label define `var'_EN 1 "very concerned" 2 "somewhat concerned" 3 "not concerned" 
+}
+
+drop netto pop alter gebjahr plb0022_h plb0571 plh0012_h plh0258_h pglfs pgemplst pgstib pgisco88 pgisco08 pgoeffd pgisced97 pgcasmin pgpsbil hhgr
+
+
+* Speichern
+save ${save}p_statistics.dta, replace
