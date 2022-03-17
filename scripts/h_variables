@@ -1,0 +1,69 @@
+*******************************
+*** variables.csv erstellen	***
+*** Haushaltsdatensatz	*******
+*******************************
+
+clear all
+set more off
+capture log close
+
+global save "/Users/katjaschmidt/ownCloud/Transfer/Plattform/dta/"
+use "/Users/katjaschmidt/Desktop/SOEPdata/plattform/h_statistics.dta", clear
+
+
+global meanvar hgsize hgrent hgroom hhgr strom heizen umlage essen wohnk hinc_eq hlc0008_h ///
+		h11101 d11107 hlf0197 hlf0631 hlk0044 eigentum 
+global probvar hlf0071_hhlf0197 hlf0261 hlc0083_h hlf0151 hlf0291 hlf0188 ///
+		hlf0186 hlf0180 hlf0178_h hlc0052 hlc0113_h quintil ///
+		hgeqpgar hgeqpinsul hgeqpmglass hgeqpsol hgeqpter hlf0036 ///
+		hgowner hlc0061_h hlc0080_h hlc0083_h hlc0119_h hlc0178 hlc0180 hlc0182 ///
+		hlf0071_h hlf0192 hlf0613 hlf0632 hlf0633
+global demo syear sampreg bula_h regtyp hhtyp mieter quintil  
+
+* Spaltennamen für csv generieren: study, dataset, version, variable, meantable, proptable, template_id, label, label_de, concept, type, description, description_de, minedition
+
+describe _all, replace
+keep name type varlab
+
+gen study = "soep-core"
+gen dataset = "h_statistics"
+gen version = "v36"
+rename name variable
+gen meantable = ""
+gen probtable = ""
+gen template_id = ""
+gen label = ""
+rename varlab label_de
+gen concept = ""
+gen description = ""
+gen description_de = ""
+gen minedition = ""
+
+
+* meantable 
+foreach var of global meanvar {
+	replace meantable = "yes" if variable == "`var'"
+	replace probtable = "no" if variable == "`var'" 
+}
+
+* probtable
+foreach var of global probvar {
+replace meantable = "no" if variable == "`var'"
+replace probtable = "yes" if variable == "`var'" 
+}
+
+* dimensionen
+foreach var of global demo {
+replace meantable = "demo" if variable == "`var'"
+replace probtable = "demo" if variable == "`var'" 
+}
+
+order study dataset version variable meantable probtable template_id label label_de concept type description description_de minedition
+sort variable
+
+save ${save}h_variables.dta, replace
+
+* csv exportieren --> am besten direkt bei GIT pushen
+export delimited using "/Users/katjaschmidt/ownCloud/Transfer/Plattform/output/h/variables.csv", replace
+
+
