@@ -64,6 +64,6 @@ sort variable
 save ${save}h_variables.dta, replace
 
 * csv exportieren --> am besten direkt bei GIT pushen
-export delimited using "/Users/katjaschmidt/ownCloud/Transfer/Plattform/output/h/variables.csv", replace
+export delimited using "/Users/katjaschmidt/ownCloud/Transfer/Plattform/output/h/variables_h.csv", replace
 
 
