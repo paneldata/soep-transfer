@@ -1,5 +1,6 @@
 {
-  "title": "Zufriedenheit Familienleben",
+  "dataset": "p_statistics",
+  "title": "Zufriedenheit mit Familienleben",
   "variable": "plh0180",
   "statistics": ["mean", "median"],
   "dimensions": [
@@ -22,7 +23,7 @@
     },
     {
       "variable": "bula_h",
-      "label": "Bundesland lt. Statistik [harmonisiert]",
+      "label": "Bundesland",
       "values": [
         "Schleswig-Holstein",
         "Hamburg",
@@ -31,7 +32,7 @@
         "Nordrhein-Westfalen",
         "Hessen",
         "Rheinland-Pfalz,Saarland",
-        "Baden-Wuerttemberg",
+        "Baden-Württemberg",
         "Bayern",
         "Saarland",
         "Berlin",
@@ -39,7 +40,7 @@
         "Mecklenburg-Vorpommern",
         "Sachsen",
         "Sachsen-Anhalt",
-        "Thueringen"
+        "Thüringen"
       ]
     },
     {
@@ -55,7 +56,7 @@
     },
     {
       "variable": "sampreg",
-      "label": "Aktuelle Stichprobenregion (Berlin West-Ost)",
+      "label": "Ost-/ Westdeutschland",
       "values": [
         "Westdeutschland, alte Bundeslaender",
         "Ostdeutschland, neue Bundeslaender"
@@ -69,11 +70,41 @@
         "direkter Migrationshintergrund",
         "indirekter Migrationshintergrund"
       ]
+    },
+    {
+      "variable": "regtyp",
+      "label": "Stadt/Land",
+      "values": [
+        "Staedtischer Raum",
+        "Ländlicher Raum"
+      ]
+    },
+    {
+      "variable": [],
+      "label": [],
+      "values": [
+        "1-Pers.-HH",
+        "(Ehe-)Paar ohne Kind(er)",
+        "Alleinerziehende",
+        "Paar mit Kind(ern)",
+        "Sonstige"
+      ]
+    },
+    {
+      "variable": [],
+      "label": [],
+      "values": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ]
     }
   ],
   "description_de": "",
   "start_year": 2006,
-  "end_year": 2019,
+  "end_year": 2020,
   "types": [
     "numerical"
   ]
