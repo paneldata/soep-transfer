@@ -8,60 +8,70 @@
       "variable": "bula_h",
       "label": "Bundesland",
       "values": [
-        "Schleswig-Holstein",
-        "Hamburg",
-        "Niedersachsen",
-        "Bremen",
-        "Nordrhein-Westfalen",
-        "Hessen",
-        "Rheinland-Pfalz,Saarland",
-        "Baden-Württemberg",
-        "Bayern",
-        "Saarland",
-        "Berlin",
-        "Brandenburg",
-        "Mecklenburg-Vorpommern",
-        "Sachsen",
-        "Sachsen-Anhalt",
-        "Thüringen"
+        [
+          "Schleswig-Holstein",
+          "Hamburg",
+          "Niedersachsen",
+          "Bremen",
+          "Nordrhein-Westfalen",
+          "Hessen",
+          "Rheinland-Pfalz,Saarland",
+          "Baden-Württemberg",
+          "Bayern",
+          "Saarland",
+          "Berlin",
+          "Brandenburg",
+          "Mecklenburg-Vorpommern",
+          "Sachsen",
+          "Sachsen-Anhalt",
+          "Thüringen"
+        ]
       ]
     },
     {
       "variable": "sampreg",
       "label": "Ost-/ Westdeutschland",
       "values": [
-        "Westdeutschland, alte Bundeslaender",
-        "Ostdeutschland, neue Bundeslaender"
+        [
+          "West",
+          "Ost"
+        ]
       ]
     },
     {
       "variable": "regtyp",
       "label": "Siedlungsstruktur",
       "values": [
-        "Staedtischer Raum",
-        "Ländlicher Raum"
+        [
+          "Staedtischer Raum",
+          "Laendlicher Raum"
+        ]
       ]
     },
     {
       "variable": "hhtyp",
       "label": "Haushaltstyp",
       "values": [
-        "1-Pers.-HH",
-        "(Ehe-)Paar ohne Kind(er)",
-        "Alleinerziehende",
-        "Paar mit Kind(ern)",
-        "Sonstige"
+        [
+          "1-Pers.-HH",
+          "(Ehe-)Paar ohne Kind(er)",
+          "Alleinerziehende",
+          "Paar mit Kind(ern)",
+          "Sonstige"
+        ]
       ]
     },
     {
       "variable": "quintil",
       "label": "Netto-HH-Einkommens-Quintile",
       "values": [
-        "1",
-        "2",
-        "3",
-        "4",
-        "5"
+        [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5"
+        ]
       ]
     }
   ],
