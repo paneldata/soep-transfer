@@ -1,96 +1,83 @@
 {
   "dataset": "p_statistics",
-  "title": "Sorgen um allgemeine wirtschaftliche Entwicklung",
+  "title": "Sorgen allgemeine wirtschaftliche Entwicklung",
   "variable": "plh0032",
   "statistics": "percent",
   "dimensions": [
     {
-      "variable": "alter_gr",
-      "label": "Altersgruppen",
+      "variable": "age_gr",
+      "label": "Altersgruppe",
       "values": [
-        [
-          "16-34 J.",
-          "35-65 J.",
-          "66 und älter"
-        ]
+        "17-34",
+        "35-65",
+        "66 +"
       ]
     },
     {
       "variable": "sex",
       "label": "Geschlecht",
       "values": [
-        [
-          "männlich",
-          "weiblich"
-        ]
+        "maennlich",
+        "weiblich"
       ]
     },
     {
       "variable": "bula_h",
       "label": "Bundesland",
       "values": [
-        [
-          "Schleswig-Holstein",
-          "Hamburg",
-          "Niedersachsen",
-          "Bremen",
-          "Nordrhein-Westfalen",
-          "Hessen",
-          "Rheinland-Pfalz,Saarland",
-          "Baden-Württemberg",
-          "Bayern",
-          "Saarland",
-          "Berlin",
-          "Brandenburg",
-          "Mecklenburg-Vorpommern",
-          "Sachsen",
-          "Sachsen-Anhalt",
-          "Thüringen"
-        ]
+        "Schleswig-Holstein",
+        "Hamburg",
+        "Niedersachsen",
+        "Bremen",
+        "Nordrhein-Westfalen",
+        "Hessen",
+        "Rheinland-Pfalz,Saarland",
+        "Baden-Württemberg",
+        "Bayern",
+        "Saarland",
+        "Berlin",
+        "Brandenburg",
+        "Mecklenburg-Vorpommern",
+        "Sachsen",
+        "Sachsen-Anhalt",
+        "Thüringen"
       ]
     },
     {
       "variable": "bildungsniveau",
       "label": "Bildungsniveau",
       "values": [
-        [
-          "(noch) kein Abschluss",
-          "Hauptschule",
-          "Realschule",
-          "(Fach-)Abitur",
-          "AkademikerIn"
-        ]
+        "(noch) kein Abschluss",
+        "Hauptschule",
+        "Realschule",
+        "(Fach-)Abitur",
+        "AkademikerIn"
       ]
     },
     {
       "variable": "sampreg",
-      "label": "Ost-/ Westdeutschland",
+      "label": "Aktuelle Stichprobenregion (Berlin West-Ost)",
       "values": [
-        [
-          "West",
-          "Ost"
-        ]
+        "Westdeutschland",
+        "Ostdeutschland"
       ]
     },
     {
       "variable": "migback",
       "label": "Migrationshintergrund",
       "values": [
-        [
-          "kein Migrationshintergrund",
-          "direkter Migrationshintergrund",
-          "indirekter Migrationshintergrund"
-        ]
+        "kein Migrationshintergrund",
+        "direkter Migrationshintergrund",
+        "indirekter Migrationshintergrund",
+        "Migrationshintergrund - n. w. differenzierbar"
       ]
     },
     {
       "variable": "regtyp",
-      "label": "Stadt/Land",
+      "label": "Siedlungsstruktureller Regionsgrundtyp des BBSR",
       "values": [
-        [
-          "Staedtischer Raum",
-          "Laendlicher Raum"
-        ]
+        "Staedtischer Raum",
+        "Laendlicher Raum"
       ]
     }
   ],

@@ -1,0 +1,88 @@
+{
+  "dataset": "p_statistics",
+  "title": "Besuch von Sportveranstaltung",
+  "variable": "pli0089",
+  "statistics": "percent",
+  "dimensions": [
+    {
+      "variable": "age_gr",
+      "label": "Altersgruppe",
+      "values": [
+        "17-34",
+        "35-65",
+        "66 +"
+      ]
+    },
+    {
+      "variable": "sex",
+      "label": "Geschlecht",
+      "values": [
+        "maennlich",
+        "weiblich"
+      ]
+    },
+    {
+      "variable": "bula_h",
+      "label": "Bundesland",
+      "values": [
+        "Schleswig-Holstein",
+        "Hamburg",
+        "Niedersachsen",
+        "Bremen",
+        "Nordrhein-Westfalen",
+        "Hessen",
+        "Rheinland-Pfalz,Saarland",
+        "Baden-Württemberg",
+        "Bayern",
+        "Saarland",
+        "Berlin",
+        "Brandenburg",
+        "Mecklenburg-Vorpommern",
+        "Sachsen",
+        "Sachsen-Anhalt",
+        "Thüringen"
+      ]
+    },
+    {
+      "variable": "bildungsniveau",
+      "label": "Bildungsniveau",
+      "values": [
+        "(noch) kein Abschluss",
+        "Hauptschule",
+        "Realschule",
+        "(Fach-)Abitur",
+        "AkademikerIn"
+      ]
+    },
+    {
+      "variable": "sampreg",
+      "label": "Aktuelle Stichprobenregion (Berlin West-Ost)",
+      "values": [
+        "Westdeutschland",
+        "Ostdeutschland"
+      ]
+    },
+    {
+      "variable": "migback",
+      "label": "Migrationshintergrund",
+      "values": [
+        "kein Migrationshintergrund",
+        "direkter Migrationshintergrund",
+        "indirekter Migrationshintergrund",
+        "Migrationshintergrund - n. w. differenzierbar"
+      ]
+    },
+    {
+      "variable": "regtyp",
+      "label": "Siedlungsstruktureller Regionsgrundtyp des BBSR",
+      "values": [
+        "Staedtischer Raum",
+        "Laendlicher Raum"
+      ]
+    }
+  ],
+  "description_de": "",
+  "start_year": 1990,
+  "end_year": 2019,
+  "types": "categorical"
+}
