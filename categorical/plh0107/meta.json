@@ -1,83 +1,94 @@
 {
-  "dataset": "p_statistics",
   "title": "Wichtigkeit: Erfolg im Beruf haben",
   "variable": "plh0107",
-  "statistics": "percent",
+  "statistics": ["percent", "lower_confidence", "upper_confidence"],
   "dimensions": [
     {
       "variable": "age_gr",
       "label": "Altersgruppe",
       "values": [
-        "17-34",
-        "35-65",
-        "66 +"
-      ]
-    },
-    {
-      "variable": "sex",
-      "label": "Geschlecht",
-      "values": [
-        "maennlich",
-        "weiblich"
-      ]
-    },
-    {
-      "variable": "bula_h",
-      "label": "Bundesland",
-      "values": [
-        "Schleswig-Holstein",
-        "Hamburg",
-        "Niedersachsen",
-        "Bremen",
-        "Nordrhein-Westfalen",
-        "Hessen",
-        "Rheinland-Pfalz,Saarland",
-        "Baden-Württemberg",
-        "Bayern",
-        "Saarland",
-        "Berlin",
-        "Brandenburg",
-        "Mecklenburg-Vorpommern",
-        "Sachsen",
-        "Sachsen-Anhalt",
-        "Thüringen"
+        [
+          "17-34",
+          "35-65",
+          "66 +"
+        ]
       ]
     },
     {
       "variable": "bildungsniveau",
       "label": "Bildungsniveau",
       "values": [
-        "(noch) kein Abschluss",
-        "Hauptschule",
-        "Realschule",
-        "(Fach-)Abitur",
-        "AkademikerIn"
+        [
+          "(noch) kein Abschluss",
+          "Hauptschule",
+          "Realschule",
+          "(Fach-)Abitur",
+          "AkademikerIn"
+        ]
       ]
     },
     {
-      "variable": "sampreg",
-      "label": "Aktuelle Stichprobenregion (Berlin West-Ost)",
+      "variable": "bula_h",
+      "label": "Bundesland",
       "values": [
-        "Westdeutschland",
-        "Ostdeutschland"
+        [
+          "Schleswig-Holstein",
+          "Hamburg",
+          "Niedersachsen",
+          "Bremen",
+          "Nordrhein-Westfalen",
+          "Hessen",
+          "Rheinland-Pfalz,Saarland",
+          "Baden-Wuerttemberg",
+          "Bayern",
+          "Berlin",
+          "Brandenburg",
+          "Mecklenburg-Vorpommern",
+          "Sachsen",
+          "Sachsen-Anhalt",
+          "Thueringen"
+        ]
       ]
     },
     {
       "variable": "migback",
       "label": "Migrationshintergrund",
       "values": [
-        "kein Migrationshintergrund",
-        "direkter Migrationshintergrund",
-        "indirekter Migrationshintergrund",
-        "Migrationshintergrund - n. w. differenzierbar"
+        [
+          "kein Migrationshintergrund",
+          "direkter Migrationshintergrund",
+          "indirekter Migrationshintergrund"
+        ]
       ]
     },
     {
       "variable": "regtyp",
       "label": "Siedlungsstruktureller Regionsgrundtyp des BBSR",
       "values": [
-        "Staedtischer Raum",
-        "Laendlicher Raum"
+        [
+          "Staedtischer Raum",
+          "Laendlicher Raum"
+        ]
+      ]
+    },
+    {
+      "variable": "sampreg",
+      "label": "Aktuelle Stichprobenregion (Berlin West-Ost)",
+      "values": [
+        [
+          "Westdeutschland",
+          "Ostdeutschland"
+        ]
+      ]
+    },
+    {
+      "variable": "sex",
+      "label": "Geschlecht",
+      "values": [
+        [
+          "maennlich",
+          "weiblich"
+        ]
       ]
     }
   ],
