@@ -1,7 +1,7 @@
 {
   "title": "Gesundheitszustand gegenwaertig",
   "variable": "ple0008",
-  "statistics": ["percent", "lower_confidence", "upper_confidence"],
+  "statistics": ["percent", "lowerconfidence_percent", "upperconfidence_percent"],
   "dimensions": [
     {
       "variable": "age_gr",
