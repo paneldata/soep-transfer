@@ -1,98 +1,87 @@
 {
+  "dataset": "p_statistics",
   "title": "Marital Status",
   "variable": "pgfamstd",
-  "statistics": ["percent", "lower_confidence_percent", "upper_confidence_percent"],
+  "statistics": "percent",
   "dimensions": [
     {
       "variable": "age_gr",
       "label": "Altersgruppe",
       "values": [
-        [
-          "17-34",
-          "35-65",
-          "66 +"
-        ]
-      ]
-    },
-    {
-      "variable": "bildungsniveau",
-      "label": "Bildungsniveau",
-      "values": [
-        [
-          "(noch) kein Abschluss",
-          "Hauptschule",
-          "Realschule",
-          "(Fach-)Abitur",
-          "AkademikerIn"
-        ]
-      ]
-    },
-    {
-      "variable": "bula_h",
-      "label": "Bundesland",
-      "values": [
-        [
-          "Schleswig-Holstein",
-          "Hamburg",
-          "Niedersachsen",
-          "Bremen",
-          "Nordrhein-Westfalen",
-          "Hessen",
-          "Rheinland-Pfalz,Saarland",
-          "Baden-Wuerttemberg",
-          "Bayern",
-          "Berlin",
-          "Brandenburg",
-          "Mecklenburg-Vorpommern",
-          "Sachsen",
-          "Sachsen-Anhalt",
-          "Thueringen"
-        ]
-      ]
-    },
-    {
-      "variable": "migback",
-      "label": "Migrationshintergrund",
-      "values": [
-        [
-          "kein Migrationshintergrund",
-          "direkter Migrationshintergrund",
-          "indirekter Migrationshintergrund"
-        ]
-      ]
-    },
-    {
-      "variable": "regtyp",
-      "label": "Siedlungsstruktureller Regionsgrundtyp des BBSR",
-      "values": [
-        [
-          "Staedtischer Raum",
-          "Laendlicher Raum"
-        ]
-      ]
-    },
-    {
-      "variable": "sampreg",
-      "label": "Aktuelle Stichprobenregion (Berlin West-Ost)",
-      "values": [
-        [
-          "Westdeutschland",
-          "Ostdeutschland"
-        ]
+        "17-34",
+        "35-65",
+        "66 +"
       ]
     },
     {
       "variable": "sex",
       "label": "Geschlecht",
       "values": [
-        [
-          "maennlich",
-          "weiblich"
-        ]
+        "maennlich",
+        "weiblich"
+      ]
+    },
+    {
+      "variable": "bula_h",
+      "label": "Bundesland",
+      "values": [
+        "Schleswig-Holstein",
+        "Hamburg",
+        "Niedersachsen",
+        "Bremen",
+        "Nordrhein-Westfalen",
+        "Hessen",
+        "Rheinland-Pfalz,Saarland",
+        "Baden-Württemberg",
+        "Bayern",
+        "Saarland",
+        "Berlin",
+        "Brandenburg",
+        "Mecklenburg-Vorpommern",
+        "Sachsen",
+        "Sachsen-Anhalt",
+        "Thüringen"
+      ]
+    },
+    {
+      "variable": "bildungsniveau",
+      "label": "Bildungsniveau",
+      "values": [
+        "(noch) kein Abschluss",
+        "Hauptschule",
+        "Realschule",
+        "(Fach-)Abitur",
+        "AkademikerIn"
+      ]
+    },
+    {
+      "variable": "sampreg",
+      "label": "Aktuelle Stichprobenregion (Berlin West-Ost)",
+      "values": [
+        "Westdeutschland",
+        "Ostdeutschland"
+      ]
+    },
+    {
+      "variable": "migback",
+      "label": "Migrationshintergrund",
+      "values": [
+        "kein Migrationshintergrund",
+        "direkter Migrationshintergrund",
+        "indirekter Migrationshintergrund",
+        "Migrationshintergrund - n. w. differenzierbar"
+      ]
+    },
+    {
+      "variable": "regtyp",
+      "label": "Siedlungsstruktureller Regionsgrundtyp des BBSR",
+      "values": [
+        "Staedtischer Raum",
+        "Laendlicher Raum"
       ]
     }
   ],
-  "description_de": "",
+  "description_de": "Marital status is describing the institutional status of marriage at the time of the person interview. Marital status is based on information given by the respective person on his or her current relationship as well as on retrospective information about previous relationships asked in the biography questionnaire. Information on marital status when a child was born (provided in the biography information) is not used here, so contradicting information to file BIOBIRTH might still be possible. For those whose partner was identified within the household, marital status is counter-checked with the information given by the partner. Where contradictions can be found, indication of the person information is compiled if reasonable. If no information is available, the indication by position related to head of household is deferred. Remaining contradictions are solved using information on marriage status when a child was born as well as future reports on a given relationship. Marital status is only available for people, who were interviewed. Data on marital status provided here is generated from and hence consistent with the corresponding BIOMARSY file, although value labels differ between PGFAMSTD and SPELLTYP in BIOMARSY. Note that marital status in a specific wave can be different between data distributions due to consistency checks using up-to-date information from following waves. Because of the newly introduced construction process of BIOMARSY, changes might be more than usual. Above, the partner indicator PGPARTZ supplied here in dataset PGEN as well might not match the information provided in PGFAMSTD in its entirety.",
   "start_year": 1984,
   "end_year": 2020,
   "types": "categorical"
