@@ -1,5 +1,5 @@
 {
-  "title": "Marital Status",
+  "title": "Familienstand",
   "variable": "pgfamstd",
   "statistics": ["percent", "lower_confidence_percent", "upper_confidence_percent"],
   "dimensions": [
@@ -8,8 +8,9 @@
       "label": "Altersgruppe",
       "values": [
         [
-          "17-34",
-          "35-65",
+          "17-29",
+          "30-45",
+          "46-65",
           "66 +"
         ]
       ]
@@ -39,14 +40,14 @@
           "Nordrhein-Westfalen",
           "Hessen",
           "Rheinland-Pfalz,Saarland",
-          "Baden-Wuerttemberg",
+          "Baden-Württemberg",
           "Bayern",
           "Berlin",
           "Brandenburg",
           "Mecklenburg-Vorpommern",
           "Sachsen",
           "Sachsen-Anhalt",
-          "Thueringen"
+          "Thüringen"
         ]
       ]
     },
@@ -63,17 +64,17 @@
     },
     {
       "variable": "regtyp",
-      "label": "Siedlungsstruktureller Regionsgrundtyp des BBSR",
+      "label": "Stadt/Land",
       "values": [
         [
-          "Staedtischer Raum",
-          "Laendlicher Raum"
+          "Städtischer Raum",
+          "Ländlicher Raum"
         ]
       ]
     },
     {
       "variable": "sampreg",
-      "label": "Aktuelle Stichprobenregion (Berlin West-Ost)",
+      "label": "Ost-/Westdeutschland",
       "values": [
         [
           "Westdeutschland",
@@ -86,13 +87,26 @@
       "label": "Geschlecht",
       "values": [
         [
-          "maennlich",
+          "männlich",
           "weiblich"
+        ]
+      ]
+    },
+    {
+      "variable": "quintil_oecd",
+      "label": "HH-Einkommensquintil",
+      "values": [
+        [
+          "1 Einkommensschwächstes Quintil",
+          "2",
+          "3",
+          "4",
+          "5 Einkommensstärkstes Quintil"
         ]
       ]
     }
   ],
-  "description_de": "",
+  "description_de": "Die Kategorien beinhalten: „zusammenlebend“ = verheiratet / in eingetr. gleichgeschlechtlicher Partnerschaft, zusammenlebend; „dauernd getrennt leben“ = Verheiratet / in eingetr. gleichgeschlechtlicher Partnerschaft, dauernd getrennt lebend; „Geschieden“ = geschieden oder eingetr. gleichgeschlechtliche Partnerschaft aufgehoben; „Verwitwet“ = verwitwet / Lebenspartner/-in aus eingetr. gleichgeschlechtlicher Partnerschaft verstorben",
   "start_year": 1984,
   "end_year": 2020,
   "types": "categorical"

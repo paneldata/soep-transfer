@@ -1,5 +1,5 @@
 {
-  "title": "Koerpergroesse in cm",
+  "title": "Körpergroesse in cm",
   "variable": "ple0006",
   "statistics": ["mean", "lower_confidence_mean", "upper_confidence_mean", "minimum", "maximum", "median", "lower_confidence_median", "lower_confidence_median", "percentile_10", "percentile_25", "percentile_75", "percentile_90", "percentile_99"],
   "dimensions": [
@@ -8,8 +8,9 @@
       "label": "Altersgruppe",
       "values": [
         [
-          "17-34",
-          "35-65",
+          "17-29",
+          "30-45",
+          "46-65",
           "66 +"
         ]
       ]
@@ -39,14 +40,14 @@
           "Nordrhein-Westfalen",
           "Hessen",
           "Rheinland-Pfalz,Saarland",
-          "Baden-Wuerttemberg",
+          "Baden-Württemberg",
           "Bayern",
           "Berlin",
           "Brandenburg",
           "Mecklenburg-Vorpommern",
           "Sachsen",
           "Sachsen-Anhalt",
-          "Thueringen"
+          "Thüringen"
         ]
       ]
     },
@@ -63,17 +64,17 @@
     },
     {
       "variable": "regtyp",
-      "label": "Siedlungsstruktureller Regionsgrundtyp des BBSR",
+      "label": "Stadt/Land",
       "values": [
         [
-          "Staedtischer Raum",
-          "Laendlicher Raum"
+          "Städtischer Raum",
+          "Ländlicher Raum"
         ]
       ]
     },
     {
       "variable": "sampreg",
-      "label": "Aktuelle Stichprobenregion (Berlin West-Ost)",
+      "label": "Ost-/Westdeutschland",
       "values": [
         [
           "Westdeutschland",
@@ -86,8 +87,21 @@
       "label": "Geschlecht",
       "values": [
         [
-          "maennlich",
+          "männlich",
           "weiblich"
+        ]
+      ]
+    },
+    {
+      "variable": "quintil_oecd",
+      "label": "HH-Einkommensquintil",
+      "values": [
+        [
+          "1 Einkommensschwächstes Quintil",
+          "2",
+          "3",
+          "4",
+          "5 Einkommensstärkstes Quintil"
         ]
       ]
     }
