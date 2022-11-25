@@ -3,13 +3,13 @@ from pathlib import Path
 
 import pandas
 
-transfer_path = Path("./").absolute()
+statistics_path = Path("./").absolute()
 core_path = Path("../").absolute()
-if transfer_path.name != "transfer":
-    transfer_path = transfer_path.joinpath("transfer")
+if statistics_path.name != "statistics":
+    statistics_path = statistics_path.joinpath("statistics")
     core_path = Path("./").absolute()
 
-statistics_variables = pandas.read_csv(transfer_path.joinpath("metadata/variables.csv"))
+statistics_variables = pandas.read_csv(statistics_path.joinpath("metadata/variables.csv"))
 
 
 def statistics_type(row: pandas.Series) -> str:
