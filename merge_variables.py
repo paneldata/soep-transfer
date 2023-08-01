@@ -31,7 +31,7 @@ statistics_variables["statistics"] = statistics_variables["type"] != ""
 
 # %%
 core_path = core_path.joinpath("metadata")
-core_datasets = pandas.read_csv(core_path.joinpath("datasets.csv"))
+core_datasets = pandas.read_csv(core_path.joinpath("datasets.csv"), dtype={"period": str})
 core_variables = pandas.read_csv(core_path.joinpath("variables.csv"))
 core_variables["statistics"] = False
 core_columns = list(core_variables.columns)
