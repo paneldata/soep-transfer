@@ -1,649 +1,257 @@
-"plh0105","year","age_gr","sex","n","percent","lower_confidence","upper_confidence"
-"1 Sehr wichtig","1990","17-34","maennlich","217","0.154330704678713","0.134819609191444","0.173841800165981"
-"1 Sehr wichtig","1990","17-34","weiblich","394","0.291465270936943","0.266714588090911","0.316215953782976"
-"1 Sehr wichtig","1990","35-65","maennlich","260","0.156169996701151","0.138862628986945","0.173477364415356"
-"1 Sehr wichtig","1990","35-65","weiblich","458","0.255111989804234","0.234894916268562","0.275329063339905"
-"1 Sehr wichtig","1990","66 +","maennlich","70","0.174952376510058","0.137766729990563","0.212138023029554"
-"1 Sehr wichtig","1990","66 +","weiblich","169","0.258323108977269","0.223729208125897","0.292917009828641"
-"2 Wichtig","1990","17-34","maennlich","916","0.703257754222443","0.67858587911908","0.727929629325806"
-"2 Wichtig","1990","17-34","weiblich","805","0.629892861658209","0.603595614939334","0.656190108377084"
-"2 Wichtig","1990","35-65","maennlich","1204","0.701240708690819","0.67941848471102","0.723062932670619"
-"2 Wichtig","1990","35-65","weiblich","1211","0.676193417203981","0.654492121249432","0.69789471315853"
-"2 Wichtig","1990","66 +","maennlich","274","0.679349526505611","0.633668223199421","0.725030829811801"
-"2 Wichtig","1990","66 +","weiblich","371","0.608548010790731","0.569973785833704","0.647122235747758"
-"3 Weniger wichtig","1990","17-34","maennlich","176","0.137002366886807","0.118431847904849","0.155572885868765"
-"3 Weniger wichtig","1990","17-34","weiblich","87","0.0726192647826286","0.0584851645890567","0.0867533649762006"
-"3 Weniger wichtig","1990","35-65","maennlich","213","0.132926545068084","0.116740582094802","0.149112508041365"
-"3 Weniger wichtig","1990","35-65","weiblich","111","0.0662260054517624","0.0546929990956602","0.0777590118078646"
-"3 Weniger wichtig","1990","66 +","maennlich","48","0.123354614302744","0.0911687200431758","0.155540508562311"
-"3 Weniger wichtig","1990","66 +","weiblich","61","0.107408543089618","0.0829372843497827","0.131879801829453"
-"4 Ganz unwichtig","1990","17-34","maennlich","","","",""
-"4 Ganz unwichtig","1990","17-34","weiblich","","","",""
-"4 Ganz unwichtig","1990","35-65","maennlich","","","",""
-"4 Ganz unwichtig","1990","35-65","weiblich","","","",""
-"4 Ganz unwichtig","1990","66 +","maennlich","","","",""
-"4 Ganz unwichtig","1990","66 +","weiblich","","","",""
-"1 Sehr wichtig","1991","17-34","maennlich","","","",""
-"1 Sehr wichtig","1991","17-34","weiblich","","","",""
-"1 Sehr wichtig","1991","35-65","maennlich","","","",""
-"1 Sehr wichtig","1991","35-65","weiblich","","","",""
-"1 Sehr wichtig","1991","66 +","maennlich","","","",""
-"1 Sehr wichtig","1991","66 +","weiblich","","","",""
-"2 Wichtig","1991","17-34","maennlich","","","",""
-"2 Wichtig","1991","17-34","weiblich","","","",""
-"2 Wichtig","1991","35-65","maennlich","","","",""
-"2 Wichtig","1991","35-65","weiblich","","","",""
-"2 Wichtig","1991","66 +","maennlich","","","",""
-"2 Wichtig","1991","66 +","weiblich","","","",""
-"3 Weniger wichtig","1991","17-34","maennlich","","","",""
-"3 Weniger wichtig","1991","17-34","weiblich","","","",""
-"3 Weniger wichtig","1991","35-65","maennlich","","","",""
-"3 Weniger wichtig","1991","35-65","weiblich","","","",""
-"3 Weniger wichtig","1991","66 +","maennlich","","","",""
-"3 Weniger wichtig","1991","66 +","weiblich","","","",""
-"4 Ganz unwichtig","1991","17-34","maennlich","","","",""
-"4 Ganz unwichtig","1991","17-34","weiblich","","","",""
-"4 Ganz unwichtig","1991","35-65","maennlich","","","",""
-"4 Ganz unwichtig","1991","35-65","weiblich","","","",""
-"4 Ganz unwichtig","1991","66 +","maennlich","","","",""
-"4 Ganz unwichtig","1991","66 +","weiblich","","","",""
-"1 Sehr wichtig","1992","17-34","maennlich","392","0.194384041403732","0.176724626467024","0.21204345634044"
-"1 Sehr wichtig","1992","17-34","weiblich","712","0.363233605976371","0.342145701402756","0.384321510549985"
-"1 Sehr wichtig","1992","35-65","maennlich","489","0.175750149820251","0.161517162852374","0.189983136788128"
-"1 Sehr wichtig","1992","35-65","weiblich","760","0.267775225397888","0.251606199071293","0.283944251724483"
-"1 Sehr wichtig","1992","66 +","maennlich","96","0.178667116169323","0.145992307808866","0.211341924529779"
-"1 Sehr wichtig","1992","66 +","weiblich","192","0.192979792571155","0.16675653824148","0.219203046900829"
-"2 Wichtig","1992","17-34","maennlich","1301","0.682963587969588","0.662198425933613","0.703728750005563"
-"2 Wichtig","1992","17-34","weiblich","1146","0.574042885092467","0.552360579718912","0.595725190466023"
-"2 Wichtig","1992","35-65","maennlich","1853","0.665806764755673","0.648167044628157","0.68344648488319"
-"2 Wichtig","1992","35-65","weiblich","1919","0.662716494399985","0.645452634482647","0.679980354317324"
-"2 Wichtig","1992","66 +","maennlich","346","0.646335583011199","0.605554773156427","0.687116392865972"
-"2 Wichtig","1992","66 +","weiblich","547","0.638127706705337","0.606196161738589","0.670059251672084"
-"3 Weniger wichtig","1992","17-34","maennlich","223","0.116165063410877","0.101866074598024","0.130464052223731"
-"3 Weniger wichtig","1992","17-34","weiblich","136","0.0609212122751938","0.0504333824284218","0.0714090421219658"
-"3 Weniger wichtig","1992","35-65","maennlich","386","0.150929486360786","0.137542658223491","0.164316314498081"
-"3 Weniger wichtig","1992","35-65","weiblich","184","0.0631556102999635","0.0542735000376291","0.072037720562298"
-"3 Weniger wichtig","1992","66 +","maennlich","71","0.148190565280085","0.117885680990936","0.178495449569234"
-"3 Weniger wichtig","1992","66 +","weiblich","105","0.132034389888254","0.109539531924133","0.154529247852376"
-"4 Ganz unwichtig","1992","17-34","maennlich","","","",""
-"4 Ganz unwichtig","1992","17-34","weiblich","","","",""
-"4 Ganz unwichtig","1992","35-65","maennlich","","","",""
-"4 Ganz unwichtig","1992","35-65","weiblich","","","",""
-"4 Ganz unwichtig","1992","66 +","maennlich","","","",""
-"4 Ganz unwichtig","1992","66 +","weiblich","","","",""
-"1 Sehr wichtig","1993","17-34","maennlich","","","",""
-"1 Sehr wichtig","1993","17-34","weiblich","","","",""
-"1 Sehr wichtig","1993","35-65","maennlich","","","",""
-"1 Sehr wichtig","1993","35-65","weiblich","","","",""
-"1 Sehr wichtig","1993","66 +","maennlich","","","",""
-"1 Sehr wichtig","1993","66 +","weiblich","","","",""
-"2 Wichtig","1993","17-34","maennlich","","","",""
-"2 Wichtig","1993","17-34","weiblich","","","",""
-"2 Wichtig","1993","35-65","maennlich","","","",""
-"2 Wichtig","1993","35-65","weiblich","","","",""
-"2 Wichtig","1993","66 +","maennlich","","","",""
-"2 Wichtig","1993","66 +","weiblich","","","",""
-"3 Weniger wichtig","1993","17-34","maennlich","","","",""
-"3 Weniger wichtig","1993","17-34","weiblich","","","",""
-"3 Weniger wichtig","1993","35-65","maennlich","","","",""
-"3 Weniger wichtig","1993","35-65","weiblich","","","",""
-"3 Weniger wichtig","1993","66 +","maennlich","","","",""
-"3 Weniger wichtig","1993","66 +","weiblich","","","",""
-"4 Ganz unwichtig","1993","17-34","maennlich","","","",""
-"4 Ganz unwichtig","1993","17-34","weiblich","","","",""
-"4 Ganz unwichtig","1993","35-65","maennlich","","","",""
-"4 Ganz unwichtig","1993","35-65","weiblich","","","",""
-"4 Ganz unwichtig","1993","66 +","maennlich","","","",""
-"4 Ganz unwichtig","1993","66 +","weiblich","","","",""
-"1 Sehr wichtig","1994","17-34","maennlich","","","",""
-"1 Sehr wichtig","1994","17-34","weiblich","","","",""
-"1 Sehr wichtig","1994","35-65","maennlich","","","",""
-"1 Sehr wichtig","1994","35-65","weiblich","","","",""
-"1 Sehr wichtig","1994","66 +","maennlich","","","",""
-"1 Sehr wichtig","1994","66 +","weiblich","","","",""
-"2 Wichtig","1994","17-34","maennlich","","","",""
-"2 Wichtig","1994","17-34","weiblich","","","",""
-"2 Wichtig","1994","35-65","maennlich","","","",""
-"2 Wichtig","1994","35-65","weiblich","","","",""
-"2 Wichtig","1994","66 +","maennlich","","","",""
-"2 Wichtig","1994","66 +","weiblich","","","",""
-"3 Weniger wichtig","1994","17-34","maennlich","","","",""
-"3 Weniger wichtig","1994","17-34","weiblich","","","",""
-"3 Weniger wichtig","1994","35-65","maennlich","","","",""
-"3 Weniger wichtig","1994","35-65","weiblich","","","",""
-"3 Weniger wichtig","1994","66 +","maennlich","","","",""
-"3 Weniger wichtig","1994","66 +","weiblich","","","",""
-"4 Ganz unwichtig","1994","17-34","maennlich","","","",""
-"4 Ganz unwichtig","1994","17-34","weiblich","","","",""
-"4 Ganz unwichtig","1994","35-65","maennlich","","","",""
-"4 Ganz unwichtig","1994","35-65","weiblich","","","",""
-"4 Ganz unwichtig","1994","66 +","maennlich","","","",""
-"4 Ganz unwichtig","1994","66 +","weiblich","","","",""
-"1 Sehr wichtig","1995","17-34","maennlich","489","0.238301116457433","0.219391379686598","0.257210853228269"
-"1 Sehr wichtig","1995","17-34","weiblich","780","0.380533179781029","0.359355166248383","0.401711193313676"
-"1 Sehr wichtig","1995","35-65","maennlich","500","0.168965659887408","0.155140241089774","0.182791078685043"
-"1 Sehr wichtig","1995","35-65","weiblich","861","0.280454225806277","0.264224425824098","0.296684025788455"
-"1 Sehr wichtig","1995","66 +","maennlich","114","0.202455361923236","0.168781217567749","0.236129506278723"
-"1 Sehr wichtig","1995","66 +","weiblich","265","0.27486161168964","0.245726793312632","0.303996430066649"
-"2 Wichtig","1995","17-34","maennlich","1278","0.657122257753533","0.63605424749405","0.678190268013015"
-"2 Wichtig","1995","17-34","weiblich","1135","0.573926926308","0.552356919785857","0.595496932830144"
-"2 Wichtig","1995","35-65","maennlich","1987","0.707680866910405","0.69089990180349","0.72446183201732"
-"2 Wichtig","1995","35-65","weiblich","1920","0.660139138394421","0.643026330383359","0.677251946405482"
-"2 Wichtig","1995","66 +","maennlich","348","0.626283946058769","0.585741406909872","0.666826485207665"
-"2 Wichtig","1995","66 +","weiblich","546","0.616869399962092","0.585143433860739","0.648595366063445"
-"3 Weniger wichtig","1995","17-34","maennlich","175","0.100555020210808","0.0872069044244735","0.113903135997143"
-"3 Weniger wichtig","1995","17-34","weiblich","96","0.0401327869873604","0.031571576590483","0.0486939973842378"
-"3 Weniger wichtig","1995","35-65","maennlich","309","0.113277414504144","0.101584167181939","0.12497066182635"
-"3 Weniger wichtig","1995","35-65","weiblich","145","0.0521428533324916","0.044110888453426","0.0601748182115572"
-"3 Weniger wichtig","1995","66 +","maennlich","75","0.155879485418672","0.125481056602831","0.186277914234512"
-"3 Weniger wichtig","1995","66 +","weiblich","75","0.0894601647126467","0.0708346130740021","0.108085716351291"
-"4 Ganz unwichtig","1995","17-34","maennlich","","","",""
-"4 Ganz unwichtig","1995","17-34","weiblich","","","",""
-"4 Ganz unwichtig","1995","35-65","maennlich","","","",""
-"4 Ganz unwichtig","1995","35-65","weiblich","","","",""
-"4 Ganz unwichtig","1995","66 +","maennlich","","","",""
-"4 Ganz unwichtig","1995","66 +","weiblich","","","",""
-"1 Sehr wichtig","1996","17-34","maennlich","","","",""
-"1 Sehr wichtig","1996","17-34","weiblich","","","",""
-"1 Sehr wichtig","1996","35-65","maennlich","","","",""
-"1 Sehr wichtig","1996","35-65","weiblich","","","",""
-"1 Sehr wichtig","1996","66 +","maennlich","","","",""
-"1 Sehr wichtig","1996","66 +","weiblich","","","",""
-"2 Wichtig","1996","17-34","maennlich","","","",""
-"2 Wichtig","1996","17-34","weiblich","","","",""
-"2 Wichtig","1996","35-65","maennlich","","","",""
-"2 Wichtig","1996","35-65","weiblich","","","",""
-"2 Wichtig","1996","66 +","maennlich","","","",""
-"2 Wichtig","1996","66 +","weiblich","","","",""
-"3 Weniger wichtig","1996","17-34","maennlich","","","",""
-"3 Weniger wichtig","1996","17-34","weiblich","","","",""
-"3 Weniger wichtig","1996","35-65","maennlich","","","",""
-"3 Weniger wichtig","1996","35-65","weiblich","","","",""
-"3 Weniger wichtig","1996","66 +","maennlich","","","",""
-"3 Weniger wichtig","1996","66 +","weiblich","","","",""
-"4 Ganz unwichtig","1996","17-34","maennlich","","","",""
-"4 Ganz unwichtig","1996","17-34","weiblich","","","",""
-"4 Ganz unwichtig","1996","35-65","maennlich","","","",""
-"4 Ganz unwichtig","1996","35-65","weiblich","","","",""
-"4 Ganz unwichtig","1996","66 +","maennlich","","","",""
-"4 Ganz unwichtig","1996","66 +","weiblich","","","",""
-"1 Sehr wichtig","1997","17-34","maennlich","","","",""
-"1 Sehr wichtig","1997","17-34","weiblich","","","",""
-"1 Sehr wichtig","1997","35-65","maennlich","","","",""
-"1 Sehr wichtig","1997","35-65","weiblich","","","",""
-"1 Sehr wichtig","1997","66 +","maennlich","","","",""
-"1 Sehr wichtig","1997","66 +","weiblich","","","",""
-"2 Wichtig","1997","17-34","maennlich","","","",""
-"2 Wichtig","1997","17-34","weiblich","","","",""
-"2 Wichtig","1997","35-65","maennlich","","","",""
-"2 Wichtig","1997","35-65","weiblich","","","",""
-"2 Wichtig","1997","66 +","maennlich","","","",""
-"2 Wichtig","1997","66 +","weiblich","","","",""
-"3 Weniger wichtig","1997","17-34","maennlich","","","",""
-"3 Weniger wichtig","1997","17-34","weiblich","","","",""
-"3 Weniger wichtig","1997","35-65","maennlich","","","",""
-"3 Weniger wichtig","1997","35-65","weiblich","","","",""
-"3 Weniger wichtig","1997","66 +","maennlich","","","",""
-"3 Weniger wichtig","1997","66 +","weiblich","","","",""
-"4 Ganz unwichtig","1997","17-34","maennlich","","","",""
-"4 Ganz unwichtig","1997","17-34","weiblich","","","",""
-"4 Ganz unwichtig","1997","35-65","maennlich","","","",""
-"4 Ganz unwichtig","1997","35-65","weiblich","","","",""
-"4 Ganz unwichtig","1997","66 +","maennlich","","","",""
-"4 Ganz unwichtig","1997","66 +","weiblich","","","",""
-"1 Sehr wichtig","1998","17-34","maennlich","","","",""
-"1 Sehr wichtig","1998","17-34","weiblich","","","",""
-"1 Sehr wichtig","1998","35-65","maennlich","","","",""
-"1 Sehr wichtig","1998","35-65","weiblich","","","",""
-"1 Sehr wichtig","1998","66 +","maennlich","","","",""
-"1 Sehr wichtig","1998","66 +","weiblich","","","",""
-"2 Wichtig","1998","17-34","maennlich","","","",""
-"2 Wichtig","1998","17-34","weiblich","","","",""
-"2 Wichtig","1998","35-65","maennlich","","","",""
-"2 Wichtig","1998","35-65","weiblich","","","",""
-"2 Wichtig","1998","66 +","maennlich","","","",""
-"2 Wichtig","1998","66 +","weiblich","","","",""
-"3 Weniger wichtig","1998","17-34","maennlich","","","",""
-"3 Weniger wichtig","1998","17-34","weiblich","","","",""
-"3 Weniger wichtig","1998","35-65","maennlich","","","",""
-"3 Weniger wichtig","1998","35-65","weiblich","","","",""
-"3 Weniger wichtig","1998","66 +","maennlich","","","",""
-"3 Weniger wichtig","1998","66 +","weiblich","","","",""
-"4 Ganz unwichtig","1998","17-34","maennlich","","","",""
-"4 Ganz unwichtig","1998","17-34","weiblich","","","",""
-"4 Ganz unwichtig","1998","35-65","maennlich","","","",""
-"4 Ganz unwichtig","1998","35-65","weiblich","","","",""
-"4 Ganz unwichtig","1998","66 +","maennlich","","","",""
-"4 Ganz unwichtig","1998","66 +","weiblich","","","",""
-"1 Sehr wichtig","1999","17-34","maennlich","","","",""
-"1 Sehr wichtig","1999","17-34","weiblich","","","",""
-"1 Sehr wichtig","1999","35-65","maennlich","","","",""
-"1 Sehr wichtig","1999","35-65","weiblich","","","",""
-"1 Sehr wichtig","1999","66 +","maennlich","","","",""
-"1 Sehr wichtig","1999","66 +","weiblich","","","",""
-"2 Wichtig","1999","17-34","maennlich","","","",""
-"2 Wichtig","1999","17-34","weiblich","","","",""
-"2 Wichtig","1999","35-65","maennlich","","","",""
-"2 Wichtig","1999","35-65","weiblich","","","",""
-"2 Wichtig","1999","66 +","maennlich","","","",""
-"2 Wichtig","1999","66 +","weiblich","","","",""
-"3 Weniger wichtig","1999","17-34","maennlich","","","",""
-"3 Weniger wichtig","1999","17-34","weiblich","","","",""
-"3 Weniger wichtig","1999","35-65","maennlich","","","",""
-"3 Weniger wichtig","1999","35-65","weiblich","","","",""
-"3 Weniger wichtig","1999","66 +","maennlich","","","",""
-"3 Weniger wichtig","1999","66 +","weiblich","","","",""
-"4 Ganz unwichtig","1999","17-34","maennlich","","","",""
-"4 Ganz unwichtig","1999","17-34","weiblich","","","",""
-"4 Ganz unwichtig","1999","35-65","maennlich","","","",""
-"4 Ganz unwichtig","1999","35-65","weiblich","","","",""
-"4 Ganz unwichtig","1999","66 +","maennlich","","","",""
-"4 Ganz unwichtig","1999","66 +","weiblich","","","",""
-"1 Sehr wichtig","2000","17-34","maennlich","","","",""
-"1 Sehr wichtig","2000","17-34","weiblich","","","",""
-"1 Sehr wichtig","2000","35-65","maennlich","","","",""
-"1 Sehr wichtig","2000","35-65","weiblich","","","",""
-"1 Sehr wichtig","2000","66 +","maennlich","","","",""
-"1 Sehr wichtig","2000","66 +","weiblich","","","",""
-"2 Wichtig","2000","17-34","maennlich","","","",""
-"2 Wichtig","2000","17-34","weiblich","","","",""
-"2 Wichtig","2000","35-65","maennlich","","","",""
-"2 Wichtig","2000","35-65","weiblich","","","",""
-"2 Wichtig","2000","66 +","maennlich","","","",""
-"2 Wichtig","2000","66 +","weiblich","","","",""
-"3 Weniger wichtig","2000","17-34","maennlich","","","",""
-"3 Weniger wichtig","2000","17-34","weiblich","","","",""
-"3 Weniger wichtig","2000","35-65","maennlich","","","",""
-"3 Weniger wichtig","2000","35-65","weiblich","","","",""
-"3 Weniger wichtig","2000","66 +","maennlich","","","",""
-"3 Weniger wichtig","2000","66 +","weiblich","","","",""
-"4 Ganz unwichtig","2000","17-34","maennlich","","","",""
-"4 Ganz unwichtig","2000","17-34","weiblich","","","",""
-"4 Ganz unwichtig","2000","35-65","maennlich","","","",""
-"4 Ganz unwichtig","2000","35-65","weiblich","","","",""
-"4 Ganz unwichtig","2000","66 +","maennlich","","","",""
-"4 Ganz unwichtig","2000","66 +","weiblich","","","",""
-"1 Sehr wichtig","2001","17-34","maennlich","","","",""
-"1 Sehr wichtig","2001","17-34","weiblich","","","",""
-"1 Sehr wichtig","2001","35-65","maennlich","","","",""
-"1 Sehr wichtig","2001","35-65","weiblich","","","",""
-"1 Sehr wichtig","2001","66 +","maennlich","","","",""
-"1 Sehr wichtig","2001","66 +","weiblich","","","",""
-"2 Wichtig","2001","17-34","maennlich","","","",""
-"2 Wichtig","2001","17-34","weiblich","","","",""
-"2 Wichtig","2001","35-65","maennlich","","","",""
-"2 Wichtig","2001","35-65","weiblich","","","",""
-"2 Wichtig","2001","66 +","maennlich","","","",""
-"2 Wichtig","2001","66 +","weiblich","","","",""
-"3 Weniger wichtig","2001","17-34","maennlich","","","",""
-"3 Weniger wichtig","2001","17-34","weiblich","","","",""
-"3 Weniger wichtig","2001","35-65","maennlich","","","",""
-"3 Weniger wichtig","2001","35-65","weiblich","","","",""
-"3 Weniger wichtig","2001","66 +","maennlich","","","",""
-"3 Weniger wichtig","2001","66 +","weiblich","","","",""
-"4 Ganz unwichtig","2001","17-34","maennlich","","","",""
-"4 Ganz unwichtig","2001","17-34","weiblich","","","",""
-"4 Ganz unwichtig","2001","35-65","maennlich","","","",""
-"4 Ganz unwichtig","2001","35-65","weiblich","","","",""
-"4 Ganz unwichtig","2001","66 +","maennlich","","","",""
-"4 Ganz unwichtig","2001","66 +","weiblich","","","",""
-"1 Sehr wichtig","2002","17-34","maennlich","","","",""
-"1 Sehr wichtig","2002","17-34","weiblich","","","",""
-"1 Sehr wichtig","2002","35-65","maennlich","","","",""
-"1 Sehr wichtig","2002","35-65","weiblich","","","",""
-"1 Sehr wichtig","2002","66 +","maennlich","","","",""
-"1 Sehr wichtig","2002","66 +","weiblich","","","",""
-"2 Wichtig","2002","17-34","maennlich","","","",""
-"2 Wichtig","2002","17-34","weiblich","","","",""
-"2 Wichtig","2002","35-65","maennlich","","","",""
-"2 Wichtig","2002","35-65","weiblich","","","",""
-"2 Wichtig","2002","66 +","maennlich","","","",""
-"2 Wichtig","2002","66 +","weiblich","","","",""
-"3 Weniger wichtig","2002","17-34","maennlich","","","",""
-"3 Weniger wichtig","2002","17-34","weiblich","","","",""
-"3 Weniger wichtig","2002","35-65","maennlich","","","",""
-"3 Weniger wichtig","2002","35-65","weiblich","","","",""
-"3 Weniger wichtig","2002","66 +","maennlich","","","",""
-"3 Weniger wichtig","2002","66 +","weiblich","","","",""
-"4 Ganz unwichtig","2002","17-34","maennlich","","","",""
-"4 Ganz unwichtig","2002","17-34","weiblich","","","",""
-"4 Ganz unwichtig","2002","35-65","maennlich","","","",""
-"4 Ganz unwichtig","2002","35-65","weiblich","","","",""
-"4 Ganz unwichtig","2002","66 +","maennlich","","","",""
-"4 Ganz unwichtig","2002","66 +","weiblich","","","",""
-"1 Sehr wichtig","2003","17-34","maennlich","","","",""
-"1 Sehr wichtig","2003","17-34","weiblich","","","",""
-"1 Sehr wichtig","2003","35-65","maennlich","","","",""
-"1 Sehr wichtig","2003","35-65","weiblich","","","",""
-"1 Sehr wichtig","2003","66 +","maennlich","","","",""
-"1 Sehr wichtig","2003","66 +","weiblich","","","",""
-"2 Wichtig","2003","17-34","maennlich","","","",""
-"2 Wichtig","2003","17-34","weiblich","","","",""
-"2 Wichtig","2003","35-65","maennlich","","","",""
-"2 Wichtig","2003","35-65","weiblich","","","",""
-"2 Wichtig","2003","66 +","maennlich","","","",""
-"2 Wichtig","2003","66 +","weiblich","","","",""
-"3 Weniger wichtig","2003","17-34","maennlich","","","",""
-"3 Weniger wichtig","2003","17-34","weiblich","","","",""
-"3 Weniger wichtig","2003","35-65","maennlich","","","",""
-"3 Weniger wichtig","2003","35-65","weiblich","","","",""
-"3 Weniger wichtig","2003","66 +","maennlich","","","",""
-"3 Weniger wichtig","2003","66 +","weiblich","","","",""
-"4 Ganz unwichtig","2003","17-34","maennlich","","","",""
-"4 Ganz unwichtig","2003","17-34","weiblich","","","",""
-"4 Ganz unwichtig","2003","35-65","maennlich","","","",""
-"4 Ganz unwichtig","2003","35-65","weiblich","","","",""
-"4 Ganz unwichtig","2003","66 +","maennlich","","","",""
-"4 Ganz unwichtig","2003","66 +","weiblich","","","",""
-"1 Sehr wichtig","2004","17-34","maennlich","659","0.26001943132621","0.243412333119419","0.276626529533002"
-"1 Sehr wichtig","2004","17-34","weiblich","1190","0.406801692956756","0.388928970379779","0.424674415533734"
-"1 Sehr wichtig","2004","35-65","maennlich","1073","0.179724994344988","0.16997550609651","0.189474482593465"
-"1 Sehr wichtig","2004","35-65","weiblich","1841","0.287564017262376","0.276339891294212","0.298788143230539"
-"1 Sehr wichtig","2004","66 +","maennlich","308","0.176098858198489","0.158045173298917","0.19415254309806"
-"1 Sehr wichtig","2004","66 +","weiblich","578","0.268242788657768","0.248941319368771","0.287544257946765"
-"2 Wichtig","2004","17-34","maennlich","1692","0.61474576508098","0.59632099073943","0.633170539422529"
-"2 Wichtig","2004","17-34","weiblich","1555","0.543930007485246","0.525808820342067","0.562051194628425"
-"2 Wichtig","2004","35-65","maennlich","4220","0.69847522291291","0.686822300721919","0.710128145103901"
-"2 Wichtig","2004","35-65","weiblich","4081","0.651601096057635","0.639785880994714","0.663416311120556"
-"2 Wichtig","2004","66 +","maennlich","1215","0.713220614654621","0.691784999846151","0.734656229463091"
-"2 Wichtig","2004","66 +","weiblich","1281","0.642390714356171","0.621509927617571","0.663271501094771"
-"3 Weniger wichtig","2004","17-34","maennlich","315","0.117769411533033","0.105565810465714","0.129973012600352"
-"3 Weniger wichtig","2004","17-34","weiblich","151","0.0479045900734117","0.0401344618294806","0.0556747183173428"
-"3 Weniger wichtig","2004","35-65","maennlich","637","0.116949570610502","0.108789575276753","0.125109565944252"
-"3 Weniger wichtig","2004","35-65","weiblich","302","0.0565625299190954","0.0508341302411913","0.0622909295969994"
-"3 Weniger wichtig","2004","66 +","maennlich","168","0.0999355224928802","0.0857205248997067","0.114150520086054"
-"3 Weniger wichtig","2004","66 +","weiblich","147","0.0786893411603817","0.0669591837705828","0.0904194985501806"
-"4 Ganz unwichtig","2004","17-34","maennlich","","","",""
-"4 Ganz unwichtig","2004","17-34","weiblich","","","",""
-"4 Ganz unwichtig","2004","35-65","maennlich","","","",""
-"4 Ganz unwichtig","2004","35-65","weiblich","","","",""
-"4 Ganz unwichtig","2004","66 +","maennlich","","","",""
-"4 Ganz unwichtig","2004","66 +","weiblich","","","",""
-"1 Sehr wichtig","2005","17-34","maennlich","","","",""
-"1 Sehr wichtig","2005","17-34","weiblich","","","",""
-"1 Sehr wichtig","2005","35-65","maennlich","","","",""
-"1 Sehr wichtig","2005","35-65","weiblich","","","",""
-"1 Sehr wichtig","2005","66 +","maennlich","","","",""
-"1 Sehr wichtig","2005","66 +","weiblich","","","",""
-"2 Wichtig","2005","17-34","maennlich","","","",""
-"2 Wichtig","2005","17-34","weiblich","","","",""
-"2 Wichtig","2005","35-65","maennlich","","","",""
-"2 Wichtig","2005","35-65","weiblich","","","",""
-"2 Wichtig","2005","66 +","maennlich","","","",""
-"2 Wichtig","2005","66 +","weiblich","","","",""
-"3 Weniger wichtig","2005","17-34","maennlich","","","",""
-"3 Weniger wichtig","2005","17-34","weiblich","","","",""
-"3 Weniger wichtig","2005","35-65","maennlich","","","",""
-"3 Weniger wichtig","2005","35-65","weiblich","","","",""
-"3 Weniger wichtig","2005","66 +","maennlich","","","",""
-"3 Weniger wichtig","2005","66 +","weiblich","","","",""
-"4 Ganz unwichtig","2005","17-34","maennlich","","","",""
-"4 Ganz unwichtig","2005","17-34","weiblich","","","",""
-"4 Ganz unwichtig","2005","35-65","maennlich","","","",""
-"4 Ganz unwichtig","2005","35-65","weiblich","","","",""
-"4 Ganz unwichtig","2005","66 +","maennlich","","","",""
-"4 Ganz unwichtig","2005","66 +","weiblich","","","",""
-"1 Sehr wichtig","2006","17-34","maennlich","","","",""
-"1 Sehr wichtig","2006","17-34","weiblich","","","",""
-"1 Sehr wichtig","2006","35-65","maennlich","","","",""
-"1 Sehr wichtig","2006","35-65","weiblich","","","",""
-"1 Sehr wichtig","2006","66 +","maennlich","","","",""
-"1 Sehr wichtig","2006","66 +","weiblich","","","",""
-"2 Wichtig","2006","17-34","maennlich","","","",""
-"2 Wichtig","2006","17-34","weiblich","","","",""
-"2 Wichtig","2006","35-65","maennlich","","","",""
-"2 Wichtig","2006","35-65","weiblich","","","",""
-"2 Wichtig","2006","66 +","maennlich","","","",""
-"2 Wichtig","2006","66 +","weiblich","","","",""
-"3 Weniger wichtig","2006","17-34","maennlich","","","",""
-"3 Weniger wichtig","2006","17-34","weiblich","","","",""
-"3 Weniger wichtig","2006","35-65","maennlich","","","",""
-"3 Weniger wichtig","2006","35-65","weiblich","","","",""
-"3 Weniger wichtig","2006","66 +","maennlich","","","",""
-"3 Weniger wichtig","2006","66 +","weiblich","","","",""
-"4 Ganz unwichtig","2006","17-34","maennlich","","","",""
-"4 Ganz unwichtig","2006","17-34","weiblich","","","",""
-"4 Ganz unwichtig","2006","35-65","maennlich","","","",""
-"4 Ganz unwichtig","2006","35-65","weiblich","","","",""
-"4 Ganz unwichtig","2006","66 +","maennlich","","","",""
-"4 Ganz unwichtig","2006","66 +","weiblich","","","",""
-"1 Sehr wichtig","2007","17-34","maennlich","","","",""
-"1 Sehr wichtig","2007","17-34","weiblich","","","",""
-"1 Sehr wichtig","2007","35-65","maennlich","","","",""
-"1 Sehr wichtig","2007","35-65","weiblich","","","",""
-"1 Sehr wichtig","2007","66 +","maennlich","","","",""
-"1 Sehr wichtig","2007","66 +","weiblich","","","",""
-"2 Wichtig","2007","17-34","maennlich","","","",""
-"2 Wichtig","2007","17-34","weiblich","","","",""
-"2 Wichtig","2007","35-65","maennlich","","","",""
-"2 Wichtig","2007","35-65","weiblich","","","",""
-"2 Wichtig","2007","66 +","maennlich","","","",""
-"2 Wichtig","2007","66 +","weiblich","","","",""
-"3 Weniger wichtig","2007","17-34","maennlich","","","",""
-"3 Weniger wichtig","2007","17-34","weiblich","","","",""
-"3 Weniger wichtig","2007","35-65","maennlich","","","",""
-"3 Weniger wichtig","2007","35-65","weiblich","","","",""
-"3 Weniger wichtig","2007","66 +","maennlich","","","",""
-"3 Weniger wichtig","2007","66 +","weiblich","","","",""
-"4 Ganz unwichtig","2007","17-34","maennlich","","","",""
-"4 Ganz unwichtig","2007","17-34","weiblich","","","",""
-"4 Ganz unwichtig","2007","35-65","maennlich","","","",""
-"4 Ganz unwichtig","2007","35-65","weiblich","","","",""
-"4 Ganz unwichtig","2007","66 +","maennlich","","","",""
-"4 Ganz unwichtig","2007","66 +","weiblich","","","",""
-"1 Sehr wichtig","2008","17-34","maennlich","516","0.250162513431446","0.231450518300398","0.268874508562494"
-"1 Sehr wichtig","2008","17-34","weiblich","1044","0.469191434984586","0.448693478140235","0.489689391828937"
-"1 Sehr wichtig","2008","35-65","maennlich","898","0.174955140686375","0.16452595714284","0.18538432422991"
-"1 Sehr wichtig","2008","35-65","weiblich","1612","0.27932332711626","0.267527927594259","0.29111872663826"
-"1 Sehr wichtig","2008","66 +","maennlich","340","0.157065098427646","0.141205419942703","0.172924776912588"
-"1 Sehr wichtig","2008","66 +","weiblich","536","0.227399619777053","0.2100610909752","0.244738148578906"
-"2 Wichtig","2008","17-34","maennlich","1366","0.664923785955404","0.644530691057112","0.685316880853696"
-"2 Wichtig","2008","17-34","weiblich","1171","0.5015102268141","0.480973340500858","0.522047113127342"
-"2 Wichtig","2008","35-65","maennlich","3617","0.696814351180434","0.684197207785684","0.709431494575184"
-"2 Wichtig","2008","35-65","weiblich","3692","0.670171329446825","0.657811116753485","0.682531542140165"
-"2 Wichtig","2008","66 +","maennlich","1422","0.704128689361839","0.684234100750259","0.724023277973419"
-"2 Wichtig","2008","66 +","weiblich","1510","0.676228236141699","0.656872662170752","0.695583810112646"
-"3 Weniger wichtig","2008","17-34","maennlich","171","0.0830812733489135","0.0711567123589425","0.0950058343388846"
-"3 Weniger wichtig","2008","17-34","weiblich","61","0.0283879364692957","0.0215664356251663","0.0352094373134251"
-"3 Weniger wichtig","2008","35-65","maennlich","555","0.119048243920452","0.110158571965317","0.127937915875586"
-"3 Weniger wichtig","2008","35-65","weiblich","243","0.0486552797042363","0.0429991056835663","0.0543114537249062"
-"3 Weniger wichtig","2008","66 +","maennlich","244","0.129745173296878","0.115098926735495","0.144391419858262"
-"3 Weniger wichtig","2008","66 +","weiblich","174","0.0827106356675488","0.0713166996420003","0.0941045716930974"
-"4 Ganz unwichtig","2008","17-34","maennlich","","","",""
-"4 Ganz unwichtig","2008","17-34","weiblich","","","",""
-"4 Ganz unwichtig","2008","35-65","maennlich","","","",""
-"4 Ganz unwichtig","2008","35-65","weiblich","","","",""
-"4 Ganz unwichtig","2008","66 +","maennlich","","","",""
-"4 Ganz unwichtig","2008","66 +","weiblich","","","",""
-"1 Sehr wichtig","2009","17-34","maennlich","","","",""
-"1 Sehr wichtig","2009","17-34","weiblich","","","",""
-"1 Sehr wichtig","2009","35-65","maennlich","","","",""
-"1 Sehr wichtig","2009","35-65","weiblich","","","",""
-"1 Sehr wichtig","2009","66 +","maennlich","","","",""
-"1 Sehr wichtig","2009","66 +","weiblich","","","",""
-"2 Wichtig","2009","17-34","maennlich","","","",""
-"2 Wichtig","2009","17-34","weiblich","","","",""
-"2 Wichtig","2009","35-65","maennlich","","","",""
-"2 Wichtig","2009","35-65","weiblich","","","",""
-"2 Wichtig","2009","66 +","maennlich","","","",""
-"2 Wichtig","2009","66 +","weiblich","","","",""
-"3 Weniger wichtig","2009","17-34","maennlich","","","",""
-"3 Weniger wichtig","2009","17-34","weiblich","","","",""
-"3 Weniger wichtig","2009","35-65","maennlich","","","",""
-"3 Weniger wichtig","2009","35-65","weiblich","","","",""
-"3 Weniger wichtig","2009","66 +","maennlich","","","",""
-"3 Weniger wichtig","2009","66 +","weiblich","","","",""
-"4 Ganz unwichtig","2009","17-34","maennlich","","","",""
-"4 Ganz unwichtig","2009","17-34","weiblich","","","",""
-"4 Ganz unwichtig","2009","35-65","maennlich","","","",""
-"4 Ganz unwichtig","2009","35-65","weiblich","","","",""
-"4 Ganz unwichtig","2009","66 +","maennlich","","","",""
-"4 Ganz unwichtig","2009","66 +","weiblich","","","",""
-"1 Sehr wichtig","2010","17-34","maennlich","480","0.442829044378701","0.412798789618184","0.472859299139219"
-"1 Sehr wichtig","2010","17-34","weiblich","1163","0.585570908752139","0.563615844152288","0.607525973351989"
-"1 Sehr wichtig","2010","35-65","maennlich","797","0.421466905276639","0.399368057387909","0.443565753165368"
-"1 Sehr wichtig","2010","35-65","weiblich","1311","0.543619085362239","0.523666595310379","0.563571575414098"
-"1 Sehr wichtig","2010","66 +","maennlich","","","",""
-"1 Sehr wichtig","2010","66 +","weiblich","","","",""
-"2 Wichtig","2010","17-34","maennlich","538","0.530378568847813","0.500205903883687","0.560551233811938"
-"2 Wichtig","2010","17-34","weiblich","740","0.401755406109396","0.379905976084132","0.42360483613466"
-"2 Wichtig","2010","35-65","maennlich","1061","0.549472737326362","0.527205958132656","0.571739516520068"
-"2 Wichtig","2010","35-65","weiblich","1043","0.439035535456503","0.419156123659933","0.458914947253073"
-"2 Wichtig","2010","66 +","maennlich","","","",""
-"2 Wichtig","2010","66 +","weiblich","","","",""
-"3 Weniger wichtig","2010","17-34","maennlich","30","0.0249129425181103","0.0154901214998683","0.0343357635363523"
-"3 Weniger wichtig","2010","17-34","weiblich","","","",""
-"3 Weniger wichtig","2010","35-65","maennlich","57","0.0280665108326777","0.0206749479561056","0.0354580737092497"
-"3 Weniger wichtig","2010","35-65","weiblich","37","0.0163780125679886","0.0112937176740812","0.0214623074618961"
-"3 Weniger wichtig","2010","66 +","maennlich","","","",""
-"3 Weniger wichtig","2010","66 +","weiblich","","","",""
-"4 Ganz unwichtig","2010","17-34","maennlich","","","",""
-"4 Ganz unwichtig","2010","17-34","weiblich","","","",""
-"4 Ganz unwichtig","2010","35-65","maennlich","","","",""
-"4 Ganz unwichtig","2010","35-65","weiblich","","","",""
-"4 Ganz unwichtig","2010","66 +","maennlich","","","",""
-"4 Ganz unwichtig","2010","66 +","weiblich","","","",""
-"1 Sehr wichtig","2011","17-34","maennlich","","","",""
-"1 Sehr wichtig","2011","17-34","weiblich","","","",""
-"1 Sehr wichtig","2011","35-65","maennlich","","","",""
-"1 Sehr wichtig","2011","35-65","weiblich","","","",""
-"1 Sehr wichtig","2011","66 +","maennlich","","","",""
-"1 Sehr wichtig","2011","66 +","weiblich","","","",""
-"2 Wichtig","2011","17-34","maennlich","","","",""
-"2 Wichtig","2011","17-34","weiblich","","","",""
-"2 Wichtig","2011","35-65","maennlich","","","",""
-"2 Wichtig","2011","35-65","weiblich","","","",""
-"2 Wichtig","2011","66 +","maennlich","","","",""
-"2 Wichtig","2011","66 +","weiblich","","","",""
-"3 Weniger wichtig","2011","17-34","maennlich","","","",""
-"3 Weniger wichtig","2011","17-34","weiblich","","","",""
-"3 Weniger wichtig","2011","35-65","maennlich","","","",""
-"3 Weniger wichtig","2011","35-65","weiblich","","","",""
-"3 Weniger wichtig","2011","66 +","maennlich","","","",""
-"3 Weniger wichtig","2011","66 +","weiblich","","","",""
-"4 Ganz unwichtig","2011","17-34","maennlich","","","",""
-"4 Ganz unwichtig","2011","17-34","weiblich","","","",""
-"4 Ganz unwichtig","2011","35-65","maennlich","","","",""
-"4 Ganz unwichtig","2011","35-65","weiblich","","","",""
-"4 Ganz unwichtig","2011","66 +","maennlich","","","",""
-"4 Ganz unwichtig","2011","66 +","weiblich","","","",""
-"1 Sehr wichtig","2012","17-34","maennlich","1042","0.360556235756546","0.342632959788856","0.378479511724236"
-"1 Sehr wichtig","2012","17-34","weiblich","1952","0.559731537729665","0.543433777638235","0.576029297821095"
-"1 Sehr wichtig","2012","35-65","maennlich","1937","0.236373469149649","0.226595939957429","0.246150998341868"
-"1 Sehr wichtig","2012","35-65","weiblich","3427","0.347007776073167","0.337072346435442","0.356943205710891"
-"1 Sehr wichtig","2012","66 +","maennlich","478","0.191029757928781","0.175659943194532","0.206399572663029"
-"1 Sehr wichtig","2012","66 +","weiblich","748","0.271694719820081","0.254786952957704","0.288602486682459"
-"2 Wichtig","2012","17-34","maennlich","1557","0.571006183787294","0.552531558874626","0.589480808699961"
-"2 Wichtig","2012","17-34","weiblich","1546","0.418207842977604","0.402013651831081","0.434402034124128"
-"2 Wichtig","2012","35-65","maennlich","4827","0.679903066783281","0.669166794701449","0.690639338865112"
-"2 Wichtig","2012","35-65","weiblich","5139","0.613927341002609","0.603765882343703","0.624088799661516"
-"2 Wichtig","2012","66 +","maennlich","1794","0.697750222710454","0.679795246527467","0.715705198893441"
-"2 Wichtig","2012","66 +","weiblich","1738","0.656894545787911","0.63884980859564","0.674939282980182"
-"3 Weniger wichtig","2012","17-34","maennlich","148","0.0646529156127738","0.0554736029319069","0.0738322282936407"
-"3 Weniger wichtig","2012","17-34","weiblich","64","0.0215960053453149","0.016823734703933","0.0263682759866968"
-"3 Weniger wichtig","2012","35-65","maennlich","466","0.0790376364050508","0.0728285576885209","0.0852467151215808"
-"3 Weniger wichtig","2012","35-65","weiblich","235","0.0366014233326422","0.0326820644599745","0.0405207822053099"
-"3 Weniger wichtig","2012","66 +","maennlich","220","0.0997706391775241","0.0880532781688939","0.111488000186154"
-"3 Weniger wichtig","2012","66 +","weiblich","138","0.0572739827912256","0.04844195633893","0.0661060092435212"
-"4 Ganz unwichtig","2012","17-34","maennlich","","","",""
-"4 Ganz unwichtig","2012","17-34","weiblich","","","",""
-"4 Ganz unwichtig","2012","35-65","maennlich","","","",""
-"4 Ganz unwichtig","2012","35-65","weiblich","","","",""
-"4 Ganz unwichtig","2012","66 +","maennlich","","","",""
-"4 Ganz unwichtig","2012","66 +","weiblich","35","0.0141367516007823","0.00964958624057553","0.018623916960989"
-"1 Sehr wichtig","2013","17-34","maennlich","","","",""
-"1 Sehr wichtig","2013","17-34","weiblich","","","",""
-"1 Sehr wichtig","2013","35-65","maennlich","","","",""
-"1 Sehr wichtig","2013","35-65","weiblich","","","",""
-"1 Sehr wichtig","2013","66 +","maennlich","","","",""
-"1 Sehr wichtig","2013","66 +","weiblich","","","",""
-"2 Wichtig","2013","17-34","maennlich","","","",""
-"2 Wichtig","2013","17-34","weiblich","","","",""
-"2 Wichtig","2013","35-65","maennlich","","","",""
-"2 Wichtig","2013","35-65","weiblich","","","",""
-"2 Wichtig","2013","66 +","maennlich","","","",""
-"2 Wichtig","2013","66 +","weiblich","","","",""
-"3 Weniger wichtig","2013","17-34","maennlich","","","",""
-"3 Weniger wichtig","2013","17-34","weiblich","","","",""
-"3 Weniger wichtig","2013","35-65","maennlich","","","",""
-"3 Weniger wichtig","2013","35-65","weiblich","","","",""
-"3 Weniger wichtig","2013","66 +","maennlich","","","",""
-"3 Weniger wichtig","2013","66 +","weiblich","","","",""
-"4 Ganz unwichtig","2013","17-34","maennlich","","","",""
-"4 Ganz unwichtig","2013","17-34","weiblich","","","",""
-"4 Ganz unwichtig","2013","35-65","maennlich","","","",""
-"4 Ganz unwichtig","2013","35-65","weiblich","","","",""
-"4 Ganz unwichtig","2013","66 +","maennlich","","","",""
-"4 Ganz unwichtig","2013","66 +","weiblich","","","",""
-"1 Sehr wichtig","2014","17-34","maennlich","","","",""
-"1 Sehr wichtig","2014","17-34","weiblich","","","",""
-"1 Sehr wichtig","2014","35-65","maennlich","","","",""
-"1 Sehr wichtig","2014","35-65","weiblich","","","",""
-"1 Sehr wichtig","2014","66 +","maennlich","","","",""
-"1 Sehr wichtig","2014","66 +","weiblich","","","",""
-"2 Wichtig","2014","17-34","maennlich","","","",""
-"2 Wichtig","2014","17-34","weiblich","","","",""
-"2 Wichtig","2014","35-65","maennlich","","","",""
-"2 Wichtig","2014","35-65","weiblich","","","",""
-"2 Wichtig","2014","66 +","maennlich","","","",""
-"2 Wichtig","2014","66 +","weiblich","","","",""
-"3 Weniger wichtig","2014","17-34","maennlich","","","",""
-"3 Weniger wichtig","2014","17-34","weiblich","","","",""
-"3 Weniger wichtig","2014","35-65","maennlich","","","",""
-"3 Weniger wichtig","2014","35-65","weiblich","","","",""
-"3 Weniger wichtig","2014","66 +","maennlich","","","",""
-"3 Weniger wichtig","2014","66 +","weiblich","","","",""
-"4 Ganz unwichtig","2014","17-34","maennlich","","","",""
-"4 Ganz unwichtig","2014","17-34","weiblich","","","",""
-"4 Ganz unwichtig","2014","35-65","maennlich","","","",""
-"4 Ganz unwichtig","2014","35-65","weiblich","","","",""
-"4 Ganz unwichtig","2014","66 +","maennlich","","","",""
-"4 Ganz unwichtig","2014","66 +","weiblich","","","",""
-"1 Sehr wichtig","2015","17-34","maennlich","","","",""
-"1 Sehr wichtig","2015","17-34","weiblich","","","",""
-"1 Sehr wichtig","2015","35-65","maennlich","","","",""
-"1 Sehr wichtig","2015","35-65","weiblich","","","",""
-"1 Sehr wichtig","2015","66 +","maennlich","","","",""
-"1 Sehr wichtig","2015","66 +","weiblich","","","",""
-"2 Wichtig","2015","17-34","maennlich","","","",""
-"2 Wichtig","2015","17-34","weiblich","","","",""
-"2 Wichtig","2015","35-65","maennlich","","","",""
-"2 Wichtig","2015","35-65","weiblich","","","",""
-"2 Wichtig","2015","66 +","maennlich","","","",""
-"2 Wichtig","2015","66 +","weiblich","","","",""
-"3 Weniger wichtig","2015","17-34","maennlich","","","",""
-"3 Weniger wichtig","2015","17-34","weiblich","","","",""
-"3 Weniger wichtig","2015","35-65","maennlich","","","",""
-"3 Weniger wichtig","2015","35-65","weiblich","","","",""
-"3 Weniger wichtig","2015","66 +","maennlich","","","",""
-"3 Weniger wichtig","2015","66 +","weiblich","","","",""
-"4 Ganz unwichtig","2015","17-34","maennlich","","","",""
-"4 Ganz unwichtig","2015","17-34","weiblich","","","",""
-"4 Ganz unwichtig","2015","35-65","maennlich","","","",""
-"4 Ganz unwichtig","2015","35-65","weiblich","","","",""
-"4 Ganz unwichtig","2015","66 +","maennlich","","","",""
-"4 Ganz unwichtig","2015","66 +","weiblich","","","",""
-"1 Sehr wichtig","2016","17-34","maennlich","1005","0.368442432111202","0.34982164964631","0.387063214576093"
-"1 Sehr wichtig","2016","17-34","weiblich","1706","0.568661246808858","0.551090432780082","0.586232060837633"
-"1 Sehr wichtig","2016","35-65","maennlich","1732","0.25594862392329","0.245104465541474","0.266792782305106"
-"1 Sehr wichtig","2016","35-65","weiblich","3222","0.390267321465181","0.379364579073278","0.401170063857084"
-"1 Sehr wichtig","2016","66 +","maennlich","457","0.200437334580271","0.184098013672001","0.216776655488541"
-"1 Sehr wichtig","2016","66 +","weiblich","726","0.29569512267282","0.277422238023106","0.313968007322534"
-"2 Wichtig","2016","17-34","maennlich","1416","0.570009087593324","0.55089836260304","0.589119812583608"
-"2 Wichtig","2016","17-34","weiblich","1274","0.41023732944693","0.392786661507577","0.427687997386283"
-"2 Wichtig","2016","35-65","maennlich","4080","0.665731560592336","0.654009195310691","0.677453925873982"
-"2 Wichtig","2016","35-65","weiblich","4229","0.571614067610774","0.560554096929952","0.582674038291596"
-"2 Wichtig","2016","66 +","maennlich","1646","0.704203177618755","0.685575265435946","0.722831089801564"
-"2 Wichtig","2016","66 +","weiblich","1558","0.647843160667724","0.628717885737033","0.666968435598416"
-"3 Weniger wichtig","2016","17-34","maennlich","144","0.0583409616271184","0.049293218423611","0.0673887048306257"
-"3 Weniger wichtig","2016","17-34","weiblich","67","0.0199607618661474","0.0149986549777825","0.0249228687545123"
-"3 Weniger wichtig","2016","35-65","maennlich","384","0.0750983793723048","0.0685492881001883","0.0816474706444213"
-"3 Weniger wichtig","2016","35-65","weiblich","214","0.0340485984590452","0.0299952664391773","0.038101930478913"
-"3 Weniger wichtig","2016","66 +","maennlich","187","0.0874700208230861","0.0759388972817587","0.0990011443644135"
-"3 Weniger wichtig","2016","66 +","weiblich","100","0.0507655923633224","0.0419758499264873","0.0595553348001575"
-"4 Ganz unwichtig","2016","17-34","maennlich","","","",""
-"4 Ganz unwichtig","2016","17-34","weiblich","","","",""
-"4 Ganz unwichtig","2016","35-65","maennlich","","","",""
-"4 Ganz unwichtig","2016","35-65","weiblich","","","",""
-"4 Ganz unwichtig","2016","66 +","maennlich","","","",""
-"4 Ganz unwichtig","2016","66 +","weiblich","","","",""
+syear,age_gr,sex,plh0105,proportion,n,lower_confidence,upper_confidence
+1990,46-65 J.,female,2.0,0.10698198198198199,13886,0.10184091903457514,0.11212304492938883
+1990,46-65 J.,male,2.0,0.10529279279279279,13886,0.10018765720170787,0.1103979283838777
+1990,30-45 J.,male,2.0,0.10135135135135136,13886,0.09633165755818592,0.1063710451445168
+1990,30-45 J.,female,2.0,0.09783220720720721,13886,0.09289078370797116,0.10277363070644327
+1990,17-29 J.,male,2.0,0.09177927927927929,13886,0.08697713155940662,0.09658142699915195
+1990,17-29 J.,female,2.0,0.0789695945945946,13886,0.07448385117302501,0.08345533801616419
+1990,66 und älter,female,2.0,0.0522240990990991,13886,0.048523638365573746,0.055924559832624454
+1990,46-65 J.,female,1.0,0.041666666666666664,13886,0.0383429792934721,0.04499035403986123
+1990,17-29 J.,female,1.0,0.04082207207207207,13886,0.03753079380778748,0.04411335033635666
+1990,66 und älter,male,2.0,0.03856981981981982,13886,0.03536686972939252,0.04177276991024712
+1990,30-45 J.,female,1.0,0.03744369369369369,13886,0.0342860006914684,0.040601386695918985
+1990,66 und älter,female,1.0,0.023789414414414414,13886,0.021254687810349567,0.026324141018479262
+1990,30-45 J.,male,1.0,0.02252252252252252,13886,0.020054612137332437,0.024990432907712606
+1990,46-65 J.,male,1.0,0.022381756756756757,13886,0.019921393541311484,0.02484211997220203
+1990,17-29 J.,male,1.0,0.02224099099099099,13886,0.019788200402547973,0.024693781579434006
+1990,46-65 J.,male,3.0,0.018862612612612614,13886,0.01659987953107784,0.02112534569414739
+1990,17-29 J.,male,3.0,0.018158783783783782,13886,0.015937871024040248,0.020379696543527316
+1990,30-45 J.,male,3.0,0.017736486486486486,13886,0.015541078229628712,0.01993189474334426
+1990,30-45 J.,female,3.0,0.010557432432432432,13886,0.008857459754290071,0.012257405110574793
+1990,66 und älter,male,1.0,0.009853603603603604,13886,0.008210689945285461,0.011496517261921746
+1990,46-65 J.,female,3.0,0.008727477477477477,13886,0.007180413075014167,0.010274541879940787
+1990,17-29 J.,female,3.0,0.008586711711711712,13886,0.007052065400477366,0.010121358022946059
+1990,66 und älter,female,3.0,0.008586711711711712,13886,0.007052065400477366,0.010121358022946059
+1990,66 und älter,male,3.0,0.006756756756756757,13886,0.005394169123882006,0.008119344389631508
+1990,66 und älter,female,4.0,0.0019707207207207205,13886,0.001233068467133662,0.002708372974307779
+1990,66 und älter,male,4.0,0.001266891891891892,13886,0.0006752458100735302,0.0018585379737102539
+1990,46-65 J.,male,4.0,0.0011261261261261261,13886,0.000568277542129755,0.0016839747101224972
+1990,30-45 J.,male,4.0,0.0009853603603603603,13886,0.0004635040243311727,0.0015072166963895478
+1990,30-45 J.,female,4.0,0.0009853603603603603,13886,0.0004635040243311727,0.0015072166963895478
+1990,17-29 J.,female,4.0,0.0009853603603603603,13886,0.0004635040243311727,0.0015072166963895478
+1990,17-29 J.,male,4.0,0.0008445945945945946,13886,0.000361415472019772,0.0013277737171694174
+1990,46-65 J.,female,4.0,0.00014076576576576576,13886,-5.656074906116017e-05,0.0003380922805926917
+1992,30-45 J.,male,2.0,0.11047201679905048,13316,0.10514756221637259,0.11579647138172838
+1992,30-45 J.,female,2.0,0.10983292248698986,13316,0.10452198472572229,0.11514386024825744
+1992,46-65 J.,female,2.0,0.10024650780608052,13316,0.09514538739840735,0.1053476282137537
+1992,46-65 J.,male,2.0,0.09641194193371679,13316,0.09139868648300863,0.10142519738442494
+1992,17-29 J.,male,2.0,0.08107367844426185,13316,0.07643761401449935,0.08570974287402434
+1992,17-29 J.,female,2.0,0.0697525792020451,13316,0.06542596122085227,0.07407919718323792
+1992,66 und älter,female,2.0,0.049940655528165796,13316,0.04624091161465779,0.0536403994416738
+1992,17-29 J.,female,1.0,0.04747557746736054,13316,0.04386362217634636,0.051087532758374715
+1992,30-45 J.,female,1.0,0.046562585592988225,13316,0.042983815350726026,0.05014135583525042
+1992,46-65 J.,female,1.0,0.04035424084725646,13316,0.03701175756970896,0.04369672412480396
+1992,66 und älter,male,2.0,0.031589518853282206,13316,0.02861873931304614,0.03456029839351827
+1992,30-45 J.,male,1.0,0.030128731854286498,13316,0.02722526648022321,0.03303219722834978
+1992,46-65 J.,male,1.0,0.02574637085729937,13316,0.023056303190259708,0.028436438524339035
+1992,17-29 J.,male,1.0,0.024559481420615356,13316,0.02193055052633337,0.027188412314897343
+1992,46-65 J.,male,3.0,0.021455309047749473,13316,0.018994222435652124,0.023916395659846823
+1992,30-45 J.,male,3.0,0.019355427736693142,13316,0.01701537104408045,0.021695484429305835
+1992,66 und älter,female,1.0,0.017529443987948506,13316,0.015300428836796196,0.019758459139100817
+1992,17-29 J.,male,3.0,0.014790468364831553,13316,0.012740135165193695,0.01684080156446941
+1992,30-45 J.,female,3.0,0.011503697617091208,13316,0.009692459991451356,0.013314935242731061
+1992,46-65 J.,female,3.0,0.010225508992969963,13316,0.008516754088892239,0.011934263897047687
+1992,66 und älter,female,3.0,0.00958641468090934,13316,0.007931385794464034,0.011241443567354648
+1992,66 und älter,male,1.0,0.008764721993974253,13316,0.00718155536890812,0.010347888619040386
+1992,17-29 J.,female,3.0,0.0074865333698530085,13316,0.006022409690669467,0.00895065704903655
+1992,66 und älter,male,3.0,0.006482242308043459,13316,0.005119167706446011,0.007845316909640907
+1992,66 und älter,female,4.0,0.002373778873368027,13316,0.001547221059265765,0.0032003366874702897
+1992,46-65 J.,male,4.0,0.001460786998995709,13316,0.0008120850722863898,0.0021094889257050283
+1992,66 und älter,male,4.0,0.001369487811558477,13316,0.0007413561579254358,0.001997619465191518
+1992,46-65 J.,female,4.0,0.0010955902492467817,13316,0.0005336951781840155,0.0016574853203095478
+1992,17-29 J.,male,4.0,0.0009129918743723181,13316,0.00040000731873792166,0.0014259764300067145
+1992,30-45 J.,female,4.0,0.0006390943120606227,13316,0.00020984181290082597,0.0010683468112204194
+1992,30-45 J.,male,4.0,0.0005477951246233908,13316,0.00015036638020456632,0.0009452238690422154
+1992,17-29 J.,female,4.0,0.0002738975623116954,13316,-7.165502332458131e-06,0.000554960626955849
+1995,30-45 J.,male,2.0,0.11624787624072253,13284,0.11079721254735132,0.12169853993409373
+1995,30-45 J.,female,2.0,0.11231333273719038,13284,0.10694379197479399,0.11768287349958677
+1995,46-65 J.,male,2.0,0.10229813109183582,13284,0.09714475839321106,0.10745150379046058
+1995,46-65 J.,female,2.0,0.0964857372797997,13284,0.09146473169875567,0.10150674286084373
+1995,17-29 J.,male,2.0,0.07341500491817939,13284,0.06897966728385665,0.07785034255250212
+1995,17-29 J.,female,2.0,0.06438343914870787,13284,0.06020967721440402,0.0685572010830117
+1995,30-45 J.,female,1.0,0.05812393812036126,13284,0.054145010551960186,0.06210286568876234
+1995,17-29 J.,female,1.0,0.04900295090762765,13284,0.04533188366631606,0.05267401814893924
+1995,66 und älter,female,2.0,0.04882410802110346,13284,0.04515940139038397,0.052488814651822945
+1995,46-65 J.,female,1.0,0.03961369936510775,13284,0.03629676164770883,0.042930637082506676
+1995,30-45 J.,male,1.0,0.033354198336761155,13284,0.030300679693848434,0.036407716979673876
+1995,66 und älter,male,2.0,0.0311186622552088,13284,0.028165839406097484,0.03407148510432012
+1995,17-29 J.,male,1.0,0.029687919163015292,13284,0.026801647293730076,0.03257419103230051
+1995,46-65 J.,male,1.0,0.02539568988643477,13284,0.022720307834044072,0.028071071938825465
+1995,66 und älter,female,1.0,0.023696682464454975,13284,0.021110091268934074,0.026283273659975875
+1995,30-45 J.,male,3.0,0.017079495663060003,13284,0.014876120972756554,0.019282870353363454
+1995,46-65 J.,male,3.0,0.01618528123043906,13284,0.014039386463213349,0.01833117599766477
+1995,66 und älter,male,1.0,0.010194044531878745,13284,0.008485839753510185,0.011902249310247305
+1995,17-29 J.,male,3.0,0.010015201645354556,13284,0.008321894466024734,0.011708508824684377
+1995,30-45 J.,female,3.0,0.008047929893588483,13284,0.006528505570997332,0.009567354216179633
+1995,46-65 J.,female,3.0,0.007511401234015917,13284,0.006043100953630868,0.008979701514400966
+1995,66 und älter,male,3.0,0.006706608244657069,13284,0.005318632488856548,0.00809458400045759
+1995,66 und älter,female,3.0,0.006706608244657069,13284,0.005318632488856548,0.00809458400045759
+1995,17-29 J.,female,3.0,0.005991236698560315,13284,0.004678900877327702,0.007303572519792928
+1995,66 und älter,female,4.0,0.001430743092193508,13284,0.0007879642657348718,0.002073521918652144
+1995,46-65 J.,male,4.0,0.0012519002056693195,13284,0.0006505818290816386,0.0018532185822570002
+1995,30-45 J.,male,4.0,0.0011624787624072252,13284,0.0005830079366508742,0.0017419495881635762
+1995,46-65 J.,female,4.0,0.0009836358758830367,13284,0.00045055252485145657,0.001516719226914617
+1995,30-45 J.,female,4.0,0.0008942144326209425,13284,0.0003859166532527192,0.0014025122119891657
+1995,66 und älter,male,4.0,0.0008942144326209425,13284,0.0003859166532527192,0.0014025122119891657
+1995,17-29 J.,male,4.0,0.0006259501028346597,13284,0.00020062057932694377,0.0010512796263423758
+1995,17-29 J.,female,4.0,0.000357685773048377,13284,3.6123724490640216e-05,0.0006792478216061138
+2004,46-65 J.,male,2.0,0.1196505738580921,21612,0.11532350777707613,0.12397763993910806
+2004,46-65 J.,female,2.0,0.11681613307931787,21612,0.11253374946675311,0.12109851669188264
+2004,30-45 J.,male,2.0,0.10078527949444728,21612,0.09677163550308134,0.10479892348581323
+2004,30-45 J.,female,2.0,0.09692858138562334,21612,0.09298404861057548,0.1008731141606712
+2004,66 und älter,female,2.0,0.05952325635425863,21612,0.056368789536378944,0.06267772317213832
+2004,66 und älter,male,2.0,0.05645648436410947,21612,0.05337934990050858,0.05953361882771037
+2004,17-29 J.,male,2.0,0.054272570977185075,21612,0.051252050515285634,0.057293091439084516
+2004,30-45 J.,female,1.0,0.05334324613168533,21612,0.05034722700869339,0.05633926525467728
+2004,17-29 J.,female,2.0,0.04813902699688676,21612,0.04528509246549581,0.05099296152827772
+2004,46-65 J.,female,1.0,0.046373309790437245,21612,0.04356960787948781,0.04917701170138668
+2004,17-29 J.,female,1.0,0.04116909065563868,21612,0.03852019261567065,0.04381798869560671
+2004,30-45 J.,male,1.0,0.02992426002509177,21612,0.027652705720291063,0.03219581432989248
+2004,46-65 J.,male,1.0,0.028065610334092283,21612,0.02586362555858204,0.030267595109602526
+2004,66 und älter,female,1.0,0.026811021792667627,21612,0.02465742762890362,0.028964615956431634
+2004,17-29 J.,male,1.0,0.022489661261093814,21612,0.020512870381280614,0.024466452140907015
+2004,46-65 J.,male,3.0,0.019515821755494635,21612,0.01767156107014759,0.021360082440841678
+2004,66 und älter,male,1.0,0.014311602620696064,21612,0.012728086282420756,0.01589511895897137
+2004,30-45 J.,male,3.0,0.013614608986571256,21612,0.012069587604739227,0.015159630368403284
+2004,17-29 J.,male,3.0,0.011105431903721945,21612,0.009708255268677156,0.012502608538766734
+2004,46-65 J.,female,3.0,0.008967984759072534,21612,0.007711087251681201,0.010224882266463866
+2004,66 und älter,male,3.0,0.007806328702197853,21612,0.00663297152190266,0.008979685882493047
+2004,30-45 J.,female,3.0,0.007016402583523071,21612,0.005903551945428551,0.00812925322161759
+2004,66 und älter,female,3.0,0.006830537614423122,21612,0.005732422891597805,0.007928652337248439
+2004,17-29 J.,female,3.0,0.005064820407973607,21612,0.004118391470088546,0.006011249345858669
+2004,66 und älter,male,4.0,0.0008828586032247572,21612,0.00048688852109107897,0.0012788286853584355
+2004,66 und älter,female,4.0,0.00083639236094977,21612,0.00045097442219426065,0.0012218102997052793
+2004,46-65 J.,male,4.0,0.0007434598763997955,21612,0.0003800674605172205,0.0011068522922823706
+2004,46-65 J.,female,4.0,0.0007434598763997955,21612,0.0003800674605172205,0.0011068522922823706
+2004,30-45 J.,male,4.0,0.0006969936341248084,21612,0.00034513225977716896,0.0010488550084724478
+2004,17-29 J.,male,4.0,0.0005111286650248594,21612,0.0002097845654820129,0.0008124727645677059
+2004,30-45 J.,female,4.0,0.00032526369592491053,21612,8.485191447610136e-05,0.0005656754773737197
+2004,17-29 J.,female,4.0,0.00027879745364992335,21612,5.621422135703509e-05,0.0005013806859428116
+2008,46-65 J.,female,2.0,0.12348115069062209,19571,0.11887189790523385,0.12809040347601033
+2008,46-65 J.,male,2.0,0.1204174888358085,19571,0.11585782695654488,0.12497715071507211
+2008,30-45 J.,male,2.0,0.08708069373766747,19571,0.08313042448151313,0.09103096299382181
+2008,30-45 J.,female,2.0,0.08640564960016617,19571,0.08246926671116363,0.09034203248916871
+2008,66 und älter,female,2.0,0.07840897289438156,19571,0.0746427886327097,0.08217515715605342
+2008,66 und älter,male,2.0,0.07383944334821892,19571,0.07017559988262402,0.07750328681381381
+2008,17-29 J.,male,2.0,0.051251427977983176,19571,0.048161999712326486,0.054340856243639865
+2008,30-45 J.,female,1.0,0.0491743690933638,19571,0.046144879944005034,0.05220385824272256
+2008,46-65 J.,female,1.0,0.048343545539516045,19571,0.04533844566102537,0.05134864541800672
+2008,17-29 J.,female,2.0,0.042631633606812755,19571,0.03980118621728393,0.04546208099634158
+2008,17-29 J.,female,1.0,0.040450721777962405,19571,0.0376904849753518,0.04321095858057301
+2008,30-45 J.,male,1.0,0.027936441998130647,19571,0.02562766258876903,0.030245221407492265
+2008,66 und älter,female,1.0,0.027780662581784195,19571,0.02547814481407467,0.03008318034949372
+2008,46-65 J.,male,1.0,0.025495897808702876,19571,0.023287503833901102,0.02770429178350465
+2008,17-29 J.,male,1.0,0.01999169176446152,19571,0.018030639288143403,0.02195274424077964
+2008,46-65 J.,male,3.0,0.018849309377920863,19571,0.01694400159646702,0.020754617159374707
+2008,66 und älter,male,1.0,0.017655000519264722,19571,0.01580991946428928,0.019500081574240165
+2008,66 und älter,male,3.0,0.012670059196178212,19571,0.011103055436464249,0.014237062955892174
+2008,30-45 J.,male,3.0,0.012098868002907883,19571,0.010567150504619234,0.013630585501196531
+2008,66 und älter,female,3.0,0.009035206148094298,19571,0.00770949866227685,0.010360913633911745
+2008,46-65 J.,female,3.0,0.009035206148094298,19571,0.00770949866227685,0.010360913633911745
+2008,17-29 J.,male,3.0,0.006750441375012982,19571,0.005603226318481465,0.007897656431544497
+2008,30-45 J.,female,3.0,0.0045695295461626335,19571,0.003624618832802687,0.0055144402595225794
+2008,17-29 J.,female,3.0,0.002180911828850348,19571,0.0015273381995686867,0.002834485458132009
+2008,66 und älter,female,4.0,0.0012981618028871118,19571,0.0007936958032644434,0.0018026278025097802
+2008,46-65 J.,male,4.0,0.0009346764980787206,19571,0.0005065450133934429,0.0013628079827639984
+2008,66 und älter,male,4.0,0.0008308235538477516,19571,0.00042715634011166636,0.0012344907675838367
+2008,30-45 J.,male,4.0,0.0005192647211548448,19571,0.0002000880172499356,0.000838441425059754
+2008,46-65 J.,female,4.0,0.0004154117769238758,19571,0.00012991662291526597,0.0007009069309324857
+2008,17-29 J.,male,4.0,0.0002596323605774224,19571,3.391103705647504e-05,0.00048535368409836975
+2008,30-45 J.,female,4.0,0.00015577941634645342,19571,-1.9072650131035564e-05,0.0003306314828239424
+2008,17-29 J.,female,4.0,5.1926472115484474e-05,19571,-4.902965823770002e-05,0.00015288260246866897
+2012,46-65 J.,female,2.0,0.112284138731679,28166,0.10859699829193702,0.11597127917142099
+2012,46-65 J.,male,2.0,0.10891017268901465,28166,0.10527195693483105,0.11254838844319826
+2012,30-45 J.,female,2.0,0.09976781308953708,28166,0.09626782973828063,0.10326779644079354
+2012,30-45 J.,female,1.0,0.08772311710927297,28166,0.08441931636626976,0.09102691785227618
+2012,30-45 J.,male,2.0,0.08641706573791902,28166,0.08313560485915367,0.08969852661668437
+2012,66 und älter,male,2.0,0.065084893339138,28166,0.062204049805172024,0.06796573687310398
+2012,66 und älter,female,2.0,0.06305325787258743,28166,0.060214654580940954,0.06589186116423391
+2012,46-65 J.,female,1.0,0.06265418662022929,28166,0.05982397796985601,0.06548439527060257
+2012,17-29 J.,female,1.0,0.044804817878392106,28166,0.04238879020907591,0.0472208455477083
+2012,30-45 J.,male,1.0,0.043934116964156146,28166,0.04154058988505641,0.04632764404325588
+2012,46-65 J.,male,1.0,0.03729502249310695,28166,0.03508210343404791,0.039507941552165984
+2012,17-29 J.,male,2.0,0.036279204759831665,28166,0.0340954795971744,0.03846292992248893
+2012,17-29 J.,female,2.0,0.030474531998258596,28166,0.02846709641896181,0.032481967577555386
+2012,66 und älter,female,1.0,0.027100565955594253,28166,0.025204224061790046,0.02899690784939846
+2012,17-29 J.,male,1.0,0.02684661152227543,28166,0.02495892935671253,0.028734293687838332
+2012,66 und älter,male,1.0,0.017341459875199534,28166,0.0158169240722386,0.01886599567816047
+2012,46-65 J.,male,3.0,0.011899579161224786,28166,0.010633211454295069,0.013165946868154503
+2012,66 und älter,male,3.0,0.007981425047162967,28166,0.006942238285085724,0.009020611809240209
+2012,30-45 J.,male,3.0,0.006530256856769699,28166,0.005589589792524472,0.007470923921014927
+2012,46-65 J.,female,3.0,0.005369322304455086,28166,0.004515860389100816,0.006222784219809357
+2012,66 und älter,female,3.0,0.00500653025685677,28166,0.004182255458710441,0.005830805055003098
+2012,30-45 J.,female,3.0,0.0038818749093019883,28166,0.0031556524542195787,0.004608097364384398
+2012,17-29 J.,male,3.0,0.0038455957045421566,28166,0.0031227616158272828,0.00456842979325703
+2012,17-29 J.,female,3.0,0.0015962850094325932,28166,0.0011300533127076924,0.002062516706157494
+2012,66 und älter,female,4.0,0.0012697721665941083,28166,0.0008538802467955685,0.0016856640863926482
+2012,66 und älter,male,4.0,0.0007618632999564649,28166,0.00043963289947583303,0.0010840937004370967
+2012,46-65 J.,male,4.0,0.00065302568567697,28166,0.00035468205759839496,0.000951369313755545
+2012,46-65 J.,female,4.0,0.000326512842838485,28166,0.00011551757990383194,0.000537508105773138
+2012,17-29 J.,male,4.0,0.000326512842838485,28166,0.00011551757990383194,0.000537508105773138
+2012,30-45 J.,female,4.0,0.0002902336380786533,28166,9.130178682782174e-05,0.0004891654893294849
+2012,30-45 J.,male,4.0,0.00021767522855898998,28166,4.5388939870069054e-05,0.00038996151724791093
+2012,17-29 J.,female,4.0,7.255840951966333e-05,28166,-2.6918344293278907e-05,0.00017203516333260557
+2016,46-65 J.,male,2.0,0.10992863919481913,27798,0.10625144017534877,0.11360583821428949
+2016,46-65 J.,female,2.0,0.10947489997112568,27798,0.10580436254201585,0.11314543740023551
+2016,30-45 J.,female,2.0,0.0850554799323516,27798,0.08177605400455559,0.08833490586014761
+2016,30-45 J.,female,1.0,0.07998185043105226,27798,0.07679293341931515,0.08317076744278937
+2016,30-45 J.,male,2.0,0.07569195231613249,27798,0.07258250991239133,0.07880139471987364
+2016,46-65 J.,female,1.0,0.07445448170605948,27798,0.07136849813589323,0.07754046527622573
+2016,66 und älter,male,2.0,0.06789588747267253,27798,0.06493853395315652,0.07085324099218854
+2016,66 und älter,female,2.0,0.06422472466278926,27798,0.061342776236006535,0.067106673089572
+2016,17-29 J.,female,1.0,0.04883884007754816,27798,0.04630511773882044,0.05137256241627587
+2016,30-45 J.,male,1.0,0.04153776347811739,27798,0.03919213970954909,0.043883387246685696
+2016,46-65 J.,male,1.0,0.04145526543744586,27798,0.03911187129976594,0.043798659575125784
+2016,17-29 J.,male,2.0,0.04108402425442396,27798,0.03875069480930323,0.043417353699544685
+2016,17-29 J.,female,2.0,0.032504228024584414,27798,0.030419527085834164,0.03458892896333466
+2016,66 und älter,female,1.0,0.02994678876376686,27798,0.027943137177735677,0.03195044034979804
+2016,17-29 J.,male,1.0,0.029905539743431093,27798,0.027903225987976888,0.0319078534988853
+2016,66 und älter,male,1.0,0.01885080229344553,27798,0.017252047933359865,0.0204495566535312
+2016,46-65 J.,male,3.0,0.011673472755022068,27798,0.010410774561345365,0.012936170948698771
+2016,66 und älter,male,3.0,0.007713566802788434,27798,0.006685087762735043,0.008742045842841824
+2016,46-65 J.,female,3.0,0.00610485500969352,27798,0.005189146484222764,0.007020563535164275
+2016,30-45 J.,male,3.0,0.005939858928350451,27798,0.005036534631931124,0.006843183224769778
+2016,17-29 J.,male,3.0,0.00416615105391247,27798,0.003408951683373485,0.004923350424451455
+2016,66 und älter,female,3.0,0.004124902033576703,27798,0.0033714448952756504,0.004878359171877756
+2016,30-45 J.,female,3.0,0.00346491770820443,27798,0.002774134050706237,0.004155701365702623
+2016,17-29 J.,female,3.0,0.0020212019964525843,27798,0.001493225228949005,0.0025491787639561636
+2016,46-65 J.,male,4.0,0.0007837313863795735,27798,0.0004547565618388711,0.0011127062109202758
+2016,46-65 J.,female,4.0,0.0007012333457080395,27798,0.00039004146901276037,0.0010124252224033186
+2016,66 und älter,male,4.0,0.0006599843253722724,27798,0.0003580776292359513,0.0009618910215085934
+2016,66 und älter,female,4.0,0.0004949882440292043,27798,0.00023350779240383584,0.0007564686956545727
+2016,17-29 J.,male,4.0,0.0004537392236934373,27798,0.00020338558534057375,0.0007040928620463008
+2016,30-45 J.,female,4.0,0.0004124902033576703,27798,0.00017378244979376886,0.0006511979569215717
+2016,30-45 J.,male,4.0,0.0003299921626861362,27798,0.00011647664680114388,0.0005435076785711285
+2016,17-29 J.,female,4.0,0.00012374706100730108,27798,-7.017442647654754e-06,0.0002545115646622569
+2021,46-65 J.,female,2.0,0.11740725642070933,19931,0.11293816567888974,0.12187634716252892
+2021,46-65 J.,male,2.0,0.11548541144953701,19931,0.1110482259006629,0.11992259699841112
+2021,46-65 J.,female,1.0,0.08718187641954458,19931,0.08326538878266052,0.09109836405642865
+2021,66 und älter,male,2.0,0.07332129753654418,19931,0.06970244248241984,0.07694015259066851
+2021,30-45 J.,female,1.0,0.06714809853823307,19931,0.0636734191592969,0.07062277791716924
+2021,66 und älter,female,2.0,0.06545920447265739,19931,0.06202539637473477,0.06889301257058002
+2021,30-45 J.,male,2.0,0.06260555587909848,19931,0.05924230586740618,0.0659688058907908
+2021,30-45 J.,female,2.0,0.06248908042630016,19931,0.05912875172730724,0.06584940912529307
+2021,46-65 J.,male,1.0,0.055558790984799954,19931,0.052378584020736106,0.0587389979488638
+2021,17-29 J.,female,1.0,0.05154038786325782,19931,0.0484708373181173,0.05460993840839834
+2021,30-45 J.,male,1.0,0.03820394851784986,19931,0.035542689492768495,0.04086520754293123
+2021,17-29 J.,male,2.0,0.03750509580105993,19931,0.034867332110542916,0.04014285949157694
+2021,17-29 J.,male,1.0,0.035000873565895985,19931,0.03244938028632021,0.03755236684547176
+2021,66 und älter,female,1.0,0.032846077689127014,19931,0.030371614010630543,0.035320541367623484
+2021,17-29 J.,female,2.0,0.026672878690815912,19931,0.024435930713831638,0.028909826667800186
+2021,66 und älter,male,1.0,0.021489721041290547,19931,0.019476508571104625,0.02350293351147647
+2021,46-65 J.,male,3.0,0.011938733911828082,19931,0.010430868426520941,0.013446599397135222
+2021,66 und älter,male,3.0,0.007512666705491817,19931,0.006313854725771045,0.00871147868521259
+2021,46-65 J.,female,3.0,0.006522625356706074,19931,0.005405037344961979,0.0076402133684501695
+2021,30-45 J.,male,3.0,0.005532584007920331,19931,0.004502788923928,0.0065623790919126625
+2021,30-45 J.,female,3.0,0.004600780385533749,19931,0.0036612606089694707,0.005540300162098027
+2021,17-29 J.,male,3.0,0.0040766408479412965,19931,0.003192022970119806,0.004961258725762786
+2021,66 und älter,female,3.0,0.004018403121542135,19931,0.0031401009935547613,0.0048967052495295085
+2021,17-29 J.,female,3.0,0.0022130336031681323,19931,0.00156064788607391,0.0028654193202623545
+2021,46-65 J.,male,4.0,0.000931803622386582,19931,0.0005082081679500655,0.0013553990768230984
+2021,66 und älter,male,4.0,0.0008153281695882593,19931,0.00041906780750759607,0.0012115885316689224
+2021,66 und älter,female,4.0,0.0005823772639916138,19931,0.00024743709568309245,0.0009173174323001351
+2021,30-45 J.,female,4.0,0.00040766408479412964,19931,0.00012740854146643676,0.0006879196281218225
+2021,30-45 J.,male,4.0,0.0002911886319958069,19931,5.431566777822257e-05,0.0005280615962133912
+2021,46-65 J.,female,4.0,0.0002911886319958069,19931,5.431566777822257e-05,0.0005280615962133912
+2021,17-29 J.,male,4.0,0.0002329509055966455,19931,2.1079114594604035e-05,0.00044482269659868693
+2021,17-29 J.,female,4.0,0.00011647545279832275,19931,-3.334925408221517e-05,0.00026630015967886065

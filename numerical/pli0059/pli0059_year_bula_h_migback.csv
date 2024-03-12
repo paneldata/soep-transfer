@@ -1,586 +1,1610 @@
-"year","bula_h","migback","mean","median","n","lower_confidence_mean","upper_confidence_mean"
-"2008","Baden-Württemberg","direkter Migrationshintergrund","7.08","6.5","435","6.97","7.19"
-"2008","Baden-Württemberg","indirekter Migrationshintergrund","7.05","6.5","178","6.9","7.2"
-"2008","Baden-Württemberg","kein Migrationshintergrund","7.09","6.5","1744","7.04","7.14"
-"2008","Bayern","direkter Migrationshintergrund","6.93","6.5","288","6.78","7.08"
-"2008","Bayern","indirekter Migrationshintergrund","7.1","6.5","129","6.87","7.33"
-"2008","Bayern","kein Migrationshintergrund","7.16","6.5","2324","7.11","7.21"
-"2008","Berlin","direkter Migrationshintergrund","7.36","6.5","49","6.94","7.78"
-"2008","Berlin","indirekter Migrationshintergrund","","","","",""
-"2008","Berlin","kein Migrationshintergrund","7","6.5","644","6.91","7.09"
-"2008","Brandenburg","direkter Migrationshintergrund","","","","",""
-"2008","Brandenburg","indirekter Migrationshintergrund","","","","",""
-"2008","Brandenburg","kein Migrationshintergrund","7.22","6.5","797","7.14","7.3"
-"2008","Bremen","direkter Migrationshintergrund","","","","",""
-"2008","Bremen","indirekter Migrationshintergrund","","","","",""
-"2008","Bremen","kein Migrationshintergrund","7.05","6.5","125","6.85","7.25"
-"2008","Hamburg","direkter Migrationshintergrund","","","","",""
-"2008","Hamburg","indirekter Migrationshintergrund","","","","",""
-"2008","Hamburg","kein Migrationshintergrund","6.99","6.5","247","6.83","7.15"
-"2008","Hessen","direkter Migrationshintergrund","6.79","6.5","182","6.56","7.02"
-"2008","Hessen","indirekter Migrationshintergrund","6.92","6.5","68","6.68","7.16"
-"2008","Hessen","kein Migrationshintergrund","7.04","6.5","1061","6.97","7.11"
-"2008","Mecklenburg-Vorpommern","direkter Migrationshintergrund","","","","",""
-"2008","Mecklenburg-Vorpommern","indirekter Migrationshintergrund","","","","",""
-"2008","Mecklenburg-Vorpommern","kein Migrationshintergrund","7.07","6.5","480","6.96","7.18"
-"2008","Niedersachsen","direkter Migrationshintergrund","7.07","6.5","149","6.89","7.25"
-"2008","Niedersachsen","indirekter Migrationshintergrund","7.02","6.5","48","6.68","7.36"
-"2008","Niedersachsen","kein Migrationshintergrund","6.98","6.5","1535","6.92","7.04"
-"2008","Nordrhein-Westfalen","direkter Migrationshintergrund","6.96","6.5","513","6.85","7.07"
-"2008","Nordrhein-Westfalen","indirekter Migrationshintergrund","7.12","6.5","215","6.95","7.29"
-"2008","Nordrhein-Westfalen","kein Migrationshintergrund","7.05","6.5","3192","7.01","7.09"
-"2008","Rheinland-Pfalz,Saarland","direkter Migrationshintergrund","7.39","7.5","142","7.2","7.58"
-"2008","Rheinland-Pfalz,Saarland","indirekter Migrationshintergrund","6.81","6.5","50","6.48","7.14"
-"2008","Rheinland-Pfalz,Saarland","kein Migrationshintergrund","6.99","6.5","902","6.91","7.07"
-"2008","Sachsen","direkter Migrationshintergrund","","","","",""
-"2008","Sachsen","indirekter Migrationshintergrund","","","","",""
-"2008","Sachsen","kein Migrationshintergrund","7.06","6.5","1397","7","7.12"
-"2008","Sachsen-Anhalt","direkter Migrationshintergrund","","","","",""
-"2008","Sachsen-Anhalt","indirekter Migrationshintergrund","","","","",""
-"2008","Sachsen-Anhalt","kein Migrationshintergrund","7.03","6.5","790","6.95","7.11"
-"2008","Schleswig-Holstein","direkter Migrationshintergrund","7","6.5","44","6.71","7.29"
-"2008","Schleswig-Holstein","indirekter Migrationshintergrund","","","","",""
-"2008","Schleswig-Holstein","kein Migrationshintergrund","7.03","6.5","498","6.92","7.14"
-"2008","Thüringen","direkter Migrationshintergrund","","","","",""
-"2008","Thüringen","indirekter Migrationshintergrund","","","","",""
-"2008","Thüringen","kein Migrationshintergrund","7.19","6.5","847","7.11","7.27"
-"2009","Baden-Württemberg","direkter Migrationshintergrund","7.15","6.5","349","7.01","7.29"
-"2009","Baden-Württemberg","indirekter Migrationshintergrund","7.07","6.5","155","6.9","7.24"
-"2009","Baden-Württemberg","kein Migrationshintergrund","7.02","6.5","1593","6.97","7.07"
-"2009","Bayern","direkter Migrationshintergrund","6.92","6.5","259","6.77","7.07"
-"2009","Bayern","indirekter Migrationshintergrund","6.92","6.5","121","6.73","7.11"
-"2009","Bayern","kein Migrationshintergrund","7.12","6.5","2217","7.07","7.17"
-"2009","Berlin","direkter Migrationshintergrund","6.82","6.5","50","6.39","7.25"
-"2009","Berlin","indirekter Migrationshintergrund","","","","",""
-"2009","Berlin","kein Migrationshintergrund","6.96","6.5","611","6.87","7.05"
-"2009","Brandenburg","direkter Migrationshintergrund","","","","",""
-"2009","Brandenburg","indirekter Migrationshintergrund","","","","",""
-"2009","Brandenburg","kein Migrationshintergrund","7.12","6.5","760","7.04","7.2"
-"2009","Bremen","direkter Migrationshintergrund","","","","",""
-"2009","Bremen","indirekter Migrationshintergrund","","","","",""
-"2009","Bremen","kein Migrationshintergrund","7.09","6.5","114","6.9","7.28"
-"2009","Hamburg","direkter Migrationshintergrund","","","","",""
-"2009","Hamburg","indirekter Migrationshintergrund","","","","",""
-"2009","Hamburg","kein Migrationshintergrund","6.99","6.5","242","6.85","7.13"
-"2009","Hessen","direkter Migrationshintergrund","6.95","6.5","159","6.74","7.16"
-"2009","Hessen","indirekter Migrationshintergrund","7.03","6.5","61","6.75","7.31"
-"2009","Hessen","kein Migrationshintergrund","6.96","6.5","992","6.89","7.03"
-"2009","Mecklenburg-Vorpommern","direkter Migrationshintergrund","","","","",""
-"2009","Mecklenburg-Vorpommern","indirekter Migrationshintergrund","","","","",""
-"2009","Mecklenburg-Vorpommern","kein Migrationshintergrund","7.06","6.5","460","6.96","7.16"
-"2009","Niedersachsen","direkter Migrationshintergrund","6.99","6.5","130","6.8","7.18"
-"2009","Niedersachsen","indirekter Migrationshintergrund","6.55","6.5","44","6.17","6.93"
-"2009","Niedersachsen","kein Migrationshintergrund","6.86","6.5","1450","6.8","6.92"
-"2009","Nordrhein-Westfalen","direkter Migrationshintergrund","7","6.5","444","6.89","7.11"
-"2009","Nordrhein-Westfalen","indirekter Migrationshintergrund","7.16","6.5","197","7.01","7.31"
-"2009","Nordrhein-Westfalen","kein Migrationshintergrund","7","6.5","2975","6.96","7.04"
-"2009","Rheinland-Pfalz,Saarland","direkter Migrationshintergrund","7.12","6.5","133","6.9","7.34"
-"2009","Rheinland-Pfalz,Saarland","indirekter Migrationshintergrund","7.18","6.5","57","6.93","7.43"
-"2009","Rheinland-Pfalz,Saarland","kein Migrationshintergrund","7.06","6.5","827","6.97","7.15"
-"2009","Sachsen","direkter Migrationshintergrund","","","","",""
-"2009","Sachsen","indirekter Migrationshintergrund","","","","",""
-"2009","Sachsen","kein Migrationshintergrund","6.97","6.5","1332","6.91","7.03"
-"2009","Sachsen-Anhalt","direkter Migrationshintergrund","","","","",""
-"2009","Sachsen-Anhalt","indirekter Migrationshintergrund","","","","",""
-"2009","Sachsen-Anhalt","kein Migrationshintergrund","7.01","6.5","749","6.93","7.09"
-"2009","Schleswig-Holstein","direkter Migrationshintergrund","7.03","6.5","44","6.78","7.28"
-"2009","Schleswig-Holstein","indirekter Migrationshintergrund","","","","",""
-"2009","Schleswig-Holstein","kein Migrationshintergrund","7.12","6.5","454","7.01","7.23"
-"2009","Thüringen","direkter Migrationshintergrund","","","","",""
-"2009","Thüringen","indirekter Migrationshintergrund","","","","",""
-"2009","Thüringen","kein Migrationshintergrund","7.08","6.5","803","6.99","7.17"
-"2010","Baden-Württemberg","direkter Migrationshintergrund","6.87","6.5","486","6.76","6.98"
-"2010","Baden-Württemberg","indirekter Migrationshintergrund","6.85","6.5","221","6.7","7"
-"2010","Baden-Württemberg","kein Migrationshintergrund","7.03","6.5","2176","6.99","7.07"
-"2010","Bayern","direkter Migrationshintergrund","6.84","6.5","440","6.72","6.96"
-"2010","Bayern","indirekter Migrationshintergrund","6.75","6.5","186","6.59","6.91"
-"2010","Bayern","kein Migrationshintergrund","7.04","6.5","2954","7","7.08"
-"2010","Berlin","direkter Migrationshintergrund","7.26","7.5","105","6.99","7.53"
-"2010","Berlin","indirekter Migrationshintergrund","6.6","5.5","47","6.28","6.92"
-"2010","Berlin","kein Migrationshintergrund","6.91","6.5","772","6.83","6.99"
-"2010","Brandenburg","direkter Migrationshintergrund","","","","",""
-"2010","Brandenburg","indirekter Migrationshintergrund","","","","",""
-"2010","Brandenburg","kein Migrationshintergrund","6.93","6.5","910","6.85","7.01"
-"2010","Bremen","direkter Migrationshintergrund","","","","",""
-"2010","Bremen","indirekter Migrationshintergrund","","","","",""
-"2010","Bremen","kein Migrationshintergrund","7.11","6.5","147","6.91","7.31"
-"2010","Hamburg","direkter Migrationshintergrund","7.15","6.5","48","6.86","7.44"
-"2010","Hamburg","indirekter Migrationshintergrund","","","","",""
-"2010","Hamburg","kein Migrationshintergrund","7.11","6.5","313","6.99","7.23"
-"2010","Hessen","direkter Migrationshintergrund","6.97","6.5","312","6.83","7.11"
-"2010","Hessen","indirekter Migrationshintergrund","7.25","6.5","93","7.02","7.48"
-"2010","Hessen","kein Migrationshintergrund","6.92","6.5","1263","6.86","6.98"
-"2010","Mecklenburg-Vorpommern","direkter Migrationshintergrund","","","","",""
-"2010","Mecklenburg-Vorpommern","indirekter Migrationshintergrund","","","","",""
-"2010","Mecklenburg-Vorpommern","kein Migrationshintergrund","6.93","6.5","570","6.83","7.03"
-"2010","Niedersachsen","direkter Migrationshintergrund","6.91","6.5","222","6.75","7.07"
-"2010","Niedersachsen","indirekter Migrationshintergrund","7.16","6.5","71","6.85","7.47"
-"2010","Niedersachsen","kein Migrationshintergrund","6.93","6.5","1884","6.88","6.98"
-"2010","Nordrhein-Westfalen","direkter Migrationshintergrund","6.97","6.5","877","6.89","7.05"
-"2010","Nordrhein-Westfalen","indirekter Migrationshintergrund","7.1","6.5","341","6.98","7.22"
-"2010","Nordrhein-Westfalen","kein Migrationshintergrund","6.98","6.5","3755","6.94","7.02"
-"2010","Rheinland-Pfalz,Saarland","direkter Migrationshintergrund","7.09","6.5","192","6.91","7.27"
-"2010","Rheinland-Pfalz,Saarland","indirekter Migrationshintergrund","6.98","6.5","77","6.68","7.28"
-"2010","Rheinland-Pfalz,Saarland","kein Migrationshintergrund","6.92","6.5","1066","6.85","6.99"
-"2010","Sachsen","direkter Migrationshintergrund","6.87","6.5","35","6.45","7.29"
-"2010","Sachsen","indirekter Migrationshintergrund","","","","",""
-"2010","Sachsen","kein Migrationshintergrund","6.9","6.5","1619","6.84","6.96"
-"2010","Sachsen-Anhalt","direkter Migrationshintergrund","","","","",""
-"2010","Sachsen-Anhalt","indirekter Migrationshintergrund","","","","",""
-"2010","Sachsen-Anhalt","kein Migrationshintergrund","6.95","6.5","881","6.87","7.03"
-"2010","Schleswig-Holstein","direkter Migrationshintergrund","6.44","6.5","76","6.12","6.76"
-"2010","Schleswig-Holstein","indirekter Migrationshintergrund","","","","",""
-"2010","Schleswig-Holstein","kein Migrationshintergrund","6.87","6.5","627","6.78","6.96"
-"2010","Thüringen","direkter Migrationshintergrund","","","","",""
-"2010","Thüringen","indirekter Migrationshintergrund","","","","",""
-"2010","Thüringen","kein Migrationshintergrund","7.1","6.5","926","7.02","7.18"
-"2011","Baden-Württemberg","direkter Migrationshintergrund","6.8","6.5","547","6.7","6.9"
-"2011","Baden-Württemberg","indirekter Migrationshintergrund","6.93","6.5","255","6.8","7.06"
-"2011","Baden-Württemberg","kein Migrationshintergrund","6.95","6.5","2728","6.91","6.99"
-"2011","Bayern","direkter Migrationshintergrund","6.8","6.5","490","6.69","6.91"
-"2011","Bayern","indirekter Migrationshintergrund","7.01","6.5","213","6.84","7.18"
-"2011","Bayern","kein Migrationshintergrund","7.02","6.5","3725","6.98","7.06"
-"2011","Berlin","direkter Migrationshintergrund","7.04","6.5","93","6.74","7.34"
-"2011","Berlin","indirekter Migrationshintergrund","7.03","6.5","49","6.71","7.35"
-"2011","Berlin","kein Migrationshintergrund","6.93","6.5","875","6.85","7.01"
-"2011","Brandenburg","direkter Migrationshintergrund","7.34","7.5","38","6.92","7.76"
-"2011","Brandenburg","indirekter Migrationshintergrund","","","","",""
-"2011","Brandenburg","kein Migrationshintergrund","7.02","6.5","1090","6.94","7.1"
-"2011","Bremen","direkter Migrationshintergrund","6.72","6.5","30","6.34","7.1"
-"2011","Bremen","indirekter Migrationshintergrund","","","","",""
-"2011","Bremen","kein Migrationshintergrund","6.59","6.5","152","6.4","6.78"
-"2011","Hamburg","direkter Migrationshintergrund","7.01","6.5","48","6.72","7.3"
-"2011","Hamburg","indirekter Migrationshintergrund","","","","",""
-"2011","Hamburg","kein Migrationshintergrund","6.91","6.5","357","6.8","7.02"
-"2011","Hessen","direkter Migrationshintergrund","6.82","6.5","334","6.69","6.95"
-"2011","Hessen","indirekter Migrationshintergrund","7.12","6.5","117","6.9","7.34"
-"2011","Hessen","kein Migrationshintergrund","6.9","6.5","1509","6.84","6.96"
-"2011","Mecklenburg-Vorpommern","direkter Migrationshintergrund","","","","",""
-"2011","Mecklenburg-Vorpommern","indirekter Migrationshintergrund","","","","",""
-"2011","Mecklenburg-Vorpommern","kein Migrationshintergrund","6.93","6.5","638","6.83","7.03"
-"2011","Niedersachsen","direkter Migrationshintergrund","7.02","6.5","279","6.89","7.15"
-"2011","Niedersachsen","indirekter Migrationshintergrund","6.77","6.5","78","6.46","7.08"
-"2011","Niedersachsen","kein Migrationshintergrund","6.89","6.5","2274","6.84","6.94"
-"2011","Nordrhein-Westfalen","direkter Migrationshintergrund","6.97","6.5","960","6.89","7.05"
-"2011","Nordrhein-Westfalen","indirekter Migrationshintergrund","7.09","6.5","370","6.97","7.21"
-"2011","Nordrhein-Westfalen","kein Migrationshintergrund","6.96","6.5","4383","6.92","7"
-"2011","Rheinland-Pfalz,Saarland","direkter Migrationshintergrund","6.83","6.5","219","6.68","6.98"
-"2011","Rheinland-Pfalz,Saarland","indirekter Migrationshintergrund","6.45","5.5","82","6.11","6.79"
-"2011","Rheinland-Pfalz,Saarland","kein Migrationshintergrund","6.88","6.5","1306","6.82","6.94"
-"2011","Sachsen","direkter Migrationshintergrund","6.54","5.5","39","6.16","6.92"
-"2011","Sachsen","indirekter Migrationshintergrund","","","","",""
-"2011","Sachsen","kein Migrationshintergrund","6.91","6.5","1772","6.86","6.96"
-"2011","Sachsen-Anhalt","direkter Migrationshintergrund","","","","",""
-"2011","Sachsen-Anhalt","indirekter Migrationshintergrund","","","","",""
-"2011","Sachsen-Anhalt","kein Migrationshintergrund","6.88","6.5","1061","6.8","6.96"
-"2011","Schleswig-Holstein","direkter Migrationshintergrund","6.79","6.5","105","6.56","7.02"
-"2011","Schleswig-Holstein","indirekter Migrationshintergrund","7.2","7.5","33","6.66","7.74"
-"2011","Schleswig-Holstein","kein Migrationshintergrund","6.98","6.5","845","6.9","7.06"
-"2011","Thüringen","direkter Migrationshintergrund","","","","",""
-"2011","Thüringen","indirekter Migrationshintergrund","","","","",""
-"2011","Thüringen","kein Migrationshintergrund","7.1","6.5","1071","7.03","7.17"
-"2012","Baden-Württemberg","direkter Migrationshintergrund","6.88","6.5","500","6.77","6.99"
-"2012","Baden-Württemberg","indirekter Migrationshintergrund","6.92","6.5","232","6.78","7.06"
-"2012","Baden-Württemberg","kein Migrationshintergrund","7.03","6.5","2600","6.99","7.07"
-"2012","Bayern","direkter Migrationshintergrund","6.83","6.5","498","6.71","6.95"
-"2012","Bayern","indirekter Migrationshintergrund","6.53","6.5","226","6.37","6.69"
-"2012","Bayern","kein Migrationshintergrund","6.99","6.5","3619","6.95","7.03"
-"2012","Berlin","direkter Migrationshintergrund","6.85","6.5","82","6.56","7.14"
-"2012","Berlin","indirekter Migrationshintergrund","7.08","6.5","44","6.75","7.41"
-"2012","Berlin","kein Migrationshintergrund","6.81","6.5","912","6.73","6.89"
-"2012","Brandenburg","direkter Migrationshintergrund","6.69","6.5","37","6.28","7.1"
-"2012","Brandenburg","indirekter Migrationshintergrund","","","","",""
-"2012","Brandenburg","kein Migrationshintergrund","6.92","6.5","1051","6.84","7"
-"2012","Bremen","direkter Migrationshintergrund","7.22","6.5","30","6.85","7.59"
-"2012","Bremen","indirekter Migrationshintergrund","","","","",""
-"2012","Bremen","kein Migrationshintergrund","6.76","6.5","158","6.59","6.93"
-"2012","Hamburg","direkter Migrationshintergrund","7.05","6.5","44","6.74","7.36"
-"2012","Hamburg","indirekter Migrationshintergrund","","","","",""
-"2012","Hamburg","kein Migrationshintergrund","7.06","6.5","365","6.94","7.18"
-"2012","Hessen","direkter Migrationshintergrund","6.87","6.5","297","6.72","7.02"
-"2012","Hessen","indirekter Migrationshintergrund","6.99","6.5","118","6.76","7.22"
-"2012","Hessen","kein Migrationshintergrund","6.92","6.5","1486","6.86","6.98"
-"2012","Mecklenburg-Vorpommern","direkter Migrationshintergrund","","","","",""
-"2012","Mecklenburg-Vorpommern","indirekter Migrationshintergrund","","","","",""
-"2012","Mecklenburg-Vorpommern","kein Migrationshintergrund","6.93","6.5","612","6.83","7.03"
-"2012","Niedersachsen","direkter Migrationshintergrund","6.86","6.5","259","6.71","7.01"
-"2012","Niedersachsen","indirekter Migrationshintergrund","6.8","6.5","76","6.54","7.06"
-"2012","Niedersachsen","kein Migrationshintergrund","6.9","6.5","2222","6.85","6.95"
-"2012","Nordrhein-Westfalen","direkter Migrationshintergrund","6.95","6.5","900","6.87","7.03"
-"2012","Nordrhein-Westfalen","indirekter Migrationshintergrund","7.02","6.5","356","6.89","7.15"
-"2012","Nordrhein-Westfalen","kein Migrationshintergrund","6.97","6.5","4269","6.93","7.01"
-"2012","Rheinland-Pfalz,Saarland","direkter Migrationshintergrund","6.81","6.5","193","6.64","6.98"
-"2012","Rheinland-Pfalz,Saarland","indirekter Migrationshintergrund","6.94","6.5","88","6.71","7.17"
-"2012","Rheinland-Pfalz,Saarland","kein Migrationshintergrund","6.93","6.5","1284","6.86","7"
-"2012","Sachsen","direkter Migrationshintergrund","7.08","6.5","43","6.74","7.42"
-"2012","Sachsen","indirekter Migrationshintergrund","","","","",""
-"2012","Sachsen","kein Migrationshintergrund","6.93","6.5","1778","6.87","6.99"
-"2012","Sachsen-Anhalt","direkter Migrationshintergrund","","","","",""
-"2012","Sachsen-Anhalt","indirekter Migrationshintergrund","","","","",""
-"2012","Sachsen-Anhalt","kein Migrationshintergrund","6.88","6.5","996","6.8","6.96"
-"2012","Schleswig-Holstein","direkter Migrationshintergrund","7.34","6.5","95","7.15","7.53"
-"2012","Schleswig-Holstein","indirekter Migrationshintergrund","6.96","6.5","30","6.46","7.46"
-"2012","Schleswig-Holstein","kein Migrationshintergrund","7","6.5","857","6.92","7.08"
-"2012","Thüringen","direkter Migrationshintergrund","","","","",""
-"2012","Thüringen","indirekter Migrationshintergrund","","","","",""
-"2012","Thüringen","kein Migrationshintergrund","7.12","6.5","1044","7.04","7.2"
-"2013","Baden-Württemberg","direkter Migrationshintergrund","6.9","6.5","431","6.79","7.01"
-"2013","Baden-Württemberg","indirekter Migrationshintergrund","6.8","6.5","214","6.64","6.96"
-"2013","Baden-Württemberg","kein Migrationshintergrund","6.95","6.5","2374","6.91","6.99"
-"2013","Bayern","direkter Migrationshintergrund","6.76","6.5","440","6.63","6.89"
-"2013","Bayern","indirekter Migrationshintergrund","6.88","6.5","212","6.73","7.03"
-"2013","Bayern","kein Migrationshintergrund","6.98","6.5","3388","6.94","7.02"
-"2013","Berlin","direkter Migrationshintergrund","6.39","6.5","75","6.07","6.71"
-"2013","Berlin","indirekter Migrationshintergrund","7.04","6.5","43","6.71","7.37"
-"2013","Berlin","kein Migrationshintergrund","6.83","6.5","869","6.75","6.91"
-"2013","Brandenburg","direkter Migrationshintergrund","7.16","6.5","36","6.69","7.63"
-"2013","Brandenburg","indirekter Migrationshintergrund","","","","",""
-"2013","Brandenburg","kein Migrationshintergrund","6.86","6.5","977","6.78","6.94"
-"2013","Bremen","direkter Migrationshintergrund","6.31","5.5","30","5.93","6.69"
-"2013","Bremen","indirekter Migrationshintergrund","","","","",""
-"2013","Bremen","kein Migrationshintergrund","6.59","6.5","144","6.37","6.81"
-"2013","Hamburg","direkter Migrationshintergrund","6.88","6.5","43","6.49","7.27"
-"2013","Hamburg","indirekter Migrationshintergrund","","","","",""
-"2013","Hamburg","kein Migrationshintergrund","6.95","6.5","337","6.83","7.07"
-"2013","Hessen","direkter Migrationshintergrund","6.76","6.5","283","6.6","6.92"
-"2013","Hessen","indirekter Migrationshintergrund","6.68","6.5","110","6.43","6.93"
-"2013","Hessen","kein Migrationshintergrund","6.91","6.5","1369","6.85","6.97"
-"2013","Mecklenburg-Vorpommern","direkter Migrationshintergrund","","","","",""
-"2013","Mecklenburg-Vorpommern","indirekter Migrationshintergrund","","","","",""
-"2013","Mecklenburg-Vorpommern","kein Migrationshintergrund","6.9","6.5","560","6.8","7"
-"2013","Niedersachsen","direkter Migrationshintergrund","6.96","6.5","234","6.81","7.11"
-"2013","Niedersachsen","indirekter Migrationshintergrund","6.88","6.5","85","6.64","7.12"
-"2013","Niedersachsen","kein Migrationshintergrund","6.85","6.5","2157","6.8","6.9"
-"2013","Nordrhein-Westfalen","direkter Migrationshintergrund","6.85","6.5","772","6.77","6.93"
-"2013","Nordrhein-Westfalen","indirekter Migrationshintergrund","7.01","6.5","334","6.88","7.14"
-"2013","Nordrhein-Westfalen","kein Migrationshintergrund","6.89","6.5","4019","6.85","6.93"
-"2013","Rheinland-Pfalz,Saarland","direkter Migrationshintergrund","6.74","6.5","182","6.57","6.91"
-"2013","Rheinland-Pfalz,Saarland","indirekter Migrationshintergrund","7.05","6.5","74","6.78","7.32"
-"2013","Rheinland-Pfalz,Saarland","kein Migrationshintergrund","6.93","6.5","1182","6.86","7"
-"2013","Sachsen","direkter Migrationshintergrund","6.22","5.5","37","5.78","6.66"
-"2013","Sachsen","indirekter Migrationshintergrund","","","","",""
-"2013","Sachsen","kein Migrationshintergrund","6.83","6.5","1646","6.77","6.89"
-"2013","Sachsen-Anhalt","direkter Migrationshintergrund","","","","",""
-"2013","Sachsen-Anhalt","indirekter Migrationshintergrund","","","","",""
-"2013","Sachsen-Anhalt","kein Migrationshintergrund","6.95","6.5","932","6.87","7.03"
-"2013","Schleswig-Holstein","direkter Migrationshintergrund","7.12","6.5","85","6.85","7.39"
-"2013","Schleswig-Holstein","indirekter Migrationshintergrund","6.95","6.5","32","6.58","7.32"
-"2013","Schleswig-Holstein","kein Migrationshintergrund","6.96","6.5","798","6.88","7.04"
-"2013","Thüringen","direkter Migrationshintergrund","","","","",""
-"2013","Thüringen","indirekter Migrationshintergrund","","","","",""
-"2013","Thüringen","kein Migrationshintergrund","7.06","6.5","971","6.98","7.14"
-"2014","Baden-Württemberg","direkter Migrationshintergrund","","","","",""
-"2014","Baden-Württemberg","indirekter Migrationshintergrund","","","","",""
-"2014","Baden-Württemberg","kein Migrationshintergrund","","","","",""
-"2014","Bayern","direkter Migrationshintergrund","","","","",""
-"2014","Bayern","indirekter Migrationshintergrund","","","","",""
-"2014","Bayern","kein Migrationshintergrund","","","","",""
-"2014","Berlin","direkter Migrationshintergrund","","","","",""
-"2014","Berlin","indirekter Migrationshintergrund","","","","",""
-"2014","Berlin","kein Migrationshintergrund","","","","",""
-"2014","Brandenburg","direkter Migrationshintergrund","","","","",""
-"2014","Brandenburg","indirekter Migrationshintergrund","","","","",""
-"2014","Brandenburg","kein Migrationshintergrund","","","","",""
-"2014","Bremen","direkter Migrationshintergrund","","","","",""
-"2014","Bremen","indirekter Migrationshintergrund","","","","",""
-"2014","Bremen","kein Migrationshintergrund","","","","",""
-"2014","Hamburg","direkter Migrationshintergrund","","","","",""
-"2014","Hamburg","indirekter Migrationshintergrund","","","","",""
-"2014","Hamburg","kein Migrationshintergrund","","","","",""
-"2014","Hessen","direkter Migrationshintergrund","","","","",""
-"2014","Hessen","indirekter Migrationshintergrund","","","","",""
-"2014","Hessen","kein Migrationshintergrund","","","","",""
-"2014","Mecklenburg-Vorpommern","direkter Migrationshintergrund","","","","",""
-"2014","Mecklenburg-Vorpommern","indirekter Migrationshintergrund","","","","",""
-"2014","Mecklenburg-Vorpommern","kein Migrationshintergrund","","","","",""
-"2014","Niedersachsen","direkter Migrationshintergrund","","","","",""
-"2014","Niedersachsen","indirekter Migrationshintergrund","","","","",""
-"2014","Niedersachsen","kein Migrationshintergrund","","","","",""
-"2014","Nordrhein-Westfalen","direkter Migrationshintergrund","","","","",""
-"2014","Nordrhein-Westfalen","indirekter Migrationshintergrund","","","","",""
-"2014","Nordrhein-Westfalen","kein Migrationshintergrund","","","","",""
-"2014","Rheinland-Pfalz,Saarland","direkter Migrationshintergrund","","","","",""
-"2014","Rheinland-Pfalz,Saarland","indirekter Migrationshintergrund","","","","",""
-"2014","Rheinland-Pfalz,Saarland","kein Migrationshintergrund","","","","",""
-"2014","Sachsen","direkter Migrationshintergrund","","","","",""
-"2014","Sachsen","indirekter Migrationshintergrund","","","","",""
-"2014","Sachsen","kein Migrationshintergrund","","","","",""
-"2014","Sachsen-Anhalt","direkter Migrationshintergrund","","","","",""
-"2014","Sachsen-Anhalt","indirekter Migrationshintergrund","","","","",""
-"2014","Sachsen-Anhalt","kein Migrationshintergrund","","","","",""
-"2014","Schleswig-Holstein","direkter Migrationshintergrund","","","","",""
-"2014","Schleswig-Holstein","indirekter Migrationshintergrund","","","","",""
-"2014","Schleswig-Holstein","kein Migrationshintergrund","","","","",""
-"2014","Thüringen","direkter Migrationshintergrund","","","","",""
-"2014","Thüringen","indirekter Migrationshintergrund","","","","",""
-"2014","Thüringen","kein Migrationshintergrund","","","","",""
-"2015","Baden-Württemberg","direkter Migrationshintergrund","6.93","6.5","630","6.83","7.03"
-"2015","Baden-Württemberg","indirekter Migrationshintergrund","6.99","6.5","296","6.86","7.12"
-"2015","Baden-Württemberg","kein Migrationshintergrund","6.94","6.5","2054","6.89","6.99"
-"2015","Bayern","direkter Migrationshintergrund","6.8","6.5","709","6.71","6.89"
-"2015","Bayern","indirekter Migrationshintergrund","6.67","6.5","265","6.53","6.81"
-"2015","Bayern","kein Migrationshintergrund","6.94","6.5","3038","6.9","6.98"
-"2015","Berlin","direkter Migrationshintergrund","6.73","6.5","116","6.51","6.95"
-"2015","Berlin","indirekter Migrationshintergrund","6.88","6.5","51","6.54","7.22"
-"2015","Berlin","kein Migrationshintergrund","6.86","6.5","739","6.77","6.95"
-"2015","Brandenburg","direkter Migrationshintergrund","6.98","6.5","97","6.69","7.27"
-"2015","Brandenburg","indirekter Migrationshintergrund","","","","",""
-"2015","Brandenburg","kein Migrationshintergrund","6.89","6.5","873","6.81","6.97"
-"2015","Bremen","direkter Migrationshintergrund","6.95","6.5","52","6.64","7.26"
-"2015","Bremen","indirekter Migrationshintergrund","","","","",""
-"2015","Bremen","kein Migrationshintergrund","6.61","6.5","111","6.36","6.86"
-"2015","Hamburg","direkter Migrationshintergrund","7.13","6.5","93","6.89","7.37"
-"2015","Hamburg","indirekter Migrationshintergrund","7.55","6.5","33","7.16","7.94"
-"2015","Hamburg","kein Migrationshintergrund","7.16","6.5","294","7.04","7.28"
-"2015","Hessen","direkter Migrationshintergrund","6.65","6.5","366","6.53","6.77"
-"2015","Hessen","indirekter Migrationshintergrund","6.97","6.5","141","6.8","7.14"
-"2015","Hessen","kein Migrationshintergrund","6.93","6.5","1191","6.86","7"
-"2015","Mecklenburg-Vorpommern","direkter Migrationshintergrund","","","","",""
-"2015","Mecklenburg-Vorpommern","indirekter Migrationshintergrund","","","","",""
-"2015","Mecklenburg-Vorpommern","kein Migrationshintergrund","6.72","6.5","525","6.61","6.83"
-"2015","Niedersachsen","direkter Migrationshintergrund","6.78","6.5","431","6.66","6.9"
-"2015","Niedersachsen","indirekter Migrationshintergrund","6.72","6.5","105","6.49","6.95"
-"2015","Niedersachsen","kein Migrationshintergrund","6.87","6.5","1877","6.81","6.93"
-"2015","Nordrhein-Westfalen","direkter Migrationshintergrund","6.82","6.5","1160","6.75","6.89"
-"2015","Nordrhein-Westfalen","indirekter Migrationshintergrund","6.92","6.5","470","6.81","7.03"
-"2015","Nordrhein-Westfalen","kein Migrationshintergrund","6.88","6.5","3528","6.84","6.92"
-"2015","Rheinland-Pfalz,Saarland","direkter Migrationshintergrund","6.86","6.5","330","6.73","6.99"
-"2015","Rheinland-Pfalz,Saarland","indirekter Migrationshintergrund","6.62","6.5","113","6.38","6.86"
-"2015","Rheinland-Pfalz,Saarland","kein Migrationshintergrund","6.95","6.5","1048","6.87","7.03"
-"2015","Sachsen","direkter Migrationshintergrund","6.95","6.5","63","6.66","7.24"
-"2015","Sachsen","indirekter Migrationshintergrund","","","","",""
-"2015","Sachsen","kein Migrationshintergrund","6.88","6.5","1407","6.82","6.94"
-"2015","Sachsen-Anhalt","direkter Migrationshintergrund","6.64","5.5","47","6.1","7.18"
-"2015","Sachsen-Anhalt","indirekter Migrationshintergrund","","","","",""
-"2015","Sachsen-Anhalt","kein Migrationshintergrund","6.89","6.5","816","6.8","6.98"
-"2015","Schleswig-Holstein","direkter Migrationshintergrund","6.77","6.5","144","6.55","6.99"
-"2015","Schleswig-Holstein","indirekter Migrationshintergrund","6.7","6.5","48","6.37","7.03"
-"2015","Schleswig-Holstein","kein Migrationshintergrund","6.88","6.5","677","6.78","6.98"
-"2015","Thüringen","direkter Migrationshintergrund","6.22","5.5","38","5.74","6.7"
-"2015","Thüringen","indirekter Migrationshintergrund","","","","",""
-"2015","Thüringen","kein Migrationshintergrund","7.1","6.5","866","7.01","7.19"
-"2016","Baden-Württemberg","direkter Migrationshintergrund","","","","",""
-"2016","Baden-Württemberg","indirekter Migrationshintergrund","","","","",""
-"2016","Baden-Württemberg","kein Migrationshintergrund","","","","",""
-"2016","Bayern","direkter Migrationshintergrund","","","","",""
-"2016","Bayern","indirekter Migrationshintergrund","","","","",""
-"2016","Bayern","kein Migrationshintergrund","","","","",""
-"2016","Berlin","direkter Migrationshintergrund","","","","",""
-"2016","Berlin","indirekter Migrationshintergrund","","","","",""
-"2016","Berlin","kein Migrationshintergrund","","","","",""
-"2016","Brandenburg","direkter Migrationshintergrund","","","","",""
-"2016","Brandenburg","indirekter Migrationshintergrund","","","","",""
-"2016","Brandenburg","kein Migrationshintergrund","","","","",""
-"2016","Bremen","direkter Migrationshintergrund","","","","",""
-"2016","Bremen","indirekter Migrationshintergrund","","","","",""
-"2016","Bremen","kein Migrationshintergrund","","","","",""
-"2016","Hamburg","direkter Migrationshintergrund","","","","",""
-"2016","Hamburg","indirekter Migrationshintergrund","","","","",""
-"2016","Hamburg","kein Migrationshintergrund","","","","",""
-"2016","Hessen","direkter Migrationshintergrund","","","","",""
-"2016","Hessen","indirekter Migrationshintergrund","","","","",""
-"2016","Hessen","kein Migrationshintergrund","","","","",""
-"2016","Mecklenburg-Vorpommern","direkter Migrationshintergrund","","","","",""
-"2016","Mecklenburg-Vorpommern","indirekter Migrationshintergrund","","","","",""
-"2016","Mecklenburg-Vorpommern","kein Migrationshintergrund","","","","",""
-"2016","Niedersachsen","direkter Migrationshintergrund","","","","",""
-"2016","Niedersachsen","indirekter Migrationshintergrund","","","","",""
-"2016","Niedersachsen","kein Migrationshintergrund","","","","",""
-"2016","Nordrhein-Westfalen","direkter Migrationshintergrund","","","","",""
-"2016","Nordrhein-Westfalen","indirekter Migrationshintergrund","","","","",""
-"2016","Nordrhein-Westfalen","kein Migrationshintergrund","","","","",""
-"2016","Rheinland-Pfalz,Saarland","direkter Migrationshintergrund","","","","",""
-"2016","Rheinland-Pfalz,Saarland","indirekter Migrationshintergrund","","","","",""
-"2016","Rheinland-Pfalz,Saarland","kein Migrationshintergrund","","","","",""
-"2016","Sachsen","direkter Migrationshintergrund","","","","",""
-"2016","Sachsen","indirekter Migrationshintergrund","","","","",""
-"2016","Sachsen","kein Migrationshintergrund","","","","",""
-"2016","Sachsen-Anhalt","direkter Migrationshintergrund","","","","",""
-"2016","Sachsen-Anhalt","indirekter Migrationshintergrund","","","","",""
-"2016","Sachsen-Anhalt","kein Migrationshintergrund","","","","",""
-"2016","Schleswig-Holstein","direkter Migrationshintergrund","","","","",""
-"2016","Schleswig-Holstein","indirekter Migrationshintergrund","","","","",""
-"2016","Schleswig-Holstein","kein Migrationshintergrund","","","","",""
-"2016","Thüringen","direkter Migrationshintergrund","","","","",""
-"2016","Thüringen","indirekter Migrationshintergrund","","","","",""
-"2016","Thüringen","kein Migrationshintergrund","","","","",""
-"2017","Baden-Württemberg","direkter Migrationshintergrund","6.82","6.5","624","6.73","6.91"
-"2017","Baden-Württemberg","indirekter Migrationshintergrund","6.93","6.5","285","6.79","7.07"
-"2017","Baden-Württemberg","kein Migrationshintergrund","6.95","6.5","2105","6.9","7"
-"2017","Bayern","direkter Migrationshintergrund","6.7","6.5","812","6.62","6.78"
-"2017","Bayern","indirekter Migrationshintergrund","6.71","6.5","260","6.56","6.86"
-"2017","Bayern","kein Migrationshintergrund","6.91","6.5","3127","6.87","6.95"
-"2017","Berlin","direkter Migrationshintergrund","6.95","6.5","150","6.76","7.14"
-"2017","Berlin","indirekter Migrationshintergrund","7","6.5","61","6.68","7.32"
-"2017","Berlin","kein Migrationshintergrund","6.81","6.5","775","6.72","6.9"
-"2017","Brandenburg","direkter Migrationshintergrund","6.99","6.5","99","6.72","7.26"
-"2017","Brandenburg","indirekter Migrationshintergrund","","","","",""
-"2017","Brandenburg","kein Migrationshintergrund","6.85","6.5","916","6.77","6.93"
-"2017","Bremen","direkter Migrationshintergrund","6.71","6.5","67","6.43","6.99"
-"2017","Bremen","indirekter Migrationshintergrund","","","","",""
-"2017","Bremen","kein Migrationshintergrund","6.64","6.5","141","6.44","6.84"
-"2017","Hamburg","direkter Migrationshintergrund","6.69","6.5","98","6.45","6.93"
-"2017","Hamburg","indirekter Migrationshintergrund","7.3","6.5","45","7.01","7.59"
-"2017","Hamburg","kein Migrationshintergrund","7.12","6.5","318","6.99","7.25"
-"2017","Hessen","direkter Migrationshintergrund","6.63","6.5","387","6.5","6.76"
-"2017","Hessen","indirekter Migrationshintergrund","6.93","6.5","148","6.73","7.13"
-"2017","Hessen","kein Migrationshintergrund","6.82","6.5","1253","6.76","6.88"
-"2017","Mecklenburg-Vorpommern","direkter Migrationshintergrund","","","","",""
-"2017","Mecklenburg-Vorpommern","indirekter Migrationshintergrund","","","","",""
-"2017","Mecklenburg-Vorpommern","kein Migrationshintergrund","6.75","6.5","545","6.64","6.86"
-"2017","Niedersachsen","direkter Migrationshintergrund","6.76","6.5","455","6.64","6.88"
-"2017","Niedersachsen","indirekter Migrationshintergrund","6.58","6.5","136","6.38","6.78"
-"2017","Niedersachsen","kein Migrationshintergrund","6.78","6.5","2093","6.73","6.83"
-"2017","Nordrhein-Westfalen","direkter Migrationshintergrund","6.67","6.5","1216","6.6","6.74"
-"2017","Nordrhein-Westfalen","indirekter Migrationshintergrund","6.88","6.5","510","6.77","6.99"
-"2017","Nordrhein-Westfalen","kein Migrationshintergrund","6.82","6.5","3785","6.78","6.86"
-"2017","Rheinland-Pfalz,Saarland","direkter Migrationshintergrund","6.91","6.5","369","6.79","7.03"
-"2017","Rheinland-Pfalz,Saarland","indirekter Migrationshintergrund","6.4","5.5","107","6.14","6.66"
-"2017","Rheinland-Pfalz,Saarland","kein Migrationshintergrund","6.83","6.5","1045","6.75","6.91"
-"2017","Sachsen","direkter Migrationshintergrund","6.58","6.5","65","6.3","6.86"
-"2017","Sachsen","indirekter Migrationshintergrund","","","","",""
-"2017","Sachsen","kein Migrationshintergrund","6.82","6.5","1558","6.76","6.88"
-"2017","Sachsen-Anhalt","direkter Migrationshintergrund","6.68","6.5","47","6.37","6.99"
-"2017","Sachsen-Anhalt","indirekter Migrationshintergrund","","","","",""
-"2017","Sachsen-Anhalt","kein Migrationshintergrund","6.76","6.5","855","6.68","6.84"
-"2017","Schleswig-Holstein","direkter Migrationshintergrund","6.99","6.5","146","6.8","7.18"
-"2017","Schleswig-Holstein","indirekter Migrationshintergrund","7.02","6.5","46","6.69","7.35"
-"2017","Schleswig-Holstein","kein Migrationshintergrund","6.87","6.5","756","6.78","6.96"
-"2017","Thüringen","direkter Migrationshintergrund","7.38","6.5","68","7.05","7.71"
-"2017","Thüringen","indirekter Migrationshintergrund","","","","",""
-"2017","Thüringen","kein Migrationshintergrund","6.99","6.5","892","6.9","7.08"
-"2018","Baden-Württemberg","direkter Migrationshintergrund","","","","",""
-"2018","Baden-Württemberg","indirekter Migrationshintergrund","","","","",""
-"2018","Baden-Württemberg","kein Migrationshintergrund","","","","",""
-"2018","Bayern","direkter Migrationshintergrund","","","","",""
-"2018","Bayern","indirekter Migrationshintergrund","","","","",""
-"2018","Bayern","kein Migrationshintergrund","","","","",""
-"2018","Berlin","direkter Migrationshintergrund","","","","",""
-"2018","Berlin","indirekter Migrationshintergrund","","","","",""
-"2018","Berlin","kein Migrationshintergrund","","","","",""
-"2018","Brandenburg","direkter Migrationshintergrund","","","","",""
-"2018","Brandenburg","indirekter Migrationshintergrund","","","","",""
-"2018","Brandenburg","kein Migrationshintergrund","","","","",""
-"2018","Bremen","direkter Migrationshintergrund","","","","",""
-"2018","Bremen","indirekter Migrationshintergrund","","","","",""
-"2018","Bremen","kein Migrationshintergrund","","","","",""
-"2018","Hamburg","direkter Migrationshintergrund","","","","",""
-"2018","Hamburg","indirekter Migrationshintergrund","","","","",""
-"2018","Hamburg","kein Migrationshintergrund","","","","",""
-"2018","Hessen","direkter Migrationshintergrund","","","","",""
-"2018","Hessen","indirekter Migrationshintergrund","","","","",""
-"2018","Hessen","kein Migrationshintergrund","","","","",""
-"2018","Mecklenburg-Vorpommern","direkter Migrationshintergrund","","","","",""
-"2018","Mecklenburg-Vorpommern","indirekter Migrationshintergrund","","","","",""
-"2018","Mecklenburg-Vorpommern","kein Migrationshintergrund","","","","",""
-"2018","Niedersachsen","direkter Migrationshintergrund","","","","",""
-"2018","Niedersachsen","indirekter Migrationshintergrund","","","","",""
-"2018","Niedersachsen","kein Migrationshintergrund","","","","",""
-"2018","Nordrhein-Westfalen","direkter Migrationshintergrund","","","","",""
-"2018","Nordrhein-Westfalen","indirekter Migrationshintergrund","","","","",""
-"2018","Nordrhein-Westfalen","kein Migrationshintergrund","","","","",""
-"2018","Rheinland-Pfalz,Saarland","direkter Migrationshintergrund","","","","",""
-"2018","Rheinland-Pfalz,Saarland","indirekter Migrationshintergrund","","","","",""
-"2018","Rheinland-Pfalz,Saarland","kein Migrationshintergrund","","","","",""
-"2018","Sachsen","direkter Migrationshintergrund","","","","",""
-"2018","Sachsen","indirekter Migrationshintergrund","","","","",""
-"2018","Sachsen","kein Migrationshintergrund","","","","",""
-"2018","Sachsen-Anhalt","direkter Migrationshintergrund","","","","",""
-"2018","Sachsen-Anhalt","indirekter Migrationshintergrund","","","","",""
-"2018","Sachsen-Anhalt","kein Migrationshintergrund","","","","",""
-"2018","Schleswig-Holstein","direkter Migrationshintergrund","","","","",""
-"2018","Schleswig-Holstein","indirekter Migrationshintergrund","","","","",""
-"2018","Schleswig-Holstein","kein Migrationshintergrund","","","","",""
-"2018","Thüringen","direkter Migrationshintergrund","","","","",""
-"2018","Thüringen","indirekter Migrationshintergrund","","","","",""
-"2018","Thüringen","kein Migrationshintergrund","","","","",""
-"2019","Baden-Württemberg","direkter Migrationshintergrund","6.72","6.5","506","6.61","6.83"
-"2019","Baden-Württemberg","indirekter Migrationshintergrund","6.69","6.5","255","6.53","6.85"
-"2019","Baden-Württemberg","kein Migrationshintergrund","6.87","6.5","2043","6.82","6.92"
-"2019","Bayern","direkter Migrationshintergrund","6.49","6.5","645","6.4","6.58"
-"2019","Bayern","indirekter Migrationshintergrund","6.67","6.5","288","6.54","6.8"
-"2019","Bayern","kein Migrationshintergrund","6.87","6.5","3028","6.83","6.91"
-"2019","Berlin","direkter Migrationshintergrund","6.78","6.5","145","6.61","6.95"
-"2019","Berlin","indirekter Migrationshintergrund","6.32","5.5","79","6.11","6.53"
-"2019","Berlin","kein Migrationshintergrund","6.87","6.5","804","6.79","6.95"
-"2019","Brandenburg","direkter Migrationshintergrund","6.79","6.5","79","6.47","7.11"
-"2019","Brandenburg","indirekter Migrationshintergrund","6.93","6.5","38","6.56","7.3"
-"2019","Brandenburg","kein Migrationshintergrund","6.74","6.5","995","6.66","6.82"
-"2019","Bremen","direkter Migrationshintergrund","7.07","6.5","57","6.77","7.37"
-"2019","Bremen","indirekter Migrationshintergrund","","","","",""
-"2019","Bremen","kein Migrationshintergrund","6.93","6.5","148","6.73","7.13"
-"2019","Hamburg","direkter Migrationshintergrund","6.41","5.5","102","6.21","6.61"
-"2019","Hamburg","indirekter Migrationshintergrund","6.99","6.5","58","6.74","7.24"
-"2019","Hamburg","kein Migrationshintergrund","6.94","6.5","370","6.82","7.06"
-"2019","Hessen","direkter Migrationshintergrund","6.73","6.5","287","6.59","6.87"
-"2019","Hessen","indirekter Migrationshintergrund","6.8","6.5","148","6.62","6.98"
-"2019","Hessen","kein Migrationshintergrund","6.81","6.5","1279","6.75","6.87"
-"2019","Mecklenburg-Vorpommern","direkter Migrationshintergrund","","","","",""
-"2019","Mecklenburg-Vorpommern","indirekter Migrationshintergrund","","","","",""
-"2019","Mecklenburg-Vorpommern","kein Migrationshintergrund","6.74","6.5","576","6.63","6.85"
-"2019","Niedersachsen","direkter Migrationshintergrund","6.62","6.5","369","6.49","6.75"
-"2019","Niedersachsen","indirekter Migrationshintergrund","7.04","6.5","142","6.86","7.22"
-"2019","Niedersachsen","kein Migrationshintergrund","6.78","6.5","1983","6.73","6.83"
-"2019","Nordrhein-Westfalen","direkter Migrationshintergrund","6.74","6.5","1059","6.66","6.82"
-"2019","Nordrhein-Westfalen","indirekter Migrationshintergrund","6.73","6.5","535","6.63","6.83"
-"2019","Nordrhein-Westfalen","kein Migrationshintergrund","6.77","6.5","3820","6.73","6.81"
-"2019","Rheinland-Pfalz,Saarland","direkter Migrationshintergrund","6.87","6.5","309","6.72","7.02"
-"2019","Rheinland-Pfalz,Saarland","indirekter Migrationshintergrund","6.67","6.5","103","6.45","6.89"
-"2019","Rheinland-Pfalz,Saarland","kein Migrationshintergrund","6.77","6.5","1057","6.69","6.85"
-"2019","Sachsen","direkter Migrationshintergrund","6.42","5.5","58","6.13","6.71"
-"2019","Sachsen","indirekter Migrationshintergrund","6.79","6.5","40","6.43","7.15"
-"2019","Sachsen","kein Migrationshintergrund","6.76","6.5","1542","6.7","6.82"
-"2019","Sachsen-Anhalt","direkter Migrationshintergrund","7.2","6.5","39","6.88","7.52"
-"2019","Sachsen-Anhalt","indirekter Migrationshintergrund","","","","",""
-"2019","Sachsen-Anhalt","kein Migrationshintergrund","6.68","6.5","829","6.59","6.77"
-"2019","Schleswig-Holstein","direkter Migrationshintergrund","6.52","5.5","122","6.31","6.73"
-"2019","Schleswig-Holstein","indirekter Migrationshintergrund","6.65","6.5","63","6.36","6.94"
-"2019","Schleswig-Holstein","kein Migrationshintergrund","6.84","6.5","773","6.75","6.93"
-"2019","Thüringen","direkter Migrationshintergrund","6.99","6.5","52","6.68","7.3"
-"2019","Thüringen","indirekter Migrationshintergrund","","","","",""
-"2019","Thüringen","kein Migrationshintergrund","6.98","6.5","854","6.89","7.07"
-"2020","Baden-Württemberg","direkter Migrationshintergrund","6.86","6.5","1017","6.78","6.94"
-"2020","Baden-Württemberg","indirekter Migrationshintergrund","6.84","6.5","222","6.7","6.98"
-"2020","Baden-Württemberg","kein Migrationshintergrund","7.04","6.5","1931","6.99","7.09"
-"2020","Bayern","direkter Migrationshintergrund","6.7","6.5","1246","6.64","6.76"
-"2020","Bayern","indirekter Migrationshintergrund","6.88","6.5","287","6.76","7"
-"2020","Bayern","kein Migrationshintergrund","6.94","6.5","2812","6.9","6.98"
-"2020","Berlin","direkter Migrationshintergrund","7.13","6.5","431","7.04","7.22"
-"2020","Berlin","indirekter Migrationshintergrund","6.42","5.5","79","6.19","6.65"
-"2020","Berlin","kein Migrationshintergrund","6.97","6.5","767","6.89","7.05"
-"2020","Brandenburg","direkter Migrationshintergrund","6.82","6.5","195","6.63","7.01"
-"2020","Brandenburg","indirekter Migrationshintergrund","","","","",""
-"2020","Brandenburg","kein Migrationshintergrund","6.81","6.5","926","6.72","6.9"
-"2020","Bremen","direkter Migrationshintergrund","6.71","6.5","118","6.53","6.89"
-"2020","Bremen","indirekter Migrationshintergrund","","","","",""
-"2020","Bremen","kein Migrationshintergrund","6.85","6.5","137","6.67","7.03"
-"2020","Hamburg","direkter Migrationshintergrund","6.68","6.5","170","6.51","6.85"
-"2020","Hamburg","indirekter Migrationshintergrund","7.28","6.5","57","6.96","7.6"
-"2020","Hamburg","kein Migrationshintergrund","7.04","6.5","350","6.92","7.16"
-"2020","Hessen","direkter Migrationshintergrund","7.07","6.5","703","6.98","7.16"
-"2020","Hessen","indirekter Migrationshintergrund","7.1","6.5","135","6.88","7.32"
-"2020","Hessen","kein Migrationshintergrund","6.87","6.5","1193","6.8","6.94"
-"2020","Mecklenburg-Vorpommern","direkter Migrationshintergrund","6.88","6.5","67","6.6","7.16"
-"2020","Mecklenburg-Vorpommern","indirekter Migrationshintergrund","","","","",""
-"2020","Mecklenburg-Vorpommern","kein Migrationshintergrund","6.82","6.5","459","6.7","6.94"
-"2020","Niedersachsen","direkter Migrationshintergrund","6.85","6.5","831","6.77","6.93"
-"2020","Niedersachsen","indirekter Migrationshintergrund","6.96","6.5","139","6.77","7.15"
-"2020","Niedersachsen","kein Migrationshintergrund","6.84","6.5","1826","6.79","6.89"
-"2020","Nordrhein-Westfalen","direkter Migrationshintergrund","6.69","6.5","2146","6.64","6.74"
-"2020","Nordrhein-Westfalen","indirekter Migrationshintergrund","6.99","6.5","477","6.89","7.09"
-"2020","Nordrhein-Westfalen","kein Migrationshintergrund","6.88","6.5","3529","6.84","6.92"
-"2020","Rheinland-Pfalz,Saarland","direkter Migrationshintergrund","7.01","6.5","487","6.91","7.11"
-"2020","Rheinland-Pfalz,Saarland","indirekter Migrationshintergrund","6.71","6.5","94","6.52","6.9"
-"2020","Rheinland-Pfalz,Saarland","kein Migrationshintergrund","6.93","6.5","940","6.85","7.01"
-"2020","Sachsen","direkter Migrationshintergrund","6.67","6.5","182","6.48","6.86"
-"2020","Sachsen","indirekter Migrationshintergrund","6.87","6.5","37","6.4","7.34"
-"2020","Sachsen","kein Migrationshintergrund","6.85","6.5","1428","6.79","6.91"
-"2020","Sachsen-Anhalt","direkter Migrationshintergrund","7.2","6.5","129","7.02","7.38"
-"2020","Sachsen-Anhalt","indirekter Migrationshintergrund","","","","",""
-"2020","Sachsen-Anhalt","kein Migrationshintergrund","6.75","6.5","796","6.66","6.84"
-"2020","Schleswig-Holstein","direkter Migrationshintergrund","6.78","6.5","262","6.65","6.91"
-"2020","Schleswig-Holstein","indirekter Migrationshintergrund","6.64","5.5","59","6.38","6.9"
-"2020","Schleswig-Holstein","kein Migrationshintergrund","6.91","6.5","708","6.82","7"
-"2020","Thüringen","direkter Migrationshintergrund","6.92","6.5","157","6.75","7.09"
-"2020","Thüringen","indirekter Migrationshintergrund","","","","",""
-"2020","Thüringen","kein Migrationshintergrund","7.03","6.5","802","6.94","7.12"
+syear,bula_h,migback,mean,mean_lower_confidence,mean_upper_confidence,lower_quartile,boxplot_median,upper_quartile,lower_whisker,upper_whisker,median,median_lower_confidence,median_upper_confidence,n
+1984,Schleswig-Holstein,No migration background,,,,,,,,,,,,
+1984,Schleswig-Holstein,Direct migration background,,,,,,,,,,,,
+1984,Schleswig-Holstein,Indirect migration background,,,,,,,,,,,,
+1984,Hamburg,No migration background,,,,,,,,,,,,
+1984,Hamburg,Direct migration background,,,,,,,,,,,,
+1984,Hamburg,Indirect migration background,,,,,,,,,,,,
+1984,Niedersachsen,No migration background,,,,,,,,,,,,
+1984,Niedersachsen,Direct migration background,,,,,,,,,,,,
+1984,Niedersachsen,Indirect migration background,,,,,,,,,,,,
+1984,Bremen,No migration background,,,,,,,,,,,,
+1984,Bremen,Direct migration background,,,,,,,,,,,,
+1984,Nordrhein-Westfalen,No migration background,,,,,,,,,,,,
+1984,Nordrhein-Westfalen,Direct migration background,,,,,,,,,,,,
+1984,Nordrhein-Westfalen,Indirect migration background,,,,,,,,,,,,
+1984,Hessen,No migration background,,,,,,,,,,,,
+1984,Hessen,Direct migration background,,,,,,,,,,,,
+1984,Hessen,Indirect migration background,,,,,,,,,,,,
+1984,"Rheinland-Pfalz,Saarland",No migration background,,,,,,,,,,,,
+1984,"Rheinland-Pfalz,Saarland",Direct migration background,,,,,,,,,,,,
+1984,"Rheinland-Pfalz,Saarland",Indirect migration background,,,,,,,,,,,,
+1984,Baden-Wuerttemberg,No migration background,,,,,,,,,,,,
+1984,Baden-Wuerttemberg,Direct migration background,,,,,,,,,,,,
+1984,Baden-Wuerttemberg,Indirect migration background,,,,,,,,,,,,
+1984,Bayern,No migration background,,,,,,,,,,,,
+1984,Bayern,Direct migration background,,,,,,,,,,,,
+1984,Bayern,Indirect migration background,,,,,,,,,,,,
+1984,Berlin,No migration background,,,,,,,,,,,,
+1984,Berlin,Direct migration background,,,,,,,,,,,,
+1984,Berlin,Indirect migration background,,,,,,,,,,,,
+1985,Schleswig-Holstein,No migration background,,,,,,,,,,,,
+1985,Schleswig-Holstein,Direct migration background,,,,,,,,,,,,
+1985,Schleswig-Holstein,Indirect migration background,,,,,,,,,,,,
+1985,Hamburg,No migration background,,,,,,,,,,,,
+1985,Hamburg,Direct migration background,,,,,,,,,,,,
+1985,Hamburg,Indirect migration background,,,,,,,,,,,,
+1985,Niedersachsen,No migration background,,,,,,,,,,,,
+1985,Niedersachsen,Direct migration background,,,,,,,,,,,,
+1985,Niedersachsen,Indirect migration background,,,,,,,,,,,,
+1985,Bremen,No migration background,,,,,,,,,,,,
+1985,Bremen,Direct migration background,,,,,,,,,,,,
+1985,Nordrhein-Westfalen,No migration background,,,,,,,,,,,,
+1985,Nordrhein-Westfalen,Direct migration background,,,,,,,,,,,,
+1985,Nordrhein-Westfalen,Indirect migration background,,,,,,,,,,,,
+1985,Hessen,No migration background,,,,,,,,,,,,
+1985,Hessen,Direct migration background,,,,,,,,,,,,
+1985,Hessen,Indirect migration background,,,,,,,,,,,,
+1985,"Rheinland-Pfalz,Saarland",No migration background,,,,,,,,,,,,
+1985,"Rheinland-Pfalz,Saarland",Direct migration background,,,,,,,,,,,,
+1985,"Rheinland-Pfalz,Saarland",Indirect migration background,,,,,,,,,,,,
+1985,Baden-Wuerttemberg,No migration background,,,,,,,,,,,,
+1985,Baden-Wuerttemberg,Direct migration background,,,,,,,,,,,,
+1985,Baden-Wuerttemberg,Indirect migration background,,,,,,,,,,,,
+1985,Bayern,No migration background,,,,,,,,,,,,
+1985,Bayern,Direct migration background,,,,,,,,,,,,
+1985,Bayern,Indirect migration background,,,,,,,,,,,,
+1985,Berlin,No migration background,,,,,,,,,,,,
+1985,Berlin,Direct migration background,,,,,,,,,,,,
+1985,Berlin,Indirect migration background,,,,,,,,,,,,
+1986,Schleswig-Holstein,No migration background,,,,,,,,,,,,
+1986,Schleswig-Holstein,Direct migration background,,,,,,,,,,,,
+1986,Schleswig-Holstein,Indirect migration background,,,,,,,,,,,,
+1986,Hamburg,No migration background,,,,,,,,,,,,
+1986,Hamburg,Direct migration background,,,,,,,,,,,,
+1986,Hamburg,Indirect migration background,,,,,,,,,,,,
+1986,Niedersachsen,No migration background,,,,,,,,,,,,
+1986,Niedersachsen,Direct migration background,,,,,,,,,,,,
+1986,Niedersachsen,Indirect migration background,,,,,,,,,,,,
+1986,Bremen,No migration background,,,,,,,,,,,,
+1986,Bremen,Direct migration background,,,,,,,,,,,,
+1986,Nordrhein-Westfalen,No migration background,,,,,,,,,,,,
+1986,Nordrhein-Westfalen,Direct migration background,,,,,,,,,,,,
+1986,Nordrhein-Westfalen,Indirect migration background,,,,,,,,,,,,
+1986,Hessen,No migration background,,,,,,,,,,,,
+1986,Hessen,Direct migration background,,,,,,,,,,,,
+1986,Hessen,Indirect migration background,,,,,,,,,,,,
+1986,"Rheinland-Pfalz,Saarland",No migration background,,,,,,,,,,,,
+1986,"Rheinland-Pfalz,Saarland",Direct migration background,,,,,,,,,,,,
+1986,"Rheinland-Pfalz,Saarland",Indirect migration background,,,,,,,,,,,,
+1986,Baden-Wuerttemberg,No migration background,,,,,,,,,,,,
+1986,Baden-Wuerttemberg,Direct migration background,,,,,,,,,,,,
+1986,Baden-Wuerttemberg,Indirect migration background,,,,,,,,,,,,
+1986,Bayern,No migration background,,,,,,,,,,,,
+1986,Bayern,Direct migration background,,,,,,,,,,,,
+1986,Bayern,Indirect migration background,,,,,,,,,,,,
+1986,Berlin,No migration background,,,,,,,,,,,,
+1986,Berlin,Direct migration background,,,,,,,,,,,,
+1986,Berlin,Indirect migration background,,,,,,,,,,,,
+1987,Schleswig-Holstein,No migration background,,,,,,,,,,,,
+1987,Schleswig-Holstein,Direct migration background,,,,,,,,,,,,
+1987,Schleswig-Holstein,Indirect migration background,,,,,,,,,,,,
+1987,Hamburg,No migration background,,,,,,,,,,,,
+1987,Hamburg,Direct migration background,,,,,,,,,,,,
+1987,Hamburg,Indirect migration background,,,,,,,,,,,,
+1987,Niedersachsen,No migration background,,,,,,,,,,,,
+1987,Niedersachsen,Direct migration background,,,,,,,,,,,,
+1987,Niedersachsen,Indirect migration background,,,,,,,,,,,,
+1987,Bremen,No migration background,,,,,,,,,,,,
+1987,Bremen,Direct migration background,,,,,,,,,,,,
+1987,Nordrhein-Westfalen,No migration background,,,,,,,,,,,,
+1987,Nordrhein-Westfalen,Direct migration background,,,,,,,,,,,,
+1987,Nordrhein-Westfalen,Indirect migration background,,,,,,,,,,,,
+1987,Hessen,No migration background,,,,,,,,,,,,
+1987,Hessen,Direct migration background,,,,,,,,,,,,
+1987,Hessen,Indirect migration background,,,,,,,,,,,,
+1987,"Rheinland-Pfalz,Saarland",No migration background,,,,,,,,,,,,
+1987,"Rheinland-Pfalz,Saarland",Direct migration background,,,,,,,,,,,,
+1987,"Rheinland-Pfalz,Saarland",Indirect migration background,,,,,,,,,,,,
+1987,Baden-Wuerttemberg,No migration background,,,,,,,,,,,,
+1987,Baden-Wuerttemberg,Direct migration background,,,,,,,,,,,,
+1987,Baden-Wuerttemberg,Indirect migration background,,,,,,,,,,,,
+1987,Bayern,No migration background,,,,,,,,,,,,
+1987,Bayern,Direct migration background,,,,,,,,,,,,
+1987,Bayern,Indirect migration background,,,,,,,,,,,,
+1987,Berlin,No migration background,,,,,,,,,,,,
+1987,Berlin,Direct migration background,,,,,,,,,,,,
+1987,Berlin,Indirect migration background,,,,,,,,,,,,
+1988,Schleswig-Holstein,No migration background,,,,,,,,,,,,
+1988,Schleswig-Holstein,Direct migration background,,,,,,,,,,,,
+1988,Schleswig-Holstein,Indirect migration background,,,,,,,,,,,,
+1988,Hamburg,No migration background,,,,,,,,,,,,
+1988,Hamburg,Direct migration background,,,,,,,,,,,,
+1988,Hamburg,Indirect migration background,,,,,,,,,,,,
+1988,Niedersachsen,No migration background,,,,,,,,,,,,
+1988,Niedersachsen,Direct migration background,,,,,,,,,,,,
+1988,Niedersachsen,Indirect migration background,,,,,,,,,,,,
+1988,Bremen,No migration background,,,,,,,,,,,,
+1988,Bremen,Direct migration background,,,,,,,,,,,,
+1988,Bremen,Indirect migration background,,,,,,,,,,,,
+1988,Nordrhein-Westfalen,No migration background,,,,,,,,,,,,
+1988,Nordrhein-Westfalen,Direct migration background,,,,,,,,,,,,
+1988,Nordrhein-Westfalen,Indirect migration background,,,,,,,,,,,,
+1988,Hessen,No migration background,,,,,,,,,,,,
+1988,Hessen,Direct migration background,,,,,,,,,,,,
+1988,Hessen,Indirect migration background,,,,,,,,,,,,
+1988,"Rheinland-Pfalz,Saarland",No migration background,,,,,,,,,,,,
+1988,"Rheinland-Pfalz,Saarland",Direct migration background,,,,,,,,,,,,
+1988,"Rheinland-Pfalz,Saarland",Indirect migration background,,,,,,,,,,,,
+1988,Baden-Wuerttemberg,No migration background,,,,,,,,,,,,
+1988,Baden-Wuerttemberg,Direct migration background,,,,,,,,,,,,
+1988,Baden-Wuerttemberg,Indirect migration background,,,,,,,,,,,,
+1988,Bayern,No migration background,,,,,,,,,,,,
+1988,Bayern,Direct migration background,,,,,,,,,,,,
+1988,Bayern,Indirect migration background,,,,,,,,,,,,
+1988,Berlin,No migration background,,,,,,,,,,,,
+1988,Berlin,Direct migration background,,,,,,,,,,,,
+1988,Berlin,Indirect migration background,,,,,,,,,,,,
+1989,Schleswig-Holstein,No migration background,,,,,,,,,,,,
+1989,Schleswig-Holstein,Direct migration background,,,,,,,,,,,,
+1989,Schleswig-Holstein,Indirect migration background,,,,,,,,,,,,
+1989,Hamburg,No migration background,,,,,,,,,,,,
+1989,Hamburg,Direct migration background,,,,,,,,,,,,
+1989,Hamburg,Indirect migration background,,,,,,,,,,,,
+1989,Niedersachsen,No migration background,,,,,,,,,,,,
+1989,Niedersachsen,Direct migration background,,,,,,,,,,,,
+1989,Niedersachsen,Indirect migration background,,,,,,,,,,,,
+1989,Bremen,No migration background,,,,,,,,,,,,
+1989,Bremen,Direct migration background,,,,,,,,,,,,
+1989,Bremen,Indirect migration background,,,,,,,,,,,,
+1989,Nordrhein-Westfalen,No migration background,,,,,,,,,,,,
+1989,Nordrhein-Westfalen,Direct migration background,,,,,,,,,,,,
+1989,Nordrhein-Westfalen,Indirect migration background,,,,,,,,,,,,
+1989,Hessen,No migration background,,,,,,,,,,,,
+1989,Hessen,Direct migration background,,,,,,,,,,,,
+1989,Hessen,Indirect migration background,,,,,,,,,,,,
+1989,"Rheinland-Pfalz,Saarland",No migration background,,,,,,,,,,,,
+1989,"Rheinland-Pfalz,Saarland",Direct migration background,,,,,,,,,,,,
+1989,"Rheinland-Pfalz,Saarland",Indirect migration background,,,,,,,,,,,,
+1989,Baden-Wuerttemberg,No migration background,,,,,,,,,,,,
+1989,Baden-Wuerttemberg,Direct migration background,,,,,,,,,,,,
+1989,Baden-Wuerttemberg,Indirect migration background,,,,,,,,,,,,
+1989,Bayern,No migration background,,,,,,,,,,,,
+1989,Bayern,Direct migration background,,,,,,,,,,,,
+1989,Bayern,Indirect migration background,,,,,,,,,,,,
+1989,Berlin,No migration background,,,,,,,,,,,,
+1989,Berlin,Direct migration background,,,,,,,,,,,,
+1989,Berlin,Indirect migration background,,,,,,,,,,,,
+1990,Schleswig-Holstein,No migration background,,,,,,,,,,,,
+1990,Schleswig-Holstein,Direct migration background,,,,,,,,,,,,
+1990,Schleswig-Holstein,Indirect migration background,,,,,,,,,,,,
+1990,Hamburg,No migration background,,,,,,,,,,,,
+1990,Hamburg,Direct migration background,,,,,,,,,,,,
+1990,Hamburg,Indirect migration background,,,,,,,,,,,,
+1990,Niedersachsen,No migration background,,,,,,,,,,,,
+1990,Niedersachsen,Direct migration background,,,,,,,,,,,,
+1990,Niedersachsen,Indirect migration background,,,,,,,,,,,,
+1990,Bremen,No migration background,,,,,,,,,,,,
+1990,Bremen,Direct migration background,,,,,,,,,,,,
+1990,Bremen,Indirect migration background,,,,,,,,,,,,
+1990,Nordrhein-Westfalen,No migration background,,,,,,,,,,,,
+1990,Nordrhein-Westfalen,Direct migration background,,,,,,,,,,,,
+1990,Nordrhein-Westfalen,Indirect migration background,,,,,,,,,,,,
+1990,Hessen,No migration background,,,,,,,,,,,,
+1990,Hessen,Direct migration background,,,,,,,,,,,,
+1990,Hessen,Indirect migration background,,,,,,,,,,,,
+1990,"Rheinland-Pfalz,Saarland",No migration background,,,,,,,,,,,,
+1990,"Rheinland-Pfalz,Saarland",Direct migration background,,,,,,,,,,,,
+1990,"Rheinland-Pfalz,Saarland",Indirect migration background,,,,,,,,,,,,
+1990,Baden-Wuerttemberg,No migration background,,,,,,,,,,,,
+1990,Baden-Wuerttemberg,Direct migration background,,,,,,,,,,,,
+1990,Baden-Wuerttemberg,Indirect migration background,,,,,,,,,,,,
+1990,Bayern,No migration background,,,,,,,,,,,,
+1990,Bayern,Direct migration background,,,,,,,,,,,,
+1990,Bayern,Indirect migration background,,,,,,,,,,,,
+1990,Berlin,No migration background,,,,,,,,,,,,
+1990,Berlin,Direct migration background,,,,,,,,,,,,
+1990,Berlin,Indirect migration background,,,,,,,,,,,,
+1990,Brandenburg,No migration background,,,,,,,,,,,,
+1990,Brandenburg,Direct migration background,,,,,,,,,,,,
+1990,Mecklenburg-Vorpommern,No migration background,,,,,,,,,,,,
+1990,Mecklenburg-Vorpommern,Direct migration background,,,,,,,,,,,,
+1990,Sachsen,No migration background,,,,,,,,,,,,
+1990,Sachsen,Direct migration background,,,,,,,,,,,,
+1990,Sachsen-Anhalt,No migration background,,,,,,,,,,,,
+1990,Sachsen-Anhalt,Direct migration background,,,,,,,,,,,,
+1990,Sachsen-Anhalt,Indirect migration background,,,,,,,,,,,,
+1990,Thueringen,No migration background,,,,,,,,,,,,
+1990,Thueringen,Direct migration background,,,,,,,,,,,,
+1990,Thueringen,Indirect migration background,,,,,,,,,,,,
+1991,Schleswig-Holstein,No migration background,,,,,,,,,,,,
+1991,Schleswig-Holstein,Direct migration background,,,,,,,,,,,,
+1991,Schleswig-Holstein,Indirect migration background,,,,,,,,,,,,
+1991,Hamburg,No migration background,,,,,,,,,,,,
+1991,Hamburg,Direct migration background,,,,,,,,,,,,
+1991,Hamburg,Indirect migration background,,,,,,,,,,,,
+1991,Niedersachsen,No migration background,,,,,,,,,,,,
+1991,Niedersachsen,Direct migration background,,,,,,,,,,,,
+1991,Niedersachsen,Indirect migration background,,,,,,,,,,,,
+1991,Bremen,No migration background,,,,,,,,,,,,
+1991,Bremen,Direct migration background,,,,,,,,,,,,
+1991,Bremen,Indirect migration background,,,,,,,,,,,,
+1991,Nordrhein-Westfalen,No migration background,,,,,,,,,,,,
+1991,Nordrhein-Westfalen,Direct migration background,,,,,,,,,,,,
+1991,Nordrhein-Westfalen,Indirect migration background,,,,,,,,,,,,
+1991,Hessen,No migration background,,,,,,,,,,,,
+1991,Hessen,Direct migration background,,,,,,,,,,,,
+1991,Hessen,Indirect migration background,,,,,,,,,,,,
+1991,"Rheinland-Pfalz,Saarland",No migration background,,,,,,,,,,,,
+1991,"Rheinland-Pfalz,Saarland",Direct migration background,,,,,,,,,,,,
+1991,"Rheinland-Pfalz,Saarland",Indirect migration background,,,,,,,,,,,,
+1991,Baden-Wuerttemberg,No migration background,,,,,,,,,,,,
+1991,Baden-Wuerttemberg,Direct migration background,,,,,,,,,,,,
+1991,Baden-Wuerttemberg,Indirect migration background,,,,,,,,,,,,
+1991,Bayern,No migration background,,,,,,,,,,,,
+1991,Bayern,Direct migration background,,,,,,,,,,,,
+1991,Bayern,Indirect migration background,,,,,,,,,,,,
+1991,Berlin,No migration background,,,,,,,,,,,,
+1991,Berlin,Direct migration background,,,,,,,,,,,,
+1991,Berlin,Indirect migration background,,,,,,,,,,,,
+1991,Brandenburg,No migration background,,,,,,,,,,,,
+1991,Brandenburg,Direct migration background,,,,,,,,,,,,
+1991,Mecklenburg-Vorpommern,No migration background,,,,,,,,,,,,
+1991,Mecklenburg-Vorpommern,Direct migration background,,,,,,,,,,,,
+1991,Sachsen,No migration background,,,,,,,,,,,,
+1991,Sachsen,Direct migration background,,,,,,,,,,,,
+1991,Sachsen,Indirect migration background,,,,,,,,,,,,
+1991,Sachsen-Anhalt,No migration background,,,,,,,,,,,,
+1991,Sachsen-Anhalt,Direct migration background,,,,,,,,,,,,
+1991,Sachsen-Anhalt,Indirect migration background,,,,,,,,,,,,
+1991,Thueringen,No migration background,,,,,,,,,,,,
+1991,Thueringen,Direct migration background,,,,,,,,,,,,
+1991,Thueringen,Indirect migration background,,,,,,,,,,,,
+1992,Schleswig-Holstein,No migration background,,,,,,,,,,,,
+1992,Schleswig-Holstein,Direct migration background,,,,,,,,,,,,
+1992,Schleswig-Holstein,Indirect migration background,,,,,,,,,,,,
+1992,Hamburg,No migration background,,,,,,,,,,,,
+1992,Hamburg,Direct migration background,,,,,,,,,,,,
+1992,Hamburg,Indirect migration background,,,,,,,,,,,,
+1992,Niedersachsen,No migration background,,,,,,,,,,,,
+1992,Niedersachsen,Direct migration background,,,,,,,,,,,,
+1992,Niedersachsen,Indirect migration background,,,,,,,,,,,,
+1992,Bremen,No migration background,,,,,,,,,,,,
+1992,Bremen,Direct migration background,,,,,,,,,,,,
+1992,Bremen,Indirect migration background,,,,,,,,,,,,
+1992,Nordrhein-Westfalen,No migration background,,,,,,,,,,,,
+1992,Nordrhein-Westfalen,Direct migration background,,,,,,,,,,,,
+1992,Nordrhein-Westfalen,Indirect migration background,,,,,,,,,,,,
+1992,Hessen,No migration background,,,,,,,,,,,,
+1992,Hessen,Direct migration background,,,,,,,,,,,,
+1992,Hessen,Indirect migration background,,,,,,,,,,,,
+1992,"Rheinland-Pfalz,Saarland",No migration background,,,,,,,,,,,,
+1992,"Rheinland-Pfalz,Saarland",Direct migration background,,,,,,,,,,,,
+1992,"Rheinland-Pfalz,Saarland",Indirect migration background,,,,,,,,,,,,
+1992,Baden-Wuerttemberg,No migration background,,,,,,,,,,,,
+1992,Baden-Wuerttemberg,Direct migration background,,,,,,,,,,,,
+1992,Baden-Wuerttemberg,Indirect migration background,,,,,,,,,,,,
+1992,Bayern,No migration background,,,,,,,,,,,,
+1992,Bayern,Direct migration background,,,,,,,,,,,,
+1992,Bayern,Indirect migration background,,,,,,,,,,,,
+1992,Berlin,No migration background,,,,,,,,,,,,
+1992,Berlin,Direct migration background,,,,,,,,,,,,
+1992,Berlin,Indirect migration background,,,,,,,,,,,,
+1992,Brandenburg,No migration background,,,,,,,,,,,,
+1992,Brandenburg,Direct migration background,,,,,,,,,,,,
+1992,Brandenburg,Indirect migration background,,,,,,,,,,,,
+1992,Mecklenburg-Vorpommern,No migration background,,,,,,,,,,,,
+1992,Mecklenburg-Vorpommern,Direct migration background,,,,,,,,,,,,
+1992,Mecklenburg-Vorpommern,Indirect migration background,,,,,,,,,,,,
+1992,Sachsen,No migration background,,,,,,,,,,,,
+1992,Sachsen,Direct migration background,,,,,,,,,,,,
+1992,Sachsen,Indirect migration background,,,,,,,,,,,,
+1992,Sachsen-Anhalt,No migration background,,,,,,,,,,,,
+1992,Sachsen-Anhalt,Direct migration background,,,,,,,,,,,,
+1992,Sachsen-Anhalt,Indirect migration background,,,,,,,,,,,,
+1992,Thueringen,No migration background,,,,,,,,,,,,
+1992,Thueringen,Direct migration background,,,,,,,,,,,,
+1992,Thueringen,Indirect migration background,,,,,,,,,,,,
+1993,Schleswig-Holstein,No migration background,,,,,,,,,,,,
+1993,Schleswig-Holstein,Direct migration background,,,,,,,,,,,,
+1993,Schleswig-Holstein,Indirect migration background,,,,,,,,,,,,
+1993,Hamburg,No migration background,,,,,,,,,,,,
+1993,Hamburg,Direct migration background,,,,,,,,,,,,
+1993,Hamburg,Indirect migration background,,,,,,,,,,,,
+1993,Niedersachsen,No migration background,,,,,,,,,,,,
+1993,Niedersachsen,Direct migration background,,,,,,,,,,,,
+1993,Niedersachsen,Indirect migration background,,,,,,,,,,,,
+1993,Bremen,No migration background,,,,,,,,,,,,
+1993,Bremen,Direct migration background,,,,,,,,,,,,
+1993,Bremen,Indirect migration background,,,,,,,,,,,,
+1993,Nordrhein-Westfalen,No migration background,,,,,,,,,,,,
+1993,Nordrhein-Westfalen,Direct migration background,,,,,,,,,,,,
+1993,Nordrhein-Westfalen,Indirect migration background,,,,,,,,,,,,
+1993,Hessen,No migration background,,,,,,,,,,,,
+1993,Hessen,Direct migration background,,,,,,,,,,,,
+1993,Hessen,Indirect migration background,,,,,,,,,,,,
+1993,"Rheinland-Pfalz,Saarland",No migration background,,,,,,,,,,,,
+1993,"Rheinland-Pfalz,Saarland",Direct migration background,,,,,,,,,,,,
+1993,"Rheinland-Pfalz,Saarland",Indirect migration background,,,,,,,,,,,,
+1993,Baden-Wuerttemberg,No migration background,,,,,,,,,,,,
+1993,Baden-Wuerttemberg,Direct migration background,,,,,,,,,,,,
+1993,Baden-Wuerttemberg,Indirect migration background,,,,,,,,,,,,
+1993,Bayern,No migration background,,,,,,,,,,,,
+1993,Bayern,Direct migration background,,,,,,,,,,,,
+1993,Bayern,Indirect migration background,,,,,,,,,,,,
+1993,Berlin,No migration background,,,,,,,,,,,,
+1993,Berlin,Direct migration background,,,,,,,,,,,,
+1993,Berlin,Indirect migration background,,,,,,,,,,,,
+1993,Brandenburg,No migration background,,,,,,,,,,,,
+1993,Brandenburg,Direct migration background,,,,,,,,,,,,
+1993,Brandenburg,Indirect migration background,,,,,,,,,,,,
+1993,Mecklenburg-Vorpommern,No migration background,,,,,,,,,,,,
+1993,Mecklenburg-Vorpommern,Direct migration background,,,,,,,,,,,,
+1993,Mecklenburg-Vorpommern,Indirect migration background,,,,,,,,,,,,
+1993,Sachsen,No migration background,,,,,,,,,,,,
+1993,Sachsen,Direct migration background,,,,,,,,,,,,
+1993,Sachsen,Indirect migration background,,,,,,,,,,,,
+1993,Sachsen-Anhalt,No migration background,,,,,,,,,,,,
+1993,Sachsen-Anhalt,Direct migration background,,,,,,,,,,,,
+1993,Sachsen-Anhalt,Indirect migration background,,,,,,,,,,,,
+1993,Thueringen,No migration background,,,,,,,,,,,,
+1993,Thueringen,Direct migration background,,,,,,,,,,,,
+1993,Thueringen,Indirect migration background,,,,,,,,,,,,
+1994,Schleswig-Holstein,No migration background,,,,,,,,,,,,
+1994,Schleswig-Holstein,Direct migration background,,,,,,,,,,,,
+1994,Schleswig-Holstein,Indirect migration background,,,,,,,,,,,,
+1994,Hamburg,No migration background,,,,,,,,,,,,
+1994,Hamburg,Direct migration background,,,,,,,,,,,,
+1994,Hamburg,Indirect migration background,,,,,,,,,,,,
+1994,Niedersachsen,No migration background,,,,,,,,,,,,
+1994,Niedersachsen,Direct migration background,,,,,,,,,,,,
+1994,Niedersachsen,Indirect migration background,,,,,,,,,,,,
+1994,Bremen,No migration background,,,,,,,,,,,,
+1994,Bremen,Direct migration background,,,,,,,,,,,,
+1994,Bremen,Indirect migration background,,,,,,,,,,,,
+1994,Nordrhein-Westfalen,No migration background,,,,,,,,,,,,
+1994,Nordrhein-Westfalen,Direct migration background,,,,,,,,,,,,
+1994,Nordrhein-Westfalen,Indirect migration background,,,,,,,,,,,,
+1994,Hessen,No migration background,,,,,,,,,,,,
+1994,Hessen,Direct migration background,,,,,,,,,,,,
+1994,Hessen,Indirect migration background,,,,,,,,,,,,
+1994,"Rheinland-Pfalz,Saarland",No migration background,,,,,,,,,,,,
+1994,"Rheinland-Pfalz,Saarland",Direct migration background,,,,,,,,,,,,
+1994,"Rheinland-Pfalz,Saarland",Indirect migration background,,,,,,,,,,,,
+1994,Baden-Wuerttemberg,No migration background,,,,,,,,,,,,
+1994,Baden-Wuerttemberg,Direct migration background,,,,,,,,,,,,
+1994,Baden-Wuerttemberg,Indirect migration background,,,,,,,,,,,,
+1994,Bayern,No migration background,,,,,,,,,,,,
+1994,Bayern,Direct migration background,,,,,,,,,,,,
+1994,Bayern,Indirect migration background,,,,,,,,,,,,
+1994,Berlin,No migration background,,,,,,,,,,,,
+1994,Berlin,Direct migration background,,,,,,,,,,,,
+1994,Berlin,Indirect migration background,,,,,,,,,,,,
+1994,Brandenburg,No migration background,,,,,,,,,,,,
+1994,Brandenburg,Direct migration background,,,,,,,,,,,,
+1994,Brandenburg,Indirect migration background,,,,,,,,,,,,
+1994,Mecklenburg-Vorpommern,No migration background,,,,,,,,,,,,
+1994,Mecklenburg-Vorpommern,Direct migration background,,,,,,,,,,,,
+1994,Mecklenburg-Vorpommern,Indirect migration background,,,,,,,,,,,,
+1994,Sachsen,No migration background,,,,,,,,,,,,
+1994,Sachsen,Direct migration background,,,,,,,,,,,,
+1994,Sachsen,Indirect migration background,,,,,,,,,,,,
+1994,Sachsen-Anhalt,No migration background,,,,,,,,,,,,
+1994,Sachsen-Anhalt,Direct migration background,,,,,,,,,,,,
+1994,Sachsen-Anhalt,Indirect migration background,,,,,,,,,,,,
+1994,Thueringen,No migration background,,,,,,,,,,,,
+1994,Thueringen,Direct migration background,,,,,,,,,,,,
+1994,Thueringen,Indirect migration background,,,,,,,,,,,,
+1995,Schleswig-Holstein,No migration background,,,,,,,,,,,,
+1995,Schleswig-Holstein,Direct migration background,,,,,,,,,,,,
+1995,Schleswig-Holstein,Indirect migration background,,,,,,,,,,,,
+1995,Hamburg,No migration background,,,,,,,,,,,,
+1995,Hamburg,Direct migration background,,,,,,,,,,,,
+1995,Hamburg,Indirect migration background,,,,,,,,,,,,
+1995,Niedersachsen,No migration background,,,,,,,,,,,,
+1995,Niedersachsen,Direct migration background,,,,,,,,,,,,
+1995,Niedersachsen,Indirect migration background,,,,,,,,,,,,
+1995,Bremen,No migration background,,,,,,,,,,,,
+1995,Bremen,Direct migration background,,,,,,,,,,,,
+1995,Bremen,Indirect migration background,,,,,,,,,,,,
+1995,Nordrhein-Westfalen,No migration background,,,,,,,,,,,,
+1995,Nordrhein-Westfalen,Direct migration background,,,,,,,,,,,,
+1995,Nordrhein-Westfalen,Indirect migration background,,,,,,,,,,,,
+1995,Hessen,No migration background,,,,,,,,,,,,
+1995,Hessen,Direct migration background,,,,,,,,,,,,
+1995,Hessen,Indirect migration background,,,,,,,,,,,,
+1995,"Rheinland-Pfalz,Saarland",No migration background,,,,,,,,,,,,
+1995,"Rheinland-Pfalz,Saarland",Direct migration background,,,,,,,,,,,,
+1995,"Rheinland-Pfalz,Saarland",Indirect migration background,,,,,,,,,,,,
+1995,Baden-Wuerttemberg,No migration background,,,,,,,,,,,,
+1995,Baden-Wuerttemberg,Direct migration background,,,,,,,,,,,,
+1995,Baden-Wuerttemberg,Indirect migration background,,,,,,,,,,,,
+1995,Bayern,No migration background,,,,,,,,,,,,
+1995,Bayern,Direct migration background,,,,,,,,,,,,
+1995,Bayern,Indirect migration background,,,,,,,,,,,,
+1995,Berlin,No migration background,,,,,,,,,,,,
+1995,Berlin,Direct migration background,,,,,,,,,,,,
+1995,Berlin,Indirect migration background,,,,,,,,,,,,
+1995,Brandenburg,No migration background,,,,,,,,,,,,
+1995,Brandenburg,Direct migration background,,,,,,,,,,,,
+1995,Brandenburg,Indirect migration background,,,,,,,,,,,,
+1995,Mecklenburg-Vorpommern,No migration background,,,,,,,,,,,,
+1995,Mecklenburg-Vorpommern,Direct migration background,,,,,,,,,,,,
+1995,Mecklenburg-Vorpommern,Indirect migration background,,,,,,,,,,,,
+1995,Sachsen,No migration background,,,,,,,,,,,,
+1995,Sachsen,Direct migration background,,,,,,,,,,,,
+1995,Sachsen,Indirect migration background,,,,,,,,,,,,
+1995,Sachsen-Anhalt,No migration background,,,,,,,,,,,,
+1995,Sachsen-Anhalt,Direct migration background,,,,,,,,,,,,
+1995,Sachsen-Anhalt,Indirect migration background,,,,,,,,,,,,
+1995,Thueringen,No migration background,,,,,,,,,,,,
+1995,Thueringen,Direct migration background,,,,,,,,,,,,
+1995,Thueringen,Indirect migration background,,,,,,,,,,,,
+1996,Schleswig-Holstein,No migration background,,,,,,,,,,,,
+1996,Schleswig-Holstein,Direct migration background,,,,,,,,,,,,
+1996,Schleswig-Holstein,Indirect migration background,,,,,,,,,,,,
+1996,Hamburg,No migration background,,,,,,,,,,,,
+1996,Hamburg,Direct migration background,,,,,,,,,,,,
+1996,Hamburg,Indirect migration background,,,,,,,,,,,,
+1996,Niedersachsen,No migration background,,,,,,,,,,,,
+1996,Niedersachsen,Direct migration background,,,,,,,,,,,,
+1996,Niedersachsen,Indirect migration background,,,,,,,,,,,,
+1996,Bremen,No migration background,,,,,,,,,,,,
+1996,Bremen,Direct migration background,,,,,,,,,,,,
+1996,Bremen,Indirect migration background,,,,,,,,,,,,
+1996,Nordrhein-Westfalen,No migration background,,,,,,,,,,,,
+1996,Nordrhein-Westfalen,Direct migration background,,,,,,,,,,,,
+1996,Nordrhein-Westfalen,Indirect migration background,,,,,,,,,,,,
+1996,Hessen,No migration background,,,,,,,,,,,,
+1996,Hessen,Direct migration background,,,,,,,,,,,,
+1996,Hessen,Indirect migration background,,,,,,,,,,,,
+1996,"Rheinland-Pfalz,Saarland",No migration background,,,,,,,,,,,,
+1996,"Rheinland-Pfalz,Saarland",Direct migration background,,,,,,,,,,,,
+1996,"Rheinland-Pfalz,Saarland",Indirect migration background,,,,,,,,,,,,
+1996,Baden-Wuerttemberg,No migration background,,,,,,,,,,,,
+1996,Baden-Wuerttemberg,Direct migration background,,,,,,,,,,,,
+1996,Baden-Wuerttemberg,Indirect migration background,,,,,,,,,,,,
+1996,Bayern,No migration background,,,,,,,,,,,,
+1996,Bayern,Direct migration background,,,,,,,,,,,,
+1996,Bayern,Indirect migration background,,,,,,,,,,,,
+1996,Berlin,No migration background,,,,,,,,,,,,
+1996,Berlin,Direct migration background,,,,,,,,,,,,
+1996,Berlin,Indirect migration background,,,,,,,,,,,,
+1996,Brandenburg,No migration background,,,,,,,,,,,,
+1996,Brandenburg,Direct migration background,,,,,,,,,,,,
+1996,Brandenburg,Indirect migration background,,,,,,,,,,,,
+1996,Mecklenburg-Vorpommern,No migration background,,,,,,,,,,,,
+1996,Mecklenburg-Vorpommern,Direct migration background,,,,,,,,,,,,
+1996,Mecklenburg-Vorpommern,Indirect migration background,,,,,,,,,,,,
+1996,Sachsen,No migration background,,,,,,,,,,,,
+1996,Sachsen,Direct migration background,,,,,,,,,,,,
+1996,Sachsen,Indirect migration background,,,,,,,,,,,,
+1996,Sachsen-Anhalt,No migration background,,,,,,,,,,,,
+1996,Sachsen-Anhalt,Direct migration background,,,,,,,,,,,,
+1996,Sachsen-Anhalt,Indirect migration background,,,,,,,,,,,,
+1996,Thueringen,No migration background,,,,,,,,,,,,
+1996,Thueringen,Direct migration background,,,,,,,,,,,,
+1996,Thueringen,Indirect migration background,,,,,,,,,,,,
+1997,Schleswig-Holstein,No migration background,,,,,,,,,,,,
+1997,Schleswig-Holstein,Direct migration background,,,,,,,,,,,,
+1997,Schleswig-Holstein,Indirect migration background,,,,,,,,,,,,
+1997,Hamburg,No migration background,,,,,,,,,,,,
+1997,Hamburg,Direct migration background,,,,,,,,,,,,
+1997,Hamburg,Indirect migration background,,,,,,,,,,,,
+1997,Niedersachsen,No migration background,,,,,,,,,,,,
+1997,Niedersachsen,Direct migration background,,,,,,,,,,,,
+1997,Niedersachsen,Indirect migration background,,,,,,,,,,,,
+1997,Bremen,No migration background,,,,,,,,,,,,
+1997,Bremen,Direct migration background,,,,,,,,,,,,
+1997,Bremen,Indirect migration background,,,,,,,,,,,,
+1997,Nordrhein-Westfalen,No migration background,,,,,,,,,,,,
+1997,Nordrhein-Westfalen,Direct migration background,,,,,,,,,,,,
+1997,Nordrhein-Westfalen,Indirect migration background,,,,,,,,,,,,
+1997,Hessen,No migration background,,,,,,,,,,,,
+1997,Hessen,Direct migration background,,,,,,,,,,,,
+1997,Hessen,Indirect migration background,,,,,,,,,,,,
+1997,"Rheinland-Pfalz,Saarland",No migration background,,,,,,,,,,,,
+1997,"Rheinland-Pfalz,Saarland",Direct migration background,,,,,,,,,,,,
+1997,"Rheinland-Pfalz,Saarland",Indirect migration background,,,,,,,,,,,,
+1997,Baden-Wuerttemberg,No migration background,,,,,,,,,,,,
+1997,Baden-Wuerttemberg,Direct migration background,,,,,,,,,,,,
+1997,Baden-Wuerttemberg,Indirect migration background,,,,,,,,,,,,
+1997,Bayern,No migration background,,,,,,,,,,,,
+1997,Bayern,Direct migration background,,,,,,,,,,,,
+1997,Bayern,Indirect migration background,,,,,,,,,,,,
+1997,Berlin,No migration background,,,,,,,,,,,,
+1997,Berlin,Direct migration background,,,,,,,,,,,,
+1997,Berlin,Indirect migration background,,,,,,,,,,,,
+1997,Brandenburg,No migration background,,,,,,,,,,,,
+1997,Brandenburg,Direct migration background,,,,,,,,,,,,
+1997,Brandenburg,Indirect migration background,,,,,,,,,,,,
+1997,Mecklenburg-Vorpommern,No migration background,,,,,,,,,,,,
+1997,Mecklenburg-Vorpommern,Direct migration background,,,,,,,,,,,,
+1997,Mecklenburg-Vorpommern,Indirect migration background,,,,,,,,,,,,
+1997,Sachsen,No migration background,,,,,,,,,,,,
+1997,Sachsen,Direct migration background,,,,,,,,,,,,
+1997,Sachsen,Indirect migration background,,,,,,,,,,,,
+1997,Sachsen-Anhalt,No migration background,,,,,,,,,,,,
+1997,Sachsen-Anhalt,Direct migration background,,,,,,,,,,,,
+1997,Sachsen-Anhalt,Indirect migration background,,,,,,,,,,,,
+1997,Thueringen,No migration background,,,,,,,,,,,,
+1997,Thueringen,Direct migration background,,,,,,,,,,,,
+1997,Thueringen,Indirect migration background,,,,,,,,,,,,
+1998,Schleswig-Holstein,No migration background,,,,,,,,,,,,
+1998,Schleswig-Holstein,Direct migration background,,,,,,,,,,,,
+1998,Schleswig-Holstein,Indirect migration background,,,,,,,,,,,,
+1998,Hamburg,No migration background,,,,,,,,,,,,
+1998,Hamburg,Direct migration background,,,,,,,,,,,,
+1998,Hamburg,Indirect migration background,,,,,,,,,,,,
+1998,Niedersachsen,No migration background,,,,,,,,,,,,
+1998,Niedersachsen,Direct migration background,,,,,,,,,,,,
+1998,Niedersachsen,Indirect migration background,,,,,,,,,,,,
+1998,Bremen,No migration background,,,,,,,,,,,,
+1998,Bremen,Direct migration background,,,,,,,,,,,,
+1998,Bremen,Indirect migration background,,,,,,,,,,,,
+1998,Nordrhein-Westfalen,No migration background,,,,,,,,,,,,
+1998,Nordrhein-Westfalen,Direct migration background,,,,,,,,,,,,
+1998,Nordrhein-Westfalen,Indirect migration background,,,,,,,,,,,,
+1998,Hessen,No migration background,,,,,,,,,,,,
+1998,Hessen,Direct migration background,,,,,,,,,,,,
+1998,Hessen,Indirect migration background,,,,,,,,,,,,
+1998,"Rheinland-Pfalz,Saarland",No migration background,,,,,,,,,,,,
+1998,"Rheinland-Pfalz,Saarland",Direct migration background,,,,,,,,,,,,
+1998,"Rheinland-Pfalz,Saarland",Indirect migration background,,,,,,,,,,,,
+1998,Baden-Wuerttemberg,No migration background,,,,,,,,,,,,
+1998,Baden-Wuerttemberg,Direct migration background,,,,,,,,,,,,
+1998,Baden-Wuerttemberg,Indirect migration background,,,,,,,,,,,,
+1998,Bayern,No migration background,,,,,,,,,,,,
+1998,Bayern,Direct migration background,,,,,,,,,,,,
+1998,Bayern,Indirect migration background,,,,,,,,,,,,
+1998,Berlin,No migration background,,,,,,,,,,,,
+1998,Berlin,Direct migration background,,,,,,,,,,,,
+1998,Berlin,Indirect migration background,,,,,,,,,,,,
+1998,Brandenburg,No migration background,,,,,,,,,,,,
+1998,Brandenburg,Direct migration background,,,,,,,,,,,,
+1998,Brandenburg,Indirect migration background,,,,,,,,,,,,
+1998,Mecklenburg-Vorpommern,No migration background,,,,,,,,,,,,
+1998,Mecklenburg-Vorpommern,Direct migration background,,,,,,,,,,,,
+1998,Mecklenburg-Vorpommern,Indirect migration background,,,,,,,,,,,,
+1998,Sachsen,No migration background,,,,,,,,,,,,
+1998,Sachsen,Direct migration background,,,,,,,,,,,,
+1998,Sachsen,Indirect migration background,,,,,,,,,,,,
+1998,Sachsen-Anhalt,No migration background,,,,,,,,,,,,
+1998,Sachsen-Anhalt,Direct migration background,,,,,,,,,,,,
+1998,Sachsen-Anhalt,Indirect migration background,,,,,,,,,,,,
+1998,Thueringen,No migration background,,,,,,,,,,,,
+1998,Thueringen,Direct migration background,,,,,,,,,,,,
+1998,Thueringen,Indirect migration background,,,,,,,,,,,,
+1999,Schleswig-Holstein,No migration background,,,,,,,,,,,,
+1999,Schleswig-Holstein,Direct migration background,,,,,,,,,,,,
+1999,Schleswig-Holstein,Indirect migration background,,,,,,,,,,,,
+1999,Hamburg,No migration background,,,,,,,,,,,,
+1999,Hamburg,Direct migration background,,,,,,,,,,,,
+1999,Hamburg,Indirect migration background,,,,,,,,,,,,
+1999,Niedersachsen,No migration background,,,,,,,,,,,,
+1999,Niedersachsen,Direct migration background,,,,,,,,,,,,
+1999,Niedersachsen,Indirect migration background,,,,,,,,,,,,
+1999,Bremen,No migration background,,,,,,,,,,,,
+1999,Bremen,Direct migration background,,,,,,,,,,,,
+1999,Bremen,Indirect migration background,,,,,,,,,,,,
+1999,Nordrhein-Westfalen,No migration background,,,,,,,,,,,,
+1999,Nordrhein-Westfalen,Direct migration background,,,,,,,,,,,,
+1999,Nordrhein-Westfalen,Indirect migration background,,,,,,,,,,,,
+1999,Hessen,No migration background,,,,,,,,,,,,
+1999,Hessen,Direct migration background,,,,,,,,,,,,
+1999,Hessen,Indirect migration background,,,,,,,,,,,,
+1999,"Rheinland-Pfalz,Saarland",No migration background,,,,,,,,,,,,
+1999,"Rheinland-Pfalz,Saarland",Direct migration background,,,,,,,,,,,,
+1999,"Rheinland-Pfalz,Saarland",Indirect migration background,,,,,,,,,,,,
+1999,Baden-Wuerttemberg,No migration background,,,,,,,,,,,,
+1999,Baden-Wuerttemberg,Direct migration background,,,,,,,,,,,,
+1999,Baden-Wuerttemberg,Indirect migration background,,,,,,,,,,,,
+1999,Bayern,No migration background,,,,,,,,,,,,
+1999,Bayern,Direct migration background,,,,,,,,,,,,
+1999,Bayern,Indirect migration background,,,,,,,,,,,,
+1999,Berlin,No migration background,,,,,,,,,,,,
+1999,Berlin,Direct migration background,,,,,,,,,,,,
+1999,Berlin,Indirect migration background,,,,,,,,,,,,
+1999,Brandenburg,No migration background,,,,,,,,,,,,
+1999,Brandenburg,Direct migration background,,,,,,,,,,,,
+1999,Brandenburg,Indirect migration background,,,,,,,,,,,,
+1999,Mecklenburg-Vorpommern,No migration background,,,,,,,,,,,,
+1999,Mecklenburg-Vorpommern,Direct migration background,,,,,,,,,,,,
+1999,Mecklenburg-Vorpommern,Indirect migration background,,,,,,,,,,,,
+1999,Sachsen,No migration background,,,,,,,,,,,,
+1999,Sachsen,Direct migration background,,,,,,,,,,,,
+1999,Sachsen,Indirect migration background,,,,,,,,,,,,
+1999,Sachsen-Anhalt,No migration background,,,,,,,,,,,,
+1999,Sachsen-Anhalt,Direct migration background,,,,,,,,,,,,
+1999,Sachsen-Anhalt,Indirect migration background,,,,,,,,,,,,
+1999,Thueringen,No migration background,,,,,,,,,,,,
+1999,Thueringen,Direct migration background,,,,,,,,,,,,
+1999,Thueringen,Indirect migration background,,,,,,,,,,,,
+2000,Schleswig-Holstein,No migration background,,,,,,,,,,,,
+2000,Schleswig-Holstein,Direct migration background,,,,,,,,,,,,
+2000,Schleswig-Holstein,Indirect migration background,,,,,,,,,,,,
+2000,Hamburg,No migration background,,,,,,,,,,,,
+2000,Hamburg,Direct migration background,,,,,,,,,,,,
+2000,Hamburg,Indirect migration background,,,,,,,,,,,,
+2000,Niedersachsen,No migration background,,,,,,,,,,,,
+2000,Niedersachsen,Direct migration background,,,,,,,,,,,,
+2000,Niedersachsen,Indirect migration background,,,,,,,,,,,,
+2000,Bremen,No migration background,,,,,,,,,,,,
+2000,Bremen,Direct migration background,,,,,,,,,,,,
+2000,Bremen,Indirect migration background,,,,,,,,,,,,
+2000,Nordrhein-Westfalen,No migration background,,,,,,,,,,,,
+2000,Nordrhein-Westfalen,Direct migration background,,,,,,,,,,,,
+2000,Nordrhein-Westfalen,Indirect migration background,,,,,,,,,,,,
+2000,Hessen,No migration background,,,,,,,,,,,,
+2000,Hessen,Direct migration background,,,,,,,,,,,,
+2000,Hessen,Indirect migration background,,,,,,,,,,,,
+2000,"Rheinland-Pfalz,Saarland",No migration background,,,,,,,,,,,,
+2000,"Rheinland-Pfalz,Saarland",Direct migration background,,,,,,,,,,,,
+2000,"Rheinland-Pfalz,Saarland",Indirect migration background,,,,,,,,,,,,
+2000,Baden-Wuerttemberg,No migration background,,,,,,,,,,,,
+2000,Baden-Wuerttemberg,Direct migration background,,,,,,,,,,,,
+2000,Baden-Wuerttemberg,Indirect migration background,,,,,,,,,,,,
+2000,Bayern,No migration background,,,,,,,,,,,,
+2000,Bayern,Direct migration background,,,,,,,,,,,,
+2000,Bayern,Indirect migration background,,,,,,,,,,,,
+2000,Berlin,No migration background,,,,,,,,,,,,
+2000,Berlin,Direct migration background,,,,,,,,,,,,
+2000,Berlin,Indirect migration background,,,,,,,,,,,,
+2000,Brandenburg,No migration background,,,,,,,,,,,,
+2000,Brandenburg,Direct migration background,,,,,,,,,,,,
+2000,Brandenburg,Indirect migration background,,,,,,,,,,,,
+2000,Mecklenburg-Vorpommern,No migration background,,,,,,,,,,,,
+2000,Mecklenburg-Vorpommern,Direct migration background,,,,,,,,,,,,
+2000,Mecklenburg-Vorpommern,Indirect migration background,,,,,,,,,,,,
+2000,Sachsen,No migration background,,,,,,,,,,,,
+2000,Sachsen,Direct migration background,,,,,,,,,,,,
+2000,Sachsen,Indirect migration background,,,,,,,,,,,,
+2000,Sachsen-Anhalt,No migration background,,,,,,,,,,,,
+2000,Sachsen-Anhalt,Direct migration background,,,,,,,,,,,,
+2000,Sachsen-Anhalt,Indirect migration background,,,,,,,,,,,,
+2000,Thueringen,No migration background,,,,,,,,,,,,
+2000,Thueringen,Direct migration background,,,,,,,,,,,,
+2000,Thueringen,Indirect migration background,,,,,,,,,,,,
+2001,Schleswig-Holstein,No migration background,,,,,,,,,,,,
+2001,Schleswig-Holstein,Direct migration background,,,,,,,,,,,,
+2001,Schleswig-Holstein,Indirect migration background,,,,,,,,,,,,
+2001,Hamburg,No migration background,,,,,,,,,,,,
+2001,Hamburg,Direct migration background,,,,,,,,,,,,
+2001,Hamburg,Indirect migration background,,,,,,,,,,,,
+2001,Niedersachsen,No migration background,,,,,,,,,,,,
+2001,Niedersachsen,Direct migration background,,,,,,,,,,,,
+2001,Niedersachsen,Indirect migration background,,,,,,,,,,,,
+2001,Bremen,No migration background,,,,,,,,,,,,
+2001,Bremen,Direct migration background,,,,,,,,,,,,
+2001,Bremen,Indirect migration background,,,,,,,,,,,,
+2001,Nordrhein-Westfalen,No migration background,,,,,,,,,,,,
+2001,Nordrhein-Westfalen,Direct migration background,,,,,,,,,,,,
+2001,Nordrhein-Westfalen,Indirect migration background,,,,,,,,,,,,
+2001,Hessen,No migration background,,,,,,,,,,,,
+2001,Hessen,Direct migration background,,,,,,,,,,,,
+2001,Hessen,Indirect migration background,,,,,,,,,,,,
+2001,"Rheinland-Pfalz,Saarland",No migration background,,,,,,,,,,,,
+2001,"Rheinland-Pfalz,Saarland",Direct migration background,,,,,,,,,,,,
+2001,"Rheinland-Pfalz,Saarland",Indirect migration background,,,,,,,,,,,,
+2001,Baden-Wuerttemberg,No migration background,,,,,,,,,,,,
+2001,Baden-Wuerttemberg,Direct migration background,,,,,,,,,,,,
+2001,Baden-Wuerttemberg,Indirect migration background,,,,,,,,,,,,
+2001,Bayern,No migration background,,,,,,,,,,,,
+2001,Bayern,Direct migration background,,,,,,,,,,,,
+2001,Bayern,Indirect migration background,,,,,,,,,,,,
+2001,Berlin,No migration background,,,,,,,,,,,,
+2001,Berlin,Direct migration background,,,,,,,,,,,,
+2001,Berlin,Indirect migration background,,,,,,,,,,,,
+2001,Brandenburg,No migration background,,,,,,,,,,,,
+2001,Brandenburg,Direct migration background,,,,,,,,,,,,
+2001,Brandenburg,Indirect migration background,,,,,,,,,,,,
+2001,Mecklenburg-Vorpommern,No migration background,,,,,,,,,,,,
+2001,Mecklenburg-Vorpommern,Direct migration background,,,,,,,,,,,,
+2001,Sachsen,No migration background,,,,,,,,,,,,
+2001,Sachsen,Direct migration background,,,,,,,,,,,,
+2001,Sachsen,Indirect migration background,,,,,,,,,,,,
+2001,Sachsen-Anhalt,No migration background,,,,,,,,,,,,
+2001,Sachsen-Anhalt,Direct migration background,,,,,,,,,,,,
+2001,Sachsen-Anhalt,Indirect migration background,,,,,,,,,,,,
+2001,Thueringen,No migration background,,,,,,,,,,,,
+2001,Thueringen,Direct migration background,,,,,,,,,,,,
+2001,Thueringen,Indirect migration background,,,,,,,,,,,,
+2002,Schleswig-Holstein,No migration background,,,,,,,,,,,,
+2002,Schleswig-Holstein,Direct migration background,,,,,,,,,,,,
+2002,Schleswig-Holstein,Indirect migration background,,,,,,,,,,,,
+2002,Hamburg,No migration background,,,,,,,,,,,,
+2002,Hamburg,Direct migration background,,,,,,,,,,,,
+2002,Hamburg,Indirect migration background,,,,,,,,,,,,
+2002,Niedersachsen,No migration background,,,,,,,,,,,,
+2002,Niedersachsen,Direct migration background,,,,,,,,,,,,
+2002,Niedersachsen,Indirect migration background,,,,,,,,,,,,
+2002,Bremen,No migration background,,,,,,,,,,,,
+2002,Bremen,Direct migration background,,,,,,,,,,,,
+2002,Bremen,Indirect migration background,,,,,,,,,,,,
+2002,Nordrhein-Westfalen,No migration background,,,,,,,,,,,,
+2002,Nordrhein-Westfalen,Direct migration background,,,,,,,,,,,,
+2002,Nordrhein-Westfalen,Indirect migration background,,,,,,,,,,,,
+2002,Hessen,No migration background,,,,,,,,,,,,
+2002,Hessen,Direct migration background,,,,,,,,,,,,
+2002,Hessen,Indirect migration background,,,,,,,,,,,,
+2002,"Rheinland-Pfalz,Saarland",No migration background,,,,,,,,,,,,
+2002,"Rheinland-Pfalz,Saarland",Direct migration background,,,,,,,,,,,,
+2002,"Rheinland-Pfalz,Saarland",Indirect migration background,,,,,,,,,,,,
+2002,Baden-Wuerttemberg,No migration background,,,,,,,,,,,,
+2002,Baden-Wuerttemberg,Direct migration background,,,,,,,,,,,,
+2002,Baden-Wuerttemberg,Indirect migration background,,,,,,,,,,,,
+2002,Bayern,No migration background,,,,,,,,,,,,
+2002,Bayern,Direct migration background,,,,,,,,,,,,
+2002,Bayern,Indirect migration background,,,,,,,,,,,,
+2002,Berlin,No migration background,,,,,,,,,,,,
+2002,Berlin,Direct migration background,,,,,,,,,,,,
+2002,Berlin,Indirect migration background,,,,,,,,,,,,
+2002,Brandenburg,No migration background,,,,,,,,,,,,
+2002,Brandenburg,Direct migration background,,,,,,,,,,,,
+2002,Brandenburg,Indirect migration background,,,,,,,,,,,,
+2002,Mecklenburg-Vorpommern,No migration background,,,,,,,,,,,,
+2002,Mecklenburg-Vorpommern,Direct migration background,,,,,,,,,,,,
+2002,Sachsen,No migration background,,,,,,,,,,,,
+2002,Sachsen,Direct migration background,,,,,,,,,,,,
+2002,Sachsen,Indirect migration background,,,,,,,,,,,,
+2002,Sachsen-Anhalt,No migration background,,,,,,,,,,,,
+2002,Sachsen-Anhalt,Direct migration background,,,,,,,,,,,,
+2002,Sachsen-Anhalt,Indirect migration background,,,,,,,,,,,,
+2002,Thueringen,No migration background,,,,,,,,,,,,
+2002,Thueringen,Direct migration background,,,,,,,,,,,,
+2002,Thueringen,Indirect migration background,,,,,,,,,,,,
+2003,Schleswig-Holstein,No migration background,,,,,,,,,,,,
+2003,Schleswig-Holstein,Direct migration background,,,,,,,,,,,,
+2003,Schleswig-Holstein,Indirect migration background,,,,,,,,,,,,
+2003,Hamburg,No migration background,,,,,,,,,,,,
+2003,Hamburg,Direct migration background,,,,,,,,,,,,
+2003,Hamburg,Indirect migration background,,,,,,,,,,,,
+2003,Niedersachsen,No migration background,,,,,,,,,,,,
+2003,Niedersachsen,Direct migration background,,,,,,,,,,,,
+2003,Niedersachsen,Indirect migration background,,,,,,,,,,,,
+2003,Bremen,No migration background,,,,,,,,,,,,
+2003,Bremen,Direct migration background,,,,,,,,,,,,
+2003,Bremen,Indirect migration background,,,,,,,,,,,,
+2003,Nordrhein-Westfalen,No migration background,,,,,,,,,,,,
+2003,Nordrhein-Westfalen,Direct migration background,,,,,,,,,,,,
+2003,Nordrhein-Westfalen,Indirect migration background,,,,,,,,,,,,
+2003,Hessen,No migration background,,,,,,,,,,,,
+2003,Hessen,Direct migration background,,,,,,,,,,,,
+2003,Hessen,Indirect migration background,,,,,,,,,,,,
+2003,"Rheinland-Pfalz,Saarland",No migration background,,,,,,,,,,,,
+2003,"Rheinland-Pfalz,Saarland",Direct migration background,,,,,,,,,,,,
+2003,"Rheinland-Pfalz,Saarland",Indirect migration background,,,,,,,,,,,,
+2003,Baden-Wuerttemberg,No migration background,,,,,,,,,,,,
+2003,Baden-Wuerttemberg,Direct migration background,,,,,,,,,,,,
+2003,Baden-Wuerttemberg,Indirect migration background,,,,,,,,,,,,
+2003,Bayern,No migration background,,,,,,,,,,,,
+2003,Bayern,Direct migration background,,,,,,,,,,,,
+2003,Bayern,Indirect migration background,,,,,,,,,,,,
+2003,Berlin,No migration background,,,,,,,,,,,,
+2003,Berlin,Direct migration background,,,,,,,,,,,,
+2003,Berlin,Indirect migration background,,,,,,,,,,,,
+2003,Brandenburg,No migration background,,,,,,,,,,,,
+2003,Brandenburg,Direct migration background,,,,,,,,,,,,
+2003,Brandenburg,Indirect migration background,,,,,,,,,,,,
+2003,Mecklenburg-Vorpommern,No migration background,,,,,,,,,,,,
+2003,Mecklenburg-Vorpommern,Direct migration background,,,,,,,,,,,,
+2003,Mecklenburg-Vorpommern,Indirect migration background,,,,,,,,,,,,
+2003,Sachsen,No migration background,,,,,,,,,,,,
+2003,Sachsen,Direct migration background,,,,,,,,,,,,
+2003,Sachsen,Indirect migration background,,,,,,,,,,,,
+2003,Sachsen-Anhalt,No migration background,,,,,,,,,,,,
+2003,Sachsen-Anhalt,Direct migration background,,,,,,,,,,,,
+2003,Sachsen-Anhalt,Indirect migration background,,,,,,,,,,,,
+2003,Thueringen,No migration background,,,,,,,,,,,,
+2003,Thueringen,Direct migration background,,,,,,,,,,,,
+2003,Thueringen,Indirect migration background,,,,,,,,,,,,
+2004,Schleswig-Holstein,No migration background,,,,,,,,,,,,
+2004,Schleswig-Holstein,Direct migration background,,,,,,,,,,,,
+2004,Schleswig-Holstein,Indirect migration background,,,,,,,,,,,,
+2004,Hamburg,No migration background,,,,,,,,,,,,
+2004,Hamburg,Direct migration background,,,,,,,,,,,,
+2004,Hamburg,Indirect migration background,,,,,,,,,,,,
+2004,Niedersachsen,No migration background,,,,,,,,,,,,
+2004,Niedersachsen,Direct migration background,,,,,,,,,,,,
+2004,Niedersachsen,Indirect migration background,,,,,,,,,,,,
+2004,Bremen,No migration background,,,,,,,,,,,,
+2004,Bremen,Direct migration background,,,,,,,,,,,,
+2004,Bremen,Indirect migration background,,,,,,,,,,,,
+2004,Nordrhein-Westfalen,No migration background,,,,,,,,,,,,
+2004,Nordrhein-Westfalen,Direct migration background,,,,,,,,,,,,
+2004,Nordrhein-Westfalen,Indirect migration background,,,,,,,,,,,,
+2004,Hessen,No migration background,,,,,,,,,,,,
+2004,Hessen,Direct migration background,,,,,,,,,,,,
+2004,Hessen,Indirect migration background,,,,,,,,,,,,
+2004,"Rheinland-Pfalz,Saarland",No migration background,,,,,,,,,,,,
+2004,"Rheinland-Pfalz,Saarland",Direct migration background,,,,,,,,,,,,
+2004,"Rheinland-Pfalz,Saarland",Indirect migration background,,,,,,,,,,,,
+2004,Baden-Wuerttemberg,No migration background,,,,,,,,,,,,
+2004,Baden-Wuerttemberg,Direct migration background,,,,,,,,,,,,
+2004,Baden-Wuerttemberg,Indirect migration background,,,,,,,,,,,,
+2004,Bayern,No migration background,,,,,,,,,,,,
+2004,Bayern,Direct migration background,,,,,,,,,,,,
+2004,Bayern,Indirect migration background,,,,,,,,,,,,
+2004,Berlin,No migration background,,,,,,,,,,,,
+2004,Berlin,Direct migration background,,,,,,,,,,,,
+2004,Berlin,Indirect migration background,,,,,,,,,,,,
+2004,Brandenburg,No migration background,,,,,,,,,,,,
+2004,Brandenburg,Direct migration background,,,,,,,,,,,,
+2004,Brandenburg,Indirect migration background,,,,,,,,,,,,
+2004,Mecklenburg-Vorpommern,No migration background,,,,,,,,,,,,
+2004,Mecklenburg-Vorpommern,Direct migration background,,,,,,,,,,,,
+2004,Mecklenburg-Vorpommern,Indirect migration background,,,,,,,,,,,,
+2004,Sachsen,No migration background,,,,,,,,,,,,
+2004,Sachsen,Direct migration background,,,,,,,,,,,,
+2004,Sachsen,Indirect migration background,,,,,,,,,,,,
+2004,Sachsen-Anhalt,No migration background,,,,,,,,,,,,
+2004,Sachsen-Anhalt,Direct migration background,,,,,,,,,,,,
+2004,Sachsen-Anhalt,Indirect migration background,,,,,,,,,,,,
+2004,Thueringen,No migration background,,,,,,,,,,,,
+2004,Thueringen,Direct migration background,,,,,,,,,,,,
+2004,Thueringen,Indirect migration background,,,,,,,,,,,,
+2005,Schleswig-Holstein,No migration background,,,,,,,,,,,,
+2005,Schleswig-Holstein,Direct migration background,,,,,,,,,,,,
+2005,Schleswig-Holstein,Indirect migration background,,,,,,,,,,,,
+2005,Hamburg,No migration background,,,,,,,,,,,,
+2005,Hamburg,Direct migration background,,,,,,,,,,,,
+2005,Hamburg,Indirect migration background,,,,,,,,,,,,
+2005,Niedersachsen,No migration background,,,,,,,,,,,,
+2005,Niedersachsen,Direct migration background,,,,,,,,,,,,
+2005,Niedersachsen,Indirect migration background,,,,,,,,,,,,
+2005,Bremen,No migration background,,,,,,,,,,,,
+2005,Bremen,Direct migration background,,,,,,,,,,,,
+2005,Bremen,Indirect migration background,,,,,,,,,,,,
+2005,Nordrhein-Westfalen,No migration background,,,,,,,,,,,,
+2005,Nordrhein-Westfalen,Direct migration background,,,,,,,,,,,,
+2005,Nordrhein-Westfalen,Indirect migration background,,,,,,,,,,,,
+2005,Hessen,No migration background,,,,,,,,,,,,
+2005,Hessen,Direct migration background,,,,,,,,,,,,
+2005,Hessen,Indirect migration background,,,,,,,,,,,,
+2005,"Rheinland-Pfalz,Saarland",No migration background,,,,,,,,,,,,
+2005,"Rheinland-Pfalz,Saarland",Direct migration background,,,,,,,,,,,,
+2005,"Rheinland-Pfalz,Saarland",Indirect migration background,,,,,,,,,,,,
+2005,Baden-Wuerttemberg,No migration background,,,,,,,,,,,,
+2005,Baden-Wuerttemberg,Direct migration background,,,,,,,,,,,,
+2005,Baden-Wuerttemberg,Indirect migration background,,,,,,,,,,,,
+2005,Bayern,No migration background,,,,,,,,,,,,
+2005,Bayern,Direct migration background,,,,,,,,,,,,
+2005,Bayern,Indirect migration background,,,,,,,,,,,,
+2005,Berlin,No migration background,,,,,,,,,,,,
+2005,Berlin,Direct migration background,,,,,,,,,,,,
+2005,Berlin,Indirect migration background,,,,,,,,,,,,
+2005,Brandenburg,No migration background,,,,,,,,,,,,
+2005,Brandenburg,Direct migration background,,,,,,,,,,,,
+2005,Brandenburg,Indirect migration background,,,,,,,,,,,,
+2005,Mecklenburg-Vorpommern,No migration background,,,,,,,,,,,,
+2005,Mecklenburg-Vorpommern,Direct migration background,,,,,,,,,,,,
+2005,Mecklenburg-Vorpommern,Indirect migration background,,,,,,,,,,,,
+2005,Sachsen,No migration background,,,,,,,,,,,,
+2005,Sachsen,Direct migration background,,,,,,,,,,,,
+2005,Sachsen,Indirect migration background,,,,,,,,,,,,
+2005,Sachsen-Anhalt,No migration background,,,,,,,,,,,,
+2005,Sachsen-Anhalt,Direct migration background,,,,,,,,,,,,
+2005,Sachsen-Anhalt,Indirect migration background,,,,,,,,,,,,
+2005,Thueringen,No migration background,,,,,,,,,,,,
+2005,Thueringen,Direct migration background,,,,,,,,,,,,
+2005,Thueringen,Indirect migration background,,,,,,,,,,,,
+2006,Schleswig-Holstein,No migration background,,,,,,,,,,,,
+2006,Schleswig-Holstein,Direct migration background,,,,,,,,,,,,
+2006,Schleswig-Holstein,Indirect migration background,,,,,,,,,,,,
+2006,Hamburg,No migration background,,,,,,,,,,,,
+2006,Hamburg,Direct migration background,,,,,,,,,,,,
+2006,Hamburg,Indirect migration background,,,,,,,,,,,,
+2006,Niedersachsen,No migration background,,,,,,,,,,,,
+2006,Niedersachsen,Direct migration background,,,,,,,,,,,,
+2006,Niedersachsen,Indirect migration background,,,,,,,,,,,,
+2006,Bremen,No migration background,,,,,,,,,,,,
+2006,Bremen,Direct migration background,,,,,,,,,,,,
+2006,Bremen,Indirect migration background,,,,,,,,,,,,
+2006,Nordrhein-Westfalen,No migration background,,,,,,,,,,,,
+2006,Nordrhein-Westfalen,Direct migration background,,,,,,,,,,,,
+2006,Nordrhein-Westfalen,Indirect migration background,,,,,,,,,,,,
+2006,Hessen,No migration background,,,,,,,,,,,,
+2006,Hessen,Direct migration background,,,,,,,,,,,,
+2006,Hessen,Indirect migration background,,,,,,,,,,,,
+2006,"Rheinland-Pfalz,Saarland",No migration background,,,,,,,,,,,,
+2006,"Rheinland-Pfalz,Saarland",Direct migration background,,,,,,,,,,,,
+2006,"Rheinland-Pfalz,Saarland",Indirect migration background,,,,,,,,,,,,
+2006,Baden-Wuerttemberg,No migration background,,,,,,,,,,,,
+2006,Baden-Wuerttemberg,Direct migration background,,,,,,,,,,,,
+2006,Baden-Wuerttemberg,Indirect migration background,,,,,,,,,,,,
+2006,Bayern,No migration background,,,,,,,,,,,,
+2006,Bayern,Direct migration background,,,,,,,,,,,,
+2006,Bayern,Indirect migration background,,,,,,,,,,,,
+2006,Berlin,No migration background,,,,,,,,,,,,
+2006,Berlin,Direct migration background,,,,,,,,,,,,
+2006,Berlin,Indirect migration background,,,,,,,,,,,,
+2006,Brandenburg,No migration background,,,,,,,,,,,,
+2006,Brandenburg,Direct migration background,,,,,,,,,,,,
+2006,Brandenburg,Indirect migration background,,,,,,,,,,,,
+2006,Mecklenburg-Vorpommern,No migration background,,,,,,,,,,,,
+2006,Mecklenburg-Vorpommern,Direct migration background,,,,,,,,,,,,
+2006,Mecklenburg-Vorpommern,Indirect migration background,,,,,,,,,,,,
+2006,Sachsen,No migration background,,,,,,,,,,,,
+2006,Sachsen,Direct migration background,,,,,,,,,,,,
+2006,Sachsen,Indirect migration background,,,,,,,,,,,,
+2006,Sachsen-Anhalt,No migration background,,,,,,,,,,,,
+2006,Sachsen-Anhalt,Direct migration background,,,,,,,,,,,,
+2006,Sachsen-Anhalt,Indirect migration background,,,,,,,,,,,,
+2006,Thueringen,No migration background,,,,,,,,,,,,
+2006,Thueringen,Direct migration background,,,,,,,,,,,,
+2006,Thueringen,Indirect migration background,,,,,,,,,,,,
+2007,Schleswig-Holstein,No migration background,,,,,,,,,,,,
+2007,Schleswig-Holstein,Direct migration background,,,,,,,,,,,,
+2007,Schleswig-Holstein,Indirect migration background,,,,,,,,,,,,
+2007,Hamburg,No migration background,,,,,,,,,,,,
+2007,Hamburg,Direct migration background,,,,,,,,,,,,
+2007,Hamburg,Indirect migration background,,,,,,,,,,,,
+2007,Niedersachsen,No migration background,,,,,,,,,,,,
+2007,Niedersachsen,Direct migration background,,,,,,,,,,,,
+2007,Niedersachsen,Indirect migration background,,,,,,,,,,,,
+2007,Bremen,No migration background,,,,,,,,,,,,
+2007,Bremen,Direct migration background,,,,,,,,,,,,
+2007,Bremen,Indirect migration background,,,,,,,,,,,,
+2007,Nordrhein-Westfalen,No migration background,,,,,,,,,,,,
+2007,Nordrhein-Westfalen,Direct migration background,,,,,,,,,,,,
+2007,Nordrhein-Westfalen,Indirect migration background,,,,,,,,,,,,
+2007,Hessen,No migration background,,,,,,,,,,,,
+2007,Hessen,Direct migration background,,,,,,,,,,,,
+2007,Hessen,Indirect migration background,,,,,,,,,,,,
+2007,"Rheinland-Pfalz,Saarland",No migration background,,,,,,,,,,,,
+2007,"Rheinland-Pfalz,Saarland",Direct migration background,,,,,,,,,,,,
+2007,"Rheinland-Pfalz,Saarland",Indirect migration background,,,,,,,,,,,,
+2007,Baden-Wuerttemberg,No migration background,,,,,,,,,,,,
+2007,Baden-Wuerttemberg,Direct migration background,,,,,,,,,,,,
+2007,Baden-Wuerttemberg,Indirect migration background,,,,,,,,,,,,
+2007,Bayern,No migration background,,,,,,,,,,,,
+2007,Bayern,Direct migration background,,,,,,,,,,,,
+2007,Bayern,Indirect migration background,,,,,,,,,,,,
+2007,Berlin,No migration background,,,,,,,,,,,,
+2007,Berlin,Direct migration background,,,,,,,,,,,,
+2007,Berlin,Indirect migration background,,,,,,,,,,,,
+2007,Brandenburg,No migration background,,,,,,,,,,,,
+2007,Brandenburg,Direct migration background,,,,,,,,,,,,
+2007,Brandenburg,Indirect migration background,,,,,,,,,,,,
+2007,Mecklenburg-Vorpommern,No migration background,,,,,,,,,,,,
+2007,Mecklenburg-Vorpommern,Direct migration background,,,,,,,,,,,,
+2007,Mecklenburg-Vorpommern,Indirect migration background,,,,,,,,,,,,
+2007,Sachsen,No migration background,,,,,,,,,,,,
+2007,Sachsen,Direct migration background,,,,,,,,,,,,
+2007,Sachsen,Indirect migration background,,,,,,,,,,,,
+2007,Sachsen-Anhalt,No migration background,,,,,,,,,,,,
+2007,Sachsen-Anhalt,Direct migration background,,,,,,,,,,,,
+2007,Sachsen-Anhalt,Indirect migration background,,,,,,,,,,,,
+2007,Thueringen,No migration background,,,,,,,,,,,,
+2007,Thueringen,Direct migration background,,,,,,,,,,,,
+2007,Thueringen,Indirect migration background,,,,,,,,,,,,
+2008,Schleswig-Holstein,No migration background,7.027518320772805,6.970677700638582,7.084358940907029,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,498.0
+2008,Schleswig-Holstein,Direct migration background,6.996548972848812,6.874018535537192,7.119079410160432,6.0,7.0,8.0,6.0,10.0,7.0,7.0,8.0,44.0
+2008,Schleswig-Holstein,Indirect migration background,,,,,,,,,,,,
+2008,Hamburg,No migration background,6.985643056648751,6.9005397071443095,7.070746406153193,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,247.0
+2008,Hamburg,Direct migration background,,,,,,,,,,,,
+2008,Hamburg,Indirect migration background,,,,,,,,,,,,
+2008,Niedersachsen,No migration background,6.977347257781608,6.949329798981758,7.005364716581457,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,1536.0
+2008,Niedersachsen,Direct migration background,7.063169922517728,6.976470841141369,7.1498690038940875,7.0,7.0,8.0,5.5,9.5,7.0,7.0,7.0,149.0
+2008,Niedersachsen,Indirect migration background,7.018214152502682,6.834085051738175,7.202343253267189,7.0,7.0,8.0,5.5,9.5,7.0,6.0,7.0,47.0
+2008,Bremen,No migration background,7.052171925547447,6.953083998563674,7.15125985253122,6.0,7.0,8.0,4.0,10.0,7.0,7.0,7.0,125.0
+2008,Bremen,Direct migration background,,,,,,,,,,,,
+2008,Bremen,Indirect migration background,,,,,,,,,,,,
+2008,Nordrhein-Westfalen,No migration background,7.05483543438051,7.034401223919691,7.075269644841329,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,3195.0
+2008,Nordrhein-Westfalen,Direct migration background,6.958530204266549,6.9074515879515594,7.009608820581539,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,513.0
+2008,Nordrhein-Westfalen,Indirect migration background,7.112849662824267,7.027900113237921,7.197799212410613,7.0,7.0,8.0,5.5,9.5,7.0,7.0,7.0,212.0
+2008,Hessen,No migration background,7.037761584035621,7.002824556759122,7.072698611312121,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,1061.0
+2008,Hessen,Direct migration background,6.801433212130009,6.687575114411139,6.915291309848879,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,182.0
+2008,Hessen,Indirect migration background,6.922667747504153,6.803298479428799,7.042037015579508,6.0,7.0,7.611466514006421,5.0,10.0,7.0,7.0,8.0,68.0
+2008,"Rheinland-Pfalz,Saarland",No migration background,6.989355158583716,6.947889677536309,7.030820639631123,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,901.0
+2008,"Rheinland-Pfalz,Saarland",Direct migration background,7.393858392004983,7.303057131894116,7.48465965211585,6.783008979936495,8.0,8.0,5.0,9.825486530095258,8.0,8.0,9.0,142.0
+2008,"Rheinland-Pfalz,Saarland",Indirect migration background,6.816727754035806,6.680791181117769,6.952664326953844,6.0,7.0,7.0,4.5,8.5,7.0,7.0,8.0,51.0
+2008,Baden-Wuerttemberg,No migration background,7.088350431498761,7.063061419891138,7.1136394431063845,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,1744.0
+2008,Baden-Wuerttemberg,Direct migration background,7.077239727597753,7.022338176530794,7.1321412786647125,6.0,7.0,8.0,3.0,10.0,7.0,7.0,7.0,435.0
+2008,Baden-Wuerttemberg,Indirect migration background,7.0474754305974034,6.975566464832803,7.119384396362004,6.0,7.0,8.0,4.0,10.0,7.0,7.0,7.0,178.0
+2008,Bayern,No migration background,7.156374892455845,7.1322761992249095,7.18047358568678,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,2324.0
+2008,Bayern,Direct migration background,6.920097432119988,6.850592411262752,6.989602452977224,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,288.0
+2008,Bayern,Indirect migration background,7.094360985476164,6.98998530700899,7.198736663943338,6.0,7.0,8.0,4.0,10.0,7.0,7.0,7.0,129.0
+2008,Berlin,No migration background,6.995602740974129,6.951066230653566,7.040139251294692,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,644.0
+2008,Berlin,Direct migration background,7.360687304162577,7.174408896664785,7.54696571166037,7.0,7.0,8.0,5.5,9.5,7.0,6.0,7.0,49.0
+2008,Berlin,Indirect migration background,,,,,,,,,,,,
+2008,Brandenburg,No migration background,7.216313820663685,7.177441698959488,7.255185942367882,7.0,7.0,8.0,5.5,9.5,7.0,7.0,7.0,797.0
+2008,Brandenburg,Direct migration background,,,,,,,,,,,,
+2008,Brandenburg,Indirect migration background,,,,,,,,,,,,
+2008,Mecklenburg-Vorpommern,No migration background,7.07411455724423,7.018809103428041,7.129420011060419,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,480.0
+2008,Mecklenburg-Vorpommern,Direct migration background,,,,,,,,,,,,
+2008,Mecklenburg-Vorpommern,Indirect migration background,,,,,,,,,,,,
+2008,Sachsen,No migration background,7.062084256727952,7.033070130447877,7.091098383008028,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,1397.0
+2008,Sachsen,Direct migration background,,,,,,,,,,,,
+2008,Sachsen,Indirect migration background,,,,,,,,,,,,
+2008,Sachsen-Anhalt,No migration background,7.031083160600224,6.991467242706034,7.070699078494415,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,791.0
+2008,Sachsen-Anhalt,Direct migration background,,,,,,,,,,,,
+2008,Sachsen-Anhalt,Indirect migration background,,,,,,,,,,,,
+2008,Thueringen,No migration background,7.192056247293242,7.151500892107681,7.232611602478803,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,847.0
+2008,Thueringen,Direct migration background,,,,,,,,,,,,
+2008,Thueringen,Indirect migration background,,,,,,,,,,,,
+2009,Schleswig-Holstein,No migration background,7.120369626810078,7.064878631172398,7.1758606224477575,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,454.0
+2009,Schleswig-Holstein,Direct migration background,7.027589084300089,6.905013497058252,7.150164671541927,7.0,7.0,8.0,5.5,8.0,7.0,7.0,7.0,44.0
+2009,Schleswig-Holstein,Indirect migration background,,,,,,,,,,,,
+2009,Hamburg,No migration background,6.994115647780269,6.917965147451772,7.070266148108766,6.0,7.0,8.0,3.0,10.0,7.0,7.0,7.0,242.0
+2009,Hamburg,Direct migration background,,,,,,,,,,,,
+2009,Hamburg,Indirect migration background,,,,,,,,,,,,
+2009,Niedersachsen,No migration background,6.859357022509666,6.830557043190284,6.8881570018290486,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,1450.0
+2009,Niedersachsen,Direct migration background,6.987448007028271,6.900794286174127,7.0741017278824145,6.0,7.0,8.0,4.0,10.0,7.0,7.0,8.0,130.0
+2009,Niedersachsen,Indirect migration background,6.551643825350847,6.342642653491021,6.760644997210672,6.0,7.0,8.0,3.0,10.0,7.0,7.0,8.0,44.0
+2009,Bremen,No migration background,7.085988370388703,6.9849762249521925,7.187000515825214,6.0,7.0,8.0,4.0,10.0,7.0,7.0,7.0,114.0
+2009,Bremen,Direct migration background,,,,,,,,,,,,
+2009,Bremen,Indirect migration background,,,,,,,,,,,,
+2009,Nordrhein-Westfalen,No migration background,6.997260683861249,6.977039132371751,7.017482235350747,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,2978.0
+2009,Nordrhein-Westfalen,Direct migration background,7.00527995363005,6.954524019075816,7.056035888184285,6.0,7.0,8.0,4.0,11.0,7.0,7.0,7.0,444.0
+2009,Nordrhein-Westfalen,Indirect migration background,7.155367676586304,7.079309005916343,7.231426347256265,7.0,7.0,8.0,5.5,9.5,7.0,7.0,7.0,194.0
+2009,Hessen,No migration background,6.9575021941221875,6.922495853897526,6.992508534346849,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,992.0
+2009,Hessen,Direct migration background,6.955273566264145,6.857972512489004,7.052574620039286,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,159.0
+2009,Hessen,Indirect migration background,7.036933905348288,6.919067175378414,7.154800635318162,6.691985523581838,7.0,7.0,6.2299638089545955,7.462021714627243,7.0,7.0,7.0,61.0
+2009,"Rheinland-Pfalz,Saarland",No migration background,7.059733671219144,7.017715507715964,7.101751834722323,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,826.0
+2009,"Rheinland-Pfalz,Saarland",Direct migration background,7.12430315989752,7.03083374211322,7.217772577681821,6.0,7.0,8.0,4.0,10.0,7.0,6.0,7.0,133.0
+2009,"Rheinland-Pfalz,Saarland",Indirect migration background,7.175894584290097,7.055731186941135,7.296057981639058,6.0,7.0,8.0,5.0,10.0,7.0,6.0,7.0,58.0
+2009,Baden-Wuerttemberg,No migration background,7.016392074389626,6.991902108157081,7.04088204062217,6.0,7.0,8.0,3.0,10.0,7.0,7.0,7.0,1593.0
+2009,Baden-Wuerttemberg,Direct migration background,7.156258959896218,7.081880040357657,7.230637879434779,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,349.0
+2009,Baden-Wuerttemberg,Indirect migration background,7.065891579793583,6.985744477035937,7.146038682551228,6.0,7.0,8.0,5.0,11.0,7.0,7.0,7.0,155.0
+2009,Bayern,No migration background,7.117781925770342,7.0943267925499525,7.141237058990732,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,2217.0
+2009,Bayern,Direct migration background,6.919523663996314,6.850737448471696,6.988309879520932,6.0,7.0,8.0,3.0,10.0,7.0,7.0,7.0,259.0
+2009,Bayern,Indirect migration background,6.89589240833031,6.795093970627308,6.996690846033312,6.0,7.0,8.0,3.0,10.0,7.0,7.0,7.0,121.0
+2009,Berlin,No migration background,6.959132336312963,6.914413763399728,7.003850909226197,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,611.0
+2009,Berlin,Direct migration background,6.81719238522627,6.617949812696786,7.016434957755754,6.0,7.0,8.0,3.0,10.0,7.0,7.0,7.0,50.0
+2009,Berlin,Indirect migration background,,,,,,,,,,,,
+2009,Brandenburg,No migration background,7.122487849883471,7.082723617965354,7.162252081801587,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,760.0
+2009,Brandenburg,Direct migration background,,,,,,,,,,,,
+2009,Brandenburg,Indirect migration background,,,,,,,,,,,,
+2009,Mecklenburg-Vorpommern,No migration background,7.057789542917944,7.009010904329189,7.106568181506699,6.0,7.0,8.0,3.0,10.0,7.0,7.0,7.0,460.0
+2009,Mecklenburg-Vorpommern,Direct migration background,,,,,,,,,,,,
+2009,Mecklenburg-Vorpommern,Indirect migration background,,,,,,,,,,,,
+2009,Sachsen,No migration background,6.968004545348985,6.939774954996851,6.996234135701119,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,1332.0
+2009,Sachsen,Direct migration background,,,,,,,,,,,,
+2009,Sachsen,Indirect migration background,,,,,,,,,,,,
+2009,Sachsen-Anhalt,No migration background,7.015201955030254,6.974868106542406,7.055535803518103,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,750.0
+2009,Sachsen-Anhalt,Direct migration background,,,,,,,,,,,,
+2009,Sachsen-Anhalt,Indirect migration background,,,,,,,,,,,,
+2009,Thueringen,No migration background,7.077153689779684,7.035331675545173,7.118975704014195,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,803.0
+2009,Thueringen,Direct migration background,,,,,,,,,,,,
+2009,Thueringen,Indirect migration background,,,,,,,,,,,,
+2010,Schleswig-Holstein,No migration background,6.873965859509411,6.826885313862567,6.921046405156256,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,627.0
+2010,Schleswig-Holstein,Direct migration background,6.391507218446395,6.170563365726084,6.612451071166706,6.0,7.0,8.0,3.0,9.0,7.0,6.0,8.0,79.0
+2010,Schleswig-Holstein,Indirect migration background,,,,,,,,,,,,
+2010,Hamburg,No migration background,7.110034232871746,7.044238576602754,7.175829889140737,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,312.0
+2010,Hamburg,Direct migration background,7.138361196263672,7.042672455771373,7.23404993675597,7.0,7.0,8.0,5.5,9.0,7.0,6.0,7.0,50.0
+2010,Hamburg,Indirect migration background,,,,,,,,,,,,
+2010,Niedersachsen,No migration background,6.929396625835379,6.903119070739197,6.9556741809315605,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,1884.0
+2010,Niedersachsen,Direct migration background,6.907063764892677,6.832628638771515,6.981498891013839,6.0,7.0,8.0,3.0,10.0,7.0,7.0,8.0,224.0
+2010,Niedersachsen,Indirect migration background,7.161427906598776,6.956329484033063,7.36652632916449,6.0,7.0,8.0,4.0,11.0,7.0,6.0,7.0,69.0
+2010,Bremen,No migration background,7.112441814583338,7.016455969958699,7.2084276592079775,6.0,7.0,8.0,4.0,11.0,7.0,7.0,7.0,147.0
+2010,Bremen,Direct migration background,,,,,,,,,,,,
+2010,Bremen,Indirect migration background,,,,,,,,,,,,
+2010,Nordrhein-Westfalen,No migration background,6.975152240804443,6.9562622108823255,6.99404227072656,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,3758.0
+2010,Nordrhein-Westfalen,Direct migration background,6.970824356216411,6.932891565507013,7.008757146925809,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,886.0
+2010,Nordrhein-Westfalen,Indirect migration background,7.1107886063344905,7.051959055014362,7.169618157654619,6.0,7.0,8.0,3.0,10.0,7.0,6.974999999999994,7.0,329.0
+2010,Hessen,No migration background,6.924264763756806,6.893470412873328,6.955059114640284,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,1262.0
+2010,Hessen,Direct migration background,6.998939264812421,6.9234239840479646,7.074454545576877,6.0,7.0,8.0,4.0,11.0,7.0,7.0,7.0,314.0
+2010,Hessen,Indirect migration background,7.252938868009026,7.146460892188455,7.359416843829597,7.0,7.0,8.0,5.5,9.5,7.0,6.0,7.0,92.0
+2010,"Rheinland-Pfalz,Saarland",No migration background,6.923018198461235,6.886583573021548,6.9594528239009215,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,1065.0
+2010,"Rheinland-Pfalz,Saarland",Direct migration background,7.0894334762173905,6.9971282025799715,7.1817387498548095,6.0,7.0,8.0,3.0,10.0,7.0,6.0,7.0,192.0
+2010,"Rheinland-Pfalz,Saarland",Indirect migration background,6.94739536664579,6.81838218122941,7.076408552062171,6.0,7.0,8.0,3.0,10.0,7.0,7.0,8.0,78.0
+2010,Baden-Wuerttemberg,No migration background,7.033985122224781,7.0120263350120515,7.05594390943751,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,2174.0
+2010,Baden-Wuerttemberg,Direct migration background,6.875831870983627,6.823767722496938,6.9278960194703165,6.0,7.0,8.0,3.0,10.0,7.0,7.0,7.0,497.0
+2010,Baden-Wuerttemberg,Indirect migration background,6.830992824545437,6.766055742302999,6.895929906787876,6.0,7.0,7.0,4.5,8.5,7.0,7.0,8.0,212.0
+2010,Bayern,No migration background,7.040416570435228,7.019211558751568,7.061621582118889,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,2950.0
+2010,Bayern,Direct migration background,6.839599684755539,6.780202868577069,6.898996500934009,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,453.0
+2010,Bayern,Indirect migration background,6.72046180445416,6.6244184766621945,6.816505132246126,6.0,7.0,8.0,3.0,10.0,7.0,7.0,8.0,177.0
+2010,Berlin,No migration background,6.909728318767938,6.867754663945983,6.951701973589892,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,772.0
+2010,Berlin,Direct migration background,7.24573026570858,7.088863880326441,7.402596651090718,6.0,8.0,8.0,3.0,11.0,8.0,8.0,9.0,109.0
+2010,Berlin,Indirect migration background,6.597168551817707,6.37204669801019,6.822290405625224,6.0,6.293080905041257,8.0,4.0,10.0,6.0,4.0,6.0,43.0
+2010,Brandenburg,No migration background,6.927917855502171,6.890440717487509,6.965394993516833,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,910.0
+2010,Brandenburg,Direct migration background,,,,,,,,,,,,
+2010,Brandenburg,Indirect migration background,,,,,,,,,,,,
+2010,Mecklenburg-Vorpommern,No migration background,6.928317567353876,6.881479653441322,6.975155481266429,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,571.0
+2010,Mecklenburg-Vorpommern,Direct migration background,,,,,,,,,,,,
+2010,Mecklenburg-Vorpommern,Indirect migration background,,,,,,,,,,,,
+2010,Sachsen,No migration background,6.899496875374619,6.871758184763548,6.92723556598569,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,1619.0
+2010,Sachsen,Direct migration background,6.870194651844992,6.693806303910594,7.04658299977939,6.0,7.0,8.0,4.0,10.0,7.0,6.0,8.0,36.0
+2010,Sachsen,Indirect migration background,,,,,,,,,,,,
+2010,Sachsen-Anhalt,No migration background,6.95639363463903,6.918350719960188,6.9944365493178715,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,881.0
+2010,Sachsen-Anhalt,Direct migration background,,,,,,,,,,,,
+2010,Sachsen-Anhalt,Indirect migration background,,,,,,,,,,,,
+2010,Thueringen,No migration background,7.0944344259615315,7.055438154295341,7.133430697627722,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,926.0
+2010,Thueringen,Direct migration background,,,,,,,,,,,,
+2010,Thueringen,Indirect migration background,,,,,,,,,,,,
+2011,Schleswig-Holstein,No migration background,6.984425318418557,6.945321009384105,7.0235296274530095,6.0,7.0,8.0,3.0,10.0,7.0,7.0,7.0,845.0
+2011,Schleswig-Holstein,Direct migration background,6.700384368969526,6.539694568610206,6.8610741693288455,6.0,7.0,8.0,3.0,10.0,7.0,7.0,7.0,109.0
+2011,Schleswig-Holstein,Indirect migration background,,,,,,,,,,,,
+2011,Hamburg,No migration background,6.912001344557728,6.8559971357274385,6.968005553388018,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,356.0
+2011,Hamburg,Direct migration background,6.992969640332198,6.866408551976603,7.119530728687794,6.0,7.0,8.0,5.0,9.0,7.0,6.0,8.0,50.0
+2011,Hamburg,Indirect migration background,,,,,,,,,,,,
+2011,Niedersachsen,No migration background,6.886862886959251,6.86410576628708,6.909620007631421,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,2273.0
+2011,Niedersachsen,Direct migration background,7.014825054424523,6.954865530257253,7.074784578591792,6.0,7.0,8.0,3.0,10.0,7.0,7.0,7.0,282.0
+2011,Niedersachsen,Indirect migration background,6.72557957268443,6.577847842082937,6.873311303285924,6.0,7.0,8.0,4.0,11.0,7.0,7.0,8.0,76.0
+2011,Bremen,No migration background,6.5864615824214665,6.491004900672758,6.681918264170175,6.0,7.0,7.0,4.5,8.5,7.0,7.0,8.0,152.0
+2011,Bremen,Direct migration background,6.720053521971949,6.546185155525579,6.89392188841832,6.0,7.0,7.0,5.0,8.5,7.0,7.0,8.0,30.0
+2011,Bremen,Indirect migration background,,,,,,,,,,,,
+2011,Nordrhein-Westfalen,No migration background,6.956823646321628,6.938627601134521,6.975019691508735,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,4387.0
+2011,Nordrhein-Westfalen,Direct migration background,6.96334828815278,6.926164747738017,7.000531828567542,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,970.0
+2011,Nordrhein-Westfalen,Indirect migration background,7.111156399233607,7.052318557355325,7.1699942411118895,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,356.0
+2011,Hessen,No migration background,6.896211555507434,6.867462621917902,6.924960489096966,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,1508.0
+2011,Hessen,Direct migration background,6.836124716705148,6.7712062521296685,6.901043181280628,6.0,7.0,8.0,3.0,10.0,7.0,7.0,7.0,334.0
+2011,Hessen,Indirect migration background,7.12265437797321,7.013007691590327,7.2323010643560925,6.0,7.0,8.0,3.0,11.0,7.0,6.0,7.0,118.0
+2011,"Rheinland-Pfalz,Saarland",No migration background,6.8839891380974825,6.853161733136751,6.914816543058214,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,1304.0
+2011,"Rheinland-Pfalz,Saarland",Direct migration background,6.8396970292511465,6.766083147347361,6.913310911154932,6.0,7.0,8.0,3.0,10.0,7.0,7.0,7.0,220.0
+2011,"Rheinland-Pfalz,Saarland",Indirect migration background,6.436644880846892,6.280136637436649,6.593153124257134,5.0,6.2663970911455005,7.0,3.0,10.0,6.0,5.0,6.0,83.0
+2011,Baden-Wuerttemberg,No migration background,6.946979646131478,6.927005154443114,6.966954137819842,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,2726.0
+2011,Baden-Wuerttemberg,Direct migration background,6.7939411400249865,6.74461977319888,6.843262506851093,6.0,7.0,8.0,3.0,10.0,7.0,7.0,7.0,558.0
+2011,Baden-Wuerttemberg,Indirect migration background,6.905964374740341,6.842697638770025,6.969231110710657,6.0,7.0,8.0,3.0,10.0,7.0,7.0,7.0,246.0
+2011,Bayern,No migration background,7.021279269435645,7.002362699492266,7.040195839379025,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,3720.0
+2011,Bayern,Direct migration background,6.801546603061858,6.74727165478341,6.8558215513403065,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,503.0
+2011,Bayern,Indirect migration background,6.9749520627898,6.891319634093808,7.058584491485792,6.0,7.0,8.0,3.0,10.0,7.0,7.0,8.0,205.0
+2011,Berlin,No migration background,6.926930613942756,6.884727663527825,6.969133564357686,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,875.0
+2011,Berlin,Direct migration background,7.013891951633276,6.864091882628161,7.163692020638392,6.0,7.0,8.0,3.0,11.0,7.0,6.0,7.0249999999999995,97.0
+2011,Berlin,Indirect migration background,7.051231359349804,6.8903057783967725,7.212156940302835,6.0,7.0,8.0,5.0,9.0,7.0,6.0,8.0,45.0
+2011,Brandenburg,No migration background,7.0212454855983575,6.986439092030991,7.056051879165724,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,1090.0
+2011,Brandenburg,Direct migration background,7.338428820205206,7.141846808519305,7.535010831891108,6.0,8.0,8.0,5.0,10.0,8.0,8.0,9.0,38.0
+2011,Brandenburg,Indirect migration background,,,,,,,,,,,,
+2011,Mecklenburg-Vorpommern,No migration background,6.929546747985303,6.883096513210855,6.975996982759751,6.0,7.0,8.0,3.0,10.0,7.0,7.0,7.0,639.0
+2011,Mecklenburg-Vorpommern,Direct migration background,,,,,,,,,,,,
+2011,Mecklenburg-Vorpommern,Indirect migration background,,,,,,,,,,,,
+2011,Sachsen,No migration background,6.909468237219378,6.884446697761081,6.934489776677674,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,1771.0
+2011,Sachsen,Direct migration background,6.546463175989089,6.375995005806655,6.716931346171523,6.0,6.0,8.0,4.0,8.0,6.0,4.0,6.0,41.0
+2011,Sachsen,Indirect migration background,,,,,,,,,,,,
+2011,Sachsen-Anhalt,No migration background,6.8770717224885205,6.838444528676415,6.915698916300626,6.0,7.0,8.0,3.0,10.0,7.0,7.0,7.0,1062.0
+2011,Sachsen-Anhalt,Direct migration background,,,,,,,,,,,,
+2011,Sachsen-Anhalt,Indirect migration background,,,,,,,,,,,,
+2011,Thueringen,No migration background,7.100416205983583,7.063498895671161,7.137333516296005,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,1071.0
+2011,Thueringen,Direct migration background,,,,,,,,,,,,
+2011,Thueringen,Indirect migration background,,,,,,,,,,,,
+2012,Schleswig-Holstein,No migration background,7.000969293785914,6.961007190229753,7.040931397342075,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,856.0
+2012,Schleswig-Holstein,Direct migration background,7.308138095115744,7.207410828648043,7.408865361583445,7.0,7.0,8.0,5.5,9.5,7.0,6.0,7.0,100.0
+2012,Schleswig-Holstein,Indirect migration background,,,,,,,,,,,,
+2012,Hamburg,No migration background,7.065058942791881,7.001249960863314,7.128867924720447,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,363.0
+2012,Hamburg,Direct migration background,7.027051828131818,6.9000434243617335,7.154060231901903,6.667357235257526,7.0,8.0,4.668393088143816,9.99896414711371,7.0,6.0,8.0,49.0
+2012,Hamburg,Indirect migration background,,,,,,,,,,,,
+2012,Niedersachsen,No migration background,6.907618450427309,6.883451166357244,6.931785734497374,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,2218.0
+2012,Niedersachsen,Direct migration background,6.851022181017939,6.7789672311348435,6.923077130901034,6.0,7.0,8.0,3.0,10.0,7.0,7.0,7.0,265.0
+2012,Niedersachsen,Indirect migration background,6.780639562652443,6.64837148158525,6.9129076437196355,6.0,7.0,8.0,4.0,9.0,7.0,7.0,8.0,74.0
+2012,Bremen,No migration background,6.754629053984806,6.672984884928182,6.836273223041431,6.0,7.0,7.0,4.5,8.5,7.0,7.0,7.0,158.0
+2012,Bremen,Direct migration background,7.202800085959508,7.063490908882152,7.342109263036864,7.0,7.0,8.0,5.5,9.0,7.0,6.0,7.0,30.0
+2012,Bremen,Indirect migration background,,,,,,,,,,,,
+2012,Nordrhein-Westfalen,No migration background,6.965554402240607,6.947854088132692,6.983254716348522,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,4265.0
+2012,Nordrhein-Westfalen,Direct migration background,6.954774077829064,6.915242909436737,6.994305246221391,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,920.0
+2012,Nordrhein-Westfalen,Indirect migration background,7.038695387143141,6.976548985035979,7.100841789250303,6.0,7.0,8.0,3.0,10.0,7.0,7.0,7.0,340.0
+2012,Hessen,No migration background,6.913534961547819,6.883415108179603,6.9436548149160355,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,1484.0
+2012,Hessen,Direct migration background,6.894168957691491,6.817320364625356,6.971017550757626,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,300.0
+2012,Hessen,Indirect migration background,6.971971445238257,6.8513146194637535,7.09262827101276,6.0,7.0,8.0,4.0,11.0,7.0,7.0,7.0,117.0
+2012,"Rheinland-Pfalz,Saarland",No migration background,6.928986403362149,6.8970488769832565,6.960923929741042,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,1283.0
+2012,"Rheinland-Pfalz,Saarland",Direct migration background,6.829434031356706,6.747193611822822,6.911674450890589,6.0,7.0,8.0,3.0,10.0,7.0,7.0,7.0,195.0
+2012,"Rheinland-Pfalz,Saarland",Indirect migration background,6.9162678859955,6.80965969648606,7.022876075504939,6.0,7.0,8.0,5.0,10.0,7.0,7.0,8.0,87.0
+2012,Baden-Wuerttemberg,No migration background,7.032794630772274,7.011084943403967,7.054504318140582,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,2593.0
+2012,Baden-Wuerttemberg,Direct migration background,6.8618750663286185,6.809698571227445,6.914051561429792,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,513.0
+2012,Baden-Wuerttemberg,Indirect migration background,6.913272290270607,6.849082541739273,6.97746203880194,6.0,7.0,8.0,4.0,10.0,7.0,7.0,7.0,226.0
+2012,Bayern,No migration background,6.994509134613017,6.975065409900192,7.013952859325841,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,3610.0
+2012,Bayern,Direct migration background,6.814766953735301,6.760448684276319,6.869085223194283,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,517.0
+2012,Bayern,Indirect migration background,6.516568935767384,6.427902376242068,6.6052354952927,6.0,6.0,7.0,4.5,8.5,6.0,5.0,6.0,216.0
+2012,Berlin,No migration background,6.8116085262232104,6.7730802804409675,6.850136772005453,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,911.0
+2012,Berlin,Direct migration background,6.849508252019619,6.697484836923395,7.0015316671158425,6.0,7.0,8.0,4.0,11.0,7.0,7.0,7.0,89.0
+2012,Berlin,Indirect migration background,7.091484275176247,6.93315593225241,7.2498126181000835,6.0,7.0,8.0,4.0,9.0,7.0,6.0,8.0,38.0
+2012,Brandenburg,No migration background,6.9164458946268965,6.881286229017945,6.951605560235848,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,1051.0
+2012,Brandenburg,Direct migration background,6.694860628706966,6.488827975560774,6.900893281853158,6.0,7.0,8.0,4.0,9.0,7.0,7.0,8.0,37.0
+2012,Brandenburg,Indirect migration background,,,,,,,,,,,,
+2012,Mecklenburg-Vorpommern,No migration background,6.924448976568369,6.878880682259762,6.970017270876976,6.0,7.0,8.0,3.0,10.0,7.0,7.0,7.0,613.0
+2012,Mecklenburg-Vorpommern,Direct migration background,,,,,,,,,,,,
+2012,Mecklenburg-Vorpommern,Indirect migration background,,,,,,,,,,,,
+2012,Sachsen,No migration background,6.93429303256935,6.906254906591396,6.962331158547304,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,1774.0
+2012,Sachsen,Direct migration background,7.090049857252654,6.9508587615643895,7.229240952940919,6.232645459636193,7.0,8.0,4.0,9.0,7.0,6.0,8.0,48.0
+2012,Sachsen,Indirect migration background,,,,,,,,,,,,
+2012,Sachsen-Anhalt,No migration background,6.881863906817678,6.842557202503561,6.921170611131795,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,997.0
+2012,Sachsen-Anhalt,Direct migration background,,,,,,,,,,,,
+2012,Sachsen-Anhalt,Indirect migration background,,,,,,,,,,,,
+2012,Thueringen,No migration background,7.121855379383948,7.081320417195857,7.162390341572039,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,1043.0
+2012,Thueringen,Direct migration background,,,,,,,,,,,,
+2012,Thueringen,Indirect migration background,,,,,,,,,,,,
+2013,Schleswig-Holstein,No migration background,6.957242647359041,6.916233041607038,6.998252253111044,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,796.0
+2013,Schleswig-Holstein,Direct migration background,7.084970169868585,6.977029956704042,7.192910383033128,6.0,7.0,8.0,4.0,10.0,7.0,6.0,8.0,90.0
+2013,Schleswig-Holstein,Indirect migration background,,,,,,,,,,,,
+2013,Hamburg,No migration background,6.968716388114834,6.904504997171147,7.032927779058522,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,335.0
+2013,Hamburg,Direct migration background,6.904949773152667,6.701221434443037,7.108678111862296,6.0,7.0,8.0,3.0,9.0,7.0,6.0,7.0,48.0
+2013,Hamburg,Indirect migration background,,,,,,,,,,,,
+2013,Niedersachsen,No migration background,6.852631883091788,6.8281940130720455,6.87706975311153,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,2152.0
+2013,Niedersachsen,Direct migration background,6.976100089892215,6.905108145197038,7.047092034587393,6.0,7.0,8.0,4.0,10.0,7.0,7.0,7.0,241.0
+2013,Niedersachsen,Indirect migration background,6.881154409180461,6.770642780901423,6.991666037459498,6.0,7.0,8.0,4.0,10.0,7.0,7.0,8.0,83.0
+2013,Bremen,No migration background,6.585350137337735,6.480675871939293,6.690024402736177,6.0,7.0,7.0,4.5,8.5,7.0,7.0,8.0,144.0
+2013,Bremen,Direct migration background,6.224043091846387,6.047484790346979,6.400601393345796,5.0,6.0,7.0,4.0,8.0,6.0,5.0,7.0,30.0
+2013,Bremen,Indirect migration background,,,,,,,,,,,,
+2013,Nordrhein-Westfalen,No migration background,6.893519670750617,6.875268850301279,6.911770491199955,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,4013.0
+2013,Nordrhein-Westfalen,Direct migration background,6.849494391378619,6.807173244087642,6.891815538669596,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,795.0
+2013,Nordrhein-Westfalen,Indirect migration background,7.033315557118663,6.9704808489129135,7.096150265324413,6.0,7.0,8.0,4.0,11.0,7.0,7.0,7.0,317.0
+2013,Hessen,No migration background,6.906071320544021,6.875253374275587,6.9368892668124555,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,1367.0
+2013,Hessen,Direct migration background,6.767346166316027,6.696939759744793,6.83775257288726,6.0,7.0,8.0,3.0,11.0,7.0,7.0,8.0,286.0
+2013,Hessen,Indirect migration background,6.682652331950406,6.5626627032800275,6.802641960620784,6.0,7.0,8.0,3.0,11.0,7.0,7.0,8.0,109.0
+2013,"Rheinland-Pfalz,Saarland",No migration background,6.925894970231363,6.889952554006982,6.961837386455745,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,1180.0
+2013,"Rheinland-Pfalz,Saarland",Direct migration background,6.711828388948721,6.62620029815085,6.797456479746592,6.0,7.0,7.959483942221488,3.060774086667768,10.0,7.0,7.0,8.0,184.0
+2013,"Rheinland-Pfalz,Saarland",Indirect migration background,7.021344037690319,6.903651768223354,7.139036307157284,6.0,7.0,8.0,3.0,9.0,7.0,6.0,8.0,74.0
+2013,Baden-Wuerttemberg,No migration background,6.951687647474168,6.929692791045293,6.973682503903044,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,2365.0
+2013,Baden-Wuerttemberg,Direct migration background,6.886644490469202,6.8349100702948204,6.938378910643583,6.0,7.0,8.0,3.0,10.0,7.0,7.0,7.0,447.0
+2013,Baden-Wuerttemberg,Indirect migration background,6.736699526680159,6.6664684667606915,6.806930586599626,6.0,7.0,7.0,4.5,8.5,7.0,7.0,8.0,207.0
+2013,Bayern,No migration background,6.9853361611891325,6.965326317234548,7.005346005143717,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,3376.0
+2013,Bayern,Direct migration background,6.765951298870685,6.707660419800351,6.824242177941019,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,462.0
+2013,Bayern,Indirect migration background,6.851357291766429,6.7842280161260415,6.918486567406816,6.0,7.0,7.0,4.5,8.5,7.0,7.0,8.0,202.0
+2013,Berlin,No migration background,6.8344036967740225,6.796552234093837,6.872255159454208,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,868.0
+2013,Berlin,Direct migration background,6.359847674944934,6.175372669563798,6.54432268032607,5.0,7.0,8.0,2.0,11.0,7.0,7.0,8.0,82.0
+2013,Berlin,Indirect migration background,7.161296148825601,7.008615099306271,7.313977198344931,7.0,7.0,8.0,5.5,9.0,7.0,6.0,7.0,37.0
+2013,Brandenburg,No migration background,6.865411210542743,6.8272601235576404,6.903562297527846,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,977.0
+2013,Brandenburg,Direct migration background,7.148121143459694,6.889086641246156,7.407155645673231,6.0,7.0,8.042237530085488,4.0,10.0,7.0,6.0,8.0,36.0
+2013,Brandenburg,Indirect migration background,,,,,,,,,,,,
+2013,Mecklenburg-Vorpommern,No migration background,6.898593762276523,6.851272101327958,6.945915423225087,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,561.0
+2013,Mecklenburg-Vorpommern,Direct migration background,,,,,,,,,,,,
+2013,Mecklenburg-Vorpommern,Indirect migration background,,,,,,,,,,,,
+2013,Sachsen,No migration background,6.828766654239049,6.800210895907288,6.857322412570809,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,1642.0
+2013,Sachsen,Direct migration background,6.228644663206616,5.976977973654748,6.480311352758484,4.0,6.0,8.0,4.0,10.0,6.0,4.0,8.0,42.0
+2013,Sachsen,Indirect migration background,,,,,,,,,,,,
+2013,Sachsen-Anhalt,No migration background,6.954876665787394,6.9156352910767405,6.994118040498047,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,933.0
+2013,Sachsen-Anhalt,Direct migration background,,,,,,,,,,,,
+2013,Sachsen-Anhalt,Indirect migration background,,,,,,,,,,,,
+2013,Thueringen,No migration background,7.058625634056343,7.02151425872724,7.095737009385445,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,970.0
+2013,Thueringen,Direct migration background,,,,,,,,,,,,
+2013,Thueringen,Indirect migration background,,,,,,,,,,,,
+2014,Schleswig-Holstein,No migration background,,,,,,,,,,,,
+2014,Schleswig-Holstein,Direct migration background,,,,,,,,,,,,
+2014,Schleswig-Holstein,Indirect migration background,,,,,,,,,,,,
+2014,Hamburg,No migration background,,,,,,,,,,,,
+2014,Hamburg,Direct migration background,,,,,,,,,,,,
+2014,Hamburg,Indirect migration background,,,,,,,,,,,,
+2014,Niedersachsen,No migration background,,,,,,,,,,,,
+2014,Niedersachsen,Direct migration background,,,,,,,,,,,,
+2014,Niedersachsen,Indirect migration background,,,,,,,,,,,,
+2014,Bremen,No migration background,,,,,,,,,,,,
+2014,Bremen,Direct migration background,,,,,,,,,,,,
+2014,Bremen,Indirect migration background,,,,,,,,,,,,
+2014,Nordrhein-Westfalen,No migration background,,,,,,,,,,,,
+2014,Nordrhein-Westfalen,Direct migration background,,,,,,,,,,,,
+2014,Nordrhein-Westfalen,Indirect migration background,,,,,,,,,,,,
+2014,Hessen,No migration background,,,,,,,,,,,,
+2014,Hessen,Direct migration background,,,,,,,,,,,,
+2014,Hessen,Indirect migration background,,,,,,,,,,,,
+2014,"Rheinland-Pfalz,Saarland",No migration background,,,,,,,,,,,,
+2014,"Rheinland-Pfalz,Saarland",Direct migration background,,,,,,,,,,,,
+2014,"Rheinland-Pfalz,Saarland",Indirect migration background,,,,,,,,,,,,
+2014,Baden-Wuerttemberg,No migration background,,,,,,,,,,,,
+2014,Baden-Wuerttemberg,Direct migration background,,,,,,,,,,,,
+2014,Baden-Wuerttemberg,Indirect migration background,,,,,,,,,,,,
+2014,Bayern,No migration background,,,,,,,,,,,,
+2014,Bayern,Direct migration background,,,,,,,,,,,,
+2014,Bayern,Indirect migration background,,,,,,,,,,,,
+2014,Berlin,No migration background,,,,,,,,,,,,
+2014,Berlin,Direct migration background,,,,,,,,,,,,
+2014,Berlin,Indirect migration background,,,,,,,,,,,,
+2014,Brandenburg,No migration background,,,,,,,,,,,,
+2014,Brandenburg,Direct migration background,,,,,,,,,,,,
+2014,Brandenburg,Indirect migration background,,,,,,,,,,,,
+2014,Mecklenburg-Vorpommern,No migration background,,,,,,,,,,,,
+2014,Mecklenburg-Vorpommern,Direct migration background,,,,,,,,,,,,
+2014,Mecklenburg-Vorpommern,Indirect migration background,,,,,,,,,,,,
+2014,Sachsen,No migration background,,,,,,,,,,,,
+2014,Sachsen,Direct migration background,,,,,,,,,,,,
+2014,Sachsen,Indirect migration background,,,,,,,,,,,,
+2014,Sachsen-Anhalt,No migration background,,,,,,,,,,,,
+2014,Sachsen-Anhalt,Direct migration background,,,,,,,,,,,,
+2014,Sachsen-Anhalt,Indirect migration background,,,,,,,,,,,,
+2014,Thueringen,No migration background,,,,,,,,,,,,
+2014,Thueringen,Direct migration background,,,,,,,,,,,,
+2014,Thueringen,Indirect migration background,,,,,,,,,,,,
+2015,Schleswig-Holstein,No migration background,6.881812640726912,6.835893621452672,6.927731660001151,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,675.0
+2015,Schleswig-Holstein,Direct migration background,6.755324308233602,6.646018303871706,6.864630312595498,6.0,7.0,8.0,3.0,10.0,7.0,7.0,7.0249999999999995,149.0
+2015,Schleswig-Holstein,Indirect migration background,6.724559330040245,6.573139268111578,6.8759793919689125,6.0,7.0,7.0,4.5,8.0,7.0,7.0,7.0,45.0
+2015,Hamburg,No migration background,7.1740788665093485,7.112491688653742,7.2356660443649545,7.0,7.0,8.0,5.5,9.5,7.0,6.0,7.0,292.0
+2015,Hamburg,Direct migration background,7.097447389755567,6.970928514982764,7.223966264528371,6.0,7.0,8.0,3.0,10.0,7.0,6.0,7.0,98.0
+2015,Hamburg,Indirect migration background,7.693647730344425,7.501586901666585,7.885708559022266,7.0,8.0,8.0,6.0,9.5,8.0,8.0,9.0,30.0
+2015,Niedersachsen,No migration background,6.871458404712053,6.844037584913038,6.8988792245110675,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,1873.0
+2015,Niedersachsen,Direct migration background,6.746033925603315,6.689192669628457,6.802875181578172,6.0,7.0,8.0,3.0,11.0,7.0,7.0,8.0,441.0
+2015,Niedersachsen,Indirect migration background,6.699490464108299,6.601884139287342,6.797096788929257,6.0,7.0,7.0,4.5,8.5,7.0,7.0,8.0,99.0
+2015,Bremen,No migration background,6.609208625089713,6.494875259560559,6.723541990618867,6.0,7.0,7.0,4.5,8.5,7.0,7.0,8.0,111.0
+2015,Bremen,Direct migration background,6.914318540290892,6.77769597719152,7.050941103390263,6.0,7.0,8.0,4.0,9.0,7.0,7.0,8.0,52.0
+2015,Bremen,Indirect migration background,,,,,,,,,,,,
+2015,Nordrhein-Westfalen,No migration background,6.873927000585602,6.8548755353045525,6.892978465866651,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,3521.0
+2015,Nordrhein-Westfalen,Direct migration background,6.832515230345317,6.796730147642784,6.8683003130478495,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,1186.0
+2015,Nordrhein-Westfalen,Indirect migration background,6.925906382567261,6.86161960950791,6.990193155626612,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,451.0
+2015,Hessen,No migration background,6.933677793678339,6.901005074610862,6.966350512745817,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,1190.0
+2015,Hessen,Direct migration background,6.662467330815885,6.609404200737762,6.7155304608940085,6.0,7.0,7.0,4.5,8.5,7.0,7.0,8.0,369.0
+2015,Hessen,Indirect migration background,6.961848929854423,6.882467144615617,7.041230715093228,6.0,7.0,8.0,4.0,10.0,7.0,7.0,7.0,139.0
+2015,"Rheinland-Pfalz,Saarland",No migration background,6.950560607073494,6.912387946773017,6.988733267373971,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,1046.0
+2015,"Rheinland-Pfalz,Saarland",Direct migration background,6.832637480527213,6.767593348413647,6.8976816126407785,6.0,7.0,8.0,3.0,10.0,7.0,7.0,8.0,334.0
+2015,"Rheinland-Pfalz,Saarland",Indirect migration background,6.621451964667157,6.508072877752483,6.734831051581831,6.0,7.0,7.838785192338452,3.2418222114923214,10.0,7.0,7.0,8.0,111.0
+2015,Baden-Wuerttemberg,No migration background,6.943389376222585,6.919810985782451,6.966967766662719,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,2047.0
+2015,Baden-Wuerttemberg,Direct migration background,6.938352612172576,6.892210688382099,6.984494535963052,6.0,7.0,8.0,3.0,10.0,7.0,7.0,7.0,646.0
+2015,Baden-Wuerttemberg,Indirect migration background,6.971886517826421,6.915160150954117,7.028612884698726,6.0,7.0,8.0,3.0,10.0,7.0,7.0,7.0,287.0
+2015,Bayern,No migration background,6.942890939554641,6.921990665620565,6.963791213488718,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,3022.0
+2015,Bayern,Direct migration background,6.809150529818279,6.764037969157643,6.854263090478915,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,732.0
+2015,Bayern,Indirect migration background,6.670503312366793,6.607012683491608,6.733993941241978,6.0,7.0,7.0,4.5,8.5,7.0,7.0,8.0,258.0
+2015,Berlin,No migration background,6.858775684038498,6.817840684931583,6.899710683145414,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,737.0
+2015,Berlin,Direct migration background,6.745074026050406,6.644822791724965,6.845325260375847,6.0,7.0,7.0,4.5,8.5,7.0,7.0,7.0249999999999995,123.0
+2015,Berlin,Indirect migration background,6.8954356221386695,6.747447164321853,7.043424079955486,6.0,7.0,8.0,4.0,11.0,7.0,7.0,8.0,46.0
+2015,Brandenburg,No migration background,6.8860952063760426,6.846399736031241,6.925790676720844,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,873.0
+2015,Brandenburg,Direct migration background,6.913499625190527,6.770018792523905,7.056980457857149,6.0,7.0,8.0,3.0,11.0,7.0,6.0,7.0,97.0
+2015,Brandenburg,Indirect migration background,,,,,,,,,,,,
+2015,Mecklenburg-Vorpommern,No migration background,6.713485332072618,6.659993023056388,6.766977641088848,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,526.0
+2015,Mecklenburg-Vorpommern,Direct migration background,,,,,,,,,,,,
+2015,Mecklenburg-Vorpommern,Indirect migration background,,,,,,,,,,,,
+2015,Sachsen,No migration background,6.885079420883918,6.855073411194765,6.915085430573071,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,1403.0
+2015,Sachsen,Direct migration background,6.900880959492792,6.773259669417462,7.028502249568121,6.0,7.0,8.0,3.0,9.0,7.0,6.0,8.0,68.0
+2015,Sachsen,Indirect migration background,,,,,,,,,,,,
+2015,Sachsen-Anhalt,No migration background,6.887582967913052,6.842990821412273,6.932175114413831,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,817.0
+2015,Sachsen-Anhalt,Direct migration background,6.750351590254149,6.5793064772778544,6.921396703230443,6.0,7.0,7.0,4.5,8.5,7.0,7.0,8.0,50.0
+2015,Sachsen-Anhalt,Indirect migration background,,,,,,,,,,,,
+2015,Thueringen,No migration background,7.094859057288809,7.05304719846513,7.136670916112488,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,865.0
+2015,Thueringen,Direct migration background,6.233071223119254,5.976191359057556,6.489951087180953,5.0,6.0,7.0,4.0,10.0,6.0,4.974999999999994,7.0,39.0
+2015,Thueringen,Indirect migration background,,,,,,,,,,,,
+2016,Schleswig-Holstein,No migration background,,,,,,,,,,,,
+2016,Schleswig-Holstein,Direct migration background,,,,,,,,,,,,
+2016,Schleswig-Holstein,Indirect migration background,,,,,,,,,,,,
+2016,Hamburg,No migration background,,,,,,,,,,,,
+2016,Hamburg,Direct migration background,,,,,,,,,,,,
+2016,Hamburg,Indirect migration background,,,,,,,,,,,,
+2016,Niedersachsen,No migration background,,,,,,,,,,,,
+2016,Niedersachsen,Direct migration background,,,,,,,,,,,,
+2016,Niedersachsen,Indirect migration background,,,,,,,,,,,,
+2016,Bremen,No migration background,,,,,,,,,,,,
+2016,Bremen,Direct migration background,,,,,,,,,,,,
+2016,Bremen,Indirect migration background,,,,,,,,,,,,
+2016,Nordrhein-Westfalen,No migration background,,,,,,,,,,,,
+2016,Nordrhein-Westfalen,Direct migration background,,,,,,,,,,,,
+2016,Nordrhein-Westfalen,Indirect migration background,,,,,,,,,,,,
+2016,Hessen,No migration background,,,,,,,,,,,,
+2016,Hessen,Direct migration background,,,,,,,,,,,,
+2016,Hessen,Indirect migration background,,,,,,,,,,,,
+2016,"Rheinland-Pfalz,Saarland",No migration background,,,,,,,,,,,,
+2016,"Rheinland-Pfalz,Saarland",Direct migration background,,,,,,,,,,,,
+2016,"Rheinland-Pfalz,Saarland",Indirect migration background,,,,,,,,,,,,
+2016,Baden-Wuerttemberg,No migration background,,,,,,,,,,,,
+2016,Baden-Wuerttemberg,Direct migration background,,,,,,,,,,,,
+2016,Baden-Wuerttemberg,Indirect migration background,,,,,,,,,,,,
+2016,Bayern,No migration background,,,,,,,,,,,,
+2016,Bayern,Direct migration background,,,,,,,,,,,,
+2016,Bayern,Indirect migration background,,,,,,,,,,,,
+2016,Berlin,No migration background,,,,,,,,,,,,
+2016,Berlin,Direct migration background,,,,,,,,,,,,
+2016,Berlin,Indirect migration background,,,,,,,,,,,,
+2016,Brandenburg,No migration background,,,,,,,,,,,,
+2016,Brandenburg,Direct migration background,,,,,,,,,,,,
+2016,Brandenburg,Indirect migration background,,,,,,,,,,,,
+2016,Mecklenburg-Vorpommern,No migration background,,,,,,,,,,,,
+2016,Mecklenburg-Vorpommern,Direct migration background,,,,,,,,,,,,
+2016,Mecklenburg-Vorpommern,Indirect migration background,,,,,,,,,,,,
+2016,Sachsen,No migration background,,,,,,,,,,,,
+2016,Sachsen,Direct migration background,,,,,,,,,,,,
+2016,Sachsen,Indirect migration background,,,,,,,,,,,,
+2016,Sachsen-Anhalt,No migration background,,,,,,,,,,,,
+2016,Sachsen-Anhalt,Direct migration background,,,,,,,,,,,,
+2016,Sachsen-Anhalt,Indirect migration background,,,,,,,,,,,,
+2016,Thueringen,No migration background,,,,,,,,,,,,
+2016,Thueringen,Direct migration background,,,,,,,,,,,,
+2016,Thueringen,Indirect migration background,,,,,,,,,,,,
+2017,Schleswig-Holstein,No migration background,6.869592416526491,6.82768464251185,6.911500190541133,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,753.0
+2017,Schleswig-Holstein,Direct migration background,6.980935301470411,6.8868560624797714,7.0750145404610505,6.0,7.0,8.0,4.0,10.0,7.0,7.0,7.0249999999999995,154.0
+2017,Schleswig-Holstein,Indirect migration background,7.043723901606261,6.914443157912125,7.173004645300397,7.0,7.0,7.131906629571377,6.802140055642934,7.329766573928443,7.0,7.0,7.0,41.0
+2017,Hamburg,No migration background,7.112745428556414,7.052549292032703,7.172941565080125,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,315.0
+2017,Hamburg,Direct migration background,6.7120873274162385,6.587782127596888,6.8363925272355885,6.0,7.0,8.0,3.0,9.0,7.0,7.0,8.0,103.0
+2017,Hamburg,Indirect migration background,7.3001216308451005,7.159158524388105,7.441084737302096,7.0,7.0,8.0,5.5,9.0,7.0,6.0,7.0,43.0
+2017,Niedersachsen,No migration background,6.787867636261949,6.762113047049476,6.813622225474423,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,2088.0
+2017,Niedersachsen,Direct migration background,6.768345960219275,6.706691528200558,6.8300003922379915,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,466.0
+2017,Niedersachsen,Indirect migration background,6.509601938777968,6.412264785329741,6.606939092226195,6.0,7.0,7.0,4.5,8.5,7.0,7.0,8.0,130.0
+2017,Bremen,No migration background,6.634868641730969,6.5400222615070005,6.729715021954937,6.0,7.0,7.594772907902274,3.607840638146589,9.986932269755686,7.0,7.0,8.0,141.0
+2017,Bremen,Direct migration background,6.692696639234794,6.558431457439904,6.826961821029683,6.0,6.960691525626389,7.0,5.0,8.5,7.0,7.0,8.0,67.0
+2017,Bremen,Indirect migration background,,,,,,,,,,,,
+2017,Nordrhein-Westfalen,No migration background,6.822343085107622,6.802930891758265,6.841755278456979,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,3773.0
+2017,Nordrhein-Westfalen,Direct migration background,6.660949800767267,6.625338233000446,6.696561368534089,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,1245.0
+2017,Nordrhein-Westfalen,Indirect migration background,6.892800698926502,6.842305857716629,6.943295540136375,6.0,7.0,8.0,4.0,11.0,7.0,7.0,7.0,493.0
+2017,Hessen,No migration background,6.827243826653409,6.795331791054187,6.859155862252631,6.0,7.0,8.0,3.0,10.0,7.0,7.0,7.0,1252.0
+2017,Hessen,Direct migration background,6.613573827958125,6.553433360120969,6.673714295795281,6.0,7.0,8.0,3.0,11.0,7.0,7.0,8.0,391.0
+2017,Hessen,Indirect migration background,6.928804235302395,6.849730821312694,7.007877649292095,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,145.0
+2017,"Rheinland-Pfalz,Saarland",No migration background,6.835484673581241,6.79772254445927,6.873246802703211,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,1043.0
+2017,"Rheinland-Pfalz,Saarland",Direct migration background,6.9019879770482,6.836678173083946,6.967297781012453,6.0,7.0,8.0,3.0,10.0,7.0,7.0,7.0,373.0
+2017,"Rheinland-Pfalz,Saarland",Indirect migration background,6.3881122313773835,6.261710623844967,6.5145138389098,6.0,6.0,7.0,4.5,8.5,6.0,5.0,6.0,105.0
+2017,Baden-Wuerttemberg,No migration background,6.948010379260129,6.923291648428103,6.972729110092155,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,2097.0
+2017,Baden-Wuerttemberg,Direct migration background,6.799458365645579,6.753305392755073,6.845611338536085,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,640.0
+2017,Baden-Wuerttemberg,Indirect migration background,6.9427978859757085,6.8812307674544,7.004365004497017,6.0,7.0,8.0,3.0,10.0,7.0,7.0,7.0,277.0
+2017,Bayern,No migration background,6.914436929828126,6.894686192894605,6.934187666761646,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,3115.0
+2017,Bayern,Direct migration background,6.7053621346235515,6.663106547261211,6.7476177219858915,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,838.0
+2017,Bayern,Indirect migration background,6.708588794078077,6.624079264257236,6.793098323898918,6.0,7.0,8.0,3.0,10.0,7.0,7.0,7.0,246.0
+2017,Berlin,No migration background,6.8124518290209,6.768669041519063,6.8562346165227375,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,770.0
+2017,Berlin,Direct migration background,6.902795705179981,6.804676419437988,7.000914990921975,6.0,7.0,8.0,3.0,10.0,7.0,7.0,7.0,157.0
+2017,Berlin,Indirect migration background,7.033060335061223,6.888863329894034,7.1772573402284126,6.0,7.0,8.0,4.0,10.0,7.0,7.0,8.0,59.0
+2017,Brandenburg,No migration background,6.839889026420445,6.80210796684568,6.877670085995209,6.0,7.0,8.0,3.0,10.0,7.0,7.0,7.0,916.0
+2017,Brandenburg,Direct migration background,6.995410740150587,6.890068192800056,7.100753287501117,6.0,7.0,8.0,3.0,10.0,7.0,7.0,7.0,99.0
+2017,Brandenburg,Indirect migration background,,,,,,,,,,,,
+2017,Mecklenburg-Vorpommern,No migration background,6.749656116991005,6.6973211835282385,6.801991050453772,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,545.0
+2017,Mecklenburg-Vorpommern,Direct migration background,,,,,,,,,,,,
+2017,Mecklenburg-Vorpommern,Indirect migration background,,,,,,,,,,,,
+2017,Sachsen,No migration background,6.825170756252866,6.796027362870267,6.8543141496354645,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,1553.0
+2017,Sachsen,Direct migration background,6.6293166389915275,6.488790636138465,6.76984264184459,6.0,7.0,7.030495797251436,4.454256304122847,8.57623949312859,7.0,7.0,8.0,71.0
+2017,Sachsen,Indirect migration background,,,,,,,,,,,,
+2017,Sachsen-Anhalt,No migration background,6.7561867209718685,6.712554028346686,6.799819413597051,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,856.0
+2017,Sachsen-Anhalt,Direct migration background,6.698340754333465,6.560008354534346,6.836673154132584,6.0,7.0,7.0,4.5,8.0,7.0,7.0,8.0,50.0
+2017,Sachsen-Anhalt,Indirect migration background,,,,,,,,,,,,
+2017,Thueringen,No migration background,6.981792842258809,6.939754739746288,7.02383094477133,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,891.0
+2017,Thueringen,Direct migration background,7.428560900535611,7.264563547628842,7.5925582534423794,7.0,7.0,8.0,5.5,9.5,7.0,6.0,7.0,69.0
+2017,Thueringen,Indirect migration background,,,,,,,,,,,,
+2018,Schleswig-Holstein,No migration background,,,,,,,,,,,,
+2018,Schleswig-Holstein,Direct migration background,,,,,,,,,,,,
+2018,Schleswig-Holstein,Indirect migration background,,,,,,,,,,,,
+2018,Hamburg,No migration background,,,,,,,,,,,,
+2018,Hamburg,Direct migration background,,,,,,,,,,,,
+2018,Hamburg,Indirect migration background,,,,,,,,,,,,
+2018,Niedersachsen,No migration background,,,,,,,,,,,,
+2018,Niedersachsen,Direct migration background,,,,,,,,,,,,
+2018,Niedersachsen,Indirect migration background,,,,,,,,,,,,
+2018,Bremen,No migration background,,,,,,,,,,,,
+2018,Bremen,Direct migration background,,,,,,,,,,,,
+2018,Bremen,Indirect migration background,,,,,,,,,,,,
+2018,Nordrhein-Westfalen,No migration background,,,,,,,,,,,,
+2018,Nordrhein-Westfalen,Direct migration background,,,,,,,,,,,,
+2018,Nordrhein-Westfalen,Indirect migration background,,,,,,,,,,,,
+2018,Hessen,No migration background,,,,,,,,,,,,
+2018,Hessen,Direct migration background,,,,,,,,,,,,
+2018,Hessen,Indirect migration background,,,,,,,,,,,,
+2018,"Rheinland-Pfalz,Saarland",No migration background,,,,,,,,,,,,
+2018,"Rheinland-Pfalz,Saarland",Direct migration background,,,,,,,,,,,,
+2018,"Rheinland-Pfalz,Saarland",Indirect migration background,,,,,,,,,,,,
+2018,Baden-Wuerttemberg,No migration background,,,,,,,,,,,,
+2018,Baden-Wuerttemberg,Direct migration background,,,,,,,,,,,,
+2018,Baden-Wuerttemberg,Indirect migration background,,,,,,,,,,,,
+2018,Bayern,No migration background,,,,,,,,,,,,
+2018,Bayern,Direct migration background,,,,,,,,,,,,
+2018,Bayern,Indirect migration background,,,,,,,,,,,,
+2018,Berlin,No migration background,,,,,,,,,,,,
+2018,Berlin,Direct migration background,,,,,,,,,,,,
+2018,Berlin,Indirect migration background,,,,,,,,,,,,
+2018,Brandenburg,No migration background,,,,,,,,,,,,
+2018,Brandenburg,Direct migration background,,,,,,,,,,,,
+2018,Brandenburg,Indirect migration background,,,,,,,,,,,,
+2018,Mecklenburg-Vorpommern,No migration background,,,,,,,,,,,,
+2018,Mecklenburg-Vorpommern,Direct migration background,,,,,,,,,,,,
+2018,Mecklenburg-Vorpommern,Indirect migration background,,,,,,,,,,,,
+2018,Sachsen,No migration background,,,,,,,,,,,,
+2018,Sachsen,Direct migration background,,,,,,,,,,,,
+2018,Sachsen,Indirect migration background,,,,,,,,,,,,
+2018,Sachsen-Anhalt,No migration background,,,,,,,,,,,,
+2018,Sachsen-Anhalt,Direct migration background,,,,,,,,,,,,
+2018,Sachsen-Anhalt,Indirect migration background,,,,,,,,,,,,
+2018,Thueringen,No migration background,,,,,,,,,,,,
+2018,Thueringen,Direct migration background,,,,,,,,,,,,
+2018,Thueringen,Indirect migration background,,,,,,,,,,,,
+2019,Schleswig-Holstein,No migration background,6.84866793939688,6.806802749510505,6.890533129283256,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,779.0
+2019,Schleswig-Holstein,Direct migration background,6.497165416846692,6.398365108518127,6.595965725175257,6.0,6.0,7.0,4.5,8.5,6.0,5.0,6.0,129.0
+2019,Schleswig-Holstein,Indirect migration background,6.5724650557500155,6.432404440835363,6.712525670664668,6.0,7.0,7.0,4.5,8.5,7.0,7.0,8.0,48.0
+2019,Hamburg,No migration background,6.930630946209209,6.874390271080412,6.986871621338005,6.0,7.0,8.0,3.0,10.0,7.0,7.0,7.0,371.0
+2019,Hamburg,Direct migration background,6.390318313995208,6.2978553292427675,6.482781298747649,6.0,6.0,7.0,4.5,8.0,6.0,5.0,6.0,109.0
+2019,Hamburg,Indirect migration background,7.0682058217111825,6.910737087083493,7.225674556338872,7.0,7.0,8.0,5.5,9.0,7.0,6.0,7.0,47.0
+2019,Niedersachsen,No migration background,6.773733791453709,6.746559286512403,6.800908296395015,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,1982.0
+2019,Niedersachsen,Direct migration background,6.607823462989088,6.544213016545673,6.671433909432502,6.0,7.0,8.0,3.0,11.0,7.0,7.0,8.0,377.0
+2019,Niedersachsen,Indirect migration background,7.013603207507696,6.93156646105885,7.0956399539565425,6.0,7.0,8.0,4.0,9.0,7.0,7.0,7.0,123.0
+2019,Bremen,No migration background,6.924347941117098,6.828024253083349,7.020671629150847,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,148.0
+2019,Bremen,Direct migration background,7.075143857888805,6.926896944785334,7.223390770992276,6.0,7.0,8.0,5.0,9.0,7.0,6.0,8.0,57.0
+2019,Bremen,Indirect migration background,,,,,,,,,,,,
+2019,Nordrhein-Westfalen,No migration background,6.765678674683961,6.746586138907434,6.784771210460487,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,3829.0
+2019,Nordrhein-Westfalen,Direct migration background,6.7335747006164555,6.69108648238334,6.776062918849571,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,1092.0
+2019,Nordrhein-Westfalen,Indirect migration background,6.737125538959977,6.6822580962020695,6.791992981717884,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,476.0
+2019,Hessen,No migration background,6.804554954947718,6.771883051400667,6.837226858494769,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,1292.0
+2019,Hessen,Direct migration background,6.70699594191829,6.639310463955162,6.774681419881418,6.0,7.0,8.0,3.0,11.0,7.0,7.0,8.0,291.0
+2019,Hessen,Indirect migration background,6.793184772019874,6.713960331503797,6.872409212535951,6.0,7.0,7.0,4.5,8.5,7.0,7.0,7.0,127.0
+2019,"Rheinland-Pfalz,Saarland",No migration background,6.7767038653844835,6.739485965469261,6.813921765299706,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,1056.0
+2019,"Rheinland-Pfalz,Saarland",Direct migration background,6.861333814737879,6.791028563419538,6.93163906605622,6.0,7.0,8.0,3.0,11.0,7.0,7.0,8.0,309.0
+2019,"Rheinland-Pfalz,Saarland",Indirect migration background,6.599759631059669,6.49939417034044,6.700125091778898,6.0,7.0,7.0,4.5,8.0,7.0,7.0,8.0,99.0
+2019,Baden-Wuerttemberg,No migration background,6.876851775370493,6.852281584253983,6.901421966487004,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,2040.0
+2019,Baden-Wuerttemberg,Direct migration background,6.680090775075447,6.625884209801379,6.734297340349515,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,523.0
+2019,Baden-Wuerttemberg,Indirect migration background,6.6907888546015535,6.6138574443229485,6.767720264880158,6.0,7.0,7.0,4.5,8.5,7.0,7.0,8.0,232.0
+2019,Bayern,No migration background,6.876232040572217,6.855366704074469,6.897097377069964,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,3035.0
+2019,Bayern,Direct migration background,6.52181294318328,6.473908177181259,6.5697177091853005,6.0,7.0,7.0,4.5,8.5,7.0,7.0,7.0,663.0
+2019,Bayern,Indirect migration background,6.574481267176603,6.506297289518501,6.642665244834705,6.0,7.0,7.0,4.5,8.5,7.0,7.0,8.0,244.0
+2019,Berlin,No migration background,6.861660329591439,6.822727046857617,6.900593612325261,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,807.0
+2019,Berlin,Direct migration background,6.812408682759771,6.737810590239241,6.887006775280301,6.0,7.0,7.641203400568401,3.538194899147399,10.0,7.0,7.0,8.0,151.0
+2019,Berlin,Indirect migration background,6.233492383507027,6.118068165079307,6.348916601934747,6.0,6.0,7.0,4.5,8.0,6.0,5.974999999999994,6.0,65.0
+2019,Brandenburg,No migration background,6.7478460022558,6.70846555310431,6.78722645140729,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,1005.0
+2019,Brandenburg,Direct migration background,6.738057347826818,6.546996414655302,6.929118280998335,6.0,7.0,8.0,3.0,10.0,7.0,6.0,8.0,79.0
+2019,Brandenburg,Indirect migration background,,,,,,,,,,,,
+2019,Mecklenburg-Vorpommern,No migration background,6.733481836829327,6.678626937680025,6.788336735978629,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,582.0
+2019,Mecklenburg-Vorpommern,Direct migration background,,,,,,,,,,,,
+2019,Mecklenburg-Vorpommern,Indirect migration background,,,,,,,,,,,,
+2019,Sachsen,No migration background,6.763063425554399,6.733213959739496,6.792912891369301,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,1531.0
+2019,Sachsen,Direct migration background,6.451495093295484,6.33498584800846,6.568004338582507,6.0,6.0,7.0,4.5,8.5,6.0,5.0,6.0,64.0
+2019,Sachsen,Indirect migration background,6.853053231833256,6.601121392744526,7.104985070921986,6.0,7.0,8.0,3.0,8.0,7.0,6.0,8.0,35.0
+2019,Sachsen-Anhalt,No migration background,6.6878823542822,6.643788455487359,6.7319762530770415,6.0,7.0,8.0,3.0,10.0,7.0,7.0,7.0,831.0
+2019,Sachsen-Anhalt,Direct migration background,7.160792792804815,7.016983877375537,7.3046017082340935,6.0,7.0,8.0,4.0,10.0,7.0,6.0,7.0249999999999995,41.0
+2019,Sachsen-Anhalt,Indirect migration background,,,,,,,,,,,,
+2019,Thueringen,No migration background,6.980280613997219,6.935119016061375,7.025442211933063,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,854.0
+2019,Thueringen,Direct migration background,6.987072775982976,6.848887412324345,7.125258139641607,6.0,7.0,8.0,3.0,9.0,7.0,6.0,8.0,53.0
+2019,Thueringen,Indirect migration background,,,,,,,,,,,,
+2020,Schleswig-Holstein,No migration background,6.916198531369908,6.868645244418081,6.963751818321734,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,709.0
+2020,Schleswig-Holstein,Direct migration background,6.76167272614408,6.695429746913974,6.827915705374186,6.0,7.0,7.0,4.5,8.5,7.0,7.0,8.0,269.0
+2020,Schleswig-Holstein,Indirect migration background,6.600406665572407,6.458330373027723,6.742482958117092,6.0,6.0,7.9968957000405005,5.0,9.0,6.0,5.0,6.0,50.0
+2020,Hamburg,No migration background,7.039250952397211,6.981652679758628,7.096849225035794,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,348.0
+2020,Hamburg,Direct migration background,6.6664047753570825,6.581479716252047,6.751329834462118,6.0,7.0,8.0,4.0,10.0,7.0,7.0,8.0,177.0
+2020,Hamburg,Indirect migration background,7.493376301786457,7.3780818237964505,7.608670779776463,7.0,7.0,8.0,6.0,9.5,7.0,6.0,7.0,49.0
+2020,Niedersachsen,No migration background,6.838418268925207,6.811595873548645,6.86524066430177,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,1814.0
+2020,Niedersachsen,Direct migration background,6.839236564622304,6.791986365903913,6.886486763340695,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,841.0
+2020,Niedersachsen,Indirect migration background,6.940834958674536,6.846946737576675,7.034723179772397,6.0,7.0,8.0,3.0,10.0,7.0,7.0,7.0,130.0
+2020,Bremen,No migration background,6.846739165810884,6.7593979078383715,6.934080423783396,6.0,7.0,8.0,4.0,9.0,7.0,7.0,7.0,137.0
+2020,Bremen,Direct migration background,6.639214431982501,6.5465952125029,6.731833651462103,6.0,7.0,8.0,5.0,9.0,7.0,7.0,8.0,118.0
+2020,Bremen,Indirect migration background,,,,,,,,,,,,
+2020,Nordrhein-Westfalen,No migration background,6.883154478836579,6.863427172999203,6.902881784673954,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,3512.0
+2020,Nordrhein-Westfalen,Direct migration background,6.684310589012667,6.659394635950196,6.709226542075138,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,2181.0
+2020,Nordrhein-Westfalen,Indirect migration background,7.014685942659517,6.961695172191478,7.067676713127556,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,443.0
+2020,Hessen,No migration background,6.872066762274118,6.837162755026659,6.9069707695215765,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,1193.0
+2020,Hessen,Direct migration background,7.019534011511748,6.974982648123311,7.064085374900185,6.0,7.0,8.0,3.0,10.0,7.0,7.0,7.0,706.0
+2020,Hessen,Indirect migration background,7.1217620968937165,7.011001440078908,7.232522753708525,6.0,7.0,8.0,3.0,11.0,7.0,6.0,7.0,125.0
+2020,"Rheinland-Pfalz,Saarland",No migration background,6.9368041749342755,6.896628754144576,6.976979595723975,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,934.0
+2020,"Rheinland-Pfalz,Saarland",Direct migration background,7.003622726585952,6.955864816238746,7.051380636933159,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,488.0
+2020,"Rheinland-Pfalz,Saarland",Indirect migration background,6.7034319437657395,6.604020230380645,6.802843657150834,6.0,7.0,7.0,4.5,8.5,7.0,7.0,8.0,92.0
+2020,Baden-Wuerttemberg,No migration background,7.050303565296479,7.025419995291415,7.075187135301544,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,1910.0
+2020,Baden-Wuerttemberg,Direct migration background,6.822491795747659,6.778289764847281,6.866693826648038,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,1033.0
+2020,Baden-Wuerttemberg,Indirect migration background,6.868738200131796,6.804941555961818,6.932534844301774,6.0,7.0,7.0,4.5,8.5,7.0,7.0,7.0,213.0
+2020,Bayern,No migration background,6.942383474312998,6.921423288390135,6.963343660235862,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,2803.0
+2020,Bayern,Direct migration background,6.709240520287447,6.6780815851002675,6.740399455474627,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,1273.0
+2020,Bayern,Indirect migration background,6.819177936627422,6.757286757107261,6.881069116147582,6.0,7.0,8.0,3.0,10.0,7.0,7.0,7.0,256.0
+2020,Berlin,No migration background,6.981843369636639,6.943251717125692,7.020435022147586,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,763.0
+2020,Berlin,Direct migration background,7.170511842768832,7.127248829216044,7.21377485632162,7.0,7.0,8.0,5.5,9.5,7.0,6.974999999999994,7.0,438.0
+2020,Berlin,Indirect migration background,6.289309395425767,6.165914786173028,6.412704004678506,6.0,6.0,7.0,4.5,8.5,6.0,5.0,6.0,69.0
+2020,Brandenburg,No migration background,6.818052321401118,6.775142711114692,6.860961931687544,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,927.0
+2020,Brandenburg,Direct migration background,6.813060777580758,6.717499026195362,6.908622528966154,6.0,7.0,8.0,3.0,11.0,7.0,6.0,8.0,195.0
+2020,Brandenburg,Indirect migration background,,,,,,,,,,,,
+2020,Mecklenburg-Vorpommern,No migration background,6.823871688354258,6.765988231901745,6.88175514480677,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,457.0
+2020,Mecklenburg-Vorpommern,Direct migration background,7.513685795659657,7.2989318416682565,7.7284397496510575,7.0,7.0,8.0,5.5,9.5,7.0,6.0,7.0,68.0
+2020,Mecklenburg-Vorpommern,Indirect migration background,,,,,,,,,,,,
+2020,Sachsen,No migration background,6.854231728971754,6.82457141945106,6.883892038492447,6.0,7.0,8.0,3.0,10.0,7.0,7.0,7.0,1414.0
+2020,Sachsen,Direct migration background,6.698569770200503,6.606298090245183,6.790841450155824,6.0,7.0,8.0,3.0,11.0,7.0,6.0,8.0,188.0
+2020,Sachsen,Indirect migration background,6.776937592700465,6.468292519206106,7.085582666194824,5.0,7.0,8.0,4.0,10.0,7.0,5.0,9.0,35.0
+2020,Sachsen-Anhalt,No migration background,6.741194225447244,6.696977565734507,6.7854108851599815,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,794.0
+2020,Sachsen-Anhalt,Direct migration background,7.127593841939091,7.040973631422584,7.214214052455598,6.0,7.0,8.0,4.0,10.0,7.0,6.0,8.0,132.0
+2020,Sachsen-Anhalt,Indirect migration background,,,,,,,,,,,,
+2020,Thueringen,No migration background,7.043642835529187,7.0006521740761105,7.086633496982264,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,797.0
+2020,Thueringen,Direct migration background,6.90340382493244,6.81404524104146,6.9927624088234195,7.0,7.0,7.0,7.0,7.0,7.0,7.0,7.0,158.0
+2020,Thueringen,Indirect migration background,,,,,,,,,,,,
+2021,Schleswig-Holstein,No migration background,6.8405104029509936,6.796737827740107,6.88428297816188,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,568.0
+2021,Schleswig-Holstein,Direct migration background,6.9810821942523855,6.893743563495123,7.068420825009648,6.0,7.0,8.0,3.0,11.0,7.0,6.0,8.0,226.0
+2021,Schleswig-Holstein,Indirect migration background,6.8193616668251265,6.635078303251844,7.003645030398409,6.0,7.0,8.0,4.0,9.0,7.0,6.0,8.0,36.0
+2021,Hamburg,No migration background,6.980995257369525,6.919483262702602,7.042507252036447,6.0,7.0,8.0,3.0,10.0,7.0,7.0,7.0,277.0
+2021,Hamburg,Direct migration background,6.666636430542955,6.554894401188569,6.778378459897341,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0249999999999995,146.0
+2021,Hamburg,Indirect migration background,,,,,,,,,,,,
+2021,Niedersachsen,No migration background,6.732586871295369,6.701297905157387,6.763875837433351,6.0,7.0,7.0,4.5,8.5,7.0,7.0,7.0,1324.0
+2021,Niedersachsen,Direct migration background,6.6662786360226045,6.611042550253704,6.721514721791505,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,490.0
+2021,Niedersachsen,Indirect migration background,6.406109170754829,6.27416766169189,6.5380506798177676,6.0,7.0,7.0,4.5,8.5,7.0,7.0,8.0,81.0
+2021,Bremen,No migration background,6.968495425895349,6.87577191673732,7.061218935053378,6.0,7.0,8.0,3.0,9.0,7.0,7.0,7.0,89.0
+2021,Bremen,Direct migration background,6.910755193066668,6.815541876974977,7.00596850915836,6.0,7.0,7.0,5.0,8.0,7.0,7.0,7.0,55.0
+2021,Bremen,Indirect migration background,,,,,,,,,,,,
+2021,Nordrhein-Westfalen,No migration background,6.873790222409835,6.851406283388244,6.896174161431426,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,2517.0
+2021,Nordrhein-Westfalen,Direct migration background,6.648893683439667,6.618421923324832,6.679365443554501,6.0,7.0,7.0,4.5,8.5,7.0,7.0,7.0,1359.0
+2021,Nordrhein-Westfalen,Indirect migration background,6.508503986825423,6.427665065576952,6.5893429080738946,6.0,7.0,7.0,4.5,8.5,7.0,7.0,8.0,251.0
+2021,Hessen,No migration background,6.795433103548962,6.7528841049576425,6.837982102140282,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,795.0
+2021,Hessen,Direct migration background,7.19117029928276,7.1388246729380676,7.243515925627452,7.0,7.0,8.0,5.5,9.5,7.0,6.0,7.0,468.0
+2021,Hessen,Indirect migration background,7.424851508552403,7.298446611524287,7.551256405580519,7.0,8.0,8.0,5.5,9.0,8.0,8.0,9.0,63.0
+2021,"Rheinland-Pfalz,Saarland",No migration background,6.862298649694548,6.816471337738681,6.9081259616504145,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,627.0
+2021,"Rheinland-Pfalz,Saarland",Direct migration background,6.902461043065382,6.836216136939533,6.968705949191231,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,319.0
+2021,"Rheinland-Pfalz,Saarland",Indirect migration background,6.494124498835834,6.28356058650842,6.704688411163248,5.0,7.0,7.0,2.0,10.0,7.0,7.0,9.0,54.0
+2021,Baden-Wuerttemberg,No migration background,6.999019613668479,6.969089756896118,7.028949470440841,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,1381.0
+2021,Baden-Wuerttemberg,Direct migration background,6.832114516380413,6.786549711542711,6.877679321218115,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,644.0
+2021,Baden-Wuerttemberg,Indirect migration background,7.160733511443759,7.053768479481903,7.267698543405615,7.0,7.0,8.0,5.5,9.5,7.0,7.0,7.0,146.0
+2021,Bayern,No migration background,6.9472527885315865,6.922310188966472,6.972195388096701,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,1997.0
+2021,Bayern,Direct migration background,6.702863034538057,6.664084401318186,6.741641667757928,6.0,7.0,7.0,4.5,8.5,7.0,7.0,7.0,707.0
+2021,Bayern,Indirect migration background,6.8011804752856895,6.706015683957021,6.896345266614358,6.0,7.0,8.0,4.0,10.0,7.0,7.0,8.0,160.0
+2021,Berlin,No migration background,6.953565759494932,6.905151890371791,7.0019796286180735,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,570.0
+2021,Berlin,Direct migration background,7.069421048436966,7.014349995756765,7.124492101117166,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,295.0
+2021,Berlin,Indirect migration background,6.574543484838059,6.419460230350546,6.729626739325572,6.0,7.0,7.208924900272132,5.0,9.0,7.0,7.0,8.0,47.0
+2021,Brandenburg,No migration background,6.779448570686708,6.736975138055628,6.821922003317788,6.0,7.0,7.0,4.5,8.5,7.0,7.0,7.0,596.0
+2021,Brandenburg,Direct migration background,6.0628033108848545,5.9689114615025884,6.1566951602671205,5.623661687176036,6.0,7.0,3.559154217940091,9.0,6.0,5.0,7.0,98.0
+2021,Brandenburg,Indirect migration background,,,,,,,,,,,,
+2021,Mecklenburg-Vorpommern,No migration background,6.827434051337779,6.757954746878394,6.896913355797164,6.0,7.0,8.0,3.0,10.0,7.0,7.0,7.0,372.0
+2021,Mecklenburg-Vorpommern,Direct migration background,6.637029858459694,6.516998408262202,6.757061308657185,6.0,7.0,7.0,4.5,8.0,7.0,7.0,8.0,32.0
+2021,Mecklenburg-Vorpommern,Indirect migration background,,,,,,,,,,,,
+2021,Sachsen,No migration background,6.870599970090382,6.838172134648525,6.903027805532238,6.0,7.0,8.0,3.0,10.0,7.0,7.0,7.0,1017.0
+2021,Sachsen,Direct migration background,6.761768600772379,6.672867199282138,6.850670002262621,6.0,7.0,8.0,3.0,8.0,7.0,7.0,8.0,120.0
+2021,Sachsen,Indirect migration background,,,,,,,,,,,,
+2021,Sachsen-Anhalt,No migration background,6.754749738571336,6.70403020790193,6.805469269240742,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,512.0
+2021,Sachsen-Anhalt,Direct migration background,6.901412369923839,6.792030612211493,7.010794127636185,6.0,7.0,8.0,5.0,10.0,7.0,6.0,8.0,80.0
+2021,Sachsen-Anhalt,Indirect migration background,,,,,,,,,,,,
+2021,Thueringen,No migration background,7.0109682474526025,6.961546222133914,7.060390272771291,6.0,7.0,8.0,3.0,11.0,7.0,7.0,7.0,540.0
+2021,Thueringen,Direct migration background,6.299972923390462,6.173112592460479,6.426833254320446,5.082078878146771,6.0,7.0,2.2051971953669285,9.876881682779842,6.0,5.0,7.0,88.0
+2021,Thueringen,Indirect migration background,,,,,,,,,,,,

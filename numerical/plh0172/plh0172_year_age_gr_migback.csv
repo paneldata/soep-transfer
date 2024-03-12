@@ -1,118 +1,457 @@
-"year","age_gr","migback","mean","median","n","lower_confidence_mean","upper_confidence_mean"
-"2008","17-34","direkter Migrationshintergrund","7.63","7.5","370","7.42","7.84"
-"2008","17-34","indirekter Migrationshintergrund","7.27","7.5","564","7.08","7.46"
-"2008","17-34","kein Migrationshintergrund","7.21","7.5","3401","7.14","7.28"
-"2008","35-65","direkter Migrationshintergrund","6.44","6.5","1166","6.31","6.57"
-"2008","35-65","indirekter Migrationshintergrund","6.27","5.5","193","5.95","6.59"
-"2008","35-65","kein Migrationshintergrund","6.67","6.5","9306","6.62","6.72"
-"2008","66 +","direkter Migrationshintergrund","6","5.5","369","5.75","6.25"
-"2008","66 +","indirekter Migrationshintergrund","","","","",""
-"2008","66 +","kein Migrationshintergrund","6.55","6.5","3905","6.48","6.62"
-"2009","17-34","direkter Migrationshintergrund","7.54","7.5","296","7.31","7.77"
-"2009","17-34","indirekter Migrationshintergrund","7.38","7.5","512","7.19","7.57"
-"2009","17-34","kein Migrationshintergrund","7.23","7.5","3157","7.16","7.3"
-"2009","35-65","direkter Migrationshintergrund","6.44","6.5","1024","6.3","6.58"
-"2009","35-65","indirekter Migrationshintergrund","6.55","6.5","191","6.22","6.88"
-"2009","35-65","kein Migrationshintergrund","6.63","6.5","8657","6.58","6.68"
-"2009","66 +","direkter Migrationshintergrund","5.96","5.5","335","5.7","6.22"
-"2009","66 +","indirekter Migrationshintergrund","","","","",""
-"2009","66 +","kein Migrationshintergrund","6.42","6.5","3809","6.35","6.49"
-"2010","17-34","direkter Migrationshintergrund","7.67","7.5","927","7.52","7.82"
-"2010","17-34","indirekter Migrationshintergrund","7.06","7.5","755","6.89","7.23"
-"2010","17-34","kein Migrationshintergrund","7.19","7.5","4863","7.13","7.25"
-"2010","35-65","direkter Migrationshintergrund","6.5","6.5","1654","6.38","6.62"
-"2010","35-65","indirekter Migrationshintergrund","6.7","6.5","382","6.46","6.94"
-"2010","35-65","kein Migrationshintergrund","6.6","6.5","11328","6.56","6.64"
-"2010","66 +","direkter Migrationshintergrund","5.94","5.5","317","5.67","6.21"
-"2010","66 +","indirekter Migrationshintergrund","","","","",""
-"2010","66 +","kein Migrationshintergrund","6.46","6.5","3692","6.39","6.53"
-"2011","17-34","direkter Migrationshintergrund","7.43","7.5","803","7.27","7.59"
-"2011","17-34","indirekter Migrationshintergrund","7.17","7.5","735","7","7.34"
-"2011","17-34","kein Migrationshintergrund","7.26","7.5","4759","7.2","7.32"
-"2011","35-65","direkter Migrationshintergrund","6.49","6.5","1744","6.38","6.6"
-"2011","35-65","indirekter Migrationshintergrund","6.84","6.5","472","6.63","7.05"
-"2011","35-65","kein Migrationshintergrund","6.62","6.5","12815","6.58","6.66"
-"2011","66 +","direkter Migrationshintergrund","6.06","5.5","360","5.81","6.31"
-"2011","66 +","indirekter Migrationshintergrund","","","","",""
-"2011","66 +","kein Migrationshintergrund","6.43","6.5","4087","6.36","6.5"
-"2012","17-34","direkter Migrationshintergrund","7.6","7.5","718","7.44","7.76"
-"2012","17-34","indirekter Migrationshintergrund","7.05","7.5","704","6.89","7.21"
-"2012","17-34","kein Migrationshintergrund","7.16","7.5","4642","7.1","7.22"
-"2012","35-65","direkter Migrationshintergrund","6.59","6.5","1786","6.48","6.7"
-"2012","35-65","indirekter Migrationshintergrund","6.51","6.5","510","6.3","6.72"
-"2012","35-65","kein Migrationshintergrund","6.6","6.5","13141","6.56","6.64"
-"2012","66 +","direkter Migrationshintergrund","6.18","6.5","399","5.94","6.42"
-"2012","66 +","indirekter Migrationshintergrund","","","","",""
-"2012","66 +","kein Migrationshintergrund","6.55","6.5","4499","6.48","6.62"
-"2013","17-34","direkter Migrationshintergrund","7.35","7.5","621","7.18","7.52"
-"2013","17-34","indirekter Migrationshintergrund","7.22","7.5","671","7.05","7.39"
-"2013","17-34","kein Migrationshintergrund","7.17","7.5","4411","7.11","7.23"
-"2013","35-65","direkter Migrationshintergrund","6.44","6.5","1699","6.33","6.55"
-"2013","35-65","indirekter Migrationshintergrund","6.71","6.5","524","6.52","6.9"
-"2013","35-65","kein Migrationshintergrund","6.59","6.5","12776","6.55","6.63"
-"2013","66 +","direkter Migrationshintergrund","6.31","6.5","375","6.06","6.56"
-"2013","66 +","indirekter Migrationshintergrund","","","","",""
-"2013","66 +","kein Migrationshintergrund","6.59","6.5","4572","6.52","6.66"
-"2014","17-34","direkter Migrationshintergrund","7.54","7.5","1411","7.43","7.65"
-"2014","17-34","indirekter Migrationshintergrund","7.03","6.5","1100","6.9","7.16"
-"2014","17-34","kein Migrationshintergrund","7.13","6.5","4024","7.06","7.2"
-"2014","35-65","direkter Migrationshintergrund","6.53","6.5","3264","6.45","6.61"
-"2014","35-65","indirekter Migrationshintergrund","6.86","6.5","682","6.69","7.03"
-"2014","35-65","kein Migrationshintergrund","6.57","6.5","11633","6.53","6.61"
-"2014","66 +","direkter Migrationshintergrund","6","5.5","439","5.76","6.24"
-"2014","66 +","indirekter Migrationshintergrund","","","","",""
-"2014","66 +","kein Migrationshintergrund","6.55","6.5","4502","6.48","6.62"
-"2015","17-34","direkter Migrationshintergrund","7.51","7.5","1074","7.39","7.63"
-"2015","17-34","indirekter Migrationshintergrund","7.19","6.5","946","7.05","7.33"
-"2015","17-34","kein Migrationshintergrund","7.13","6.5","3697","7.06","7.2"
-"2015","35-65","direkter Migrationshintergrund","6.57","6.5","2809","6.48","6.66"
-"2015","35-65","indirekter Migrationshintergrund","6.88","6.5","671","6.71","7.05"
-"2015","35-65","kein Migrationshintergrund","6.58","6.5","10929","6.54","6.62"
-"2015","66 +","direkter Migrationshintergrund","6.15","6.5","421","5.92","6.38"
-"2015","66 +","indirekter Migrationshintergrund","","","","",""
-"2015","66 +","kein Migrationshintergrund","6.62","6.5","4453","6.55","6.69"
-"2016","17-34","direkter Migrationshintergrund","7.54","7.5","1319","7.43","7.65"
-"2016","17-34","indirekter Migrationshintergrund","7.18","7.5","884","7.03","7.33"
-"2016","17-34","kein Migrationshintergrund","7.09","6.5","3344","7.02","7.16"
-"2016","35-65","direkter Migrationshintergrund","6.68","6.5","3052","6.6","6.76"
-"2016","35-65","indirekter Migrationshintergrund","6.52","6.5","653","6.35","6.69"
-"2016","35-65","kein Migrationshintergrund","6.53","6.5","10165","6.49","6.57"
-"2016","66 +","direkter Migrationshintergrund","6.03","5.5","398","5.79","6.27"
-"2016","66 +","indirekter Migrationshintergrund","","","","",""
-"2016","66 +","kein Migrationshintergrund","6.57","6.5","4301","6.5","6.64"
-"2017","17-34","direkter Migrationshintergrund","7.16","7.5","1111","7.03","7.29"
-"2017","17-34","indirekter Migrationshintergrund","6.91","6.5","939","6.77","7.05"
-"2017","17-34","kein Migrationshintergrund","7.07","6.5","4044","7.01","7.13"
-"2017","35-65","direkter Migrationshintergrund","6.62","6.5","3012","6.54","6.7"
-"2017","35-65","indirekter Migrationshintergrund","6.6","6.5","722","6.43","6.77"
-"2017","35-65","kein Migrationshintergrund","6.47","6.5","11618","6.43","6.51"
-"2017","66 +","direkter Migrationshintergrund","5.99","5.5","428","5.76","6.22"
-"2017","66 +","indirekter Migrationshintergrund","","","","",""
-"2017","66 +","kein Migrationshintergrund","6.52","6.5","4510","6.45","6.59"
-"2018","17-34","direkter Migrationshintergrund","7.06","6.5","1029","6.93","7.19"
-"2018","17-34","indirekter Migrationshintergrund","6.75","6.5","966","6.6","6.9"
-"2018","17-34","kein Migrationshintergrund","6.96","6.5","3945","6.9","7.02"
-"2018","35-65","direkter Migrationshintergrund","6.41","6.5","2900","6.32","6.5"
-"2018","35-65","indirekter Migrationshintergrund","6.66","6.5","710","6.49","6.83"
-"2018","35-65","kein Migrationshintergrund","6.38","6.5","11009","6.34","6.42"
-"2018","66 +","direkter Migrationshintergrund","6.06","5.5","443","5.83","6.29"
-"2018","66 +","indirekter Migrationshintergrund","","","","",""
-"2018","66 +","kein Migrationshintergrund","6.51","6.5","4521","6.44","6.58"
-"2019","17-34","direkter Migrationshintergrund","7.24","7.5","812","7.09","7.39"
-"2019","17-34","indirekter Migrationshintergrund","6.93","6.5","881","6.78","7.08"
-"2019","17-34","kein Migrationshintergrund","7.03","6.5","3735","6.97","7.09"
-"2019","35-65","direkter Migrationshintergrund","6.5","6.5","2611","6.41","6.59"
-"2019","35-65","indirekter Migrationshintergrund","6.58","6.5","899","6.43","6.73"
-"2019","35-65","kein Migrationshintergrund","6.51","6.5","11648","6.47","6.55"
-"2019","66 +","direkter Migrationshintergrund","6.32","6.5","430","6.1","6.54"
-"2019","66 +","indirekter Migrationshintergrund","7.37","7.5","50","6.85","7.89"
-"2019","66 +","kein Migrationshintergrund","6.58","6.5","4742","6.51","6.65"
-"2020","17-34","direkter Migrationshintergrund","7.12","6.5","1884","7.02","7.22"
-"2020","17-34","indirekter Migrationshintergrund","6.86","6.5","870","6.71","7.01"
-"2020","17-34","kein Migrationshintergrund","6.95","6.5","3554","6.88","7.02"
-"2020","35-65","direkter Migrationshintergrund","6.4","6.5","3115","6.32","6.48"
-"2020","35-65","indirekter Migrationshintergrund","6.43","6.5","759","6.27","6.59"
-"2020","35-65","kein Migrationshintergrund","6.39","6.5","10619","6.35","6.43"
-"2020","66 +","direkter Migrationshintergrund","6.16","6.5","423","5.92","6.4"
-"2020","66 +","indirekter Migrationshintergrund","6.83","7.5","45","6.25","7.41"
-"2020","66 +","kein Migrationshintergrund","6.52","6.5","4461","6.45","6.59"
+syear,age_gr,migback,mean,mean_lower_confidence,mean_upper_confidence,lower_quartile,boxplot_median,upper_quartile,lower_whisker,upper_whisker,median,median_lower_confidence,median_upper_confidence,n
+1984,17-29 J.,No migration background,,,,,,,,,,,,
+1984,17-29 J.,Direct migration background,,,,,,,,,,,,
+1984,17-29 J.,Indirect migration background,,,,,,,,,,,,
+1984,30-45 J.,No migration background,,,,,,,,,,,,
+1984,30-45 J.,Direct migration background,,,,,,,,,,,,
+1984,30-45 J.,Indirect migration background,,,,,,,,,,,,
+1984,46-65 J.,No migration background,,,,,,,,,,,,
+1984,46-65 J.,Direct migration background,,,,,,,,,,,,
+1984,46-65 J.,Indirect migration background,,,,,,,,,,,,
+1984,66 und älter,No migration background,,,,,,,,,,,,
+1984,66 und älter,Direct migration background,,,,,,,,,,,,
+1984,66 und älter,Indirect migration background,,,,,,,,,,,,
+1985,17-29 J.,No migration background,,,,,,,,,,,,
+1985,17-29 J.,Direct migration background,,,,,,,,,,,,
+1985,17-29 J.,Indirect migration background,,,,,,,,,,,,
+1985,30-45 J.,No migration background,,,,,,,,,,,,
+1985,30-45 J.,Direct migration background,,,,,,,,,,,,
+1985,30-45 J.,Indirect migration background,,,,,,,,,,,,
+1985,46-65 J.,No migration background,,,,,,,,,,,,
+1985,46-65 J.,Direct migration background,,,,,,,,,,,,
+1985,46-65 J.,Indirect migration background,,,,,,,,,,,,
+1985,66 und älter,No migration background,,,,,,,,,,,,
+1985,66 und älter,Direct migration background,,,,,,,,,,,,
+1985,66 und älter,Indirect migration background,,,,,,,,,,,,
+1986,17-29 J.,No migration background,,,,,,,,,,,,
+1986,17-29 J.,Direct migration background,,,,,,,,,,,,
+1986,17-29 J.,Indirect migration background,,,,,,,,,,,,
+1986,30-45 J.,No migration background,,,,,,,,,,,,
+1986,30-45 J.,Direct migration background,,,,,,,,,,,,
+1986,30-45 J.,Indirect migration background,,,,,,,,,,,,
+1986,46-65 J.,No migration background,,,,,,,,,,,,
+1986,46-65 J.,Direct migration background,,,,,,,,,,,,
+1986,46-65 J.,Indirect migration background,,,,,,,,,,,,
+1986,66 und älter,No migration background,,,,,,,,,,,,
+1986,66 und älter,Direct migration background,,,,,,,,,,,,
+1986,66 und älter,Indirect migration background,,,,,,,,,,,,
+1987,17-29 J.,No migration background,,,,,,,,,,,,
+1987,17-29 J.,Direct migration background,,,,,,,,,,,,
+1987,17-29 J.,Indirect migration background,,,,,,,,,,,,
+1987,30-45 J.,No migration background,,,,,,,,,,,,
+1987,30-45 J.,Direct migration background,,,,,,,,,,,,
+1987,30-45 J.,Indirect migration background,,,,,,,,,,,,
+1987,46-65 J.,No migration background,,,,,,,,,,,,
+1987,46-65 J.,Direct migration background,,,,,,,,,,,,
+1987,46-65 J.,Indirect migration background,,,,,,,,,,,,
+1987,66 und älter,No migration background,,,,,,,,,,,,
+1987,66 und älter,Direct migration background,,,,,,,,,,,,
+1987,66 und älter,Indirect migration background,,,,,,,,,,,,
+1988,17-29 J.,No migration background,,,,,,,,,,,,
+1988,17-29 J.,Direct migration background,,,,,,,,,,,,
+1988,17-29 J.,Indirect migration background,,,,,,,,,,,,
+1988,30-45 J.,No migration background,,,,,,,,,,,,
+1988,30-45 J.,Direct migration background,,,,,,,,,,,,
+1988,30-45 J.,Indirect migration background,,,,,,,,,,,,
+1988,46-65 J.,No migration background,,,,,,,,,,,,
+1988,46-65 J.,Direct migration background,,,,,,,,,,,,
+1988,46-65 J.,Indirect migration background,,,,,,,,,,,,
+1988,66 und älter,No migration background,,,,,,,,,,,,
+1988,66 und älter,Direct migration background,,,,,,,,,,,,
+1988,66 und älter,Indirect migration background,,,,,,,,,,,,
+1989,17-29 J.,No migration background,,,,,,,,,,,,
+1989,17-29 J.,Direct migration background,,,,,,,,,,,,
+1989,17-29 J.,Indirect migration background,,,,,,,,,,,,
+1989,30-45 J.,No migration background,,,,,,,,,,,,
+1989,30-45 J.,Direct migration background,,,,,,,,,,,,
+1989,30-45 J.,Indirect migration background,,,,,,,,,,,,
+1989,46-65 J.,No migration background,,,,,,,,,,,,
+1989,46-65 J.,Direct migration background,,,,,,,,,,,,
+1989,46-65 J.,Indirect migration background,,,,,,,,,,,,
+1989,66 und älter,No migration background,,,,,,,,,,,,
+1989,66 und älter,Direct migration background,,,,,,,,,,,,
+1989,66 und älter,Indirect migration background,,,,,,,,,,,,
+1990,17-29 J.,No migration background,,,,,,,,,,,,
+1990,17-29 J.,Direct migration background,,,,,,,,,,,,
+1990,17-29 J.,Indirect migration background,,,,,,,,,,,,
+1990,30-45 J.,No migration background,,,,,,,,,,,,
+1990,30-45 J.,Direct migration background,,,,,,,,,,,,
+1990,30-45 J.,Indirect migration background,,,,,,,,,,,,
+1990,46-65 J.,No migration background,,,,,,,,,,,,
+1990,46-65 J.,Direct migration background,,,,,,,,,,,,
+1990,46-65 J.,Indirect migration background,,,,,,,,,,,,
+1990,66 und älter,No migration background,,,,,,,,,,,,
+1990,66 und älter,Direct migration background,,,,,,,,,,,,
+1990,66 und älter,Indirect migration background,,,,,,,,,,,,
+1991,17-29 J.,No migration background,,,,,,,,,,,,
+1991,17-29 J.,Direct migration background,,,,,,,,,,,,
+1991,17-29 J.,Indirect migration background,,,,,,,,,,,,
+1991,30-45 J.,No migration background,,,,,,,,,,,,
+1991,30-45 J.,Direct migration background,,,,,,,,,,,,
+1991,30-45 J.,Indirect migration background,,,,,,,,,,,,
+1991,46-65 J.,No migration background,,,,,,,,,,,,
+1991,46-65 J.,Direct migration background,,,,,,,,,,,,
+1991,46-65 J.,Indirect migration background,,,,,,,,,,,,
+1991,66 und älter,No migration background,,,,,,,,,,,,
+1991,66 und älter,Direct migration background,,,,,,,,,,,,
+1991,66 und älter,Indirect migration background,,,,,,,,,,,,
+1992,17-29 J.,No migration background,,,,,,,,,,,,
+1992,17-29 J.,Direct migration background,,,,,,,,,,,,
+1992,17-29 J.,Indirect migration background,,,,,,,,,,,,
+1992,30-45 J.,No migration background,,,,,,,,,,,,
+1992,30-45 J.,Direct migration background,,,,,,,,,,,,
+1992,30-45 J.,Indirect migration background,,,,,,,,,,,,
+1992,46-65 J.,No migration background,,,,,,,,,,,,
+1992,46-65 J.,Direct migration background,,,,,,,,,,,,
+1992,46-65 J.,Indirect migration background,,,,,,,,,,,,
+1992,66 und älter,No migration background,,,,,,,,,,,,
+1992,66 und älter,Direct migration background,,,,,,,,,,,,
+1992,66 und älter,Indirect migration background,,,,,,,,,,,,
+1993,17-29 J.,No migration background,,,,,,,,,,,,
+1993,17-29 J.,Direct migration background,,,,,,,,,,,,
+1993,17-29 J.,Indirect migration background,,,,,,,,,,,,
+1993,30-45 J.,No migration background,,,,,,,,,,,,
+1993,30-45 J.,Direct migration background,,,,,,,,,,,,
+1993,30-45 J.,Indirect migration background,,,,,,,,,,,,
+1993,46-65 J.,No migration background,,,,,,,,,,,,
+1993,46-65 J.,Direct migration background,,,,,,,,,,,,
+1993,46-65 J.,Indirect migration background,,,,,,,,,,,,
+1993,66 und älter,No migration background,,,,,,,,,,,,
+1993,66 und älter,Direct migration background,,,,,,,,,,,,
+1993,66 und älter,Indirect migration background,,,,,,,,,,,,
+1994,17-29 J.,No migration background,,,,,,,,,,,,
+1994,17-29 J.,Direct migration background,,,,,,,,,,,,
+1994,17-29 J.,Indirect migration background,,,,,,,,,,,,
+1994,30-45 J.,No migration background,,,,,,,,,,,,
+1994,30-45 J.,Direct migration background,,,,,,,,,,,,
+1994,30-45 J.,Indirect migration background,,,,,,,,,,,,
+1994,46-65 J.,No migration background,,,,,,,,,,,,
+1994,46-65 J.,Direct migration background,,,,,,,,,,,,
+1994,46-65 J.,Indirect migration background,,,,,,,,,,,,
+1994,66 und älter,No migration background,,,,,,,,,,,,
+1994,66 und älter,Direct migration background,,,,,,,,,,,,
+1994,66 und älter,Indirect migration background,,,,,,,,,,,,
+1995,17-29 J.,No migration background,,,,,,,,,,,,
+1995,17-29 J.,Direct migration background,,,,,,,,,,,,
+1995,17-29 J.,Indirect migration background,,,,,,,,,,,,
+1995,30-45 J.,No migration background,,,,,,,,,,,,
+1995,30-45 J.,Direct migration background,,,,,,,,,,,,
+1995,30-45 J.,Indirect migration background,,,,,,,,,,,,
+1995,46-65 J.,No migration background,,,,,,,,,,,,
+1995,46-65 J.,Direct migration background,,,,,,,,,,,,
+1995,46-65 J.,Indirect migration background,,,,,,,,,,,,
+1995,66 und älter,No migration background,,,,,,,,,,,,
+1995,66 und älter,Direct migration background,,,,,,,,,,,,
+1995,66 und älter,Indirect migration background,,,,,,,,,,,,
+1996,17-29 J.,No migration background,,,,,,,,,,,,
+1996,17-29 J.,Direct migration background,,,,,,,,,,,,
+1996,17-29 J.,Indirect migration background,,,,,,,,,,,,
+1996,30-45 J.,No migration background,,,,,,,,,,,,
+1996,30-45 J.,Direct migration background,,,,,,,,,,,,
+1996,30-45 J.,Indirect migration background,,,,,,,,,,,,
+1996,46-65 J.,No migration background,,,,,,,,,,,,
+1996,46-65 J.,Direct migration background,,,,,,,,,,,,
+1996,46-65 J.,Indirect migration background,,,,,,,,,,,,
+1996,66 und älter,No migration background,,,,,,,,,,,,
+1996,66 und älter,Direct migration background,,,,,,,,,,,,
+1996,66 und älter,Indirect migration background,,,,,,,,,,,,
+1997,17-29 J.,No migration background,,,,,,,,,,,,
+1997,17-29 J.,Direct migration background,,,,,,,,,,,,
+1997,17-29 J.,Indirect migration background,,,,,,,,,,,,
+1997,30-45 J.,No migration background,,,,,,,,,,,,
+1997,30-45 J.,Direct migration background,,,,,,,,,,,,
+1997,30-45 J.,Indirect migration background,,,,,,,,,,,,
+1997,46-65 J.,No migration background,,,,,,,,,,,,
+1997,46-65 J.,Direct migration background,,,,,,,,,,,,
+1997,46-65 J.,Indirect migration background,,,,,,,,,,,,
+1997,66 und älter,No migration background,,,,,,,,,,,,
+1997,66 und älter,Direct migration background,,,,,,,,,,,,
+1997,66 und älter,Indirect migration background,,,,,,,,,,,,
+1998,17-29 J.,No migration background,,,,,,,,,,,,
+1998,17-29 J.,Direct migration background,,,,,,,,,,,,
+1998,17-29 J.,Indirect migration background,,,,,,,,,,,,
+1998,30-45 J.,No migration background,,,,,,,,,,,,
+1998,30-45 J.,Direct migration background,,,,,,,,,,,,
+1998,30-45 J.,Indirect migration background,,,,,,,,,,,,
+1998,46-65 J.,No migration background,,,,,,,,,,,,
+1998,46-65 J.,Direct migration background,,,,,,,,,,,,
+1998,46-65 J.,Indirect migration background,,,,,,,,,,,,
+1998,66 und älter,No migration background,,,,,,,,,,,,
+1998,66 und älter,Direct migration background,,,,,,,,,,,,
+1998,66 und älter,Indirect migration background,,,,,,,,,,,,
+1999,17-29 J.,No migration background,,,,,,,,,,,,
+1999,17-29 J.,Direct migration background,,,,,,,,,,,,
+1999,17-29 J.,Indirect migration background,,,,,,,,,,,,
+1999,30-45 J.,No migration background,,,,,,,,,,,,
+1999,30-45 J.,Direct migration background,,,,,,,,,,,,
+1999,30-45 J.,Indirect migration background,,,,,,,,,,,,
+1999,46-65 J.,No migration background,,,,,,,,,,,,
+1999,46-65 J.,Direct migration background,,,,,,,,,,,,
+1999,46-65 J.,Indirect migration background,,,,,,,,,,,,
+1999,66 und älter,No migration background,,,,,,,,,,,,
+1999,66 und älter,Direct migration background,,,,,,,,,,,,
+1999,66 und älter,Indirect migration background,,,,,,,,,,,,
+2000,17-29 J.,No migration background,,,,,,,,,,,,
+2000,17-29 J.,Direct migration background,,,,,,,,,,,,
+2000,17-29 J.,Indirect migration background,,,,,,,,,,,,
+2000,30-45 J.,No migration background,,,,,,,,,,,,
+2000,30-45 J.,Direct migration background,,,,,,,,,,,,
+2000,30-45 J.,Indirect migration background,,,,,,,,,,,,
+2000,46-65 J.,No migration background,,,,,,,,,,,,
+2000,46-65 J.,Direct migration background,,,,,,,,,,,,
+2000,46-65 J.,Indirect migration background,,,,,,,,,,,,
+2000,66 und älter,No migration background,,,,,,,,,,,,
+2000,66 und älter,Direct migration background,,,,,,,,,,,,
+2000,66 und älter,Indirect migration background,,,,,,,,,,,,
+2001,17-29 J.,No migration background,,,,,,,,,,,,
+2001,17-29 J.,Direct migration background,,,,,,,,,,,,
+2001,17-29 J.,Indirect migration background,,,,,,,,,,,,
+2001,30-45 J.,No migration background,,,,,,,,,,,,
+2001,30-45 J.,Direct migration background,,,,,,,,,,,,
+2001,30-45 J.,Indirect migration background,,,,,,,,,,,,
+2001,46-65 J.,No migration background,,,,,,,,,,,,
+2001,46-65 J.,Direct migration background,,,,,,,,,,,,
+2001,46-65 J.,Indirect migration background,,,,,,,,,,,,
+2001,66 und älter,No migration background,,,,,,,,,,,,
+2001,66 und älter,Direct migration background,,,,,,,,,,,,
+2001,66 und älter,Indirect migration background,,,,,,,,,,,,
+2002,17-29 J.,No migration background,,,,,,,,,,,,
+2002,17-29 J.,Direct migration background,,,,,,,,,,,,
+2002,17-29 J.,Indirect migration background,,,,,,,,,,,,
+2002,30-45 J.,No migration background,,,,,,,,,,,,
+2002,30-45 J.,Direct migration background,,,,,,,,,,,,
+2002,30-45 J.,Indirect migration background,,,,,,,,,,,,
+2002,46-65 J.,No migration background,,,,,,,,,,,,
+2002,46-65 J.,Direct migration background,,,,,,,,,,,,
+2002,46-65 J.,Indirect migration background,,,,,,,,,,,,
+2002,66 und älter,No migration background,,,,,,,,,,,,
+2002,66 und älter,Direct migration background,,,,,,,,,,,,
+2002,66 und älter,Indirect migration background,,,,,,,,,,,,
+2003,17-29 J.,No migration background,,,,,,,,,,,,
+2003,17-29 J.,Direct migration background,,,,,,,,,,,,
+2003,17-29 J.,Indirect migration background,,,,,,,,,,,,
+2003,30-45 J.,No migration background,,,,,,,,,,,,
+2003,30-45 J.,Direct migration background,,,,,,,,,,,,
+2003,30-45 J.,Indirect migration background,,,,,,,,,,,,
+2003,46-65 J.,No migration background,,,,,,,,,,,,
+2003,46-65 J.,Direct migration background,,,,,,,,,,,,
+2003,46-65 J.,Indirect migration background,,,,,,,,,,,,
+2003,66 und älter,No migration background,,,,,,,,,,,,
+2003,66 und älter,Direct migration background,,,,,,,,,,,,
+2003,66 und älter,Indirect migration background,,,,,,,,,,,,
+2004,17-29 J.,No migration background,,,,,,,,,,,,
+2004,17-29 J.,Direct migration background,,,,,,,,,,,,
+2004,17-29 J.,Indirect migration background,,,,,,,,,,,,
+2004,30-45 J.,No migration background,,,,,,,,,,,,
+2004,30-45 J.,Direct migration background,,,,,,,,,,,,
+2004,30-45 J.,Indirect migration background,,,,,,,,,,,,
+2004,46-65 J.,No migration background,,,,,,,,,,,,
+2004,46-65 J.,Direct migration background,,,,,,,,,,,,
+2004,46-65 J.,Indirect migration background,,,,,,,,,,,,
+2004,66 und älter,No migration background,,,,,,,,,,,,
+2004,66 und älter,Direct migration background,,,,,,,,,,,,
+2004,66 und älter,Indirect migration background,,,,,,,,,,,,
+2005,17-29 J.,No migration background,,,,,,,,,,,,
+2005,17-29 J.,Direct migration background,,,,,,,,,,,,
+2005,17-29 J.,Indirect migration background,,,,,,,,,,,,
+2005,30-45 J.,No migration background,,,,,,,,,,,,
+2005,30-45 J.,Direct migration background,,,,,,,,,,,,
+2005,30-45 J.,Indirect migration background,,,,,,,,,,,,
+2005,46-65 J.,No migration background,,,,,,,,,,,,
+2005,46-65 J.,Direct migration background,,,,,,,,,,,,
+2005,46-65 J.,Indirect migration background,,,,,,,,,,,,
+2005,66 und älter,No migration background,,,,,,,,,,,,
+2005,66 und älter,Direct migration background,,,,,,,,,,,,
+2005,66 und älter,Indirect migration background,,,,,,,,,,,,
+2006,17-29 J.,No migration background,,,,,,,,,,,,
+2006,17-29 J.,Direct migration background,,,,,,,,,,,,
+2006,17-29 J.,Indirect migration background,,,,,,,,,,,,
+2006,30-45 J.,No migration background,,,,,,,,,,,,
+2006,30-45 J.,Direct migration background,,,,,,,,,,,,
+2006,30-45 J.,Indirect migration background,,,,,,,,,,,,
+2006,46-65 J.,No migration background,,,,,,,,,,,,
+2006,46-65 J.,Direct migration background,,,,,,,,,,,,
+2006,46-65 J.,Indirect migration background,,,,,,,,,,,,
+2006,66 und älter,No migration background,,,,,,,,,,,,
+2006,66 und älter,Direct migration background,,,,,,,,,,,,
+2006,66 und älter,Indirect migration background,,,,,,,,,,,,
+2007,17-29 J.,No migration background,,,,,,,,,,,,
+2007,17-29 J.,Direct migration background,,,,,,,,,,,,
+2007,17-29 J.,Indirect migration background,,,,,,,,,,,,
+2007,30-45 J.,No migration background,,,,,,,,,,,,
+2007,30-45 J.,Direct migration background,,,,,,,,,,,,
+2007,30-45 J.,Indirect migration background,,,,,,,,,,,,
+2007,46-65 J.,No migration background,,,,,,,,,,,,
+2007,46-65 J.,Direct migration background,,,,,,,,,,,,
+2007,46-65 J.,Indirect migration background,,,,,,,,,,,,
+2007,66 und älter,No migration background,,,,,,,,,,,,
+2007,66 und älter,Direct migration background,,,,,,,,,,,,
+2007,66 und älter,Indirect migration background,,,,,,,,,,,,
+2008,17-29 J.,No migration background,7.310244094300646,7.269090492063754,7.351397696537539,6.0,8.0,9.0,1.5,10.0,8.0,8.0,8.0,2490.0
+2008,17-29 J.,Direct migration background,7.701021821691523,7.572269227662144,7.829774415720902,6.0,8.0,9.0,1.5,10.0,8.0,7.974999999999994,8.0,225.0
+2008,17-29 J.,Indirect migration background,7.405789503411467,7.307182935322826,7.504396071500107,6.0,8.0,9.0,1.5,10.0,8.0,8.0,9.0,433.0
+2008,30-45 J.,No migration background,6.881386387907273,6.849845689940748,6.912927085873799,5.0,7.0,8.0,0.5,10.0,7.0,7.0,7.0,4291.0
+2008,30-45 J.,Direct migration background,6.955780351152098,6.869120298698491,7.042440403605705,5.0,7.0,9.0,0.0,10.0,7.0,6.0,7.0,605.0
+2008,30-45 J.,Indirect migration background,6.624239842481188,6.491583974980474,6.756895709981903,5.0,7.0,8.0,0.5,10.0,7.0,6.0,8.0,269.0
+2008,46-65 J.,No migration background,6.540059293563009,6.511350430235927,6.568768156890091,5.0,7.0,8.0,0.5,10.0,7.0,7.0,7.0,5930.0
+2008,46-65 J.,Direct migration background,6.249720937948715,6.164795599672561,6.334646276224869,5.0,7.0,8.0,0.5,10.0,7.0,7.0,8.0,707.0
+2008,46-65 J.,Indirect migration background,6.113125624835276,5.818822232119955,6.407429017550597,4.301984697817752,6.0,8.0,0.0,10.0,6.0,4.0,7.0,51.0
+2008,66 und älter,No migration background,6.546762197149468,6.510983686709815,6.5825407075891205,5.0,7.0,8.0,0.5,10.0,7.0,7.0,7.0,3905.0
+2008,66 und älter,Direct migration background,5.984453831318787,5.861465210259074,6.107442452378501,4.0,6.0,8.0,0.0,10.0,6.0,5.0,6.0,368.0
+2008,66 und älter,Indirect migration background,,,,,,,,,,,,
+2009,17-29 J.,No migration background,7.372011374901588,7.33166900000877,7.412353749794406,6.0,8.0,9.0,1.5,10.0,8.0,8.0,8.0,2292.0
+2009,17-29 J.,Direct migration background,7.537521913226066,7.389160712679125,7.6858831137730075,7.0,8.0,9.0,4.0,10.0,8.0,8.0,8.0,174.0
+2009,17-29 J.,Indirect migration background,7.400326725718168,7.299086830934401,7.501566620501935,6.0,8.0,9.0,1.5,10.0,8.0,8.0,9.0,385.0
+2009,30-45 J.,No migration background,6.832013246981011,6.798653383522644,6.865373110439378,5.0,7.0,8.0,0.5,10.0,7.0,7.0,7.0,3869.0
+2009,30-45 J.,Direct migration background,6.858689377329252,6.770648746575959,6.946730008082546,5.0,7.0,8.0,1.0,10.0,7.0,6.974999999999994,7.0,530.0
+2009,30-45 J.,Indirect migration background,7.090778736025259,6.952927172897239,7.228630299153279,5.0,8.0,9.0,1.0,10.0,8.0,8.0,9.0,269.0
+2009,46-65 J.,No migration background,6.517819242869332,6.488080032155698,6.547558453582966,5.0,7.0,8.0,0.5,10.0,7.0,7.0,7.0,5656.0
+2009,46-65 J.,Direct migration background,6.330596854058099,6.23810004161671,6.423093666499487,5.0,7.0,8.0,0.5,10.0,7.0,7.0,8.0,617.0
+2009,46-65 J.,Indirect migration background,6.286080037591026,5.988941711749763,6.58321836343229,4.0,7.0,7.0,1.0,10.0,7.0,7.0,10.0,46.0
+2009,66 und älter,No migration background,6.42243138460705,6.3858104996032115,6.459052269610888,5.0,7.0,8.0,0.5,10.0,7.0,7.0,7.0,3809.0
+2009,66 und älter,Direct migration background,5.94456671623617,5.810816730306923,6.0783167021654165,4.0,6.0,8.0,0.0,10.0,6.0,5.0,7.0,334.0
+2009,66 und älter,Indirect migration background,,,,,,,,,,,,
+2010,17-29 J.,No migration background,7.302602365333303,7.2658435668275505,7.339361163839056,6.0,8.0,9.0,1.5,10.0,8.0,8.0,8.0,2959.0
+2010,17-29 J.,Direct migration background,7.682960633780509,7.592091505418304,7.773829762142715,7.0,8.0,9.0,4.0,10.0,8.0,8.0,8.0,484.0
+2010,17-29 J.,Indirect migration background,7.374546412266374,7.2802199277412685,7.46887289679148,6.0,8.0,9.0,1.5,10.0,8.0,8.0,9.0,474.0
+2010,30-45 J.,No migration background,6.878605831112308,6.853544434952491,6.903667227272125,5.0,7.0,8.0,0.5,10.0,7.0,7.0,7.0,7063.0
+2010,30-45 J.,Direct migration background,7.092359435462321,7.037248973434402,7.14746989749024,6.0,7.0,9.0,1.5,10.0,7.0,6.0,7.0,1452.0
+2010,30-45 J.,Indirect migration background,6.551280890527469,6.452648639911617,6.649913141143321,5.0,7.0,8.0,0.5,10.0,7.0,6.0,8.0,543.0
+2010,46-65 J.,No migration background,6.460973785906405,6.432500186083935,6.489447385728875,5.0,7.0,8.0,0.5,10.0,7.0,7.0,7.0,6164.0
+2010,46-65 J.,Direct migration background,6.262939847628427,6.175942479563886,6.349937215692968,5.0,7.0,8.0,0.5,10.0,7.0,7.0,8.0,694.0
+2010,46-65 J.,Indirect migration background,6.372912261297526,6.144518198586912,6.60130632400814,5.0,7.0,8.0,0.5,10.0,7.0,7.0,8.0,77.0
+2010,66 und älter,No migration background,6.464451358120531,6.4273703449466035,6.501532371294458,5.0,7.0,8.0,0.5,10.0,7.0,7.0,7.0,3692.0
+2010,66 und älter,Direct migration background,5.9118112184581575,5.779693048008775,6.04392938890754,4.0,6.0,8.0,0.0,10.0,6.0,5.0,7.0,316.0
+2010,66 und älter,Indirect migration background,,,,,,,,,,,,
+2011,17-29 J.,No migration background,7.375636209138554,7.339324331750417,7.4119480865266905,6.0,8.0,9.0,1.5,10.0,8.0,8.0,8.0,2936.0
+2011,17-29 J.,Direct migration background,7.565378924467599,7.456369096853557,7.674388752081642,6.0,8.0,10.0,0.0,10.0,8.0,8.0,8.0,390.0
+2011,17-29 J.,Indirect migration background,7.456466500676386,7.367640359082571,7.545292642270201,6.0,8.0,9.0,1.5,10.0,8.0,8.0,9.0,481.0
+2011,30-45 J.,No migration background,6.8898472656930085,6.865108115535124,6.914586415850893,5.0,7.0,9.0,0.0,10.0,7.0,7.0,7.0,7384.0
+2011,30-45 J.,Direct migration background,6.973683443874313,6.917202234480997,7.0301646532676285,5.0,7.0,9.0,0.0,10.0,7.0,6.0,7.0,1384.0
+2011,30-45 J.,Indirect migration background,6.730207567553822,6.638117207399495,6.822297927708148,5.0,7.0,9.0,0.0,10.0,7.0,6.0,7.0,581.0
+2011,46-65 J.,No migration background,6.499169314193672,6.472807518913535,6.5255311094738095,5.0,7.0,8.0,0.5,10.0,7.0,7.0,7.0,7246.0
+2011,46-65 J.,Direct migration background,6.267214213084071,6.189326599811285,6.345101826356857,5.0,7.0,8.0,0.5,10.0,7.0,7.0,8.0,825.0
+2011,46-65 J.,Indirect migration background,6.405833745868832,6.177263244357882,6.6344042473797815,5.0,7.0,8.0,0.5,10.0,7.0,6.0,8.0,102.0
+2011,66 und älter,No migration background,6.429548589876391,6.393332874198152,6.46576430555463,5.0,7.0,8.0,0.5,10.0,7.0,7.0,7.0,4087.0
+2011,66 und älter,Direct migration background,6.032146265574878,5.909795383703112,6.1544971474466434,4.0,6.0,8.0,0.0,10.0,6.0,5.0,7.0,359.0
+2011,66 und älter,Indirect migration background,,,,,,,,,,,,
+2012,17-29 J.,No migration background,7.280233419506129,7.242777726929181,7.317689112083078,6.0,8.0,9.0,1.5,10.0,8.0,8.0,8.0,2957.0
+2012,17-29 J.,Direct migration background,7.843863859151289,7.747878501435119,7.939849216867458,7.0,8.0,9.0,4.0,10.0,8.0,7.0,8.0,354.0
+2012,17-29 J.,Indirect migration background,7.243984117427879,7.151769111092593,7.336199123763166,6.0,8.0,9.0,1.5,10.0,8.0,8.0,9.0,485.0
+2012,30-45 J.,No migration background,6.814494434213758,6.789345212341415,6.839643656086102,5.0,7.0,8.0,0.5,10.0,7.0,7.0,7.0,6915.0
+2012,30-45 J.,Direct migration background,7.009521465319652,6.951956130668635,7.067086799970668,6.0,8.0,9.0,1.5,10.0,8.0,8.0,9.0,1342.0
+2012,30-45 J.,Indirect migration background,6.614719214255316,6.526158178939852,6.7032802495707795,5.0,7.0,8.0,0.5,10.0,7.0,7.0,7.0249999999999995,553.0
+2012,46-65 J.,No migration background,6.510157895580944,6.484872350920988,6.5354434402409005,5.0,7.0,8.0,0.5,10.0,7.0,7.0,7.0,7890.0
+2012,46-65 J.,Direct migration background,6.369105430785155,6.294474790835643,6.443736070734667,5.0,7.0,8.0,0.5,10.0,7.0,7.0,8.0,879.0
+2012,46-65 J.,Indirect migration background,6.129695195911731,5.912053632856375,6.347336758967088,4.0,6.0,8.0,0.0,10.0,6.0,5.0,6.0,127.0
+2012,66 und älter,No migration background,6.5543048145414815,6.520376627825436,6.588233001257527,5.0,7.0,8.0,0.5,10.0,7.0,7.0,7.0,4493.0
+2012,66 und älter,Direct migration background,6.143917159173692,6.0256891312181855,6.262145187129199,4.0,6.912181115334199,8.0,0.0,10.0,7.0,7.0,8.0,404.0
+2012,66 und älter,Indirect migration background,,,,,,,,,,,,
+2013,17-29 J.,No migration background,7.293577443185716,7.256131436562166,7.3310234498092655,6.0,8.0,9.0,1.5,10.0,8.0,8.0,8.0,2851.0
+2013,17-29 J.,Direct migration background,7.601113194806558,7.476541638588487,7.725684751024629,7.0,8.0,9.0,4.0,10.0,8.0,7.0,8.0,298.0
+2013,17-29 J.,Indirect migration background,7.3844339236457115,7.29842766292436,7.470440184367063,6.0,8.0,9.0,1.5,10.0,8.0,8.0,9.0,487.0
+2013,30-45 J.,No migration background,6.8020749509164125,6.776617300760362,6.827532601072463,5.0,7.0,8.0,0.5,10.0,7.0,7.0,7.0,6297.0
+2013,30-45 J.,Direct migration background,6.781905255334672,6.720607799096681,6.843202711572663,5.0,7.0,8.0,0.5,10.0,7.0,6.0,7.0,1236.0
+2013,30-45 J.,Indirect migration background,6.883877145727313,6.791400473439225,6.976353818015401,5.0,7.0,8.0,0.5,10.0,7.0,6.0,7.0,513.0
+2013,46-65 J.,No migration background,6.5272950845508255,6.5021068597003335,6.5524833094013175,5.0,7.0,8.0,0.5,10.0,7.0,7.0,7.0,8003.0
+2013,46-65 J.,Direct migration background,6.247167065704267,6.168355311048672,6.325978820359862,5.0,7.0,8.0,0.5,10.0,7.0,7.0,8.0,876.0
+2013,46-65 J.,Indirect migration background,6.467952440432268,6.288477540067847,6.647427340796689,5.0,7.0,8.459093478260836,0.0,10.0,7.0,6.0,8.024999999999999,142.0
+2013,66 und älter,No migration background,6.591084827333621,6.557187933335052,6.6249817213321895,5.0,7.0,8.0,0.5,10.0,7.0,7.0,7.0,4564.0
+2013,66 und älter,Direct migration background,6.2883810971304,6.166902122544912,6.409860071715888,5.0,7.0,8.0,0.5,10.0,7.0,7.0,8.0,382.0
+2013,66 und älter,Indirect migration background,,,,,,,,,,,,
+2014,17-29 J.,No migration background,7.2490075566110415,7.210598431555462,7.287416681666621,6.0,8.0,9.0,1.5,10.0,8.0,8.0,9.0,2669.0
+2014,17-29 J.,Direct migration background,7.694057322166309,7.623952376301602,7.764162268031015,6.0,8.0,9.0,1.5,10.0,8.0,8.0,8.0,790.0
+2014,17-29 J.,Indirect migration background,7.1316678279066466,7.060436122851798,7.202899532961495,6.0,8.0,9.0,1.5,10.0,8.0,8.0,9.0,837.0
+2014,30-45 J.,No migration background,6.739139446260734,6.711009710798486,6.767269181722982,5.0,7.0,8.0,0.5,10.0,7.0,7.0,7.0,5429.0
+2014,30-45 J.,Direct migration background,7.002195316208592,6.957390529814603,7.047000102602581,5.0,7.0,9.0,0.0,10.0,7.0,6.0,7.0,2387.0
+2014,30-45 J.,Indirect migration background,6.820688164063668,6.738699198270681,6.902677129856655,5.0,7.0,8.368066709634883,0.0,10.0,7.0,6.0,7.0,701.0
+2014,46-65 J.,No migration background,6.517929978780881,6.492009446822129,6.543850510739633,5.0,7.0,8.0,0.5,10.0,7.0,7.0,7.0,7530.0
+2014,46-65 J.,Direct migration background,6.325212994086399,6.266326150564906,6.3840998376078915,5.0,7.0,8.0,0.5,10.0,7.0,7.0,8.0,1597.0
+2014,46-65 J.,Indirect migration background,6.4964646136272695,6.333963377941803,6.658965849312736,5.0,7.0,8.0,0.5,10.0,7.0,6.0,8.0,175.0
+2014,66 und älter,No migration background,6.548723668927785,6.514513137298695,6.582934200556875,5.0,7.0,8.0,0.5,10.0,7.0,7.0,7.0,4493.0
+2014,66 und älter,Direct migration background,5.984274156535689,5.864748614776,6.103799698295378,4.0,6.0,8.0,0.0,10.0,6.0,5.0,6.0,447.0
+2014,66 und älter,Indirect migration background,,,,,,,,,,,,
+2015,17-29 J.,No migration background,7.2656543544406045,7.2275380020766455,7.303770706804563,6.0,8.0,9.0,1.5,10.0,8.0,8.0,9.0,2554.0
+2015,17-29 J.,Direct migration background,7.435456191716064,7.359531925510056,7.511380457922072,6.0,8.0,9.0,1.5,10.0,8.0,8.0,9.0,588.0
+2015,17-29 J.,Indirect migration background,7.340638765211032,7.272539594305334,7.408737936116729,6.0,8.0,9.0,1.5,10.0,8.0,8.0,9.0,770.0
+2015,30-45 J.,No migration background,6.771441151952429,6.742114990723857,6.800767313181001,5.0,7.0,8.0,0.5,10.0,7.0,7.0,7.0,4769.0
+2015,30-45 J.,Direct migration background,7.049251965119937,7.002524701775057,7.095979228464817,5.0,7.0,9.0,0.0,10.0,7.0,6.0,7.0,1969.0
+2015,30-45 J.,Indirect migration background,6.783799214507856,6.6976478441625815,6.869950584853131,5.0,7.0,9.0,0.0,10.0,7.0,6.0,7.0,610.0
+2015,46-65 J.,No migration background,6.516292316128677,6.490717651589595,6.541866980667759,5.0,7.0,8.0,0.5,10.0,7.0,7.0,7.0,7267.0
+2015,46-65 J.,Direct migration background,6.353715727283811,6.29114085611117,6.416290598456452,5.0,7.0,8.0,0.5,10.0,7.0,7.0,8.0,1425.0
+2015,46-65 J.,Indirect migration background,6.76145642974091,6.6041706528203115,6.918742206661509,5.0,7.0,9.0,0.0,10.0,7.0,6.0,8.0,175.0
+2015,66 und älter,No migration background,6.617880876155477,6.5843191127902285,6.651442639520725,5.0,7.0,8.0,0.5,10.0,7.0,7.0,7.0,4443.0
+2015,66 und älter,Direct migration background,6.173729998391041,6.059221165982979,6.288238830799102,4.0,7.0,8.0,0.0,10.0,7.0,7.0,8.0,430.0
+2015,66 und älter,Indirect migration background,,,,,,,,,,,,
+2016,17-29 J.,No migration background,7.186780779764613,7.145536993425829,7.228024566103397,6.0,8.0,9.0,1.5,10.0,8.0,8.0,9.0,2362.0
+2016,17-29 J.,Direct migration background,7.455539066625571,7.386664857010747,7.524413276240394,6.0,8.0,9.0,1.5,10.0,8.0,8.0,8.0,719.0
+2016,17-29 J.,Indirect migration background,7.4055700461776865,7.334994116099538,7.476145976255835,6.0,8.0,9.0,1.5,10.0,8.0,8.0,8.0,712.0
+2016,30-45 J.,No migration background,6.688015422334075,6.657031206498369,6.718999638169781,5.0,7.0,8.0,0.5,10.0,7.0,7.0,7.0,4241.0
+2016,30-45 J.,Direct migration background,7.036850849995449,6.992320749025015,7.081380950965884,6.0,7.0,9.0,1.5,10.0,7.0,6.0,7.0,2227.0
+2016,30-45 J.,Indirect migration background,6.505713180391358,6.416741291560978,6.594685069221738,5.0,7.0,8.0,0.5,10.0,7.0,7.0,7.0,571.0
+2016,46-65 J.,No migration background,6.506325554924177,6.480478606178499,6.532172503669855,5.0,7.0,8.0,0.5,10.0,7.0,7.0,7.0,6878.0
+2016,46-65 J.,Direct migration background,6.549770941092205,6.490319796496122,6.6092220856882875,5.0,7.0,8.0,0.5,10.0,7.0,7.0,7.0,1523.0
+2016,46-65 J.,Indirect migration background,6.41167653804396,6.253883645846225,6.569469430241696,5.0,7.0,8.0,0.5,10.0,7.0,6.0,8.0,185.0
+2016,66 und älter,No migration background,6.572095725825153,6.53721176421308,6.606979687437226,5.0,7.0,8.0,0.5,10.0,7.0,7.0,7.0,4291.0
+2016,66 und älter,Direct migration background,6.01659796296441,5.903214032599254,6.129981893329567,4.0,6.0,8.0,0.0,10.0,6.0,5.0,6.0249999999999995,407.0
+2016,66 und älter,Indirect migration background,,,,,,,,,,,,
+2017,17-29 J.,No migration background,7.14685665423498,7.110278478202149,7.18343483026781,6.0,8.0,9.0,1.5,10.0,8.0,8.0,9.0,2927.0
+2017,17-29 J.,Direct migration background,7.148823823696427,7.061529530352538,7.2361181170403155,6.0,8.0,9.0,1.5,10.0,8.0,8.0,9.0,581.0
+2017,17-29 J.,Indirect migration background,7.088791527265757,7.019353015389218,7.158230039142296,6.0,7.0,9.0,1.5,10.0,7.0,6.0,7.0,779.0
+2017,30-45 J.,No migration background,6.645576932433823,6.615895320114782,6.675258544752864,5.0,7.0,8.0,0.5,10.0,7.0,7.0,7.0,4549.0
+2017,30-45 J.,Direct migration background,7.032939987284691,6.988134179861124,7.0777457947082585,6.0,8.0,8.0,3.0,10.0,8.0,8.0,9.0,2070.0
+2017,30-45 J.,Indirect migration background,6.390309408892699,6.300963726524773,6.479655091260624,5.0,7.0,8.0,0.5,10.0,7.0,7.0,8.0,591.0
+2017,46-65 J.,No migration background,6.4460428559824505,6.421949739743289,6.470135972221612,5.0,7.0,8.0,0.5,10.0,7.0,7.0,7.0,8142.0
+2017,46-65 J.,Direct migration background,6.3798561928352875,6.324633665083128,6.435078720587447,5.0,7.0,8.0,0.5,10.0,7.0,7.0,8.0,1583.0
+2017,46-65 J.,Indirect migration background,6.642619835338724,6.496281281712093,6.788958388965355,5.0,7.0,8.0,0.5,10.0,7.0,6.0,8.0,225.0
+2017,66 und älter,No migration background,6.515231908984279,6.481594084678747,6.548869733289811,5.0,7.0,8.0,0.5,10.0,7.0,7.0,7.0,4499.0
+2017,66 und älter,Direct migration background,5.9847277504705465,5.877325133937962,6.092130367003131,4.0,6.0,8.0,0.0,10.0,6.0,5.0,6.0,438.0
+2017,66 und älter,Indirect migration background,,,,,,,,,,,,
+2018,17-29 J.,No migration background,7.069661653828755,7.033985512076084,7.105337795581425,6.0,7.0,8.0,3.0,10.0,7.0,7.0,7.0,2903.0
+2018,17-29 J.,Direct migration background,7.027327903748646,6.939662357960253,7.11499344953704,6.0,7.0,9.0,1.5,10.0,7.0,7.0,7.0,530.0
+2018,17-29 J.,Indirect migration background,7.001276450673483,6.926011685238355,7.076541216108612,5.0,7.0,9.0,0.0,10.0,7.0,6.0,7.0,802.0
+2018,30-45 J.,No migration background,6.544245139771007,6.513184401313317,6.575305878228698,5.0,7.0,8.0,0.5,10.0,7.0,7.0,7.0,4215.0
+2018,30-45 J.,Direct migration background,6.943882664875976,6.896836110401407,6.990929219350545,6.0,7.0,8.0,3.0,10.0,7.0,6.0,7.0,1935.0
+2018,30-45 J.,Indirect migration background,6.320387354547856,6.226262486215871,6.414512222879841,5.0,7.0,8.0,0.5,10.0,7.0,7.0,8.0,558.0
+2018,46-65 J.,No migration background,6.349743143882064,6.3246474192460305,6.374838868518097,5.0,7.0,8.0,0.5,10.0,7.0,7.0,7.0,7800.0
+2018,46-65 J.,Direct migration background,6.077324572265917,6.021274113990972,6.133375030540862,5.0,6.0,8.0,0.5,10.0,6.0,5.0,6.0,1580.0
+2018,46-65 J.,Indirect migration background,6.567995877836874,6.415877658882331,6.720114096791417,5.0,7.0,9.0,0.0,10.0,7.0,6.974999999999994,8.0,238.0
+2018,66 und älter,No migration background,6.50381429842373,6.470271144329145,6.537357452518315,5.0,7.0,8.0,0.5,10.0,7.0,7.0,7.0,4509.0
+2018,66 und älter,Direct migration background,6.045305775525417,5.936867014159232,6.153744536891602,5.0,6.0,8.0,0.5,10.0,6.0,5.0,6.0,453.0
+2018,66 und älter,Indirect migration background,,,,,,,,,,,,
+2019,17-29 J.,No migration background,7.080393463069135,7.043584349436819,7.117202576701451,6.0,7.0,8.0,3.0,10.0,7.0,6.974999999999994,7.0,2713.0
+2019,17-29 J.,Direct migration background,7.17715072205701,7.0879374673022735,7.266363976811746,6.0,8.0,8.0,3.0,10.0,8.0,8.0,9.0,419.0
+2019,17-29 J.,Indirect migration background,6.998826902128746,6.915417995327419,7.082235808930073,6.0,7.0,9.0,1.5,10.0,7.0,6.0,7.0,710.0
+2019,30-45 J.,No migration background,6.738168360465728,6.708998828570653,6.767337892360803,5.0,7.0,8.0,0.5,10.0,7.0,7.0,7.0,4134.0
+2019,30-45 J.,Direct migration background,7.010506594984368,6.960654154663769,7.060359035304967,6.0,7.0,8.0,3.0,10.0,7.0,6.0,7.0,1596.0
+2019,30-45 J.,Indirect migration background,6.554036166361624,6.464436000981887,6.643636331741361,5.0,7.0,8.0,0.5,10.0,7.0,7.0,7.0,551.0
+2019,46-65 J.,No migration background,6.45867302002252,6.435050033446153,6.482296006598887,5.0,7.0,8.0,0.5,10.0,7.0,7.0,7.0,8621.0
+2019,46-65 J.,Direct migration background,6.230742590413678,6.173723705268488,6.287761475558868,5.0,6.385015938507974,8.0,0.5,10.0,6.0,5.0,6.0,1507.0
+2019,46-65 J.,Indirect migration background,6.698486811002575,6.5725427360875495,6.824430885917601,5.0,7.0,8.0,0.5,10.0,7.0,6.0,8.0,290.0
+2019,66 und älter,No migration background,6.572931757502694,6.540208841005656,6.605654673999732,5.0,7.0,8.0,0.5,10.0,7.0,7.0,7.0,4697.0
+2019,66 und älter,Direct migration background,6.295466765198366,6.189446402979644,6.401487127417089,5.0,7.0,8.0,0.5,10.0,7.0,7.0,8.0,440.0
+2019,66 und älter,Indirect migration background,,,,,,,,,,,,
+2020,17-29 J.,No migration background,7.069218145188819,7.029556736083742,7.108879554293897,6.0,7.0,9.0,1.5,10.0,7.0,6.0,7.0,2548.0
+2020,17-29 J.,Direct migration background,7.17679611361906,7.116675066149962,7.236917161088159,6.0,8.0,9.0,1.5,10.0,8.0,8.0,9.0,1079.0
+2020,17-29 J.,Indirect migration background,6.868655473655968,6.782495575061488,6.954815372250448,6.0,7.0,9.0,1.5,10.0,7.0,6.0,7.0,709.0
+2020,30-45 J.,No migration background,6.602183334123202,6.570080797806567,6.634285870439837,5.0,7.0,8.0,0.5,10.0,7.0,7.0,7.0,3698.0
+2020,30-45 J.,Direct migration background,6.813848324644039,6.770522169754461,6.857174479533617,5.0,7.0,8.0,0.5,10.0,7.0,7.0,7.0,2404.0
+2020,30-45 J.,Indirect migration background,6.640644694322198,6.552636938801077,6.728652449843319,5.0,7.0,8.0,0.5,10.0,7.0,7.0,7.0,531.0
+2020,46-65 J.,No migration background,6.328257927753357,6.303759012846701,6.352756842660012,5.0,7.0,8.0,0.5,10.0,7.0,7.0,7.0,7897.0
+2020,46-65 J.,Direct migration background,6.1957668741328105,6.144020598277203,6.247513149988418,5.0,6.0,8.0,0.5,10.0,6.0,5.0,6.0,1626.0
+2020,46-65 J.,Indirect migration background,6.202616699754588,6.0671916914881985,6.338041708020978,4.0,6.0,8.0,1.0,10.0,6.0,5.0,7.0,264.0
+2020,66 und älter,No migration background,6.519751928109472,6.486586304147198,6.552917552071746,5.0,7.0,8.0,0.5,10.0,7.0,7.0,7.0,4399.0
+2020,66 und älter,Direct migration background,6.166311348532309,6.055593317431649,6.277029379632969,4.0,7.0,8.0,0.0,10.0,7.0,7.0,8.0,437.0
+2020,66 und älter,Indirect migration background,6.805734725810688,6.502416274590162,7.109053177031214,6.0,7.057534563770794,8.0,3.0,10.0,8.0,8.0,10.0,33.0
+2021,17-29 J.,No migration background,6.966806491940868,6.92189195185909,7.0117210320226455,6.0,7.0,8.0,3.0,10.0,7.0,7.0,7.0,1780.0
+2021,17-29 J.,Direct migration background,6.701648124908318,6.606009431850138,6.797286817966498,5.0,7.0,8.0,0.5,10.0,7.0,6.0,8.0,524.0
+2021,17-29 J.,Indirect migration background,7.049558592378895,6.954054841797436,7.145062342960353,6.0,7.0,8.0,3.0,10.0,7.0,6.0,7.0,402.0
+2021,30-45 J.,No migration background,6.699759049005778,6.661966100683436,6.73755199732812,5.0,7.0,8.0,0.5,10.0,7.0,7.0,7.0,2612.0
+2021,30-45 J.,Direct migration background,6.756738705241716,6.700677141451356,6.812800269032076,5.0,7.0,8.0,0.5,10.0,7.0,7.0,7.0,1224.0
+2021,30-45 J.,Indirect migration background,6.3914551921081575,6.266051270497521,6.516859113718794,5.0,7.0,8.0,0.5,10.0,7.0,7.0,8.0,313.0
+2021,46-65 J.,No migration background,6.609400556527771,6.5818914123694405,6.636909700686102,5.0,7.0,8.0,0.5,10.0,7.0,7.0,7.0,5588.0
+2021,46-65 J.,Direct migration background,6.50329095637363,6.4387267843499805,6.567855128397279,5.0,7.0,8.0,0.5,10.0,7.0,7.0,7.0,1004.0
+2021,46-65 J.,Indirect migration background,6.741696610625124,6.618551258948463,6.864841962301785,5.0,7.0,8.0,1.0,10.0,7.0,7.0,8.0,199.0
+2021,66 und älter,No migration background,6.65160847533989,6.613781126680009,6.68943582399977,5.0,7.0,8.0,0.5,10.0,7.0,7.0,7.0,3228.0
+2021,66 und älter,Direct migration background,6.2245964196010135,6.102654516743503,6.346538322458524,5.0,7.0,8.0,0.5,10.0,7.0,6.974999999999994,8.0,298.0
+2021,66 und älter,Indirect migration background,,,,,,,,,,,,

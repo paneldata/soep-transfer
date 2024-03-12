@@ -1,991 +1,568 @@
-"plh0039","year","bula_h","regtyp","n","percent","lower_confidence","upper_confidence"
-"Grosse Sorgen","2008","Schleswig-Holstein","Staedtischer Raum","55","0.269054521642153","0.211237394156959","0.326871649127347"
-"Grosse Sorgen","2008","Schleswig-Holstein","Laendlicher Raum","98","0.346013381545405","0.294055548076498","0.397971215014312"
-"Grosse Sorgen","2008","Hamburg","Staedtischer Raum","88","0.328930948166679","0.273900246649962","0.383961649683397"
-"Grosse Sorgen","2008","Hamburg","Laendlicher Raum","","","",""
-"Grosse Sorgen","2008","Niedersachsen","Staedtischer Raum","319","0.382805093494387","0.349697093751015","0.415913093237758"
-"Grosse Sorgen","2008","Niedersachsen","Laendlicher Raum","360","0.432886145728722","0.400551597750931","0.465220693706512"
-"Grosse Sorgen","2008","Bremen","Staedtischer Raum","41","0.375433128969754","0.294049995861455","0.456816262078053"
-"Grosse Sorgen","2008","Bremen","Laendlicher Raum","","","",""
-"Grosse Sorgen","2008","Nordrhein-Westfalen","Staedtischer Raum","1485","0.389122977215624","0.373637665420073","0.404608289011174"
-"Grosse Sorgen","2008","Nordrhein-Westfalen","Laendlicher Raum","","","",""
-"Grosse Sorgen","2008","Hessen","Staedtischer Raum","370","0.337879273904909","0.309735483399487","0.36602306441033"
-"Grosse Sorgen","2008","Hessen","Laendlicher Raum","86","0.35523535441199","0.292138072237863","0.418332636586117"
-"Grosse Sorgen","2008","Rheinland-Pfalz,Saarland","Staedtischer Raum","327","0.394086875595682","0.360600156054882","0.427573595136483"
-"Grosse Sorgen","2008","Rheinland-Pfalz,Saarland","Laendlicher Raum","86","0.322030251908549","0.266603393802585","0.377457110014513"
-"Grosse Sorgen","2008","Baden-Wuerttemberg","Staedtischer Raum","687","0.34121631844336","0.3210958088387","0.361336828048021"
-"Grosse Sorgen","2008","Baden-Wuerttemberg","Laendlicher Raum","73","0.331935451389486","0.268989921575205","0.394880981203767"
-"Grosse Sorgen","2008","Bayern","Staedtischer Raum","413","0.352094938842512","0.325795567879686","0.378394309805338"
-"Grosse Sorgen","2008","Bayern","Laendlicher Raum","539","0.39151292238581","0.366544920206528","0.416480924565092"
-"Grosse Sorgen","2008","Berlin","Staedtischer Raum","296","0.4275794074432","0.391417639007951","0.463741175878449"
-"Grosse Sorgen","2008","Berlin","Laendlicher Raum","","","",""
-"Grosse Sorgen","2008","Brandenburg","Staedtischer Raum","","","",""
-"Grosse Sorgen","2008","Brandenburg","Laendlicher Raum","247","0.286905600382654","0.254620254478172","0.319190946287135"
-"Grosse Sorgen","2008","Mecklenburg-Vorpommern","Staedtischer Raum","","","",""
-"Grosse Sorgen","2008","Mecklenburg-Vorpommern","Laendlicher Raum","164","0.418049910841184","0.371101369905839","0.464998451776529"
-"Grosse Sorgen","2008","Sachsen","Staedtischer Raum","219","0.283227429243737","0.250430179137346","0.316024679350127"
-"Grosse Sorgen","2008","Sachsen","Laendlicher Raum","207","0.306175049635942","0.272080152065413","0.34026994720647"
-"Grosse Sorgen","2008","Sachsen-Anhalt","Staedtischer Raum","55","0.337613197133486","0.264566481133571","0.410659913133401"
-"Grosse Sorgen","2008","Sachsen-Anhalt","Laendlicher Raum","236","0.40354209274904","0.365797037641857","0.441287147856222"
-"Grosse Sorgen","2008","Thueringen","Staedtischer Raum","78","0.346454733422393","0.28872641278085","0.404183054063937"
-"Grosse Sorgen","2008","Thueringen","Laendlicher Raum","217","0.33852076204992","0.301091206596591","0.37595031750325"
-"Einige Sorgen","2008","Schleswig-Holstein","Staedtischer Raum","96","0.477936596244166","0.412812660386056","0.543060532102275"
-"Einige Sorgen","2008","Schleswig-Holstein","Laendlicher Raum","156","0.478217481453847","0.423657069411551","0.532777893496142"
-"Einige Sorgen","2008","Hamburg","Staedtischer Raum","126","0.457196379395009","0.398846248515072","0.515546510274945"
-"Einige Sorgen","2008","Hamburg","Laendlicher Raum","","","",""
-"Einige Sorgen","2008","Niedersachsen","Staedtischer Raum","400","0.478570325113831","0.444544890816207","0.512595759411455"
-"Einige Sorgen","2008","Niedersachsen","Laendlicher Raum","439","0.465457085277206","0.432905215927633","0.498008954626779"
-"Einige Sorgen","2008","Bremen","Staedtischer Raum","71","0.463828167223606","0.380015590305951","0.547640744141261"
-"Einige Sorgen","2008","Bremen","Laendlicher Raum","","","",""
-"Einige Sorgen","2008","Nordrhein-Westfalen","Staedtischer Raum","1882","0.491488428507822","0.475610030277732","0.507366826737911"
-"Einige Sorgen","2008","Nordrhein-Westfalen","Laendlicher Raum","65","0.659177685858424","0.56764109413754","0.750714277579309"
-"Einige Sorgen","2008","Hessen","Staedtischer Raum","551","0.516894771969208","0.487160647136518","0.546628896801898"
-"Einige Sorgen","2008","Hessen","Laendlicher Raum","123","0.57929046281351","0.514203902279768","0.644377023347252"
-"Einige Sorgen","2008","Rheinland-Pfalz,Saarland","Staedtischer Raum","395","0.471843945464733","0.437634048678411","0.506053842251055"
-"Einige Sorgen","2008","Rheinland-Pfalz,Saarland","Laendlicher Raum","157","0.56478788594755","0.505976699389201","0.6235990725059"
-"Einige Sorgen","2008","Baden-Wuerttemberg","Staedtischer Raum","1135","0.515970867788789","0.494762804792755","0.537178930784823"
-"Einige Sorgen","2008","Baden-Wuerttemberg","Laendlicher Raum","120","0.54983554599294","0.483334133923348","0.616336958062532"
-"Einige Sorgen","2008","Bayern","Staedtischer Raum","675","0.500438869591504","0.472907385636805","0.527970353546203"
-"Einige Sorgen","2008","Bayern","Laendlicher Raum","736","0.469844656926515","0.44431389470895","0.49537541914408"
-"Einige Sorgen","2008","Berlin","Staedtischer Raum","322","0.440169534977536","0.403884971686164","0.476454098268908"
-"Einige Sorgen","2008","Berlin","Laendlicher Raum","","","",""
-"Einige Sorgen","2008","Brandenburg","Staedtischer Raum","41","0.618386131146194","0.502925060588434","0.733847201703953"
-"Einige Sorgen","2008","Brandenburg","Laendlicher Raum","370","0.499136964720118","0.4634481786915","0.534825750748736"
-"Einige Sorgen","2008","Mecklenburg-Vorpommern","Staedtischer Raum","31","0.455377716478858","0.33240425235142","0.578351180606297"
-"Einige Sorgen","2008","Mecklenburg-Vorpommern","Laendlicher Raum","213","0.481157372072537","0.43359904601889","0.528715698126183"
-"Einige Sorgen","2008","Sachsen","Staedtischer Raum","353","0.483198219750804","0.446823157015147","0.519573282486462"
-"Einige Sorgen","2008","Sachsen","Laendlicher Raum","356","0.484487638128209","0.447518406253625","0.521456870002794"
-"Einige Sorgen","2008","Sachsen-Anhalt","Staedtischer Raum","80","0.499733284417395","0.422499894802238","0.576966674032552"
-"Einige Sorgen","2008","Sachsen-Anhalt","Laendlicher Raum","312","0.454784492019111","0.416474446652935","0.493094537385287"
-"Einige Sorgen","2008","Thueringen","Staedtischer Raum","143","0.479278304882193","0.418671057665543","0.539885552098844"
-"Einige Sorgen","2008","Thueringen","Laendlicher Raum","302","0.489579226176709","0.450038961961325","0.529119490392093"
-"Keine Sorgen","2008","Schleswig-Holstein","Staedtischer Raum","75","0.253008882113681","0.196330235142003","0.30968752908536"
-"Keine Sorgen","2008","Schleswig-Holstein","Laendlicher Raum","68","0.175769137000748","0.134195702756896","0.217342571244601"
-"Keine Sorgen","2008","Hamburg","Staedtischer Raum","66","0.213872672438312","0.165844819711761","0.261900525164863"
-"Keine Sorgen","2008","Hamburg","Laendlicher Raum","","","",""
-"Keine Sorgen","2008","Niedersachsen","Staedtischer Raum","109","0.138624581391783","0.115087680237839","0.162161482545726"
-"Keine Sorgen","2008","Niedersachsen","Laendlicher Raum","103","0.101656768994073","0.0819355333125699","0.121378004675575"
-"Keine Sorgen","2008","Bremen","Staedtischer Raum","","","",""
-"Keine Sorgen","2008","Bremen","Laendlicher Raum","","","",""
-"Keine Sorgen","2008","Nordrhein-Westfalen","Staedtischer Raum","441","0.119388594276554","0.109090112766611","0.129687075786498"
-"Keine Sorgen","2008","Nordrhein-Westfalen","Laendlicher Raum","","","",""
-"Keine Sorgen","2008","Hessen","Staedtischer Raum","164","0.145225954125883","0.124261623292034","0.166190284959732"
-"Keine Sorgen","2008","Hessen","Laendlicher Raum","","","",""
-"Keine Sorgen","2008","Rheinland-Pfalz,Saarland","Staedtischer Raum","96","0.134069178939584","0.110719682822569","0.1574186750566"
-"Keine Sorgen","2008","Rheinland-Pfalz,Saarland","Laendlicher Raum","30","0.113181862143901","0.075600504208746","0.150763220079056"
-"Keine Sorgen","2008","Baden-Wuerttemberg","Staedtischer Raum","311","0.142812813767851","0.127964604273306","0.157661023262396"
-"Keine Sorgen","2008","Baden-Wuerttemberg","Laendlicher Raum","","","",""
-"Keine Sorgen","2008","Bayern","Staedtischer Raum","179","0.147466191565984","0.127942505260936","0.166989877871032"
-"Keine Sorgen","2008","Bayern","Laendlicher Raum","193","0.138642420687675","0.120964756920785","0.156320084454565"
-"Keine Sorgen","2008","Berlin","Staedtischer Raum","101","0.132251057579264","0.107489368322267","0.157012746836261"
-"Keine Sorgen","2008","Berlin","Laendlicher Raum","","","",""
-"Keine Sorgen","2008","Brandenburg","Staedtischer Raum","","","",""
-"Keine Sorgen","2008","Brandenburg","Laendlicher Raum","137","0.213957434897228","0.184685654287667","0.24322921550679"
-"Keine Sorgen","2008","Mecklenburg-Vorpommern","Staedtischer Raum","","","",""
-"Keine Sorgen","2008","Mecklenburg-Vorpommern","Laendlicher Raum","47","0.100792717086279","0.0721371078061634","0.129448326366395"
-"Keine Sorgen","2008","Sachsen","Staedtischer Raum","153","0.233574351005459","0.202776055738905","0.264372646272013"
-"Keine Sorgen","2008","Sachsen","Laendlicher Raum","139","0.209337312235849","0.179242025942766","0.239432598528933"
-"Keine Sorgen","2008","Sachsen-Anhalt","Staedtischer Raum","","","",""
-"Keine Sorgen","2008","Sachsen-Anhalt","Laendlicher Raum","101","0.141673415231849","0.114844926682224","0.168501903781475"
-"Keine Sorgen","2008","Thueringen","Staedtischer Raum","40","0.174266961695414","0.128246052140314","0.220287871250514"
-"Keine Sorgen","2008","Thueringen","Laendlicher Raum","95","0.171900011773371","0.142056958932097","0.201743064614644"
-"Grosse Sorgen","2009","Schleswig-Holstein","Staedtischer Raum","40","0.227417643609303","0.167816339683621","0.287018947534985"
-"Grosse Sorgen","2009","Schleswig-Holstein","Laendlicher Raum","98","0.358882048682828","0.305742145525516","0.41202195184014"
-"Grosse Sorgen","2009","Hamburg","Staedtischer Raum","68","0.287436512324847","0.232947629485378","0.341925395164315"
-"Grosse Sorgen","2009","Hamburg","Laendlicher Raum","","","",""
-"Grosse Sorgen","2009","Niedersachsen","Staedtischer Raum","284","0.375371511112435","0.341103258673169","0.409639763551701"
-"Grosse Sorgen","2009","Niedersachsen","Laendlicher Raum","319","0.39272182150028","0.360044925064428","0.425398717936131"
-"Grosse Sorgen","2009","Bremen","Staedtischer Raum","43","0.368437704694015","0.281030890490488","0.455844518897543"
-"Grosse Sorgen","2009","Bremen","Laendlicher Raum","","","",""
-"Grosse Sorgen","2009","Nordrhein-Westfalen","Staedtischer Raum","1303","0.373026876514498","0.35700059701947","0.389053156009526"
-"Grosse Sorgen","2009","Nordrhein-Westfalen","Laendlicher Raum","","","",""
-"Grosse Sorgen","2009","Hessen","Staedtischer Raum","330","0.338183903399151","0.308743931974579","0.367623874823724"
-"Grosse Sorgen","2009","Hessen","Laendlicher Raum","85","0.399290279838379","0.334277828318987","0.464302731357771"
-"Grosse Sorgen","2009","Rheinland-Pfalz,Saarland","Staedtischer Raum","271","0.386020330289805","0.351678651223395","0.420362009356216"
-"Grosse Sorgen","2009","Rheinland-Pfalz,Saarland","Laendlicher Raum","89","0.350855967579182","0.29121900639008","0.410492928768285"
-"Grosse Sorgen","2009","Baden-Wuerttemberg","Staedtischer Raum","615","0.355336344629912","0.333871990951535","0.376800698308288"
-"Grosse Sorgen","2009","Baden-Wuerttemberg","Laendlicher Raum","60","0.389601030943044","0.320077129801092","0.459124932084996"
-"Grosse Sorgen","2009","Bayern","Staedtischer Raum","326","0.305809742714639","0.279653528884776","0.331965956544501"
-"Grosse Sorgen","2009","Bayern","Laendlicher Raum","474","0.3260476411109","0.301518949354441","0.35057633286736"
-"Grosse Sorgen","2009","Berlin","Staedtischer Raum","264","0.413306511353015","0.376322305911915","0.450290716794115"
-"Grosse Sorgen","2009","Berlin","Laendlicher Raum","","","",""
-"Grosse Sorgen","2009","Brandenburg","Staedtischer Raum","","","",""
-"Grosse Sorgen","2009","Brandenburg","Laendlicher Raum","226","0.303504031599411","0.269967277394443","0.33704078580438"
-"Grosse Sorgen","2009","Mecklenburg-Vorpommern","Staedtischer Raum","","","",""
-"Grosse Sorgen","2009","Mecklenburg-Vorpommern","Laendlicher Raum","149","0.411825538164656","0.364301952347799","0.459349123981512"
-"Grosse Sorgen","2009","Sachsen","Staedtischer Raum","204","0.314007991627326","0.279477859946064","0.348538123308588"
-"Grosse Sorgen","2009","Sachsen","Laendlicher Raum","191","0.31140992817765","0.27632006800174","0.346499788353561"
-"Grosse Sorgen","2009","Sachsen-Anhalt","Staedtischer Raum","52","0.350141368118387","0.272765983423383","0.42751675281339"
-"Grosse Sorgen","2009","Sachsen-Anhalt","Laendlicher Raum","230","0.360713550595386","0.322883950986711","0.39854315020406"
-"Grosse Sorgen","2009","Thueringen","Staedtischer Raum","94","0.391433488847126","0.330442798130397","0.452424179563855"
-"Grosse Sorgen","2009","Thueringen","Laendlicher Raum","190","0.331351238593081","0.292844612649281","0.36985786453688"
-"Einige Sorgen","2009","Schleswig-Holstein","Staedtischer Raum","88","0.518418358086491","0.447371244571396","0.589465471601586"
-"Einige Sorgen","2009","Schleswig-Holstein","Laendlicher Raum","167","0.516378922793062","0.461016793419475","0.571741052166649"
-"Einige Sorgen","2009","Hamburg","Staedtischer Raum","149","0.513519225371351","0.453341419525867","0.573697031216835"
-"Einige Sorgen","2009","Hamburg","Laendlicher Raum","","","",""
-"Einige Sorgen","2009","Niedersachsen","Staedtischer Raum","382","0.478814088285527","0.443460768385721","0.514167408185332"
-"Einige Sorgen","2009","Niedersachsen","Laendlicher Raum","430","0.472083574804073","0.438679728289319","0.505487421318827"
-"Einige Sorgen","2009","Bremen","Staedtischer Raum","56","0.528553212683183","0.438101694869471","0.619004730496896"
-"Einige Sorgen","2009","Bremen","Laendlicher Raum","","","",""
-"Einige Sorgen","2009","Nordrhein-Westfalen","Staedtischer Raum","1771","0.501696329149648","0.485126970695563","0.518265687603732"
-"Einige Sorgen","2009","Nordrhein-Westfalen","Laendlicher Raum","54","0.455809047777427","0.360997270498793","0.550620825056061"
-"Einige Sorgen","2009","Hessen","Staedtischer Raum","512","0.507858072028684","0.476747455488866","0.538968688568502"
-"Einige Sorgen","2009","Hessen","Laendlicher Raum","119","0.523725182370853","0.457427189250939","0.590023175490767"
-"Einige Sorgen","2009","Rheinland-Pfalz,Saarland","Staedtischer Raum","388","0.466508811495497","0.431317699371349","0.501699923619646"
-"Einige Sorgen","2009","Rheinland-Pfalz,Saarland","Laendlicher Raum","137","0.59900318489176","0.537758900447098","0.660247469336421"
-"Einige Sorgen","2009","Baden-Wuerttemberg","Staedtischer Raum","1024","0.522353843569918","0.499952867174649","0.544754819965188"
-"Einige Sorgen","2009","Baden-Wuerttemberg","Laendlicher Raum","97","0.488381480108043","0.417117526805051","0.559645433411035"
-"Einige Sorgen","2009","Bayern","Staedtischer Raum","685","0.543808052919821","0.51553279417033","0.572083311669311"
-"Einige Sorgen","2009","Bayern","Laendlicher Raum","727","0.529235288014035","0.503116946086914","0.555353629941156"
-"Einige Sorgen","2009","Berlin","Staedtischer Raum","318","0.457192775631976","0.41977766581413","0.494607885449823"
-"Einige Sorgen","2009","Berlin","Laendlicher Raum","","","",""
-"Einige Sorgen","2009","Brandenburg","Staedtischer Raum","30","0.509690410622284","0.388161434868698","0.63121938637587"
-"Einige Sorgen","2009","Brandenburg","Laendlicher Raum","381","0.514541759300654","0.478086033873121","0.550997484728187"
-"Einige Sorgen","2009","Mecklenburg-Vorpommern","Staedtischer Raum","31","0.609879193559136","0.484346872303293","0.73541151481498"
-"Einige Sorgen","2009","Mecklenburg-Vorpommern","Laendlicher Raum","217","0.489988138796754","0.44171757128382","0.538258706309689"
-"Einige Sorgen","2009","Sachsen","Staedtischer Raum","347","0.467074299597548","0.429955435828763","0.504193163366333"
-"Einige Sorgen","2009","Sachsen","Laendlicher Raum","355","0.530802670480329","0.492986343233173","0.568618997727484"
-"Einige Sorgen","2009","Sachsen-Anhalt","Staedtischer Raum","72","0.432845655369492","0.352476606972681","0.513214703766304"
-"Einige Sorgen","2009","Sachsen-Anhalt","Laendlicher Raum","303","0.48355004234229","0.444182563530614","0.522917521153965"
-"Einige Sorgen","2009","Thueringen","Staedtischer Raum","118","0.45077464855159","0.38859681772503","0.512952479378149"
-"Einige Sorgen","2009","Thueringen","Laendlicher Raum","287","0.49204289021355","0.451144412163308","0.532941368263792"
-"Keine Sorgen","2009","Schleswig-Holstein","Staedtischer Raum","62","0.254163998304206","0.192255541425609","0.316072455182804"
-"Keine Sorgen","2009","Schleswig-Holstein","Laendlicher Raum","48","0.12473902852411","0.0881335673529975","0.161344489695222"
-"Keine Sorgen","2009","Hamburg","Staedtischer Raum","48","0.199044262303803","0.150970928143244","0.247117596464361"
-"Keine Sorgen","2009","Hamburg","Laendlicher Raum","","","",""
-"Keine Sorgen","2009","Niedersachsen","Staedtischer Raum","101","0.145814400602038","0.120838178930255","0.170790622273822"
-"Keine Sorgen","2009","Niedersachsen","Laendlicher Raum","109","0.135194603695648","0.11231527271153","0.158073934679765"
-"Keine Sorgen","2009","Bremen","Staedtischer Raum","","","",""
-"Keine Sorgen","2009","Bremen","Laendlicher Raum","","","",""
-"Keine Sorgen","2009","Nordrhein-Westfalen","Staedtischer Raum","424","0.125276794335854","0.114306738743193","0.136246849928516"
-"Keine Sorgen","2009","Nordrhein-Westfalen","Laendlicher Raum","","","",""
-"Keine Sorgen","2009","Hessen","Staedtischer Raum","150","0.153958024572165","0.131499078347736","0.176416970796593"
-"Keine Sorgen","2009","Hessen","Laendlicher Raum","","","",""
-"Keine Sorgen","2009","Rheinland-Pfalz,Saarland","Staedtischer Raum","113","0.147470858214697","0.122458930704833","0.172482785724562"
-"Keine Sorgen","2009","Rheinland-Pfalz,Saarland","Laendlicher Raum","","","",""
-"Keine Sorgen","2009","Baden-Wuerttemberg","Staedtischer Raum","271","0.12230981180017","0.107616060732258","0.137003562868082"
-"Keine Sorgen","2009","Baden-Wuerttemberg","Laendlicher Raum","32","0.122017488948913","0.0753546494080677","0.168680328489758"
-"Keine Sorgen","2009","Bayern","Staedtischer Raum","181","0.150382204365541","0.130090431763653","0.170673976967428"
-"Keine Sorgen","2009","Bayern","Laendlicher Raum","202","0.144717070875065","0.126307908037185","0.163126233712945"
-"Keine Sorgen","2009","Berlin","Staedtischer Raum","99","0.129500713015009","0.104283631359932","0.154717794670085"
-"Keine Sorgen","2009","Berlin","Laendlicher Raum","","","",""
-"Keine Sorgen","2009","Brandenburg","Staedtischer Raum","","","",""
-"Keine Sorgen","2009","Brandenburg","Laendlicher Raum","115","0.181954209099935","0.153812572365038","0.210095845834831"
-"Keine Sorgen","2009","Mecklenburg-Vorpommern","Staedtischer Raum","","","",""
-"Keine Sorgen","2009","Mecklenburg-Vorpommern","Laendlicher Raum","46","0.0981863230385896","0.0694531631167754","0.126919482960404"
-"Keine Sorgen","2009","Sachsen","Staedtischer Raum","143","0.218917708775126","0.188152688997162","0.249682728553089"
-"Keine Sorgen","2009","Sachsen","Laendlicher Raum","123","0.157787401342021","0.130163687856195","0.185411114827847"
-"Keine Sorgen","2009","Sachsen-Anhalt","Staedtischer Raum","","","",""
-"Keine Sorgen","2009","Sachsen-Anhalt","Laendlicher Raum","86","0.155736407062325","0.12717123312716","0.184301580997489"
-"Keine Sorgen","2009","Thueringen","Staedtischer Raum","34","0.157791862601284","0.112237229261711","0.203346495940858"
-"Keine Sorgen","2009","Thueringen","Laendlicher Raum","97","0.176605871193369","0.145409893831702","0.207801848555037"
-"Grosse Sorgen","2010","Schleswig-Holstein","Staedtischer Raum","56","0.321509068143944","0.252111843233056","0.390906293054832"
-"Grosse Sorgen","2010","Schleswig-Holstein","Laendlicher Raum","98","0.388741683460314","0.330380560469415","0.447102806451214"
-"Grosse Sorgen","2010","Hamburg","Staedtischer Raum","62","0.277256860485931","0.223258662469739","0.331255058502123"
-"Grosse Sorgen","2010","Hamburg","Laendlicher Raum","","","",""
-"Grosse Sorgen","2010","Niedersachsen","Staedtischer Raum","248","0.340754912305772","0.305718878044984","0.375790946566559"
-"Grosse Sorgen","2010","Niedersachsen","Laendlicher Raum","301","0.416307428286571","0.38195487574409","0.450659980829053"
-"Grosse Sorgen","2010","Bremen","Staedtischer Raum","35","0.328044533575281","0.239497735463917","0.416591331686645"
-"Grosse Sorgen","2010","Bremen","Laendlicher Raum","","","",""
-"Grosse Sorgen","2010","Nordrhein-Westfalen","Staedtischer Raum","1193","0.372956350106147","0.35638647123824","0.389526228974053"
-"Grosse Sorgen","2010","Nordrhein-Westfalen","Laendlicher Raum","32","0.246858315243973","0.160152443004955","0.333564187482992"
-"Grosse Sorgen","2010","Hessen","Staedtischer Raum","313","0.358018490783551","0.326920903840871","0.389116077726232"
-"Grosse Sorgen","2010","Hessen","Laendlicher Raum","73","0.337244776916017","0.271393425582424","0.403096128249609"
-"Grosse Sorgen","2010","Rheinland-Pfalz,Saarland","Staedtischer Raum","256","0.372348129341737","0.336913403902481","0.407782854780994"
-"Grosse Sorgen","2010","Rheinland-Pfalz,Saarland","Laendlicher Raum","84","0.366238649043178","0.304110693396966","0.428366604689389"
-"Grosse Sorgen","2010","Baden-Wuerttemberg","Staedtischer Raum","502","0.322061661112181","0.300360611340005","0.343762710884357"
-"Grosse Sorgen","2010","Baden-Wuerttemberg","Laendlicher Raum","59","0.378732948801283","0.304942567861046","0.452523329741521"
-"Grosse Sorgen","2010","Bayern","Staedtischer Raum","335","0.329294299234551","0.301734274091884","0.356854324377218"
-"Grosse Sorgen","2010","Bayern","Laendlicher Raum","405","0.329964577730004","0.304285897392524","0.355643258067484"
-"Grosse Sorgen","2010","Berlin","Staedtischer Raum","231","0.374118663956498","0.336861372781657","0.411375955131338"
-"Grosse Sorgen","2010","Berlin","Laendlicher Raum","","","",""
-"Grosse Sorgen","2010","Brandenburg","Staedtischer Raum","","","",""
-"Grosse Sorgen","2010","Brandenburg","Laendlicher Raum","225","0.330980944766744","0.294861170072226","0.367100719461261"
-"Grosse Sorgen","2010","Mecklenburg-Vorpommern","Staedtischer Raum","","","",""
-"Grosse Sorgen","2010","Mecklenburg-Vorpommern","Laendlicher Raum","139","0.409881207412859","0.359768720597405","0.459993694228314"
-"Grosse Sorgen","2010","Sachsen","Staedtischer Raum","212","0.35053184315254","0.313244156714146","0.387819529590934"
-"Grosse Sorgen","2010","Sachsen","Laendlicher Raum","195","0.332743295275943","0.295227607848917","0.370258982702968"
-"Grosse Sorgen","2010","Sachsen-Anhalt","Staedtischer Raum","58","0.392354288330342","0.31421546230644","0.470493114354243"
-"Grosse Sorgen","2010","Sachsen-Anhalt","Laendlicher Raum","216","0.42775098844608","0.386773804055776","0.468728172836384"
-"Grosse Sorgen","2010","Thueringen","Staedtischer Raum","100","0.421031140956558","0.356944814241836","0.485117467671281"
-"Grosse Sorgen","2010","Thueringen","Laendlicher Raum","176","0.323928581202668","0.283821766718103","0.364035395687232"
-"Einige Sorgen","2010","Schleswig-Holstein","Staedtischer Raum","99","0.531827492622891","0.457685916786599","0.605969068459183"
-"Einige Sorgen","2010","Schleswig-Holstein","Laendlicher Raum","135","0.506639116183805","0.446782465850808","0.566495766516801"
-"Einige Sorgen","2010","Hamburg","Staedtischer Raum","147","0.484056561224988","0.423773509423455","0.544339613026521"
-"Einige Sorgen","2010","Hamburg","Laendlicher Raum","","","",""
-"Einige Sorgen","2010","Niedersachsen","Staedtischer Raum","348","0.507195644452269","0.47023875124363","0.544152537660909"
-"Einige Sorgen","2010","Niedersachsen","Laendlicher Raum","391","0.448969904159175","0.414307704144735","0.483632104173615"
-"Einige Sorgen","2010","Bremen","Staedtischer Raum","54","0.582433832458636","0.489425434842066","0.675442230075206"
-"Einige Sorgen","2010","Bremen","Laendlicher Raum","","","",""
-"Einige Sorgen","2010","Nordrhein-Westfalen","Staedtischer Raum","1590","0.472445962307514","0.455339862957532","0.489552061657497"
-"Einige Sorgen","2010","Nordrhein-Westfalen","Laendlicher Raum","58","0.676956797098265","0.58292016452645","0.770993429670079"
-"Einige Sorgen","2010","Hessen","Staedtischer Raum","455","0.467357186474096","0.434993707500952","0.499720665447239"
-"Einige Sorgen","2010","Hessen","Laendlicher Raum","94","0.533886803648943","0.464402647377155","0.603370959920731"
-"Einige Sorgen","2010","Rheinland-Pfalz,Saarland","Staedtischer Raum","381","0.541320849671757","0.504796966310009","0.577844733033504"
-"Einige Sorgen","2010","Rheinland-Pfalz,Saarland","Laendlicher Raum","119","0.528695895755971","0.464324091581861","0.593067699930082"
-"Einige Sorgen","2010","Baden-Wuerttemberg","Staedtischer Raum","979","0.516668044846179","0.493459672322619","0.53987641736974"
-"Einige Sorgen","2010","Baden-Wuerttemberg","Laendlicher Raum","90","0.55410110297785","0.478486312454024","0.629715893501676"
-"Einige Sorgen","2010","Bayern","Staedtischer Raum","601","0.489821010326118","0.460505227614102","0.519136793038134"
-"Einige Sorgen","2010","Bayern","Laendlicher Raum","708","0.524607465654405","0.497334424271329","0.551880507037482"
-"Einige Sorgen","2010","Berlin","Staedtischer Raum","323","0.47023919535008","0.431810121994064","0.508668268706096"
-"Einige Sorgen","2010","Berlin","Laendlicher Raum","","","",""
-"Einige Sorgen","2010","Brandenburg","Staedtischer Raum","34","0.524813203802371","0.395171353166663","0.654455054438079"
-"Einige Sorgen","2010","Brandenburg","Laendlicher Raum","336","0.522473632716207","0.484133363276701","0.560813902155712"
-"Einige Sorgen","2010","Mecklenburg-Vorpommern","Staedtischer Raum","","","",""
-"Einige Sorgen","2010","Mecklenburg-Vorpommern","Laendlicher Raum","184","0.471492750838304","0.420628785662892","0.522356716013716"
-"Einige Sorgen","2010","Sachsen","Staedtischer Raum","292","0.443454881905716","0.404631114429222","0.482278649382209"
-"Einige Sorgen","2010","Sachsen","Laendlicher Raum","288","0.477653188164153","0.437883920515736","0.517422455812571"
-"Einige Sorgen","2010","Sachsen-Anhalt","Staedtischer Raum","76","0.410916244681223","0.332181279440321","0.489651209922126"
-"Einige Sorgen","2010","Sachsen-Anhalt","Laendlicher Raum","257","0.383123088318414","0.342858570940174","0.423387605696654"
-"Einige Sorgen","2010","Thueringen","Staedtischer Raum","97","0.443015442723774","0.378537425004828","0.50749346044272"
-"Einige Sorgen","2010","Thueringen","Laendlicher Raum","261","0.503799396519084","0.460949013115986","0.546649779922181"
-"Keine Sorgen","2010","Schleswig-Holstein","Staedtischer Raum","","","",""
-"Keine Sorgen","2010","Schleswig-Holstein","Laendlicher Raum","35","0.104619200355881","0.067976262948619","0.141262137763143"
-"Keine Sorgen","2010","Hamburg","Staedtischer Raum","55","0.238686578289081","0.187265418230503","0.290107738347658"
-"Keine Sorgen","2010","Hamburg","Laendlicher Raum","","","",""
-"Keine Sorgen","2010","Niedersachsen","Staedtischer Raum","107","0.152049443241959","0.125506559157559","0.178592327326359"
-"Keine Sorgen","2010","Niedersachsen","Laendlicher Raum","99","0.134722667554254","0.11092919394406","0.158516141164448"
-"Keine Sorgen","2010","Bremen","Staedtischer Raum","","","",""
-"Keine Sorgen","2010","Bremen","Laendlicher Raum","","","",""
-"Keine Sorgen","2010","Nordrhein-Westfalen","Staedtischer Raum","489","0.154597687586339","0.142210444619929","0.166984930552749"
-"Keine Sorgen","2010","Nordrhein-Westfalen","Laendlicher Raum","","","",""
-"Keine Sorgen","2010","Hessen","Staedtischer Raum","145","0.174624322742353","0.14999849127453","0.199250154210176"
-"Keine Sorgen","2010","Hessen","Laendlicher Raum","31","0.12886841943504","0.0821991904564319","0.175537648413648"
-"Keine Sorgen","2010","Rheinland-Pfalz,Saarland","Staedtischer Raum","78","0.0863310209865058","0.0657449745240349","0.106917067448977"
-"Keine Sorgen","2010","Rheinland-Pfalz,Saarland","Laendlicher Raum","","","",""
-"Keine Sorgen","2010","Baden-Wuerttemberg","Staedtischer Raum","300","0.161270294041639","0.144189646438084","0.178350941645195"
-"Keine Sorgen","2010","Baden-Wuerttemberg","Laendlicher Raum","","","",""
-"Keine Sorgen","2010","Bayern","Staedtischer Raum","181","0.180884690439331","0.158311396774906","0.203457984103756"
-"Keine Sorgen","2010","Bayern","Laendlicher Raum","175","0.145427956615591","0.12617539814395","0.164680515087231"
-"Keine Sorgen","2010","Berlin","Staedtischer Raum","94","0.155642140693422","0.127730365351156","0.183553916035689"
-"Keine Sorgen","2010","Berlin","Laendlicher Raum","","","",""
-"Keine Sorgen","2010","Brandenburg","Staedtischer Raum","","","",""
-"Keine Sorgen","2010","Brandenburg","Laendlicher Raum","91","0.14654542251705","0.119399748600821","0.173691096433278"
-"Keine Sorgen","2010","Mecklenburg-Vorpommern","Staedtischer Raum","","","",""
-"Keine Sorgen","2010","Mecklenburg-Vorpommern","Laendlicher Raum","47","0.118626041748837","0.0856789294759482","0.151573154021726"
-"Keine Sorgen","2010","Sachsen","Staedtischer Raum","125","0.206013274941744","0.174406732306017","0.237619817577472"
-"Keine Sorgen","2010","Sachsen","Laendlicher Raum","123","0.189603516559904","0.158394236760032","0.220812796359776"
-"Keine Sorgen","2010","Sachsen-Anhalt","Staedtischer Raum","","","",""
-"Keine Sorgen","2010","Sachsen-Anhalt","Laendlicher Raum","87","0.189125923235506","0.156691489784117","0.221560356686894"
-"Keine Sorgen","2010","Thueringen","Staedtischer Raum","31","0.135953416319668","0.0914652701630193","0.180441562476317"
-"Keine Sorgen","2010","Thueringen","Laendlicher Raum","86","0.172272022278249","0.139909047113369","0.204634997443129"
-"Grosse Sorgen","2011","Schleswig-Holstein","Staedtischer Raum","79","0.393404754015449","0.326533346628048","0.460276161402851"
-"Grosse Sorgen","2011","Schleswig-Holstein","Laendlicher Raum","145","0.34455209151431","0.299894016508462","0.389210166520158"
-"Grosse Sorgen","2011","Hamburg","Staedtischer Raum","81","0.307711250522968","0.255828066110315","0.359594434935621"
-"Grosse Sorgen","2011","Hamburg","Laendlicher Raum","","","",""
-"Grosse Sorgen","2011","Niedersachsen","Staedtischer Raum","296","0.34102223051522","0.309228178310696","0.372816282719744"
-"Grosse Sorgen","2011","Niedersachsen","Laendlicher Raum","372","0.392540358292126","0.362689803596341","0.422390912987912"
-"Grosse Sorgen","2011","Bremen","Staedtischer Raum","36","0.313634913510319","0.231304941331314","0.395964885689325"
-"Grosse Sorgen","2011","Bremen","Laendlicher Raum","","","",""
-"Grosse Sorgen","2011","Nordrhein-Westfalen","Staedtischer Raum","1480","0.380170873801717","0.365046044689386","0.395295702914047"
-"Grosse Sorgen","2011","Nordrhein-Westfalen","Laendlicher Raum","42","0.305939895891565","0.226727524927512","0.385152266855619"
-"Grosse Sorgen","2011","Hessen","Staedtischer Raum","384","0.321289016915248","0.294074090338935","0.348503943491561"
-"Grosse Sorgen","2011","Hessen","Laendlicher Raum","97","0.345433642997129","0.286371721255067","0.404495564739191"
-"Grosse Sorgen","2011","Rheinland-Pfalz,Saarland","Staedtischer Raum","322","0.385779509438909","0.353414932730902","0.418144086146915"
-"Grosse Sorgen","2011","Rheinland-Pfalz,Saarland","Laendlicher Raum","119","0.366883459517278","0.314160294794341","0.419606624240214"
-"Grosse Sorgen","2011","Baden-Wuerttemberg","Staedtischer Raum","632","0.29630580115921","0.277353684455195","0.315257917863226"
-"Grosse Sorgen","2011","Baden-Wuerttemberg","Laendlicher Raum","71","0.304112742407894","0.246272286815788","0.361953198000001"
-"Grosse Sorgen","2011","Bayern","Staedtischer Raum","440","0.299810350171704","0.276260017737613","0.323360682605795"
-"Grosse Sorgen","2011","Bayern","Laendlicher Raum","571","0.328948582468209","0.306455291949464","0.351441872986955"
-"Grosse Sorgen","2011","Berlin","Staedtischer Raum","279","0.356987479810906","0.32321254253819","0.390762417083623"
-"Grosse Sorgen","2011","Berlin","Laendlicher Raum","","","",""
-"Grosse Sorgen","2011","Brandenburg","Staedtischer Raum","","","",""
-"Grosse Sorgen","2011","Brandenburg","Laendlicher Raum","276","0.344305117773866","0.311338887994845","0.377271347552887"
-"Grosse Sorgen","2011","Mecklenburg-Vorpommern","Staedtischer Raum","","","",""
-"Grosse Sorgen","2011","Mecklenburg-Vorpommern","Laendlicher Raum","166","0.41093499272269","0.365875787541703","0.455994197903677"
-"Grosse Sorgen","2011","Sachsen","Staedtischer Raum","216","0.284935601291162","0.25198780330542","0.317883399276904"
-"Grosse Sorgen","2011","Sachsen","Laendlicher Raum","213","0.363210868578809","0.32682237558248","0.399599361575137"
-"Grosse Sorgen","2011","Sachsen-Anhalt","Staedtischer Raum","74","0.34497804361239","0.279586177908749","0.410369909316031"
-"Grosse Sorgen","2011","Sachsen-Anhalt","Laendlicher Raum","241","0.375210526636202","0.338159475764202","0.412261577508202"
-"Grosse Sorgen","2011","Thueringen","Staedtischer Raum","80","0.33550490051568","0.278222242394387","0.392787558636973"
-"Grosse Sorgen","2011","Thueringen","Laendlicher Raum","177","0.316118662785834","0.279007472908513","0.353229852663154"
-"Einige Sorgen","2011","Schleswig-Holstein","Staedtischer Raum","96","0.508251914001955","0.439816324752941","0.576687503250968"
-"Einige Sorgen","2011","Schleswig-Holstein","Laendlicher Raum","232","0.528381741533848","0.481470959968654","0.575292523099043"
-"Einige Sorgen","2011","Hamburg","Staedtischer Raum","147","0.438685674984993","0.382904059379103","0.494467290590883"
-"Einige Sorgen","2011","Hamburg","Laendlicher Raum","","","",""
-"Einige Sorgen","2011","Niedersachsen","Staedtischer Raum","435","0.496754235815114","0.463220648970329","0.530287822659899"
-"Einige Sorgen","2011","Niedersachsen","Laendlicher Raum","529","0.490933768873669","0.460373995358168","0.521493542389171"
-"Einige Sorgen","2011","Bremen","Staedtischer Raum","57","0.518516853300127","0.42985431526624","0.607179391334014"
-"Einige Sorgen","2011","Bremen","Laendlicher Raum","","","",""
-"Einige Sorgen","2011","Nordrhein-Westfalen","Staedtischer Raum","1937","0.483522447310844","0.467952070899155","0.499092823722533"
-"Einige Sorgen","2011","Nordrhein-Westfalen","Laendlicher Raum","74","0.612818754405726","0.52908518686823","0.696552321943222"
-"Einige Sorgen","2011","Hessen","Staedtischer Raum","555","0.485339254080506","0.456211968072156","0.514466540088855"
-"Einige Sorgen","2011","Hessen","Laendlicher Raum","121","0.557104780522347","0.49540731039714","0.618802250647553"
-"Einige Sorgen","2011","Rheinland-Pfalz,Saarland","Staedtischer Raum","421","0.47319121484376","0.439995422158148","0.506387007529373"
-"Einige Sorgen","2011","Rheinland-Pfalz,Saarland","Laendlicher Raum","163","0.501907366420507","0.447210503423582","0.556604229417431"
-"Einige Sorgen","2011","Baden-Wuerttemberg","Staedtischer Raum","1222","0.547647520715827","0.526989690203317","0.568305351228337"
-"Einige Sorgen","2011","Baden-Wuerttemberg","Laendlicher Raum","139","0.577181335308678","0.515068955598508","0.639293715018848"
-"Einige Sorgen","2011","Bayern","Staedtischer Raum","785","0.535497990103656","0.509862678009205","0.561133302198107"
-"Einige Sorgen","2011","Bayern","Laendlicher Raum","844","0.5175137282276","0.493590790942478","0.541436665512721"
-"Einige Sorgen","2011","Berlin","Staedtischer Raum","362","0.46588135930506","0.430716014626854","0.501046703983266"
-"Einige Sorgen","2011","Berlin","Laendlicher Raum","","","",""
-"Einige Sorgen","2011","Brandenburg","Staedtischer Raum","35","0.520191841213061","0.402312112389228","0.638071570036894"
-"Einige Sorgen","2011","Brandenburg","Laendlicher Raum","405","0.509366513631645","0.474681614677602","0.544051412585689"
-"Einige Sorgen","2011","Mecklenburg-Vorpommern","Staedtischer Raum","","","",""
-"Einige Sorgen","2011","Mecklenburg-Vorpommern","Laendlicher Raum","219","0.454840313779362","0.409235919297794","0.50044470826093"
-"Einige Sorgen","2011","Sachsen","Staedtischer Raum","370","0.502650561931671","0.466154638174579","0.539146485688763"
-"Einige Sorgen","2011","Sachsen","Laendlicher Raum","317","0.458106326848419","0.420407571137925","0.495805082558914"
-"Einige Sorgen","2011","Sachsen-Anhalt","Staedtischer Raum","100","0.524830900641184","0.456134518487041","0.593527282795327"
-"Einige Sorgen","2011","Sachsen-Anhalt","Laendlicher Raum","307","0.447862128898233","0.409808847767035","0.485915410029431"
-"Einige Sorgen","2011","Thueringen","Staedtischer Raum","129","0.431410680416615","0.37132477185901","0.491496588974219"
-"Einige Sorgen","2011","Thueringen","Laendlicher Raum","280","0.433736657407111","0.394180716157623","0.473292598656598"
-"Keine Sorgen","2011","Schleswig-Holstein","Staedtischer Raum","30","0.098343331982596","0.0575805121696485","0.139106151795543"
-"Keine Sorgen","2011","Schleswig-Holstein","Laendlicher Raum","58","0.127066166951841","0.0957687071527432","0.158363626750939"
-"Keine Sorgen","2011","Hamburg","Staedtischer Raum","76","0.253603074492039","0.204695798177897","0.30251035080618"
-"Keine Sorgen","2011","Hamburg","Laendlicher Raum","","","",""
-"Keine Sorgen","2011","Niedersachsen","Staedtischer Raum","123","0.162223533669666","0.137498313780033","0.1869487535593"
-"Keine Sorgen","2011","Niedersachsen","Laendlicher Raum","127","0.116525872834204","0.0969121680683801","0.136139577600028"
-"Keine Sorgen","2011","Bremen","Staedtischer Raum","","","",""
-"Keine Sorgen","2011","Bremen","Laendlicher Raum","","","",""
-"Keine Sorgen","2011","Nordrhein-Westfalen","Staedtischer Raum","540","0.136306678887439","0.125616046039558","0.14699731173532"
-"Keine Sorgen","2011","Nordrhein-Westfalen","Laendlicher Raum","","","",""
-"Keine Sorgen","2011","Hessen","Staedtischer Raum","192","0.193371729004247","0.170354661129989","0.216388796878504"
-"Keine Sorgen","2011","Hessen","Laendlicher Raum","31","0.0974615764805239","0.060623411928335","0.134299741032713"
-"Keine Sorgen","2011","Rheinland-Pfalz,Saarland","Staedtischer Raum","126","0.141029275717331","0.117888281079158","0.164170270355504"
-"Keine Sorgen","2011","Rheinland-Pfalz,Saarland","Laendlicher Raum","39","0.131209174062216","0.0942744134267117","0.16814393469772"
-"Keine Sorgen","2011","Baden-Wuerttemberg","Staedtischer Raum","376","0.156046678124963","0.140984695684692","0.171108660565234"
-"Keine Sorgen","2011","Baden-Wuerttemberg","Laendlicher Raum","33","0.118705922283427","0.0780389749428222","0.159372869624033"
-"Keine Sorgen","2011","Bayern","Staedtischer Raum","229","0.16469165972464","0.145627173765871","0.183756145683409"
-"Keine Sorgen","2011","Bayern","Laendlicher Raum","261","0.153537689304191","0.136278420335735","0.170796958272647"
-"Keine Sorgen","2011","Berlin","Staedtischer Raum","132","0.177131160884034","0.150217601579882","0.204044720188186"
-"Keine Sorgen","2011","Berlin","Laendlicher Raum","","","",""
-"Keine Sorgen","2011","Brandenburg","Staedtischer Raum","","","",""
-"Keine Sorgen","2011","Brandenburg","Laendlicher Raum","117","0.146328368594489","0.121806343335161","0.170850393853816"
-"Keine Sorgen","2011","Mecklenburg-Vorpommern","Staedtischer Raum","","","",""
-"Keine Sorgen","2011","Mecklenburg-Vorpommern","Laendlicher Raum","73","0.134224693497948","0.103004602838322","0.165444784157574"
-"Keine Sorgen","2011","Sachsen","Staedtischer Raum","135","0.212413836777167","0.182558573919547","0.242269099634786"
-"Keine Sorgen","2011","Sachsen","Laendlicher Raum","141","0.178682804572772","0.149697112853211","0.207668496292333"
-"Keine Sorgen","2011","Sachsen-Anhalt","Staedtischer Raum","","","",""
-"Keine Sorgen","2011","Sachsen-Anhalt","Laendlicher Raum","108","0.176927344465565","0.147725334978673","0.206129353952456"
-"Keine Sorgen","2011","Thueringen","Staedtischer Raum","52","0.233084419067705","0.181791402654364","0.284377435481047"
-"Keine Sorgen","2011","Thueringen","Laendlicher Raum","146","0.250144679807055","0.215576715189103","0.284712644425008"
-"Grosse Sorgen","2012","Schleswig-Holstein","Staedtischer Raum","62","0.295962570737009","0.230537596926038","0.361387544547979"
-"Grosse Sorgen","2012","Schleswig-Holstein","Laendlicher Raum","148","0.344004602571353","0.300307495348091","0.387701709794616"
-"Grosse Sorgen","2012","Hamburg","Staedtischer Raum","71","0.186846152862842","0.144854542038798","0.228837763686887"
-"Grosse Sorgen","2012","Hamburg","Laendlicher Raum","","","",""
-"Grosse Sorgen","2012","Niedersachsen","Staedtischer Raum","231","0.273517512929808","0.242234690190172","0.304800335669444"
-"Grosse Sorgen","2012","Niedersachsen","Laendlicher Raum","358","0.337312200301798","0.30919295303429","0.365431447569306"
-"Grosse Sorgen","2012","Bremen","Staedtischer Raum","34","0.269579066556773","0.193879949552726","0.34527818356082"
-"Grosse Sorgen","2012","Bremen","Laendlicher Raum","","","",""
-"Grosse Sorgen","2012","Nordrhein-Westfalen","Staedtischer Raum","1436","0.36744068952874","0.352302188774842","0.382579190282639"
-"Grosse Sorgen","2012","Nordrhein-Westfalen","Laendlicher Raum","47","0.354684516521124","0.268363957307971","0.441005075734277"
-"Grosse Sorgen","2012","Hessen","Staedtischer Raum","296","0.235353623644744","0.210486935303462","0.260220311986026"
-"Grosse Sorgen","2012","Hessen","Laendlicher Raum","106","0.380042802459262","0.322358087870013","0.43772751704851"
-"Grosse Sorgen","2012","Rheinland-Pfalz,Saarland","Staedtischer Raum","265","0.280586703686658","0.250952687560606","0.31022071981271"
-"Grosse Sorgen","2012","Rheinland-Pfalz,Saarland","Laendlicher Raum","86","0.294962861208199","0.243530757845429","0.346394964570969"
-"Grosse Sorgen","2012","Baden-Wuerttemberg","Staedtischer Raum","611","0.284200633820257","0.265059800600898","0.303341467039616"
-"Grosse Sorgen","2012","Baden-Wuerttemberg","Laendlicher Raum","49","0.175953886839911","0.127577346934177","0.224330426745645"
-"Grosse Sorgen","2012","Bayern","Staedtischer Raum","367","0.276695242706316","0.253508401959212","0.299882083453419"
-"Grosse Sorgen","2012","Bayern","Laendlicher Raum","530","0.296721236170714","0.275139035687097","0.318303436654331"
-"Grosse Sorgen","2012","Berlin","Staedtischer Raum","243","0.299235750431497","0.267680870043291","0.330790630819703"
-"Grosse Sorgen","2012","Berlin","Laendlicher Raum","","","",""
-"Grosse Sorgen","2012","Brandenburg","Staedtischer Raum","","","",""
-"Grosse Sorgen","2012","Brandenburg","Laendlicher Raum","231","0.29639324873192","0.264508416605539","0.328278080858301"
-"Grosse Sorgen","2012","Mecklenburg-Vorpommern","Staedtischer Raum","","","",""
-"Grosse Sorgen","2012","Mecklenburg-Vorpommern","Laendlicher Raum","173","0.378758548601859","0.3347165957816","0.422800501422119"
-"Grosse Sorgen","2012","Sachsen","Staedtischer Raum","209","0.274191018285917","0.24169601469943","0.306686021872404"
-"Grosse Sorgen","2012","Sachsen","Laendlicher Raum","205","0.311107664040744","0.277150609147606","0.345064718933882"
-"Grosse Sorgen","2012","Sachsen-Anhalt","Staedtischer Raum","69","0.374665302410916","0.304726662805289","0.444603942016544"
-"Grosse Sorgen","2012","Sachsen-Anhalt","Laendlicher Raum","223","0.363535468590056","0.326122538158932","0.400948399021179"
-"Grosse Sorgen","2012","Thueringen","Staedtischer Raum","77","0.353832985199929","0.293589240615402","0.414076729784456"
-"Grosse Sorgen","2012","Thueringen","Laendlicher Raum","173","0.311684530872834","0.275137096223359","0.348231965522309"
-"Einige Sorgen","2012","Schleswig-Holstein","Staedtischer Raum","93","0.556518628785989","0.485314556603037","0.627722700968941"
-"Einige Sorgen","2012","Schleswig-Holstein","Laendlicher Raum","237","0.510851971865974","0.464869972068301","0.556833971663647"
-"Einige Sorgen","2012","Hamburg","Staedtischer Raum","183","0.591692438536398","0.538741237507586","0.64464363956521"
-"Einige Sorgen","2012","Hamburg","Laendlicher Raum","","","",""
-"Einige Sorgen","2012","Niedersachsen","Staedtischer Raum","424","0.537942037824441","0.502954227715735","0.572929847933147"
-"Einige Sorgen","2012","Niedersachsen","Laendlicher Raum","549","0.504200374664723","0.474464011125646","0.533936738203801"
-"Einige Sorgen","2012","Bremen","Staedtischer Raum","71","0.554189821534954","0.469395769778955","0.638983873290952"
-"Einige Sorgen","2012","Bremen","Laendlicher Raum","","","",""
-"Einige Sorgen","2012","Nordrhein-Westfalen","Staedtischer Raum","1892","0.481566921639323","0.465877270296071","0.497256572982575"
-"Einige Sorgen","2012","Nordrhein-Westfalen","Laendlicher Raum","59","0.537375844612429","0.447413594298229","0.627338094926629"
-"Einige Sorgen","2012","Hessen","Staedtischer Raum","604","0.534702589506265","0.505464522927811","0.563940656084719"
-"Einige Sorgen","2012","Hessen","Laendlicher Raum","127","0.489385067878582","0.429978323672544","0.54879181208462"
-"Einige Sorgen","2012","Rheinland-Pfalz,Saarland","Staedtischer Raum","480","0.543066468001041","0.510210009670407","0.575922926331676"
-"Einige Sorgen","2012","Rheinland-Pfalz,Saarland","Laendlicher Raum","167","0.567384196383866","0.51150702318711","0.623261369580622"
-"Einige Sorgen","2012","Baden-Wuerttemberg","Staedtischer Raum","1070","0.51460200720382","0.493392167354242","0.535811847053397"
-"Einige Sorgen","2012","Baden-Wuerttemberg","Laendlicher Raum","142","0.603994530694784","0.541860903466104","0.666128157923464"
-"Einige Sorgen","2012","Bayern","Staedtischer Raum","791","0.538110627401192","0.512271083603435","0.563950171198949"
-"Einige Sorgen","2012","Bayern","Laendlicher Raum","884","0.526300959615211","0.502711065623129","0.549890853607293"
-"Einige Sorgen","2012","Berlin","Staedtischer Raum","417","0.495624053966445","0.461171041492358","0.530077066440532"
-"Einige Sorgen","2012","Berlin","Laendlicher Raum","","","",""
-"Einige Sorgen","2012","Brandenburg","Staedtischer Raum","31","0.481928567571228","0.363165941348122","0.600691193794334"
-"Einige Sorgen","2012","Brandenburg","Laendlicher Raum","462","0.569646791069573","0.53507671519617","0.604216866942977"
-"Einige Sorgen","2012","Mecklenburg-Vorpommern","Staedtischer Raum","","","",""
-"Einige Sorgen","2012","Mecklenburg-Vorpommern","Laendlicher Raum","222","0.480632348039393","0.435269628874812","0.525995067203973"
-"Einige Sorgen","2012","Sachsen","Staedtischer Raum","360","0.455478524517401","0.419202451548303","0.4917545974865"
-"Einige Sorgen","2012","Sachsen","Laendlicher Raum","340","0.468459877980604","0.431858013265045","0.505061742696163"
-"Einige Sorgen","2012","Sachsen-Anhalt","Staedtischer Raum","85","0.43544097653517","0.363800493772699","0.507081459297641"
-"Einige Sorgen","2012","Sachsen-Anhalt","Laendlicher Raum","294","0.438088122649621","0.399498007558224","0.476678237741019"
-"Einige Sorgen","2012","Thueringen","Staedtischer Raum","118","0.443270586799646","0.38068174015502","0.505859433444271"
-"Einige Sorgen","2012","Thueringen","Laendlicher Raum","285","0.443307627431868","0.40410946156181","0.482505793301926"
-"Keine Sorgen","2012","Schleswig-Holstein","Staedtischer Raum","32","0.147518800477002","0.0966919289673961","0.198345671986609"
-"Keine Sorgen","2012","Schleswig-Holstein","Laendlicher Raum","69","0.145143425562673","0.112741898627076","0.17754495249827"
-"Keine Sorgen","2012","Hamburg","Staedtischer Raum","77","0.22146140860076","0.176728906027951","0.266193911173568"
-"Keine Sorgen","2012","Hamburg","Laendlicher Raum","","","",""
-"Keine Sorgen","2012","Niedersachsen","Staedtischer Raum","125","0.188540449245751","0.161090819139053","0.21599007935245"
-"Keine Sorgen","2012","Niedersachsen","Laendlicher Raum","179","0.158487425033478","0.136767371657307","0.18020747840965"
-"Keine Sorgen","2012","Bremen","Staedtischer Raum","","","",""
-"Keine Sorgen","2012","Bremen","Laendlicher Raum","","","",""
-"Keine Sorgen","2012","Nordrhein-Westfalen","Staedtischer Raum","568","0.150992388831936","0.139749654798979","0.162235122864893"
-"Keine Sorgen","2012","Nordrhein-Westfalen","Laendlicher Raum","","","",""
-"Keine Sorgen","2012","Hessen","Staedtischer Raum","218","0.229943786848991","0.20527775752113","0.254609816176852"
-"Keine Sorgen","2012","Hessen","Laendlicher Raum","39","0.130572129662156","0.0905310608342189","0.170613198490093"
-"Keine Sorgen","2012","Rheinland-Pfalz,Saarland","Staedtischer Raum","138","0.1763468283123","0.151209231666388","0.201484424958213"
-"Keine Sorgen","2012","Rheinland-Pfalz,Saarland","Laendlicher Raum","49","0.137652942407935","0.0987951242108181","0.176510760605052"
-"Keine Sorgen","2012","Baden-Wuerttemberg","Staedtischer Raum","452","0.201197358975924","0.184184255354874","0.218210462596973"
-"Keine Sorgen","2012","Baden-Wuerttemberg","Laendlicher Raum","47","0.220051582465305","0.167418985267901","0.272684179662708"
-"Keine Sorgen","2012","Bayern","Staedtischer Raum","272","0.185194129892492","0.165060561458598","0.205327698326387"
-"Keine Sorgen","2012","Bayern","Laendlicher Raum","307","0.176977804214075","0.158946678931145","0.195008929497005"
-"Keine Sorgen","2012","Berlin","Staedtischer Raum","149","0.205140195602058","0.177314599262589","0.232965791941526"
-"Keine Sorgen","2012","Berlin","Laendlicher Raum","","","",""
-"Keine Sorgen","2012","Brandenburg","Staedtischer Raum","","","",""
-"Keine Sorgen","2012","Brandenburg","Laendlicher Raum","95","0.133959960198506","0.110178338145818","0.157741582251195"
-"Keine Sorgen","2012","Mecklenburg-Vorpommern","Staedtischer Raum","","","",""
-"Keine Sorgen","2012","Mecklenburg-Vorpommern","Laendlicher Raum","71","0.140609103358747","0.109047633070701","0.172170573646794"
-"Keine Sorgen","2012","Sachsen","Staedtischer Raum","155","0.270330457196682","0.237979330780384","0.30268158361298"
-"Keine Sorgen","2012","Sachsen","Laendlicher Raum","169","0.220432457978652","0.19002615412716","0.250838761830143"
-"Keine Sorgen","2012","Sachsen-Anhalt","Staedtischer Raum","30","0.189893721053914","0.133222120156925","0.246565321950904"
-"Keine Sorgen","2012","Sachsen-Anhalt","Laendlicher Raum","118","0.198376408760323","0.167360001882674","0.229392815637972"
-"Keine Sorgen","2012","Thueringen","Staedtischer Raum","47","0.202896428000425","0.15222828514449","0.25356457085636"
-"Keine Sorgen","2012","Thueringen","Laendlicher Raum","159","0.245007841695298","0.211071367335871","0.278944316054726"
-"Grosse Sorgen","2013","Schleswig-Holstein","Staedtischer Raum","49","0.28962083383221","0.221031993831949","0.358209673832471"
-"Grosse Sorgen","2013","Schleswig-Holstein","Laendlicher Raum","121","0.279157834837229","0.236256732872848","0.32205893680161"
-"Grosse Sorgen","2013","Hamburg","Staedtischer Raum","88","0.292470318377963","0.241667715550743","0.343272921205184"
-"Grosse Sorgen","2013","Hamburg","Laendlicher Raum","","","",""
-"Grosse Sorgen","2013","Niedersachsen","Staedtischer Raum","232","0.323993539088756","0.290205892309606","0.357781185867907"
-"Grosse Sorgen","2013","Niedersachsen","Laendlicher Raum","315","0.321624762760004","0.293085014612685","0.350164510907323"
-"Grosse Sorgen","2013","Bremen","Staedtischer Raum","35","0.326763376198703","0.242136630328379","0.411390122069028"
-"Grosse Sorgen","2013","Bremen","Laendlicher Raum","","","",""
-"Grosse Sorgen","2013","Nordrhein-Westfalen","Staedtischer Raum","1295","0.360997916897861","0.345300010528772","0.376695823266951"
-"Grosse Sorgen","2013","Nordrhein-Westfalen","Laendlicher Raum","38","0.301781816716583","0.212259870382074","0.391303763051092"
-"Grosse Sorgen","2013","Hessen","Staedtischer Raum","296","0.293942609520562","0.266268478000118","0.321616741041007"
-"Grosse Sorgen","2013","Hessen","Laendlicher Raum","95","0.402210065519502","0.340810426854012","0.463609704184992"
-"Grosse Sorgen","2013","Rheinland-Pfalz,Saarland","Staedtischer Raum","267","0.302726327269571","0.271183834187883","0.334268820351259"
-"Grosse Sorgen","2013","Rheinland-Pfalz,Saarland","Laendlicher Raum","80","0.262711586108924","0.210789531711343","0.314633640506504"
-"Grosse Sorgen","2013","Baden-Wuerttemberg","Staedtischer Raum","535","0.281551482399224","0.261339003926203","0.301763960872245"
-"Grosse Sorgen","2013","Baden-Wuerttemberg","Laendlicher Raum","43","0.188873073655407","0.136060625905261","0.241685521405552"
-"Grosse Sorgen","2013","Bayern","Staedtischer Raum","349","0.256200618890309","0.232810198470748","0.27959103930987"
-"Grosse Sorgen","2013","Bayern","Laendlicher Raum","469","0.289083270379739","0.266673228560976","0.311493312198501"
-"Grosse Sorgen","2013","Berlin","Staedtischer Raum","227","0.285588153886846","0.253558973168258","0.317617334605434"
-"Grosse Sorgen","2013","Berlin","Laendlicher Raum","","","",""
-"Grosse Sorgen","2013","Brandenburg","Staedtischer Raum","","","",""
-"Grosse Sorgen","2013","Brandenburg","Laendlicher Raum","227","0.324959982555661","0.290533473072144","0.359386492039178"
-"Grosse Sorgen","2013","Mecklenburg-Vorpommern","Staedtischer Raum","","","",""
-"Grosse Sorgen","2013","Mecklenburg-Vorpommern","Laendlicher Raum","144","0.389961692779003","0.342979049422734","0.436944336135273"
-"Grosse Sorgen","2013","Sachsen","Staedtischer Raum","193","0.290346338547612","0.25594966592789","0.324743011167335"
-"Grosse Sorgen","2013","Sachsen","Laendlicher Raum","187","0.347404311304843","0.311050907059978","0.383757715549708"
-"Grosse Sorgen","2013","Sachsen-Anhalt","Staedtischer Raum","68","0.405472688031388","0.332935875856395","0.478009500206382"
-"Grosse Sorgen","2013","Sachsen-Anhalt","Laendlicher Raum","203","0.348632580592779","0.30985050080808","0.387414660377478"
-"Grosse Sorgen","2013","Thueringen","Staedtischer Raum","73","0.339563042769579","0.278494438636665","0.400631646902494"
-"Grosse Sorgen","2013","Thueringen","Laendlicher Raum","151","0.272201747032425","0.235565791764855","0.308837702299995"
-"Einige Sorgen","2013","Schleswig-Holstein","Staedtischer Raum","86","0.507127376790595","0.431527806647161","0.582726946934029"
-"Einige Sorgen","2013","Schleswig-Holstein","Laendlicher Raum","235","0.578376154596454","0.531149061158812","0.625603248034095"
-"Einige Sorgen","2013","Hamburg","Staedtischer Raum","138","0.459945526376341","0.404285332300435","0.515605720452247"
-"Einige Sorgen","2013","Hamburg","Laendlicher Raum","","","",""
-"Einige Sorgen","2013","Niedersachsen","Staedtischer Raum","377","0.511721860182562","0.475633680806598","0.547810039558526"
-"Einige Sorgen","2013","Niedersachsen","Laendlicher Raum","500","0.479018220087445","0.448495186993055","0.509541253181835"
-"Einige Sorgen","2013","Bremen","Staedtischer Raum","62","0.577507594974812","0.488383447099846","0.666631742849779"
-"Einige Sorgen","2013","Bremen","Laendlicher Raum","","","",""
-"Einige Sorgen","2013","Nordrhein-Westfalen","Staedtischer Raum","1735","0.482324845199132","0.465992944626654","0.498656745771611"
-"Einige Sorgen","2013","Nordrhein-Westfalen","Laendlicher Raum","54","0.592919791777267","0.49710658588263","0.688732997671904"
-"Einige Sorgen","2013","Hessen","Staedtischer Raum","544","0.478424245818664","0.448079184872453","0.508769306764875"
-"Einige Sorgen","2013","Hessen","Laendlicher Raum","107","0.418363149046032","0.356594554784122","0.480131743307941"
-"Einige Sorgen","2013","Rheinland-Pfalz,Saarland","Staedtischer Raum","432","0.568581539283006","0.534578712226246","0.602584366339765"
-"Einige Sorgen","2013","Rheinland-Pfalz,Saarland","Laendlicher Raum","148","0.55600287992102","0.497386074347027","0.614619685495013"
-"Einige Sorgen","2013","Baden-Wuerttemberg","Staedtischer Raum","974","0.523155374957758","0.500708978652853","0.545601771262663"
-"Einige Sorgen","2013","Baden-Wuerttemberg","Laendlicher Raum","128","0.649735598363402","0.585367127100738","0.714104069626065"
-"Einige Sorgen","2013","Bayern","Staedtischer Raum","708","0.518511911134947","0.491739210802578","0.545284611467316"
-"Einige Sorgen","2013","Bayern","Laendlicher Raum","812","0.506209100605164","0.48149423032889","0.530923970881439"
-"Einige Sorgen","2013","Berlin","Staedtischer Raum","380","0.504032177978939","0.468578826706383","0.539485529251496"
-"Einige Sorgen","2013","Berlin","Laendlicher Raum","","","",""
-"Einige Sorgen","2013","Brandenburg","Staedtischer Raum","39","0.568466318924169","0.450745478814528","0.68618715903381"
-"Einige Sorgen","2013","Brandenburg","Laendlicher Raum","377","0.508433147990886","0.471686179759357","0.545180116222415"
-"Einige Sorgen","2013","Mecklenburg-Vorpommern","Staedtischer Raum","","","",""
-"Einige Sorgen","2013","Mecklenburg-Vorpommern","Laendlicher Raum","196","0.45395879738605","0.405999937948546","0.501917656823553"
-"Einige Sorgen","2013","Sachsen","Staedtischer Raum","335","0.492187112163199","0.454303445181268","0.53007077914513"
-"Einige Sorgen","2013","Sachsen","Laendlicher Raum","318","0.461214244005596","0.423154593819748","0.499273894191444"
-"Einige Sorgen","2013","Sachsen-Anhalt","Staedtischer Raum","84","0.478945111090729","0.40514171153189","0.552748510649568"
-"Einige Sorgen","2013","Sachsen-Anhalt","Laendlicher Raum","271","0.432981322594834","0.392656974236787","0.473305670952881"
-"Einige Sorgen","2013","Thueringen","Staedtischer Raum","114","0.469750126247449","0.405390155102923","0.534110097391976"
-"Einige Sorgen","2013","Thueringen","Laendlicher Raum","260","0.48000414052453","0.438881689111232","0.521126591937829"
-"Keine Sorgen","2013","Schleswig-Holstein","Staedtischer Raum","33","0.203251789377195","0.142400303491192","0.264103275263198"
-"Keine Sorgen","2013","Schleswig-Holstein","Laendlicher Raum","64","0.142466010566318","0.109038445041981","0.175893576090654"
-"Keine Sorgen","2013","Hamburg","Staedtischer Raum","82","0.247584155245696","0.199382370073675","0.295785940417716"
-"Keine Sorgen","2013","Hamburg","Laendlicher Raum","","","",""
-"Keine Sorgen","2013","Niedersachsen","Staedtischer Raum","128","0.164284600728682","0.137533480220724","0.19103572123664"
-"Keine Sorgen","2013","Niedersachsen","Laendlicher Raum","214","0.199357017152551","0.174946576574735","0.223767457730366"
-"Keine Sorgen","2013","Bremen","Staedtischer Raum","","","",""
-"Keine Sorgen","2013","Bremen","Laendlicher Raum","","","",""
-"Keine Sorgen","2013","Nordrhein-Westfalen","Staedtischer Raum","566","0.156677237903006","0.144796645017611","0.168557830788402"
-"Keine Sorgen","2013","Nordrhein-Westfalen","Laendlicher Raum","","","",""
-"Keine Sorgen","2013","Hessen","Staedtischer Raum","201","0.227633144660774","0.202161775536294","0.253104513785254"
-"Keine Sorgen","2013","Hessen","Laendlicher Raum","43","0.179426785434466","0.131379666026576","0.227473904842357"
-"Keine Sorgen","2013","Rheinland-Pfalz,Saarland","Staedtischer Raum","116","0.128692133447423","0.105702549882601","0.151681717012246"
-"Keine Sorgen","2013","Rheinland-Pfalz,Saarland","Laendlicher Raum","48","0.181285533970056","0.135834752258281","0.226736315681832"
-"Keine Sorgen","2013","Baden-Wuerttemberg","Staedtischer Raum","393","0.195293142643018","0.17747734862364","0.213108936662397"
-"Keine Sorgen","2013","Baden-Wuerttemberg","Laendlicher Raum","40","0.161391327981192","0.11175191517694","0.211030740785443"
-"Keine Sorgen","2013","Bayern","Staedtischer Raum","281","0.225287469974743","0.202902380051892","0.247672559897595"
-"Keine Sorgen","2013","Bayern","Laendlicher Raum","291","0.204707629015097","0.184761793077834","0.22465346495236"
-"Keine Sorgen","2013","Berlin","Staedtischer Raum","157","0.210379668134215","0.181478695698022","0.239280640570407"
-"Keine Sorgen","2013","Berlin","Laendlicher Raum","","","",""
-"Keine Sorgen","2013","Brandenburg","Staedtischer Raum","","","",""
-"Keine Sorgen","2013","Brandenburg","Laendlicher Raum","107","0.166606869453452","0.139217331824372","0.193996407082533"
-"Keine Sorgen","2013","Mecklenburg-Vorpommern","Staedtischer Raum","","","",""
-"Keine Sorgen","2013","Mecklenburg-Vorpommern","Laendlicher Raum","74","0.156079509834947","0.12111949304877","0.191039526621123"
-"Keine Sorgen","2013","Sachsen","Staedtischer Raum","141","0.217466549289189","0.18620699946269","0.248726099115687"
-"Keine Sorgen","2013","Sachsen","Laendlicher Raum","154","0.191381444689561","0.161346478357408","0.221416411021714"
-"Keine Sorgen","2013","Sachsen-Anhalt","Staedtischer Raum","","","",""
-"Keine Sorgen","2013","Sachsen-Anhalt","Laendlicher Raum","106","0.218386096812387","0.184762611794069","0.252009581830704"
-"Keine Sorgen","2013","Thueringen","Staedtischer Raum","44","0.190686830982971","0.140027347750082","0.241346314215861"
-"Keine Sorgen","2013","Thueringen","Laendlicher Raum","156","0.247794112443045","0.212257958920601","0.283330265965488"
-"Grosse Sorgen","2014","Schleswig-Holstein","Staedtischer Raum","","","",""
-"Grosse Sorgen","2014","Schleswig-Holstein","Laendlicher Raum","","","",""
-"Grosse Sorgen","2014","Hamburg","Staedtischer Raum","","","",""
-"Grosse Sorgen","2014","Hamburg","Laendlicher Raum","","","",""
-"Grosse Sorgen","2014","Niedersachsen","Staedtischer Raum","","","",""
-"Grosse Sorgen","2014","Niedersachsen","Laendlicher Raum","","","",""
-"Grosse Sorgen","2014","Bremen","Staedtischer Raum","","","",""
-"Grosse Sorgen","2014","Bremen","Laendlicher Raum","","","",""
-"Grosse Sorgen","2014","Nordrhein-Westfalen","Staedtischer Raum","","","",""
-"Grosse Sorgen","2014","Nordrhein-Westfalen","Laendlicher Raum","","","",""
-"Grosse Sorgen","2014","Hessen","Staedtischer Raum","","","",""
-"Grosse Sorgen","2014","Hessen","Laendlicher Raum","","","",""
-"Grosse Sorgen","2014","Rheinland-Pfalz,Saarland","Staedtischer Raum","","","",""
-"Grosse Sorgen","2014","Rheinland-Pfalz,Saarland","Laendlicher Raum","","","",""
-"Grosse Sorgen","2014","Baden-Wuerttemberg","Staedtischer Raum","","","",""
-"Grosse Sorgen","2014","Baden-Wuerttemberg","Laendlicher Raum","","","",""
-"Grosse Sorgen","2014","Bayern","Staedtischer Raum","","","",""
-"Grosse Sorgen","2014","Bayern","Laendlicher Raum","","","",""
-"Grosse Sorgen","2014","Berlin","Staedtischer Raum","","","",""
-"Grosse Sorgen","2014","Berlin","Laendlicher Raum","","","",""
-"Grosse Sorgen","2014","Brandenburg","Staedtischer Raum","","","",""
-"Grosse Sorgen","2014","Brandenburg","Laendlicher Raum","","","",""
-"Grosse Sorgen","2014","Mecklenburg-Vorpommern","Staedtischer Raum","","","",""
-"Grosse Sorgen","2014","Mecklenburg-Vorpommern","Laendlicher Raum","","","",""
-"Grosse Sorgen","2014","Sachsen","Staedtischer Raum","","","",""
-"Grosse Sorgen","2014","Sachsen","Laendlicher Raum","","","",""
-"Grosse Sorgen","2014","Sachsen-Anhalt","Staedtischer Raum","","","",""
-"Grosse Sorgen","2014","Sachsen-Anhalt","Laendlicher Raum","","","",""
-"Grosse Sorgen","2014","Thueringen","Staedtischer Raum","","","",""
-"Grosse Sorgen","2014","Thueringen","Laendlicher Raum","","","",""
-"Einige Sorgen","2014","Schleswig-Holstein","Staedtischer Raum","","","",""
-"Einige Sorgen","2014","Schleswig-Holstein","Laendlicher Raum","","","",""
-"Einige Sorgen","2014","Hamburg","Staedtischer Raum","","","",""
-"Einige Sorgen","2014","Hamburg","Laendlicher Raum","","","",""
-"Einige Sorgen","2014","Niedersachsen","Staedtischer Raum","","","",""
-"Einige Sorgen","2014","Niedersachsen","Laendlicher Raum","","","",""
-"Einige Sorgen","2014","Bremen","Staedtischer Raum","","","",""
-"Einige Sorgen","2014","Bremen","Laendlicher Raum","","","",""
-"Einige Sorgen","2014","Nordrhein-Westfalen","Staedtischer Raum","","","",""
-"Einige Sorgen","2014","Nordrhein-Westfalen","Laendlicher Raum","","","",""
-"Einige Sorgen","2014","Hessen","Staedtischer Raum","","","",""
-"Einige Sorgen","2014","Hessen","Laendlicher Raum","","","",""
-"Einige Sorgen","2014","Rheinland-Pfalz,Saarland","Staedtischer Raum","","","",""
-"Einige Sorgen","2014","Rheinland-Pfalz,Saarland","Laendlicher Raum","","","",""
-"Einige Sorgen","2014","Baden-Wuerttemberg","Staedtischer Raum","","","",""
-"Einige Sorgen","2014","Baden-Wuerttemberg","Laendlicher Raum","","","",""
-"Einige Sorgen","2014","Bayern","Staedtischer Raum","","","",""
-"Einige Sorgen","2014","Bayern","Laendlicher Raum","","","",""
-"Einige Sorgen","2014","Berlin","Staedtischer Raum","","","",""
-"Einige Sorgen","2014","Berlin","Laendlicher Raum","","","",""
-"Einige Sorgen","2014","Brandenburg","Staedtischer Raum","","","",""
-"Einige Sorgen","2014","Brandenburg","Laendlicher Raum","","","",""
-"Einige Sorgen","2014","Mecklenburg-Vorpommern","Staedtischer Raum","","","",""
-"Einige Sorgen","2014","Mecklenburg-Vorpommern","Laendlicher Raum","","","",""
-"Einige Sorgen","2014","Sachsen","Staedtischer Raum","","","",""
-"Einige Sorgen","2014","Sachsen","Laendlicher Raum","","","",""
-"Einige Sorgen","2014","Sachsen-Anhalt","Staedtischer Raum","","","",""
-"Einige Sorgen","2014","Sachsen-Anhalt","Laendlicher Raum","","","",""
-"Einige Sorgen","2014","Thueringen","Staedtischer Raum","","","",""
-"Einige Sorgen","2014","Thueringen","Laendlicher Raum","","","",""
-"Keine Sorgen","2014","Schleswig-Holstein","Staedtischer Raum","","","",""
-"Keine Sorgen","2014","Schleswig-Holstein","Laendlicher Raum","","","",""
-"Keine Sorgen","2014","Hamburg","Staedtischer Raum","","","",""
-"Keine Sorgen","2014","Hamburg","Laendlicher Raum","","","",""
-"Keine Sorgen","2014","Niedersachsen","Staedtischer Raum","","","",""
-"Keine Sorgen","2014","Niedersachsen","Laendlicher Raum","","","",""
-"Keine Sorgen","2014","Bremen","Staedtischer Raum","","","",""
-"Keine Sorgen","2014","Bremen","Laendlicher Raum","","","",""
-"Keine Sorgen","2014","Nordrhein-Westfalen","Staedtischer Raum","","","",""
-"Keine Sorgen","2014","Nordrhein-Westfalen","Laendlicher Raum","","","",""
-"Keine Sorgen","2014","Hessen","Staedtischer Raum","","","",""
-"Keine Sorgen","2014","Hessen","Laendlicher Raum","","","",""
-"Keine Sorgen","2014","Rheinland-Pfalz,Saarland","Staedtischer Raum","","","",""
-"Keine Sorgen","2014","Rheinland-Pfalz,Saarland","Laendlicher Raum","","","",""
-"Keine Sorgen","2014","Baden-Wuerttemberg","Staedtischer Raum","","","",""
-"Keine Sorgen","2014","Baden-Wuerttemberg","Laendlicher Raum","","","",""
-"Keine Sorgen","2014","Bayern","Staedtischer Raum","","","",""
-"Keine Sorgen","2014","Bayern","Laendlicher Raum","","","",""
-"Keine Sorgen","2014","Berlin","Staedtischer Raum","","","",""
-"Keine Sorgen","2014","Berlin","Laendlicher Raum","","","",""
-"Keine Sorgen","2014","Brandenburg","Staedtischer Raum","","","",""
-"Keine Sorgen","2014","Brandenburg","Laendlicher Raum","","","",""
-"Keine Sorgen","2014","Mecklenburg-Vorpommern","Staedtischer Raum","","","",""
-"Keine Sorgen","2014","Mecklenburg-Vorpommern","Laendlicher Raum","","","",""
-"Keine Sorgen","2014","Sachsen","Staedtischer Raum","","","",""
-"Keine Sorgen","2014","Sachsen","Laendlicher Raum","","","",""
-"Keine Sorgen","2014","Sachsen-Anhalt","Staedtischer Raum","","","",""
-"Keine Sorgen","2014","Sachsen-Anhalt","Laendlicher Raum","","","",""
-"Keine Sorgen","2014","Thueringen","Staedtischer Raum","","","",""
-"Keine Sorgen","2014","Thueringen","Laendlicher Raum","","","",""
-"Grosse Sorgen","2015","Schleswig-Holstein","Staedtischer Raum","","","",""
-"Grosse Sorgen","2015","Schleswig-Holstein","Laendlicher Raum","","","",""
-"Grosse Sorgen","2015","Hamburg","Staedtischer Raum","","","",""
-"Grosse Sorgen","2015","Hamburg","Laendlicher Raum","","","",""
-"Grosse Sorgen","2015","Niedersachsen","Staedtischer Raum","","","",""
-"Grosse Sorgen","2015","Niedersachsen","Laendlicher Raum","","","",""
-"Grosse Sorgen","2015","Bremen","Staedtischer Raum","","","",""
-"Grosse Sorgen","2015","Bremen","Laendlicher Raum","","","",""
-"Grosse Sorgen","2015","Nordrhein-Westfalen","Staedtischer Raum","","","",""
-"Grosse Sorgen","2015","Nordrhein-Westfalen","Laendlicher Raum","","","",""
-"Grosse Sorgen","2015","Hessen","Staedtischer Raum","","","",""
-"Grosse Sorgen","2015","Hessen","Laendlicher Raum","","","",""
-"Grosse Sorgen","2015","Rheinland-Pfalz,Saarland","Staedtischer Raum","","","",""
-"Grosse Sorgen","2015","Rheinland-Pfalz,Saarland","Laendlicher Raum","","","",""
-"Grosse Sorgen","2015","Baden-Wuerttemberg","Staedtischer Raum","","","",""
-"Grosse Sorgen","2015","Baden-Wuerttemberg","Laendlicher Raum","","","",""
-"Grosse Sorgen","2015","Bayern","Staedtischer Raum","","","",""
-"Grosse Sorgen","2015","Bayern","Laendlicher Raum","","","",""
-"Grosse Sorgen","2015","Berlin","Staedtischer Raum","","","",""
-"Grosse Sorgen","2015","Berlin","Laendlicher Raum","","","",""
-"Grosse Sorgen","2015","Brandenburg","Staedtischer Raum","","","",""
-"Grosse Sorgen","2015","Brandenburg","Laendlicher Raum","","","",""
-"Grosse Sorgen","2015","Mecklenburg-Vorpommern","Staedtischer Raum","","","",""
-"Grosse Sorgen","2015","Mecklenburg-Vorpommern","Laendlicher Raum","","","",""
-"Grosse Sorgen","2015","Sachsen","Staedtischer Raum","","","",""
-"Grosse Sorgen","2015","Sachsen","Laendlicher Raum","","","",""
-"Grosse Sorgen","2015","Sachsen-Anhalt","Staedtischer Raum","","","",""
-"Grosse Sorgen","2015","Sachsen-Anhalt","Laendlicher Raum","","","",""
-"Grosse Sorgen","2015","Thueringen","Staedtischer Raum","","","",""
-"Grosse Sorgen","2015","Thueringen","Laendlicher Raum","","","",""
-"Einige Sorgen","2015","Schleswig-Holstein","Staedtischer Raum","","","",""
-"Einige Sorgen","2015","Schleswig-Holstein","Laendlicher Raum","","","",""
-"Einige Sorgen","2015","Hamburg","Staedtischer Raum","","","",""
-"Einige Sorgen","2015","Hamburg","Laendlicher Raum","","","",""
-"Einige Sorgen","2015","Niedersachsen","Staedtischer Raum","","","",""
-"Einige Sorgen","2015","Niedersachsen","Laendlicher Raum","","","",""
-"Einige Sorgen","2015","Bremen","Staedtischer Raum","","","",""
-"Einige Sorgen","2015","Bremen","Laendlicher Raum","","","",""
-"Einige Sorgen","2015","Nordrhein-Westfalen","Staedtischer Raum","","","",""
-"Einige Sorgen","2015","Nordrhein-Westfalen","Laendlicher Raum","","","",""
-"Einige Sorgen","2015","Hessen","Staedtischer Raum","","","",""
-"Einige Sorgen","2015","Hessen","Laendlicher Raum","","","",""
-"Einige Sorgen","2015","Rheinland-Pfalz,Saarland","Staedtischer Raum","","","",""
-"Einige Sorgen","2015","Rheinland-Pfalz,Saarland","Laendlicher Raum","","","",""
-"Einige Sorgen","2015","Baden-Wuerttemberg","Staedtischer Raum","","","",""
-"Einige Sorgen","2015","Baden-Wuerttemberg","Laendlicher Raum","","","",""
-"Einige Sorgen","2015","Bayern","Staedtischer Raum","","","",""
-"Einige Sorgen","2015","Bayern","Laendlicher Raum","","","",""
-"Einige Sorgen","2015","Berlin","Staedtischer Raum","","","",""
-"Einige Sorgen","2015","Berlin","Laendlicher Raum","","","",""
-"Einige Sorgen","2015","Brandenburg","Staedtischer Raum","","","",""
-"Einige Sorgen","2015","Brandenburg","Laendlicher Raum","","","",""
-"Einige Sorgen","2015","Mecklenburg-Vorpommern","Staedtischer Raum","","","",""
-"Einige Sorgen","2015","Mecklenburg-Vorpommern","Laendlicher Raum","","","",""
-"Einige Sorgen","2015","Sachsen","Staedtischer Raum","","","",""
-"Einige Sorgen","2015","Sachsen","Laendlicher Raum","","","",""
-"Einige Sorgen","2015","Sachsen-Anhalt","Staedtischer Raum","","","",""
-"Einige Sorgen","2015","Sachsen-Anhalt","Laendlicher Raum","","","",""
-"Einige Sorgen","2015","Thueringen","Staedtischer Raum","","","",""
-"Einige Sorgen","2015","Thueringen","Laendlicher Raum","","","",""
-"Keine Sorgen","2015","Schleswig-Holstein","Staedtischer Raum","","","",""
-"Keine Sorgen","2015","Schleswig-Holstein","Laendlicher Raum","","","",""
-"Keine Sorgen","2015","Hamburg","Staedtischer Raum","","","",""
-"Keine Sorgen","2015","Hamburg","Laendlicher Raum","","","",""
-"Keine Sorgen","2015","Niedersachsen","Staedtischer Raum","","","",""
-"Keine Sorgen","2015","Niedersachsen","Laendlicher Raum","","","",""
-"Keine Sorgen","2015","Bremen","Staedtischer Raum","","","",""
-"Keine Sorgen","2015","Bremen","Laendlicher Raum","","","",""
-"Keine Sorgen","2015","Nordrhein-Westfalen","Staedtischer Raum","","","",""
-"Keine Sorgen","2015","Nordrhein-Westfalen","Laendlicher Raum","","","",""
-"Keine Sorgen","2015","Hessen","Staedtischer Raum","","","",""
-"Keine Sorgen","2015","Hessen","Laendlicher Raum","","","",""
-"Keine Sorgen","2015","Rheinland-Pfalz,Saarland","Staedtischer Raum","","","",""
-"Keine Sorgen","2015","Rheinland-Pfalz,Saarland","Laendlicher Raum","","","",""
-"Keine Sorgen","2015","Baden-Wuerttemberg","Staedtischer Raum","","","",""
-"Keine Sorgen","2015","Baden-Wuerttemberg","Laendlicher Raum","","","",""
-"Keine Sorgen","2015","Bayern","Staedtischer Raum","","","",""
-"Keine Sorgen","2015","Bayern","Laendlicher Raum","","","",""
-"Keine Sorgen","2015","Berlin","Staedtischer Raum","","","",""
-"Keine Sorgen","2015","Berlin","Laendlicher Raum","","","",""
-"Keine Sorgen","2015","Brandenburg","Staedtischer Raum","","","",""
-"Keine Sorgen","2015","Brandenburg","Laendlicher Raum","","","",""
-"Keine Sorgen","2015","Mecklenburg-Vorpommern","Staedtischer Raum","","","",""
-"Keine Sorgen","2015","Mecklenburg-Vorpommern","Laendlicher Raum","","","",""
-"Keine Sorgen","2015","Sachsen","Staedtischer Raum","","","",""
-"Keine Sorgen","2015","Sachsen","Laendlicher Raum","","","",""
-"Keine Sorgen","2015","Sachsen-Anhalt","Staedtischer Raum","","","",""
-"Keine Sorgen","2015","Sachsen-Anhalt","Laendlicher Raum","","","",""
-"Keine Sorgen","2015","Thueringen","Staedtischer Raum","","","",""
-"Keine Sorgen","2015","Thueringen","Laendlicher Raum","","","",""
-"Grosse Sorgen","2016","Schleswig-Holstein","Staedtischer Raum","","","",""
-"Grosse Sorgen","2016","Schleswig-Holstein","Laendlicher Raum","","","",""
-"Grosse Sorgen","2016","Hamburg","Staedtischer Raum","","","",""
-"Grosse Sorgen","2016","Hamburg","Laendlicher Raum","","","",""
-"Grosse Sorgen","2016","Niedersachsen","Staedtischer Raum","","","",""
-"Grosse Sorgen","2016","Niedersachsen","Laendlicher Raum","","","",""
-"Grosse Sorgen","2016","Bremen","Staedtischer Raum","","","",""
-"Grosse Sorgen","2016","Bremen","Laendlicher Raum","","","",""
-"Grosse Sorgen","2016","Nordrhein-Westfalen","Staedtischer Raum","","","",""
-"Grosse Sorgen","2016","Nordrhein-Westfalen","Laendlicher Raum","","","",""
-"Grosse Sorgen","2016","Hessen","Staedtischer Raum","","","",""
-"Grosse Sorgen","2016","Hessen","Laendlicher Raum","","","",""
-"Grosse Sorgen","2016","Rheinland-Pfalz,Saarland","Staedtischer Raum","","","",""
-"Grosse Sorgen","2016","Rheinland-Pfalz,Saarland","Laendlicher Raum","","","",""
-"Grosse Sorgen","2016","Baden-Wuerttemberg","Staedtischer Raum","","","",""
-"Grosse Sorgen","2016","Baden-Wuerttemberg","Laendlicher Raum","","","",""
-"Grosse Sorgen","2016","Bayern","Staedtischer Raum","","","",""
-"Grosse Sorgen","2016","Bayern","Laendlicher Raum","","","",""
-"Grosse Sorgen","2016","Berlin","Staedtischer Raum","","","",""
-"Grosse Sorgen","2016","Berlin","Laendlicher Raum","","","",""
-"Grosse Sorgen","2016","Brandenburg","Staedtischer Raum","","","",""
-"Grosse Sorgen","2016","Brandenburg","Laendlicher Raum","","","",""
-"Grosse Sorgen","2016","Mecklenburg-Vorpommern","Staedtischer Raum","","","",""
-"Grosse Sorgen","2016","Mecklenburg-Vorpommern","Laendlicher Raum","","","",""
-"Grosse Sorgen","2016","Sachsen","Staedtischer Raum","","","",""
-"Grosse Sorgen","2016","Sachsen","Laendlicher Raum","","","",""
-"Grosse Sorgen","2016","Sachsen-Anhalt","Staedtischer Raum","","","",""
-"Grosse Sorgen","2016","Sachsen-Anhalt","Laendlicher Raum","","","",""
-"Grosse Sorgen","2016","Thueringen","Staedtischer Raum","","","",""
-"Grosse Sorgen","2016","Thueringen","Laendlicher Raum","","","",""
-"Einige Sorgen","2016","Schleswig-Holstein","Staedtischer Raum","","","",""
-"Einige Sorgen","2016","Schleswig-Holstein","Laendlicher Raum","","","",""
-"Einige Sorgen","2016","Hamburg","Staedtischer Raum","","","",""
-"Einige Sorgen","2016","Hamburg","Laendlicher Raum","","","",""
-"Einige Sorgen","2016","Niedersachsen","Staedtischer Raum","","","",""
-"Einige Sorgen","2016","Niedersachsen","Laendlicher Raum","","","",""
-"Einige Sorgen","2016","Bremen","Staedtischer Raum","","","",""
-"Einige Sorgen","2016","Bremen","Laendlicher Raum","","","",""
-"Einige Sorgen","2016","Nordrhein-Westfalen","Staedtischer Raum","","","",""
-"Einige Sorgen","2016","Nordrhein-Westfalen","Laendlicher Raum","","","",""
-"Einige Sorgen","2016","Hessen","Staedtischer Raum","","","",""
-"Einige Sorgen","2016","Hessen","Laendlicher Raum","","","",""
-"Einige Sorgen","2016","Rheinland-Pfalz,Saarland","Staedtischer Raum","","","",""
-"Einige Sorgen","2016","Rheinland-Pfalz,Saarland","Laendlicher Raum","","","",""
-"Einige Sorgen","2016","Baden-Wuerttemberg","Staedtischer Raum","","","",""
-"Einige Sorgen","2016","Baden-Wuerttemberg","Laendlicher Raum","","","",""
-"Einige Sorgen","2016","Bayern","Staedtischer Raum","","","",""
-"Einige Sorgen","2016","Bayern","Laendlicher Raum","","","",""
-"Einige Sorgen","2016","Berlin","Staedtischer Raum","","","",""
-"Einige Sorgen","2016","Berlin","Laendlicher Raum","","","",""
-"Einige Sorgen","2016","Brandenburg","Staedtischer Raum","","","",""
-"Einige Sorgen","2016","Brandenburg","Laendlicher Raum","","","",""
-"Einige Sorgen","2016","Mecklenburg-Vorpommern","Staedtischer Raum","","","",""
-"Einige Sorgen","2016","Mecklenburg-Vorpommern","Laendlicher Raum","","","",""
-"Einige Sorgen","2016","Sachsen","Staedtischer Raum","","","",""
-"Einige Sorgen","2016","Sachsen","Laendlicher Raum","","","",""
-"Einige Sorgen","2016","Sachsen-Anhalt","Staedtischer Raum","","","",""
-"Einige Sorgen","2016","Sachsen-Anhalt","Laendlicher Raum","","","",""
-"Einige Sorgen","2016","Thueringen","Staedtischer Raum","","","",""
-"Einige Sorgen","2016","Thueringen","Laendlicher Raum","","","",""
-"Keine Sorgen","2016","Schleswig-Holstein","Staedtischer Raum","","","",""
-"Keine Sorgen","2016","Schleswig-Holstein","Laendlicher Raum","","","",""
-"Keine Sorgen","2016","Hamburg","Staedtischer Raum","","","",""
-"Keine Sorgen","2016","Hamburg","Laendlicher Raum","","","",""
-"Keine Sorgen","2016","Niedersachsen","Staedtischer Raum","","","",""
-"Keine Sorgen","2016","Niedersachsen","Laendlicher Raum","","","",""
-"Keine Sorgen","2016","Bremen","Staedtischer Raum","","","",""
-"Keine Sorgen","2016","Bremen","Laendlicher Raum","","","",""
-"Keine Sorgen","2016","Nordrhein-Westfalen","Staedtischer Raum","","","",""
-"Keine Sorgen","2016","Nordrhein-Westfalen","Laendlicher Raum","","","",""
-"Keine Sorgen","2016","Hessen","Staedtischer Raum","","","",""
-"Keine Sorgen","2016","Hessen","Laendlicher Raum","","","",""
-"Keine Sorgen","2016","Rheinland-Pfalz,Saarland","Staedtischer Raum","","","",""
-"Keine Sorgen","2016","Rheinland-Pfalz,Saarland","Laendlicher Raum","","","",""
-"Keine Sorgen","2016","Baden-Wuerttemberg","Staedtischer Raum","","","",""
-"Keine Sorgen","2016","Baden-Wuerttemberg","Laendlicher Raum","","","",""
-"Keine Sorgen","2016","Bayern","Staedtischer Raum","","","",""
-"Keine Sorgen","2016","Bayern","Laendlicher Raum","","","",""
-"Keine Sorgen","2016","Berlin","Staedtischer Raum","","","",""
-"Keine Sorgen","2016","Berlin","Laendlicher Raum","","","",""
-"Keine Sorgen","2016","Brandenburg","Staedtischer Raum","","","",""
-"Keine Sorgen","2016","Brandenburg","Laendlicher Raum","","","",""
-"Keine Sorgen","2016","Mecklenburg-Vorpommern","Staedtischer Raum","","","",""
-"Keine Sorgen","2016","Mecklenburg-Vorpommern","Laendlicher Raum","","","",""
-"Keine Sorgen","2016","Sachsen","Staedtischer Raum","","","",""
-"Keine Sorgen","2016","Sachsen","Laendlicher Raum","","","",""
-"Keine Sorgen","2016","Sachsen-Anhalt","Staedtischer Raum","","","",""
-"Keine Sorgen","2016","Sachsen-Anhalt","Laendlicher Raum","","","",""
-"Keine Sorgen","2016","Thueringen","Staedtischer Raum","","","",""
-"Keine Sorgen","2016","Thueringen","Laendlicher Raum","","","",""
-"Grosse Sorgen","2017","Schleswig-Holstein","Staedtischer Raum","","","",""
-"Grosse Sorgen","2017","Schleswig-Holstein","Laendlicher Raum","","","",""
-"Grosse Sorgen","2017","Hamburg","Staedtischer Raum","","","",""
-"Grosse Sorgen","2017","Hamburg","Laendlicher Raum","","","",""
-"Grosse Sorgen","2017","Niedersachsen","Staedtischer Raum","","","",""
-"Grosse Sorgen","2017","Niedersachsen","Laendlicher Raum","","","",""
-"Grosse Sorgen","2017","Bremen","Staedtischer Raum","","","",""
-"Grosse Sorgen","2017","Bremen","Laendlicher Raum","","","",""
-"Grosse Sorgen","2017","Nordrhein-Westfalen","Staedtischer Raum","","","",""
-"Grosse Sorgen","2017","Nordrhein-Westfalen","Laendlicher Raum","","","",""
-"Grosse Sorgen","2017","Hessen","Staedtischer Raum","","","",""
-"Grosse Sorgen","2017","Hessen","Laendlicher Raum","","","",""
-"Grosse Sorgen","2017","Rheinland-Pfalz,Saarland","Staedtischer Raum","","","",""
-"Grosse Sorgen","2017","Rheinland-Pfalz,Saarland","Laendlicher Raum","","","",""
-"Grosse Sorgen","2017","Baden-Wuerttemberg","Staedtischer Raum","","","",""
-"Grosse Sorgen","2017","Baden-Wuerttemberg","Laendlicher Raum","","","",""
-"Grosse Sorgen","2017","Bayern","Staedtischer Raum","","","",""
-"Grosse Sorgen","2017","Bayern","Laendlicher Raum","","","",""
-"Grosse Sorgen","2017","Berlin","Staedtischer Raum","","","",""
-"Grosse Sorgen","2017","Berlin","Laendlicher Raum","","","",""
-"Grosse Sorgen","2017","Brandenburg","Staedtischer Raum","","","",""
-"Grosse Sorgen","2017","Brandenburg","Laendlicher Raum","","","",""
-"Grosse Sorgen","2017","Mecklenburg-Vorpommern","Staedtischer Raum","","","",""
-"Grosse Sorgen","2017","Mecklenburg-Vorpommern","Laendlicher Raum","","","",""
-"Grosse Sorgen","2017","Sachsen","Staedtischer Raum","","","",""
-"Grosse Sorgen","2017","Sachsen","Laendlicher Raum","","","",""
-"Grosse Sorgen","2017","Sachsen-Anhalt","Staedtischer Raum","","","",""
-"Grosse Sorgen","2017","Sachsen-Anhalt","Laendlicher Raum","","","",""
-"Grosse Sorgen","2017","Thueringen","Staedtischer Raum","","","",""
-"Grosse Sorgen","2017","Thueringen","Laendlicher Raum","","","",""
-"Einige Sorgen","2017","Schleswig-Holstein","Staedtischer Raum","","","",""
-"Einige Sorgen","2017","Schleswig-Holstein","Laendlicher Raum","","","",""
-"Einige Sorgen","2017","Hamburg","Staedtischer Raum","","","",""
-"Einige Sorgen","2017","Hamburg","Laendlicher Raum","","","",""
-"Einige Sorgen","2017","Niedersachsen","Staedtischer Raum","","","",""
-"Einige Sorgen","2017","Niedersachsen","Laendlicher Raum","","","",""
-"Einige Sorgen","2017","Bremen","Staedtischer Raum","","","",""
-"Einige Sorgen","2017","Bremen","Laendlicher Raum","","","",""
-"Einige Sorgen","2017","Nordrhein-Westfalen","Staedtischer Raum","","","",""
-"Einige Sorgen","2017","Nordrhein-Westfalen","Laendlicher Raum","","","",""
-"Einige Sorgen","2017","Hessen","Staedtischer Raum","","","",""
-"Einige Sorgen","2017","Hessen","Laendlicher Raum","","","",""
-"Einige Sorgen","2017","Rheinland-Pfalz,Saarland","Staedtischer Raum","","","",""
-"Einige Sorgen","2017","Rheinland-Pfalz,Saarland","Laendlicher Raum","","","",""
-"Einige Sorgen","2017","Baden-Wuerttemberg","Staedtischer Raum","","","",""
-"Einige Sorgen","2017","Baden-Wuerttemberg","Laendlicher Raum","","","",""
-"Einige Sorgen","2017","Bayern","Staedtischer Raum","","","",""
-"Einige Sorgen","2017","Bayern","Laendlicher Raum","","","",""
-"Einige Sorgen","2017","Berlin","Staedtischer Raum","","","",""
-"Einige Sorgen","2017","Berlin","Laendlicher Raum","","","",""
-"Einige Sorgen","2017","Brandenburg","Staedtischer Raum","","","",""
-"Einige Sorgen","2017","Brandenburg","Laendlicher Raum","","","",""
-"Einige Sorgen","2017","Mecklenburg-Vorpommern","Staedtischer Raum","","","",""
-"Einige Sorgen","2017","Mecklenburg-Vorpommern","Laendlicher Raum","","","",""
-"Einige Sorgen","2017","Sachsen","Staedtischer Raum","","","",""
-"Einige Sorgen","2017","Sachsen","Laendlicher Raum","","","",""
-"Einige Sorgen","2017","Sachsen-Anhalt","Staedtischer Raum","","","",""
-"Einige Sorgen","2017","Sachsen-Anhalt","Laendlicher Raum","","","",""
-"Einige Sorgen","2017","Thueringen","Staedtischer Raum","","","",""
-"Einige Sorgen","2017","Thueringen","Laendlicher Raum","","","",""
-"Keine Sorgen","2017","Schleswig-Holstein","Staedtischer Raum","","","",""
-"Keine Sorgen","2017","Schleswig-Holstein","Laendlicher Raum","","","",""
-"Keine Sorgen","2017","Hamburg","Staedtischer Raum","","","",""
-"Keine Sorgen","2017","Hamburg","Laendlicher Raum","","","",""
-"Keine Sorgen","2017","Niedersachsen","Staedtischer Raum","","","",""
-"Keine Sorgen","2017","Niedersachsen","Laendlicher Raum","","","",""
-"Keine Sorgen","2017","Bremen","Staedtischer Raum","","","",""
-"Keine Sorgen","2017","Bremen","Laendlicher Raum","","","",""
-"Keine Sorgen","2017","Nordrhein-Westfalen","Staedtischer Raum","","","",""
-"Keine Sorgen","2017","Nordrhein-Westfalen","Laendlicher Raum","","","",""
-"Keine Sorgen","2017","Hessen","Staedtischer Raum","","","",""
-"Keine Sorgen","2017","Hessen","Laendlicher Raum","","","",""
-"Keine Sorgen","2017","Rheinland-Pfalz,Saarland","Staedtischer Raum","","","",""
-"Keine Sorgen","2017","Rheinland-Pfalz,Saarland","Laendlicher Raum","","","",""
-"Keine Sorgen","2017","Baden-Wuerttemberg","Staedtischer Raum","","","",""
-"Keine Sorgen","2017","Baden-Wuerttemberg","Laendlicher Raum","","","",""
-"Keine Sorgen","2017","Bayern","Staedtischer Raum","","","",""
-"Keine Sorgen","2017","Bayern","Laendlicher Raum","","","",""
-"Keine Sorgen","2017","Berlin","Staedtischer Raum","","","",""
-"Keine Sorgen","2017","Berlin","Laendlicher Raum","","","",""
-"Keine Sorgen","2017","Brandenburg","Staedtischer Raum","","","",""
-"Keine Sorgen","2017","Brandenburg","Laendlicher Raum","","","",""
-"Keine Sorgen","2017","Mecklenburg-Vorpommern","Staedtischer Raum","","","",""
-"Keine Sorgen","2017","Mecklenburg-Vorpommern","Laendlicher Raum","","","",""
-"Keine Sorgen","2017","Sachsen","Staedtischer Raum","","","",""
-"Keine Sorgen","2017","Sachsen","Laendlicher Raum","","","",""
-"Keine Sorgen","2017","Sachsen-Anhalt","Staedtischer Raum","","","",""
-"Keine Sorgen","2017","Sachsen-Anhalt","Laendlicher Raum","","","",""
-"Keine Sorgen","2017","Thueringen","Staedtischer Raum","","","",""
-"Keine Sorgen","2017","Thueringen","Laendlicher Raum","","","",""
-"Grosse Sorgen","2018","Schleswig-Holstein","Staedtischer Raum","127","0.426536572051112","0.37226358185859","0.480809562243634"
-"Grosse Sorgen","2018","Schleswig-Holstein","Laendlicher Raum","248","0.407409638675494","0.368321347311609","0.446497930039378"
-"Grosse Sorgen","2018","Hamburg","Staedtischer Raum","188","0.41384068930996","0.369962384726689","0.457718993893231"
-"Grosse Sorgen","2018","Hamburg","Laendlicher Raum","","","",""
-"Grosse Sorgen","2018","Niedersachsen","Staedtischer Raum","355","0.332347312697646","0.303841611178857","0.360853014216436"
-"Grosse Sorgen","2018","Niedersachsen","Laendlicher Raum","588","0.431426391587268","0.406133794807664","0.456718988366871"
-"Grosse Sorgen","2018","Bremen","Staedtischer Raum","108","0.498977839370468","0.433645843072248","0.564309835668688"
-"Grosse Sorgen","2018","Bremen","Laendlicher Raum","","","",""
-"Grosse Sorgen","2018","Nordrhein-Westfalen","Staedtischer Raum","2218","0.431302183793526","0.417976298303664","0.444628069283389"
-"Grosse Sorgen","2018","Nordrhein-Westfalen","Laendlicher Raum","38","0.30891102060924","0.218801414971479","0.399020626247"
-"Grosse Sorgen","2018","Hessen","Staedtischer Raum","478","0.350223639159951","0.324823673739303","0.375623604580598"
-"Grosse Sorgen","2018","Hessen","Laendlicher Raum","150","0.467813740108763","0.414854808267868","0.520772671949658"
-"Grosse Sorgen","2018","Rheinland-Pfalz,Saarland","Staedtischer Raum","458","0.441115177953133","0.411584709476766","0.4706456464295"
-"Grosse Sorgen","2018","Rheinland-Pfalz,Saarland","Laendlicher Raum","159","0.3330320664358","0.286554321688739","0.379509811182862"
-"Grosse Sorgen","2018","Baden-Wuerttemberg","Staedtischer Raum","862","0.387293845650703","0.368036183161187","0.40655150814022"
-"Grosse Sorgen","2018","Baden-Wuerttemberg","Laendlicher Raum","100","0.346958833212281","0.294723784560827","0.399193881863735"
-"Grosse Sorgen","2018","Bayern","Staedtischer Raum","622","0.366435956505729","0.344077337887653","0.388794575123806"
-"Grosse Sorgen","2018","Bayern","Laendlicher Raum","856","0.433391574055274","0.412565845356873","0.454217302753675"
-"Grosse Sorgen","2018","Berlin","Staedtischer Raum","324","0.33043493754359","0.301164337395767","0.359705537691414"
-"Grosse Sorgen","2018","Berlin","Laendlicher Raum","","","",""
-"Grosse Sorgen","2018","Brandenburg","Staedtischer Raum","","","",""
-"Grosse Sorgen","2018","Brandenburg","Laendlicher Raum","412","0.489527970529085","0.45743463431535","0.521621306742819"
-"Grosse Sorgen","2018","Mecklenburg-Vorpommern","Staedtischer Raum","39","0.426157095784292","0.326715597697719","0.525598593870866"
-"Grosse Sorgen","2018","Mecklenburg-Vorpommern","Laendlicher Raum","226","0.48426207111646","0.44041378916055","0.52811035307237"
-"Grosse Sorgen","2018","Sachsen","Staedtischer Raum","360","0.431400191827727","0.39826053792915","0.464539845726305"
-"Grosse Sorgen","2018","Sachsen","Laendlicher Raum","335","0.489451254608974","0.453817587132977","0.52508492208497"
-"Grosse Sorgen","2018","Sachsen-Anhalt","Staedtischer Raum","75","0.368452076326484","0.299497542562763","0.437406610090205"
-"Grosse Sorgen","2018","Sachsen-Anhalt","Laendlicher Raum","351","0.490408078107207","0.453943636506815","0.526872519707599"
-"Grosse Sorgen","2018","Thueringen","Staedtischer Raum","126","0.415667586851149","0.359140092649175","0.472195081053124"
-"Grosse Sorgen","2018","Thueringen","Laendlicher Raum","295","0.443551018246376","0.405061491576327","0.482040544916426"
-"Einige Sorgen","2018","Schleswig-Holstein","Staedtischer Raum","160","0.492907338689645","0.438044401541235","0.547770275838056"
-"Einige Sorgen","2018","Schleswig-Holstein","Laendlicher Raum","289","0.477127818614767","0.43739321517766","0.516862422051875"
-"Einige Sorgen","2018","Hamburg","Staedtischer Raum","225","0.446639220739051","0.402348981530335","0.490929459947768"
-"Einige Sorgen","2018","Hamburg","Laendlicher Raum","","","",""
-"Einige Sorgen","2018","Niedersachsen","Staedtischer Raum","524","0.503681359794913","0.473424867386842","0.533937852202985"
-"Einige Sorgen","2018","Niedersachsen","Laendlicher Raum","684","0.440248456815018","0.414897562278128","0.465599351351907"
-"Einige Sorgen","2018","Bremen","Staedtischer Raum","88","0.434273939171796","0.369508724594985","0.499039153748607"
-"Einige Sorgen","2018","Bremen","Laendlicher Raum","","","",""
-"Einige Sorgen","2018","Nordrhein-Westfalen","Staedtischer Raum","2442","0.451604823182799","0.438214515164781","0.464995131200818"
-"Einige Sorgen","2018","Nordrhein-Westfalen","Laendlicher Raum","56","0.615963930917521","0.521110934925429","0.710816926909614"
-"Einige Sorgen","2018","Hessen","Staedtischer Raum","697","0.509878568849903","0.483261289107462","0.536495848592344"
-"Einige Sorgen","2018","Hessen","Laendlicher Raum","157","0.448322771173617","0.395537977331645","0.501107565015589"
-"Einige Sorgen","2018","Rheinland-Pfalz,Saarland","Staedtischer Raum","512","0.461523677619507","0.4318744436358","0.491172911603213"
-"Einige Sorgen","2018","Rheinland-Pfalz,Saarland","Laendlicher Raum","190","0.552987308357441","0.503956725943104","0.602017890771778"
-"Einige Sorgen","2018","Baden-Wuerttemberg","Staedtischer Raum","1227","0.479552731267122","0.459802885745615","0.499302576788629"
-"Einige Sorgen","2018","Baden-Wuerttemberg","Laendlicher Raum","174","0.524669432328359","0.469867798976841","0.579471065679876"
-"Einige Sorgen","2018","Bayern","Staedtischer Raum","879","0.477179419083282","0.454001851520452","0.500356986646112"
-"Einige Sorgen","2018","Bayern","Laendlicher Raum","989","0.425326704063921","0.404549347442054","0.446104060685788"
-"Einige Sorgen","2018","Berlin","Staedtischer Raum","491","0.494172477751888","0.46306013174966","0.525284823754115"
-"Einige Sorgen","2018","Berlin","Laendlicher Raum","","","",""
-"Einige Sorgen","2018","Brandenburg","Staedtischer Raum","39","0.306645883551784","0.213432068549769","0.399859698553799"
-"Einige Sorgen","2018","Brandenburg","Laendlicher Raum","427","0.428050241538902","0.396283955035357","0.459816528042447"
-"Einige Sorgen","2018","Mecklenburg-Vorpommern","Staedtischer Raum","48","0.511165518452364","0.41064656003612","0.611684476868609"
-"Einige Sorgen","2018","Mecklenburg-Vorpommern","Laendlicher Raum","220","0.4293671081766","0.385937030627026","0.472797185726173"
-"Einige Sorgen","2018","Sachsen","Staedtischer Raum","386","0.415018556801742","0.382049292978368","0.447987820625117"
-"Einige Sorgen","2018","Sachsen","Laendlicher Raum","324","0.41827529968985","0.383113017492763","0.453437581886937"
-"Einige Sorgen","2018","Sachsen-Anhalt","Staedtischer Raum","89","0.47964159259553","0.408228330376787","0.551054854814273"
-"Einige Sorgen","2018","Sachsen-Anhalt","Laendlicher Raum","285","0.382864691579737","0.347408478559716","0.418320904599759"
-"Einige Sorgen","2018","Thueringen","Staedtischer Raum","127","0.46619717954599","0.408979279036484","0.523415080055496"
-"Einige Sorgen","2018","Thueringen","Laendlicher Raum","221","0.363545399450949","0.326278681571228","0.40081211733067"
-"Keine Sorgen","2018","Schleswig-Holstein","Staedtischer Raum","32","0.0805560892592429","0.0506909491061455","0.11042122941234"
-"Keine Sorgen","2018","Schleswig-Holstein","Laendlicher Raum","70","0.115462542709739","0.0900392136643936","0.140885871755084"
-"Keine Sorgen","2018","Hamburg","Staedtischer Raum","71","0.139520089950988","0.108651687658176","0.170388492243801"
-"Keine Sorgen","2018","Hamburg","Laendlicher Raum","","","",""
-"Keine Sorgen","2018","Niedersachsen","Staedtischer Raum","170","0.16397132750744","0.141565814642054","0.186376840372827"
-"Keine Sorgen","2018","Niedersachsen","Laendlicher Raum","201","0.128325151597715","0.111245466153789","0.145404837041641"
-"Keine Sorgen","2018","Bremen","Staedtischer Raum","","","",""
-"Keine Sorgen","2018","Bremen","Laendlicher Raum","","","",""
-"Keine Sorgen","2018","Nordrhein-Westfalen","Staedtischer Raum","646","0.117092993023674","0.108441572877445","0.125744413169904"
-"Keine Sorgen","2018","Nordrhein-Westfalen","Laendlicher Raum","","","",""
-"Keine Sorgen","2018","Hessen","Staedtischer Raum","180","0.139897791990146","0.121428131821857","0.158367452158434"
-"Keine Sorgen","2018","Hessen","Laendlicher Raum","34","0.0838634887176197","0.0544438415500292","0.11328313588521"
-"Keine Sorgen","2018","Rheinland-Pfalz,Saarland","Staedtischer Raum","116","0.0973611444273603","0.0797298975849824","0.114992391269738"
-"Keine Sorgen","2018","Rheinland-Pfalz,Saarland","Laendlicher Raum","46","0.113980625206759","0.0826415143941957","0.145319736019321"
-"Keine Sorgen","2018","Baden-Wuerttemberg","Staedtischer Raum","369","0.133153423082175","0.119722544010042","0.146584302154308"
-"Keine Sorgen","2018","Baden-Wuerttemberg","Laendlicher Raum","45","0.12837173445936","0.0916643782124876","0.165079090706233"
-"Keine Sorgen","2018","Bayern","Staedtischer Raum","283","0.156384624410989","0.139529966786069","0.173239282035908"
-"Keine Sorgen","2018","Bayern","Laendlicher Raum","330","0.141281721880805","0.12664355130648","0.155919892455131"
-"Keine Sorgen","2018","Berlin","Staedtischer Raum","177","0.175392584704522","0.151726768519323","0.199058400889722"
-"Keine Sorgen","2018","Berlin","Laendlicher Raum","","","",""
-"Keine Sorgen","2018","Brandenburg","Staedtischer Raum","","","",""
-"Keine Sorgen","2018","Brandenburg","Laendlicher Raum","93","0.0824217879320131","0.0647661791603271","0.100077396703699"
-"Keine Sorgen","2018","Mecklenburg-Vorpommern","Staedtischer Raum","","","",""
-"Keine Sorgen","2018","Mecklenburg-Vorpommern","Laendlicher Raum","53","0.0863708207069402","0.061723692614462","0.111017948799418"
-"Keine Sorgen","2018","Sachsen","Staedtischer Raum","112","0.15358125137053","0.12945631451161","0.17770618822945"
-"Keine Sorgen","2018","Sachsen","Laendlicher Raum","97","0.0922734457011759","0.0716432625936816","0.11290362880867"
-"Keine Sorgen","2018","Sachsen-Anhalt","Staedtischer Raum","","","",""
-"Keine Sorgen","2018","Sachsen-Anhalt","Laendlicher Raum","86","0.126727230313056","0.102461720343545","0.150992740282567"
-"Keine Sorgen","2018","Thueringen","Staedtischer Raum","39","0.118135233602861","0.0811142985949395","0.155156168610782"
-"Keine Sorgen","2018","Thueringen","Laendlicher Raum","124","0.192903582302675","0.162333897540914","0.223473267064435"
+syear,bula_h,regtyp,plh0039,proportion,n,lower_confidence,upper_confidence
+2008,Nordrhein-Westfalen,Urban regions,2.0,0.09789336801040312,19571,0.09372990092168945,0.10205683509911678
+2008,Nordrhein-Westfalen,Urban regions,1.0,0.07724317295188557,19571,0.07350272816044234,0.0809836177433288
+2008,Baden-Wuerttemberg,Urban regions,2.0,0.05903771131339402,19571,0.055735533701788124,0.06233988892499991
+2008,Bayern,Rural regions,2.0,0.03755526657997399,19571,0.03489164277465866,0.04021889038528932
+2008,Bayern,Urban regions,2.0,0.03583875162548764,19571,0.03323439270910325,0.038443110541872036
+2008,Baden-Wuerttemberg,Urban regions,1.0,0.03573472041612484,19571,0.03313400386322333,0.03833543696902635
+2008,Hessen,Urban regions,2.0,0.028660598179453836,19571,0.026322957850638307,0.030998238508269365
+2008,Bayern,Rural regions,1.0,0.027516254876462937,19571,0.02522440904452749,0.029808100708398386
+2008,Nordrhein-Westfalen,Urban regions,3.0,0.02293888166449935,19571,0.020841407843912342,0.025036355485086356
+2008,Niedersachsen,Rural regions,2.0,0.02283485045513654,19571,0.020742026809434547,0.024927674100838532
+2008,Bayern,Urban regions,1.0,0.02200260078023407,19571,0.019947394481494553,0.024057807078973585
+2008,Niedersachsen,Urban regions,2.0,0.02080624187256177,19571,0.018806468863026973,0.022806014882096565
+2008,"Rheinland-Pfalz,Saarland",Urban regions,2.0,0.020546163849154746,19571,0.018558664833507516,0.022533662864801976
+2008,Hessen,Urban regions,1.0,0.019245773732119636,19571,0.01732092172250232,0.02117062574173695
+2008,Brandenburg,Rural regions,2.0,0.019245773732119636,19571,0.01732092172250232,0.02117062574173695
+2008,Niedersachsen,Rural regions,1.0,0.01872561768530559,19571,0.016826451935076023,0.020624783435535157
+2008,Sachsen,Rural regions,2.0,0.018517555266579975,19571,0.016628769698790975,0.020406340834368975
+2008,Sachsen,Urban regions,2.0,0.01836150845253576,19571,0.016480548578183363,0.02024246832688816
+2008,"Rheinland-Pfalz,Saarland",Urban regions,1.0,0.017009102730819247,19571,0.015197491463686154,0.018820713997952338
+2008,Berlin,Urban regions,2.0,0.016749024707412224,19571,0.014951079230888596,0.018546970183935852
+2008,Niedersachsen,Urban regions,1.0,0.01659297789336801,19571,0.01480328553923268,0.01838267024750334
+2008,Sachsen-Anhalt,Rural regions,2.0,0.01622886866059818,19571,0.014458593715834186,0.017999143605362176
+2008,Baden-Wuerttemberg,Urban regions,3.0,0.016176853055916776,19571,0.014409370642300532,0.01794433546953302
+2008,Thueringen,Rural regions,2.0,0.015708712613784134,19571,0.013966578116685486,0.017450847110882784
+2008,Berlin,Urban regions,1.0,0.015396618985695708,19571,0.013671603867763874,0.01712163410362754
+2008,Brandenburg,Rural regions,1.0,0.012847854356306893,19571,0.011270036334729802,0.014425672377883983
+2008,Sachsen-Anhalt,Rural regions,1.0,0.012275682704811443,19571,0.010732951503329811,0.013818413906293075
+2008,Sachsen,Urban regions,1.0,0.011391417425227568,19571,0.00990462399188657,0.012878210858568565
+2008,Thueringen,Rural regions,1.0,0.01128738621586476,19571,0.009807319497332,0.01276745293439752
+2008,Mecklenburg-Vorpommern,Rural regions,2.0,0.011079323797139141,19571,0.009612807414358875,0.012545840179919408
+2008,Sachsen,Rural regions,1.0,0.010767230169050715,19571,0.009321288382473817,0.012213171955627614
+2008,Bayern,Rural regions,3.0,0.00977893368010403,19571,0.00840026028783264,0.011157607072375422
+2008,Bayern,Urban regions,3.0,0.009570871261378414,19571,0.008206800178255305,0.010934942344501522
+2008,Mecklenburg-Vorpommern,Rural regions,1.0,0.008530559167750326,19571,0.007242078285515177,0.009819040049985475
+2008,Hessen,Urban regions,3.0,0.008530559167750326,19571,0.007242078285515177,0.009819040049985475
+2008,"Rheinland-Pfalz,Saarland",Rural regions,2.0,0.008166449934980493,19571,0.006905535512550182,0.009427364357410805
+2008,Schleswig-Holstein,Rural regions,2.0,0.00811443433029909,19571,0.0068575090159629665,0.009371359644635214
+2008,Sachsen,Urban regions,3.0,0.007958387516254876,19571,0.006713508779934572,0.009203266252575181
+2008,Thueringen,Urban regions,2.0,0.007438231469440833,19571,0.006234406966260717,0.008642055972620948
+2008,Sachsen,Rural regions,3.0,0.007230169050715215,19571,0.006043176279019149,0.00841716182241128
+2008,Brandenburg,Rural regions,3.0,0.0071261378413524055,19571,0.005947653785539806,0.008304621897165005
+2008,Hamburg,Urban regions,2.0,0.006553966189856957,19571,0.0054234577697941525,0.0076844746099197616
+2008,Hessen,Rural regions,2.0,0.006397919375812744,19571,0.005280862745945874,0.0075149760056796135
+2008,Baden-Wuerttemberg,Rural regions,2.0,0.006241872561768531,19571,0.005138436029274037,0.007345309094263025
+2008,Niedersachsen,Urban regions,3.0,0.005669700910273082,19571,0.004617751209770634,0.006721650610775531
+2008,Niedersachsen,Rural regions,3.0,0.005357607282184655,19571,0.004334859647691828,0.006380354916677483
+2008,Berlin,Urban regions,3.0,0.005253576072821847,19571,0.004240753740453033,0.006266398405190661
+2008,Sachsen-Anhalt,Rural regions,3.0,0.005253576072821847,19571,0.004240753740453033,0.006266398405190661
+2008,Schleswig-Holstein,Rural regions,1.0,0.005097529258777633,19571,0.0040997839805364394,0.0060952745370188265
+2008,"Rheinland-Pfalz,Saarland",Urban regions,3.0,0.0049934980494148245,19571,0.004005934698748961,0.005981061400080688
+2008,Schleswig-Holstein,Urban regions,2.0,0.0049934980494148245,19571,0.004005934698748961,0.005981061400080688
+2008,Thueringen,Rural regions,3.0,0.00494148244473342,19571,0.003959050439973038,0.005923914449493802
+2008,Hamburg,Urban regions,1.0,0.004577373211963589,19571,0.003631655595628034,0.005523090828299144
+2008,"Rheinland-Pfalz,Saarland",Rural regions,1.0,0.004473342002600781,19571,0.003538384090362952,0.0054082999148386095
+2008,Hessen,Rural regions,1.0,0.004473342002600781,19571,0.003538384090362952,0.0054082999148386095
+2008,Sachsen-Anhalt,Urban regions,2.0,0.004161248374512354,19571,0.0032593535531158816,0.005063143195908826
+2008,Thueringen,Urban regions,1.0,0.004057217165149545,19571,0.003166620869481958,0.004947813460817132
+2008,Schleswig-Holstein,Urban regions,3.0,0.0039011703511053317,19571,0.0030278004208750165,0.004774540281335647
+2008,Baden-Wuerttemberg,Rural regions,1.0,0.003797139141742523,19571,0.0029354478360726663,0.004658830447412379
+2008,Bremen,Urban regions,2.0,0.003693107932379714,19571,0.0028432582228427143,0.004542957641916714
+2008,Schleswig-Holstein,Rural regions,3.0,0.0035370611183355005,19571,0.002705294626896425,0.004368827609774576
+2008,Hamburg,Urban regions,3.0,0.003433029908972692,19571,0.002613543791301726,0.004252516026643658
+2008,Nordrhein-Westfalen,Rural regions,2.0,0.0033810143042912874,19571,0.002567738887117663,0.004194289721464912
+2008,Schleswig-Holstein,Urban regions,1.0,0.002860858257477243,19571,0.002112558480822207,0.003609158034132279
+2008,Sachsen-Anhalt,Urban regions,1.0,0.002860858257477243,19571,0.002112558480822207,0.003609158034132279
+2008,Mecklenburg-Vorpommern,Rural regions,3.0,0.0024447334200260076,19571,0.001752848602783328,0.003136618237268687
+2008,Brandenburg,Urban regions,2.0,0.0021326397919375815,19571,0.001486324062292391,0.002778955521582772
+2008,Bremen,Urban regions,1.0,0.0021326397919375815,19571,0.001486324062292391,0.002778955521582772
+2008,Thueringen,Urban regions,3.0,0.002080624187256177,19571,0.0014422223740429391,0.0027190260004694147
+2008,Mecklenburg-Vorpommern,Urban regions,2.0,0.0016124837451235371,19571,0.0010503407457497834,0.002174626744497291
+2008,"Rheinland-Pfalz,Saarland",Rural regions,3.0,0.0015604681404421327,19571,0.0010074518814464895,0.002113484399437776
+2008,Nordrhein-Westfalen,Rural regions,1.0,0.0014564369310793239,19571,0.000922144634556898,0.0019907292276017496
+2008,Sachsen-Anhalt,Urban regions,3.0,0.001352405721716515,19571,0.0008375219631559405,0.0018672894802770896
+2008,Bremen,Urban regions,3.0,0.0012483745123537061,19571,0.0007536644327795126,0.0017430845919278997
+2008,Baden-Wuerttemberg,Rural regions,3.0,0.0011443433029908973,19571,0.0006706697950429328,0.0016180168109388618
+2008,Mecklenburg-Vorpommern,Urban regions,1.0,0.0010923276983094928,19571,0.0006295326426772375,0.0015551227539417482
+2008,Brandenburg,Urban regions,1.0,0.0009362808842652795,19571,0.0005077824541394093,0.0013647793143911498
+2008,Hessen,Rural regions,3.0,0.0006241872561768531,19571,0.0002742651104392218,0.0009741094019144844
+2008,Mecklenburg-Vorpommern,Urban regions,3.0,0.0005721716514954486,19571,0.0002371379849706921,0.0009072053180202051
+2008,Nordrhein-Westfalen,Rural regions,3.0,0.0005201560468140442,19571,0.0002007056670106048,0.0008396064266174836
+2008,Brandenburg,Urban regions,3.0,0.00046814044213263977,19571,0.0001650753164051029,0.0007712055678601767
+2009,Nordrhein-Westfalen,Urban regions,2.0,0.09881709630621582,18254,0.09448797690298805,0.1031462157094436
+2009,Nordrhein-Westfalen,Urban regions,1.0,0.07270393929248968,18254,0.06893720290863008,0.07647067567634928
+2009,Baden-Wuerttemberg,Urban regions,2.0,0.05713648030353755,18254,0.05376936331098509,0.06050359729609001
+2009,Bayern,Rural regions,2.0,0.03972770896105345,18254,0.036894223378082305,0.0425611945440246
+2009,Bayern,Urban regions,2.0,0.039058140832496376,18254,0.03624765508188706,0.04186862658310569
+2009,Baden-Wuerttemberg,Urban regions,1.0,0.03431536658855038,18254,0.03167454519256769,0.036956187984533075
+2009,Hessen,Urban regions,2.0,0.028568240151768776,18254,0.026151527913723514,0.03098495238981404
+2009,Bayern,Rural regions,1.0,0.026057359669679724,18254,0.023746311795539116,0.02836840754382033
+2009,Niedersachsen,Rural regions,2.0,0.02399285793996206,18254,0.021772901067554157,0.02621281481236996
+2009,Nordrhein-Westfalen,Urban regions,3.0,0.023658073875683517,18254,0.02145328144286632,0.025862866308500713
+2009,"Rheinland-Pfalz,Saarland",Urban regions,2.0,0.021649369490012275,18254,0.01953808411574748,0.023760654864277073
+2009,Niedersachsen,Urban regions,2.0,0.021314585425733733,18254,0.019219329627097274,0.023409841224370193
+2009,Brandenburg,Rural regions,2.0,0.02125878808168731,18254,0.019166216912782363,0.023351359250592257
+2009,Sachsen,Rural regions,2.0,0.019808057136480303,18254,0.01778665112719693,0.021829463145763676
+2009,Sachsen,Urban regions,2.0,0.019361678384108915,18254,0.017362723558926325,0.021360633209291505
+2009,Bayern,Urban regions,1.0,0.01858051556745899,18254,0.016621520842870476,0.0205395102920475
+2009,Hessen,Urban regions,1.0,0.01841312353531972,18254,0.01646280677301763,0.02036344029762181
+2009,Niedersachsen,Rural regions,1.0,0.01779935275080906,18254,0.01588121734732059,0.019717488154297535
+2009,Berlin,Urban regions,2.0,0.01774355540676264,18254,0.0158283744480154,0.01965873636550988
+2009,Sachsen-Anhalt,Rural regions,2.0,0.01690659524606629,18254,0.015036332956011669,0.01877685753612091
+2009,Thueringen,Rural regions,2.0,0.016013837741323513,18254,0.01419279870465364,0.017834876777993385
+2009,Niedersachsen,Urban regions,1.0,0.015846445709184243,18254,0.01403479522490129,0.0176580961934672
+2009,"Rheinland-Pfalz,Saarland",Urban regions,1.0,0.015121080236580738,18254,0.013350727208356864,0.016891433264804613
+2009,Baden-Wuerttemberg,Urban regions,3.0,0.015121080236580738,18254,0.013350727208356864,0.016891433264804613
+2009,Berlin,Urban regions,1.0,0.014730498828255775,18254,0.01298281328035423,0.01647818437615732
+2009,Sachsen-Anhalt,Rural regions,1.0,0.01283338913067738,18254,0.011200551658003034,0.014466226603351725
+2009,Brandenburg,Rural regions,1.0,0.012610199754491687,18254,0.01099144018186636,0.014228959327117013
+2009,Mecklenburg-Vorpommern,Rural regions,2.0,0.012108023658073876,18254,0.010521420158983245,0.013694627157164506
+2009,Sachsen,Urban regions,1.0,0.011382658185470372,18254,0.009843748944098184,0.01292156742684256
+2009,Bayern,Rural regions,3.0,0.010936279433098984,18254,0.009427506155808531,0.012445052710389436
+2009,Sachsen,Rural regions,1.0,0.010657292712866867,18254,0.009167678272237408,0.012146907153496325
+2009,Thueringen,Rural regions,1.0,0.010601495368820444,18254,0.00911574366467897,0.012087247072961917
+2009,Bayern,Urban regions,3.0,0.010434103336681174,18254,0.008960003239092736,0.011908203434269612
+2009,Schleswig-Holstein,Rural regions,2.0,0.009318156455752706,18254,0.007924328569554521,0.01071198434195089
+2009,Hessen,Urban regions,3.0,0.008369601606963508,18254,0.0070479884390921175,0.009691214774834898
+2009,Mecklenburg-Vorpommern,Rural regions,1.0,0.008313804262917085,18254,0.0069965667813595015,0.00963104174447467
+2009,Hamburg,Urban regions,2.0,0.008313804262917085,18254,0.0069965667813595015,0.00963104174447467
+2009,Sachsen,Urban regions,3.0,0.007979020198638545,18254,0.006688358985176735,0.009269681412100354
+2009,"Rheinland-Pfalz,Saarland",Rural regions,2.0,0.0076442361343600045,18254,0.006380728723277484,0.008907743545442524
+2009,Sachsen,Rural regions,3.0,0.006863073317710077,18254,0.005665392944953524,0.00806075369046663
+2009,Hessen,Rural regions,2.0,0.006639883941524384,18254,0.005461706638863681,0.007818061244185086
+2009,Thueringen,Urban regions,2.0,0.00658408659747796,18254,0.00541083711388348,0.00775733608107244
+2009,Brandenburg,Rural regions,3.0,0.00641669456533869,18254,0.005258357709768237,0.007575031420909142
+2009,"Rheinland-Pfalz,Saarland",Urban regions,3.0,0.0063050998772458434,18254,0.005156815214944996,0.007453384539546691
+2009,Niedersachsen,Rural regions,3.0,0.006081910501060149,18254,0.004954005926188013,0.007209815075932286
+2009,Niedersachsen,Urban regions,3.0,0.005635531748688762,18254,0.004549563075821076,0.006721500421556448
+2009,Berlin,Urban regions,3.0,0.005523937060595916,18254,0.004448713985444058,0.006599160135747774
+2009,Schleswig-Holstein,Rural regions,1.0,0.005468139716549492,18254,0.004398330833079805,0.006537948600019179
+2009,Thueringen,Rural regions,3.0,0.005412342372503069,18254,0.004347975836698608,0.006476708908307529
+2009,Baden-Wuerttemberg,Rural regions,2.0,0.005412342372503069,18254,0.004347975836698608,0.006476708908307529
+2009,Thueringen,Urban regions,1.0,0.005244950340363799,18254,0.004197084181840627,0.0062928164988869705
+2009,"Rheinland-Pfalz,Saarland",Rural regions,1.0,0.004965963620131682,18254,0.003946204064908286,0.005985723175355077
+2009,Schleswig-Holstein,Urban regions,2.0,0.0049101662760852585,18254,0.003896123460390603,0.005924209091779914
+2009,Sachsen-Anhalt,Rural regions,3.0,0.0047985715879924114,18254,0.0037960620050051627,0.005801081170979661
+2009,Hessen,Rural regions,1.0,0.004742774243945988,18254,0.003746082308437297,0.00573946617945468
+2009,Sachsen-Anhalt,Urban regions,2.0,0.004017408771342484,18254,0.003099761170047485,0.004935056372637483
+2009,Hamburg,Urban regions,1.0,0.0037942193951567907,18254,0.002902326310022061,0.00468611248029152
+2009,Schleswig-Holstein,Urban regions,3.0,0.00345943533087825,18254,0.0026076559020489143,0.004311214759707586
+2009,Baden-Wuerttemberg,Rural regions,1.0,0.0033478406427854034,18254,0.002509865293889765,0.004185815991681042
+2009,Bremen,Urban regions,2.0,0.0031246512665997097,18254,0.002314999526495541,0.003934303006703878
+2009,Nordrhein-Westfalen,Rural regions,2.0,0.003013056578506863,18254,0.002217949852858846,0.0038081633041548804
+2009,Sachsen-Anhalt,Urban regions,1.0,0.002901461890414016,18254,0.0021211746174176734,0.003681749163410359
+2009,Schleswig-Holstein,Rural regions,3.0,0.002678272514228323,18254,0.001928512852872865,0.0034280321755837807
+2009,Hamburg,Urban regions,3.0,0.002678272514228323,18254,0.001928512852872865,0.0034280321755837807
+2009,Mecklenburg-Vorpommern,Rural regions,3.0,0.002566677826135476,18254,0.0018326632840708966,0.003300692368200055
+2009,Bremen,Urban regions,1.0,0.0023992857939962057,18254,0.0016895504792150018,0.00310902110877741
+2009,Schleswig-Holstein,Urban regions,1.0,0.0022318937618569356,18254,0.0015473068116923319,0.0029164807120215393
+2009,Thueringen,Urban regions,3.0,0.0018971096975783953,18254,0.0012658458371204492,0.0025283735580363415
+2009,Baden-Wuerttemberg,Rural regions,3.0,0.0017855150094855485,18254,0.0011730648744760297,0.002397965144495067
+2009,Mecklenburg-Vorpommern,Urban regions,2.0,0.001729717665439125,18254,0.0011268961699557895,0.0023325391609224605
+2009,Brandenburg,Urban regions,2.0,0.0016739203213927017,18254,0.001080884881862785,0.0022669557609226185
+2009,Nordrhein-Westfalen,Rural regions,1.0,0.001450730945207008,18254,0.0008985832866898017,0.0020028786037242143
+2009,Nordrhein-Westfalen,Rural regions,3.0,0.001450730945207008,18254,0.0008985832866898017,0.0020028786037242143
+2009,Brandenburg,Urban regions,1.0,0.0013391362571141614,18254,0.0008086203040944975,0.0018696522101338253
+2009,Sachsen-Anhalt,Urban regions,3.0,0.0012275415690213146,18254,0.0007195828361275429,0.0017355003019150863
+2009,"Rheinland-Pfalz,Saarland",Rural regions,3.0,0.0011159468809284678,18254,0.0006316001760257868,0.0016002935858311488
+2009,Mecklenburg-Vorpommern,Urban regions,1.0,0.0010601495368820445,18254,0.0005880535794425242,0.0015322454943215648
+2009,Bremen,Urban regions,3.0,0.001004352192835621,18254,0.0005448348970898801,0.0014638694885813618
+2009,Hessen,Rural regions,3.0,0.0007811628166499274,18254,0.00037586138671742464,0.0011864642465824302
+2009,Brandenburg,Urban regions,3.0,0.0006137707845106573,18254,0.00025447937397158943,0.0009730621950497252
+2009,Mecklenburg-Vorpommern,Urban regions,3.0,0.00044637875237138713,18254,0.00013994834841027002,0.0007528091563325042
+2010,Nordrhein-Westfalen,Urban regions,2.0,0.0960260901075009,24328,0.09232375744090429,0.09972842277409752
+2010,Nordrhein-Westfalen,Urban regions,1.0,0.07204976446430729,24328,0.06880052668894114,0.07529900223967344
+2010,Baden-Wuerttemberg,Urban regions,2.0,0.059125498248580745,24328,0.056161648905064906,0.06208934759209658
+2010,Bayern,Rural regions,2.0,0.04173209324797681,24328,0.03921915727077019,0.04424502922518343
+2010,Bayern,Urban regions,2.0,0.037323348230462614,24328,0.034941394145892625,0.0397053023150326
+2010,Baden-Wuerttemberg,Urban regions,1.0,0.030317671216330475,24328,0.02816307681084293,0.03247226562181802
+2010,Nordrhein-Westfalen,Urban regions,3.0,0.02953255224060877,24328,0.027405178253722323,0.031659926227495215
+2010,Hessen,Urban regions,2.0,0.027479164150259694,24328,0.025424910419733122,0.029533417880786266
+2010,Bayern,Rural regions,1.0,0.02409711317792004,24328,0.022170082281414538,0.02602414407442554
+2010,Niedersachsen,Rural regions,2.0,0.023613963039014373,24328,0.021705876413629324,0.025522049664399422
+2010,"Rheinland-Pfalz,Saarland",Urban regions,2.0,0.023010025365382294,24328,0.02112591443046074,0.02489413630030385
+2010,Niedersachsen,Urban regions,2.0,0.021017031042396425,24328,0.019214527533065486,0.022819534551727364
+2010,Bayern,Urban regions,1.0,0.02059427467085397,24328,0.01880960666761673,0.02237894267409121
+2010,Brandenburg,Rural regions,2.0,0.020292305834037926,24328,0.01852049714661871,0.02206411452145714
+2010,Berlin,Urban regions,2.0,0.019507186858316223,24328,0.01776929640641954,0.021245077310212905
+2010,Hessen,Urban regions,1.0,0.01890324918468414,24328,0.017191945773088472,0.020614552596279808
+2010,Niedersachsen,Rural regions,1.0,0.018178523976325644,24328,0.016499725987759416,0.019857321964891872
+2010,Baden-Wuerttemberg,Urban regions,3.0,0.018118130208962434,24328,0.016442071694978706,0.019794188722946162
+2010,Sachsen,Urban regions,2.0,0.01763498007005677,24328,0.015981013226233166,0.019288946913880375
+2010,Sachsen,Rural regions,2.0,0.017393405000603938,24328,0.015750603806416928,0.019036206194790947
+2010,Thueringen,Rural regions,2.0,0.01576277328179732,24328,0.014197576032567487,0.01732797053102715
+2010,Sachsen-Anhalt,Rural regions,2.0,0.015521198212344486,24328,0.013967850525945204,0.017074545898743767
+2010,"Rheinland-Pfalz,Saarland",Urban regions,1.0,0.015460804444981277,24328,0.01391043422902675,0.017011174660935803
+2010,Niedersachsen,Urban regions,1.0,0.014977654306075613,24328,0.013451326519839057,0.01650398209231217
+2010,Berlin,Urban regions,1.0,0.013950960260901075,24328,0.012477107240257029,0.015424813281545121
+2010,Brandenburg,Rural regions,1.0,0.013588597656721827,24328,0.012133744269171721,0.015043451044271933
+2010,Sachsen-Anhalt,Rural regions,1.0,0.013045053750452952,24328,0.011619201687897958,0.014470905813007947
+2010,Sachsen,Urban regions,1.0,0.012803478681000121,24328,0.011390717779199401,0.014216239582800841
+2010,Sachsen,Rural regions,1.0,0.011776784635825583,24328,0.010421146553649719,0.013132422718001448
+2010,Bayern,Urban regions,3.0,0.011112453194830294,24328,0.009795163500862708,0.01242974288879788
+2010,Mecklenburg-Vorpommern,Rural regions,2.0,0.011112453194830294,24328,0.009795163500862708,0.01242974288879788
+2010,Thueringen,Rural regions,1.0,0.01062930305592463,24328,0.009340653631134017,0.011917952480715241
+2010,Bayern,Rural regions,3.0,0.010387727986471796,24328,0.00911365094987928,0.011661805023064312
+2010,Hamburg,Urban regions,2.0,0.008877883802391594,24328,0.007699135230315674,0.010056632374467514
+2010,Hessen,Urban regions,3.0,0.008757096267665177,24328,0.007586322520701754,0.0099278700146286
+2010,Mecklenburg-Vorpommern,Rural regions,1.0,0.008394733663485929,24328,0.007248229223079678,0.00954123810389218
+2010,Schleswig-Holstein,Rural regions,2.0,0.008153158594033096,24328,0.007023133415645209,0.009283183772420983
+2010,Sachsen,Urban regions,3.0,0.007549220920401015,24328,0.0064615226857678565,0.008636919155034173
+2010,Sachsen,Rural regions,3.0,0.007428433385674598,24328,0.006349406168304528,0.00850746060304467
+2010,"Rheinland-Pfalz,Saarland",Rural regions,2.0,0.007186858316221766,24328,0.006125392120216156,0.008248324512227376
+2010,Niedersachsen,Urban regions,3.0,0.006462133107863269,24328,0.005455240784994965,0.007469025430731573
+2010,Thueringen,Urban regions,1.0,0.0060393767363208116,24328,0.005065770115591543,0.00701298335705008
+2010,Schleswig-Holstein,Urban regions,2.0,0.005978982968957603,24328,0.0050102271828376755,0.006947738755077531
+2010,Niedersachsen,Rural regions,3.0,0.005978982968957603,24328,0.0050102271828376755,0.006947738755077531
+2010,Schleswig-Holstein,Rural regions,1.0,0.005918589201594396,24328,0.004954709259672151,0.006882469143516641
+2010,Thueringen,Urban regions,2.0,0.0058581954342311875,24328,0.0048992167275721515,0.006817174140890224
+2010,Hessen,Rural regions,2.0,0.005677014132141563,24328,0.004732895442304864,0.0066211328219782616
+2010,Berlin,Urban regions,3.0,0.005677014132141563,24328,0.004732895442304864,0.0066211328219782616
+2010,Brandenburg,Rural regions,3.0,0.005495832830051939,24328,0.004566817397484511,0.006424848262619366
+2010,Baden-Wuerttemberg,Rural regions,2.0,0.00543543906268873,24328,0.004511514158847854,0.006359363966529607
+2010,Sachsen-Anhalt,Rural regions,3.0,0.005254257760599106,24328,0.004345779374273125,0.006162736146925088
+2010,Thueringen,Rural regions,3.0,0.005193863993235898,24328,0.004290594418438177,0.006097133568033619
+2010,"Rheinland-Pfalz,Saarland",Rural regions,1.0,0.005073076458509481,24328,0.004180317609949861,0.005965835307069102
+2010,"Rheinland-Pfalz,Saarland",Urban regions,3.0,0.004710713854330233,24328,0.0038502732540971656,0.005571154454563301
+2010,Sachsen-Anhalt,Urban regions,2.0,0.004589926319603817,24328,0.0037405371079728003,0.005439315531234833
+2010,Hessen,Rural regions,1.0,0.004408745017514193,24328,0.0035762130944383473,0.005241276940590038
+2010,Hamburg,Urban regions,1.0,0.003744413576518903,24328,0.002976910441260484,0.004511916711777322
+2010,Baden-Wuerttemberg,Rural regions,1.0,0.0035632322744292787,24328,0.002814459910918293,0.004312004637940264
+2010,Sachsen-Anhalt,Urban regions,1.0,0.003502838507066071,24328,0.002760416292214102,0.00424526072191804
+2010,Nordrhein-Westfalen,Rural regions,2.0,0.003502838507066071,24328,0.002760416292214102,0.00424526072191804
+2010,Schleswig-Holstein,Urban regions,1.0,0.0033820509723396547,24328,0.0026524972218454866,0.004111604722833823
+2010,Hamburg,Urban regions,3.0,0.0033216572049764464,24328,0.0025986247631962496,0.004044689646756644
+2010,Bremen,Urban regions,2.0,0.003261263437613238,24328,0.002544812464441048,0.0039777144107854285
+2010,Mecklenburg-Vorpommern,Rural regions,3.0,0.0028385070660707813,24328,0.0021699621244081675,0.003507052007733395
+2010,Schleswig-Holstein,Rural regions,3.0,0.002113781857712284,24328,0.0015366521061808166,0.002690911609243751
+2010,Bremen,Urban regions,1.0,0.002113781857712284,24328,0.0015366521061808166,0.002690911609243751
+2010,Brandenburg,Urban regions,2.0,0.002053388090349076,24328,0.0014845455840963699,0.0026222305966017824
+2010,Nordrhein-Westfalen,Rural regions,1.0,0.0019326005556226597,24328,0.0013807088680491966,0.0024844922431961226
+2010,Thueringen,Urban regions,3.0,0.0018722067882594516,24328,0.0013289904171066456,0.0024154231594122576
+2010,Hessen,Rural regions,3.0,0.0018722067882594516,24328,0.0013289904171066456,0.0024154231594122576
+2010,"Rheinland-Pfalz,Saarland",Rural regions,3.0,0.0016910254861698273,24328,0.0011747156105786855,0.002207335361760969
+2010,Mecklenburg-Vorpommern,Urban regions,2.0,0.0014494504167169948,24328,0.000971382524224025,0.0019275183092099645
+2010,Bremen,Urban regions,3.0,0.0011474815799009542,24328,0.000722053243371502,0.0015729099164304063
+2010,Schleswig-Holstein,Urban regions,3.0,0.0011474815799009542,24328,0.000722053243371502,0.0015729099164304063
+2010,Mecklenburg-Vorpommern,Urban regions,1.0,0.001087087812537746,24328,0.0006729937583438016,0.0015011818667316906
+2010,Baden-Wuerttemberg,Rural regions,3.0,0.001026694045174538,24328,0.0006242547950987589,0.0014291332952503172
+2010,Sachsen-Anhalt,Urban regions,3.0,0.0009663002778113298,24328,0.0005758650560772367,0.001356735499545423
+2010,Brandenburg,Urban regions,3.0,0.0007247252083584974,24328,0.0003865575092672006,0.0010628929074497943
+2010,Brandenburg,Urban regions,1.0,0.0006643314409952893,24328,0.00034055073510196016,0.0009881121468886184
+2010,Mecklenburg-Vorpommern,Urban regions,3.0,0.000543543906268873,24328,0.00025065553953575203,0.0008364322730019941
+2010,Nordrhein-Westfalen,Rural regions,3.0,0.00030196883681604057,24328,8.36363561361699e-05,0.0005203013174959112
+2011,Nordrhein-Westfalen,Urban regions,2.0,0.09464940141705351,28898,0.09127427914842137,0.09802452368568565
+2011,Nordrhein-Westfalen,Urban regions,1.0,0.07231859271927682,28898,0.06933220227390467,0.07530498316464897
+2011,Baden-Wuerttemberg,Urban regions,2.0,0.05971170290740288,28898,0.05697969204416031,0.06244371377064545
+2011,Bayern,Rural regions,2.0,0.040801368189591986,28898,0.03852042842480662,0.04308230795437735
+2011,Bayern,Urban regions,2.0,0.03879794771561202,28898,0.0365713902960392,0.04102450513518484
+2011,Baden-Wuerttemberg,Urban regions,1.0,0.03088199364769118,28898,0.028887359847691245,0.03287662744769111
+2011,Bayern,Rural regions,1.0,0.027412655753725874,28898,0.025530038471527086,0.029295273035924663
+2011,Hessen,Urban regions,2.0,0.027119472269728804,28898,0.025246667311055265,0.028992277228402343
+2011,Nordrhein-Westfalen,Urban regions,3.0,0.026386513559736136,28898,0.02453849438125865,0.028234532738213622
+2011,Niedersachsen,Rural regions,2.0,0.02584901050574151,28898,0.024019405762465185,0.027678615249017834
+2011,Bayern,Urban regions,1.0,0.021988761299780113,28898,0.020297952563552366,0.02367957003600786
+2011,Niedersachsen,Urban regions,2.0,0.021255802589787442,28898,0.019592790018815667,0.022918815160759217
+2011,"Rheinland-Pfalz,Saarland",Urban regions,2.0,0.020571707793794282,28898,0.018935103546335298,0.022208312041253266
+2011,Brandenburg,Rural regions,2.0,0.0197898851698021,28898,0.018184040979080978,0.02139572936052322
+2011,Hessen,Urban regions,1.0,0.01876374297581236,28898,0.01719926768162309,0.020328218270001634
+2011,Baden-Wuerttemberg,Urban regions,3.0,0.018372831663816272,28898,0.016824430422345896,0.019921232905286648
+2011,Niedersachsen,Rural regions,1.0,0.018177376007818227,28898,0.01663707964083968,0.019717672374796776
+2011,Sachsen,Urban regions,2.0,0.018079648179819205,28898,0.016543421524675098,0.019615874834963312
+2011,Berlin,Urban regions,2.0,0.017688736867823112,28898,0.016168906385646817,0.019208567349999407
+2011,"Rheinland-Pfalz,Saarland",Urban regions,1.0,0.015734180307842658,28898,0.014299350331893529,0.017169010283791787
+2011,Sachsen,Rural regions,2.0,0.015489860737845102,28898,0.014066037649025137,0.01691368382666507
+2011,Sachsen-Anhalt,Rural regions,2.0,0.015001221597849989,28898,0.013599688568100638,0.01640275462759934
+2011,Niedersachsen,Urban regions,1.0,0.014463718543855362,28898,0.013087148014797944,0.01584028907291278
+2011,Thueringen,Rural regions,2.0,0.013681895919863182,28898,0.012342515883129039,0.015021275956597325
+2011,Berlin,Urban regions,1.0,0.01363303200586367,28898,0.012296012740609015,0.014970051271118326
+2011,Brandenburg,Rural regions,1.0,0.013486440263865135,28898,0.012156529888944967,0.014816350638785303
+2011,Bayern,Rural regions,3.0,0.012411434155875886,28898,0.01113493307066465,0.01368793524108712
+2011,Sachsen-Anhalt,Rural regions,1.0,0.011776203273882239,28898,0.010532397757552018,0.01302000879021246
+2011,Bayern,Urban regions,3.0,0.011531883703884681,28898,0.0103008962187418,0.012762871189027563
+2011,Schleswig-Holstein,Rural regions,2.0,0.011336428047886636,28898,0.01011579657905107,0.012557059516722202
+2011,Mecklenburg-Vorpommern,Rural regions,2.0,0.010701197165892988,28898,0.009514876481594702,0.011887517850191274
+2011,Sachsen,Urban regions,1.0,0.010554605423894454,28898,0.009376350957327232,0.011732859890461677
+2011,Sachsen,Rural regions,1.0,0.01040801368189592,28898,0.009237883476921305,0.011578143886870536
+2011,Hessen,Urban regions,3.0,0.00938187148790618,28898,0.008270344393266085,0.010493398582546276
+2011,Thueringen,Rural regions,1.0,0.008648912777913511,28898,0.007581292828683305,0.009716532727143717
+2011,Mecklenburg-Vorpommern,Rural regions,1.0,0.008111409723918887,28898,0.007077216245474632,0.00914560320236314
+2011,"Rheinland-Pfalz,Saarland",Rural regions,2.0,0.007964817981920351,28898,0.006939936507597835,0.008989699456242867
+2011,Hamburg,Urban regions,2.0,0.00718299535792817,28898,0.00620933032312654,0.0081566603927298
+2011,Thueringen,Rural regions,3.0,0.007134131443928659,28898,0.006163759967767994,0.008104502920089324
+2011,Schleswig-Holstein,Rural regions,1.0,0.0070852675299291476,28898,0.006118201157503333,0.008052333902354963
+2011,Sachsen,Rural regions,3.0,0.006889811873931102,28898,0.005936083774211103,0.0078435399736511
+2011,Baden-Wuerttemberg,Rural regions,2.0,0.006792084045932079,28898,0.005845097541787142,0.007739070550077016
+2011,Sachsen,Urban regions,3.0,0.006596628389934034,28898,0.005663275229087364,0.007529981550780704
+2011,Berlin,Urban regions,3.0,0.0064500366479355,28898,0.005527044248117953,0.007373029047753046
+2011,Thueringen,Urban regions,2.0,0.006303444905936965,28898,0.005390934027099836,0.007215955784774094
+2011,Niedersachsen,Rural regions,3.0,0.006205717077937943,28898,0.005300263037611011,0.007111171118264875
+2011,"Rheinland-Pfalz,Saarland",Urban regions,3.0,0.006156853163938432,28898,0.00525494877627423,0.007058757551602633
+2011,Niedersachsen,Urban regions,3.0,0.006010261421939897,28898,0.005119092957733247,0.006901429886146547
+2011,Hessen,Rural regions,2.0,0.005912533593940875,28898,0.005028596645454017,0.006796470542427733
+2011,"Rheinland-Pfalz,Saarland",Rural regions,1.0,0.005814805765941852,28898,0.004938161432747027,0.006691450099136676
+2011,Brandenburg,Rural regions,3.0,0.005717077937942829,28898,0.004847788857335314,0.0065863670185503445
+2011,Sachsen-Anhalt,Rural regions,3.0,0.005277302711947227,28898,0.004441932095759997,0.006112673328134457
+2011,Sachsen-Anhalt,Urban regions,2.0,0.004886391399951136,28898,0.0040823977174690735,0.005690385082433198
+2011,Hessen,Rural regions,1.0,0.004739799657952602,28898,0.003947899391131881,0.005531699924773324
+2011,Schleswig-Holstein,Urban regions,2.0,0.00469093574395309,28898,0.003903108673255966,0.005478762814650215
+2011,Hamburg,Urban regions,1.0,0.00395797703396042,28898,0.003234045251355134,0.004681908816565706
+2011,Thueringen,Urban regions,1.0,0.003909113119960909,28898,0.0031896462830096613,0.004628579956912156
+2011,Schleswig-Holstein,Urban regions,1.0,0.0038602492059613973,28898,0.003145275641234121,0.004575222770688674
+2011,Hamburg,Urban regions,3.0,0.0037136574639628633,28898,0.003012339137027655,0.004414975790898072
+2011,Sachsen-Anhalt,Urban regions,1.0,0.0036159296359638405,28898,0.0029238667631811257,0.004307992508746555
+2011,Nordrhein-Westfalen,Rural regions,2.0,0.0036159296359638405,28898,0.0029238667631811257,0.004307992508746555
+2011,Mecklenburg-Vorpommern,Rural regions,3.0,0.0035670657219643294,28898,0.0028796780004066613,0.004254453443521997
+2011,Baden-Wuerttemberg,Rural regions,1.0,0.0034693378939653066,28898,0.0027913985935739748,0.004147277194356639
+2011,Schleswig-Holstein,Rural regions,3.0,0.002834107011971659,28898,0.002221172595199732,0.0034470414287435863
+2011,Bremen,Urban regions,2.0,0.0027852430979721475,28898,0.002177600685033744,0.003392885510910551
+2011,Thueringen,Urban regions,3.0,0.0025409235279745907,28898,0.0019604725882851367,0.0031213744676640448
+2011,Nordrhein-Westfalen,Rural regions,1.0,0.0020522843879794772,28898,0.001530495479867996,0.0025740732960909587
+2011,"Rheinland-Pfalz,Saarland",Rural regions,3.0,0.001905692645980943,28898,0.0014028473447167246,0.0024085379472451613
+2011,Bremen,Urban regions,1.0,0.001759100903982409,28898,0.0012759472886637341,0.002242254519301084
+2011,Brandenburg,Urban regions,2.0,0.0017102369899828977,28898,0.0012338294410445603,0.002186644538921235
+2011,Baden-Wuerttemberg,Rural regions,3.0,0.001612509161983875,28898,0.0011498908294416141,0.0020751274945261357
+2011,Hessen,Rural regions,3.0,0.0015147813339848521,28898,0.001066378890591141,0.0019631837773785633
+2011,Schleswig-Holstein,Urban regions,3.0,0.0014659174199853407,28898,0.0010247957657565667,0.0019070390742141148
+2011,Bremen,Urban regions,3.0,0.0014170535059858296,28898,0.0009833355773764163,0.0018507714345952428
+2011,Sachsen-Anhalt,Urban regions,3.0,0.0014170535059858296,28898,0.0009833355773764163,0.0018507714345952428
+2011,Brandenburg,Urban regions,1.0,0.0011727339359882726,28898,0.0007781248153001614,0.0015673430566763838
+2011,Mecklenburg-Vorpommern,Urban regions,2.0,0.0011238700219887612,28898,0.0007375599431974671,0.0015101801007800552
+2011,Mecklenburg-Vorpommern,Urban regions,1.0,0.0007329587099926704,28898,0.0004209241378594547,0.0010449932821258862
+2011,Nordrhein-Westfalen,Rural regions,3.0,0.0006840947959931591,28898,0.0003826333893943655,0.0009855562025919526
+2011,Brandenburg,Urban regions,3.0,0.0004886391399951136,28898,0.00023383283451292497,0.0007434454454773023
+2011,Mecklenburg-Vorpommern,Urban regions,3.0,0.00029318348399706815,28898,9.579207123418699e-05,0.0004905748967599493
+2012,Nordrhein-Westfalen,Urban regions,2.0,0.09290905519544294,28166,0.08951867875486243,0.09629943163602346
+2012,Nordrhein-Westfalen,Urban regions,1.0,0.07051659791789432,28166,0.06752667508929501,0.07350652074649362
+2012,Baden-Wuerttemberg,Urban regions,2.0,0.05254370457670399,28166,0.04993795052663763,0.05514945862677034
+2012,Bayern,Rural regions,2.0,0.04321351404439207,28166,0.04083880289086527,0.045588225197918865
+2012,Bayern,Urban regions,2.0,0.039039481437831466,28166,0.036777451875133496,0.04130151100052944
+2012,Baden-Wuerttemberg,Urban regions,1.0,0.030003928501276762,28166,0.028011569792430066,0.03199628721012346
+2012,Hessen,Urban regions,2.0,0.02966018463956001,28166,0.027678920700826375,0.031641448578293645
+2012,Nordrhein-Westfalen,Urban regions,3.0,0.027892359065016695,28166,0.02596929706627967,0.02981542106375372
+2012,Niedersachsen,Rural regions,2.0,0.026959340011785505,28166,0.02506780838980357,0.02885087163376744
+2012,Bayern,Rural regions,1.0,0.025829895894716164,28166,0.02397733620220851,0.02768245558722382
+2012,"Rheinland-Pfalz,Saarland",Urban regions,2.0,0.02357100766057749,28166,0.021799255824736387,0.025342759496418593
+2012,Brandenburg,Rural regions,2.0,0.022687094873305835,28166,0.02094809422365076,0.02442609552296091
+2012,Baden-Wuerttemberg,Urban regions,3.0,0.02219603221371047,28166,0.020475522793933814,0.023916541633487127
+2012,Niedersachsen,Urban regions,2.0,0.02082105676684345,28166,0.01915351814728035,0.022488595386406553
+2012,Berlin,Urban regions,2.0,0.020477312905126693,28166,0.01882330638644096,0.022131319423812426
+2012,Bayern,Urban regions,1.0,0.01821842467098802,28166,0.016656513491833953,0.019780335850142085
+2012,Sachsen,Urban regions,2.0,0.01767825574543312,28166,0.016139250610610965,0.01921726088025527
+2012,Niedersachsen,Rural regions,1.0,0.017580043213514043,28166,0.016045242328079086,0.019114844098949
+2012,Sachsen,Rural regions,2.0,0.01669613042624239,28166,0.015199738789310722,0.018192522063174055
+2012,Bayern,Rural regions,3.0,0.014780986053820468,28166,0.013371659678069586,0.01619031242957135
+2012,Hessen,Urban regions,1.0,0.014535454724022786,28166,0.013137708598073282,0.01593320084997229
+2012,Sachsen-Anhalt,Rural regions,2.0,0.014437242192103713,28166,0.013044156771992145,0.01583032761221528
+2012,Thueringen,Rural regions,2.0,0.013995285798467885,28166,0.012623381346656058,0.015367190250279713
+2012,Bayern,Urban regions,3.0,0.01365154193675113,28166,0.012296354013928498,0.015006729859573761
+2012,"Rheinland-Pfalz,Saarland",Urban regions,1.0,0.013013160479277155,28166,0.011689609853885606,0.014336711104668705
+2012,Berlin,Urban regions,1.0,0.011932822628167354,28166,0.010664708582463293,0.013200936673871415
+2012,Schleswig-Holstein,Rural regions,2.0,0.011638185032410136,28166,0.010385637857324766,0.012890732207495505
+2012,Brandenburg,Rural regions,1.0,0.011343547436652918,28166,0.010106772623647398,0.012580322249658438
+2012,Niedersachsen,Urban regions,1.0,0.011343547436652918,28166,0.010106772623647398,0.012580322249658438
+2012,Sachsen-Anhalt,Rural regions,1.0,0.010950697308976626,28166,0.009735285807506053,0.012166108810447199
+2012,Mecklenburg-Vorpommern,Rural regions,2.0,0.010901591043017089,28166,0.009688877636929018,0.012114304449105159
+2012,Hessen,Urban regions,3.0,0.010705165979178944,28166,0.009503308260084244,0.011907023698273643
+2012,Sachsen,Urban regions,1.0,0.010263209585543115,28166,0.00908615950924447,0.01144025966184176
+2012,Sachsen,Rural regions,1.0,0.01006678452170497,28166,0.008900936826506662,0.011232632216903278
+2012,Hamburg,Urban regions,2.0,0.008986446670595168,28166,0.007884330735904282,0.010088562605286054
+2012,Niedersachsen,Rural regions,3.0,0.008790021606757022,28166,0.007699909186375675,0.009880134027138368
+2012,Thueringen,Rural regions,1.0,0.008495384010999803,28166,0.007423538085241389,0.009567229936758218
+2012,Mecklenburg-Vorpommern,Rural regions,1.0,0.008495384010999803,28166,0.007423538085241389,0.009567229936758218
+2012,Sachsen,Rural regions,3.0,0.008298958947161659,28166,0.007239471839018394,0.009358446055304923
+2012,"Rheinland-Pfalz,Saarland",Rural regions,2.0,0.008200746415242585,28166,0.007147494969751897,0.009253997860733273
+2012,Thueringen,Rural regions,3.0,0.007807896287566294,28166,0.006779978491222268,0.008835814083910319
+2012,Sachsen,Urban regions,3.0,0.007611471223728148,28166,0.006596465113766698,0.008626477333689597
+2012,Berlin,Urban regions,3.0,0.007316833627970929,28166,0.0063215189640446826,0.008312148291897175
+2012,Schleswig-Holstein,Rural regions,1.0,0.007267727362011393,28166,0.006275733767893528,0.008259720956129257
+2012,Baden-Wuerttemberg,Rural regions,2.0,0.006973089766254174,28166,0.006001268002588373,0.007944911529919975
+2012,"Rheinland-Pfalz,Saarland",Urban regions,3.0,0.006776664702416028,28166,0.005818533595797365,0.007734795809034691
+2012,Hessen,Rural regions,2.0,0.006236495776861127,28166,0.0053170940357931025,0.007155897517929152
+2012,Niedersachsen,Urban regions,3.0,0.006138283244942055,28166,0.005226104544369881,0.007050461945514229
+2012,Thueringen,Urban regions,2.0,0.005794539383225299,28166,0.004908116384725267,0.006680962381725331
+2012,Sachsen-Anhalt,Rural regions,3.0,0.005794539383225299,28166,0.004908116384725267,0.006680962381725331
+2012,Hessen,Rural regions,1.0,0.005205264191710863,28166,0.004364872768357503,0.006045655615064222
+2012,Brandenburg,Rural regions,3.0,0.004665095266155961,28166,0.003869287158319713,0.005460903373992209
+2012,Schleswig-Holstein,Urban regions,2.0,0.004566882734236889,28166,0.003779457267354254,0.005354308201119523
+2012,"Rheinland-Pfalz,Saarland",Rural regions,1.0,0.004223138872520134,28166,0.0034657966313679633,0.004980481113672304
+2012,Sachsen-Anhalt,Urban regions,2.0,0.004174032606560597,28166,0.0034210878279268713,0.004926977385194323
+2012,Hamburg,Urban regions,3.0,0.0037811824788843056,28166,0.003064404469632454,0.004497960488136157
+2012,Thueringen,Urban regions,1.0,0.0037811824788843056,28166,0.003064404469632454,0.004497960488136157
+2012,Bremen,Urban regions,2.0,0.003486544883127087,28166,0.0027981578239085255,0.004174931942345648
+2012,Mecklenburg-Vorpommern,Rural regions,3.0,0.003486544883127087,28166,0.0027981578239085255,0.004174931942345648
+2012,Hamburg,Urban regions,1.0,0.003486544883127087,28166,0.0027981578239085255,0.004174931942345648
+2012,Schleswig-Holstein,Rural regions,3.0,0.003388332351208014,28166,0.0027096767017648618,0.004066988000651166
+2012,Sachsen-Anhalt,Urban regions,1.0,0.003388332351208014,28166,0.0027096767017648618,0.004066988000651166
+2012,Schleswig-Holstein,Urban regions,1.0,0.003044588489491259,28166,0.0024011668662584675,0.003688010112724051
+2012,Nordrhein-Westfalen,Rural regions,2.0,0.0028972696916126496,28166,0.002269561352565866,0.003524978030659433
+2012,"Rheinland-Pfalz,Saarland",Rural regions,3.0,0.0024062070320172856,28166,0.0018340215308347443,0.002978392533199827
+2012,Baden-Wuerttemberg,Rural regions,1.0,0.0024062070320172856,28166,0.0018340215308347443,0.002978392533199827
+2012,Baden-Wuerttemberg,Rural regions,3.0,0.0023079945000982127,28166,0.0017475803211283458,0.00286840867906808
+2012,Nordrhein-Westfalen,Rural regions,1.0,0.0023079945000982127,28166,0.0017475803211283458,0.00286840867906808
+2012,Thueringen,Urban regions,3.0,0.0023079945000982127,28166,0.0017475803211283458,0.00286840867906808
+2012,Hessen,Rural regions,3.0,0.0019151443724219211,28166,0.0014045477047036153,0.002425741040140227
+2012,Bremen,Urban regions,1.0,0.001669613042624239,28166,0.0011928105212163937,0.002146415564032084
+2012,Schleswig-Holstein,Urban regions,3.0,0.001571400510705166,28166,0.0011088113681738086,0.0020339896532365234
+2012,Brandenburg,Urban regions,2.0,0.0015222942447456296,28166,0.0010669792293130078,0.0019776092601782513
+2012,Sachsen-Anhalt,Urban regions,3.0,0.0014731879787860931,28166,0.0010252659387237745,0.0019211100188484117
+2012,Bremen,Urban regions,3.0,0.0013258691809074838,28166,0.0009009016771061406,0.001750836684708827
+2012,Brandenburg,Urban regions,1.0,0.0010312315851502651,28166,0.0006563901927716855,0.0014060729775288447
+2012,Mecklenburg-Vorpommern,Urban regions,2.0,0.0009330190532311923,28166,0.0005764562437169099,0.0012895818627454748
+2012,Brandenburg,Urban regions,3.0,0.000785700255352583,28166,0.00045847165758590924,0.0011129288531192567
+2012,Mecklenburg-Vorpommern,Urban regions,1.0,0.0006383814574739737,28166,0.0003433998426129999,0.0009333630723349475
+2012,Nordrhein-Westfalen,Rural regions,3.0,0.0005892751915144372,28166,0.00030585906020711936,0.0008726913228217551
+2012,Mecklenburg-Vorpommern,Urban regions,3.0,0.00019642506383814575,28166,3.276252723604173e-05,0.00036008760044024975
+2013,Nordrhein-Westfalen,Urban regions,2.0,0.0925086643561717,31177,0.0892924028062147,0.09572492590612869
+2013,Nordrhein-Westfalen,Urban regions,1.0,0.06904825379898694,31177,0.06623389901128139,0.07186260858669248
+2013,Baden-Wuerttemberg,Urban regions,2.0,0.051932817915222605,31177,0.04946973285062655,0.05439590297981866
+2013,Bayern,Rural regions,2.0,0.042868568381764866,31177,0.040620061665091904,0.04511707509843783
+2013,Bayern,Urban regions,2.0,0.038176486270327915,31177,0.03604940255933087,0.04030356998132496
+2013,Nordrhein-Westfalen,Urban regions,3.0,0.03017861903492402,31177,0.028279577478424554,0.03207766059142349
+2013,Hessen,Urban regions,2.0,0.029005598507064783,31177,0.027142704316246824,0.030868492697882742
+2013,Baden-Wuerttemberg,Urban regions,1.0,0.02852572647294055,31177,0.026677850073924127,0.03037360287195697
+2013,Niedersachsen,Rural regions,2.0,0.026659557451346308,31177,0.02487143291641555,0.028447681986277066
+2013,Bayern,Rural regions,1.0,0.02468675019994668,31177,0.022964314837260278,0.026409185562633084
+2013,"Rheinland-Pfalz,Saarland",Urban regions,2.0,0.02303385763796321,31177,0.021368674495693202,0.02469904078023322
+2013,Baden-Wuerttemberg,Urban regions,3.0,0.0209544121567582,31177,0.0193644817757167,0.0225443425377997
+2013,Berlin,Urban regions,2.0,0.020261263663023193,31177,0.01869729764093541,0.021825229685110976
+2013,Brandenburg,Rural regions,2.0,0.020101306318315117,31177,0.018543398918744965,0.02165921371788527
+2013,Niedersachsen,Urban regions,2.0,0.020101306318315117,31177,0.018543398918744965,0.02165921371788527
+2013,Bayern,Urban regions,1.0,0.018928285790455877,31177,0.01741561322842367,0.020440958352488086
+2013,Sachsen,Urban regions,2.0,0.017861903492402027,31177,0.016391660704051986,0.01933214628075207
+2013,Sachsen,Rural regions,2.0,0.01695547853905625,31177,0.015522365230049876,0.018388591848062626
+2013,Niedersachsen,Rural regions,1.0,0.016795521194348174,31177,0.015369067833323806,0.01822197455537254
+2013,Hessen,Urban regions,1.0,0.015782458011197015,31177,0.014398981526208228,0.0171659344961858
+2013,Bayern,Rural regions,3.0,0.01530258597707278,31177,0.013939972366246299,0.016665199587899263
+2013,Bayern,Urban regions,3.0,0.015195947747267395,31177,0.013838016696509772,0.01655387879802502
+2013,Sachsen-Anhalt,Rural regions,2.0,0.014449480138629699,31177,0.01312482000327952,0.015774140273979876
+2013,"Rheinland-Pfalz,Saarland",Urban regions,1.0,0.014236203679018929,31177,0.012921213715026327,0.01555119364301153
+2013,Thueringen,Rural regions,2.0,0.01386296987470008,31177,0.012565086458630725,0.015160853290769436
+2013,Schleswig-Holstein,Rural regions,2.0,0.012529992002132765,31177,0.011295249880785427,0.013764734123480102
+2013,Niedersachsen,Urban regions,1.0,0.012370034657424686,31177,0.011143099822100625,0.013596969492748747
+2013,Berlin,Urban regions,1.0,0.012103439082911224,31177,0.010889633750693073,0.013317244415129374
+2013,Brandenburg,Rural regions,1.0,0.012103439082911224,31177,0.010889633750693073,0.013317244415129374
+2013,Niedersachsen,Rural regions,3.0,0.01141029058917622,31177,0.01023134081116834,0.0125892403671841
+2013,Sachsen-Anhalt,Rural regions,1.0,0.0108237803252466,31177,0.009675189803432755,0.011972370847060446
+2013,Hessen,Urban regions,3.0,0.010717142095441216,31177,0.009574162055702181,0.011860122135180251
+2013,Mecklenburg-Vorpommern,Rural regions,2.0,0.010450546520927752,31177,0.009321720107458943,0.011579372934396561
+2013,Sachsen,Urban regions,1.0,0.010290589176219675,31177,0.009170344522236435,0.011410833830202916
+2013,Sachsen,Rural regions,1.0,0.00997067448680352,31177,0.008867802239219989,0.011073546734387051
+2013,Berlin,Urban regions,3.0,0.008371101039722741,31177,0.0073597433305213865,0.009382458748924096
+2013,Thueringen,Rural regions,3.0,0.008317781924820048,31177,0.007309623142374845,0.009325940707265251
+2013,Sachsen,Rural regions,3.0,0.008211143695014663,31177,0.007209414461077167,0.009212872928952159
+2013,Thueringen,Rural regions,1.0,0.008051186350306584,31177,0.007059182219852725,0.009043190480760443
+2013,"Rheinland-Pfalz,Saarland",Rural regions,2.0,0.007891229005598507,31177,0.006909049477152432,0.008873408534044584
+2013,Mecklenburg-Vorpommern,Rural regions,1.0,0.007677952545987737,31177,0.0067090324980478315,0.008646872593927643
+2013,Sachsen,Urban regions,3.0,0.007517995201279659,31177,0.006559143920923421,0.008476846481635898
+2013,Hamburg,Urban regions,2.0,0.007358037856571581,31177,0.006409365525927194,0.008306710187215967
+2013,Baden-Wuerttemberg,Rural regions,2.0,0.006824846707544655,31177,0.0059109475363063844,0.007738745878782925
+2013,Niedersachsen,Urban regions,3.0,0.006824846707544655,31177,0.0059109475363063844,0.007738745878782925
+2013,Schleswig-Holstein,Rural regions,1.0,0.0064516129032258064,31177,0.005562887545124944,0.007340338261326669
+2013,"Rheinland-Pfalz,Saarland",Urban regions,3.0,0.006185017328712343,31177,0.0053147310422831506,0.0070553036151415355
+2013,Thueringen,Urban regions,2.0,0.006078379098906958,31177,0.005215581614329748,0.006941176583484168
+2013,Brandenburg,Rural regions,3.0,0.00570514529458811,31177,0.004869099896912984,0.006541190692263236
+2013,Hessen,Rural regions,2.0,0.00570514529458811,31177,0.004869099896912984,0.006541190692263236
+2013,Sachsen-Anhalt,Rural regions,3.0,0.005651826179685417,31177,0.004819674395845373,0.006483977963525461
+2013,Hessen,Rural regions,1.0,0.005065315915755798,31177,0.004277291880913484,0.005853339950598112
+2013,Hamburg,Urban regions,1.0,0.00469208211143695,31177,0.003933503765773522,0.005450660457100378
+2013,Schleswig-Holstein,Urban regions,2.0,0.004585443881631565,31177,0.003835495115624702,0.0053353926476384286
+2013,Sachsen-Anhalt,Urban regions,2.0,0.00447880565182618,31177,0.0037375888182760416,0.005220022485376318
+2013,Hamburg,Urban regions,3.0,0.004372167422020795,31177,0.003639788534683038,0.0051045463093585515
+2013,"Rheinland-Pfalz,Saarland",Rural regions,1.0,0.004265529192215409,31177,0.0035420981502527283,0.00498896023417809
+2013,Mecklenburg-Vorpommern,Rural regions,3.0,0.003945614502799254,31177,0.0032497290441860557,0.004641499961412452
+2013,Thueringen,Urban regions,1.0,0.003892295387896561,31177,0.0032011093522339726,0.004583481423559149
+2013,Sachsen-Anhalt,Urban regions,1.0,0.003625699813383098,31177,0.0029585150947800043,0.0042928845319861915
+2013,Schleswig-Holstein,Rural regions,3.0,0.0034124233537723273,31177,0.00276508983223296,0.004059756875311694
+2013,Bremen,Urban regions,2.0,0.003305785123966942,31177,0.002668612381172827,0.003942957866761057
+2013,Nordrhein-Westfalen,Rural regions,2.0,0.0028792322047454014,31177,0.002284459353872176,0.003474005055618627
+2013,Schleswig-Holstein,Urban regions,1.0,0.002612636630231938,31177,0.0020459925625536156,0.0031792806979102604
+2013,"Rheinland-Pfalz,Saarland",Rural regions,3.0,0.0025593175153292456,31177,0.001998470344811545,0.0031201646858469464
+2013,Thueringen,Urban regions,3.0,0.002346041055718475,31177,0.0018090133659377536,0.0028830687454991966
+2013,Hessen,Rural regions,3.0,0.0022927219408157827,31177,0.001761817725532746,0.0028236261560988193
+2013,Baden-Wuerttemberg,Rural regions,1.0,0.0022927219408157827,31177,0.001761817725532746,0.0028236261560988193
+2013,Baden-Wuerttemberg,Rural regions,3.0,0.0021327645961077045,31177,0.0016206740564438532,0.002644855135771556
+2013,Brandenburg,Urban regions,2.0,0.002079445481205012,31177,0.0015737830793948573,0.0025851078830151667
+2013,Nordrhein-Westfalen,Rural regions,1.0,0.0020261263663023193,31177,0.0015269755796757777,0.002525277152928861
+2013,Bremen,Urban regions,1.0,0.0018661690215942416,31177,0.00138708819990335,0.0023452498432851333
+2013,Schleswig-Holstein,Urban regions,3.0,0.0017595307917888563,31177,0.0012943144822816493,0.0022247471012960636
+2013,Mecklenburg-Vorpommern,Urban regions,2.0,0.0013329778725673154,31177,0.00092797254657682,0.0017379831985578108
+2013,Sachsen-Anhalt,Urban regions,3.0,0.0012796587576646228,31177,0.0008828256078572071,0.0016764919074720385
+2013,Bremen,Urban regions,3.0,0.001119701412956545,31177,0.0007484682661768155,0.0014909345597362744
+2013,Brandenburg,Urban regions,3.0,0.0008531058384430818,31177,0.0005290237429434508,0.0011771879339427128
+2013,Brandenburg,Urban regions,1.0,0.000693148493735004,31177,0.0004010014578642477,0.0009852955296057605
+2013,Mecklenburg-Vorpommern,Urban regions,1.0,0.0005331911490269261,31177,0.0002769407420785071,0.0007894415559753452
+2013,Nordrhein-Westfalen,Rural regions,3.0,0.00047987203412423355,31177,0.00023676506861142657,0.0007229789996370406
+2013,Mecklenburg-Vorpommern,Urban regions,3.0,0.00021327645961077046,31177,5.118353659089807e-05,0.00037536938263064284
+2018,Nordrhein-Westfalen,Urban regions,2.0,0.09559600704638872,29779,0.09225634802005456,0.09893566607272289
+2018,Nordrhein-Westfalen,Urban regions,1.0,0.08682716774319828,29779,0.08362896990741756,0.090025365578979
+2018,Baden-Wuerttemberg,Urban regions,2.0,0.04803288314738696,29779,0.04560414151201549,0.05046162478275843
+2018,Bayern,Rural regions,2.0,0.03820708553532981,29779,0.03602980816635599,0.04038436290430363
+2018,Bayern,Urban regions,2.0,0.03491877079663339,29779,0.03283374023778761,0.03700380135547918
+2018,Baden-Wuerttemberg,Urban regions,1.0,0.03374437267567038,29779,0.03169345742753617,0.0357952879238046
+2018,Bayern,Rural regions,1.0,0.033118027011156785,29779,0.031085576516642295,0.035150477505671275
+2018,Hessen,Urban regions,2.0,0.02728518301037385,29779,0.02543481880869165,0.029135547212056048
+2018,Niedersachsen,Rural regions,2.0,0.026776277157956548,29779,0.024942770644518768,0.02860978367139433
+2018,Nordrhein-Westfalen,Urban regions,3.0,0.02528870620473674,29779,0.02350549690226087,0.027071915507212607
+2018,Bayern,Urban regions,1.0,0.024740653748287336,29779,0.022976377194587016,0.026504930301987657
+2018,Niedersachsen,Rural regions,1.0,0.023018203170874926,29779,0.02131494703547115,0.0247214593062787
+2018,Niedersachsen,Urban regions,2.0,0.020512820512820513,29779,0.018902867932736274,0.02212277309290475
+2018,"Rheinland-Pfalz,Saarland",Urban regions,2.0,0.02004306126443531,29779,0.018451268450993943,0.02163485407787668
+2018,Berlin,Urban regions,2.0,0.019220982579761205,29779,0.017661522032354028,0.020780443127168383
+2018,Hessen,Urban regions,1.0,0.0187120767273439,29779,0.01717300011658691,0.020251153338100892
+2018,"Rheinland-Pfalz,Saarland",Urban regions,1.0,0.017929144646701898,29779,0.01642200944592233,0.019436279847481464
+2018,Brandenburg,Rural regions,2.0,0.016715599921706792,29779,0.01525946514222208,0.018171734701191503
+2018,Brandenburg,Rural regions,1.0,0.01612840086122529,29779,0.014697643848955957,0.017559157873494623
+2018,Sachsen,Urban regions,2.0,0.015110589156390682,29779,0.01372499689422593,0.016496181418555435
+2018,Baden-Wuerttemberg,Urban regions,3.0,0.014445096887844979,29779,0.01308990230336093,0.015800291472329028
+2018,Sachsen,Urban regions,1.0,0.014092777451556078,29779,0.012753972415149301,0.015431582487962855
+2018,Niedersachsen,Urban regions,1.0,0.013897044431395576,29779,0.012567437196083109,0.015226651666708044
+2018,Sachsen-Anhalt,Rural regions,1.0,0.013740458015267175,29779,0.012418257779669505,0.015062658250864846
+2018,Sachsen,Rural regions,1.0,0.013114112350753573,29779,0.011821989116426476,0.01440623558508067
+2018,Bayern,Rural regions,3.0,0.012840086122528871,29779,0.011561356457128222,0.01411881578792952
+2018,Sachsen,Rural regions,2.0,0.01268349970640047,29779,0.011412490297146381,0.01395450911565456
+2018,Berlin,Urban regions,1.0,0.01268349970640047,29779,0.011412490297146381,0.01395450911565456
+2018,Thueringen,Rural regions,1.0,0.011548248189469564,29779,0.010334756493723183,0.012761739885215945
+2018,Schleswig-Holstein,Rural regions,2.0,0.011313368565276961,29779,0.010112138163165918,0.012514598967388005
+2018,Sachsen-Anhalt,Rural regions,2.0,0.011156782149148562,29779,0.009963799265730273,0.01234976503256685
+2018,Bayern,Urban regions,3.0,0.011156782149148562,29779,0.009963799265730273,0.01234976503256685
+2018,Schleswig-Holstein,Rural regions,1.0,0.009708357799960854,29779,0.00859469051955766,0.010822025080364048
+2018,Mecklenburg-Vorpommern,Rural regions,1.0,0.008847132511254649,29779,0.007783546532422881,0.009910718490086417
+2018,Hamburg,Urban regions,2.0,0.008807985907222548,29779,0.007746734646454442,0.009869237167990654
+2018,Thueringen,Rural regions,2.0,0.008651399491094147,29779,0.007599540802348781,0.009703258179839512
+2018,Mecklenburg-Vorpommern,Rural regions,2.0,0.008612252887062048,29779,0.0075627559464860545,0.00966174982763804
+2018,Niedersachsen,Rural regions,3.0,0.007868467410452143,29779,0.0068649365829636716,0.008871998237940614
+2018,"Rheinland-Pfalz,Saarland",Rural regions,2.0,0.007437854766099041,29779,0.006461958362826612,0.008413751169371469
+2018,Hamburg,Urban regions,1.0,0.00735956155803484,29779,0.006388776754362007,0.008330346361707673
+2018,Hessen,Urban regions,3.0,0.007046388725778039,29779,0.00609633362204493,0.007996443829511148
+2018,Berlin,Urban regions,3.0,0.006928948913681738,29779,0.005986788490407572,0.007871109336955904
+2018,Baden-Wuerttemberg,Rural regions,2.0,0.006811509101585437,29779,0.005877311976898268,0.007745706226272607
+2018,Niedersachsen,Urban regions,3.0,0.006654922685457036,29779,0.005731453101855997,0.007578392269058076
+2018,Schleswig-Holstein,Urban regions,2.0,0.006263456645136035,29779,0.005367383040435556,0.007159530249836513
+2018,"Rheinland-Pfalz,Saarland",Rural regions,1.0,0.006224310041103934,29779,0.005331023461251899,0.007117596620955968
+2018,Hessen,Rural regions,2.0,0.006146016833039734,29779,0.005258331221466387,0.007033702444613082
+2018,Hessen,Rural regions,1.0,0.005871990604815032,29779,0.00500420019247849,0.006739781017151574
+2018,Schleswig-Holstein,Urban regions,1.0,0.004971618712076727,29779,0.004172764264168811,0.0057704731599846435
+2018,Thueringen,Urban regions,2.0,0.004971618712076727,29779,0.004172764264168811,0.0057704731599846435
+2018,Thueringen,Urban regions,1.0,0.004932472108044627,29779,0.004136753319816441,0.005728190896272814
+2018,Thueringen,Rural regions,3.0,0.004854178899980427,29779,0.004064769547503269,0.005643588252457585
+2018,"Rheinland-Pfalz,Saarland",Urban regions,3.0,0.004541006067723625,29779,0.003777365934065255,0.005304646201381995
+2018,Sachsen,Urban regions,3.0,0.0043844196515952245,29779,0.0036340022154499143,0.005134837087740535
+2018,Bremen,Urban regions,1.0,0.004227833235466823,29779,0.0034908799960766583,0.0049647864748569885
+2018,Baden-Wuerttemberg,Rural regions,1.0,0.003914660403210021,29779,0.003205415314598151,0.004623905491821892
+2018,Sachsen,Rural regions,3.0,0.003797220591113721,29779,0.0030986540113453155,0.004495787170882126
+2018,Brandenburg,Rural regions,3.0,0.00364063417498532,29779,0.0029565689062830596,0.00432469944368758
+2018,Sachsen-Anhalt,Urban regions,2.0,0.0034840477588569192,29779,0.002814802668355919,0.004153292849357919
+2018,Bremen,Urban regions,2.0,0.003444901154824819,29779,0.0027794134182542018,0.004110388891395436
+2018,Sachsen-Anhalt,Rural regions,3.0,0.0033666079467606184,29779,0.0027087001917499363,0.0040245157017713
+2018,Sachsen-Anhalt,Urban regions,1.0,0.002935995302407516,29779,0.0023214693711000886,0.0035505212337149433
+2018,Hamburg,Urban regions,3.0,0.0027794088862791153,29779,0.00218144789102726,0.0033773698815309705
+2018,Schleswig-Holstein,Rural regions,3.0,0.002740262282247015,29779,0.002146515559074277,0.003334009005419753
+2018,Nordrhein-Westfalen,Rural regions,2.0,0.0021922098257976122,29779,0.0016610007069453744,0.00272341894464985
+2018,Mecklenburg-Vorpommern,Rural regions,3.0,0.0020747700137013114,29779,0.0015579551457089306,0.002591584881693692
+2018,Mecklenburg-Vorpommern,Urban regions,2.0,0.0018790369935408103,29779,0.0013871557411489989,0.002370918245932622
+2018,"Rheinland-Pfalz,Saarland",Rural regions,3.0,0.0018007437854766098,29779,0.0013192002025788655,0.002282287368374354
+2018,Baden-Wuerttemberg,Rural regions,3.0,0.0017615971814445098,29779,0.0012853071888557594,0.00223788717403326
+2018,Mecklenburg-Vorpommern,Urban regions,1.0,0.0015267175572519084,29779,0.001083263542932637,0.00197017157157118
+2018,Thueringen,Urban regions,3.0,0.0015267175572519084,29779,0.001083263542932637,0.00197017157157118
+2018,Brandenburg,Urban regions,2.0,0.0015267175572519084,29779,0.001083263542932637,0.00197017157157118
+2018,Nordrhein-Westfalen,Rural regions,1.0,0.0014875709532198081,29779,0.0010498305850437516,0.0019253113213958646
+2018,Hessen,Rural regions,3.0,0.0013309845370914073,29779,0.0009168911363461045,0.00174507793783671
+2018,Schleswig-Holstein,Urban regions,3.0,0.001252691329027207,29779,0.0008509459749338195,0.0016544366831205944
+2018,Bremen,Urban regions,3.0,0.0011352515169309062,29779,0.0007527788490967663,0.001517724184765046
+2018,Brandenburg,Urban regions,1.0,0.0011352515169309062,29779,0.0007527788490967663,0.001517724184765046
+2018,Brandenburg,Urban regions,3.0,0.0010178117048346056,29779,0.0006556407572428655,0.0013799826524263457
+2018,Sachsen-Anhalt,Urban regions,3.0,0.0009395184967704052,29779,0.0005915422704072531,0.001287494723133557
+2018,Mecklenburg-Vorpommern,Urban regions,3.0,0.00031317283225680174,29779,0.00011220569726670188,0.0005141399672469015
+2018,Nordrhein-Westfalen,Rural regions,3.0,0.00027402622822470153,29779,8.60350062874952e-05,0.00046201745016190786

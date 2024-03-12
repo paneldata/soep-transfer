@@ -1,46 +1,115 @@
-"year","migback","mean","median","n","lower_confidence_mean","upper_confidence_mean"
-"2005","direkter Migrationshintergrund","5.56","5.58","2352","5.52","5.6"
-"2005","indirekter Migrationshintergrund","5.41","5.17","826","5.34","5.48"
-"2005","kein Migrationshintergrund","5.45","5.58","17455","5.44","5.46"
-"2006","direkter Migrationshintergrund","","","","",""
-"2006","indirekter Migrationshintergrund","","","","",""
-"2006","kein Migrationshintergrund","","","","",""
-"2007","direkter Migrationshintergrund","","","","",""
-"2007","indirekter Migrationshintergrund","","","","",""
-"2007","kein Migrationshintergrund","","","","",""
-"2008","direkter Migrationshintergrund","","","","",""
-"2008","indirekter Migrationshintergrund","","","","",""
-"2008","kein Migrationshintergrund","","","","",""
-"2009","direkter Migrationshintergrund","5.38","5.17","1649","5.33","5.43"
-"2009","indirekter Migrationshintergrund","5.3","5.17","707","5.23","5.37"
-"2009","kein Migrationshintergrund","5.3","5.17","15589","5.28","5.32"
-"2010","direkter Migrationshintergrund","","","","",""
-"2010","indirekter Migrationshintergrund","","","","",""
-"2010","kein Migrationshintergrund","","","","",""
-"2011","direkter Migrationshintergrund","","","","",""
-"2011","indirekter Migrationshintergrund","","","","",""
-"2011","kein Migrationshintergrund","","","","",""
-"2012","direkter Migrationshintergrund","5.51","5.58","1089","5.45","5.57"
-"2012","indirekter Migrationshintergrund","5.46","5.5","482","5.37","5.55"
-"2012","kein Migrationshintergrund","5.37","5.17","5549","5.35","5.39"
-"2013","direkter Migrationshintergrund","5.45","5.58","1685","5.4","5.5"
-"2013","indirekter Migrationshintergrund","5.29","5.17","711","5.22","5.36"
-"2013","kein Migrationshintergrund","5.37","5.17","16403","5.36","5.38"
-"2014","direkter Migrationshintergrund","","","","",""
-"2014","indirekter Migrationshintergrund","","","","",""
-"2014","kein Migrationshintergrund","","","","",""
-"2015","direkter Migrationshintergrund","","","","",""
-"2015","indirekter Migrationshintergrund","","","","",""
-"2015","kein Migrationshintergrund","","","","",""
-"2016","direkter Migrationshintergrund","","","","",""
-"2016","indirekter Migrationshintergrund","","","","",""
-"2016","kein Migrationshintergrund","","","","",""
-"2017","direkter Migrationshintergrund","5.49","5.58","6744","5.47","5.51"
-"2017","indirekter Migrationshintergrund","5.35","5.17","1703","5.3","5.4"
-"2017","kein Migrationshintergrund","5.37","5.17","20201","5.36","5.38"
-"2018","direkter Migrationshintergrund","","","","",""
-"2018","indirekter Migrationshintergrund","","","","",""
-"2018","kein Migrationshintergrund","","","","",""
-"2019","direkter Migrationshintergrund","5.5","5.58","3840","5.47","5.53"
-"2019","indirekter Migrationshintergrund","5.39","5.17","1822","5.34","5.44"
-"2019","kein Migrationshintergrund","5.38","5.17","20112","5.37","5.39"
+syear,migback,mean,mean_lower_confidence,mean_upper_confidence,lower_quartile,boxplot_median,upper_quartile,lower_whisker,upper_whisker,median,median_lower_confidence,median_upper_confidence,n
+1984,No migration background,,,,,,,,,,,,
+1984,Direct migration background,,,,,,,,,,,,
+1984,Indirect migration background,,,,,,,,,,,,
+1985,No migration background,,,,,,,,,,,,
+1985,Direct migration background,,,,,,,,,,,,
+1985,Indirect migration background,,,,,,,,,,,,
+1986,No migration background,,,,,,,,,,,,
+1986,Direct migration background,,,,,,,,,,,,
+1986,Indirect migration background,,,,,,,,,,,,
+1987,No migration background,,,,,,,,,,,,
+1987,Direct migration background,,,,,,,,,,,,
+1987,Indirect migration background,,,,,,,,,,,,
+1988,No migration background,,,,,,,,,,,,
+1988,Direct migration background,,,,,,,,,,,,
+1988,Indirect migration background,,,,,,,,,,,,
+1989,No migration background,,,,,,,,,,,,
+1989,Direct migration background,,,,,,,,,,,,
+1989,Indirect migration background,,,,,,,,,,,,
+1990,No migration background,,,,,,,,,,,,
+1990,Direct migration background,,,,,,,,,,,,
+1990,Indirect migration background,,,,,,,,,,,,
+1991,No migration background,,,,,,,,,,,,
+1991,Direct migration background,,,,,,,,,,,,
+1991,Indirect migration background,,,,,,,,,,,,
+1992,No migration background,,,,,,,,,,,,
+1992,Direct migration background,,,,,,,,,,,,
+1992,Indirect migration background,,,,,,,,,,,,
+1993,No migration background,,,,,,,,,,,,
+1993,Direct migration background,,,,,,,,,,,,
+1993,Indirect migration background,,,,,,,,,,,,
+1994,No migration background,,,,,,,,,,,,
+1994,Direct migration background,,,,,,,,,,,,
+1994,Indirect migration background,,,,,,,,,,,,
+1995,No migration background,,,,,,,,,,,,
+1995,Direct migration background,,,,,,,,,,,,
+1995,Indirect migration background,,,,,,,,,,,,
+1996,No migration background,,,,,,,,,,,,
+1996,Direct migration background,,,,,,,,,,,,
+1996,Indirect migration background,,,,,,,,,,,,
+1997,No migration background,,,,,,,,,,,,
+1997,Direct migration background,,,,,,,,,,,,
+1997,Indirect migration background,,,,,,,,,,,,
+1998,No migration background,,,,,,,,,,,,
+1998,Direct migration background,,,,,,,,,,,,
+1998,Indirect migration background,,,,,,,,,,,,
+1999,No migration background,,,,,,,,,,,,
+1999,Direct migration background,,,,,,,,,,,,
+1999,Indirect migration background,,,,,,,,,,,,
+2000,No migration background,,,,,,,,,,,,
+2000,Direct migration background,,,,,,,,,,,,
+2000,Indirect migration background,,,,,,,,,,,,
+2001,No migration background,,,,,,,,,,,,
+2001,Direct migration background,,,,,,,,,,,,
+2001,Indirect migration background,,,,,,,,,,,,
+2002,No migration background,,,,,,,,,,,,
+2002,Direct migration background,,,,,,,,,,,,
+2002,Indirect migration background,,,,,,,,,,,,
+2003,No migration background,,,,,,,,,,,,
+2003,Direct migration background,,,,,,,,,,,,
+2003,Indirect migration background,,,,,,,,,,,,
+2004,No migration background,,,,,,,,,,,,
+2004,Direct migration background,,,,,,,,,,,,
+2004,Indirect migration background,,,,,,,,,,,,
+2005,No migration background,5.433768878637773,5.426435736114758,5.441102021160788,4.666666507720947,5.666666507720947,6.333333492279053,2.166666030883789,7.0,5.666666507720947,5.666666507720947,5.999999523162842,17461.0
+2005,Direct migration background,5.536412820006244,5.515750373258325,5.557075266754162,4.666666507720947,5.666666507720947,6.333333492279053,2.166666030883789,7.0,5.666666507720947,5.666666507720947,5.666666507720947,2352.0
+2005,Indirect migration background,5.407679924527454,5.375775964979705,5.439583884075202,4.666666507720947,5.333333492279053,6.0,2.666666269302368,7.0,5.333333492279053,5.000000476837158,5.333333492279053,820.0
+2006,No migration background,,,,,,,,,,,,
+2006,Direct migration background,,,,,,,,,,,,
+2006,Indirect migration background,,,,,,,,,,,,
+2007,No migration background,,,,,,,,,,,,
+2007,Direct migration background,,,,,,,,,,,,
+2007,Indirect migration background,,,,,,,,,,,,
+2008,No migration background,,,,,,,,,,,,
+2008,Direct migration background,,,,,,,,,,,,
+2008,Indirect migration background,,,,,,,,,,,,
+2009,No migration background,5.270888050888725,5.263156551854616,5.278619549922833,4.666666507720947,5.333333492279053,6.0,2.666666269302368,7.0,5.333333492279053,5.333333492279053,5.333333492279053,15592.0
+2009,Direct migration background,5.344163564399473,5.318362047407419,5.369965081391527,4.666666507720947,5.333333492279053,6.0,2.666666269302368,7.0,5.333333492279053,5.333333492279053,5.333333492279053,1649.0
+2009,Indirect migration background,5.2913496582806525,5.257283697726108,5.325415618835197,4.666666507720947,5.333333492279053,6.0,2.666666269302368,7.0,5.333333492279053,5.333333492279053,5.333333492279053,704.0
+2010,No migration background,,,,,,,,,,,,
+2010,Direct migration background,,,,,,,,,,,,
+2010,Indirect migration background,,,,,,,,,,,,
+2011,No migration background,,,,,,,,,,,,
+2011,Direct migration background,,,,,,,,,,,,
+2011,Indirect migration background,,,,,,,,,,,,
+2012,No migration background,5.360550030478159,5.348368381293624,5.372731679662693,4.666666507720947,5.333333492279053,6.0,2.666666269302368,7.0,5.333333492279053,5.333333492279053,5.333333492279053,5540.0
+2012,Direct migration background,5.498599002461664,5.471037977132965,5.526160027790364,4.666666507720947,5.666666507720947,6.333333492279053,2.166666030883789,7.0,5.666666507720947,5.666666507720947,5.999999523162842,1137.0
+2012,Indirect migration background,5.45897543790311,5.416367548450461,5.501583327355759,5.0,5.666666507720947,6.333333492279053,2.999999761581421,7.0,5.666666507720947,5.666666507720947,5.999999523162842,443.0
+2013,No migration background,5.345124739881455,5.337713212345887,5.352536267417023,4.666666507720947,5.333333492279053,6.0,2.666666269302368,7.0,5.333333492279053,5.333333492279053,5.333333492279053,16378.0
+2013,Direct migration background,5.435934497006807,5.412404750109514,5.4594642439041,4.666666507720947,5.666666507720947,6.333333492279053,2.166666030883789,7.0,5.666666507720947,5.666666507720947,5.999999523162842,1722.0
+2013,Indirect migration background,5.290993126480698,5.255343041587982,5.326643211373415,4.666666507720947,5.333333492279053,6.0,2.6666667461395264,7.0,5.333333492279053,5.333333492279053,5.333333492279053,699.0
+2014,No migration background,,,,,,,,,,,,
+2014,Direct migration background,,,,,,,,,,,,
+2014,Indirect migration background,,,,,,,,,,,,
+2015,No migration background,,,,,,,,,,,,
+2015,Direct migration background,,,,,,,,,,,,
+2015,Indirect migration background,,,,,,,,,,,,
+2016,No migration background,,,,,,,,,,,,
+2016,Direct migration background,,,,,,,,,,,,
+2016,Indirect migration background,,,,,,,,,,,,
+2017,No migration background,5.356687108644443,5.350146825672134,5.363227391616752,4.666666507720947,5.333333492279053,6.0,2.666666269302368,7.0,5.333333492279053,5.333333492279053,5.333333492279053,20146.0
+2017,Direct migration background,5.469594255396301,5.4580849288842375,5.481103581908365,4.666666507720947,5.666666507720947,6.333333492279053,2.166666030883789,7.0,5.666666507720947,5.666666507720947,5.999999523162842,6865.0
+2017,Indirect migration background,5.342107240885719,5.319409352805487,5.36480512896595,4.666666507720947,5.333333492279053,6.0,2.666666269302368,7.0,5.333333492279053,5.000000476837158,5.333333492279053,1637.0
+2018,No migration background,,,,,,,,,,,,
+2018,Direct migration background,,,,,,,,,,,,
+2018,Indirect migration background,,,,,,,,,,,,
+2019,No migration background,5.35910017975502,5.352423556569928,5.365776802940113,4.666666507720947,5.333333492279053,6.0,2.666666269302368,7.0,5.333333492279053,5.333333492279053,5.333333492279053,20152.0
+2019,Direct migration background,5.469220450245452,5.453598038401946,5.484842862088957,4.666666507720947,5.666666507720947,6.333333492279053,2.166666030883789,7.0,5.666666507720947,5.666666507720947,5.999999523162842,3949.0
+2019,Indirect migration background,5.344926576713928,5.319608969632473,5.370244183795384,4.666666507720947,5.333333492279053,6.0,2.666666269302368,7.0,5.333333492279053,5.333333492279053,5.333333492279053,1571.0
+2020,No migration background,,,,,,,,,,,,
+2020,Direct migration background,,,,,,,,,,,,
+2020,Indirect migration background,,,,,,,,,,,,
+2021,No migration background,,,,,,,,,,,,
+2021,Direct migration background,,,,,,,,,,,,
+2021,Indirect migration background,,,,,,,,,,,,

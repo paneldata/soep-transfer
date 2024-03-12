@@ -1,67 +1,297 @@
-"year","age_gr","regtyp","mean","median","n","lower_confidence_mean","upper_confidence_mean"
-"2006","17-34","Laendlicher Raum","7.82","7.5","1751","7.73","7.91"
-"2006","17-34","Staedtischer Raum","7.7","7.5","3345","7.64","7.76"
-"2006","35-65","Laendlicher Raum","7.32","7.5","4213","7.26","7.38"
-"2006","35-65","Staedtischer Raum","7.33","7.5","8152","7.29","7.37"
-"2006","66 +","Laendlicher Raum","7.37","7.5","1539","7.27","7.47"
-"2006","66 +","Staedtischer Raum","7.42","7.5","2843","7.35","7.49"
-"2007","17-34","Laendlicher Raum","","","","",""
-"2007","17-34","Staedtischer Raum","","","","",""
-"2007","35-65","Laendlicher Raum","","","","",""
-"2007","35-65","Staedtischer Raum","","","","",""
-"2007","66 +","Laendlicher Raum","","","","",""
-"2007","66 +","Staedtischer Raum","","","","",""
-"2008","17-34","Laendlicher Raum","","","","",""
-"2008","17-34","Staedtischer Raum","","","","",""
-"2008","35-65","Laendlicher Raum","","","","",""
-"2008","35-65","Staedtischer Raum","","","","",""
-"2008","66 +","Laendlicher Raum","","","","",""
-"2008","66 +","Staedtischer Raum","","","","",""
-"2009","17-34","Laendlicher Raum","","","","",""
-"2009","17-34","Staedtischer Raum","","","","",""
-"2009","35-65","Laendlicher Raum","","","","",""
-"2009","35-65","Staedtischer Raum","","","","",""
-"2009","66 +","Laendlicher Raum","","","","",""
-"2009","66 +","Staedtischer Raum","","","","",""
-"2010","17-34","Laendlicher Raum","","","","",""
-"2010","17-34","Staedtischer Raum","","","","",""
-"2010","35-65","Laendlicher Raum","","","","",""
-"2010","35-65","Staedtischer Raum","","","","",""
-"2010","66 +","Laendlicher Raum","","","","",""
-"2010","66 +","Staedtischer Raum","","","","",""
-"2011","17-34","Laendlicher Raum","8.06","7.5","2226","7.99","8.13"
-"2011","17-34","Staedtischer Raum","7.96","7.5","4054","7.91","8.01"
-"2011","35-65","Laendlicher Raum","7.46","7.5","5470","7.41","7.51"
-"2011","35-65","Staedtischer Raum","7.47","7.5","9518","7.43","7.51"
-"2011","66 +","Laendlicher Raum","7.32","7.5","1534","7.22","7.42"
-"2011","66 +","Staedtischer Raum","7.45","7.5","2874","7.38","7.52"
-"2012","17-34","Laendlicher Raum","8.24","8.5","887","8.12","8.36"
-"2012","17-34","Staedtischer Raum","8.27","8.5","1317","8.18","8.36"
-"2012","35-65","Laendlicher Raum","8.01","7.5","1802","7.93","8.09"
-"2012","35-65","Staedtischer Raum","7.93","7.5","3099","7.87","7.99"
-"2012","66 +","Laendlicher Raum","","","","",""
-"2012","66 +","Staedtischer Raum","","","","",""
-"2013","17-34","Laendlicher Raum","8.28","8.5","816","8.16","8.4"
-"2013","17-34","Staedtischer Raum","8.24","8.5","1210","8.15","8.33"
-"2013","35-65","Laendlicher Raum","8.03","7.5","1735","7.95","8.11"
-"2013","35-65","Staedtischer Raum","7.91","7.5","3012","7.85","7.97"
-"2013","66 +","Laendlicher Raum","","","","",""
-"2013","66 +","Staedtischer Raum","","","","",""
-"2014","17-34","Laendlicher Raum","","","","",""
-"2014","17-34","Staedtischer Raum","","","","",""
-"2014","35-65","Laendlicher Raum","","","","",""
-"2014","35-65","Staedtischer Raum","","","","",""
-"2014","66 +","Laendlicher Raum","","","","",""
-"2014","66 +","Staedtischer Raum","","","","",""
-"2015","17-34","Laendlicher Raum","","","","",""
-"2015","17-34","Staedtischer Raum","","","","",""
-"2015","35-65","Laendlicher Raum","","","","",""
-"2015","35-65","Staedtischer Raum","","","","",""
-"2015","66 +","Laendlicher Raum","","","","",""
-"2015","66 +","Staedtischer Raum","","","","",""
-"2016","17-34","Laendlicher Raum","8","7.5","1779","7.92","8.08"
-"2016","17-34","Staedtischer Raum","8.01","7.5","3762","7.96","8.06"
-"2016","35-65","Laendlicher Raum","7.55","7.5","4950","7.5","7.6"
-"2016","35-65","Staedtischer Raum","7.51","7.5","8870","7.47","7.55"
-"2016","66 +","Laendlicher Raum","7.48","7.5","1727","7.39","7.57"
-"2016","66 +","Staedtischer Raum","7.49","7.5","2929","7.42","7.56"
+syear,age_gr,regtyp,mean,mean_lower_confidence,mean_upper_confidence,lower_quartile,boxplot_median,upper_quartile,lower_whisker,upper_whisker,median,median_lower_confidence,median_upper_confidence,n
+1985,17-29 J.,Urban regions,,,,,,,,,,,,
+1985,17-29 J.,Rural regions,,,,,,,,,,,,
+1985,30-45 J.,Urban regions,,,,,,,,,,,,
+1985,30-45 J.,Rural regions,,,,,,,,,,,,
+1985,46-65 J.,Urban regions,,,,,,,,,,,,
+1985,46-65 J.,Rural regions,,,,,,,,,,,,
+1985,66 und älter,Urban regions,,,,,,,,,,,,
+1985,66 und älter,Rural regions,,,,,,,,,,,,
+1986,17-29 J.,Urban regions,,,,,,,,,,,,
+1986,17-29 J.,Rural regions,,,,,,,,,,,,
+1986,30-45 J.,Urban regions,,,,,,,,,,,,
+1986,30-45 J.,Rural regions,,,,,,,,,,,,
+1986,46-65 J.,Urban regions,,,,,,,,,,,,
+1986,46-65 J.,Rural regions,,,,,,,,,,,,
+1986,66 und älter,Urban regions,,,,,,,,,,,,
+1986,66 und älter,Rural regions,,,,,,,,,,,,
+1987,17-29 J.,Urban regions,,,,,,,,,,,,
+1987,17-29 J.,Rural regions,,,,,,,,,,,,
+1987,30-45 J.,Urban regions,,,,,,,,,,,,
+1987,30-45 J.,Rural regions,,,,,,,,,,,,
+1987,46-65 J.,Urban regions,,,,,,,,,,,,
+1987,46-65 J.,Rural regions,,,,,,,,,,,,
+1987,66 und älter,Urban regions,,,,,,,,,,,,
+1987,66 und älter,Rural regions,,,,,,,,,,,,
+1988,17-29 J.,Urban regions,,,,,,,,,,,,
+1988,17-29 J.,Rural regions,,,,,,,,,,,,
+1988,30-45 J.,Urban regions,,,,,,,,,,,,
+1988,30-45 J.,Rural regions,,,,,,,,,,,,
+1988,46-65 J.,Urban regions,,,,,,,,,,,,
+1988,46-65 J.,Rural regions,,,,,,,,,,,,
+1988,66 und älter,Urban regions,,,,,,,,,,,,
+1988,66 und älter,Rural regions,,,,,,,,,,,,
+1989,17-29 J.,Urban regions,,,,,,,,,,,,
+1989,17-29 J.,Rural regions,,,,,,,,,,,,
+1989,30-45 J.,Urban regions,,,,,,,,,,,,
+1989,30-45 J.,Rural regions,,,,,,,,,,,,
+1989,46-65 J.,Urban regions,,,,,,,,,,,,
+1989,46-65 J.,Rural regions,,,,,,,,,,,,
+1989,66 und älter,Urban regions,,,,,,,,,,,,
+1989,66 und älter,Rural regions,,,,,,,,,,,,
+1990,17-29 J.,Urban regions,,,,,,,,,,,,
+1990,17-29 J.,Rural regions,,,,,,,,,,,,
+1990,30-45 J.,Urban regions,,,,,,,,,,,,
+1990,30-45 J.,Rural regions,,,,,,,,,,,,
+1990,46-65 J.,Urban regions,,,,,,,,,,,,
+1990,46-65 J.,Rural regions,,,,,,,,,,,,
+1990,66 und älter,Urban regions,,,,,,,,,,,,
+1990,66 und älter,Rural regions,,,,,,,,,,,,
+1991,17-29 J.,Urban regions,,,,,,,,,,,,
+1991,17-29 J.,Rural regions,,,,,,,,,,,,
+1991,30-45 J.,Urban regions,,,,,,,,,,,,
+1991,30-45 J.,Rural regions,,,,,,,,,,,,
+1991,46-65 J.,Urban regions,,,,,,,,,,,,
+1991,46-65 J.,Rural regions,,,,,,,,,,,,
+1991,66 und älter,Urban regions,,,,,,,,,,,,
+1991,66 und älter,Rural regions,,,,,,,,,,,,
+1992,17-29 J.,Urban regions,,,,,,,,,,,,
+1992,17-29 J.,Rural regions,,,,,,,,,,,,
+1992,30-45 J.,Urban regions,,,,,,,,,,,,
+1992,30-45 J.,Rural regions,,,,,,,,,,,,
+1992,46-65 J.,Urban regions,,,,,,,,,,,,
+1992,46-65 J.,Rural regions,,,,,,,,,,,,
+1992,66 und älter,Urban regions,,,,,,,,,,,,
+1992,66 und älter,Rural regions,,,,,,,,,,,,
+1993,17-29 J.,Urban regions,,,,,,,,,,,,
+1993,17-29 J.,Rural regions,,,,,,,,,,,,
+1993,30-45 J.,Urban regions,,,,,,,,,,,,
+1993,30-45 J.,Rural regions,,,,,,,,,,,,
+1993,46-65 J.,Urban regions,,,,,,,,,,,,
+1993,46-65 J.,Rural regions,,,,,,,,,,,,
+1993,66 und älter,Urban regions,,,,,,,,,,,,
+1993,66 und älter,Rural regions,,,,,,,,,,,,
+1994,17-29 J.,Urban regions,,,,,,,,,,,,
+1994,17-29 J.,Rural regions,,,,,,,,,,,,
+1994,30-45 J.,Urban regions,,,,,,,,,,,,
+1994,30-45 J.,Rural regions,,,,,,,,,,,,
+1994,46-65 J.,Urban regions,,,,,,,,,,,,
+1994,46-65 J.,Rural regions,,,,,,,,,,,,
+1994,66 und älter,Urban regions,,,,,,,,,,,,
+1994,66 und älter,Rural regions,,,,,,,,,,,,
+1995,17-29 J.,Urban regions,,,,,,,,,,,,
+1995,17-29 J.,Rural regions,,,,,,,,,,,,
+1995,30-45 J.,Urban regions,,,,,,,,,,,,
+1995,30-45 J.,Rural regions,,,,,,,,,,,,
+1995,46-65 J.,Urban regions,,,,,,,,,,,,
+1995,46-65 J.,Rural regions,,,,,,,,,,,,
+1995,66 und älter,Urban regions,,,,,,,,,,,,
+1995,66 und älter,Rural regions,,,,,,,,,,,,
+1996,17-29 J.,Urban regions,,,,,,,,,,,,
+1996,17-29 J.,Rural regions,,,,,,,,,,,,
+1996,30-45 J.,Urban regions,,,,,,,,,,,,
+1996,30-45 J.,Rural regions,,,,,,,,,,,,
+1996,46-65 J.,Urban regions,,,,,,,,,,,,
+1996,46-65 J.,Rural regions,,,,,,,,,,,,
+1996,66 und älter,Urban regions,,,,,,,,,,,,
+1996,66 und älter,Rural regions,,,,,,,,,,,,
+1997,17-29 J.,Urban regions,,,,,,,,,,,,
+1997,17-29 J.,Rural regions,,,,,,,,,,,,
+1997,30-45 J.,Urban regions,,,,,,,,,,,,
+1997,30-45 J.,Rural regions,,,,,,,,,,,,
+1997,46-65 J.,Urban regions,,,,,,,,,,,,
+1997,46-65 J.,Rural regions,,,,,,,,,,,,
+1997,66 und älter,Urban regions,,,,,,,,,,,,
+1997,66 und älter,Rural regions,,,,,,,,,,,,
+1998,17-29 J.,Urban regions,,,,,,,,,,,,
+1998,17-29 J.,Rural regions,,,,,,,,,,,,
+1998,30-45 J.,Urban regions,,,,,,,,,,,,
+1998,30-45 J.,Rural regions,,,,,,,,,,,,
+1998,46-65 J.,Urban regions,,,,,,,,,,,,
+1998,46-65 J.,Rural regions,,,,,,,,,,,,
+1998,66 und älter,Urban regions,,,,,,,,,,,,
+1998,66 und älter,Rural regions,,,,,,,,,,,,
+1999,17-29 J.,Urban regions,,,,,,,,,,,,
+1999,17-29 J.,Rural regions,,,,,,,,,,,,
+1999,30-45 J.,Urban regions,,,,,,,,,,,,
+1999,30-45 J.,Rural regions,,,,,,,,,,,,
+1999,46-65 J.,Urban regions,,,,,,,,,,,,
+1999,46-65 J.,Rural regions,,,,,,,,,,,,
+1999,66 und älter,Urban regions,,,,,,,,,,,,
+1999,66 und älter,Rural regions,,,,,,,,,,,,
+2000,17-29 J.,Urban regions,,,,,,,,,,,,
+2000,17-29 J.,Rural regions,,,,,,,,,,,,
+2000,30-45 J.,Urban regions,,,,,,,,,,,,
+2000,30-45 J.,Rural regions,,,,,,,,,,,,
+2000,46-65 J.,Urban regions,,,,,,,,,,,,
+2000,46-65 J.,Rural regions,,,,,,,,,,,,
+2000,66 und älter,Urban regions,,,,,,,,,,,,
+2000,66 und älter,Rural regions,,,,,,,,,,,,
+2001,17-29 J.,Urban regions,,,,,,,,,,,,
+2001,17-29 J.,Rural regions,,,,,,,,,,,,
+2001,30-45 J.,Urban regions,,,,,,,,,,,,
+2001,30-45 J.,Rural regions,,,,,,,,,,,,
+2001,46-65 J.,Urban regions,,,,,,,,,,,,
+2001,46-65 J.,Rural regions,,,,,,,,,,,,
+2001,66 und älter,Urban regions,,,,,,,,,,,,
+2001,66 und älter,Rural regions,,,,,,,,,,,,
+2002,17-29 J.,Urban regions,,,,,,,,,,,,
+2002,17-29 J.,Rural regions,,,,,,,,,,,,
+2002,30-45 J.,Urban regions,,,,,,,,,,,,
+2002,30-45 J.,Rural regions,,,,,,,,,,,,
+2002,46-65 J.,Urban regions,,,,,,,,,,,,
+2002,46-65 J.,Rural regions,,,,,,,,,,,,
+2002,66 und älter,Urban regions,,,,,,,,,,,,
+2002,66 und älter,Rural regions,,,,,,,,,,,,
+2003,17-29 J.,Urban regions,,,,,,,,,,,,
+2003,17-29 J.,Rural regions,,,,,,,,,,,,
+2003,30-45 J.,Urban regions,,,,,,,,,,,,
+2003,30-45 J.,Rural regions,,,,,,,,,,,,
+2003,46-65 J.,Urban regions,,,,,,,,,,,,
+2003,46-65 J.,Rural regions,,,,,,,,,,,,
+2003,66 und älter,Urban regions,,,,,,,,,,,,
+2003,66 und älter,Rural regions,,,,,,,,,,,,
+2004,17-29 J.,Urban regions,,,,,,,,,,,,
+2004,17-29 J.,Rural regions,,,,,,,,,,,,
+2004,30-45 J.,Urban regions,,,,,,,,,,,,
+2004,30-45 J.,Rural regions,,,,,,,,,,,,
+2004,46-65 J.,Urban regions,,,,,,,,,,,,
+2004,46-65 J.,Rural regions,,,,,,,,,,,,
+2004,66 und älter,Urban regions,,,,,,,,,,,,
+2004,66 und älter,Rural regions,,,,,,,,,,,,
+2005,17-29 J.,Urban regions,,,,,,,,,,,,
+2005,17-29 J.,Rural regions,,,,,,,,,,,,
+2005,30-45 J.,Urban regions,,,,,,,,,,,,
+2005,30-45 J.,Rural regions,,,,,,,,,,,,
+2005,46-65 J.,Urban regions,,,,,,,,,,,,
+2005,46-65 J.,Rural regions,,,,,,,,,,,,
+2005,66 und älter,Urban regions,,,,,,,,,,,,
+2005,66 und älter,Rural regions,,,,,,,,,,,,
+2006,17-29 J.,Urban regions,7.740012866045789,7.702539213518636,7.777486518572942,7.0,8.0,9.0,4.0,10.0,8.0,8.0,8.0,2387.0
+2006,17-29 J.,Rural regions,7.985492607397281,7.937332715418018,8.033652499376544,7.0,8.0,9.0,4.0,10.0,8.0,8.0,8.0,1275.0
+2006,30-45 J.,Urban regions,7.3856686532217175,7.357730548010617,7.413606758432818,7.0,8.0,9.0,4.0,10.0,8.0,8.0,8.0,4220.0
+2006,30-45 J.,Rural regions,7.3088387697589345,7.268436058947076,7.349241480570793,6.0,8.0,9.0,1.5,10.0,8.0,8.0,8.0,2049.0
+2006,46-65 J.,Urban regions,7.338087140998268,7.312293029624884,7.363881252371652,6.0,8.0,9.0,1.5,10.0,8.0,8.0,8.0,4919.0
+2006,46-65 J.,Rural regions,7.3331055677465615,7.297594739837943,7.36861639565518,6.0,8.0,9.0,1.5,10.0,8.0,8.0,8.0,2612.0
+2006,66 und älter,Urban regions,7.420969585803083,7.384215919991021,7.457723251615144,6.0,8.0,9.0,1.5,10.0,8.0,8.0,8.0,2842.0
+2006,66 und älter,Rural regions,7.373328273038345,7.3233782426494045,7.423278303427285,6.0,8.0,9.0,1.5,10.0,8.0,8.0,8.0,1539.0
+2007,17-29 J.,Urban regions,,,,,,,,,,,,
+2007,17-29 J.,Rural regions,,,,,,,,,,,,
+2007,30-45 J.,Urban regions,,,,,,,,,,,,
+2007,30-45 J.,Rural regions,,,,,,,,,,,,
+2007,46-65 J.,Urban regions,,,,,,,,,,,,
+2007,46-65 J.,Rural regions,,,,,,,,,,,,
+2007,66 und älter,Urban regions,,,,,,,,,,,,
+2007,66 und älter,Rural regions,,,,,,,,,,,,
+2008,17-29 J.,Urban regions,,,,,,,,,,,,
+2008,17-29 J.,Rural regions,,,,,,,,,,,,
+2008,30-45 J.,Urban regions,,,,,,,,,,,,
+2008,30-45 J.,Rural regions,,,,,,,,,,,,
+2008,46-65 J.,Urban regions,,,,,,,,,,,,
+2008,46-65 J.,Rural regions,,,,,,,,,,,,
+2008,66 und älter,Urban regions,,,,,,,,,,,,
+2008,66 und älter,Rural regions,,,,,,,,,,,,
+2009,17-29 J.,Urban regions,,,,,,,,,,,,
+2009,17-29 J.,Rural regions,,,,,,,,,,,,
+2009,30-45 J.,Urban regions,,,,,,,,,,,,
+2009,30-45 J.,Rural regions,,,,,,,,,,,,
+2009,46-65 J.,Urban regions,,,,,,,,,,,,
+2009,46-65 J.,Rural regions,,,,,,,,,,,,
+2009,66 und älter,Urban regions,,,,,,,,,,,,
+2009,66 und älter,Rural regions,,,,,,,,,,,,
+2010,17-29 J.,Urban regions,,,,,,,,,,,,
+2010,17-29 J.,Rural regions,,,,,,,,,,,,
+2010,30-45 J.,Urban regions,,,,,,,,,,,,
+2010,30-45 J.,Rural regions,,,,,,,,,,,,
+2010,46-65 J.,Urban regions,,,,,,,,,,,,
+2010,46-65 J.,Rural regions,,,,,,,,,,,,
+2010,66 und älter,Urban regions,,,,,,,,,,,,
+2010,66 und älter,Rural regions,,,,,,,,,,,,
+2011,17-29 J.,Urban regions,8.04077035179077,8.00798847030945,8.073552233272089,7.0,8.0,9.0,4.0,10.0,8.0,8.0,8.0,2446.0
+2011,17-29 J.,Rural regions,8.101099525042178,8.055472747651175,8.146726302433182,7.0,8.0,9.0,4.0,10.0,8.0,7.0,8.0,1350.0
+2011,30-45 J.,Urban regions,7.696254089193525,7.674092750536488,7.718415427850562,7.0,8.0,9.0,4.0,10.0,8.0,8.0,8.0,6052.0
+2011,30-45 J.,Rural regions,7.686607853408751,7.656131944924051,7.717083761893451,7.0,8.0,9.0,4.0,10.0,8.0,8.0,8.0,3280.0
+2011,46-65 J.,Urban regions,7.357252591869187,7.331067418337802,7.383437765400573,6.0,8.0,9.0,1.5,10.0,8.0,8.0,8.0,5106.0
+2011,46-65 J.,Rural regions,7.4019637223107875,7.3698872795586094,7.4340401650629655,6.0,8.0,9.0,1.5,10.0,8.0,8.0,8.0,3035.0
+2011,66 und älter,Urban regions,7.448153182942808,7.410794866976854,7.485511498908762,6.0,8.0,9.0,1.5,10.0,8.0,8.0,8.0,2873.0
+2011,66 und älter,Rural regions,7.32046120090019,7.26949901317612,7.371423388624259,6.0,8.0,9.0,1.5,10.0,8.0,8.0,8.0,1534.0
+2012,17-29 J.,Urban regions,,,,,,,,,,,,
+2012,17-29 J.,Rural regions,,,,,,,,,,,,
+2012,30-45 J.,Urban regions,,,,,,,,,,,,
+2012,30-45 J.,Rural regions,,,,,,,,,,,,
+2012,46-65 J.,Urban regions,,,,,,,,,,,,
+2012,46-65 J.,Rural regions,,,,,,,,,,,,
+2012,66 und älter,Urban regions,,,,,,,,,,,,
+2012,66 und älter,Rural regions,,,,,,,,,,,,
+2013,17-29 J.,Urban regions,,,,,,,,,,,,
+2013,17-29 J.,Rural regions,,,,,,,,,,,,
+2013,30-45 J.,Urban regions,,,,,,,,,,,,
+2013,30-45 J.,Rural regions,,,,,,,,,,,,
+2013,46-65 J.,Urban regions,,,,,,,,,,,,
+2013,46-65 J.,Rural regions,,,,,,,,,,,,
+2013,66 und älter,Urban regions,,,,,,,,,,,,
+2013,66 und älter,Rural regions,,,,,,,,,,,,
+2014,17-29 J.,Urban regions,,,,,,,,,,,,
+2014,17-29 J.,Rural regions,,,,,,,,,,,,
+2014,30-45 J.,Urban regions,,,,,,,,,,,,
+2014,30-45 J.,Rural regions,,,,,,,,,,,,
+2014,46-65 J.,Urban regions,,,,,,,,,,,,
+2014,46-65 J.,Rural regions,,,,,,,,,,,,
+2014,66 und älter,Urban regions,,,,,,,,,,,,
+2014,66 und älter,Rural regions,,,,,,,,,,,,
+2015,17-29 J.,Urban regions,,,,,,,,,,,,
+2015,17-29 J.,Rural regions,,,,,,,,,,,,
+2015,30-45 J.,Urban regions,,,,,,,,,,,,
+2015,30-45 J.,Rural regions,,,,,,,,,,,,
+2015,46-65 J.,Urban regions,,,,,,,,,,,,
+2015,46-65 J.,Rural regions,,,,,,,,,,,,
+2015,66 und älter,Urban regions,,,,,,,,,,,,
+2015,66 und älter,Rural regions,,,,,,,,,,,,
+2016,17-29 J.,Urban regions,8.092900237054618,8.062078210805987,8.123722263303248,7.0,8.0,9.0,4.0,10.0,8.0,8.0,8.0,2571.0
+2016,17-29 J.,Rural regions,8.007928171079731,7.959589032990363,8.0562673091691,7.0,8.0,9.0,4.0,10.0,8.0,8.0,8.0,1217.0
+2016,30-45 J.,Urban regions,7.638736660968918,7.6143783751440415,7.663094946793794,7.0,8.0,9.0,4.0,10.0,8.0,8.0,8.0,4653.0
+2016,30-45 J.,Rural regions,7.829518256941606,7.798852763832259,7.860183750050953,7.0,8.0,9.0,4.0,10.0,8.0,8.0,8.0,2367.0
+2016,46-65 J.,Urban regions,7.483503372908765,7.458320768165391,7.508685977652139,7.0,8.0,9.0,4.0,10.0,8.0,8.0,8.0,5424.0
+2016,46-65 J.,Rural regions,7.4547793309803225,7.423157894463901,7.486400767496744,7.0,8.0,9.0,4.0,10.0,8.0,8.0,8.0,3130.0
+2016,66 und älter,Urban regions,7.4896490156402775,7.456559587450159,7.522738443830396,7.0,8.0,9.0,4.0,10.0,8.0,8.0,8.0,2930.0
+2016,66 und älter,Rural regions,7.4698846905516225,7.427939355319202,7.511830025784043,7.0,8.0,9.0,4.0,10.0,8.0,8.0,8.0,1725.0
+2017,17-29 J.,Urban regions,,,,,,,,,,,,
+2017,17-29 J.,Rural regions,,,,,,,,,,,,
+2017,30-45 J.,Urban regions,,,,,,,,,,,,
+2017,30-45 J.,Rural regions,,,,,,,,,,,,
+2017,46-65 J.,Urban regions,,,,,,,,,,,,
+2017,46-65 J.,Rural regions,,,,,,,,,,,,
+2017,66 und älter,Urban regions,,,,,,,,,,,,
+2017,66 und älter,Rural regions,,,,,,,,,,,,
+2018,17-29 J.,Urban regions,,,,,,,,,,,,
+2018,17-29 J.,Rural regions,,,,,,,,,,,,
+2018,30-45 J.,Urban regions,,,,,,,,,,,,
+2018,30-45 J.,Rural regions,,,,,,,,,,,,
+2018,46-65 J.,Urban regions,,,,,,,,,,,,
+2018,46-65 J.,Rural regions,,,,,,,,,,,,
+2018,66 und älter,Urban regions,,,,,,,,,,,,
+2018,66 und älter,Rural regions,,,,,,,,,,,,
+2019,17-29 J.,Urban regions,,,,,,,,,,,,
+2019,17-29 J.,Rural regions,,,,,,,,,,,,
+2019,30-45 J.,Urban regions,,,,,,,,,,,,
+2019,30-45 J.,Rural regions,,,,,,,,,,,,
+2019,46-65 J.,Urban regions,,,,,,,,,,,,
+2019,46-65 J.,Rural regions,,,,,,,,,,,,
+2019,66 und älter,Urban regions,,,,,,,,,,,,
+2019,66 und älter,Rural regions,,,,,,,,,,,,
+2020,17-29 J.,Urban regions,,,,,,,,,,,,
+2020,17-29 J.,Rural regions,,,,,,,,,,,,
+2020,30-45 J.,Urban regions,,,,,,,,,,,,
+2020,30-45 J.,Rural regions,,,,,,,,,,,,
+2020,46-65 J.,Urban regions,,,,,,,,,,,,
+2020,46-65 J.,Rural regions,,,,,,,,,,,,
+2020,66 und älter,Urban regions,,,,,,,,,,,,
+2020,66 und älter,Rural regions,,,,,,,,,,,,
+2021,17-29 J.,Urban regions,,,,,,,,,,,,
+2021,17-29 J.,Rural regions,,,,,,,,,,,,
+2021,30-45 J.,Urban regions,,,,,,,,,,,,
+2021,30-45 J.,Rural regions,,,,,,,,,,,,
+2021,46-65 J.,Urban regions,,,,,,,,,,,,
+2021,46-65 J.,Rural regions,,,,,,,,,,,,
+2021,66 und älter,Urban regions,,,,,,,,,,,,
+2021,66 und älter,Rural regions,,,,,,,,,,,,

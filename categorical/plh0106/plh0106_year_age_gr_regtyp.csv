@@ -1,649 +1,257 @@
-"plh0106","year","age_gr","regtyp","n","percent","lower_confidence","upper_confidence"
-"1 Sehr wichtig","1990","17-34","Staedtischer Raum","593","0.305783112456866","0.285437568133129","0.326128656780602"
-"1 Sehr wichtig","1990","17-34","Laendlicher Raum","170","0.280285340409116","0.245324341864557","0.315246338953674"
-"1 Sehr wichtig","1990","35-65","Staedtischer Raum","394","0.152932458254682","0.139264934549436","0.166599981959928"
-"1 Sehr wichtig","1990","35-65","Laendlicher Raum","105","0.13248665152719","0.108979562814046","0.155993740240335"
-"1 Sehr wichtig","1990","66 +","Staedtischer Raum","49","0.0592680487893747","0.0423010556014037","0.0762350419773456"
-"1 Sehr wichtig","1990","66 +","Laendlicher Raum","","","",""
-"2 Wichtig","1990","17-34","Staedtischer Raum","1083","0.55273092976292","0.530774774408156","0.574687085117684"
-"2 Wichtig","1990","17-34","Laendlicher Raum","369","0.573633602431829","0.535137900858117","0.612129304005542"
-"2 Wichtig","1990","35-65","Staedtischer Raum","1420","0.527842104293118","0.508884798138602","0.546799410447633"
-"2 Wichtig","1990","35-65","Laendlicher Raum","439","0.537547100632603","0.502975720573216","0.572118480691989"
-"2 Wichtig","1990","66 +","Staedtischer Raum","300","0.416082424382497","0.380664175724818","0.451500673040177"
-"2 Wichtig","1990","66 +","Laendlicher Raum","117","0.451363423883304","0.390044660085318","0.51268218768129"
-"3 Weniger wichtig","1990","17-34","Staedtischer Raum","280","0.13561173000375","0.120492905061124","0.150730554946376"
-"3 Weniger wichtig","1990","17-34","Laendlicher Raum","89","0.13753575645061","0.110726681939287","0.164344830961933"
-"3 Weniger wichtig","1990","35-65","Staedtischer Raum","747","0.27976038299471","0.262714771301376","0.296805994688044"
-"3 Weniger wichtig","1990","35-65","Laendlicher Raum","212","0.271418009155005","0.240583769204991","0.302252249105019"
-"3 Weniger wichtig","1990","66 +","Staedtischer Raum","291","0.388603697501451","0.353578830770163","0.423628564232739"
-"3 Weniger wichtig","1990","66 +","Laendlicher Raum","88","0.362691911424102","0.303449670114317","0.421934152733887"
-"4 Ganz unwichtig","1990","17-34","Staedtischer Raum","","","",""
-"4 Ganz unwichtig","1990","17-34","Laendlicher Raum","","","",""
-"4 Ganz unwichtig","1990","35-65","Staedtischer Raum","103","0.039465054457491","0.0320716592980127","0.0468584496169692"
-"4 Ganz unwichtig","1990","35-65","Laendlicher Raum","43","0.0585482386852018","0.0422691287949872","0.0748273485754163"
-"4 Ganz unwichtig","1990","66 +","Staedtischer Raum","104","0.136045829326677","0.111410998046754","0.1606806606066"
-"4 Ganz unwichtig","1990","66 +","Laendlicher Raum","40","0.157777281186434","0.11285895748029","0.202695604892578"
-"1 Sehr wichtig","1991","17-34","Staedtischer Raum","","","",""
-"1 Sehr wichtig","1991","17-34","Laendlicher Raum","","","",""
-"1 Sehr wichtig","1991","35-65","Staedtischer Raum","","","",""
-"1 Sehr wichtig","1991","35-65","Laendlicher Raum","","","",""
-"1 Sehr wichtig","1991","66 +","Staedtischer Raum","","","",""
-"1 Sehr wichtig","1991","66 +","Laendlicher Raum","","","",""
-"2 Wichtig","1991","17-34","Staedtischer Raum","","","",""
-"2 Wichtig","1991","17-34","Laendlicher Raum","","","",""
-"2 Wichtig","1991","35-65","Staedtischer Raum","","","",""
-"2 Wichtig","1991","35-65","Laendlicher Raum","","","",""
-"2 Wichtig","1991","66 +","Staedtischer Raum","","","",""
-"2 Wichtig","1991","66 +","Laendlicher Raum","","","",""
-"3 Weniger wichtig","1991","17-34","Staedtischer Raum","","","",""
-"3 Weniger wichtig","1991","17-34","Laendlicher Raum","","","",""
-"3 Weniger wichtig","1991","35-65","Staedtischer Raum","","","",""
-"3 Weniger wichtig","1991","35-65","Laendlicher Raum","","","",""
-"3 Weniger wichtig","1991","66 +","Staedtischer Raum","","","",""
-"3 Weniger wichtig","1991","66 +","Laendlicher Raum","","","",""
-"4 Ganz unwichtig","1991","17-34","Staedtischer Raum","","","",""
-"4 Ganz unwichtig","1991","17-34","Laendlicher Raum","","","",""
-"4 Ganz unwichtig","1991","35-65","Staedtischer Raum","","","",""
-"4 Ganz unwichtig","1991","35-65","Laendlicher Raum","","","",""
-"4 Ganz unwichtig","1991","66 +","Staedtischer Raum","","","",""
-"4 Ganz unwichtig","1991","66 +","Laendlicher Raum","","","",""
-"1 Sehr wichtig","1992","17-34","Staedtischer Raum","700","0.298920191300126","0.280247905760044","0.317592476840209"
-"1 Sehr wichtig","1992","17-34","Laendlicher Raum","468","0.28899951658399","0.266454743454453","0.311544289713527"
-"1 Sehr wichtig","1992","35-65","Staedtischer Raum","555","0.158750420454346","0.146403022974003","0.17109781793469"
-"1 Sehr wichtig","1992","35-65","Laendlicher Raum","383","0.171941159372016","0.156083503649534","0.187798815094499"
-"1 Sehr wichtig","1992","66 +","Staedtischer Raum","50","0.0520559876509437","0.037192143730889","0.0669198315709985"
-"1 Sehr wichtig","1992","66 +","Laendlicher Raum","31","0.0641319337993978","0.0425281860059602","0.0857356815928353"
-"2 Wichtig","1992","17-34","Staedtischer Raum","1281","0.574543476681043","0.554377225742232","0.594709727619854"
-"2 Wichtig","1992","17-34","Laendlicher Raum","846","0.536982722432265","0.512183325611919","0.56178211925261"
-"2 Wichtig","1992","35-65","Staedtischer Raum","1747","0.513619698444023","0.49673223657831","0.530507160309735"
-"2 Wichtig","1992","35-65","Laendlicher Raum","1165","0.501919063102529","0.48090619832017","0.522931927884888"
-"2 Wichtig","1992","66 +","Staedtischer Raum","318","0.372518309873649","0.340167974460161","0.404868645287136"
-"2 Wichtig","1992","66 +","Laendlicher Raum","185","0.366496081857527","0.324005376826607","0.408986786888447"
-"3 Weniger wichtig","1992","17-34","Staedtischer Raum","303","0.118664597064085","0.105473913045994","0.131855281082175"
-"3 Weniger wichtig","1992","17-34","Laendlicher Raum","226","0.163512435105623","0.145118802785276","0.181906067425969"
-"3 Weniger wichtig","1992","35-65","Staedtischer Raum","903","0.275671481380984","0.260573486661155","0.290769476100813"
-"3 Weniger wichtig","1992","35-65","Laendlicher Raum","549","0.277895906468731","0.259069846463767","0.296721966473694"
-"3 Weniger wichtig","1992","66 +","Staedtischer Raum","318","0.367116754103647","0.334863885375472","0.399369622831823"
-"3 Weniger wichtig","1992","66 +","Laendlicher Raum","183","0.366514228958596","0.324023080579647","0.409005377337546"
-"4 Ganz unwichtig","1992","17-34","Staedtischer Raum","","","",""
-"4 Ganz unwichtig","1992","17-34","Laendlicher Raum","","","",""
-"4 Ganz unwichtig","1992","35-65","Staedtischer Raum","160","0.0519583997206469","0.0444595070551724","0.0594572923861215"
-"4 Ganz unwichtig","1992","35-65","Laendlicher Raum","78","0.0482438710567241","0.0392384841720762","0.057249257941372"
-"4 Ganz unwichtig","1992","66 +","Staedtischer Raum","172","0.20830894837176","0.181136030359514","0.235481866384007"
-"4 Ganz unwichtig","1992","66 +","Laendlicher Raum","95","0.202857755384479","0.167396971068857","0.238318539700101"
-"1 Sehr wichtig","1993","17-34","Staedtischer Raum","","","",""
-"1 Sehr wichtig","1993","17-34","Laendlicher Raum","","","",""
-"1 Sehr wichtig","1993","35-65","Staedtischer Raum","","","",""
-"1 Sehr wichtig","1993","35-65","Laendlicher Raum","","","",""
-"1 Sehr wichtig","1993","66 +","Staedtischer Raum","","","",""
-"1 Sehr wichtig","1993","66 +","Laendlicher Raum","","","",""
-"2 Wichtig","1993","17-34","Staedtischer Raum","","","",""
-"2 Wichtig","1993","17-34","Laendlicher Raum","","","",""
-"2 Wichtig","1993","35-65","Staedtischer Raum","","","",""
-"2 Wichtig","1993","35-65","Laendlicher Raum","","","",""
-"2 Wichtig","1993","66 +","Staedtischer Raum","","","",""
-"2 Wichtig","1993","66 +","Laendlicher Raum","","","",""
-"3 Weniger wichtig","1993","17-34","Staedtischer Raum","","","",""
-"3 Weniger wichtig","1993","17-34","Laendlicher Raum","","","",""
-"3 Weniger wichtig","1993","35-65","Staedtischer Raum","","","",""
-"3 Weniger wichtig","1993","35-65","Laendlicher Raum","","","",""
-"3 Weniger wichtig","1993","66 +","Staedtischer Raum","","","",""
-"3 Weniger wichtig","1993","66 +","Laendlicher Raum","","","",""
-"4 Ganz unwichtig","1993","17-34","Staedtischer Raum","","","",""
-"4 Ganz unwichtig","1993","17-34","Laendlicher Raum","","","",""
-"4 Ganz unwichtig","1993","35-65","Staedtischer Raum","","","",""
-"4 Ganz unwichtig","1993","35-65","Laendlicher Raum","","","",""
-"4 Ganz unwichtig","1993","66 +","Staedtischer Raum","","","",""
-"4 Ganz unwichtig","1993","66 +","Laendlicher Raum","","","",""
-"1 Sehr wichtig","1994","17-34","Staedtischer Raum","","","",""
-"1 Sehr wichtig","1994","17-34","Laendlicher Raum","","","",""
-"1 Sehr wichtig","1994","35-65","Staedtischer Raum","","","",""
-"1 Sehr wichtig","1994","35-65","Laendlicher Raum","","","",""
-"1 Sehr wichtig","1994","66 +","Staedtischer Raum","","","",""
-"1 Sehr wichtig","1994","66 +","Laendlicher Raum","","","",""
-"2 Wichtig","1994","17-34","Staedtischer Raum","","","",""
-"2 Wichtig","1994","17-34","Laendlicher Raum","","","",""
-"2 Wichtig","1994","35-65","Staedtischer Raum","","","",""
-"2 Wichtig","1994","35-65","Laendlicher Raum","","","",""
-"2 Wichtig","1994","66 +","Staedtischer Raum","","","",""
-"2 Wichtig","1994","66 +","Laendlicher Raum","","","",""
-"3 Weniger wichtig","1994","17-34","Staedtischer Raum","","","",""
-"3 Weniger wichtig","1994","17-34","Laendlicher Raum","","","",""
-"3 Weniger wichtig","1994","35-65","Staedtischer Raum","","","",""
-"3 Weniger wichtig","1994","35-65","Laendlicher Raum","","","",""
-"3 Weniger wichtig","1994","66 +","Staedtischer Raum","","","",""
-"3 Weniger wichtig","1994","66 +","Laendlicher Raum","","","",""
-"4 Ganz unwichtig","1994","17-34","Staedtischer Raum","","","",""
-"4 Ganz unwichtig","1994","17-34","Laendlicher Raum","","","",""
-"4 Ganz unwichtig","1994","35-65","Staedtischer Raum","","","",""
-"4 Ganz unwichtig","1994","35-65","Laendlicher Raum","","","",""
-"4 Ganz unwichtig","1994","66 +","Staedtischer Raum","","","",""
-"4 Ganz unwichtig","1994","66 +","Laendlicher Raum","","","",""
-"1 Sehr wichtig","1995","17-34","Staedtischer Raum","764","0.317221658495289","0.298732843025545","0.335710473965032"
-"1 Sehr wichtig","1995","17-34","Laendlicher Raum","471","0.295479910407773","0.272595525562822","0.318364295252723"
-"1 Sehr wichtig","1995","35-65","Staedtischer Raum","588","0.168202388043951","0.155774899188998","0.180629876898905"
-"1 Sehr wichtig","1995","35-65","Laendlicher Raum","365","0.15553044981184","0.140582355356034","0.170478544267646"
-"1 Sehr wichtig","1995","66 +","Staedtischer Raum","58","0.0685314761445801","0.0522671018925967","0.0847958503965635"
-"1 Sehr wichtig","1995","66 +","Laendlicher Raum","34","0.0595221549421581","0.0387420839322863","0.0803022259520299"
-"2 Wichtig","1995","17-34","Staedtischer Raum","1357","0.554733666152872","0.534989445506441","0.574477886799303"
-"2 Wichtig","1995","17-34","Laendlicher Raum","855","0.554738896087643","0.529811307931073","0.579666484244212"
-"2 Wichtig","1995","35-65","Staedtischer Raum","1865","0.520567900152777","0.503969710768312","0.537166089537241"
-"2 Wichtig","1995","35-65","Laendlicher Raum","1360","0.576470198294192","0.556089618258965","0.59685077832942"
-"2 Wichtig","1995","66 +","Staedtischer Raum","395","0.411789398427601","0.380107424769845","0.443471372085356"
-"2 Wichtig","1995","66 +","Laendlicher Raum","193","0.386822598311523","0.344048347766457","0.429596848856589"
-"3 Weniger wichtig","1995","17-34","Staedtischer Raum","291","0.119536235236117","0.106648003549101","0.132424466923133"
-"3 Weniger wichtig","1995","17-34","Laendlicher Raum","193","0.144983808141682","0.127324426452421","0.162643189830943"
-"3 Weniger wichtig","1995","35-65","Staedtischer Raum","897","0.269283246408352","0.254545276391697","0.284021216425006"
-"3 Weniger wichtig","1995","35-65","Laendlicher Raum","467","0.226103690808057","0.208850026828511","0.243357354787603"
-"3 Weniger wichtig","1995","66 +","Staedtischer Raum","336","0.360428436895033","0.329521047695518","0.391335826094549"
-"3 Weniger wichtig","1995","66 +","Laendlicher Raum","184","0.361750718095289","0.31954869332956","0.403952742861018"
-"4 Ganz unwichtig","1995","17-34","Staedtischer Raum","","","",""
-"4 Ganz unwichtig","1995","17-34","Laendlicher Raum","","","",""
-"4 Ganz unwichtig","1995","35-65","Staedtischer Raum","130","0.04194646539492","0.0352860541817014","0.0486068766081386"
-"4 Ganz unwichtig","1995","35-65","Laendlicher Raum","66","0.0418956610859109","0.0336319133812533","0.0501594087905685"
-"4 Ganz unwichtig","1995","66 +","Staedtischer Raum","138","0.159250688532786","0.135695740877625","0.182805636187946"
-"4 Ganz unwichtig","1995","66 +","Laendlicher Raum","87","0.19190452865103","0.157317968738113","0.226491088563948"
-"1 Sehr wichtig","1996","17-34","Staedtischer Raum","","","",""
-"1 Sehr wichtig","1996","17-34","Laendlicher Raum","","","",""
-"1 Sehr wichtig","1996","35-65","Staedtischer Raum","","","",""
-"1 Sehr wichtig","1996","35-65","Laendlicher Raum","","","",""
-"1 Sehr wichtig","1996","66 +","Staedtischer Raum","","","",""
-"1 Sehr wichtig","1996","66 +","Laendlicher Raum","","","",""
-"2 Wichtig","1996","17-34","Staedtischer Raum","","","",""
-"2 Wichtig","1996","17-34","Laendlicher Raum","","","",""
-"2 Wichtig","1996","35-65","Staedtischer Raum","","","",""
-"2 Wichtig","1996","35-65","Laendlicher Raum","","","",""
-"2 Wichtig","1996","66 +","Staedtischer Raum","","","",""
-"2 Wichtig","1996","66 +","Laendlicher Raum","","","",""
-"3 Weniger wichtig","1996","17-34","Staedtischer Raum","","","",""
-"3 Weniger wichtig","1996","17-34","Laendlicher Raum","","","",""
-"3 Weniger wichtig","1996","35-65","Staedtischer Raum","","","",""
-"3 Weniger wichtig","1996","35-65","Laendlicher Raum","","","",""
-"3 Weniger wichtig","1996","66 +","Staedtischer Raum","","","",""
-"3 Weniger wichtig","1996","66 +","Laendlicher Raum","","","",""
-"4 Ganz unwichtig","1996","17-34","Staedtischer Raum","","","",""
-"4 Ganz unwichtig","1996","17-34","Laendlicher Raum","","","",""
-"4 Ganz unwichtig","1996","35-65","Staedtischer Raum","","","",""
-"4 Ganz unwichtig","1996","35-65","Laendlicher Raum","","","",""
-"4 Ganz unwichtig","1996","66 +","Staedtischer Raum","","","",""
-"4 Ganz unwichtig","1996","66 +","Laendlicher Raum","","","",""
-"1 Sehr wichtig","1997","17-34","Staedtischer Raum","","","",""
-"1 Sehr wichtig","1997","17-34","Laendlicher Raum","","","",""
-"1 Sehr wichtig","1997","35-65","Staedtischer Raum","","","",""
-"1 Sehr wichtig","1997","35-65","Laendlicher Raum","","","",""
-"1 Sehr wichtig","1997","66 +","Staedtischer Raum","","","",""
-"1 Sehr wichtig","1997","66 +","Laendlicher Raum","","","",""
-"2 Wichtig","1997","17-34","Staedtischer Raum","","","",""
-"2 Wichtig","1997","17-34","Laendlicher Raum","","","",""
-"2 Wichtig","1997","35-65","Staedtischer Raum","","","",""
-"2 Wichtig","1997","35-65","Laendlicher Raum","","","",""
-"2 Wichtig","1997","66 +","Staedtischer Raum","","","",""
-"2 Wichtig","1997","66 +","Laendlicher Raum","","","",""
-"3 Weniger wichtig","1997","17-34","Staedtischer Raum","","","",""
-"3 Weniger wichtig","1997","17-34","Laendlicher Raum","","","",""
-"3 Weniger wichtig","1997","35-65","Staedtischer Raum","","","",""
-"3 Weniger wichtig","1997","35-65","Laendlicher Raum","","","",""
-"3 Weniger wichtig","1997","66 +","Staedtischer Raum","","","",""
-"3 Weniger wichtig","1997","66 +","Laendlicher Raum","","","",""
-"4 Ganz unwichtig","1997","17-34","Staedtischer Raum","","","",""
-"4 Ganz unwichtig","1997","17-34","Laendlicher Raum","","","",""
-"4 Ganz unwichtig","1997","35-65","Staedtischer Raum","","","",""
-"4 Ganz unwichtig","1997","35-65","Laendlicher Raum","","","",""
-"4 Ganz unwichtig","1997","66 +","Staedtischer Raum","","","",""
-"4 Ganz unwichtig","1997","66 +","Laendlicher Raum","","","",""
-"1 Sehr wichtig","1998","17-34","Staedtischer Raum","","","",""
-"1 Sehr wichtig","1998","17-34","Laendlicher Raum","","","",""
-"1 Sehr wichtig","1998","35-65","Staedtischer Raum","","","",""
-"1 Sehr wichtig","1998","35-65","Laendlicher Raum","","","",""
-"1 Sehr wichtig","1998","66 +","Staedtischer Raum","","","",""
-"1 Sehr wichtig","1998","66 +","Laendlicher Raum","","","",""
-"2 Wichtig","1998","17-34","Staedtischer Raum","","","",""
-"2 Wichtig","1998","17-34","Laendlicher Raum","","","",""
-"2 Wichtig","1998","35-65","Staedtischer Raum","","","",""
-"2 Wichtig","1998","35-65","Laendlicher Raum","","","",""
-"2 Wichtig","1998","66 +","Staedtischer Raum","","","",""
-"2 Wichtig","1998","66 +","Laendlicher Raum","","","",""
-"3 Weniger wichtig","1998","17-34","Staedtischer Raum","","","",""
-"3 Weniger wichtig","1998","17-34","Laendlicher Raum","","","",""
-"3 Weniger wichtig","1998","35-65","Staedtischer Raum","","","",""
-"3 Weniger wichtig","1998","35-65","Laendlicher Raum","","","",""
-"3 Weniger wichtig","1998","66 +","Staedtischer Raum","","","",""
-"3 Weniger wichtig","1998","66 +","Laendlicher Raum","","","",""
-"4 Ganz unwichtig","1998","17-34","Staedtischer Raum","","","",""
-"4 Ganz unwichtig","1998","17-34","Laendlicher Raum","","","",""
-"4 Ganz unwichtig","1998","35-65","Staedtischer Raum","","","",""
-"4 Ganz unwichtig","1998","35-65","Laendlicher Raum","","","",""
-"4 Ganz unwichtig","1998","66 +","Staedtischer Raum","","","",""
-"4 Ganz unwichtig","1998","66 +","Laendlicher Raum","","","",""
-"1 Sehr wichtig","1999","17-34","Staedtischer Raum","","","",""
-"1 Sehr wichtig","1999","17-34","Laendlicher Raum","","","",""
-"1 Sehr wichtig","1999","35-65","Staedtischer Raum","","","",""
-"1 Sehr wichtig","1999","35-65","Laendlicher Raum","","","",""
-"1 Sehr wichtig","1999","66 +","Staedtischer Raum","","","",""
-"1 Sehr wichtig","1999","66 +","Laendlicher Raum","","","",""
-"2 Wichtig","1999","17-34","Staedtischer Raum","","","",""
-"2 Wichtig","1999","17-34","Laendlicher Raum","","","",""
-"2 Wichtig","1999","35-65","Staedtischer Raum","","","",""
-"2 Wichtig","1999","35-65","Laendlicher Raum","","","",""
-"2 Wichtig","1999","66 +","Staedtischer Raum","","","",""
-"2 Wichtig","1999","66 +","Laendlicher Raum","","","",""
-"3 Weniger wichtig","1999","17-34","Staedtischer Raum","","","",""
-"3 Weniger wichtig","1999","17-34","Laendlicher Raum","","","",""
-"3 Weniger wichtig","1999","35-65","Staedtischer Raum","","","",""
-"3 Weniger wichtig","1999","35-65","Laendlicher Raum","","","",""
-"3 Weniger wichtig","1999","66 +","Staedtischer Raum","","","",""
-"3 Weniger wichtig","1999","66 +","Laendlicher Raum","","","",""
-"4 Ganz unwichtig","1999","17-34","Staedtischer Raum","","","",""
-"4 Ganz unwichtig","1999","17-34","Laendlicher Raum","","","",""
-"4 Ganz unwichtig","1999","35-65","Staedtischer Raum","","","",""
-"4 Ganz unwichtig","1999","35-65","Laendlicher Raum","","","",""
-"4 Ganz unwichtig","1999","66 +","Staedtischer Raum","","","",""
-"4 Ganz unwichtig","1999","66 +","Laendlicher Raum","","","",""
-"1 Sehr wichtig","2000","17-34","Staedtischer Raum","","","",""
-"1 Sehr wichtig","2000","17-34","Laendlicher Raum","","","",""
-"1 Sehr wichtig","2000","35-65","Staedtischer Raum","","","",""
-"1 Sehr wichtig","2000","35-65","Laendlicher Raum","","","",""
-"1 Sehr wichtig","2000","66 +","Staedtischer Raum","","","",""
-"1 Sehr wichtig","2000","66 +","Laendlicher Raum","","","",""
-"2 Wichtig","2000","17-34","Staedtischer Raum","","","",""
-"2 Wichtig","2000","17-34","Laendlicher Raum","","","",""
-"2 Wichtig","2000","35-65","Staedtischer Raum","","","",""
-"2 Wichtig","2000","35-65","Laendlicher Raum","","","",""
-"2 Wichtig","2000","66 +","Staedtischer Raum","","","",""
-"2 Wichtig","2000","66 +","Laendlicher Raum","","","",""
-"3 Weniger wichtig","2000","17-34","Staedtischer Raum","","","",""
-"3 Weniger wichtig","2000","17-34","Laendlicher Raum","","","",""
-"3 Weniger wichtig","2000","35-65","Staedtischer Raum","","","",""
-"3 Weniger wichtig","2000","35-65","Laendlicher Raum","","","",""
-"3 Weniger wichtig","2000","66 +","Staedtischer Raum","","","",""
-"3 Weniger wichtig","2000","66 +","Laendlicher Raum","","","",""
-"4 Ganz unwichtig","2000","17-34","Staedtischer Raum","","","",""
-"4 Ganz unwichtig","2000","17-34","Laendlicher Raum","","","",""
-"4 Ganz unwichtig","2000","35-65","Staedtischer Raum","","","",""
-"4 Ganz unwichtig","2000","35-65","Laendlicher Raum","","","",""
-"4 Ganz unwichtig","2000","66 +","Staedtischer Raum","","","",""
-"4 Ganz unwichtig","2000","66 +","Laendlicher Raum","","","",""
-"1 Sehr wichtig","2001","17-34","Staedtischer Raum","","","",""
-"1 Sehr wichtig","2001","17-34","Laendlicher Raum","","","",""
-"1 Sehr wichtig","2001","35-65","Staedtischer Raum","","","",""
-"1 Sehr wichtig","2001","35-65","Laendlicher Raum","","","",""
-"1 Sehr wichtig","2001","66 +","Staedtischer Raum","","","",""
-"1 Sehr wichtig","2001","66 +","Laendlicher Raum","","","",""
-"2 Wichtig","2001","17-34","Staedtischer Raum","","","",""
-"2 Wichtig","2001","17-34","Laendlicher Raum","","","",""
-"2 Wichtig","2001","35-65","Staedtischer Raum","","","",""
-"2 Wichtig","2001","35-65","Laendlicher Raum","","","",""
-"2 Wichtig","2001","66 +","Staedtischer Raum","","","",""
-"2 Wichtig","2001","66 +","Laendlicher Raum","","","",""
-"3 Weniger wichtig","2001","17-34","Staedtischer Raum","","","",""
-"3 Weniger wichtig","2001","17-34","Laendlicher Raum","","","",""
-"3 Weniger wichtig","2001","35-65","Staedtischer Raum","","","",""
-"3 Weniger wichtig","2001","35-65","Laendlicher Raum","","","",""
-"3 Weniger wichtig","2001","66 +","Staedtischer Raum","","","",""
-"3 Weniger wichtig","2001","66 +","Laendlicher Raum","","","",""
-"4 Ganz unwichtig","2001","17-34","Staedtischer Raum","","","",""
-"4 Ganz unwichtig","2001","17-34","Laendlicher Raum","","","",""
-"4 Ganz unwichtig","2001","35-65","Staedtischer Raum","","","",""
-"4 Ganz unwichtig","2001","35-65","Laendlicher Raum","","","",""
-"4 Ganz unwichtig","2001","66 +","Staedtischer Raum","","","",""
-"4 Ganz unwichtig","2001","66 +","Laendlicher Raum","","","",""
-"1 Sehr wichtig","2002","17-34","Staedtischer Raum","","","",""
-"1 Sehr wichtig","2002","17-34","Laendlicher Raum","","","",""
-"1 Sehr wichtig","2002","35-65","Staedtischer Raum","","","",""
-"1 Sehr wichtig","2002","35-65","Laendlicher Raum","","","",""
-"1 Sehr wichtig","2002","66 +","Staedtischer Raum","","","",""
-"1 Sehr wichtig","2002","66 +","Laendlicher Raum","","","",""
-"2 Wichtig","2002","17-34","Staedtischer Raum","","","",""
-"2 Wichtig","2002","17-34","Laendlicher Raum","","","",""
-"2 Wichtig","2002","35-65","Staedtischer Raum","","","",""
-"2 Wichtig","2002","35-65","Laendlicher Raum","","","",""
-"2 Wichtig","2002","66 +","Staedtischer Raum","","","",""
-"2 Wichtig","2002","66 +","Laendlicher Raum","","","",""
-"3 Weniger wichtig","2002","17-34","Staedtischer Raum","","","",""
-"3 Weniger wichtig","2002","17-34","Laendlicher Raum","","","",""
-"3 Weniger wichtig","2002","35-65","Staedtischer Raum","","","",""
-"3 Weniger wichtig","2002","35-65","Laendlicher Raum","","","",""
-"3 Weniger wichtig","2002","66 +","Staedtischer Raum","","","",""
-"3 Weniger wichtig","2002","66 +","Laendlicher Raum","","","",""
-"4 Ganz unwichtig","2002","17-34","Staedtischer Raum","","","",""
-"4 Ganz unwichtig","2002","17-34","Laendlicher Raum","","","",""
-"4 Ganz unwichtig","2002","35-65","Staedtischer Raum","","","",""
-"4 Ganz unwichtig","2002","35-65","Laendlicher Raum","","","",""
-"4 Ganz unwichtig","2002","66 +","Staedtischer Raum","","","",""
-"4 Ganz unwichtig","2002","66 +","Laendlicher Raum","","","",""
-"1 Sehr wichtig","2003","17-34","Staedtischer Raum","","","",""
-"1 Sehr wichtig","2003","17-34","Laendlicher Raum","","","",""
-"1 Sehr wichtig","2003","35-65","Staedtischer Raum","","","",""
-"1 Sehr wichtig","2003","35-65","Laendlicher Raum","","","",""
-"1 Sehr wichtig","2003","66 +","Staedtischer Raum","","","",""
-"1 Sehr wichtig","2003","66 +","Laendlicher Raum","","","",""
-"2 Wichtig","2003","17-34","Staedtischer Raum","","","",""
-"2 Wichtig","2003","17-34","Laendlicher Raum","","","",""
-"2 Wichtig","2003","35-65","Staedtischer Raum","","","",""
-"2 Wichtig","2003","35-65","Laendlicher Raum","","","",""
-"2 Wichtig","2003","66 +","Staedtischer Raum","","","",""
-"2 Wichtig","2003","66 +","Laendlicher Raum","","","",""
-"3 Weniger wichtig","2003","17-34","Staedtischer Raum","","","",""
-"3 Weniger wichtig","2003","17-34","Laendlicher Raum","","","",""
-"3 Weniger wichtig","2003","35-65","Staedtischer Raum","","","",""
-"3 Weniger wichtig","2003","35-65","Laendlicher Raum","","","",""
-"3 Weniger wichtig","2003","66 +","Staedtischer Raum","","","",""
-"3 Weniger wichtig","2003","66 +","Laendlicher Raum","","","",""
-"4 Ganz unwichtig","2003","17-34","Staedtischer Raum","","","",""
-"4 Ganz unwichtig","2003","17-34","Laendlicher Raum","","","",""
-"4 Ganz unwichtig","2003","35-65","Staedtischer Raum","","","",""
-"4 Ganz unwichtig","2003","35-65","Laendlicher Raum","","","",""
-"4 Ganz unwichtig","2003","66 +","Staedtischer Raum","","","",""
-"4 Ganz unwichtig","2003","66 +","Laendlicher Raum","","","",""
-"1 Sehr wichtig","2004","17-34","Staedtischer Raum","1173","0.318899908956054","0.303832031271458","0.33396778664065"
-"1 Sehr wichtig","2004","17-34","Laendlicher Raum","607","0.337725870417424","0.316466123380582","0.358985617454266"
-"1 Sehr wichtig","2004","35-65","Staedtischer Raum","1156","0.142101457180002","0.134492626775244","0.14971028758476"
-"1 Sehr wichtig","2004","35-65","Laendlicher Raum","561","0.140801895185398","0.130113597912317","0.151490192458478"
-"1 Sehr wichtig","2004","66 +","Staedtischer Raum","178","0.0701648086053299","0.0599818863578188","0.080347730852841"
-"1 Sehr wichtig","2004","66 +","Laendlicher Raum","120","0.0890419148168682","0.0732912200966346","0.104792609537102"
-"2 Wichtig","2004","17-34","Staedtischer Raum","2009","0.542320561202171","0.52621306062488","0.558428061779461"
-"2 Wichtig","2004","17-34","Laendlicher Raum","1080","0.548918470613075","0.526549887425093","0.571287053801057"
-"2 Wichtig","2004","35-65","Staedtischer Raum","4354","0.542142743053609","0.531285425286424","0.553000060820793"
-"2 Wichtig","2004","35-65","Laendlicher Raum","2316","0.560696993328669","0.545445800210787","0.575948186446551"
-"2 Wichtig","2004","66 +","Staedtischer Raum","1012","0.413716404202112","0.394082122943943","0.433350685460281"
-"2 Wichtig","2004","66 +","Laendlicher Raum","552","0.422586904577574","0.395268545870798","0.44990526328435"
-"3 Weniger wichtig","2004","17-34","Staedtischer Raum","467","0.128386889060694","0.117571512765244","0.139202265356143"
-"3 Weniger wichtig","2004","17-34","Laendlicher Raum","202","0.105570210010998","0.0917568015812225","0.119383618440773"
-"3 Weniger wichtig","2004","35-65","Staedtischer Raum","2343","0.286426614269119","0.276574562621749","0.296278665916488"
-"3 Weniger wichtig","2004","35-65","Laendlicher Raum","1090","0.268934884656271","0.255309172212993","0.282560597099549"
-"3 Weniger wichtig","2004","66 +","Staedtischer Raum","907","0.371662457900264","0.352396943137995","0.390927972662532"
-"3 Weniger wichtig","2004","66 +","Laendlicher Raum","459","0.373351950826143","0.346601917354154","0.400101984298133"
-"4 Ganz unwichtig","2004","17-34","Staedtischer Raum","","","",""
-"4 Ganz unwichtig","2004","17-34","Laendlicher Raum","","","",""
-"4 Ganz unwichtig","2004","35-65","Staedtischer Raum","236","0.0293291854972709","0.0256522445050116","0.0330061264895302"
-"4 Ganz unwichtig","2004","35-65","Laendlicher Raum","101","0.0295662268296625","0.0243610136306423","0.0347714400286827"
-"4 Ganz unwichtig","2004","66 +","Staedtischer Raum","320","0.144456329292294","0.130441134291737","0.158471524292852"
-"4 Ganz unwichtig","2004","66 +","Laendlicher Raum","125","0.115019229779414","0.0973748898624567","0.132663569696372"
-"1 Sehr wichtig","2005","17-34","Staedtischer Raum","","","",""
-"1 Sehr wichtig","2005","17-34","Laendlicher Raum","","","",""
-"1 Sehr wichtig","2005","35-65","Staedtischer Raum","","","",""
-"1 Sehr wichtig","2005","35-65","Laendlicher Raum","","","",""
-"1 Sehr wichtig","2005","66 +","Staedtischer Raum","","","",""
-"1 Sehr wichtig","2005","66 +","Laendlicher Raum","","","",""
-"2 Wichtig","2005","17-34","Staedtischer Raum","","","",""
-"2 Wichtig","2005","17-34","Laendlicher Raum","","","",""
-"2 Wichtig","2005","35-65","Staedtischer Raum","","","",""
-"2 Wichtig","2005","35-65","Laendlicher Raum","","","",""
-"2 Wichtig","2005","66 +","Staedtischer Raum","","","",""
-"2 Wichtig","2005","66 +","Laendlicher Raum","","","",""
-"3 Weniger wichtig","2005","17-34","Staedtischer Raum","","","",""
-"3 Weniger wichtig","2005","17-34","Laendlicher Raum","","","",""
-"3 Weniger wichtig","2005","35-65","Staedtischer Raum","","","",""
-"3 Weniger wichtig","2005","35-65","Laendlicher Raum","","","",""
-"3 Weniger wichtig","2005","66 +","Staedtischer Raum","","","",""
-"3 Weniger wichtig","2005","66 +","Laendlicher Raum","","","",""
-"4 Ganz unwichtig","2005","17-34","Staedtischer Raum","","","",""
-"4 Ganz unwichtig","2005","17-34","Laendlicher Raum","","","",""
-"4 Ganz unwichtig","2005","35-65","Staedtischer Raum","","","",""
-"4 Ganz unwichtig","2005","35-65","Laendlicher Raum","","","",""
-"4 Ganz unwichtig","2005","66 +","Staedtischer Raum","","","",""
-"4 Ganz unwichtig","2005","66 +","Laendlicher Raum","","","",""
-"1 Sehr wichtig","2006","17-34","Staedtischer Raum","","","",""
-"1 Sehr wichtig","2006","17-34","Laendlicher Raum","","","",""
-"1 Sehr wichtig","2006","35-65","Staedtischer Raum","","","",""
-"1 Sehr wichtig","2006","35-65","Laendlicher Raum","","","",""
-"1 Sehr wichtig","2006","66 +","Staedtischer Raum","","","",""
-"1 Sehr wichtig","2006","66 +","Laendlicher Raum","","","",""
-"2 Wichtig","2006","17-34","Staedtischer Raum","","","",""
-"2 Wichtig","2006","17-34","Laendlicher Raum","","","",""
-"2 Wichtig","2006","35-65","Staedtischer Raum","","","",""
-"2 Wichtig","2006","35-65","Laendlicher Raum","","","",""
-"2 Wichtig","2006","66 +","Staedtischer Raum","","","",""
-"2 Wichtig","2006","66 +","Laendlicher Raum","","","",""
-"3 Weniger wichtig","2006","17-34","Staedtischer Raum","","","",""
-"3 Weniger wichtig","2006","17-34","Laendlicher Raum","","","",""
-"3 Weniger wichtig","2006","35-65","Staedtischer Raum","","","",""
-"3 Weniger wichtig","2006","35-65","Laendlicher Raum","","","",""
-"3 Weniger wichtig","2006","66 +","Staedtischer Raum","","","",""
-"3 Weniger wichtig","2006","66 +","Laendlicher Raum","","","",""
-"4 Ganz unwichtig","2006","17-34","Staedtischer Raum","","","",""
-"4 Ganz unwichtig","2006","17-34","Laendlicher Raum","","","",""
-"4 Ganz unwichtig","2006","35-65","Staedtischer Raum","","","",""
-"4 Ganz unwichtig","2006","35-65","Laendlicher Raum","","","",""
-"4 Ganz unwichtig","2006","66 +","Staedtischer Raum","","","",""
-"4 Ganz unwichtig","2006","66 +","Laendlicher Raum","","","",""
-"1 Sehr wichtig","2007","17-34","Staedtischer Raum","","","",""
-"1 Sehr wichtig","2007","17-34","Laendlicher Raum","","","",""
-"1 Sehr wichtig","2007","35-65","Staedtischer Raum","","","",""
-"1 Sehr wichtig","2007","35-65","Laendlicher Raum","","","",""
-"1 Sehr wichtig","2007","66 +","Staedtischer Raum","","","",""
-"1 Sehr wichtig","2007","66 +","Laendlicher Raum","","","",""
-"2 Wichtig","2007","17-34","Staedtischer Raum","","","",""
-"2 Wichtig","2007","17-34","Laendlicher Raum","","","",""
-"2 Wichtig","2007","35-65","Staedtischer Raum","","","",""
-"2 Wichtig","2007","35-65","Laendlicher Raum","","","",""
-"2 Wichtig","2007","66 +","Staedtischer Raum","","","",""
-"2 Wichtig","2007","66 +","Laendlicher Raum","","","",""
-"3 Weniger wichtig","2007","17-34","Staedtischer Raum","","","",""
-"3 Weniger wichtig","2007","17-34","Laendlicher Raum","","","",""
-"3 Weniger wichtig","2007","35-65","Staedtischer Raum","","","",""
-"3 Weniger wichtig","2007","35-65","Laendlicher Raum","","","",""
-"3 Weniger wichtig","2007","66 +","Staedtischer Raum","","","",""
-"3 Weniger wichtig","2007","66 +","Laendlicher Raum","","","",""
-"4 Ganz unwichtig","2007","17-34","Staedtischer Raum","","","",""
-"4 Ganz unwichtig","2007","17-34","Laendlicher Raum","","","",""
-"4 Ganz unwichtig","2007","35-65","Staedtischer Raum","","","",""
-"4 Ganz unwichtig","2007","35-65","Laendlicher Raum","","","",""
-"4 Ganz unwichtig","2007","66 +","Staedtischer Raum","","","",""
-"4 Ganz unwichtig","2007","66 +","Laendlicher Raum","","","",""
-"1 Sehr wichtig","2008","17-34","Staedtischer Raum","888","0.306883242753604","0.289974677204199","0.323791808303009"
-"1 Sehr wichtig","2008","17-34","Laendlicher Raum","423","0.296819012153799","0.273504222662483","0.320133801645115"
-"1 Sehr wichtig","2008","35-65","Staedtischer Raum","864","0.128385298388411","0.120513351330298","0.136257245446525"
-"1 Sehr wichtig","2008","35-65","Laendlicher Raum","492","0.126486225047085","0.115749725907874","0.137222724186295"
-"1 Sehr wichtig","2008","66 +","Staedtischer Raum","154","0.0550200592563913","0.0465024677674541","0.0635376507453286"
-"1 Sehr wichtig","2008","66 +","Laendlicher Raum","100","0.0652102470654011","0.0526103506370751","0.0778101434937271"
-"2 Wichtig","2008","17-34","Staedtischer Raum","1585","0.554257911903636","0.536035126911084","0.572480696896189"
-"2 Wichtig","2008","17-34","Laendlicher Raum","836","0.555391876256247","0.530032384857501","0.580751367654992"
-"2 Wichtig","2008","35-65","Staedtischer Raum","3731","0.534125575477986","0.522386919763595","0.545864231192377"
-"2 Wichtig","2008","35-65","Laendlicher Raum","2118","0.573276673458543","0.557300913507634","0.589252433409452"
-"2 Wichtig","2008","66 +","Staedtischer Raum","993","0.349235691563757","0.331427650062423","0.367043733065091"
-"2 Wichtig","2008","66 +","Laendlicher Raum","601","0.381418872795301","0.356630301146524","0.406207444444079"
-"3 Weniger wichtig","2008","17-34","Staedtischer Raum","358","0.12833555984389","0.116073451527509","0.14059766816027"
-"3 Weniger wichtig","2008","17-34","Laendlicher Raum","206","0.140982452790391","0.123222752617728","0.158742152963054"
-"3 Weniger wichtig","2008","35-65","Staedtischer Raum","2097","0.298377548750985","0.287610490727627","0.309144606774344"
-"3 Weniger wichtig","2008","35-65","Laendlicher Raum","989","0.271199878041706","0.256839854158859","0.285559901924553"
-"3 Weniger wichtig","2008","66 +","Staedtischer Raum","1137","0.399310293301335","0.381015591581555","0.417604995021116"
-"3 Weniger wichtig","2008","66 +","Laendlicher Raum","602","0.417792295004416","0.392622987406057","0.442961602602774"
-"4 Ganz unwichtig","2008","17-34","Staedtischer Raum","","","",""
-"4 Ganz unwichtig","2008","17-34","Laendlicher Raum","","","",""
-"4 Ganz unwichtig","2008","35-65","Staedtischer Raum","245","0.0391115773826172","0.0345496182552028","0.0436735365100315"
-"4 Ganz unwichtig","2008","35-65","Laendlicher Raum","83","0.0290372234526657","0.0236136561641749","0.0344607907411565"
-"4 Ganz unwichtig","2008","66 +","Staedtischer Raum","469","0.196433955878517","0.181592925465798","0.211274986291235"
-"4 Ganz unwichtig","2008","66 +","Laendlicher Raum","172","0.135578585134882","0.118107881835369","0.153049288434395"
-"1 Sehr wichtig","2009","17-34","Staedtischer Raum","","","",""
-"1 Sehr wichtig","2009","17-34","Laendlicher Raum","","","",""
-"1 Sehr wichtig","2009","35-65","Staedtischer Raum","","","",""
-"1 Sehr wichtig","2009","35-65","Laendlicher Raum","","","",""
-"1 Sehr wichtig","2009","66 +","Staedtischer Raum","","","",""
-"1 Sehr wichtig","2009","66 +","Laendlicher Raum","","","",""
-"2 Wichtig","2009","17-34","Staedtischer Raum","","","",""
-"2 Wichtig","2009","17-34","Laendlicher Raum","","","",""
-"2 Wichtig","2009","35-65","Staedtischer Raum","","","",""
-"2 Wichtig","2009","35-65","Laendlicher Raum","","","",""
-"2 Wichtig","2009","66 +","Staedtischer Raum","","","",""
-"2 Wichtig","2009","66 +","Laendlicher Raum","","","",""
-"3 Weniger wichtig","2009","17-34","Staedtischer Raum","","","",""
-"3 Weniger wichtig","2009","17-34","Laendlicher Raum","","","",""
-"3 Weniger wichtig","2009","35-65","Staedtischer Raum","","","",""
-"3 Weniger wichtig","2009","35-65","Laendlicher Raum","","","",""
-"3 Weniger wichtig","2009","66 +","Staedtischer Raum","","","",""
-"3 Weniger wichtig","2009","66 +","Laendlicher Raum","","","",""
-"4 Ganz unwichtig","2009","17-34","Staedtischer Raum","","","",""
-"4 Ganz unwichtig","2009","17-34","Laendlicher Raum","","","",""
-"4 Ganz unwichtig","2009","35-65","Staedtischer Raum","","","",""
-"4 Ganz unwichtig","2009","35-65","Laendlicher Raum","","","",""
-"4 Ganz unwichtig","2009","66 +","Staedtischer Raum","","","",""
-"4 Ganz unwichtig","2009","66 +","Laendlicher Raum","","","",""
-"1 Sehr wichtig","2010","17-34","Staedtischer Raum","519","0.277880184672951","0.257711531187663","0.298048838158239"
-"1 Sehr wichtig","2010","17-34","Laendlicher Raum","240","0.242757626784168","0.217198904469347","0.268316349098988"
-"1 Sehr wichtig","2010","35-65","Staedtischer Raum","493","0.183442300188773","0.169106819559206","0.19777778081834"
-"1 Sehr wichtig","2010","35-65","Laendlicher Raum","273","0.181535047886762","0.162034894367405","0.20103520140612"
-"1 Sehr wichtig","2010","66 +","Staedtischer Raum","","","",""
-"1 Sehr wichtig","2010","66 +","Laendlicher Raum","","","",""
-"2 Wichtig","2010","17-34","Staedtischer Raum","1036","0.559160275137606","0.536806442237664","0.581514108037547"
-"2 Wichtig","2010","17-34","Laendlicher Raum","621","0.566932213240469","0.537394372030413","0.596470054450524"
-"2 Wichtig","2010","35-65","Staedtischer Raum","1542","0.546614859286684","0.528175601612325","0.565054116961044"
-"2 Wichtig","2010","35-65","Laendlicher Raum","816","0.552933945942851","0.527781500310643","0.57808639157506"
-"2 Wichtig","2010","66 +","Staedtischer Raum","","","",""
-"2 Wichtig","2010","66 +","Laendlicher Raum","","","",""
-"3 Weniger wichtig","2010","17-34","Staedtischer Raum","305","0.146061119988495","0.130160129021689","0.161962110955302"
-"3 Weniger wichtig","2010","17-34","Laendlicher Raum","207","0.181083382886807","0.158127479649261","0.204039286124353"
-"3 Weniger wichtig","2010","35-65","Staedtischer Raum","710","0.249548574437218","0.233519519571429","0.265577629303007"
-"3 Weniger wichtig","2010","35-65","Laendlicher Raum","377","0.243442799320162","0.221731935858971","0.265153662781354"
-"3 Weniger wichtig","2010","66 +","Staedtischer Raum","","","",""
-"3 Weniger wichtig","2010","66 +","Laendlicher Raum","","","",""
-"4 Ganz unwichtig","2010","17-34","Staedtischer Raum","35","0.0168984202009479","0.0110952443169013","0.0227015960849946"
-"4 Ganz unwichtig","2010","17-34","Laendlicher Raum","","","",""
-"4 Ganz unwichtig","2010","35-65","Staedtischer Raum","55","0.0203942660873244","0.0151588792681982","0.0256296529064506"
-"4 Ganz unwichtig","2010","35-65","Laendlicher Raum","35","0.0220882068502239","0.0146530896791217","0.0295233240213261"
-"4 Ganz unwichtig","2010","66 +","Staedtischer Raum","","","",""
-"4 Ganz unwichtig","2010","66 +","Laendlicher Raum","","","",""
-"1 Sehr wichtig","2011","17-34","Staedtischer Raum","","","",""
-"1 Sehr wichtig","2011","17-34","Laendlicher Raum","","","",""
-"1 Sehr wichtig","2011","35-65","Staedtischer Raum","","","",""
-"1 Sehr wichtig","2011","35-65","Laendlicher Raum","","","",""
-"1 Sehr wichtig","2011","66 +","Staedtischer Raum","","","",""
-"1 Sehr wichtig","2011","66 +","Laendlicher Raum","","","",""
-"2 Wichtig","2011","17-34","Staedtischer Raum","","","",""
-"2 Wichtig","2011","17-34","Laendlicher Raum","","","",""
-"2 Wichtig","2011","35-65","Staedtischer Raum","","","",""
-"2 Wichtig","2011","35-65","Laendlicher Raum","","","",""
-"2 Wichtig","2011","66 +","Staedtischer Raum","","","",""
-"2 Wichtig","2011","66 +","Laendlicher Raum","","","",""
-"3 Weniger wichtig","2011","17-34","Staedtischer Raum","","","",""
-"3 Weniger wichtig","2011","17-34","Laendlicher Raum","","","",""
-"3 Weniger wichtig","2011","35-65","Staedtischer Raum","","","",""
-"3 Weniger wichtig","2011","35-65","Laendlicher Raum","","","",""
-"3 Weniger wichtig","2011","66 +","Staedtischer Raum","","","",""
-"3 Weniger wichtig","2011","66 +","Laendlicher Raum","","","",""
-"4 Ganz unwichtig","2011","17-34","Staedtischer Raum","","","",""
-"4 Ganz unwichtig","2011","17-34","Laendlicher Raum","","","",""
-"4 Ganz unwichtig","2011","35-65","Staedtischer Raum","","","",""
-"4 Ganz unwichtig","2011","35-65","Laendlicher Raum","","","",""
-"4 Ganz unwichtig","2011","66 +","Staedtischer Raum","","","",""
-"4 Ganz unwichtig","2011","66 +","Laendlicher Raum","","","",""
-"1 Sehr wichtig","2012","17-34","Staedtischer Raum","1378","0.355826165162577","0.341137400459269","0.370514929865886"
-"1 Sehr wichtig","2012","17-34","Laendlicher Raum","670","0.306083036616307","0.28695076932765","0.325215303904964"
-"1 Sehr wichtig","2012","35-65","Staedtischer Raum","1643","0.159214093164146","0.152055222633464","0.166372963694829"
-"1 Sehr wichtig","2012","35-65","Laendlicher Raum","890","0.141245333599538","0.132441003109687","0.150049664089389"
-"1 Sehr wichtig","2012","66 +","Staedtischer Raum","276","0.0835148432526257","0.0739930407418383","0.0930366457634131"
-"1 Sehr wichtig","2012","66 +","Laendlicher Raum","135","0.0705126259788995","0.0588937567248782","0.0821314952329208"
-"2 Wichtig","2012","17-34","Staedtischer Raum","2188","0.522482047540047","0.507157229315767","0.537806865764327"
-"2 Wichtig","2012","17-34","Laendlicher Raum","1297","0.57293599336412","0.552401093225948","0.593470893502291"
-"2 Wichtig","2012","35-65","Staedtischer Raum","5492","0.543802550231786","0.534056961293309","0.553548139170264"
-"2 Wichtig","2012","35-65","Laendlicher Raum","3536","0.586662781582469","0.574214160386312","0.599111402778626"
-"2 Wichtig","2012","66 +","Staedtischer Raum","1361","0.405886352890742","0.388985383875239","0.422787321906245"
-"2 Wichtig","2012","66 +","Laendlicher Raum","877","0.452493049778358","0.429903402607286","0.475082696949429"
-"3 Weniger wichtig","2012","17-34","Staedtischer Raum","492","0.117070095968478","0.107206145247112","0.126934046689844"
-"3 Weniger wichtig","2012","17-34","Laendlicher Raum","250","0.114059405640383","0.100862840381328","0.127255970899439"
-"3 Weniger wichtig","2012","35-65","Staedtischer Raum","2690","0.274012627370302","0.265285709986273","0.282739544754331"
-"3 Weniger wichtig","2012","35-65","Laendlicher Raum","1466","0.245302176817823","0.234425105482508","0.256179248153137"
-"3 Weniger wichtig","2012","66 +","Staedtischer Raum","1232","0.389031364585295","0.372251966296343","0.405810762874247"
-"3 Weniger wichtig","2012","66 +","Laendlicher Raum","682","0.380107727415917","0.358077441500343","0.40213801333149"
-"4 Ganz unwichtig","2012","17-34","Staedtischer Raum","","","",""
-"4 Ganz unwichtig","2012","17-34","Laendlicher Raum","","","",""
-"4 Ganz unwichtig","2012","35-65","Staedtischer Raum","209","0.0229707292337652","0.0200394835440659","0.0259019749234646"
-"4 Ganz unwichtig","2012","35-65","Laendlicher Raum","119","0.0267897080001708","0.0227078107957762","0.0308716052045654"
-"4 Ganz unwichtig","2012","66 +","Staedtischer Raum","374","0.121567439271337","0.110320419367812","0.132814459174862"
-"4 Ganz unwichtig","2012","66 +","Laendlicher Raum","171","0.0968865968268263","0.0834616780280932","0.110311515625559"
-"1 Sehr wichtig","2013","17-34","Staedtischer Raum","","","",""
-"1 Sehr wichtig","2013","17-34","Laendlicher Raum","","","",""
-"1 Sehr wichtig","2013","35-65","Staedtischer Raum","","","",""
-"1 Sehr wichtig","2013","35-65","Laendlicher Raum","","","",""
-"1 Sehr wichtig","2013","66 +","Staedtischer Raum","","","",""
-"1 Sehr wichtig","2013","66 +","Laendlicher Raum","","","",""
-"2 Wichtig","2013","17-34","Staedtischer Raum","","","",""
-"2 Wichtig","2013","17-34","Laendlicher Raum","","","",""
-"2 Wichtig","2013","35-65","Staedtischer Raum","","","",""
-"2 Wichtig","2013","35-65","Laendlicher Raum","","","",""
-"2 Wichtig","2013","66 +","Staedtischer Raum","","","",""
-"2 Wichtig","2013","66 +","Laendlicher Raum","","","",""
-"3 Weniger wichtig","2013","17-34","Staedtischer Raum","","","",""
-"3 Weniger wichtig","2013","17-34","Laendlicher Raum","","","",""
-"3 Weniger wichtig","2013","35-65","Staedtischer Raum","","","",""
-"3 Weniger wichtig","2013","35-65","Laendlicher Raum","","","",""
-"3 Weniger wichtig","2013","66 +","Staedtischer Raum","","","",""
-"3 Weniger wichtig","2013","66 +","Laendlicher Raum","","","",""
-"4 Ganz unwichtig","2013","17-34","Staedtischer Raum","","","",""
-"4 Ganz unwichtig","2013","17-34","Laendlicher Raum","","","",""
-"4 Ganz unwichtig","2013","35-65","Staedtischer Raum","","","",""
-"4 Ganz unwichtig","2013","35-65","Laendlicher Raum","","","",""
-"4 Ganz unwichtig","2013","66 +","Staedtischer Raum","","","",""
-"4 Ganz unwichtig","2013","66 +","Laendlicher Raum","","","",""
-"1 Sehr wichtig","2014","17-34","Staedtischer Raum","","","",""
-"1 Sehr wichtig","2014","17-34","Laendlicher Raum","","","",""
-"1 Sehr wichtig","2014","35-65","Staedtischer Raum","","","",""
-"1 Sehr wichtig","2014","35-65","Laendlicher Raum","","","",""
-"1 Sehr wichtig","2014","66 +","Staedtischer Raum","","","",""
-"1 Sehr wichtig","2014","66 +","Laendlicher Raum","","","",""
-"2 Wichtig","2014","17-34","Staedtischer Raum","","","",""
-"2 Wichtig","2014","17-34","Laendlicher Raum","","","",""
-"2 Wichtig","2014","35-65","Staedtischer Raum","","","",""
-"2 Wichtig","2014","35-65","Laendlicher Raum","","","",""
-"2 Wichtig","2014","66 +","Staedtischer Raum","","","",""
-"2 Wichtig","2014","66 +","Laendlicher Raum","","","",""
-"3 Weniger wichtig","2014","17-34","Staedtischer Raum","","","",""
-"3 Weniger wichtig","2014","17-34","Laendlicher Raum","","","",""
-"3 Weniger wichtig","2014","35-65","Staedtischer Raum","","","",""
-"3 Weniger wichtig","2014","35-65","Laendlicher Raum","","","",""
-"3 Weniger wichtig","2014","66 +","Staedtischer Raum","","","",""
-"3 Weniger wichtig","2014","66 +","Laendlicher Raum","","","",""
-"4 Ganz unwichtig","2014","17-34","Staedtischer Raum","","","",""
-"4 Ganz unwichtig","2014","17-34","Laendlicher Raum","","","",""
-"4 Ganz unwichtig","2014","35-65","Staedtischer Raum","","","",""
-"4 Ganz unwichtig","2014","35-65","Laendlicher Raum","","","",""
-"4 Ganz unwichtig","2014","66 +","Staedtischer Raum","","","",""
-"4 Ganz unwichtig","2014","66 +","Laendlicher Raum","","","",""
-"1 Sehr wichtig","2015","17-34","Staedtischer Raum","","","",""
-"1 Sehr wichtig","2015","17-34","Laendlicher Raum","","","",""
-"1 Sehr wichtig","2015","35-65","Staedtischer Raum","","","",""
-"1 Sehr wichtig","2015","35-65","Laendlicher Raum","","","",""
-"1 Sehr wichtig","2015","66 +","Staedtischer Raum","","","",""
-"1 Sehr wichtig","2015","66 +","Laendlicher Raum","","","",""
-"2 Wichtig","2015","17-34","Staedtischer Raum","","","",""
-"2 Wichtig","2015","17-34","Laendlicher Raum","","","",""
-"2 Wichtig","2015","35-65","Staedtischer Raum","","","",""
-"2 Wichtig","2015","35-65","Laendlicher Raum","","","",""
-"2 Wichtig","2015","66 +","Staedtischer Raum","","","",""
-"2 Wichtig","2015","66 +","Laendlicher Raum","","","",""
-"3 Weniger wichtig","2015","17-34","Staedtischer Raum","","","",""
-"3 Weniger wichtig","2015","17-34","Laendlicher Raum","","","",""
-"3 Weniger wichtig","2015","35-65","Staedtischer Raum","","","",""
-"3 Weniger wichtig","2015","35-65","Laendlicher Raum","","","",""
-"3 Weniger wichtig","2015","66 +","Staedtischer Raum","","","",""
-"3 Weniger wichtig","2015","66 +","Laendlicher Raum","","","",""
-"4 Ganz unwichtig","2015","17-34","Staedtischer Raum","","","",""
-"4 Ganz unwichtig","2015","17-34","Laendlicher Raum","","","",""
-"4 Ganz unwichtig","2015","35-65","Staedtischer Raum","","","",""
-"4 Ganz unwichtig","2015","35-65","Laendlicher Raum","","","",""
-"4 Ganz unwichtig","2015","66 +","Staedtischer Raum","","","",""
-"4 Ganz unwichtig","2015","66 +","Laendlicher Raum","","","",""
-"1 Sehr wichtig","2016","17-34","Staedtischer Raum","1254","0.336578255663515","0.321567777355993","0.351588733971036"
-"1 Sehr wichtig","2016","17-34","Laendlicher Raum","567","0.297658072737045","0.27655902014571","0.318757125328381"
-"1 Sehr wichtig","2016","35-65","Staedtischer Raum","1400","0.150496673087162","0.143064867233715","0.157928478940609"
-"1 Sehr wichtig","2016","35-65","Laendlicher Raum","773","0.147596412149461","0.137729239224452","0.157463585074471"
-"1 Sehr wichtig","2016","66 +","Staedtischer Raum","210","0.0795273717538368","0.0697357232762176","0.089319020231456"
-"1 Sehr wichtig","2016","66 +","Laendlicher Raum","143","0.0988778073082042","0.0847915765837544","0.112964038032654"
-"2 Wichtig","2016","17-34","Staedtischer Raum","2034","0.536587438336555","0.520747233098402","0.552427643574708"
-"2 Wichtig","2016","17-34","Laendlicher Raum","997","0.571429606248131","0.548593488358763","0.5942657241375"
-"2 Wichtig","2016","35-65","Staedtischer Raum","4860","0.544493477673794","0.534142246568699","0.554844708778888"
-"2 Wichtig","2016","35-65","Laendlicher Raum","2821","0.576221892998076","0.562475259931603","0.589968526064549"
-"2 Wichtig","2016","66 +","Staedtischer Raum","1266","0.425901513734984","0.408006177933495","0.443796849536473"
-"2 Wichtig","2016","66 +","Laendlicher Raum","813","0.43471744280384","0.411324230251489","0.458110655356192"
-"3 Weniger wichtig","2016","17-34","Staedtischer Raum","494","0.122176834066034","0.111773929722405","0.132579738409663"
-"3 Weniger wichtig","2016","17-34","Laendlicher Raum","228","0.127007573403632","0.111641961078319","0.142373185728946"
-"3 Weniger wichtig","2016","35-65","Staedtischer Raum","2442","0.283119865295917","0.273755964403649","0.292483766188186"
-"3 Weniger wichtig","2016","35-65","Laendlicher Raum","1279","0.260665602656204","0.248453385354033","0.272877819958374"
-"3 Weniger wichtig","2016","66 +","Staedtischer Raum","1178","0.392537835198866","0.374865561143208","0.410210109254524"
-"3 Weniger wichtig","2016","66 +","Laendlicher Raum","645","0.3835001143302","0.360554336176301","0.406445892484098"
-"4 Ganz unwichtig","2016","17-34","Staedtischer Raum","","","",""
-"4 Ganz unwichtig","2016","17-34","Laendlicher Raum","","","",""
-"4 Ganz unwichtig","2016","35-65","Staedtischer Raum","190","0.0218899839431272","0.0188486441900516","0.0249313236962029"
-"4 Ganz unwichtig","2016","35-65","Laendlicher Raum","91","0.0155160921962589","0.0120779194678358","0.0189542649246819"
-"4 Ganz unwichtig","2016","66 +","Staedtischer Raum","279","0.102033279312314","0.0910787656120919","0.112987793012535"
-"4 Ganz unwichtig","2016","66 +","Laendlicher Raum","124","0.0829046355577557","0.0698924515017044","0.095916819613807"
+syear,age_gr,regtyp,plh0106,proportion,n,lower_confidence,upper_confidence
+1990,30-45 J.,Urban regions,2.0,0.13448471121177802,13886,0.12881003194554577,0.14015939047801027
+1990,46-65 J.,Urban regions,2.0,0.11778029445073612,13886,0.11241872191562721,0.12314186698584503
+1990,17-29 J.,Urban regions,2.0,0.10277463193657985,13886,0.09772381965180914,0.10782544422135056
+1990,46-65 J.,Urban regions,3.0,0.07361268403171008,13886,0.06926918111506905,0.0779561869483511
+1990,17-29 J.,Urban regions,1.0,0.0655436013590034,13886,0.06142725261119096,0.06965995010681585
+1990,30-45 J.,Urban regions,1.0,0.045016987542468856,13886,0.041568302537220714,0.048465672547717
+1990,30-45 J.,Urban regions,3.0,0.04487542468856172,13886,0.0414319112157249,0.04831893816139854
+1990,66 und älter,Urban regions,2.0,0.04246885617214043,13886,0.03911473129965645,0.045822981044624414
+1990,66 und älter,Urban regions,3.0,0.04119479048697622,13886,0.037889163597350686,0.04450041737660175
+1990,46-65 J.,Rural regions,2.0,0.038788221970554926,13886,0.035576581152702444,0.04199986278840741
+1990,30-45 J.,Rural regions,2.0,0.03822197055492639,13886,0.03503291963538794,0.04141102147446484
+1990,17-29 J.,Rural regions,2.0,0.03666477916194791,13886,0.03353883837508746,0.039790719948808354
+1990,46-65 J.,Urban regions,1.0,0.029303510758776897,13886,0.02649827705724275,0.03210874446031105
+1990,17-29 J.,Urban regions,3.0,0.026896942242355604,13886,0.024206037248251183,0.029587847236460026
+1990,46-65 J.,Rural regions,3.0,0.02109286523216308,13886,0.01870282051397741,0.023482909950348747
+1990,17-29 J.,Rural regions,1.0,0.01925254813137033,13886,0.01696700093420261,0.021538095328538048
+1990,66 und älter,Rural regions,2.0,0.01656285390713477,13886,0.014440057320471572,0.018685650493797966
+1990,66 und älter,Urban regions,4.0,0.014722536806342015,13886,0.012719273252621108,0.016725800360062923
+1990,66 und älter,Rural regions,3.0,0.01245753114382786,13886,0.01061267981932973,0.01430238246832599
+1990,30-45 J.,Rural regions,1.0,0.01189127972819932,13886,0.010088327769643062,0.013694231686755577
+1990,46-65 J.,Urban regions,4.0,0.011749716874292186,13886,0.009957400528598937,0.013542033219985435
+1990,30-45 J.,Rural regions,3.0,0.011749716874292186,13886,0.009957400528598937,0.013542033219985435
+1990,17-29 J.,Rural regions,3.0,0.009767836919592298,13886,0.008132018081915552,0.011403655757269045
+1990,46-65 J.,Rural regions,1.0,0.007644394110985277,13886,0.006195713361161041,0.009093074860809514
+1990,66 und älter,Urban regions,1.0,0.006936579841449604,13886,0.005556104422110497,0.00831705526078871
+1990,66 und älter,Rural regions,4.0,0.0056625141562853904,13886,0.004414443859393531,0.00691058445317725
+1990,46-65 J.,Rural regions,4.0,0.004954699886749717,13886,0.0037868215729162467,0.006122578200583187
+1990,30-45 J.,Urban regions,4.0,0.003539071347678369,13886,0.002551332153393911,0.004526810541962827
+1990,30-45 J.,Rural regions,4.0,0.0014156285390713476,13886,0.000790262161461682,0.002040994916681013
+1990,17-29 J.,Urban regions,4.0,0.001274065685164213,13886,0.0006807489966978995,0.0018673823736305264
+1990,66 und älter,Rural regions,1.0,0.0011325028312570782,13886,0.000573078849722823,0.0016919268127913334
+1990,17-29 J.,Rural regions,4.0,0.0005662514156285391,13886,0.00017056681689142617,0.000961936014365652
+1992,30-45 J.,Urban regions,2.0,0.10954063604240283,13316,0.1042358990091583,0.11484537307564735
+1992,46-65 J.,Urban regions,2.0,0.09001301841175377,13316,0.08515186384404543,0.09487417297946212
+1992,17-29 J.,Urban regions,2.0,0.08266691463641436,13316,0.07798957861112957,0.08734425066169915
+1992,30-45 J.,Rural regions,2.0,0.07299609447647387,13316,0.06857774796837038,0.07741444098457737
+1992,46-65 J.,Rural regions,2.0,0.061279523898084436,13316,0.05720576788130372,0.06535327991486514
+1992,46-65 J.,Urban regions,3.0,0.0556072159196578,13316,0.05171487309886868,0.05949955874044693
+1992,17-29 J.,Rural regions,2.0,0.05207364701506416,13316,0.048299963504997954,0.05584733052513036
+1992,17-29 J.,Urban regions,1.0,0.04668030500278966,13316,0.043097234915856285,0.05026337508972304
+1992,30-45 J.,Urban regions,1.0,0.046587316347405615,13316,0.04300764226302836,0.05016699043178287
+1992,30-45 J.,Urban regions,3.0,0.04026408778129068,13316,0.03692518339108434,0.043602992171497025
+1992,46-65 J.,Rural regions,3.0,0.0331969499721034,13316,0.030154052804073236,0.03623984714013357
+1992,17-29 J.,Rural regions,1.0,0.0325460293844151,13316,0.02953209814554159,0.03555996062328861
+1992,30-45 J.,Rural regions,1.0,0.030593267621350194,13316,0.027668205278581767,0.033518329964118625
+1992,66 und älter,Urban regions,2.0,0.02957039241212572,13316,0.02669312821815778,0.03244765660609366
+1992,66 und älter,Urban regions,3.0,0.02957039241212572,13316,0.02669312821815778,0.03244765660609366
+1992,30-45 J.,Rural regions,3.0,0.024734982332155476,13316,0.02209691240226733,0.02737305226204362
+1992,46-65 J.,Urban regions,1.0,0.023526129812162917,13316,0.020951737464637264,0.02610052215968857
+1992,66 und älter,Rural regions,2.0,0.017202901246047984,13316,0.014994378079872637,0.01941142441222333
+1992,66 und älter,Rural regions,3.0,0.017016923935279895,13316,0.014820163352589857,0.019213684517969933
+1992,17-29 J.,Urban regions,3.0,0.016458992002975636,13316,0.014297930975617266,0.018620053030334004
+1992,66 und älter,Urban regions,4.0,0.01599404872605542,13316,0.0138632263534211,0.01812487109868974
+1992,46-65 J.,Rural regions,1.0,0.015901060070671377,13316,0.013776340592679093,0.018025779548663662
+1992,17-29 J.,Rural regions,3.0,0.013948298307606471,13316,0.01195634279425117,0.015940253820961772
+1992,46-65 J.,Urban regions,4.0,0.012553468476845825,13316,0.010662397450965897,0.014444539502725753
+1992,66 und älter,Rural regions,4.0,0.0088339222614841,13316,0.007244573602839014,0.010423270920129185
+1992,46-65 J.,Rural regions,4.0,0.005765296633810675,13316,0.004479345499796846,0.007051247767824505
+1992,66 und älter,Urban regions,1.0,0.004649432769202157,13316,0.003493966695717138,0.005804898842687176
+1992,30-45 J.,Urban regions,4.0,0.003068625627673424,13316,0.002129175426150623,0.0040080758291962245
+1992,66 und älter,Rural regions,1.0,0.0028826483169053377,13316,0.001972026301116196,0.0037932703326944792
+1992,30-45 J.,Rural regions,4.0,0.0016737957969127767,13316,0.0009794806337321774,0.002368110960093376
+1992,17-29 J.,Urban regions,4.0,0.0015808071415287334,13316,0.0009060226647442815,0.0022555916183131853
+1992,17-29 J.,Rural regions,4.0,0.0010228752092244747,13316,0.00047992716082261814,0.0015658232576263313
+1995,30-45 J.,Urban regions,2.0,0.12333692916217188,13284,0.11774509143734026,0.1289287668870035
+1995,46-65 J.,Urban regions,2.0,0.08827759798633585,13284,0.08345314359936125,0.09310205237331044
+1995,30-45 J.,Rural regions,2.0,0.08054656598345919,13284,0.07591870801004608,0.0851744239568723
+1995,17-29 J.,Urban regions,2.0,0.07874865156418555,13284,0.07416826355418298,0.08332903957418812
+1995,46-65 J.,Rural regions,2.0,0.0684106436533621,13284,0.06411759574363154,0.07270369156309264
+1995,46-65 J.,Urban regions,3.0,0.05357784969435455,13284,0.04974848502813945,0.05740721436056965
+1995,17-29 J.,Rural regions,2.0,0.04944264653002517,13284,0.045755998681136355,0.053129294378913984
+1995,17-29 J.,Urban regions,1.0,0.04908306364617044,13284,0.04540915155469909,0.05275697573764179
+1995,30-45 J.,Urban regions,1.0,0.04863358504135203,13284,0.04497566937694591,0.05229150070575816
+1995,30-45 J.,Urban regions,3.0,0.039733908665947504,13284,0.036412149980816134,0.04305566735107887
+1995,66 und älter,Urban regions,2.0,0.03550880978065444,13284,0.032361722206894386,0.03865589735441449
+1995,17-29 J.,Rural regions,1.0,0.03299172959367134,13284,0.02995427863918338,0.0360291805481593
+1995,66 und älter,Urban regions,3.0,0.030204962243797196,13284,0.027294441055267998,0.0331154834323264
+1995,30-45 J.,Rural regions,1.0,0.02705861201006832,13284,0.02429938308107349,0.029817840939063152
+1995,46-65 J.,Rural regions,3.0,0.026069759079467816,13284,0.023360041229084704,0.028779476929850927
+1995,30-45 J.,Rural regions,3.0,0.024181948939230494,13284,0.021569656992304235,0.026794240886156753
+1995,46-65 J.,Urban regions,1.0,0.023912261776339445,13284,0.021314218417962064,0.026510305134716826
+1995,66 und älter,Rural regions,2.0,0.01734987414599065,13284,0.015129433036263244,0.01957031525571806
+1995,66 und älter,Rural regions,3.0,0.01654081265731751,13284,0.014371869201173863,0.01870975611346116
+1995,46-65 J.,Rural regions,1.0,0.015012585400934916,13284,0.01294466068430368,0.01708051011756615
+1995,17-29 J.,Urban regions,3.0,0.013664149586479683,13284,0.011689930477962034,0.015638368694997334
+1995,66 und älter,Urban regions,4.0,0.012405609492988134,13284,0.010523304482667271,0.014287914503308997
+1995,46-65 J.,Urban regions,4.0,0.009439050701186624,13284,0.007794692613278454,0.011083408789094792
+1995,17-29 J.,Rural regions,3.0,0.00889967637540453,13284,0.007302556353766589,0.010496796397042473
+1995,66 und älter,Rural regions,4.0,0.007820927723840345,13284,0.006322913954548903,0.009318941493131788
+1995,66 und älter,Urban regions,1.0,0.005213951815893563,13284,0.003989222855585219,0.006438680776201908
+1995,46-65 J.,Rural regions,4.0,0.004314994606256742,13284,0.003200333750702982,0.0054296554618105015
+1995,30-45 J.,Urban regions,4.0,0.0031463502337288744,13284,0.002193968907049624,0.004098731560408125
+1995,66 und älter,Rural regions,1.0,0.0030564545127651924,13284,0.002117734905237124,0.00399517412029326
+1995,30-45 J.,Rural regions,4.0,0.002067601582164689,13284,0.0012951422451363674,0.0028400609191930105
+1995,17-29 J.,Urban regions,4.0,0.0010787486515641855,13284,0.0005205132211434056,0.0016369840819849654
+1995,17-29 J.,Rural regions,4.0,0.00026968716289104636,13284,-9.543563073097791e-06,0.0005489178888551905
+2004,30-45 J.,Urban regions,2.0,0.118378024852845,21612,0.11407092103518948,0.12268512867050052
+2004,46-65 J.,Urban regions,2.0,0.11660282163879286,21612,0.11232383307511327,0.12088181020247245
+2004,46-65 J.,Urban regions,3.0,0.07254975240586752,21612,0.06909137910288375,0.07600812570885128
+2004,46-65 J.,Rural regions,2.0,0.06465476969074091,21612,0.061376121300652446,0.06793341808082938
+2004,17-29 J.,Urban regions,2.0,0.06311314584695879,21612,0.059871152804390454,0.06635513888952713
+2004,30-45 J.,Rural regions,2.0,0.057740820330748385,21612,0.05463100030904633,0.06085064035245044
+2004,66 und älter,Urban regions,2.0,0.047276464542651594,21612,0.04444693303321052,0.05010599605209267
+2004,30-45 J.,Urban regions,3.0,0.046248715313463515,21612,0.043448599484437495,0.049048831142489535
+2004,17-29 J.,Urban regions,1.0,0.04325889937400729,21612,0.040546563048828504,0.04597123569918607
+2004,66 und älter,Urban regions,3.0,0.04237129776698122,21612,0.03968568710701714,0.04505690842694529
+2004,30-45 J.,Urban regions,1.0,0.038353732598336916,21612,0.03579326027948134,0.04091420491719249
+2004,17-29 J.,Rural regions,2.0,0.035410632532934694,21612,0.03294659868461741,0.037874666381251976
+2004,46-65 J.,Rural regions,3.0,0.03382229281509857,21612,0.03141217306943971,0.036232412560757425
+2004,46-65 J.,Urban regions,1.0,0.027562365691862094,21612,0.025379647257875667,0.02974508412584852
+2004,66 und älter,Rural regions,2.0,0.02578716247780996,21612,0.02367397857250631,0.02790034638311361
+2004,17-29 J.,Rural regions,1.0,0.022610483042137718,21612,0.020628511791630742,0.024592454292644693
+2004,66 und älter,Rural regions,3.0,0.02144258619078763,21612,0.019511328038833813,0.023373844342741444
+2004,30-45 J.,Rural regions,3.0,0.020741848079977577,21612,0.018841728583116592,0.022641967576838562
+2004,30-45 J.,Rural regions,1.0,0.01803232738484537,21612,0.016258207028595754,0.01980644774109499
+2004,66 und älter,Urban regions,4.0,0.014902363823227132,21612,0.013286979695283446,0.01651774795117082
+2004,46-65 J.,Rural regions,1.0,0.01354760347566103,21612,0.012006336416759075,0.015088870534562985
+2004,17-29 J.,Urban regions,3.0,0.012753433616742969,21612,0.01125742198287491,0.014249445250611028
+2004,46-65 J.,Urban regions,4.0,0.008502289077828646,21612,0.0072781736166795,0.009726404538977792
+2004,66 und älter,Urban regions,1.0,0.008315425581612633,21612,0.007104722601366018,0.009526128561859248
+2004,66 und älter,Rural regions,4.0,0.005839484256750444,21612,0.004823647102291311,0.006855321411209576
+2004,66 und älter,Rural regions,1.0,0.005605904886480426,21612,0.004610474892190321,0.006601334880770531
+2004,17-29 J.,Rural regions,3.0,0.005512473138372419,21612,0.00452532687653284,0.006499619400211998
+2004,46-65 J.,Rural regions,4.0,0.0038774175464822945,21612,0.0030488340660341897,0.004706001026930399
+2004,30-45 J.,Urban regions,4.0,0.003036531813510231,21612,0.0023029692963999863,0.0037700943306204753
+2004,30-45 J.,Rural regions,4.0,0.0009810333551340746,21612,0.0005636478667405084,0.0013984188435276408
+2004,17-29 J.,Urban regions,4.0,0.0007474539848640568,21612,0.00038308747352437585,0.0011118204962037377
+2004,17-29 J.,Rural regions,4.0,0.00042044286648603194,21612,0.0001471232712536815,0.0006937624617183824
+2008,46-65 J.,Urban regions,2.0,0.11684045881126173,19571,0.11233990693183915,0.12134101069068431
+2008,30-45 J.,Urban regions,2.0,0.10203336809176225,19571,0.09779253896856577,0.10627419721495873
+2008,46-65 J.,Urban regions,3.0,0.07377476538060479,19571,0.07011239902331265,0.07743713173789693
+2008,46-65 J.,Rural regions,2.0,0.06788321167883211,19571,0.06435896808776687,0.07140745526989736
+2008,66 und älter,Urban regions,3.0,0.059280500521376435,19571,0.05597196678841972,0.06258903425433314
+2008,17-29 J.,Urban regions,2.0,0.059280500521376435,19571,0.05597196678841972,0.06258903425433314
+2008,30-45 J.,Rural regions,2.0,0.05469238790406673,19571,0.05150672672556704,0.05787804908256643
+2008,66 und älter,Urban regions,2.0,0.05177267987486966,19571,0.04866843396407708,0.05487692578566224
+2008,30-45 J.,Urban regions,3.0,0.0424400417101147,19571,0.0396156791067234,0.045264404313506
+2008,17-29 J.,Urban regions,1.0,0.036235662148070905,19571,0.03361746051264174,0.038853863783500066
+2008,46-65 J.,Rural regions,3.0,0.03482794577685089,19571,0.03225923112990981,0.037396660423791965
+2008,30-45 J.,Urban regions,1.0,0.03164754953076121,19571,0.029194895253601992,0.03410020380792043
+2008,66 und älter,Rural regions,3.0,0.031386861313868614,19571,0.028944000714098694,0.03382972191363853
+2008,66 und älter,Rural regions,2.0,0.031334723670490096,19571,0.028893827177449292,0.033775620163530896
+2008,17-29 J.,Rural regions,2.0,0.030448383733055265,19571,0.028041156142966202,0.032855611323144324
+2008,66 und älter,Urban regions,4.0,0.02440041710114703,19571,0.02223877400100363,0.026562060201290427
+2008,46-65 J.,Urban regions,1.0,0.02361835245046924,19571,0.02149078093954377,0.02574592396139471
+2008,30-45 J.,Rural regions,3.0,0.02059436913451512,19571,0.018604588922547686,0.022584149346482552
+2008,17-29 J.,Rural regions,1.0,0.01830031282586027,19571,0.016422431487992634,0.02017819416372791
+2008,46-65 J.,Rural regions,1.0,0.016058394160583942,19571,0.014297289030234538,0.017819499290933346
+2008,30-45 J.,Rural regions,1.0,0.013190823774765381,19571,0.011592362527849894,0.014789285021680868
+2008,17-29 J.,Urban regions,3.0,0.012148070907194995,19571,0.010613280245437678,0.013682861568952312
+2008,46-65 J.,Urban regions,4.0,0.01032325338894682,19571,0.008907118770004583,0.011739388007889057
+2008,66 und älter,Rural regions,4.0,0.008967674661105318,19571,0.007646885807555256,0.01028846351465538
+2008,66 und älter,Urban regions,1.0,0.008029197080291971,19571,0.0067788370950781105,0.00927955706550583
+2008,17-29 J.,Rural regions,3.0,0.006517205422314911,19571,0.0053898510770606515,0.007644559767569171
+2008,66 und älter,Rural regions,1.0,0.005213764337851929,19571,0.0042047667099492534,0.006222761965754604
+2008,46-65 J.,Rural regions,4.0,0.0036496350364963502,19571,0.0028047836452368058,0.004494486427755895
+2008,30-45 J.,Urban regions,4.0,0.0029718456725755997,19571,0.002209211256086473,0.003734480089064726
+2008,17-29 J.,Urban regions,4.0,0.0009384775808133472,19571,0.0005094772466040871,0.0013674779150226074
+2008,30-45 J.,Rural regions,4.0,0.000886339937434828,19571,0.0004694156736522258,0.0013032642012174302
+2008,17-29 J.,Rural regions,4.0,0.00031282586027111576,19571,6.50648593969028e-05,0.0005605868611453287
+2012,30-45 J.,Urban regions,2.0,0.11943341950988604,28166,0.11564605141105486,0.12322078760871721
+2012,46-65 J.,Urban regions,2.0,0.1125878454648072,28166,0.10889635352545662,0.11627933740415777
+2012,46-65 J.,Rural regions,2.0,0.07555620289116266,28166,0.07246968497438934,0.07864272080793598
+2012,30-45 J.,Rural regions,2.0,0.07013072133415868,28166,0.06714837149238188,0.07311307117593548
+2012,46-65 J.,Urban regions,3.0,0.060590612824527545,28166,0.05780434022410349,0.0633768854249516
+2012,66 und älter,Urban regions,2.0,0.049557586571022834,28166,0.04702297471363785,0.052092198428407815
+2012,17-29 J.,Urban regions,2.0,0.04817390671084732,28166,0.045673110971870476,0.050674702449824166
+2012,30-45 J.,Urban regions,3.0,0.046935877362269236,28166,0.044465820138349606,0.04940593458618887
+2012,66 und älter,Urban regions,3.0,0.044860357572005974,28166,0.04244290320651939,0.04727781193749256
+2012,30-45 J.,Urban regions,1.0,0.0433674398281324,28166,0.04098869446110385,0.045746185195160945
+2012,17-29 J.,Urban regions,1.0,0.03583002585296581,28166,0.0336593556434194,0.03800069606251222
+2012,46-65 J.,Rural regions,3.0,0.03386374394640061,28166,0.03175132448575898,0.035976163407042246
+2012,66 und älter,Rural regions,2.0,0.03193387466773477,28166,0.029880482959983475,0.03398726637548607
+2012,46-65 J.,Urban regions,1.0,0.03087790845865346,28166,0.028857651234749846,0.03289816568255708
+2012,17-29 J.,Rural regions,2.0,0.02974911699377344,28166,0.027764975922389454,0.03173325806515743
+2012,66 und älter,Rural regions,3.0,0.02483341222736045,28166,0.02301600986157778,0.02665081459314312
+2012,30-45 J.,Rural regions,3.0,0.024068747041473982,28166,0.02227884263112161,0.025858651451826354
+2012,30-45 J.,Rural regions,1.0,0.022357353530204276,28166,0.020630745525538473,0.02408396153487008
+2012,46-65 J.,Rural regions,1.0,0.017332410880093217,28166,0.015808265872516648,0.018856555887669785
+2012,17-29 J.,Rural regions,1.0,0.017041109856898374,28166,0.015529603077472151,0.018552616636324598
+2012,66 und älter,Urban regions,4.0,0.0135819102064596,28166,0.01223013515930776,0.014933685253611441
+2012,66 und älter,Urban regions,1.0,0.010049885300222118,28166,0.008885006633962661,0.011214763966481574
+2012,17-29 J.,Urban regions,3.0,0.008447729672650475,28166,0.007378868516512723,0.009516590828788226
+2012,66 und älter,Rural regions,4.0,0.00622655937078979,28166,0.005307885755386053,0.007145232986193527
+2012,46-65 J.,Urban regions,4.0,0.005716782580198813,28166,0.004836292685185525,0.0065972724752121
+2012,66 und älter,Rural regions,1.0,0.004915704766412992,28166,0.004098903663064058,0.005732505869761926
+2012,17-29 J.,Rural regions,3.0,0.004442340603721371,28166,0.0036656775969657754,0.0052190036104769666
+2012,46-65 J.,Rural regions,4.0,0.0034591996504387723,28166,0.0027735080330742695,0.004144891267803275
+2012,30-45 J.,Urban regions,4.0,0.0022211703018606855,28166,0.001671374327637037,0.002770966276084334
+2012,30-45 J.,Rural regions,4.0,0.0010559662090813093,28166,0.0006766607676148291,0.0014352716505477896
+2012,17-29 J.,Urban regions,4.0,0.000582602046389688,28166,0.00030079429185592485,0.000864409800923451
+2012,17-29 J.,Rural regions,4.0,0.00021847576739613298,28166,4.587303202902829e-05,0.00039107850276323767
+2016,46-65 J.,Urban regions,2.0,0.11995854922279793,27798,0.11613896172979496,0.1237781367158009
+2016,30-45 J.,Urban regions,2.0,0.10996891191709844,27798,0.10629112258886333,0.11364670124533355
+2016,46-65 J.,Rural regions,2.0,0.07212435233160622,27798,0.0690832211964749,0.07516548346673753
+2016,46-65 J.,Urban regions,3.0,0.06876683937823834,27798,0.06579196902028064,0.07174170973619604
+2016,30-45 J.,Rural regions,2.0,0.05807253886010363,27798,0.0553231040177076,0.06082197370249966
+2016,17-29 J.,Urban regions,2.0,0.056082901554404145,27798,0.05337812458458437,0.05878767852422392
+2016,66 und älter,Urban regions,2.0,0.052476683937823836,27798,0.04985531927465062,0.055098048600997054
+2016,66 und älter,Urban regions,3.0,0.048829015544041454,27798,0.046295534978795155,0.05136249610928775
+2016,30-45 J.,Urban regions,3.0,0.04140932642487047,27798,0.03906717495068138,0.04375147789905956
+2016,30-45 J.,Urban regions,1.0,0.04041450777202073,27798,0.03809946094740122,0.04272955459664023
+2016,17-29 J.,Urban regions,1.0,0.039419689119170986,27798,0.03713212785548938,0.04170725038285259
+2016,46-65 J.,Rural regions,3.0,0.03639378238341969,27798,0.03419231279799995,0.03859525196883943
+2016,66 und älter,Rural regions,2.0,0.0336580310880829,27798,0.03153791778795052,0.03577814438821528
+2016,46-65 J.,Urban regions,1.0,0.030300518134715026,27798,0.02828543529177477,0.03231560097765528
+2016,17-29 J.,Rural regions,2.0,0.027854922279792745,27798,0.0259204352940417,0.02978940926554379
+2016,66 und älter,Rural regions,3.0,0.02673575129533679,27798,0.024839434560605642,0.028632068030067934
+2016,30-45 J.,Rural regions,3.0,0.020310880829015544,27798,0.018652601002737326,0.02196916065529376
+2016,30-45 J.,Rural regions,1.0,0.01923316062176166,27798,0.017618588266928314,0.020847732976595004
+2016,46-65 J.,Rural regions,1.0,0.018528497409326425,27798,0.016943209148238346,0.020113785670414504
+2016,17-29 J.,Rural regions,1.0,0.017658031088082903,27798,0.016109742958761906,0.0192063192174039
+2016,17-29 J.,Urban regions,3.0,0.011813471502590673,27798,0.010543314141177831,0.013083628864003514
+2016,66 und älter,Urban regions,4.0,0.011606217616580311,27798,0.010347119271514712,0.012865315961645911
+2016,66 und älter,Urban regions,1.0,0.008704663212435234,27798,0.007612652713035997,0.009796673711834472
+2016,66 und älter,Rural regions,1.0,0.005927461139896373,27798,0.005025074426706367,0.006829847853086379
+2016,46-65 J.,Urban regions,4.0,0.005678756476683938,27798,0.004795393328206889,0.006562119625160987
+2016,17-29 J.,Rural regions,3.0,0.005471502590673575,27798,0.00460431866984757,0.006338686511499579
+2016,66 und älter,Rural regions,4.0,0.005098445595854922,27798,0.004261189640236083,0.005935701551473761
+2016,46-65 J.,Rural regions,4.0,0.002901554404145078,27798,0.0022692391271473557,0.0035338696811428
+2016,30-45 J.,Urban regions,4.0,0.002528497409326425,27798,0.0019381185453552661,0.003118876273297584
+2016,30-45 J.,Rural regions,4.0,0.000994818652849741,27798,0.0006242188992257275,0.0013654184064737546
+2016,17-29 J.,Urban regions,4.0,0.0007046632124352332,27798,0.0003927117498698453,0.001016614675000621
+2016,17-29 J.,Rural regions,4.0,0.00037305699481865283,27798,0.00014604130887896702,0.0006000726807583387
+2021,46-65 J.,Urban regions,2.0,0.13730433253209826,19931,0.13252615308467308,0.14208251197952343
+2021,30-45 J.,Urban regions,2.0,0.09321686111273964,19931,0.08918049564270111,0.09725322658277816
+2021,46-65 J.,Urban regions,3.0,0.07856012194406989,19931,0.07482481665238383,0.08229542723575595
+2021,46-65 J.,Rural regions,2.0,0.07791522542064841,19931,0.07419398167232616,0.08163646916897066
+2021,66 und älter,Urban regions,2.0,0.057513044497860114,19931,0.05428073915733264,0.060745349838387586
+2021,17-29 J.,Urban regions,2.0,0.056457759277715895,19931,0.05325345300922483,0.05966206554620696
+2021,66 und älter,Urban regions,3.0,0.0491880166500557,19931,0.046185616965459295,0.0521904163346521
+2021,30-45 J.,Rural regions,2.0,0.04543589142287624,19931,0.0425445884431766,0.04832719440257588
+2021,17-29 J.,Urban regions,1.0,0.043794336635985226,19931,0.04095330441799829,0.04663536885397216
+2021,46-65 J.,Rural regions,3.0,0.04068710793222724,19931,0.03794427043695665,0.04342994542749783
+2021,30-45 J.,Urban regions,1.0,0.039045553145336226,19931,0.036356318379659774,0.04173478791101268
+2021,46-65 J.,Urban regions,1.0,0.03757987922846925,19931,0.03493958963603036,0.040220168820908134
+2021,66 und älter,Rural regions,2.0,0.0354693087881808,19931,0.032901421750308024,0.03803719582605358
+2021,30-45 J.,Urban regions,3.0,0.03036876355748373,19931,0.027986398114866244,0.032751129000101215
+2021,66 und älter,Rural regions,3.0,0.02925485138066483,19931,0.026915243426149996,0.03159445933517967
+2021,17-29 J.,Rural regions,2.0,0.024740575716714546,19931,0.022584040744598022,0.02689711068883107
+2021,46-65 J.,Rural regions,1.0,0.01618104004221141,19931,0.014429369860820872,0.017932710223601947
+2021,30-45 J.,Rural regions,3.0,0.015829278302163335,19931,0.01409644292981259,0.017562113674514077
+2021,17-29 J.,Rural regions,1.0,0.015243008735416544,19931,0.013542059264733857,0.016943958206099233
+2021,30-45 J.,Rural regions,1.0,0.015067127865392507,19931,0.013375869024456857,0.01675838670632816
+2021,66 und älter,Urban regions,1.0,0.011842645248285162,19931,0.010340787012378061,0.013344503484192263
+2021,17-29 J.,Urban regions,3.0,0.011725391334935803,19931,0.010230897876012267,0.013219884793859339
+2021,66 und älter,Urban regions,4.0,0.009907955678020754,19931,0.008532896656378616,0.011283014699662891
+2021,66 und älter,Rural regions,1.0,0.00597994958081726,19931,0.004909569890038282,0.007050329271596238
+2021,17-29 J.,Rural regions,3.0,0.005041918274022395,19931,0.004058605186083744,0.006025231361961047
+2021,46-65 J.,Urban regions,4.0,0.004983291317347717,19931,0.004005683081254554,0.0059608995534408795
+2021,66 und älter,Rural regions,4.0,0.004983291317347717,19931,0.004005683081254554,0.0059608995534408795
+2021,46-65 J.,Rural regions,4.0,0.003224482617107346,19931,0.002437400168579749,0.004011565065634944
+2021,30-45 J.,Rural regions,4.0,0.0012897930468429384,19931,0.0007915155354995432,0.0017880705581863336
+2021,30-45 J.,Urban regions,4.0,0.0009380313067948642,19931,0.0005130239899175886,0.00136303862367214
+2021,17-29 J.,Urban regions,4.0,0.0008794043501201853,19931,0.0004678807110655278,0.0012909279891748428
+2021,17-29 J.,Rural regions,4.0,0.0003517617400480741,19931,9.142262172203135e-05,0.0006121008583741169

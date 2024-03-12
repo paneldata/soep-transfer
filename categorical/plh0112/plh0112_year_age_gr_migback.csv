@@ -1,973 +1,369 @@
-"plh0112","year","age_gr","migback","n","percent","lower_confidence","upper_confidence"
-"1 Sehr wichtig","1990","17-34","kein Migrationshintergrund","384","0.162732407909176","0.148137052368645","0.177327763449707"
-"1 Sehr wichtig","1990","17-34","direkter Migrationshintergrund","","","",""
-"1 Sehr wichtig","1990","17-34","indirekter Migrationshintergrund","","","",""
-"1 Sehr wichtig","1990","35-65","kein Migrationshintergrund","359","0.115087220664322","0.104040582812694","0.12613385851595"
-"1 Sehr wichtig","1990","35-65","direkter Migrationshintergrund","37","0.152252536293241","0.108157112753477","0.196347959833004"
-"1 Sehr wichtig","1990","35-65","indirekter Migrationshintergrund","","","",""
-"1 Sehr wichtig","1990","66 +","kein Migrationshintergrund","66","0.0647335629129921","0.0490539638560047","0.0804131619699795"
-"1 Sehr wichtig","1990","66 +","direkter Migrationshintergrund","","","",""
-"1 Sehr wichtig","1990","66 +","indirekter Migrationshintergrund","","","",""
-"2 Wichtig","1990","17-34","kein Migrationshintergrund","1005","0.404281801226133","0.38487705164114","0.423686550811126"
-"2 Wichtig","1990","17-34","direkter Migrationshintergrund","53","0.434827297116378","0.347922835502598","0.521731758730158"
-"2 Wichtig","1990","17-34","indirekter Migrationshintergrund","","","",""
-"2 Wichtig","1990","35-65","kein Migrationshintergrund","1236","0.388957026934317","0.372081667957487","0.405832385911147"
-"2 Wichtig","1990","35-65","direkter Migrationshintergrund","119","0.459038376259534","0.397875806142535","0.520200946376533"
-"2 Wichtig","1990","35-65","indirekter Migrationshintergrund","","","",""
-"2 Wichtig","1990","66 +","kein Migrationshintergrund","283","0.303951089456841","0.274640520143661","0.333261658770022"
-"2 Wichtig","1990","66 +","direkter Migrationshintergrund","","","",""
-"2 Wichtig","1990","66 +","indirekter Migrationshintergrund","","","",""
-"3 Weniger wichtig","1990","17-34","kein Migrationshintergrund","942","0.385248833303342","0.366006139924684","0.404491526681999"
-"3 Weniger wichtig","1990","17-34","direkter Migrationshintergrund","50","0.377949701989032","0.292948936004728","0.462950467973336"
-"3 Weniger wichtig","1990","17-34","indirekter Migrationshintergrund","","","",""
-"3 Weniger wichtig","1990","35-65","kein Migrationshintergrund","1301","0.398924458224715","0.38197420493754","0.415874711511891"
-"3 Weniger wichtig","1990","35-65","direkter Migrationshintergrund","82","0.319152598885568","0.261938628682197","0.376366569088939"
-"3 Weniger wichtig","1990","35-65","indirekter Migrationshintergrund","","","",""
-"3 Weniger wichtig","1990","66 +","kein Migrationshintergrund","339","0.35349617868993","0.323032634219026","0.383959723160833"
-"3 Weniger wichtig","1990","66 +","direkter Migrationshintergrund","","","",""
-"3 Weniger wichtig","1990","66 +","indirekter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","1990","17-34","kein Migrationshintergrund","126","0.0477369575613494","0.0393064961310753","0.0561674189916236"
-"4 Ganz unwichtig","1990","17-34","direkter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","1990","17-34","indirekter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","1990","35-65","kein Migrationshintergrund","310","0.097031294176646","0.0867851940965432","0.107277394256749"
-"4 Ganz unwichtig","1990","35-65","direkter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","1990","35-65","indirekter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","1990","66 +","kein Migrationshintergrund","258","0.277819168940237","0.249275709694059","0.306362628186414"
-"4 Ganz unwichtig","1990","66 +","direkter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","1990","66 +","indirekter Migrationshintergrund","","","",""
-"1 Sehr wichtig","1991","17-34","kein Migrationshintergrund","","","",""
-"1 Sehr wichtig","1991","17-34","direkter Migrationshintergrund","","","",""
-"1 Sehr wichtig","1991","17-34","indirekter Migrationshintergrund","","","",""
-"1 Sehr wichtig","1991","35-65","kein Migrationshintergrund","","","",""
-"1 Sehr wichtig","1991","35-65","direkter Migrationshintergrund","","","",""
-"1 Sehr wichtig","1991","35-65","indirekter Migrationshintergrund","","","",""
-"1 Sehr wichtig","1991","66 +","kein Migrationshintergrund","","","",""
-"1 Sehr wichtig","1991","66 +","direkter Migrationshintergrund","","","",""
-"1 Sehr wichtig","1991","66 +","indirekter Migrationshintergrund","","","",""
-"2 Wichtig","1991","17-34","kein Migrationshintergrund","","","",""
-"2 Wichtig","1991","17-34","direkter Migrationshintergrund","","","",""
-"2 Wichtig","1991","17-34","indirekter Migrationshintergrund","","","",""
-"2 Wichtig","1991","35-65","kein Migrationshintergrund","","","",""
-"2 Wichtig","1991","35-65","direkter Migrationshintergrund","","","",""
-"2 Wichtig","1991","35-65","indirekter Migrationshintergrund","","","",""
-"2 Wichtig","1991","66 +","kein Migrationshintergrund","","","",""
-"2 Wichtig","1991","66 +","direkter Migrationshintergrund","","","",""
-"2 Wichtig","1991","66 +","indirekter Migrationshintergrund","","","",""
-"3 Weniger wichtig","1991","17-34","kein Migrationshintergrund","","","",""
-"3 Weniger wichtig","1991","17-34","direkter Migrationshintergrund","","","",""
-"3 Weniger wichtig","1991","17-34","indirekter Migrationshintergrund","","","",""
-"3 Weniger wichtig","1991","35-65","kein Migrationshintergrund","","","",""
-"3 Weniger wichtig","1991","35-65","direkter Migrationshintergrund","","","",""
-"3 Weniger wichtig","1991","35-65","indirekter Migrationshintergrund","","","",""
-"3 Weniger wichtig","1991","66 +","kein Migrationshintergrund","","","",""
-"3 Weniger wichtig","1991","66 +","direkter Migrationshintergrund","","","",""
-"3 Weniger wichtig","1991","66 +","indirekter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","1991","17-34","kein Migrationshintergrund","","","",""
-"4 Ganz unwichtig","1991","17-34","direkter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","1991","17-34","indirekter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","1991","35-65","kein Migrationshintergrund","","","",""
-"4 Ganz unwichtig","1991","35-65","direkter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","1991","35-65","indirekter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","1991","66 +","kein Migrationshintergrund","","","",""
-"4 Ganz unwichtig","1991","66 +","direkter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","1991","66 +","indirekter Migrationshintergrund","","","",""
-"1 Sehr wichtig","1992","17-34","kein Migrationshintergrund","539","0.156943562580248","0.145296770504023","0.168590354656472"
-"1 Sehr wichtig","1992","17-34","direkter Migrationshintergrund","","","",""
-"1 Sehr wichtig","1992","17-34","indirekter Migrationshintergrund","","","",""
-"1 Sehr wichtig","1992","35-65","kein Migrationshintergrund","570","0.116938000848884","0.108255474704832","0.125620526992936"
-"1 Sehr wichtig","1992","35-65","direkter Migrationshintergrund","54","0.171905318574503","0.132207375187997","0.211603261961008"
-"1 Sehr wichtig","1992","35-65","indirekter Migrationshintergrund","","","",""
-"1 Sehr wichtig","1992","66 +","kein Migrationshintergrund","100","0.0762722610987401","0.0617763518036926","0.0907681703937876"
-"1 Sehr wichtig","1992","66 +","direkter Migrationshintergrund","","","",""
-"1 Sehr wichtig","1992","66 +","indirekter Migrationshintergrund","","","",""
-"2 Wichtig","1992","17-34","kein Migrationshintergrund","1485","0.39512541926772","0.379472101691158","0.410778736844283"
-"2 Wichtig","1992","17-34","direkter Migrationshintergrund","69","0.555786906004621","0.469370527136538","0.642203284872704"
-"2 Wichtig","1992","17-34","indirekter Migrationshintergrund","","","",""
-"2 Wichtig","1992","35-65","kein Migrationshintergrund","2084","0.39220433089671","0.379012421428054","0.405396240365365"
-"2 Wichtig","1992","35-65","direkter Migrationshintergrund","148","0.442371460832258","0.390113868026879","0.494629053637637"
-"2 Wichtig","1992","35-65","indirekter Migrationshintergrund","","","",""
-"2 Wichtig","1992","66 +","kein Migrationshintergrund","426","0.321770590671096","0.296258171474273","0.347283009867919"
-"2 Wichtig","1992","66 +","direkter Migrationshintergrund","","","",""
-"2 Wichtig","1992","66 +","indirekter Migrationshintergrund","","","",""
-"3 Weniger wichtig","1992","17-34","kein Migrationshintergrund","1512","0.392413816827768","0.376779376678383","0.408048256977152"
-"3 Weniger wichtig","1992","17-34","direkter Migrationshintergrund","37","0.25781634591906","0.181738685668449","0.333894006169672"
-"3 Weniger wichtig","1992","17-34","indirekter Migrationshintergrund","","","",""
-"3 Weniger wichtig","1992","35-65","kein Migrationshintergrund","2134","0.392057124490909","0.37886609379504","0.405248155186778"
-"3 Weniger wichtig","1992","35-65","direkter Migrationshintergrund","124","0.324581083794762","0.275316868848388","0.373845298741135"
-"3 Weniger wichtig","1992","35-65","indirekter Migrationshintergrund","","","",""
-"3 Weniger wichtig","1992","66 +","kein Migrationshintergrund","428","0.335761483510656","0.309970516584622","0.361552450436689"
-"3 Weniger wichtig","1992","66 +","direkter Migrationshintergrund","36","0.36286308540514","0.269090652747999","0.456635518062281"
-"3 Weniger wichtig","1992","66 +","indirekter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","1992","17-34","kein Migrationshintergrund","211","0.0555172013242645","0.0481852925406956","0.0628491101078334"
-"4 Ganz unwichtig","1992","17-34","direkter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","1992","17-34","indirekter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","1992","35-65","kein Migrationshintergrund","474","0.0988005437634977","0.0907381724261342","0.106862915100861"
-"4 Ganz unwichtig","1992","35-65","direkter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","1992","35-65","indirekter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","1992","66 +","kein Migrationshintergrund","334","0.266195664719508","0.242058803951445","0.290332525487572"
-"4 Ganz unwichtig","1992","66 +","direkter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","1992","66 +","indirekter Migrationshintergrund","","","",""
-"1 Sehr wichtig","1993","17-34","kein Migrationshintergrund","","","",""
-"1 Sehr wichtig","1993","17-34","direkter Migrationshintergrund","","","",""
-"1 Sehr wichtig","1993","17-34","indirekter Migrationshintergrund","","","",""
-"1 Sehr wichtig","1993","35-65","kein Migrationshintergrund","","","",""
-"1 Sehr wichtig","1993","35-65","direkter Migrationshintergrund","","","",""
-"1 Sehr wichtig","1993","35-65","indirekter Migrationshintergrund","","","",""
-"1 Sehr wichtig","1993","66 +","kein Migrationshintergrund","","","",""
-"1 Sehr wichtig","1993","66 +","direkter Migrationshintergrund","","","",""
-"1 Sehr wichtig","1993","66 +","indirekter Migrationshintergrund","","","",""
-"2 Wichtig","1993","17-34","kein Migrationshintergrund","","","",""
-"2 Wichtig","1993","17-34","direkter Migrationshintergrund","","","",""
-"2 Wichtig","1993","17-34","indirekter Migrationshintergrund","","","",""
-"2 Wichtig","1993","35-65","kein Migrationshintergrund","","","",""
-"2 Wichtig","1993","35-65","direkter Migrationshintergrund","","","",""
-"2 Wichtig","1993","35-65","indirekter Migrationshintergrund","","","",""
-"2 Wichtig","1993","66 +","kein Migrationshintergrund","","","",""
-"2 Wichtig","1993","66 +","direkter Migrationshintergrund","","","",""
-"2 Wichtig","1993","66 +","indirekter Migrationshintergrund","","","",""
-"3 Weniger wichtig","1993","17-34","kein Migrationshintergrund","","","",""
-"3 Weniger wichtig","1993","17-34","direkter Migrationshintergrund","","","",""
-"3 Weniger wichtig","1993","17-34","indirekter Migrationshintergrund","","","",""
-"3 Weniger wichtig","1993","35-65","kein Migrationshintergrund","","","",""
-"3 Weniger wichtig","1993","35-65","direkter Migrationshintergrund","","","",""
-"3 Weniger wichtig","1993","35-65","indirekter Migrationshintergrund","","","",""
-"3 Weniger wichtig","1993","66 +","kein Migrationshintergrund","","","",""
-"3 Weniger wichtig","1993","66 +","direkter Migrationshintergrund","","","",""
-"3 Weniger wichtig","1993","66 +","indirekter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","1993","17-34","kein Migrationshintergrund","","","",""
-"4 Ganz unwichtig","1993","17-34","direkter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","1993","17-34","indirekter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","1993","35-65","kein Migrationshintergrund","","","",""
-"4 Ganz unwichtig","1993","35-65","direkter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","1993","35-65","indirekter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","1993","66 +","kein Migrationshintergrund","","","",""
-"4 Ganz unwichtig","1993","66 +","direkter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","1993","66 +","indirekter Migrationshintergrund","","","",""
-"1 Sehr wichtig","1994","17-34","kein Migrationshintergrund","","","",""
-"1 Sehr wichtig","1994","17-34","direkter Migrationshintergrund","","","",""
-"1 Sehr wichtig","1994","17-34","indirekter Migrationshintergrund","","","",""
-"1 Sehr wichtig","1994","35-65","kein Migrationshintergrund","","","",""
-"1 Sehr wichtig","1994","35-65","direkter Migrationshintergrund","","","",""
-"1 Sehr wichtig","1994","35-65","indirekter Migrationshintergrund","","","",""
-"1 Sehr wichtig","1994","66 +","kein Migrationshintergrund","","","",""
-"1 Sehr wichtig","1994","66 +","direkter Migrationshintergrund","","","",""
-"1 Sehr wichtig","1994","66 +","indirekter Migrationshintergrund","","","",""
-"2 Wichtig","1994","17-34","kein Migrationshintergrund","","","",""
-"2 Wichtig","1994","17-34","direkter Migrationshintergrund","","","",""
-"2 Wichtig","1994","17-34","indirekter Migrationshintergrund","","","",""
-"2 Wichtig","1994","35-65","kein Migrationshintergrund","","","",""
-"2 Wichtig","1994","35-65","direkter Migrationshintergrund","","","",""
-"2 Wichtig","1994","35-65","indirekter Migrationshintergrund","","","",""
-"2 Wichtig","1994","66 +","kein Migrationshintergrund","","","",""
-"2 Wichtig","1994","66 +","direkter Migrationshintergrund","","","",""
-"2 Wichtig","1994","66 +","indirekter Migrationshintergrund","","","",""
-"3 Weniger wichtig","1994","17-34","kein Migrationshintergrund","","","",""
-"3 Weniger wichtig","1994","17-34","direkter Migrationshintergrund","","","",""
-"3 Weniger wichtig","1994","17-34","indirekter Migrationshintergrund","","","",""
-"3 Weniger wichtig","1994","35-65","kein Migrationshintergrund","","","",""
-"3 Weniger wichtig","1994","35-65","direkter Migrationshintergrund","","","",""
-"3 Weniger wichtig","1994","35-65","indirekter Migrationshintergrund","","","",""
-"3 Weniger wichtig","1994","66 +","kein Migrationshintergrund","","","",""
-"3 Weniger wichtig","1994","66 +","direkter Migrationshintergrund","","","",""
-"3 Weniger wichtig","1994","66 +","indirekter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","1994","17-34","kein Migrationshintergrund","","","",""
-"4 Ganz unwichtig","1994","17-34","direkter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","1994","17-34","indirekter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","1994","35-65","kein Migrationshintergrund","","","",""
-"4 Ganz unwichtig","1994","35-65","direkter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","1994","35-65","indirekter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","1994","66 +","kein Migrationshintergrund","","","",""
-"4 Ganz unwichtig","1994","66 +","direkter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","1994","66 +","indirekter Migrationshintergrund","","","",""
-"1 Sehr wichtig","1995","17-34","kein Migrationshintergrund","401","0.119816949527563","0.109044392633326","0.130589506421801"
-"1 Sehr wichtig","1995","17-34","direkter Migrationshintergrund","54","0.179243905424493","0.139567700579273","0.218920110269713"
-"1 Sehr wichtig","1995","17-34","indirekter Migrationshintergrund","","","",""
-"1 Sehr wichtig","1995","35-65","kein Migrationshintergrund","388","0.0828485244291896","0.0753141885277215","0.0903828603306578"
-"1 Sehr wichtig","1995","35-65","direkter Migrationshintergrund","71","0.137322507716181","0.109964063438743","0.16468095199362"
-"1 Sehr wichtig","1995","35-65","indirekter Migrationshintergrund","","","",""
-"1 Sehr wichtig","1995","66 +","kein Migrationshintergrund","103","0.0753904970759675","0.0609493045175805","0.0898316896343546"
-"1 Sehr wichtig","1995","66 +","direkter Migrationshintergrund","","","",""
-"1 Sehr wichtig","1995","66 +","indirekter Migrationshintergrund","","","",""
-"2 Wichtig","1995","17-34","kein Migrationshintergrund","1370","0.391835469192384","0.375642160924411","0.408028777460356"
-"2 Wichtig","1995","17-34","direkter Migrationshintergrund","172","0.4692184934502","0.417595127442737","0.520841859457663"
-"2 Wichtig","1995","17-34","indirekter Migrationshintergrund","58","0.573755491636402","0.482975844273101","0.664535138999704"
-"2 Wichtig","1995","35-65","kein Migrationshintergrund","1868","0.367404375703946","0.354227352557298","0.380581398850595"
-"2 Wichtig","1995","35-65","direkter Migrationshintergrund","230","0.376368266103248","0.337858852656968","0.414877679549527"
-"2 Wichtig","1995","35-65","indirekter Migrationshintergrund","","","",""
-"2 Wichtig","1995","66 +","kein Migrationshintergrund","366","0.296854095310529","0.271864465230857","0.321843725390201"
-"2 Wichtig","1995","66 +","direkter Migrationshintergrund","55","0.362852163073613","0.287157160749278","0.438547165397947"
-"2 Wichtig","1995","66 +","indirekter Migrationshintergrund","","","",""
-"3 Weniger wichtig","1995","17-34","kein Migrationshintergrund","1488","0.423856810520754","0.407464205837357","0.440249415204152"
-"3 Weniger wichtig","1995","17-34","direkter Migrationshintergrund","117","0.314345905592377","0.266322018687868","0.362369792496887"
-"3 Weniger wichtig","1995","17-34","indirekter Migrationshintergrund","31","0.233025824325282","0.155421117514403","0.310630531136161"
-"3 Weniger wichtig","1995","35-65","kein Migrationshintergrund","2404","0.451515486964586","0.43791355603572","0.465117417893451"
-"3 Weniger wichtig","1995","35-65","direkter Migrationshintergrund","240","0.373915441710874","0.335456307961132","0.412374575460616"
-"3 Weniger wichtig","1995","35-65","indirekter Migrationshintergrund","","","",""
-"3 Weniger wichtig","1995","66 +","kein Migrationshintergrund","486","0.370762560283058","0.344343291514876","0.39718182905124"
-"3 Weniger wichtig","1995","66 +","direkter Migrationshintergrund","40","0.267356977959241","0.197682421533047","0.337031534385435"
-"3 Weniger wichtig","1995","66 +","indirekter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","1995","17-34","kein Migrationshintergrund","232","0.0644907707592985","0.0563428651629481","0.072638676355649"
-"4 Ganz unwichtig","1995","17-34","direkter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","1995","17-34","indirekter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","1995","35-65","kein Migrationshintergrund","482","0.0982316129022781","0.0900966571413095","0.106366568663247"
-"4 Ganz unwichtig","1995","35-65","direkter Migrationshintergrund","67","0.112393784469697","0.0872877791698541","0.13749978976954"
-"4 Ganz unwichtig","1995","35-65","indirekter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","1995","66 +","kein Migrationshintergrund","329","0.256992847330445","0.233091488360807","0.280894206300084"
-"4 Ganz unwichtig","1995","66 +","direkter Migrationshintergrund","47","0.290493993409837","0.219023157986584","0.361964828833091"
-"4 Ganz unwichtig","1995","66 +","indirekter Migrationshintergrund","","","",""
-"1 Sehr wichtig","1996","17-34","kein Migrationshintergrund","","","",""
-"1 Sehr wichtig","1996","17-34","direkter Migrationshintergrund","","","",""
-"1 Sehr wichtig","1996","17-34","indirekter Migrationshintergrund","","","",""
-"1 Sehr wichtig","1996","35-65","kein Migrationshintergrund","","","",""
-"1 Sehr wichtig","1996","35-65","direkter Migrationshintergrund","","","",""
-"1 Sehr wichtig","1996","35-65","indirekter Migrationshintergrund","","","",""
-"1 Sehr wichtig","1996","66 +","kein Migrationshintergrund","","","",""
-"1 Sehr wichtig","1996","66 +","direkter Migrationshintergrund","","","",""
-"1 Sehr wichtig","1996","66 +","indirekter Migrationshintergrund","","","",""
-"2 Wichtig","1996","17-34","kein Migrationshintergrund","","","",""
-"2 Wichtig","1996","17-34","direkter Migrationshintergrund","","","",""
-"2 Wichtig","1996","17-34","indirekter Migrationshintergrund","","","",""
-"2 Wichtig","1996","35-65","kein Migrationshintergrund","","","",""
-"2 Wichtig","1996","35-65","direkter Migrationshintergrund","","","",""
-"2 Wichtig","1996","35-65","indirekter Migrationshintergrund","","","",""
-"2 Wichtig","1996","66 +","kein Migrationshintergrund","","","",""
-"2 Wichtig","1996","66 +","direkter Migrationshintergrund","","","",""
-"2 Wichtig","1996","66 +","indirekter Migrationshintergrund","","","",""
-"3 Weniger wichtig","1996","17-34","kein Migrationshintergrund","","","",""
-"3 Weniger wichtig","1996","17-34","direkter Migrationshintergrund","","","",""
-"3 Weniger wichtig","1996","17-34","indirekter Migrationshintergrund","","","",""
-"3 Weniger wichtig","1996","35-65","kein Migrationshintergrund","","","",""
-"3 Weniger wichtig","1996","35-65","direkter Migrationshintergrund","","","",""
-"3 Weniger wichtig","1996","35-65","indirekter Migrationshintergrund","","","",""
-"3 Weniger wichtig","1996","66 +","kein Migrationshintergrund","","","",""
-"3 Weniger wichtig","1996","66 +","direkter Migrationshintergrund","","","",""
-"3 Weniger wichtig","1996","66 +","indirekter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","1996","17-34","kein Migrationshintergrund","","","",""
-"4 Ganz unwichtig","1996","17-34","direkter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","1996","17-34","indirekter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","1996","35-65","kein Migrationshintergrund","","","",""
-"4 Ganz unwichtig","1996","35-65","direkter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","1996","35-65","indirekter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","1996","66 +","kein Migrationshintergrund","","","",""
-"4 Ganz unwichtig","1996","66 +","direkter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","1996","66 +","indirekter Migrationshintergrund","","","",""
-"1 Sehr wichtig","1997","17-34","kein Migrationshintergrund","","","",""
-"1 Sehr wichtig","1997","17-34","direkter Migrationshintergrund","","","",""
-"1 Sehr wichtig","1997","17-34","indirekter Migrationshintergrund","","","",""
-"1 Sehr wichtig","1997","35-65","kein Migrationshintergrund","","","",""
-"1 Sehr wichtig","1997","35-65","direkter Migrationshintergrund","","","",""
-"1 Sehr wichtig","1997","35-65","indirekter Migrationshintergrund","","","",""
-"1 Sehr wichtig","1997","66 +","kein Migrationshintergrund","","","",""
-"1 Sehr wichtig","1997","66 +","direkter Migrationshintergrund","","","",""
-"1 Sehr wichtig","1997","66 +","indirekter Migrationshintergrund","","","",""
-"2 Wichtig","1997","17-34","kein Migrationshintergrund","","","",""
-"2 Wichtig","1997","17-34","direkter Migrationshintergrund","","","",""
-"2 Wichtig","1997","17-34","indirekter Migrationshintergrund","","","",""
-"2 Wichtig","1997","35-65","kein Migrationshintergrund","","","",""
-"2 Wichtig","1997","35-65","direkter Migrationshintergrund","","","",""
-"2 Wichtig","1997","35-65","indirekter Migrationshintergrund","","","",""
-"2 Wichtig","1997","66 +","kein Migrationshintergrund","","","",""
-"2 Wichtig","1997","66 +","direkter Migrationshintergrund","","","",""
-"2 Wichtig","1997","66 +","indirekter Migrationshintergrund","","","",""
-"3 Weniger wichtig","1997","17-34","kein Migrationshintergrund","","","",""
-"3 Weniger wichtig","1997","17-34","direkter Migrationshintergrund","","","",""
-"3 Weniger wichtig","1997","17-34","indirekter Migrationshintergrund","","","",""
-"3 Weniger wichtig","1997","35-65","kein Migrationshintergrund","","","",""
-"3 Weniger wichtig","1997","35-65","direkter Migrationshintergrund","","","",""
-"3 Weniger wichtig","1997","35-65","indirekter Migrationshintergrund","","","",""
-"3 Weniger wichtig","1997","66 +","kein Migrationshintergrund","","","",""
-"3 Weniger wichtig","1997","66 +","direkter Migrationshintergrund","","","",""
-"3 Weniger wichtig","1997","66 +","indirekter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","1997","17-34","kein Migrationshintergrund","","","",""
-"4 Ganz unwichtig","1997","17-34","direkter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","1997","17-34","indirekter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","1997","35-65","kein Migrationshintergrund","","","",""
-"4 Ganz unwichtig","1997","35-65","direkter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","1997","35-65","indirekter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","1997","66 +","kein Migrationshintergrund","","","",""
-"4 Ganz unwichtig","1997","66 +","direkter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","1997","66 +","indirekter Migrationshintergrund","","","",""
-"1 Sehr wichtig","1998","17-34","kein Migrationshintergrund","","","",""
-"1 Sehr wichtig","1998","17-34","direkter Migrationshintergrund","","","",""
-"1 Sehr wichtig","1998","17-34","indirekter Migrationshintergrund","","","",""
-"1 Sehr wichtig","1998","35-65","kein Migrationshintergrund","","","",""
-"1 Sehr wichtig","1998","35-65","direkter Migrationshintergrund","","","",""
-"1 Sehr wichtig","1998","35-65","indirekter Migrationshintergrund","","","",""
-"1 Sehr wichtig","1998","66 +","kein Migrationshintergrund","","","",""
-"1 Sehr wichtig","1998","66 +","direkter Migrationshintergrund","","","",""
-"1 Sehr wichtig","1998","66 +","indirekter Migrationshintergrund","","","",""
-"2 Wichtig","1998","17-34","kein Migrationshintergrund","","","",""
-"2 Wichtig","1998","17-34","direkter Migrationshintergrund","","","",""
-"2 Wichtig","1998","17-34","indirekter Migrationshintergrund","","","",""
-"2 Wichtig","1998","35-65","kein Migrationshintergrund","","","",""
-"2 Wichtig","1998","35-65","direkter Migrationshintergrund","","","",""
-"2 Wichtig","1998","35-65","indirekter Migrationshintergrund","","","",""
-"2 Wichtig","1998","66 +","kein Migrationshintergrund","","","",""
-"2 Wichtig","1998","66 +","direkter Migrationshintergrund","","","",""
-"2 Wichtig","1998","66 +","indirekter Migrationshintergrund","","","",""
-"3 Weniger wichtig","1998","17-34","kein Migrationshintergrund","","","",""
-"3 Weniger wichtig","1998","17-34","direkter Migrationshintergrund","","","",""
-"3 Weniger wichtig","1998","17-34","indirekter Migrationshintergrund","","","",""
-"3 Weniger wichtig","1998","35-65","kein Migrationshintergrund","","","",""
-"3 Weniger wichtig","1998","35-65","direkter Migrationshintergrund","","","",""
-"3 Weniger wichtig","1998","35-65","indirekter Migrationshintergrund","","","",""
-"3 Weniger wichtig","1998","66 +","kein Migrationshintergrund","","","",""
-"3 Weniger wichtig","1998","66 +","direkter Migrationshintergrund","","","",""
-"3 Weniger wichtig","1998","66 +","indirekter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","1998","17-34","kein Migrationshintergrund","","","",""
-"4 Ganz unwichtig","1998","17-34","direkter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","1998","17-34","indirekter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","1998","35-65","kein Migrationshintergrund","","","",""
-"4 Ganz unwichtig","1998","35-65","direkter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","1998","35-65","indirekter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","1998","66 +","kein Migrationshintergrund","","","",""
-"4 Ganz unwichtig","1998","66 +","direkter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","1998","66 +","indirekter Migrationshintergrund","","","",""
-"1 Sehr wichtig","1999","17-34","kein Migrationshintergrund","","","",""
-"1 Sehr wichtig","1999","17-34","direkter Migrationshintergrund","","","",""
-"1 Sehr wichtig","1999","17-34","indirekter Migrationshintergrund","","","",""
-"1 Sehr wichtig","1999","35-65","kein Migrationshintergrund","","","",""
-"1 Sehr wichtig","1999","35-65","direkter Migrationshintergrund","","","",""
-"1 Sehr wichtig","1999","35-65","indirekter Migrationshintergrund","","","",""
-"1 Sehr wichtig","1999","66 +","kein Migrationshintergrund","","","",""
-"1 Sehr wichtig","1999","66 +","direkter Migrationshintergrund","","","",""
-"1 Sehr wichtig","1999","66 +","indirekter Migrationshintergrund","","","",""
-"2 Wichtig","1999","17-34","kein Migrationshintergrund","","","",""
-"2 Wichtig","1999","17-34","direkter Migrationshintergrund","","","",""
-"2 Wichtig","1999","17-34","indirekter Migrationshintergrund","","","",""
-"2 Wichtig","1999","35-65","kein Migrationshintergrund","","","",""
-"2 Wichtig","1999","35-65","direkter Migrationshintergrund","","","",""
-"2 Wichtig","1999","35-65","indirekter Migrationshintergrund","","","",""
-"2 Wichtig","1999","66 +","kein Migrationshintergrund","","","",""
-"2 Wichtig","1999","66 +","direkter Migrationshintergrund","","","",""
-"2 Wichtig","1999","66 +","indirekter Migrationshintergrund","","","",""
-"3 Weniger wichtig","1999","17-34","kein Migrationshintergrund","","","",""
-"3 Weniger wichtig","1999","17-34","direkter Migrationshintergrund","","","",""
-"3 Weniger wichtig","1999","17-34","indirekter Migrationshintergrund","","","",""
-"3 Weniger wichtig","1999","35-65","kein Migrationshintergrund","","","",""
-"3 Weniger wichtig","1999","35-65","direkter Migrationshintergrund","","","",""
-"3 Weniger wichtig","1999","35-65","indirekter Migrationshintergrund","","","",""
-"3 Weniger wichtig","1999","66 +","kein Migrationshintergrund","","","",""
-"3 Weniger wichtig","1999","66 +","direkter Migrationshintergrund","","","",""
-"3 Weniger wichtig","1999","66 +","indirekter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","1999","17-34","kein Migrationshintergrund","","","",""
-"4 Ganz unwichtig","1999","17-34","direkter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","1999","17-34","indirekter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","1999","35-65","kein Migrationshintergrund","","","",""
-"4 Ganz unwichtig","1999","35-65","direkter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","1999","35-65","indirekter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","1999","66 +","kein Migrationshintergrund","","","",""
-"4 Ganz unwichtig","1999","66 +","direkter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","1999","66 +","indirekter Migrationshintergrund","","","",""
-"1 Sehr wichtig","2000","17-34","kein Migrationshintergrund","","","",""
-"1 Sehr wichtig","2000","17-34","direkter Migrationshintergrund","","","",""
-"1 Sehr wichtig","2000","17-34","indirekter Migrationshintergrund","","","",""
-"1 Sehr wichtig","2000","35-65","kein Migrationshintergrund","","","",""
-"1 Sehr wichtig","2000","35-65","direkter Migrationshintergrund","","","",""
-"1 Sehr wichtig","2000","35-65","indirekter Migrationshintergrund","","","",""
-"1 Sehr wichtig","2000","66 +","kein Migrationshintergrund","","","",""
-"1 Sehr wichtig","2000","66 +","direkter Migrationshintergrund","","","",""
-"1 Sehr wichtig","2000","66 +","indirekter Migrationshintergrund","","","",""
-"2 Wichtig","2000","17-34","kein Migrationshintergrund","","","",""
-"2 Wichtig","2000","17-34","direkter Migrationshintergrund","","","",""
-"2 Wichtig","2000","17-34","indirekter Migrationshintergrund","","","",""
-"2 Wichtig","2000","35-65","kein Migrationshintergrund","","","",""
-"2 Wichtig","2000","35-65","direkter Migrationshintergrund","","","",""
-"2 Wichtig","2000","35-65","indirekter Migrationshintergrund","","","",""
-"2 Wichtig","2000","66 +","kein Migrationshintergrund","","","",""
-"2 Wichtig","2000","66 +","direkter Migrationshintergrund","","","",""
-"2 Wichtig","2000","66 +","indirekter Migrationshintergrund","","","",""
-"3 Weniger wichtig","2000","17-34","kein Migrationshintergrund","","","",""
-"3 Weniger wichtig","2000","17-34","direkter Migrationshintergrund","","","",""
-"3 Weniger wichtig","2000","17-34","indirekter Migrationshintergrund","","","",""
-"3 Weniger wichtig","2000","35-65","kein Migrationshintergrund","","","",""
-"3 Weniger wichtig","2000","35-65","direkter Migrationshintergrund","","","",""
-"3 Weniger wichtig","2000","35-65","indirekter Migrationshintergrund","","","",""
-"3 Weniger wichtig","2000","66 +","kein Migrationshintergrund","","","",""
-"3 Weniger wichtig","2000","66 +","direkter Migrationshintergrund","","","",""
-"3 Weniger wichtig","2000","66 +","indirekter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","2000","17-34","kein Migrationshintergrund","","","",""
-"4 Ganz unwichtig","2000","17-34","direkter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","2000","17-34","indirekter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","2000","35-65","kein Migrationshintergrund","","","",""
-"4 Ganz unwichtig","2000","35-65","direkter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","2000","35-65","indirekter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","2000","66 +","kein Migrationshintergrund","","","",""
-"4 Ganz unwichtig","2000","66 +","direkter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","2000","66 +","indirekter Migrationshintergrund","","","",""
-"1 Sehr wichtig","2001","17-34","kein Migrationshintergrund","","","",""
-"1 Sehr wichtig","2001","17-34","direkter Migrationshintergrund","","","",""
-"1 Sehr wichtig","2001","17-34","indirekter Migrationshintergrund","","","",""
-"1 Sehr wichtig","2001","35-65","kein Migrationshintergrund","","","",""
-"1 Sehr wichtig","2001","35-65","direkter Migrationshintergrund","","","",""
-"1 Sehr wichtig","2001","35-65","indirekter Migrationshintergrund","","","",""
-"1 Sehr wichtig","2001","66 +","kein Migrationshintergrund","","","",""
-"1 Sehr wichtig","2001","66 +","direkter Migrationshintergrund","","","",""
-"1 Sehr wichtig","2001","66 +","indirekter Migrationshintergrund","","","",""
-"2 Wichtig","2001","17-34","kein Migrationshintergrund","","","",""
-"2 Wichtig","2001","17-34","direkter Migrationshintergrund","","","",""
-"2 Wichtig","2001","17-34","indirekter Migrationshintergrund","","","",""
-"2 Wichtig","2001","35-65","kein Migrationshintergrund","","","",""
-"2 Wichtig","2001","35-65","direkter Migrationshintergrund","","","",""
-"2 Wichtig","2001","35-65","indirekter Migrationshintergrund","","","",""
-"2 Wichtig","2001","66 +","kein Migrationshintergrund","","","",""
-"2 Wichtig","2001","66 +","direkter Migrationshintergrund","","","",""
-"2 Wichtig","2001","66 +","indirekter Migrationshintergrund","","","",""
-"3 Weniger wichtig","2001","17-34","kein Migrationshintergrund","","","",""
-"3 Weniger wichtig","2001","17-34","direkter Migrationshintergrund","","","",""
-"3 Weniger wichtig","2001","17-34","indirekter Migrationshintergrund","","","",""
-"3 Weniger wichtig","2001","35-65","kein Migrationshintergrund","","","",""
-"3 Weniger wichtig","2001","35-65","direkter Migrationshintergrund","","","",""
-"3 Weniger wichtig","2001","35-65","indirekter Migrationshintergrund","","","",""
-"3 Weniger wichtig","2001","66 +","kein Migrationshintergrund","","","",""
-"3 Weniger wichtig","2001","66 +","direkter Migrationshintergrund","","","",""
-"3 Weniger wichtig","2001","66 +","indirekter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","2001","17-34","kein Migrationshintergrund","","","",""
-"4 Ganz unwichtig","2001","17-34","direkter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","2001","17-34","indirekter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","2001","35-65","kein Migrationshintergrund","","","",""
-"4 Ganz unwichtig","2001","35-65","direkter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","2001","35-65","indirekter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","2001","66 +","kein Migrationshintergrund","","","",""
-"4 Ganz unwichtig","2001","66 +","direkter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","2001","66 +","indirekter Migrationshintergrund","","","",""
-"1 Sehr wichtig","2002","17-34","kein Migrationshintergrund","","","",""
-"1 Sehr wichtig","2002","17-34","direkter Migrationshintergrund","","","",""
-"1 Sehr wichtig","2002","17-34","indirekter Migrationshintergrund","","","",""
-"1 Sehr wichtig","2002","35-65","kein Migrationshintergrund","","","",""
-"1 Sehr wichtig","2002","35-65","direkter Migrationshintergrund","","","",""
-"1 Sehr wichtig","2002","35-65","indirekter Migrationshintergrund","","","",""
-"1 Sehr wichtig","2002","66 +","kein Migrationshintergrund","","","",""
-"1 Sehr wichtig","2002","66 +","direkter Migrationshintergrund","","","",""
-"1 Sehr wichtig","2002","66 +","indirekter Migrationshintergrund","","","",""
-"2 Wichtig","2002","17-34","kein Migrationshintergrund","","","",""
-"2 Wichtig","2002","17-34","direkter Migrationshintergrund","","","",""
-"2 Wichtig","2002","17-34","indirekter Migrationshintergrund","","","",""
-"2 Wichtig","2002","35-65","kein Migrationshintergrund","","","",""
-"2 Wichtig","2002","35-65","direkter Migrationshintergrund","","","",""
-"2 Wichtig","2002","35-65","indirekter Migrationshintergrund","","","",""
-"2 Wichtig","2002","66 +","kein Migrationshintergrund","","","",""
-"2 Wichtig","2002","66 +","direkter Migrationshintergrund","","","",""
-"2 Wichtig","2002","66 +","indirekter Migrationshintergrund","","","",""
-"3 Weniger wichtig","2002","17-34","kein Migrationshintergrund","","","",""
-"3 Weniger wichtig","2002","17-34","direkter Migrationshintergrund","","","",""
-"3 Weniger wichtig","2002","17-34","indirekter Migrationshintergrund","","","",""
-"3 Weniger wichtig","2002","35-65","kein Migrationshintergrund","","","",""
-"3 Weniger wichtig","2002","35-65","direkter Migrationshintergrund","","","",""
-"3 Weniger wichtig","2002","35-65","indirekter Migrationshintergrund","","","",""
-"3 Weniger wichtig","2002","66 +","kein Migrationshintergrund","","","",""
-"3 Weniger wichtig","2002","66 +","direkter Migrationshintergrund","","","",""
-"3 Weniger wichtig","2002","66 +","indirekter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","2002","17-34","kein Migrationshintergrund","","","",""
-"4 Ganz unwichtig","2002","17-34","direkter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","2002","17-34","indirekter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","2002","35-65","kein Migrationshintergrund","","","",""
-"4 Ganz unwichtig","2002","35-65","direkter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","2002","35-65","indirekter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","2002","66 +","kein Migrationshintergrund","","","",""
-"4 Ganz unwichtig","2002","66 +","direkter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","2002","66 +","indirekter Migrationshintergrund","","","",""
-"1 Sehr wichtig","2003","17-34","kein Migrationshintergrund","","","",""
-"1 Sehr wichtig","2003","17-34","direkter Migrationshintergrund","","","",""
-"1 Sehr wichtig","2003","17-34","indirekter Migrationshintergrund","","","",""
-"1 Sehr wichtig","2003","35-65","kein Migrationshintergrund","","","",""
-"1 Sehr wichtig","2003","35-65","direkter Migrationshintergrund","","","",""
-"1 Sehr wichtig","2003","35-65","indirekter Migrationshintergrund","","","",""
-"1 Sehr wichtig","2003","66 +","kein Migrationshintergrund","","","",""
-"1 Sehr wichtig","2003","66 +","direkter Migrationshintergrund","","","",""
-"1 Sehr wichtig","2003","66 +","indirekter Migrationshintergrund","","","",""
-"2 Wichtig","2003","17-34","kein Migrationshintergrund","","","",""
-"2 Wichtig","2003","17-34","direkter Migrationshintergrund","","","",""
-"2 Wichtig","2003","17-34","indirekter Migrationshintergrund","","","",""
-"2 Wichtig","2003","35-65","kein Migrationshintergrund","","","",""
-"2 Wichtig","2003","35-65","direkter Migrationshintergrund","","","",""
-"2 Wichtig","2003","35-65","indirekter Migrationshintergrund","","","",""
-"2 Wichtig","2003","66 +","kein Migrationshintergrund","","","",""
-"2 Wichtig","2003","66 +","direkter Migrationshintergrund","","","",""
-"2 Wichtig","2003","66 +","indirekter Migrationshintergrund","","","",""
-"3 Weniger wichtig","2003","17-34","kein Migrationshintergrund","","","",""
-"3 Weniger wichtig","2003","17-34","direkter Migrationshintergrund","","","",""
-"3 Weniger wichtig","2003","17-34","indirekter Migrationshintergrund","","","",""
-"3 Weniger wichtig","2003","35-65","kein Migrationshintergrund","","","",""
-"3 Weniger wichtig","2003","35-65","direkter Migrationshintergrund","","","",""
-"3 Weniger wichtig","2003","35-65","indirekter Migrationshintergrund","","","",""
-"3 Weniger wichtig","2003","66 +","kein Migrationshintergrund","","","",""
-"3 Weniger wichtig","2003","66 +","direkter Migrationshintergrund","","","",""
-"3 Weniger wichtig","2003","66 +","indirekter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","2003","17-34","kein Migrationshintergrund","","","",""
-"4 Ganz unwichtig","2003","17-34","direkter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","2003","17-34","indirekter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","2003","35-65","kein Migrationshintergrund","","","",""
-"4 Ganz unwichtig","2003","35-65","direkter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","2003","35-65","indirekter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","2003","66 +","kein Migrationshintergrund","","","",""
-"4 Ganz unwichtig","2003","66 +","direkter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","2003","66 +","indirekter Migrationshintergrund","","","",""
-"1 Sehr wichtig","2004","17-34","kein Migrationshintergrund","575","0.125713157474732","0.115838512702848","0.135587802246616"
-"1 Sehr wichtig","2004","17-34","direkter Migrationshintergrund","91","0.13646362031681","0.109420828169411","0.163506412464209"
-"1 Sehr wichtig","2004","17-34","indirekter Migrationshintergrund","109","0.170201203415272","0.14080874024332","0.199593666587224"
-"1 Sehr wichtig","2004","35-65","kein Migrationshintergrund","923","0.0914171329013534","0.0859085546599948","0.096925711142712"
-"1 Sehr wichtig","2004","35-65","direkter Migrationshintergrund","108","0.0772933427986355","0.0639510135607106","0.0906356720365605"
-"1 Sehr wichtig","2004","35-65","indirekter Migrationshintergrund","","","",""
-"1 Sehr wichtig","2004","66 +","kein Migrationshintergrund","258","0.0732684626246692","0.064456379202237","0.0820805460471014"
-"1 Sehr wichtig","2004","66 +","direkter Migrationshintergrund","","","",""
-"1 Sehr wichtig","2004","66 +","indirekter Migrationshintergrund","","","",""
-"2 Wichtig","2004","17-34","kein Migrationshintergrund","1737","0.397578929935715","0.383002005593817","0.412155854277614"
-"2 Wichtig","2004","17-34","direkter Migrationshintergrund","265","0.457144790639807","0.417900935948551","0.496388645331063"
-"2 Wichtig","2004","17-34","indirekter Migrationshintergrund","282","0.431801807517689","0.393061735739834","0.470541879295543"
-"2 Wichtig","2004","35-65","kein Migrationshintergrund","3705","0.339997453599413","0.330943170064989","0.349051737133837"
-"2 Wichtig","2004","35-65","direkter Migrationshintergrund","528","0.335271180331449","0.311685459872163","0.358856900790735"
-"2 Wichtig","2004","35-65","indirekter Migrationshintergrund","72","0.463756274692536","0.384478343553727","0.543034205831345"
-"2 Wichtig","2004","66 +","kein Migrationshintergrund","1116","0.320269305747906","0.3044906794995","0.336047931996312"
-"2 Wichtig","2004","66 +","direkter Migrationshintergrund","77","0.189982023662109","0.149402733111909","0.23056131421231"
-"2 Wichtig","2004","66 +","indirekter Migrationshintergrund","","","",""
-"3 Weniger wichtig","2004","17-34","kein Migrationshintergrund","1703","0.396517757827733","0.381947484082841","0.411088031572625"
-"3 Weniger wichtig","2004","17-34","direkter Migrationshintergrund","215","0.324325617619373","0.287448062562064","0.361203172676681"
-"3 Weniger wichtig","2004","17-34","indirekter Migrationshintergrund","193","0.334181581784642","0.29728913779058","0.371074025778705"
-"3 Weniger wichtig","2004","35-65","kein Migrationshintergrund","4890","0.461740182631981","0.452211381405126","0.471268983858835"
-"3 Weniger wichtig","2004","35-65","direkter Migrationshintergrund","659","0.441067219940844","0.416260978718231","0.465873461163457"
-"3 Weniger wichtig","2004","35-65","indirekter Migrationshintergrund","48","0.345594851730679","0.269992852043248","0.42119685141811"
-"3 Weniger wichtig","2004","66 +","kein Migrationshintergrund","1317","0.388554863367677","0.372071417309982","0.405038309425373"
-"3 Weniger wichtig","2004","66 +","direkter Migrationshintergrund","145","0.423564346694285","0.372450804091839","0.474677889296731"
-"3 Weniger wichtig","2004","66 +","indirekter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","2004","17-34","kein Migrationshintergrund","315","0.0801901547618202","0.0721008034728369","0.0882795060508035"
-"4 Ganz unwichtig","2004","17-34","direkter Migrationshintergrund","48","0.0820659714240103","0.0604442603962297","0.103687682451791"
-"4 Ganz unwichtig","2004","17-34","indirekter Migrationshintergrund","44","0.0638154072823968","0.04469875738562","0.0829320571791737"
-"4 Ganz unwichtig","2004","35-65","kein Migrationshintergrund","997","0.106845230867253","0.10094071377416","0.112749747960347"
-"4 Ganz unwichtig","2004","35-65","direkter Migrationshintergrund","244","0.146368256929072","0.128708386625083","0.164028127233062"
-"4 Ganz unwichtig","2004","35-65","indirekter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","2004","66 +","kein Migrationshintergrund","668","0.217907368259747","0.203946637741161","0.231868098778333"
-"4 Ganz unwichtig","2004","66 +","direkter Migrationshintergrund","114","0.305491848224333","0.257844432175692","0.353139264272973"
-"4 Ganz unwichtig","2004","66 +","indirekter Migrationshintergrund","","","",""
-"1 Sehr wichtig","2005","17-34","kein Migrationshintergrund","","","",""
-"1 Sehr wichtig","2005","17-34","direkter Migrationshintergrund","","","",""
-"1 Sehr wichtig","2005","17-34","indirekter Migrationshintergrund","","","",""
-"1 Sehr wichtig","2005","35-65","kein Migrationshintergrund","","","",""
-"1 Sehr wichtig","2005","35-65","direkter Migrationshintergrund","","","",""
-"1 Sehr wichtig","2005","35-65","indirekter Migrationshintergrund","","","",""
-"1 Sehr wichtig","2005","66 +","kein Migrationshintergrund","","","",""
-"1 Sehr wichtig","2005","66 +","direkter Migrationshintergrund","","","",""
-"1 Sehr wichtig","2005","66 +","indirekter Migrationshintergrund","","","",""
-"2 Wichtig","2005","17-34","kein Migrationshintergrund","","","",""
-"2 Wichtig","2005","17-34","direkter Migrationshintergrund","","","",""
-"2 Wichtig","2005","17-34","indirekter Migrationshintergrund","","","",""
-"2 Wichtig","2005","35-65","kein Migrationshintergrund","","","",""
-"2 Wichtig","2005","35-65","direkter Migrationshintergrund","","","",""
-"2 Wichtig","2005","35-65","indirekter Migrationshintergrund","","","",""
-"2 Wichtig","2005","66 +","kein Migrationshintergrund","","","",""
-"2 Wichtig","2005","66 +","direkter Migrationshintergrund","","","",""
-"2 Wichtig","2005","66 +","indirekter Migrationshintergrund","","","",""
-"3 Weniger wichtig","2005","17-34","kein Migrationshintergrund","","","",""
-"3 Weniger wichtig","2005","17-34","direkter Migrationshintergrund","","","",""
-"3 Weniger wichtig","2005","17-34","indirekter Migrationshintergrund","","","",""
-"3 Weniger wichtig","2005","35-65","kein Migrationshintergrund","","","",""
-"3 Weniger wichtig","2005","35-65","direkter Migrationshintergrund","","","",""
-"3 Weniger wichtig","2005","35-65","indirekter Migrationshintergrund","","","",""
-"3 Weniger wichtig","2005","66 +","kein Migrationshintergrund","","","",""
-"3 Weniger wichtig","2005","66 +","direkter Migrationshintergrund","","","",""
-"3 Weniger wichtig","2005","66 +","indirekter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","2005","17-34","kein Migrationshintergrund","","","",""
-"4 Ganz unwichtig","2005","17-34","direkter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","2005","17-34","indirekter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","2005","35-65","kein Migrationshintergrund","","","",""
-"4 Ganz unwichtig","2005","35-65","direkter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","2005","35-65","indirekter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","2005","66 +","kein Migrationshintergrund","","","",""
-"4 Ganz unwichtig","2005","66 +","direkter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","2005","66 +","indirekter Migrationshintergrund","","","",""
-"1 Sehr wichtig","2006","17-34","kein Migrationshintergrund","","","",""
-"1 Sehr wichtig","2006","17-34","direkter Migrationshintergrund","","","",""
-"1 Sehr wichtig","2006","17-34","indirekter Migrationshintergrund","","","",""
-"1 Sehr wichtig","2006","35-65","kein Migrationshintergrund","","","",""
-"1 Sehr wichtig","2006","35-65","direkter Migrationshintergrund","","","",""
-"1 Sehr wichtig","2006","35-65","indirekter Migrationshintergrund","","","",""
-"1 Sehr wichtig","2006","66 +","kein Migrationshintergrund","","","",""
-"1 Sehr wichtig","2006","66 +","direkter Migrationshintergrund","","","",""
-"1 Sehr wichtig","2006","66 +","indirekter Migrationshintergrund","","","",""
-"2 Wichtig","2006","17-34","kein Migrationshintergrund","","","",""
-"2 Wichtig","2006","17-34","direkter Migrationshintergrund","","","",""
-"2 Wichtig","2006","17-34","indirekter Migrationshintergrund","","","",""
-"2 Wichtig","2006","35-65","kein Migrationshintergrund","","","",""
-"2 Wichtig","2006","35-65","direkter Migrationshintergrund","","","",""
-"2 Wichtig","2006","35-65","indirekter Migrationshintergrund","","","",""
-"2 Wichtig","2006","66 +","kein Migrationshintergrund","","","",""
-"2 Wichtig","2006","66 +","direkter Migrationshintergrund","","","",""
-"2 Wichtig","2006","66 +","indirekter Migrationshintergrund","","","",""
-"3 Weniger wichtig","2006","17-34","kein Migrationshintergrund","","","",""
-"3 Weniger wichtig","2006","17-34","direkter Migrationshintergrund","","","",""
-"3 Weniger wichtig","2006","17-34","indirekter Migrationshintergrund","","","",""
-"3 Weniger wichtig","2006","35-65","kein Migrationshintergrund","","","",""
-"3 Weniger wichtig","2006","35-65","direkter Migrationshintergrund","","","",""
-"3 Weniger wichtig","2006","35-65","indirekter Migrationshintergrund","","","",""
-"3 Weniger wichtig","2006","66 +","kein Migrationshintergrund","","","",""
-"3 Weniger wichtig","2006","66 +","direkter Migrationshintergrund","","","",""
-"3 Weniger wichtig","2006","66 +","indirekter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","2006","17-34","kein Migrationshintergrund","","","",""
-"4 Ganz unwichtig","2006","17-34","direkter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","2006","17-34","indirekter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","2006","35-65","kein Migrationshintergrund","","","",""
-"4 Ganz unwichtig","2006","35-65","direkter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","2006","35-65","indirekter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","2006","66 +","kein Migrationshintergrund","","","",""
-"4 Ganz unwichtig","2006","66 +","direkter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","2006","66 +","indirekter Migrationshintergrund","","","",""
-"1 Sehr wichtig","2007","17-34","kein Migrationshintergrund","","","",""
-"1 Sehr wichtig","2007","17-34","direkter Migrationshintergrund","","","",""
-"1 Sehr wichtig","2007","17-34","indirekter Migrationshintergrund","","","",""
-"1 Sehr wichtig","2007","35-65","kein Migrationshintergrund","","","",""
-"1 Sehr wichtig","2007","35-65","direkter Migrationshintergrund","","","",""
-"1 Sehr wichtig","2007","35-65","indirekter Migrationshintergrund","","","",""
-"1 Sehr wichtig","2007","66 +","kein Migrationshintergrund","","","",""
-"1 Sehr wichtig","2007","66 +","direkter Migrationshintergrund","","","",""
-"1 Sehr wichtig","2007","66 +","indirekter Migrationshintergrund","","","",""
-"2 Wichtig","2007","17-34","kein Migrationshintergrund","","","",""
-"2 Wichtig","2007","17-34","direkter Migrationshintergrund","","","",""
-"2 Wichtig","2007","17-34","indirekter Migrationshintergrund","","","",""
-"2 Wichtig","2007","35-65","kein Migrationshintergrund","","","",""
-"2 Wichtig","2007","35-65","direkter Migrationshintergrund","","","",""
-"2 Wichtig","2007","35-65","indirekter Migrationshintergrund","","","",""
-"2 Wichtig","2007","66 +","kein Migrationshintergrund","","","",""
-"2 Wichtig","2007","66 +","direkter Migrationshintergrund","","","",""
-"2 Wichtig","2007","66 +","indirekter Migrationshintergrund","","","",""
-"3 Weniger wichtig","2007","17-34","kein Migrationshintergrund","","","",""
-"3 Weniger wichtig","2007","17-34","direkter Migrationshintergrund","","","",""
-"3 Weniger wichtig","2007","17-34","indirekter Migrationshintergrund","","","",""
-"3 Weniger wichtig","2007","35-65","kein Migrationshintergrund","","","",""
-"3 Weniger wichtig","2007","35-65","direkter Migrationshintergrund","","","",""
-"3 Weniger wichtig","2007","35-65","indirekter Migrationshintergrund","","","",""
-"3 Weniger wichtig","2007","66 +","kein Migrationshintergrund","","","",""
-"3 Weniger wichtig","2007","66 +","direkter Migrationshintergrund","","","",""
-"3 Weniger wichtig","2007","66 +","indirekter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","2007","17-34","kein Migrationshintergrund","","","",""
-"4 Ganz unwichtig","2007","17-34","direkter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","2007","17-34","indirekter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","2007","35-65","kein Migrationshintergrund","","","",""
-"4 Ganz unwichtig","2007","35-65","direkter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","2007","35-65","indirekter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","2007","66 +","kein Migrationshintergrund","","","",""
-"4 Ganz unwichtig","2007","66 +","direkter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","2007","66 +","indirekter Migrationshintergrund","","","",""
-"1 Sehr wichtig","2008","17-34","kein Migrationshintergrund","422","0.123699455703286","0.112637611142775","0.134761300263797"
-"1 Sehr wichtig","2008","17-34","direkter Migrationshintergrund","49","0.13220083646488","0.0976418001932609","0.1667598727365"
-"1 Sehr wichtig","2008","17-34","indirekter Migrationshintergrund","88","0.153313136368056","0.123552309829833","0.183073962906279"
-"1 Sehr wichtig","2008","35-65","kein Migrationshintergrund","615","0.0696402986718381","0.0644645566804206","0.0748160406632556"
-"1 Sehr wichtig","2008","35-65","direkter Migrationshintergrund","78","0.0604946011897354","0.0467636140508967","0.0742255883285742"
-"1 Sehr wichtig","2008","35-65","indirekter Migrationshintergrund","","","",""
-"1 Sehr wichtig","2008","66 +","kein Migrationshintergrund","258","0.066346850792662","0.0585155272236292","0.0741781743616949"
-"1 Sehr wichtig","2008","66 +","direkter Migrationshintergrund","","","",""
-"1 Sehr wichtig","2008","66 +","indirekter Migrationshintergrund","","","",""
-"2 Wichtig","2008","17-34","kein Migrationshintergrund","1297","0.380795404708988","0.364480668683157","0.39711014073482"
-"2 Wichtig","2008","17-34","direkter Migrationshintergrund","162","0.444887923756367","0.394182950940214","0.49559289657252"
-"2 Wichtig","2008","17-34","indirekter Migrationshintergrund","236","0.439395316907639","0.398398516248385","0.480392117566893"
-"2 Wichtig","2008","35-65","kein Migrationshintergrund","3143","0.316286985321763","0.306831268766118","0.325742701877407"
-"2 Wichtig","2008","35-65","direkter Migrationshintergrund","372","0.34113047529336","0.313824745953302","0.368436204633418"
-"2 Wichtig","2008","35-65","indirekter Migrationshintergrund","75","0.317425961639051","0.251756184650416","0.383095738627687"
-"2 Wichtig","2008","66 +","kein Migrationshintergrund","1177","0.280756426045751","0.266616892712095","0.294895959379408"
-"2 Wichtig","2008","66 +","direkter Migrationshintergrund","76","0.193905599442833","0.153178645153303","0.234632553732364"
-"2 Wichtig","2008","66 +","indirekter Migrationshintergrund","","","",""
-"3 Weniger wichtig","2008","17-34","kein Migrationshintergrund","1384","0.400263377648377","0.383801842670902","0.416724912625852"
-"3 Weniger wichtig","2008","17-34","direkter Migrationshintergrund","133","0.370192033992164","0.320925442437574","0.419458625546755"
-"3 Weniger wichtig","2008","17-34","indirekter Migrationshintergrund","190","0.333093559513452","0.294161312773925","0.372025806252979"
-"3 Weniger wichtig","2008","35-65","kein Migrationshintergrund","4423","0.479091820436121","0.468933852735296","0.489249788136947"
-"3 Weniger wichtig","2008","35-65","direkter Migrationshintergrund","500","0.4210345072842","0.392597820340291","0.449471194228108"
-"3 Weniger wichtig","2008","35-65","indirekter Migrationshintergrund","90","0.533349196717789","0.46296563049606","0.603732762939517"
-"3 Weniger wichtig","2008","66 +","kein Migrationshintergrund","1610","0.410875012425832","0.395394304562531","0.426355720289134"
-"3 Weniger wichtig","2008","66 +","direkter Migrationshintergrund","138","0.338466792036769","0.28972206268682","0.387211521386719"
-"3 Weniger wichtig","2008","66 +","indirekter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","2008","17-34","kein Migrationshintergrund","300","0.0952417619393489","0.0853790329392002","0.105104490939498"
-"4 Ganz unwichtig","2008","17-34","direkter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","2008","17-34","indirekter Migrationshintergrund","49","0.0741979872108533","0.052548430115409","0.0958475443062975"
-"4 Ganz unwichtig","2008","35-65","kein Migrationshintergrund","1110","0.134980895570278","0.128032798724409","0.141928992416147"
-"4 Ganz unwichtig","2008","35-65","direkter Migrationshintergrund","208","0.177340416232705","0.155341172376177","0.199339660089233"
-"4 Ganz unwichtig","2008","35-65","indirekter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","2008","66 +","kein Migrationshintergrund","835","0.242021710735754","0.228544879975463","0.255498541496046"
-"4 Ganz unwichtig","2008","66 +","direkter Migrationshintergrund","127","0.398283147853802","0.347853508926941","0.448712786780663"
-"4 Ganz unwichtig","2008","66 +","indirekter Migrationshintergrund","","","",""
-"1 Sehr wichtig","2009","17-34","kein Migrationshintergrund","","","",""
-"1 Sehr wichtig","2009","17-34","direkter Migrationshintergrund","","","",""
-"1 Sehr wichtig","2009","17-34","indirekter Migrationshintergrund","","","",""
-"1 Sehr wichtig","2009","35-65","kein Migrationshintergrund","","","",""
-"1 Sehr wichtig","2009","35-65","direkter Migrationshintergrund","","","",""
-"1 Sehr wichtig","2009","35-65","indirekter Migrationshintergrund","","","",""
-"1 Sehr wichtig","2009","66 +","kein Migrationshintergrund","","","",""
-"1 Sehr wichtig","2009","66 +","direkter Migrationshintergrund","","","",""
-"1 Sehr wichtig","2009","66 +","indirekter Migrationshintergrund","","","",""
-"2 Wichtig","2009","17-34","kein Migrationshintergrund","","","",""
-"2 Wichtig","2009","17-34","direkter Migrationshintergrund","","","",""
-"2 Wichtig","2009","17-34","indirekter Migrationshintergrund","","","",""
-"2 Wichtig","2009","35-65","kein Migrationshintergrund","","","",""
-"2 Wichtig","2009","35-65","direkter Migrationshintergrund","","","",""
-"2 Wichtig","2009","35-65","indirekter Migrationshintergrund","","","",""
-"2 Wichtig","2009","66 +","kein Migrationshintergrund","","","",""
-"2 Wichtig","2009","66 +","direkter Migrationshintergrund","","","",""
-"2 Wichtig","2009","66 +","indirekter Migrationshintergrund","","","",""
-"3 Weniger wichtig","2009","17-34","kein Migrationshintergrund","","","",""
-"3 Weniger wichtig","2009","17-34","direkter Migrationshintergrund","","","",""
-"3 Weniger wichtig","2009","17-34","indirekter Migrationshintergrund","","","",""
-"3 Weniger wichtig","2009","35-65","kein Migrationshintergrund","","","",""
-"3 Weniger wichtig","2009","35-65","direkter Migrationshintergrund","","","",""
-"3 Weniger wichtig","2009","35-65","indirekter Migrationshintergrund","","","",""
-"3 Weniger wichtig","2009","66 +","kein Migrationshintergrund","","","",""
-"3 Weniger wichtig","2009","66 +","direkter Migrationshintergrund","","","",""
-"3 Weniger wichtig","2009","66 +","indirekter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","2009","17-34","kein Migrationshintergrund","","","",""
-"4 Ganz unwichtig","2009","17-34","direkter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","2009","17-34","indirekter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","2009","35-65","kein Migrationshintergrund","","","",""
-"4 Ganz unwichtig","2009","35-65","direkter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","2009","35-65","indirekter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","2009","66 +","kein Migrationshintergrund","","","",""
-"4 Ganz unwichtig","2009","66 +","direkter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","2009","66 +","indirekter Migrationshintergrund","","","",""
-"1 Sehr wichtig","2010","17-34","kein Migrationshintergrund","164","0.0933407074512825","0.0805528583281819","0.106128556574383"
-"1 Sehr wichtig","2010","17-34","direkter Migrationshintergrund","89","0.14410327518474","0.117784380381423","0.170422169988057"
-"1 Sehr wichtig","2010","17-34","indirekter Migrationshintergrund","63","0.196204393423608","0.152068179645978","0.240340607201238"
-"1 Sehr wichtig","2010","35-65","kein Migrationshintergrund","278","0.085481259199349","0.0760693007277882","0.0948932176709097"
-"1 Sehr wichtig","2010","35-65","direkter Migrationshintergrund","95","0.13347466307527","0.108904998167528","0.158044327983012"
-"1 Sehr wichtig","2010","35-65","indirekter Migrationshintergrund","","","",""
-"1 Sehr wichtig","2010","66 +","kein Migrationshintergrund","","","",""
-"1 Sehr wichtig","2010","66 +","direkter Migrationshintergrund","","","",""
-"1 Sehr wichtig","2010","66 +","indirekter Migrationshintergrund","","","",""
-"2 Wichtig","2010","17-34","kein Migrationshintergrund","629","0.322924949035344","0.302370345404158","0.343479552666529"
-"2 Wichtig","2010","17-34","direkter Migrationshintergrund","311","0.474145428306067","0.436725008888854","0.511565847723281"
-"2 Wichtig","2010","17-34","indirekter Migrationshintergrund","104","0.370847140051459","0.317163315155825","0.424530964947093"
-"2 Wichtig","2010","35-65","kein Migrationshintergrund","1080","0.316488041416413","0.300831351407928","0.332144731424899"
-"2 Wichtig","2010","35-65","direkter Migrationshintergrund","296","0.407667797381797","0.372166431755803","0.44316916300779"
-"2 Wichtig","2010","35-65","indirekter Migrationshintergrund","62","0.374528718589955","0.303822422474888","0.445235014705022"
-"2 Wichtig","2010","66 +","kein Migrationshintergrund","","","",""
-"2 Wichtig","2010","66 +","direkter Migrationshintergrund","","","",""
-"2 Wichtig","2010","66 +","indirekter Migrationshintergrund","","","",""
-"3 Weniger wichtig","2010","17-34","kein Migrationshintergrund","928","0.45827497362768","0.436372537564376","0.480177409690983"
-"3 Weniger wichtig","2010","17-34","direkter Migrationshintergrund","245","0.335393059631238","0.300011293138951","0.370774826123525"
-"3 Weniger wichtig","2010","17-34","indirekter Migrationshintergrund","113","0.340723872287595","0.288049077413902","0.393398667161288"
-"3 Weniger wichtig","2010","35-65","kein Migrationshintergrund","1626","0.476286293466066","0.459473911285096","0.493098675647036"
-"3 Weniger wichtig","2010","35-65","direkter Migrationshintergrund","283","0.373559041731296","0.338610514180538","0.408507569282054"
-"3 Weniger wichtig","2010","35-65","indirekter Migrationshintergrund","79","0.394726008214198","0.323319842032542","0.466132174395854"
-"3 Weniger wichtig","2010","66 +","kein Migrationshintergrund","","","",""
-"3 Weniger wichtig","2010","66 +","direkter Migrationshintergrund","","","",""
-"3 Weniger wichtig","2010","66 +","indirekter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","2010","17-34","kein Migrationshintergrund","267","0.125459369885694","0.110898696925192","0.140020042846196"
-"4 Ganz unwichtig","2010","17-34","direkter Migrationshintergrund","39","0.0463582368779544","0.0306011428610845","0.0621153308948243"
-"4 Ganz unwichtig","2010","17-34","indirekter Migrationshintergrund","31","0.0922245942373387","0.0600672274519163","0.124381961022761"
-"4 Ganz unwichtig","2010","35-65","kein Migrationshintergrund","406","0.121744405918171","0.110737044874133","0.132751766962209"
-"4 Ganz unwichtig","2010","35-65","direkter Migrationshintergrund","62","0.0852984978116374","0.0651185717134174","0.105478423909857"
-"4 Ganz unwichtig","2010","35-65","indirekter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","2010","66 +","kein Migrationshintergrund","","","",""
-"4 Ganz unwichtig","2010","66 +","direkter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","2010","66 +","indirekter Migrationshintergrund","","","",""
-"1 Sehr wichtig","2011","17-34","kein Migrationshintergrund","","","",""
-"1 Sehr wichtig","2011","17-34","direkter Migrationshintergrund","","","",""
-"1 Sehr wichtig","2011","17-34","indirekter Migrationshintergrund","","","",""
-"1 Sehr wichtig","2011","35-65","kein Migrationshintergrund","","","",""
-"1 Sehr wichtig","2011","35-65","direkter Migrationshintergrund","","","",""
-"1 Sehr wichtig","2011","35-65","indirekter Migrationshintergrund","","","",""
-"1 Sehr wichtig","2011","66 +","kein Migrationshintergrund","","","",""
-"1 Sehr wichtig","2011","66 +","direkter Migrationshintergrund","","","",""
-"1 Sehr wichtig","2011","66 +","indirekter Migrationshintergrund","","","",""
-"2 Wichtig","2011","17-34","kein Migrationshintergrund","","","",""
-"2 Wichtig","2011","17-34","direkter Migrationshintergrund","","","",""
-"2 Wichtig","2011","17-34","indirekter Migrationshintergrund","","","",""
-"2 Wichtig","2011","35-65","kein Migrationshintergrund","","","",""
-"2 Wichtig","2011","35-65","direkter Migrationshintergrund","","","",""
-"2 Wichtig","2011","35-65","indirekter Migrationshintergrund","","","",""
-"2 Wichtig","2011","66 +","kein Migrationshintergrund","","","",""
-"2 Wichtig","2011","66 +","direkter Migrationshintergrund","","","",""
-"2 Wichtig","2011","66 +","indirekter Migrationshintergrund","","","",""
-"3 Weniger wichtig","2011","17-34","kein Migrationshintergrund","","","",""
-"3 Weniger wichtig","2011","17-34","direkter Migrationshintergrund","","","",""
-"3 Weniger wichtig","2011","17-34","indirekter Migrationshintergrund","","","",""
-"3 Weniger wichtig","2011","35-65","kein Migrationshintergrund","","","",""
-"3 Weniger wichtig","2011","35-65","direkter Migrationshintergrund","","","",""
-"3 Weniger wichtig","2011","35-65","indirekter Migrationshintergrund","","","",""
-"3 Weniger wichtig","2011","66 +","kein Migrationshintergrund","","","",""
-"3 Weniger wichtig","2011","66 +","direkter Migrationshintergrund","","","",""
-"3 Weniger wichtig","2011","66 +","indirekter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","2011","17-34","kein Migrationshintergrund","","","",""
-"4 Ganz unwichtig","2011","17-34","direkter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","2011","17-34","indirekter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","2011","35-65","kein Migrationshintergrund","","","",""
-"4 Ganz unwichtig","2011","35-65","direkter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","2011","35-65","indirekter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","2011","66 +","kein Migrationshintergrund","","","",""
-"4 Ganz unwichtig","2011","66 +","direkter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","2011","66 +","indirekter Migrationshintergrund","","","",""
-"1 Sehr wichtig","2012","17-34","kein Migrationshintergrund","689","0.161189709370996","0.15081442609184","0.171564992650152"
-"1 Sehr wichtig","2012","17-34","direkter Migrationshintergrund","123","0.207097863552863","0.178363669850387","0.235832057255338"
-"1 Sehr wichtig","2012","17-34","indirekter Migrationshintergrund","116","0.146764397087529","0.12105882680305","0.172469967372008"
-"1 Sehr wichtig","2012","35-65","kein Migrationshintergrund","1229","0.100113383271422","0.0950805212690404","0.105146245273803"
-"1 Sehr wichtig","2012","35-65","direkter Migrationshintergrund","208","0.0993569128155445","0.0857950656843147","0.112918759946774"
-"1 Sehr wichtig","2012","35-65","indirekter Migrationshintergrund","60","0.1025065656172","0.0769003622671801","0.128112768967219"
-"1 Sehr wichtig","2012","66 +","kein Migrationshintergrund","402","0.081151327969699","0.0733931444224812","0.0889095115169169"
-"1 Sehr wichtig","2012","66 +","direkter Migrationshintergrund","31","0.0843782358772078","0.0573078869555331","0.111448584798882"
-"1 Sehr wichtig","2012","66 +","indirekter Migrationshintergrund","","","",""
-"2 Wichtig","2012","17-34","kein Migrationshintergrund","1793","0.411311918449817","0.397427499780575","0.425196337119059"
-"2 Wichtig","2012","17-34","direkter Migrationshintergrund","346","0.46599046717254","0.430618074880256","0.501362859464825"
-"2 Wichtig","2012","17-34","indirekter Migrationshintergrund","306","0.453013502461017","0.416853680986576","0.489173323935457"
-"2 Wichtig","2012","35-65","kein Migrationshintergrund","4473","0.33327061204543","0.325366585948063","0.341174638142797"
-"2 Wichtig","2012","35-65","direkter Migrationshintergrund","764","0.407190207593101","0.384916126962995","0.429464288223206"
-"2 Wichtig","2012","35-65","indirekter Migrationshintergrund","196","0.366737041823726","0.3260530892036","0.407420994443851"
-"2 Wichtig","2012","66 +","kein Migrationshintergrund","1536","0.304478644599396","0.291404180645992","0.317553108552801"
-"2 Wichtig","2012","66 +","direkter Migrationshintergrund","121","0.292817378943722","0.248498905407744","0.337135852479701"
-"2 Wichtig","2012","66 +","indirekter Migrationshintergrund","","","",""
-"3 Weniger wichtig","2012","17-34","kein Migrationshintergrund","1962","0.35465621293358","0.341157300348481","0.368155125518678"
-"3 Weniger wichtig","2012","17-34","direkter Migrationshintergrund","251","0.296479680246965","0.264095179859182","0.328864180634748"
-"3 Weniger wichtig","2012","17-34","indirekter Migrationshintergrund","264","0.355534514552726","0.320763039303017","0.390305989802434"
-"3 Weniger wichtig","2012","35-65","kein Migrationshintergrund","6444","0.4512638641089","0.442919905978637","0.459607822239163"
-"3 Weniger wichtig","2012","35-65","direkter Migrationshintergrund","694","0.368824648898525","0.346950637992481","0.39069865980457"
-"3 Weniger wichtig","2012","35-65","indirekter Migrationshintergrund","236","0.437080394282941","0.395205130198083","0.478955658367798"
-"3 Weniger wichtig","2012","66 +","kein Migrationshintergrund","1911","0.406740573185789","0.392784240588663","0.420696905782914"
-"3 Weniger wichtig","2012","66 +","direkter Migrationshintergrund","136","0.324607525519328","0.279006146100851","0.370208904937805"
-"3 Weniger wichtig","2012","66 +","indirekter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","2012","17-34","kein Migrationshintergrund","381","0.0728421592456067","0.0655093957920765","0.080174922699137"
-"4 Ganz unwichtig","2012","17-34","direkter Migrationshintergrund","44","0.0304319890276324","0.0182517525473238","0.042612225507941"
-"4 Ganz unwichtig","2012","17-34","indirekter Migrationshintergrund","42","0.0446875858987285","0.0296786964398858","0.0596964753575712"
-"4 Ganz unwichtig","2012","35-65","kein Migrationshintergrund","1517","0.115352140574248","0.109995739340695","0.120708541807801"
-"4 Ganz unwichtig","2012","35-65","direkter Migrationshintergrund","203","0.124628230692829","0.109653882639162","0.139602578746496"
-"4 Ganz unwichtig","2012","35-65","indirekter Migrationshintergrund","47","0.0936759982761338","0.0690774422509344","0.118274554301333"
-"4 Ganz unwichtig","2012","66 +","kein Migrationshintergrund","910","0.207629454245116","0.196105570150985","0.219153338339247"
-"4 Ganz unwichtig","2012","66 +","direkter Migrationshintergrund","117","0.298196859659742","0.253643571083256","0.342750148236227"
-"4 Ganz unwichtig","2012","66 +","indirekter Migrationshintergrund","","","",""
-"1 Sehr wichtig","2013","17-34","kein Migrationshintergrund","","","",""
-"1 Sehr wichtig","2013","17-34","direkter Migrationshintergrund","","","",""
-"1 Sehr wichtig","2013","17-34","indirekter Migrationshintergrund","","","",""
-"1 Sehr wichtig","2013","35-65","kein Migrationshintergrund","","","",""
-"1 Sehr wichtig","2013","35-65","direkter Migrationshintergrund","","","",""
-"1 Sehr wichtig","2013","35-65","indirekter Migrationshintergrund","","","",""
-"1 Sehr wichtig","2013","66 +","kein Migrationshintergrund","","","",""
-"1 Sehr wichtig","2013","66 +","direkter Migrationshintergrund","","","",""
-"1 Sehr wichtig","2013","66 +","indirekter Migrationshintergrund","","","",""
-"2 Wichtig","2013","17-34","kein Migrationshintergrund","","","",""
-"2 Wichtig","2013","17-34","direkter Migrationshintergrund","","","",""
-"2 Wichtig","2013","17-34","indirekter Migrationshintergrund","","","",""
-"2 Wichtig","2013","35-65","kein Migrationshintergrund","","","",""
-"2 Wichtig","2013","35-65","direkter Migrationshintergrund","","","",""
-"2 Wichtig","2013","35-65","indirekter Migrationshintergrund","","","",""
-"2 Wichtig","2013","66 +","kein Migrationshintergrund","","","",""
-"2 Wichtig","2013","66 +","direkter Migrationshintergrund","","","",""
-"2 Wichtig","2013","66 +","indirekter Migrationshintergrund","","","",""
-"3 Weniger wichtig","2013","17-34","kein Migrationshintergrund","","","",""
-"3 Weniger wichtig","2013","17-34","direkter Migrationshintergrund","","","",""
-"3 Weniger wichtig","2013","17-34","indirekter Migrationshintergrund","","","",""
-"3 Weniger wichtig","2013","35-65","kein Migrationshintergrund","","","",""
-"3 Weniger wichtig","2013","35-65","direkter Migrationshintergrund","","","",""
-"3 Weniger wichtig","2013","35-65","indirekter Migrationshintergrund","","","",""
-"3 Weniger wichtig","2013","66 +","kein Migrationshintergrund","","","",""
-"3 Weniger wichtig","2013","66 +","direkter Migrationshintergrund","","","",""
-"3 Weniger wichtig","2013","66 +","indirekter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","2013","17-34","kein Migrationshintergrund","","","",""
-"4 Ganz unwichtig","2013","17-34","direkter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","2013","17-34","indirekter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","2013","35-65","kein Migrationshintergrund","","","",""
-"4 Ganz unwichtig","2013","35-65","direkter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","2013","35-65","indirekter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","2013","66 +","kein Migrationshintergrund","","","",""
-"4 Ganz unwichtig","2013","66 +","direkter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","2013","66 +","indirekter Migrationshintergrund","","","",""
-"1 Sehr wichtig","2014","17-34","kein Migrationshintergrund","","","",""
-"1 Sehr wichtig","2014","17-34","direkter Migrationshintergrund","","","",""
-"1 Sehr wichtig","2014","17-34","indirekter Migrationshintergrund","","","",""
-"1 Sehr wichtig","2014","35-65","kein Migrationshintergrund","","","",""
-"1 Sehr wichtig","2014","35-65","direkter Migrationshintergrund","","","",""
-"1 Sehr wichtig","2014","35-65","indirekter Migrationshintergrund","","","",""
-"1 Sehr wichtig","2014","66 +","kein Migrationshintergrund","","","",""
-"1 Sehr wichtig","2014","66 +","direkter Migrationshintergrund","","","",""
-"1 Sehr wichtig","2014","66 +","indirekter Migrationshintergrund","","","",""
-"2 Wichtig","2014","17-34","kein Migrationshintergrund","","","",""
-"2 Wichtig","2014","17-34","direkter Migrationshintergrund","","","",""
-"2 Wichtig","2014","17-34","indirekter Migrationshintergrund","","","",""
-"2 Wichtig","2014","35-65","kein Migrationshintergrund","","","",""
-"2 Wichtig","2014","35-65","direkter Migrationshintergrund","","","",""
-"2 Wichtig","2014","35-65","indirekter Migrationshintergrund","","","",""
-"2 Wichtig","2014","66 +","kein Migrationshintergrund","","","",""
-"2 Wichtig","2014","66 +","direkter Migrationshintergrund","","","",""
-"2 Wichtig","2014","66 +","indirekter Migrationshintergrund","","","",""
-"3 Weniger wichtig","2014","17-34","kein Migrationshintergrund","","","",""
-"3 Weniger wichtig","2014","17-34","direkter Migrationshintergrund","","","",""
-"3 Weniger wichtig","2014","17-34","indirekter Migrationshintergrund","","","",""
-"3 Weniger wichtig","2014","35-65","kein Migrationshintergrund","","","",""
-"3 Weniger wichtig","2014","35-65","direkter Migrationshintergrund","","","",""
-"3 Weniger wichtig","2014","35-65","indirekter Migrationshintergrund","","","",""
-"3 Weniger wichtig","2014","66 +","kein Migrationshintergrund","","","",""
-"3 Weniger wichtig","2014","66 +","direkter Migrationshintergrund","","","",""
-"3 Weniger wichtig","2014","66 +","indirekter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","2014","17-34","kein Migrationshintergrund","","","",""
-"4 Ganz unwichtig","2014","17-34","direkter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","2014","17-34","indirekter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","2014","35-65","kein Migrationshintergrund","","","",""
-"4 Ganz unwichtig","2014","35-65","direkter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","2014","35-65","indirekter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","2014","66 +","kein Migrationshintergrund","","","",""
-"4 Ganz unwichtig","2014","66 +","direkter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","2014","66 +","indirekter Migrationshintergrund","","","",""
-"1 Sehr wichtig","2015","17-34","kein Migrationshintergrund","","","",""
-"1 Sehr wichtig","2015","17-34","direkter Migrationshintergrund","","","",""
-"1 Sehr wichtig","2015","17-34","indirekter Migrationshintergrund","","","",""
-"1 Sehr wichtig","2015","35-65","kein Migrationshintergrund","","","",""
-"1 Sehr wichtig","2015","35-65","direkter Migrationshintergrund","","","",""
-"1 Sehr wichtig","2015","35-65","indirekter Migrationshintergrund","","","",""
-"1 Sehr wichtig","2015","66 +","kein Migrationshintergrund","","","",""
-"1 Sehr wichtig","2015","66 +","direkter Migrationshintergrund","","","",""
-"1 Sehr wichtig","2015","66 +","indirekter Migrationshintergrund","","","",""
-"2 Wichtig","2015","17-34","kein Migrationshintergrund","","","",""
-"2 Wichtig","2015","17-34","direkter Migrationshintergrund","","","",""
-"2 Wichtig","2015","17-34","indirekter Migrationshintergrund","","","",""
-"2 Wichtig","2015","35-65","kein Migrationshintergrund","","","",""
-"2 Wichtig","2015","35-65","direkter Migrationshintergrund","","","",""
-"2 Wichtig","2015","35-65","indirekter Migrationshintergrund","","","",""
-"2 Wichtig","2015","66 +","kein Migrationshintergrund","","","",""
-"2 Wichtig","2015","66 +","direkter Migrationshintergrund","","","",""
-"2 Wichtig","2015","66 +","indirekter Migrationshintergrund","","","",""
-"3 Weniger wichtig","2015","17-34","kein Migrationshintergrund","","","",""
-"3 Weniger wichtig","2015","17-34","direkter Migrationshintergrund","","","",""
-"3 Weniger wichtig","2015","17-34","indirekter Migrationshintergrund","","","",""
-"3 Weniger wichtig","2015","35-65","kein Migrationshintergrund","","","",""
-"3 Weniger wichtig","2015","35-65","direkter Migrationshintergrund","","","",""
-"3 Weniger wichtig","2015","35-65","indirekter Migrationshintergrund","","","",""
-"3 Weniger wichtig","2015","66 +","kein Migrationshintergrund","","","",""
-"3 Weniger wichtig","2015","66 +","direkter Migrationshintergrund","","","",""
-"3 Weniger wichtig","2015","66 +","indirekter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","2015","17-34","kein Migrationshintergrund","","","",""
-"4 Ganz unwichtig","2015","17-34","direkter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","2015","17-34","indirekter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","2015","35-65","kein Migrationshintergrund","","","",""
-"4 Ganz unwichtig","2015","35-65","direkter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","2015","35-65","indirekter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","2015","66 +","kein Migrationshintergrund","","","",""
-"4 Ganz unwichtig","2015","66 +","direkter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","2015","66 +","indirekter Migrationshintergrund","","","",""
-"1 Sehr wichtig","2016","17-34","kein Migrationshintergrund","642","0.199295492645386","0.185774262990448","0.212816722300325"
-"1 Sehr wichtig","2016","17-34","direkter Migrationshintergrund","289","0.227785971768339","0.205569315404807","0.250002628131871"
-"1 Sehr wichtig","2016","17-34","indirekter Migrationshintergrund","248","0.261360689066084","0.232687158938787","0.290034219193382"
-"1 Sehr wichtig","2016","35-65","kein Migrationshintergrund","922","0.0994818578320197","0.0936613327680707","0.105302382895969"
-"1 Sehr wichtig","2016","35-65","direkter Migrationshintergrund","400","0.130006835199754","0.118141195863234","0.141872474536273"
-"1 Sehr wichtig","2016","35-65","indirekter Migrationshintergrund","79","0.121017599227253","0.0960595562825787","0.145975642171928"
-"1 Sehr wichtig","2016","66 +","kein Migrationshintergrund","366","0.0842815271146623","0.075970294833436","0.0925927593958886"
-"1 Sehr wichtig","2016","66 +","direkter Migrationshintergrund","37","0.0725186310955063","0.0470714875817049","0.0979657746093076"
-"1 Sehr wichtig","2016","66 +","indirekter Migrationshintergrund","","","",""
-"2 Wichtig","2016","17-34","kein Migrationshintergrund","1319","0.408025106633463","0.39138996887198","0.424660244394947"
-"2 Wichtig","2016","17-34","direkter Migrationshintergrund","637","0.4738397256409","0.447390002608419","0.500289448673382"
-"2 Wichtig","2016","17-34","indirekter Migrationshintergrund","382","0.429129268984325","0.396828878014513","0.461429659954136"
-"2 Wichtig","2016","35-65","kein Migrationshintergrund","3481","0.346146597732517","0.336895053823834","0.3553981416412"
-"2 Wichtig","2016","35-65","direkter Migrationshintergrund","1358","0.411759990128474","0.394396001901957","0.429123978354992"
-"2 Wichtig","2016","35-65","indirekter Migrationshintergrund","265","0.390255866560467","0.352927008303753","0.427584724817181"
-"2 Wichtig","2016","66 +","kein Migrationshintergrund","1372","0.306205995845294","0.292416755203299","0.31999523648729"
-"2 Wichtig","2016","66 +","direkter Migrationshintergrund","112","0.264893796950315","0.221595323877896","0.308192270022735"
-"2 Wichtig","2016","66 +","indirekter Migrationshintergrund","","","",""
-"3 Weniger wichtig","2016","17-34","kein Migrationshintergrund","1165","0.331746363871118","0.315809419184886","0.347683308557351"
-"3 Weniger wichtig","2016","17-34","direkter Migrationshintergrund","389","0.265997947493223","0.24259157313014","0.289404321856306"
-"3 Weniger wichtig","2016","17-34","indirekter Migrationshintergrund","238","0.270624101668368","0.241630393556387","0.299617809780348"
-"3 Weniger wichtig","2016","35-65","kein Migrationshintergrund","4681","0.44605502860506","0.436388478223763","0.455721578986357"
-"3 Weniger wichtig","2016","35-65","direkter Migrationshintergrund","1053","0.362727477136008","0.345764465712946","0.37969048855907"
-"3 Weniger wichtig","2016","35-65","indirekter Migrationshintergrund","263","0.41119980013221","0.373546192464631","0.44885340779979"
-"3 Weniger wichtig","2016","66 +","kein Migrationshintergrund","1788","0.402972950262507","0.388298792428774","0.417647108096241"
-"3 Weniger wichtig","2016","66 +","direkter Migrationshintergrund","159","0.444055431788559","0.395303033796801","0.492807829780317"
-"3 Weniger wichtig","2016","66 +","indirekter Migrationshintergrund","","","",""
-"4 Ganz unwichtig","2016","17-34","kein Migrationshintergrund","227","0.0609330368500321","0.0528363748993305","0.0690296988007337"
-"4 Ganz unwichtig","2016","17-34","direkter Migrationshintergrund","54","0.0323763550975372","0.0230004418474242","0.0417522683476502"
-"4 Ganz unwichtig","2016","17-34","indirekter Migrationshintergrund","34","0.0388859402812236","0.0262697395607893","0.0515021410016579"
-"4 Ganz unwichtig","2016","35-65","kein Migrationshintergrund","1074","0.108316515830403","0.102272902241635","0.114360129419172"
-"4 Ganz unwichtig","2016","35-65","direkter Migrationshintergrund","275","0.0955056975357641","0.0851359618131165","0.105875433258412"
-"4 Ganz unwichtig","2016","35-65","indirekter Migrationshintergrund","49","0.0775267340800696","0.0570623437739395","0.0979911243861998"
-"4 Ganz unwichtig","2016","66 +","kein Migrationshintergrund","766","0.206539526777536","0.194428457966143","0.218650595588929"
-"4 Ganz unwichtig","2016","66 +","direkter Migrationshintergrund","91","0.218532140165619","0.177983633620423","0.259080646710816"
-"4 Ganz unwichtig","2016","66 +","indirekter Migrationshintergrund","","","",""
+syear,age_gr,migback,plh0112,proportion,n,lower_confidence,upper_confidence
+1990,30-45 J.,No migration background,3.0,0.1218859957776214,13886,0.11644448056741385,0.12732751098782893
+1990,46-65 J.,No migration background,2.0,0.10865587614356087,13886,0.1034796075585657,0.11383214472855605
+1990,46-65 J.,No migration background,3.0,0.10584095707248417,13886,0.10072411802098181,0.11095779612398653
+1990,17-29 J.,No migration background,2.0,0.10485573539760731,13886,0.09975996205182408,0.10995150874339055
+1990,30-45 J.,No migration background,2.0,0.10190007037297678,13886,0.09686834344332247,0.1069317973026311
+1990,17-29 J.,No migration background,3.0,0.08810696692470091,13886,0.083392370036543,0.09282156381285882
+1990,66 und älter,No migration background,3.0,0.04771287825475017,13886,0.04416744548517647,0.05125831102432388
+1990,17-29 J.,No migration background,1.0,0.04194229415904293,13886,0.03860811128851265,0.04527647702957321
+1990,66 und älter,No migration background,2.0,0.0398311048557354,13886,0.036578341386244696,0.0430838683252261
+1990,66 und älter,No migration background,4.0,0.03631245601688952,13886,0.03320100172439247,0.039423910309386564
+1990,46-65 J.,No migration background,1.0,0.03434201266713582,13886,0.03131306317533908,0.037370962158932555
+1990,46-65 J.,No migration background,4.0,0.03138634764250528,13886,0.028486246300370614,0.03428644898463995
+1990,30-45 J.,No migration background,1.0,0.028289936664320902,13886,0.025532206124092932,0.031047667204548872
+1990,30-45 J.,No migration background,4.0,0.01857846586910626,13886,0.016332515231995866,0.020824416506216657
+1990,17-29 J.,No migration background,4.0,0.011400422237860662,13886,0.009634635829974206,0.013166208645747118
+1990,46-65 J.,Direct migration background,2.0,0.009992962702322309,13886,0.008338588440049076,0.011647336964595542
+1990,66 und älter,No migration background,1.0,0.00928923293455313,13886,0.007693607835879008,0.010884858033227253
+1990,30-45 J.,Direct migration background,2.0,0.009148486980999296,13886,0.00756488361376997,0.010732090348228623
+1990,46-65 J.,Direct migration background,3.0,0.007881773399014778,13886,0.00641094780856904,0.009352598989460515
+1990,30-45 J.,Direct migration background,3.0,0.005911330049261084,13886,0.00463629343293786,0.007186366665584309
+1990,17-29 J.,Direct migration background,2.0,0.005066854327938072,13886,0.0038858985105240853,0.006247810145352058
+1990,17-29 J.,Direct migration background,3.0,0.004785362420830401,13886,0.003637517317769005,0.005933207523891797
+1990,46-65 J.,Direct migration background,1.0,0.004363124560168895,13886,0.003266856443986112,0.005459392676351678
+1990,66 und älter,Direct migration background,3.0,0.003377902885292048,13886,0.002412838415657631,0.004342967354926465
+1990,66 und älter,Direct migration background,2.0,0.00211118930330753,13886,0.0013477541463844545,0.0028746244602306055
+1990,66 und älter,Direct migration background,4.0,0.00211118930330753,13886,0.0013477541463844545,0.0028746244602306055
+1990,17-29 J.,Direct migration background,1.0,0.0019704433497536944,13886,0.0012328429062817893,0.0027080437932255996
+1990,46-65 J.,Direct migration background,4.0,0.0019704433497536944,13886,0.0012328429062817893,0.0027080437932255996
+1990,17-29 J.,Indirect migration background,2.0,0.0018296973961998593,13886,0.0011188777081417372,0.0025405170842579816
+1990,30-45 J.,Direct migration background,1.0,0.0014074595355383533,13886,0.000783897582627371,0.0020310214884493357
+1990,66 und älter,Direct migration background,1.0,0.001266713581984518,13886,0.0006751090847158853,0.0018583180792531506
+1990,17-29 J.,Indirect migration background,1.0,0.0011259676284306826,13886,0.0005681582590256057,0.0016837769978357594
+1990,17-29 J.,Indirect migration background,3.0,0.0009852216748768472,13886,0.000463402028503685,0.0015070413212500094
+1990,30-45 J.,Indirect migration background,3.0,0.000844475721323012,13886,0.00036133057395708914,0.0013276208686889349
+1990,30-45 J.,Indirect migration background,2.0,0.0007037297677691766,13886,0.00026264954508539864,0.0011448099904529546
+1990,30-45 J.,Direct migration background,4.0,0.0005629838142153413,13886,0.000168441887926629,0.0009575257405040536
+1990,46-65 J.,Indirect migration background,1.0,0.0005629838142153413,13886,0.000168441887926629,0.0009575257405040536
+1990,17-29 J.,Direct migration background,4.0,0.000422237860661506,13886,8.053047166655194e-05,0.00076394524965646
+1990,30-45 J.,Indirect migration background,4.0,0.00028149190710767064,13886,2.4693504474705827e-06,0.0005605144637678707
+1990,46-65 J.,Indirect migration background,2.0,0.00028149190710767064,13886,2.4693504474705827e-06,0.0005605144637678707
+1990,30-45 J.,Indirect migration background,1.0,0.00028149190710767064,13886,2.4693504474705827e-06,0.0005605144637678707
+1990,66 und älter,Indirect migration background,3.0,0.00014074595355383532,13886,-5.6566676285070235e-05,0.0003380585833927409
+1990,66 und älter,Indirect migration background,4.0,0.00014074595355383532,13886,-5.6566676285070235e-05,0.0003380585833927409
+1990,66 und älter,Indirect migration background,2.0,0.00014074595355383532,13886,-5.6566676285070235e-05,0.0003380585833927409
+1992,30-45 J.,No migration background,3.0,0.14500958816546433,13316,0.1390289412977299,0.15099023503319875
+1992,30-45 J.,No migration background,2.0,0.11524061729522418,13316,0.10981705597762019,0.12066417861282817
+1992,46-65 J.,No migration background,2.0,0.11396219523331202,13316,0.10856490580634177,0.11935948466028228
+1992,46-65 J.,No migration background,3.0,0.10263902839923295,13316,0.09748426147965744,0.10779379531880845
+1992,17-29 J.,No migration background,2.0,0.09670349739749795,13316,0.09168347756334307,0.10172351723165284
+1992,17-29 J.,No migration background,3.0,0.08538033056341887,13316,0.0806338865500691,0.09012677457676864
+1992,17-29 J.,No migration background,1.0,0.040452926673363164,13316,0.037106530967190576,0.04379932237953575
+1992,66 und älter,No migration background,3.0,0.03908318874988585,13316,0.0357915886346363,0.042374788865135404
+1992,66 und älter,No migration background,2.0,0.038900557026755544,13316,0.03561634451742502,0.04218476953608607
+1992,46-65 J.,No migration background,1.0,0.0330563418865857,13316,0.03001967496597564,0.03609300880719575
+1992,66 und älter,No migration background,4.0,0.030499497762761393,13316,0.02757878034067964,0.033420215184843144
+1992,30-45 J.,No migration background,1.0,0.027760021915806777,13316,0.024969626061698436,0.030550417769915118
+1992,30-45 J.,No migration background,4.0,0.025659757099808236,13316,0.022974098720319504,0.02834541547929697
+1992,46-65 J.,No migration background,4.0,0.025111861930417312,13316,0.022454283877266005,0.02776943998356862
+1992,17-29 J.,No migration background,4.0,0.01177974614190485,13316,0.009947161599207572,0.013612330684602127
+1992,46-65 J.,Direct migration background,2.0,0.009862113049036617,13316,0.008183687793559574,0.01154053830451366
+1992,66 und älter,No migration background,1.0,0.009131586156515386,13316,0.007515925011040238,0.010747247301990535
+1992,46-65 J.,Direct migration background,3.0,0.007579216509907771,13316,0.006106126581555253,0.009052306438260289
+1992,30-45 J.,Direct migration background,2.0,0.005935531001735001,13316,0.0046308442799168036,0.0072402177235531984
+1992,30-45 J.,Direct migration background,3.0,0.005113688247648617,13316,0.003902189331475613,0.006325187163821621
+1992,17-29 J.,Direct migration background,2.0,0.00401789790886677,13316,0.002943427661978289,0.005092368155755252
+1992,66 und älter,Direct migration background,3.0,0.0032873710163455394,13316,0.0023151197453536838,0.0042596222873373946
+1992,46-65 J.,Direct migration background,1.0,0.0031960551547803853,13316,0.0022373585599239658,0.004154751749636805
+1992,66 und älter,Direct migration background,2.0,0.002648159985389462,13316,0.0017752579941351606,0.0035210619766437635
+1992,66 und älter,Direct migration background,4.0,0.0023742124006940007,13316,0.001547579291809092,0.0032008455095789094
+1992,30-45 J.,Direct migration background,1.0,0.0022828965391288466,13316,0.001472278990015326,0.003093514088242367
+1992,17-29 J.,Indirect migration background,2.0,0.002100264815998539,13316,0.0013226766180829625,0.002877853013914115
+1992,17-29 J.,Direct migration background,3.0,0.002008948954433385,13316,0.0012484178992368897,0.0027694800096298806
+1992,17-29 J.,Indirect migration background,3.0,0.001461053785042462,13316,0.0008122927109290081,0.002109814859155916
+1992,46-65 J.,Direct migration background,4.0,0.001369737923477308,13316,0.000741548992746282,0.001997926854208334
+1992,17-29 J.,Indirect migration background,1.0,0.0011871062003470003,13316,0.0006022406588215099,0.0017719717418724907
+1992,17-29 J.,Direct migration background,1.0,0.0010957903387818465,13316,0.0005338440164105074,0.0016577366611531855
+1992,66 und älter,Direct migration background,1.0,0.0009131586156515387,13316,0.0004001272613399062,0.0014261899699631712
+1992,30-45 J.,Indirect migration background,3.0,0.0008218427540863848,13316,0.00033511623516203524,0.0013085692730107346
+1992,30-45 J.,Direct migration background,4.0,0.0005478951693909232,13316,0.00015043015497378333,0.0009453601838080631
+1992,30-45 J.,Indirect migration background,2.0,0.00045657930782576936,13316,9.372847583577498e-05,0.0008194301398157637
+1992,17-29 J.,Direct migration background,4.0,0.0002739475846954616,13316,-7.141137260576391e-06,0.0005550363066514996
+1992,46-65 J.,Indirect migration background,2.0,0.0002739475846954616,13316,-7.141137260576391e-06,0.0005550363066514996
+1992,17-29 J.,Indirect migration background,4.0,0.00018263172313030774,13316,-4.688673877572844e-05,0.0004121501850363439
+1992,30-45 J.,Indirect migration background,4.0,0.00018263172313030774,13316,-4.688673877572844e-05,0.0004121501850363439
+1992,46-65 J.,Indirect migration background,1.0,0.00018263172313030774,13316,-4.688673877572844e-05,0.0004121501850363439
+1992,66 und älter,Indirect migration background,3.0,9.131586156515387e-05,13316,-7.098561045143934e-05,0.0002536173335817471
+1992,66 und älter,Indirect migration background,2.0,9.131586156515387e-05,13316,-7.098561045143934e-05,0.0002536173335817471
+1992,30-45 J.,Indirect migration background,1.0,9.131586156515387e-05,13316,-7.098561045143934e-05,0.0002536173335817471
+1995,30-45 J.,No migration background,3.0,0.1555873669141988,13284,0.14942345868035498,0.16175127514804263
+1995,46-65 J.,No migration background,3.0,0.1138946049923951,13284,0.1084922153430971,0.11929699464169309
+1995,30-45 J.,No migration background,2.0,0.10253198532701083,13284,0.09737339771372804,0.10769057294029362
+1995,46-65 J.,No migration background,2.0,0.10172676031135368,13284,0.09658616429060439,0.10686735633210297
+1995,17-29 J.,No migration background,2.0,0.08553279055202648,13284,0.08077678856662275,0.0902887925374302
+1995,17-29 J.,No migration background,3.0,0.07882258208821688,13284,0.07424022838922816,0.0834049357872056
+1995,66 und älter,No migration background,3.0,0.04348215084548627,13284,0.04001403427666268,0.046950267414309854
+1995,66 und älter,No migration background,2.0,0.03274581730339089,13284,0.02971932298234619,0.035772311624435595
+1995,66 und älter,No migration background,4.0,0.029435447794578153,13284,0.026561100941035042,0.03230979464812127
+1995,30-45 J.,No migration background,4.0,0.029167039456025768,13284,0.02630543193395283,0.03202864697809871
+1995,17-29 J.,No migration background,1.0,0.02764605887089559,13284,0.024857881221084756,0.030434236520706422
+1995,46-65 J.,No migration background,4.0,0.022725239330768542,13284,0.020190961572364753,0.02525951708917233
+1995,46-65 J.,No migration background,1.0,0.02147266708419075,13284,0.019007643300684753,0.023937690867696745
+1995,30-45 J.,No migration background,1.0,0.02147266708419075,13284,0.019007643300684753,0.023937690867696745
+1995,30-45 J.,Direct migration background,2.0,0.014941397512749395,13284,0.012878306999592526,0.017004488025906265
+1995,30-45 J.,Direct migration background,3.0,0.013957233604723987,13284,0.011962250659468494,0.01595221654997948
+1995,17-29 J.,No migration background,4.0,0.011988905788673168,13284,0.010138093722271152,0.013839717855075184
+1995,46-65 J.,Direct migration background,3.0,0.011631028003936656,13284,0.00980771915326774,0.013454336854605573
+1995,46-65 J.,Direct migration background,2.0,0.010646864095911247,13284,0.008901531657557053,0.01239219653426544
+1995,17-29 J.,Direct migration background,2.0,0.010378455757358861,13284,0.008655030006517628,0.012101881508200095
+1995,66 und älter,No migration background,1.0,0.009215352956965196,13284,0.007590413221222987,0.010840292692707405
+1995,17-29 J.,Direct migration background,3.0,0.006352330679073096,13284,0.0050012714269208535,0.007703389931225339
+1995,66 und älter,Direct migration background,2.0,0.004920819540127046,13284,0.003730840869546841,0.006110798210707252
+1995,17-29 J.,Indirect migration background,2.0,0.004831350093942918,13284,0.0036521860292608255,0.006010514158625011
+1995,30-45 J.,Direct migration background,1.0,0.0043840028630222775,13284,0.0032605030991770785,0.005507502626867476
+1995,66 und älter,Direct migration background,4.0,0.004205063970654022,13284,0.0031046327634043154,0.0053054951779037286
+1995,46-65 J.,Direct migration background,4.0,0.004115594524469894,13284,0.0030268840678080496,0.005204304981131738
+1995,66 und älter,Direct migration background,3.0,0.0035787778473651247,13284,0.0025632765269036767,0.004594279167826573
+1995,46-65 J.,Direct migration background,1.0,0.003489308401180997,13284,0.002486536173915743,0.004492080628446251
+1995,17-29 J.,Direct migration background,1.0,0.0033103695088127403,13284,0.0023335600769436447,0.004287178940681835
+1995,30-45 J.,Direct migration background,4.0,0.002952491724076228,13284,0.0020298270171825,0.003875156430969956
+1995,17-29 J.,Indirect migration background,3.0,0.002147266708419075,13284,0.0013600979324767143,0.0029344354843614355
+1995,17-29 J.,Indirect migration background,1.0,0.0016104500313143062,13284,0.0009285585290397666,0.0022923415335888457
+1995,66 und älter,Direct migration background,1.0,0.0011631028003936655,13284,0.0005834766417684911,0.0017427289590188398
+1995,30-45 J.,Indirect migration background,3.0,0.0011631028003936655,13284,0.0005834766417684911,0.0017427289590188398
+1995,30-45 J.,Indirect migration background,2.0,0.0006262861232888969,13284,0.00020084252463100705,0.0010517297219467866
+1995,17-29 J.,Indirect migration background,4.0,0.0004473472309206406,13284,8.774957452513372e-05,0.0008069448873161474
+1995,17-29 J.,Direct migration background,4.0,0.00035787778473651247,13284,3.622946871479791e-05,0.000679526100758227
+1995,46-65 J.,Indirect migration background,2.0,0.00035787778473651247,13284,3.622946871479791e-05,0.000679526100758227
+1995,46-65 J.,Indirect migration background,1.0,0.00026840833855238435,13284,-1.0159739497349405e-05,0.000546976416602118
+1995,30-45 J.,Indirect migration background,1.0,0.00026840833855238435,13284,-1.0159739497349405e-05,0.000546976416602118
+1995,30-45 J.,Indirect migration background,4.0,0.00026840833855238435,13284,-1.0159739497349405e-05,0.000546976416602118
+1995,66 und älter,Indirect migration background,2.0,0.00017893889236825623,13284,-4.852116832657069e-05,0.0004063989530630832
+2004,46-65 J.,No migration background,3.0,0.13002045370026033,21612,0.1255364191358668,0.13450448826465386
+2004,30-45 J.,No migration background,3.0,0.12276868724432875,21612,0.11839337088233981,0.1271440036063177
+2004,46-65 J.,No migration background,2.0,0.11026403867608776,21612,0.1060880807750677,0.11443999657710782
+2004,30-45 J.,No migration background,2.0,0.08376719970249163,21612,0.0800736112126888,0.08746078819229447
+2004,66 und älter,No migration background,3.0,0.06122164373373001,21612,0.05802537991298402,0.06441790755447602
+2004,17-29 J.,No migration background,2.0,0.05917627370769803,21612,0.05603043443597373,0.06232211297942232
+2004,17-29 J.,No migration background,3.0,0.05369096318333953,21612,0.0506857472473453,0.056696179119333764
+2004,66 und älter,No migration background,2.0,0.05187802156935664,21612,0.04892115040752941,0.054834892731183874
+2004,66 und älter,No migration background,4.0,0.031052435849758274,21612,0.028739803660769288,0.03336506803874726
+2004,46-65 J.,No migration background,1.0,0.02779843808107103,21612,0.02560665814734366,0.0299902180147984
+2004,46-65 J.,No migration background,4.0,0.02677575306805504,21612,0.0246235368523234,0.02892796928378668
+2004,30-45 J.,No migration background,4.0,0.025567125325399776,21612,0.023462738831610937,0.027671511819188616
+2004,30-45 J.,No migration background,1.0,0.021104499814057272,21612,0.019188196327287615,0.02302080330082693
+2004,17-29 J.,No migration background,1.0,0.020732614354778727,21612,0.01883290889022057,0.022632319819336884
+2004,46-65 J.,Direct migration background,3.0,0.01822238750464857,21612,0.016439114672797978,0.02000566033649916
+2004,30-45 J.,Direct migration background,3.0,0.017478616586091483,21612,0.01573145478767518,0.019225778384507786
+2004,46-65 J.,Direct migration background,2.0,0.015107846783190777,21612,0.013481533472653654,0.016734160093727902
+2004,30-45 J.,Direct migration background,2.0,0.013666790628486426,21612,0.01211885216985249,0.015214729087120361
+2004,66 und älter,No migration background,1.0,0.011993306061732985,21612,0.01054200339318628,0.013444608730279691
+2004,17-29 J.,Indirect migration background,2.0,0.010552249907028636,21612,0.009189934844163413,0.011914564969893859
+2004,17-29 J.,No migration background,4.0,0.008739308293045742,21612,0.00749839606468318,0.009980220521408303
+2004,17-29 J.,Direct migration background,2.0,0.008088508739308293,21612,0.0068943026475040865,0.0092827148311125
+2004,46-65 J.,Direct migration background,4.0,0.007995537374488658,21612,0.006808158729953915,0.0091829160190234
+2004,17-29 J.,Indirect migration background,3.0,0.007205280773521755,21612,0.006077658162793281,0.008332903384250228
+2004,66 und älter,Direct migration background,3.0,0.006740423949423578,21612,0.005649527372930667,0.007831320525916488
+2004,66 und älter,Direct migration background,4.0,0.005252882112309409,21612,0.0042891335042258075,0.00621663072039301
+2004,17-29 J.,Direct migration background,3.0,0.004927482335440684,21612,0.0039939088776550676,0.005861055793226301
+2004,30-45 J.,Indirect migration background,2.0,0.004741539605801413,21612,0.0038256645684979214,0.005657414643104904
+2004,30-45 J.,Direct migration background,4.0,0.0041837114168836,21612,0.003323155559626946,0.005044267274140255
+2004,17-29 J.,Indirect migration background,1.0,0.004090740052063964,21612,0.003239759924037392,0.004941720180090536
+2004,30-45 J.,Direct migration background,1.0,0.0037653402751952397,21612,0.0029487738288496656,0.004581906721540814
+2004,66 und älter,Direct migration background,2.0,0.0035793975455559687,21612,0.002783174196128934,0.004375620894983004
+2004,30-45 J.,Indirect migration background,3.0,0.0032075120862774266,21612,0.002453644412634199,0.003961379759920654
+2004,17-29 J.,Direct migration background,1.0,0.0027891409445890665,21612,0.0020860082020533717,0.0034922736871247613
+2004,46-65 J.,Direct migration background,1.0,0.002696169579769431,21612,0.00200482281058334,0.0033875163489555217
+2004,17-29 J.,Indirect migration background,4.0,0.0015805132019338043,21612,0.0010508934418341398,0.0021101329620334688
+2004,30-45 J.,Indirect migration background,1.0,0.0015340275195239866,21612,0.0010122422653268746,0.0020558127737210987
+2004,17-29 J.,Direct migration background,4.0,0.0014410561547043511,21612,0.0009353061480245428,0.0019468061613841594
+2004,66 und älter,Direct migration background,1.0,0.0010691706954258089,21612,0.0006334583918428741,0.0015048829990087437
+2004,46-65 J.,Indirect migration background,2.0,0.0009297136481963555,21612,0.0005233814697971565,0.0013360458265955545
+2004,30-45 J.,Indirect migration background,4.0,0.0007902566009669021,21612,0.00041561069757029034,0.0011649025043635138
+2004,46-65 J.,Indirect migration background,3.0,0.0007902566009669021,21612,0.00041561069757029034,0.0011649025043635138
+2004,46-65 J.,Indirect migration background,1.0,0.00032539977686872444,21612,8.49377263695935e-05,0.0005658618273678554
+2004,66 und älter,Indirect migration background,3.0,0.00027891409445890663,21612,5.6284318821938636e-05,0.0005015438700958746
+2004,66 und älter,Indirect migration background,4.0,0.0001859427296392711,21612,4.1578268556470696e-06,0.0003677276324228951
+2004,46-65 J.,Indirect migration background,4.0,0.0001859427296392711,21612,4.1578268556470696e-06,0.0003677276324228951
+2004,66 und älter,Indirect migration background,1.0,4.6485682409817774e-05,21612,-4.4413107736094477e-05,0.00013738447255573003
+2008,46-65 J.,No migration background,3.0,0.1421736869474779,19571,0.13728087124250918,0.1470665026524466
+2008,30-45 J.,No migration background,3.0,0.11024440977639105,19571,0.10585644417970137,0.11463237537308073
+2008,46-65 J.,No migration background,2.0,0.10655226209048362,19571,0.1022294587662802,0.11087506541468703
+2008,66 und älter,No migration background,3.0,0.08372334893395736,19571,0.07984286250710175,0.08760383536081297
+2008,30-45 J.,No migration background,2.0,0.07373894955798233,19571,0.07007740151132826,0.0774004976046364
+2008,66 und älter,No migration background,2.0,0.06120644825793032,19571,0.05784804222689847,0.06456485428896218
+2008,17-29 J.,No migration background,2.0,0.05070202808112324,19571,0.04762831372785682,0.053775742434389665
+2008,17-29 J.,No migration background,3.0,0.04960998439937597,19571,0.046567803461864746,0.0526521653368872
+2008,66 und älter,No migration background,4.0,0.04342173686947478,19571,0.04056636016198794,0.04627711357696162
+2008,46-65 J.,No migration background,4.0,0.03801352054082163,19571,0.03533433313318749,0.040692707948455774
+2008,30-45 J.,No migration background,4.0,0.02360894435777431,19571,0.021481786387366555,0.025736102328182065
+2008,46-65 J.,No migration background,1.0,0.021216848673946957,19571,0.019197862965650344,0.02323583438224357
+2008,17-29 J.,No migration background,1.0,0.017524700988039522,19571,0.015686319274716077,0.019363082701362968
+2008,46-65 J.,Direct migration background,3.0,0.015860634425377017,19571,0.014110231048851708,0.017611037801902325
+2008,30-45 J.,No migration background,1.0,0.015184607384295373,19571,0.013471325745910076,0.01689788902268067
+2008,66 und älter,No migration background,1.0,0.01341653666146646,19571,0.011804641878649533,0.015028431444283386
+2008,30-45 J.,Direct migration background,3.0,0.01326053042121685,19571,0.011657907827380746,0.014863153015052952
+2008,17-29 J.,No migration background,4.0,0.011752470098803952,19571,0.01024257418744075,0.013262366010167155
+2008,46-65 J.,Direct migration background,2.0,0.011180447217888715,19571,0.009707328752176475,0.012653565683600956
+2008,30-45 J.,Direct migration background,2.0,0.0109204368174727,19571,0.00946435699966082,0.012376516635284579
+2008,17-29 J.,Indirect migration background,2.0,0.009204368174726989,19571,0.007866422143734134,0.010542314205719844
+2008,17-29 J.,Indirect migration background,3.0,0.007436297451898076,19571,0.006232628289658367,0.008639966614137785
+2008,46-65 J.,Direct migration background,4.0,0.007176287051482059,19571,0.005993693423282761,0.008358880679681357
+2008,66 und älter,Direct migration background,3.0,0.007176287051482059,19571,0.005993693423282761,0.008358880679681357
+2008,66 und älter,Direct migration background,4.0,0.006552262090483619,19571,0.005421899682471485,0.007682624498495754
+2008,30-45 J.,Indirect migration background,2.0,0.005980239209568383,19571,0.004900033794663999,0.007060444624472766
+2008,17-29 J.,Direct migration background,2.0,0.005668226729069163,19571,0.004616413016687163,0.006720040441451163
+2008,30-45 J.,Indirect migration background,3.0,0.005668226729069163,19571,0.004616413016687163,0.006720040441451163
+2008,30-45 J.,Direct migration background,4.0,0.004420176807072283,19571,0.0034907666232820104,0.005349586990862555
+2008,17-29 J.,Indirect migration background,1.0,0.003952158086323453,19571,0.003073121772966911,0.004831194399679994
+2008,66 und älter,Direct migration background,2.0,0.003952158086323453,19571,0.003073121772966911,0.004831194399679994
+2008,17-29 J.,Direct migration background,3.0,0.003796151846073843,19571,0.0029345721450997394,0.004657731547047947
+2008,30-45 J.,Direct migration background,1.0,0.002704108164326573,19571,0.0019765401341681416,0.0034316761944850043
+2008,46-65 J.,Direct migration background,1.0,0.0022880915236609465,19571,0.0016186867008560575,0.0029574963464658356
+2008,17-29 J.,Indirect migration background,4.0,0.00187207488299532,19571,0.0012664492138137243,0.0024777005521769155
+2008,17-29 J.,Direct migration background,1.0,0.0016120644825793032,19571,0.0010499944514521145,0.0021741345137064917
+2008,30-45 J.,Indirect migration background,1.0,0.0014040561622464898,19571,0.0008794459968448348,0.0019286663276481446
+2008,46-65 J.,Indirect migration background,3.0,0.0014040561622464898,19571,0.0008794459968448348,0.0019286663276481446
+2008,66 und älter,Direct migration background,1.0,0.00109204368174727,19571,0.0006293087300062782,0.0015547786334882618
+2008,30-45 J.,Indirect migration background,4.0,0.00093603744149766,19571,0.0005075946698180483,0.0013644802131772716
+2008,46-65 J.,Indirect migration background,2.0,0.0008840353614144566,19571,0.0004676529934264653,0.0013004177294024478
+2008,17-29 J.,Direct migration background,4.0,0.0005720228809152366,19571,0.00023703274840840104,0.0009070130134220722
+2008,46-65 J.,Indirect migration background,4.0,0.00026001040041601667,19571,3.412484768186753e-05,0.0004858959531501658
+2008,66 und älter,Indirect migration background,4.0,0.0002080083203328133,19571,5.96488541261146e-06,0.00041005175525301517
+2008,66 und älter,Indirect migration background,2.0,0.0002080083203328133,19571,5.96488541261146e-06,0.00041005175525301517
+2008,66 und älter,Indirect migration background,3.0,0.00010400416016640666,19571,-3.886955345622274e-05,0.0002468778737890361
+2008,46-65 J.,Indirect migration background,1.0,0.00010400416016640666,19571,-3.886955345622274e-05,0.0002468778737890361
+2008,66 und älter,Indirect migration background,1.0,5.200208008320333e-05,19571,-4.9027518718071795e-05,0.00015303167888447845
+2012,46-65 J.,No migration background,3.0,0.13600899952825055,28166,0.13200557250569853,0.14001242655080257
+2012,30-45 J.,No migration background,3.0,0.12835214283122257,28166,0.12444584296187758,0.13225844270056755
+2012,46-65 J.,No migration background,2.0,0.10168015386290234,28166,0.09815054095928637,0.10520976676651832
+2012,30-45 J.,No migration background,2.0,0.08139492687883297,28166,0.07820150297114198,0.08458835078652396
+2012,66 und älter,No migration background,3.0,0.0692020176361723,28166,0.06623800139572121,0.07216603387662339
+2012,66 und älter,No migration background,2.0,0.05563014841963929,28166,0.05295332545041314,0.058306971388865446
+2012,17-29 J.,No migration background,2.0,0.04398156548245455,28166,0.04158680568333511,0.04637632528157399
+2012,17-29 J.,No migration background,3.0,0.04031643502558334,28166,0.0380192362616515,0.04261363378951518
+2012,46-65 J.,No migration background,4.0,0.0351634793337446,28166,0.03301235124477667,0.037314607422712524
+2012,66 und älter,No migration background,4.0,0.033022462532205976,28166,0.030935539631522884,0.035109385432889065
+2012,46-65 J.,No migration background,1.0,0.0279057952607323,28166,0.02598228342614815,0.029829307095316452
+2012,30-45 J.,No migration background,4.0,0.025619624777733427,28166,0.023774421869337172,0.02746482768612968
+2012,30-45 J.,No migration background,1.0,0.021954494320862213,28166,0.020243160497520257,0.02366582814420417
+2012,30-45 J.,Direct migration background,2.0,0.021918205900497152,28166,0.020208255266279847,0.023628156534714458
+2012,17-29 J.,No migration background,1.0,0.01966832383786334,28166,0.01804664937835167,0.021289998297375008
+2012,30-45 J.,Direct migration background,3.0,0.018434517545451248,28166,0.01686354349725088,0.020005491593651614
+2012,66 und älter,No migration background,1.0,0.014551656566389666,28166,0.013153143159943806,0.015950169972835528
+2012,46-65 J.,Direct migration background,3.0,0.013063831331422143,28166,0.011737740419659368,0.014389922243184918
+2012,46-65 J.,Direct migration background,2.0,0.012519505025946221,28166,0.011220977003129358,0.013818033048763084
+2012,30-45 J.,Indirect migration background,3.0,0.008926951409805131,28166,0.007828456870558102,0.01002544594905216
+2012,17-29 J.,Indirect migration background,2.0,0.008092317741408717,28166,0.00704599521784156,0.009138640264975875
+2012,17-29 J.,No migration background,4.0,0.007947164059948471,28166,0.006910192191747931,0.008984135928149012
+2012,30-45 J.,Indirect migration background,2.0,0.007729433537758101,28166,0.006706653196141956,0.008752213879374245
+2012,17-29 J.,Direct migration background,2.0,0.006822223028631564,28166,0.005860898691681828,0.0077835473655813
+2012,30-45 J.,Direct migration background,1.0,0.006749646187901441,28166,0.005793414014040545,0.0077058783617623364
+2012,17-29 J.,Indirect migration background,3.0,0.005987589360235149,28166,0.005086608860954119,0.0068885698595161785
+2012,66 und älter,Direct migration background,3.0,0.0050803788511086115,28166,0.004250077907436727,0.005910679794780496
+2012,46-65 J.,Direct migration background,4.0,0.0050803788511086115,28166,0.004250077907436727,0.005910679794780496
+2012,66 und älter,Direct migration background,2.0,0.004499764125267627,28166,0.0037181200470705654,0.005281408203464688
+2012,66 und älter,Direct migration background,4.0,0.004209456762347135,28166,0.003453337139265856,0.004965576385428415
+2012,17-29 J.,Direct migration background,3.0,0.00410059150125195,28166,0.0033542725415133387,0.004846910460990562
+2012,30-45 J.,Direct migration background,4.0,0.0035199767754109665,28166,0.002828308779047198,0.004211644771774735
+2012,17-29 J.,Indirect migration background,1.0,0.0032659578328555357,28166,0.0025996292915026246,0.0039322863742084465
+2012,46-65 J.,Direct migration background,1.0,0.0031208041513952896,28166,0.0024694037711675584,0.0037722045316230207
+2012,17-29 J.,Direct migration background,1.0,0.002431324164459121,28166,0.0018561672847791266,0.0030064810441391156
+2012,30-45 J.,Indirect migration background,1.0,0.0023950357440940596,28166,0.0018241768335653988,0.0029658946546227203
+2012,46-65 J.,Indirect migration background,3.0,0.002286170482998875,28166,0.0017284060892742426,0.0028439348767235074
+2012,46-65 J.,Indirect migration background,2.0,0.0017418441775229525,28166,0.0012548547105727392,0.0022288336444731657
+2012,30-45 J.,Indirect migration background,4.0,0.001705555757157891,28166,0.001223657038189097,0.002187454476126685
+2012,66 und älter,Direct migration background,1.0,0.0011612294516819683,28166,0.0007634885988271551,0.0015589703045367814
+2012,17-29 J.,Indirect migration background,4.0,0.0008709220887614762,28166,0.0005264183528553611,0.0012154258246675914
+2012,17-29 J.,Direct migration background,4.0,0.0006894799869361686,28166,0.00038292771020768967,0.0009960322636646476
+2012,46-65 J.,Indirect migration background,1.0,0.0005080378851108612,28166,0.0002448710324585197,0.0007712047377632026
+2012,46-65 J.,Indirect migration background,4.0,0.0005080378851108612,28166,0.0002448710324585197,0.0007712047377632026
+2012,66 und älter,Indirect migration background,2.0,7.257684073012302e-05,28166,-2.691254585355592e-05,0.00017206622731380197
+2012,66 und älter,Indirect migration background,4.0,7.257684073012302e-05,28166,-2.691254585355592e-05,0.00017206622731380197
+2012,66 und älter,Indirect migration background,3.0,3.628842036506151e-05,28166,-3.4062476063702816e-05,0.00010663931679382583
+2016,46-65 J.,No migration background,3.0,0.12849415747966472,27798,0.12456023191605625,0.1324280830432732
+2016,46-65 J.,No migration background,2.0,0.09719641603699575,27798,0.0937140769387055,0.100678755135286
+2016,30-45 J.,No migration background,3.0,0.08336430075560511,27798,0.08011464217102271,0.08661395934018751
+2016,66 und älter,No migration background,3.0,0.07357859531772576,27798,0.07050936603753172,0.0766478245979198
+2016,30-45 J.,No migration background,2.0,0.05995292951814691,27798,0.05716212574921216,0.06274373328708166
+2016,66 und älter,No migration background,2.0,0.05660844791279574,27798,0.05389178401548343,0.05932511181010805
+2016,30-45 J.,Direct migration background,2.0,0.04430405879681242,27798,0.04188508633520345,0.046723031258421394
+2016,17-29 J.,No migration background,2.0,0.04071183781328709,27798,0.038388650686382086,0.043035024940192096
+2016,66 und älter,No migration background,4.0,0.031586770717205497,27798,0.029530727368723128,0.033642814065687865
+2016,46-65 J.,No migration background,4.0,0.03133903133903134,27798,0.029290804839286342,0.033387257838776344
+2016,30-45 J.,Direct migration background,3.0,0.030141624344522895,27798,0.028131667268500495,0.03215158142054529
+2016,17-29 J.,No migration background,3.0,0.028985507246376812,27798,0.027013299753256274,0.03095771473949735
+2016,46-65 J.,No migration background,1.0,0.026673273050084646,27798,0.02477911254931839,0.028567433550850903
+2016,46-65 J.,Direct migration background,2.0,0.0254758660555762,27798,0.023623571399012985,0.027328160712139414
+2016,46-65 J.,Direct migration background,3.0,0.023411371237458192,27798,0.021633834630396483,0.025188907844519902
+2016,17-29 J.,No migration background,1.0,0.022668153102935712,27798,0.02091839348232821,0.024417912723543215
+2016,30-45 J.,No migration background,4.0,0.016928857508567652,27798,0.01541231148473115,0.01844540353240415
+2016,30-45 J.,No migration background,1.0,0.015070812172261448,27798,0.013638557892845179,0.016503066451677716
+2016,66 und älter,No migration background,1.0,0.015029522275899088,27798,0.013599201354527937,0.01645984319727024
+2016,17-29 J.,Direct migration background,2.0,0.013955984970477724,27798,0.012576942335127043,0.015335027605828404
+2016,17-29 J.,Indirect migration background,2.0,0.013295346628679962,27798,0.011948888921774689,0.014641804335585235
+2016,30-45 J.,Direct migration background,1.0,0.013254056732317603,27798,0.011909663296011749,0.014598450168623456
+2016,30-45 J.,Indirect migration background,2.0,0.00966183574879227,27798,0.008511907139598755,0.010811764357985785
+2016,30-45 J.,Indirect migration background,3.0,0.008918617614269788,27798,0.0078133874558535,0.010023847772686076
+2016,17-29 J.,Indirect migration background,1.0,0.008464428754283826,27798,0.007387462060500686,0.009541395448066965
+2016,17-29 J.,Direct migration background,1.0,0.008381848961559106,27798,0.007310104012918603,0.009453593910199608
+2016,17-29 J.,Direct migration background,3.0,0.007803790412486065,27798,0.0067693609624312895,0.00883821986254084
+2016,46-65 J.,Direct migration background,1.0,0.007349601552500103,27798,0.0063454960333059396,0.008353707071694267
+2016,17-29 J.,Indirect migration background,3.0,0.007308311656137743,27798,0.0063070098064080295,0.008309613505867456
+2016,46-65 J.,Direct migration background,4.0,0.007060572277963582,27798,0.006076265160037591,0.008044879395889574
+2016,66 und älter,Direct migration background,3.0,0.006812832899789421,27798,0.005845827911745422,0.007779837887833421
+2016,30-45 J.,Direct migration background,4.0,0.005739295594368058,27798,0.004851263360177095,0.0066273278285590214
+2016,17-29 J.,No migration background,4.0,0.005326396630744456,27798,0.004470726555434283,0.00618206670605463
+2016,66 und älter,Direct migration background,2.0,0.0046244683925843345,27798,0.003826889441218542,0.005422047343950126
+2016,66 und älter,Direct migration background,4.0,0.003798670465337132,27798,0.0030755033575833772,0.004521837573090887
+2016,30-45 J.,Indirect migration background,1.0,0.0037160906726124115,27798,0.0030007976226780033,0.00443138372254682
+2016,46-65 J.,Indirect migration background,3.0,0.00317932201990173,27798,0.002517524593047205,0.0038411194467562553
+2016,46-65 J.,Indirect migration background,2.0,0.002766423056278129,27798,0.0021489655988904417,0.003383880513665816
+2016,66 und älter,Direct migration background,1.0,0.001610305958132045,27798,0.0011389450730603461,0.002081666843203744
+2016,30-45 J.,Indirect migration background,4.0,0.0014038564763202445,27798,0.0009637015233500399,0.0018440114292904491
+2016,17-29 J.,Direct migration background,4.0,0.0011974069945084437,27798,0.000790860685980869,0.0016039533030360186
+2016,17-29 J.,Indirect migration background,4.0,0.000949667616334283,27798,0.0005875673912428573,0.0013117678414257088
+2016,46-65 J.,Indirect migration background,1.0,0.000949667616334283,27798,0.0005875673912428573,0.0013117678414257088
+2016,46-65 J.,Indirect migration background,4.0,0.0007845080308848425,27798,0.00045537037458053784,0.001113645687189147
+2016,66 und älter,Indirect migration background,2.0,8.257979272472025e-05,27798,-2.4244065001806977e-05,0.00018940365045124749
+2016,66 und älter,Indirect migration background,3.0,4.128989636236013e-05,27798,-3.424753737547158e-05,0.00011682733010019184
+2016,66 und älter,Indirect migration background,4.0,4.128989636236013e-05,27798,-3.424753737547158e-05,0.00011682733010019184
+2021,46-65 J.,No migration background,3.0,0.15344285214959805,19931,0.14843913215868537,0.15844657214051072
+2021,46-65 J.,No migration background,2.0,0.10858674123266923,19931,0.10426738054351163,0.11290610192182683
+2021,66 und älter,No migration background,3.0,0.07899335896539672,19931,0.07524864889751168,0.08273806903328176
+2021,30-45 J.,No migration background,3.0,0.06932308050798089,19931,0.06579669388630872,0.07284946712965305
+2021,66 und älter,No migration background,2.0,0.060992659909122685,19931,0.05767016130559074,0.06431515851265462
+2021,30-45 J.,No migration background,2.0,0.05359431434230456,19931,0.050467590273757,0.05672103841085211
+2021,17-29 J.,No migration background,2.0,0.041186065478271,19931,0.03842717888904887,0.04394495206749313
+2021,30-45 J.,Direct migration background,2.0,0.034661540253990444,19931,0.03212199907060132,0.03720108143737957
+2021,17-29 J.,No migration background,3.0,0.034545030874985436,19931,0.03200960843101017,0.037080453318960704
+2021,46-65 J.,No migration background,1.0,0.03378771991145287,19931,0.03127925953164658,0.03629618029125917
+2021,46-65 J.,No migration background,4.0,0.02976814633578003,19931,0.027408726712202527,0.032127565959357535
+2021,66 und älter,No migration background,4.0,0.0270301759291623,19931,0.024778708604099815,0.029281643254224783
+2021,46-65 J.,Direct migration background,2.0,0.0258650821391122,19931,0.02366135402002366,0.028068810258200738
+2021,17-29 J.,No migration background,1.0,0.02318536642199697,19931,0.021096048222607144,0.0252746846213868
+2021,46-65 J.,Direct migration background,3.0,0.020272631946871723,19931,0.01831604471715226,0.022229219176591184
+2021,66 und älter,No migration background,1.0,0.02009786787836421,19931,0.01814955872209858,0.02204617703462984
+2021,30-45 J.,Direct migration background,3.0,0.018408481882791566,19931,0.016542248677141786,0.020274715088441347
+2021,30-45 J.,No migration background,1.0,0.016835605266223932,19931,0.015049451000268015,0.01862175953217985
+2021,30-45 J.,Direct migration background,1.0,0.015379238028661308,19931,0.013670822813061702,0.017087653244260915
+2021,17-29 J.,Direct migration background,2.0,0.014272398928113713,19931,0.012625683806842977,0.01591911404938445
+2021,30-45 J.,No migration background,4.0,0.012524758243038565,19931,0.010980786632791117,0.014068729853286013
+2021,17-29 J.,Indirect migration background,2.0,0.010777117557963416,19931,0.00934364324915521,0.012210591866771621
+2021,17-29 J.,Direct migration background,1.0,0.009612023767913317,19931,0.008257453233210315,0.010966594302616319
+2021,46-65 J.,Direct migration background,1.0,0.007514854945823139,19931,0.006315869709530905,0.008713840182115372
+2021,30-45 J.,Indirect migration background,2.0,0.007456600256320634,19931,0.006262236240442733,0.008650964272198535
+2021,30-45 J.,Indirect migration background,3.0,0.007456600256320634,19931,0.006262236240442733,0.008650964272198535
+2021,17-29 J.,Indirect migration background,1.0,0.006815798671793079,19931,0.00567353910302734,0.007958058240558818
+2021,66 und älter,Direct migration background,3.0,0.006524525224280555,19931,0.0054067755312910935,0.007642274917270016
+2021,17-29 J.,Direct migration background,3.0,0.00611674239776302,19931,0.00503426382202649,0.00719922097349955
+2021,66 und älter,Direct migration background,2.0,0.005883723639753,19931,0.004821939456113895,0.0069455078233921054
+2021,46-65 J.,Indirect migration background,3.0,0.005242922055225445,19931,0.004240301171429629,0.0062455429390212615
+2021,17-29 J.,Indirect migration background,3.0,0.004835139228707911,19931,0.0038721009821907353,0.0057981774752250866
+2021,17-29 J.,No migration background,4.0,0.004718629849702901,19931,0.00376720953637308,0.005670050163032722
+2021,46-65 J.,Direct migration background,4.0,0.004660375160200396,19931,0.0037148183800468325,0.005605931940353959
+2021,46-65 J.,Indirect migration background,2.0,0.0039030641966678317,19931,0.003037408530414411,0.004768719862921253
+2021,30-45 J.,Direct migration background,4.0,0.002563206338110218,19931,0.001861224294526907,0.003265188381693529
+2021,30-45 J.,Indirect migration background,1.0,0.002446696959105208,19931,0.0017608145361539577,0.0031325793820564584
+2021,66 und älter,Direct migration background,4.0,0.002388442269602703,19931,0.0017107545169389804,0.003066130022266426
+2021,66 und älter,Direct migration background,1.0,0.002155423511592683,19931,0.0015115667137894778,0.0027992803093958886
+2021,46-65 J.,Indirect migration background,1.0,0.0013981125480601187,19931,0.0008793617416596888,0.0019168633544605486
+2021,46-65 J.,Indirect migration background,4.0,0.0009903297215425842,19931,0.0005536467273523716,0.0014270127157327969
+2021,17-29 J.,Indirect migration background,4.0,0.0009903297215425842,19931,0.0005536467273523716,0.0014270127157327969
+2021,30-45 J.,Indirect migration background,4.0,0.0008738203425375742,19931,0.000463604176226341,0.0012840365088488074
+2021,66 und älter,Indirect migration background,3.0,0.0007573109635325644,19931,0.0003753982300672463,0.0011392236969978826
+2021,17-29 J.,Direct migration background,4.0,0.0005242922055225446,19931,0.00020648455407624712,0.000842099856968842
+2021,66 und älter,Indirect migration background,2.0,0.0004077828265175347,19931,0.00012748648731060556,0.0006880791657244637
+2021,66 und älter,Indirect migration background,4.0,0.0001165093790050099,19931,-3.3337143724153844e-05,0.0002663559017341737
+2021,66 und älter,Indirect migration background,1.0,0.0001165093790050099,19931,-3.3337143724153844e-05,0.0002663559017341737
