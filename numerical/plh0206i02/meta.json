@@ -2,7 +2,10 @@
   "dataset": "p_statistics",
   "title": "Rache bei schwerem Unrecht",
   "variable": "plh0206i02",
-  "statistics": ["mean", "median"],
+  "statistics": [
+    "mean",
+    "median"
+  ],
   "dimensions": [
     {
       "variable": "age_gr",
@@ -41,17 +44,6 @@
         "Sachsen",
         "Sachsen-Anhalt",
         "Thüringen"
-      ]
-    },
-    {
-      "variable": "bildungsniveau",
-      "label": "Bildungsniveau",
-      "values": [
-        "(noch) kein Abschluss",
-        "Hauptschule",
-        "Realschule",
-        "(Fach-)Abitur",
-        "AkademikerIn"
       ]
     },
     {
