@@ -312,7 +312,7 @@ year,migback,quintil_oecd,mean,mean_lower_confidence,mean_upper_confidence,lower
 2015,No migration background,2. Quintil,3.1865644636526276,3.1467692114041497,3.2263597159011055,2.0,3.0,4.0,1.0,7.0,3.0,3.0,3.0,1970.0
 2015,No migration background,3. Quintil,3.0391802737843836,3.0118171698124905,3.0665433777562767,2.0,3.0,4.0,1.0,7.0,3.0,3.0,3.0,3821.0
 2015,No migration background,4. Quintil,2.9478213862250198,2.926734174631296,2.9689085978187437,2.0,3.0,4.0,1.0,7.0,3.0,3.0,3.0,5690.0
-2015,No migration background,5. Quintil,2.7920842032740727,2.775022908533213,2.8091454980149324,2.0,2.0,4.0,1.0,7.0,2.0,1.9749999999999943,2.0,7629.0
+2015,No migration background,5. Quintil,2.7920842032740727,2.775022908533213,2.8091454980149324,2.0,2.0,4.0,1.0,7.0,2.0,1.0,2.0,7629.0
 2015,Direct migration background,2. Quintil,2.9216095572298157,2.875282798881872,2.9679363155777594,1.0,2.0,4.0,1.0,7.0,2.0,1.0,2.0,1500.0
 2015,Direct migration background,3. Quintil,2.7803615177417074,2.738136943746066,2.8225860917373486,1.0,2.0,4.0,1.0,7.0,2.0,2.0,2.0,1686.0
 2015,Direct migration background,4. Quintil,2.8449612998932503,2.801360492060874,2.8885621077256265,1.0,2.0,4.0,1.0,7.0,2.0,1.0,2.0,1481.0
@@ -350,7 +350,7 @@ year,migback,quintil_oecd,mean,mean_lower_confidence,mean_upper_confidence,lower
 2018,No migration background,4. Quintil,,,,,,,,,,,,
 2018,No migration background,5. Quintil,,,,,,,,,,,,
 2018,Direct migration background,2. Quintil,2.0427579213922407,1.9418647962256308,2.1436510465588507,1.0,1.0,2.0,1.0,3.5,1.0,1.0,1.0,316.0
-2018,Direct migration background,3. Quintil,2.005994224281174,1.7889337615961973,2.2230546869661505,1.0,1.0,3.0,1.0,6.0,1.0,0.0,1.0,50.0
+2018,Direct migration background,3. Quintil,2.005994224281174,1.7889337615961973,2.2230546869661505,1.0,1.0,3.0,1.0,6.0,1.0,-1.0,1.0,50.0
 2018,Direct migration background,4. Quintil,,,,,,,,,,,,
 2018,Direct migration background,5. Quintil,,,,,,,,,,,,
 2018,Indirect migration background,2. Quintil,,,,,,,,,,,,
@@ -370,11 +370,11 @@ year,migback,quintil_oecd,mean,mean_lower_confidence,mean_upper_confidence,lower
 2019,Indirect migration background,3. Quintil,,,,,,,,,,,,
 2019,Indirect migration background,4. Quintil,,,,,,,,,,,,
 2019,Indirect migration background,5. Quintil,,,,,,,,,,,,
-2020,No migration background,2. Quintil,3.1054618588520566,3.0484422732900525,3.1624814444140608,1.0,3.0,4.0,1.0,7.0,3.0,3.0,3.0,999.0
+2020,No migration background,2. Quintil,3.1054618588520566,3.0484422732900525,3.1624814444140608,1.0,3.0,4.0,1.0,7.0,3.0,3.0,4.0,999.0
 2020,No migration background,3. Quintil,2.92621698492271,2.890682312663485,2.9617516571819356,1.0,3.0,4.0,1.0,7.0,3.0,3.0,4.0,2156.0
 2020,No migration background,4. Quintil,2.904803319034639,2.8817477333763586,2.9278589046929193,2.0,3.0,4.0,1.0,7.0,3.0,3.0,4.0,4645.0
 2020,No migration background,5. Quintil,2.786146476753593,2.77194476104445,2.800348192462736,2.0,2.0,4.0,1.0,7.0,2.0,2.0,2.0,10727.0
-2020,Direct migration background,2. Quintil,2.6593607773474655,2.627591957106868,2.6911295975880627,1.0,2.0,4.0,1.0,7.0,2.0,1.0,2.0,2875.0
+2020,Direct migration background,2. Quintil,2.6593607773474655,2.627591957106868,2.6911295975880627,1.0,2.0,4.0,1.0,7.0,2.0,1.9749999999999943,2.0,2875.0
 2020,Direct migration background,3. Quintil,2.776562084158994,2.7435258370475086,2.8095983312704798,1.0,2.0,4.0,1.0,7.0,2.0,1.0,2.0,2456.0
 2020,Direct migration background,4. Quintil,2.910309224735061,2.871790815818697,2.948827633651425,1.0,2.0,4.0,1.0,7.0,2.0,1.0,2.0,1783.0
 2020,Direct migration background,5. Quintil,2.989145680815168,2.9512202856822976,3.0270710759480384,1.0,2.0,4.0,1.0,7.0,2.0,1.0,2.0,2071.0
@@ -387,7 +387,7 @@ year,migback,quintil_oecd,mean,mean_lower_confidence,mean_upper_confidence,lower
 2021,No migration background,4. Quintil,,,,,,,,,,,,
 2021,No migration background,5. Quintil,,,,,,,,,,,,
 2021,Direct migration background,2. Quintil,2.536912157208261,2.373274335691788,2.7005499787247342,1.0,1.0,4.0,1.0,7.0,1.0,-1.0,1.0,143.0
-2021,Direct migration background,3. Quintil,2.2238173445068763,2.008694795815246,2.4389398931985067,1.0,1.0,3.0,1.0,6.0,1.0,1.0,1.0,76.0
+2021,Direct migration background,3. Quintil,2.2238173445068763,2.008694795815246,2.4389398931985067,1.0,1.0,3.0,1.0,6.0,1.0,0.9749999999999943,1.0,76.0
 2021,Direct migration background,4. Quintil,,,,,,,,,,,,
 2021,Direct migration background,5. Quintil,,,,,,,,,,,,
 2021,Indirect migration background,2. Quintil,,,,,,,,,,,,
