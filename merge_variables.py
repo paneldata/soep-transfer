@@ -1,4 +1,4 @@
-#%%
+# %%
 from pathlib import Path
 
 import pandas
@@ -14,11 +14,11 @@ statistics_datasets: set[str] = set(statistics_variables["dataset"].unique())
 
 
 def statistics_type(row: pandas.Series) -> str:
-    if row["meantable"] == "yes" and row["probtable"] == "yes":
+    if row["type"] == "ordinal":
         return "ordinal"
-    if row["meantable"] == "yes":
+    if row["type"] == "numerical":
         return "numerical"
-    if row["probtable"] == "yes":
+    if row["type"] == "categorical":
         return "categorical"
     return ""
 
