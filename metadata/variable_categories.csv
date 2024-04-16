@@ -1,1060 +1,875 @@
-study,dataset,version,variable,value,label,label_de
-soep-core,p_statistics,v38.1,age_gr,1,17-29 y.,18-29 J.
-soep-core,p_statistics,v38.1,age_gr,2,30-45 y.,30-45 J.
-soep-core,p_statistics,v38.1,age_gr,3,46-65 y.,46-65 J.
-soep-core,p_statistics,v38.1,age_gr,4,66 and over,66 und älter
-soep-core,p_statistics,v38.1,bula_h,1,Schleswig-Holstein,Schleswig-Holstein
-soep-core,p_statistics,v38.1,bula_h,2,Hamburg,Hamburg
-soep-core,p_statistics,v38.1,bula_h,3,Lower Saxony,Niedersachsen
-soep-core,p_statistics,v38.1,bula_h,4,Bremen,Bremen
-soep-core,p_statistics,v38.1,bula_h,5,North Rhine-Westphalia,Nordrhein-Westfalen
-soep-core,p_statistics,v38.1,bula_h,6,Hesse,Hessen
-soep-core,p_statistics,v38.1,bula_h,7,"Rhineland-Palatinate, Saarland","Rheinland-Pfalz,Saarland"
-soep-core,p_statistics,v38.1,bula_h,8,Baden-Wuerttemberg,Baden-Württemberg
-soep-core,p_statistics,v38.1,bula_h,9,Bavaria,Bayern
-soep-core,p_statistics,v38.1,bula_h,10,,Saarland
-soep-core,p_statistics,v38.1,bula_h,11,Berlin,Berlin
-soep-core,p_statistics,v38.1,bula_h,12,Brandenburg,Brandenburg
-soep-core,p_statistics,v38.1,bula_h,13,Mecklenburg-Western Pomerania,Mecklenburg-Vorpommern
-soep-core,p_statistics,v38.1,bula_h,14,Saxony,Sachsen
-soep-core,p_statistics,v38.1,bula_h,15,Saxony-Anhalt,Sachsen-Anhalt
-soep-core,p_statistics,v38.1,bula_h,16,Thuringa,Thüringen
-soep-core,p_statistics,v38.1,chronill,1,,Ja
-soep-core,p_statistics,v38.1,chronill,2,,Nein
-soep-core,p_statistics,v38.1,e11103,1,,Full Time
-soep-core,p_statistics,v38.1,e11103,2,,Part Time
-soep-core,p_statistics,v38.1,e11103,3,,Not Working
-soep-core,p_statistics,v38.1,germborn,1,,in Deutschland geboren oder immigr.<1950
-soep-core,p_statistics,v38.1,germborn,2,,nicht in Deutschland geboren
-soep-core,p_statistics,v38.1,m11124,0,,Not Disabled
-soep-core,p_statistics,v38.1,m11124,1,,Disabled
-soep-core,p_statistics,v38.1,m11125,0,,Completely dissatisfied
-soep-core,p_statistics,v38.1,m11125,10,,Completely satisfied
-soep-core,p_statistics,v38.1,m11126,1,,Very good
-soep-core,p_statistics,v38.1,m11126,2,,Good
-soep-core,p_statistics,v38.1,m11126,3,,Satisfactory
-soep-core,p_statistics,v38.1,m11126,4,,Poor
-soep-core,p_statistics,v38.1,m11126,5,,Bad
-soep-core,p_statistics,v38.1,migback,1,,kein Migrationshintergrund
-soep-core,p_statistics,v38.1,migback,2,,direkter Migrationshintergrund
-soep-core,p_statistics,v38.1,migback,3,,indirekter Migrationshintergrund
-soep-core,p_statistics,v38.1,occpos,1,,Self-employed
-soep-core,p_statistics,v38.1,occpos,2,,Blue-collar worker
-soep-core,p_statistics,v38.1,occpos,3,,Civil servant
-soep-core,p_statistics,v38.1,occpos,4,,White-collar worker
-soep-core,p_statistics,v38.1,occpos,5,,Apprentice/ Trainee/ Intern
-soep-core,p_statistics,v38.1,occpos,6,,Pensioner
-soep-core,p_statistics,v38.1,occpos,7,,Military/Community Service (Wehr-/Zivildienst)
-soep-core,p_statistics,v38.1,occpos,8,,Registered unemployed
-soep-core,p_statistics,v38.1,occpos,9,,Not employed (no further information)
-soep-core,p_statistics,v38.1,party,0,Not leaning towards specific party,keine Parteineigung
-soep-core,p_statistics,v38.1,party,1,SPD,SPD
-soep-core,p_statistics,v38.1,party,2,CDU/CSU,CDU/CSU
-soep-core,p_statistics,v38.1,party,3,FDP,FDP
-soep-core,p_statistics,v38.1,party,4,Bündnis90/Grüne,Bündnis90/Grüne
-soep-core,p_statistics,v38.1,party,5,PDS/Linke,PDS/Linke
-soep-core,p_statistics,v38.1,party,6,Far right parties,Rechtsextrem
-soep-core,p_statistics,v38.1,party,7,AfD,AfD
-soep-core,p_statistics,v38.1,party,8,Others,Sonstige
-soep-core,p_statistics,v38.1,party,9,Party combinations,Partei-Kombinationen
-soep-core,p_statistics,v38.1,pgcasmin,0,,(0) in school
-soep-core,p_statistics,v38.1,pgcasmin,1,No qualification (yet),(1a) inadequately completed
-soep-core,p_statistics,v38.1,pgcasmin,2,Lower secondary school (Hauptschule),(1b) general elementary school
-soep-core,p_statistics,v38.1,pgcasmin,3,Intermediate secondary school (Realschule),(1c) basic vocational qualification
-soep-core,p_statistics,v38.1,pgcasmin,4,Upper secondary school (Fach-/Abitur),(2b) intermediate general qualification
-soep-core,p_statistics,v38.1,pgcasmin,5,University degree,(2a) intermediate vocational
-soep-core,p_statistics,v38.1,pgcasmin,6,,(2c_gen) general maturity certificate
-soep-core,p_statistics,v38.1,pgcasmin,7,,(2c_voc) vocational maturity certificate
-soep-core,p_statistics,v38.1,pgcasmin,8,,(3a) lower tertiary education
-soep-core,p_statistics,v38.1,pgcasmin,9,,(3b) higher tertiary education
-soep-core,p_statistics,v38.1,pgemplst,1,,Voll erwerbstätig
-soep-core,p_statistics,v38.1,pgemplst,2,,Teilzeitbeschäftigung
-soep-core,p_statistics,v38.1,pgemplst,3,,"Ausbildung, Lehre"
-soep-core,p_statistics,v38.1,pgemplst,4,,"Unregelmässig, geringfügig erwerbstät."
-soep-core,p_statistics,v38.1,pgemplst,5,,Nicht erwerbstätig
-soep-core,p_statistics,v38.1,pgemplst,6,,Werkstatt für behinderte Menschen (seit 1998)
-soep-core,p_statistics,v38.1,pgemplst,7,,in Kurzarbeit (seit 2021)
-soep-core,p_statistics,v38.1,pgfamstd,1,Married,Verheiratet
-soep-core,p_statistics,v38.1,pgfamstd,2,"Married, living apart","Verheiratet, getrennt lebend"
-soep-core,p_statistics,v38.1,pgfamstd,3,Unmarried,Ledig
-soep-core,p_statistics,v38.1,pgfamstd,4,Divorced,Geschieden
-soep-core,p_statistics,v38.1,pgfamstd,5,Widowed,Verwitwet
-soep-core,p_statistics,v38.1,pgisced97,0,,in school
-soep-core,p_statistics,v38.1,pgisced97,1,,inadequately
-soep-core,p_statistics,v38.1,pgisced97,2,,general elemantary
-soep-core,p_statistics,v38.1,pgisced97,3,,middle vocational
-soep-core,p_statistics,v38.1,pgisced97,4,,vocational + Abi
-soep-core,p_statistics,v38.1,pgisced97,5,,higher vocational
-soep-core,p_statistics,v38.1,pgisced97,6,,higher education
-soep-core,p_statistics,v38.1,pgpsbil,1,,Hauptschulabschluss
-soep-core,p_statistics,v38.1,pgpsbil,2,,Realschulabschluss
-soep-core,p_statistics,v38.1,pgpsbil,3,,Fachhochschulreife
-soep-core,p_statistics,v38.1,pgpsbil,4,,Abitur
-soep-core,p_statistics,v38.1,pgpsbil,5,,Anderer Abschluss
-soep-core,p_statistics,v38.1,pgpsbil,6,,Ohne Abschluss verlassen
-soep-core,p_statistics,v38.1,pgpsbil,7,,Noch kein Abschluss
-soep-core,p_statistics,v38.1,pgpsbil,8,,Keine Schule besucht
-soep-core,p_statistics,v38.1,plb0021,1,,Ja
-soep-core,p_statistics,v38.1,plb0021,2,,Nein
-soep-core,p_statistics,v38.1,plb0037_h,1,,Unbefristet
-soep-core,p_statistics,v38.1,plb0037_h,2,,Befristet
-soep-core,p_statistics,v38.1,plb0050,1,,Ja
-soep-core,p_statistics,v38.1,plb0050,2,,Nein
-soep-core,p_statistics,v38.1,plb0111,1,,Geld verdienen
-soep-core,p_statistics,v38.1,plb0111,2,,Andere Gruende
-soep-core,p_statistics,v38.1,plb0111,3,,Beides gleichermassen
-soep-core,p_statistics,v38.1,plb0195_h,1,,Abgefeiert
-soep-core,p_statistics,v38.1,plb0195_h,2,,"Teils, teils"
-soep-core,p_statistics,v38.1,plb0195_h,3,,Bezahlt
-soep-core,p_statistics,v38.1,plb0195_h,4,,Nicht abgegolten
-soep-core,p_statistics,v38.1,plb0196_h,1,,Ja
-soep-core,p_statistics,v38.1,plb0196_h,2,,Nein
-soep-core,p_statistics,v38.1,plb0218_v1,1,,"Nein, nie"
-soep-core,p_statistics,v38.1,plb0218_v1,2,,"Ja, jede Woche"
-soep-core,p_statistics,v38.1,plb0218_v1,3,,"Ja, alle 2 Wochen"
-soep-core,p_statistics,v38.1,plb0218_v1,4,,"Ja, alle 3-4 Wochen"
-soep-core,p_statistics,v38.1,plb0218_v1,5,,Seltener
-soep-core,p_statistics,v38.1,plb0219_v1,1,,"Nein, nie"
-soep-core,p_statistics,v38.1,plb0219_v1,2,,"Ja, jede Woche"
-soep-core,p_statistics,v38.1,plb0219_v1,3,,"Ja, alle 2 Wochen"
-soep-core,p_statistics,v38.1,plb0219_v1,4,,"Ja, alle 3-4 Wochen"
-soep-core,p_statistics,v38.1,plb0219_v1,5,,Seltener
-soep-core,p_statistics,v38.1,plb0240,1,,An Vollzeitbeschaeftigung
-soep-core,p_statistics,v38.1,plb0240,2,,An Teilzeitbeschaeftigung
-soep-core,p_statistics,v38.1,plb0240,3,,Beides recht
-soep-core,p_statistics,v38.1,plb0240,4,,Weiss noch nicht
-soep-core,p_statistics,v38.1,plb0417_v2,1,,Nein ganz sicher nicht
-soep-core,p_statistics,v38.1,plb0417_v2,2,,Eher unwahrscheinlich
-soep-core,p_statistics,v38.1,plb0417_v2,3,,Wahrscheinlich
-soep-core,p_statistics,v38.1,plb0417_v2,4,,Ganz sicher
-soep-core,p_statistics,v38.1,plb0418,1,,Moeglichst sofort
-soep-core,p_statistics,v38.1,plb0418,2,,Innerhalb d.kommenden Jahres
-soep-core,p_statistics,v38.1,plb0418,3,,In 2 bis 5 Jahren
-soep-core,p_statistics,v38.1,plb0418,4,,In mehr als 5 Jahren
-soep-core,p_statistics,v38.1,plb0419_h,1,,Leicht
-soep-core,p_statistics,v38.1,plb0419_h,2,,Schwierig
-soep-core,p_statistics,v38.1,plb0419_h,3,,Prakt. unmoeglich
-soep-core,p_statistics,v38.1,plb0426,1,,Im bisherigen/erlernten Beruf
-soep-core,p_statistics,v38.1,plb0426,2,,Etwas Neues machen
-soep-core,p_statistics,v38.1,plb0426,3,,Egal
-soep-core,p_statistics,v38.1,plb0426,4,,"T.n.z., noch k.Beruf erlernt"
-soep-core,p_statistics,v38.1,pld0043,1,,Sehr oft
-soep-core,p_statistics,v38.1,pld0043,2,,Oft
-soep-core,p_statistics,v38.1,pld0043,3,,Manchmal
-soep-core,p_statistics,v38.1,pld0043,4,,Selten
-soep-core,p_statistics,v38.1,pld0043,5,,Nie
-soep-core,p_statistics,v38.1,pld0044,1,,Sehr oft
-soep-core,p_statistics,v38.1,pld0044,2,,Oft
-soep-core,p_statistics,v38.1,pld0044,3,,Manchmal
-soep-core,p_statistics,v38.1,pld0044,4,,Selten
-soep-core,p_statistics,v38.1,pld0044,5,,Nie
-soep-core,p_statistics,v38.1,pld0045,1,,Sehr oft
-soep-core,p_statistics,v38.1,pld0045,2,,Oft
-soep-core,p_statistics,v38.1,pld0045,3,,Manchmal
-soep-core,p_statistics,v38.1,pld0045,4,,Selten
-soep-core,p_statistics,v38.1,pld0045,5,,Nie
-soep-core,p_statistics,v38.1,pld0298_h,1,,Heterosexuell (also dem anderen Geschlecht zugeneigt)
-soep-core,p_statistics,v38.1,pld0298_h,2,,"Homosexuell (schwul oder lesbisch, also dem eigenen Geschlecht zugeneigt)"
-soep-core,p_statistics,v38.1,pld0298_h,3,,Bisexuell (also beiden Geschlechtern zugeneigt)
-soep-core,p_statistics,v38.1,pld0298_h,4,,Keine Angabe / Möchte mich zu diesem Thema nicht äußern
-soep-core,p_statistics,v38.1,ple0004,1,,Stark
-soep-core,p_statistics,v38.1,ple0004,2,,Ein wenig
-soep-core,p_statistics,v38.1,ple0004,3,,Gar nicht
-soep-core,p_statistics,v38.1,ple0005,1,,Stark
-soep-core,p_statistics,v38.1,ple0005,2,,Ein wenig
-soep-core,p_statistics,v38.1,ple0005,3,,Gar nicht
-soep-core,p_statistics,v38.1,ple0008,1,,Sehr gut
-soep-core,p_statistics,v38.1,ple0008,2,,Gut
-soep-core,p_statistics,v38.1,ple0008,3,,Zufriedenstellend
-soep-core,p_statistics,v38.1,ple0008,4,,Weniger gut
-soep-core,p_statistics,v38.1,ple0008,5,,Schlecht
-soep-core,p_statistics,v38.1,ple0009,1,,"Ja, stark eingeschraenkt"
-soep-core,p_statistics,v38.1,ple0009,2,,"Ja, etwas eingeschraenkt"
-soep-core,p_statistics,v38.1,ple0009,3,,"Nein, nicht eingeschraenkt"
-soep-core,p_statistics,v38.1,ple0011,1,,Ja
-soep-core,p_statistics,v38.1,ple0012,1,,Ja
-soep-core,p_statistics,v38.1,ple0013,1,,Ja
-soep-core,p_statistics,v38.1,ple0014,1,,Ja
-soep-core,p_statistics,v38.1,ple0015,1,,Ja
-soep-core,p_statistics,v38.1,ple0016,1,,Ja
-soep-core,p_statistics,v38.1,ple0017,1,,Ja
-soep-core,p_statistics,v38.1,ple0018,1,,Ja
-soep-core,p_statistics,v38.1,ple0019,1,,Ja
-soep-core,p_statistics,v38.1,ple0020,1,,Ja
-soep-core,p_statistics,v38.1,ple0021,1,,Ja
-soep-core,p_statistics,v38.1,ple0022,1,,Ja
-soep-core,p_statistics,v38.1,ple0023,1,,Ja
-soep-core,p_statistics,v38.1,ple0040,1,,Ja
-soep-core,p_statistics,v38.1,ple0040,2,,Nein
-soep-core,p_statistics,v38.1,ple0053,1,,Ja
-soep-core,p_statistics,v38.1,ple0053,2,,Nein
-soep-core,p_statistics,v38.1,ple0081_h,1,,Ja
-soep-core,p_statistics,v38.1,ple0081_h,2,,Nein
-soep-core,p_statistics,v38.1,ple0097,1,,Gesetzliche KV
-soep-core,p_statistics,v38.1,ple0097,2,,Private KV
-soep-core,p_statistics,v38.1,ple0097,3,,Weder-noch
-soep-core,p_statistics,v38.1,ple0098_v5,1,,Ja
-soep-core,p_statistics,v38.1,ple0098_v5,2,,Nein
-soep-core,p_statistics,v38.1,ple0162,1,,Ja
-soep-core,p_statistics,v38.1,ple0162,2,,Nein
-soep-core,p_statistics,v38.1,plg0267_h,1,,Allgemeinbildende Schule
-soep-core,p_statistics,v38.1,plg0267_h,2,,Hochschule
-soep-core,p_statistics,v38.1,plg0267_h,3,,Berufliche Ausbildung
-soep-core,p_statistics,v38.1,plg0267_h,4,,Weiterbildung / Umschulung
-soep-core,p_statistics,v38.1,plg0292_h,1,,Berufliche Umschulung
-soep-core,p_statistics,v38.1,plg0292_h,2,,Berufliche Fortbildung
-soep-core,p_statistics,v38.1,plg0292_h,3,,Berufliche Rehabilitation
-soep-core,p_statistics,v38.1,plg0292_h,4,,Allgemeine/politische Weiterbildung
-soep-core,p_statistics,v38.1,plg0292_h,5,,Sonstiges
-soep-core,p_statistics,v38.1,plg0292_h,6,,Integrationskurs / Sprachkurs
-soep-core,p_statistics,v38.1,plg0292_h,7,,Mehrfachnennung
-soep-core,p_statistics,v38.1,plh0004,0,,0 ganz links
-soep-core,p_statistics,v38.1,plh0004,1,,1
-soep-core,p_statistics,v38.1,plh0004,2,,2
-soep-core,p_statistics,v38.1,plh0004,3,,3
-soep-core,p_statistics,v38.1,plh0004,4,,4
-soep-core,p_statistics,v38.1,plh0004,5,,5
-soep-core,p_statistics,v38.1,plh0004,6,,6
-soep-core,p_statistics,v38.1,plh0004,7,,7
-soep-core,p_statistics,v38.1,plh0004,8,,8
-soep-core,p_statistics,v38.1,plh0004,9,,9
-soep-core,p_statistics,v38.1,plh0004,10,,10 ganz rechts
-soep-core,p_statistics,v38.1,plh0032,1,,Grosse Sorgen
-soep-core,p_statistics,v38.1,plh0032,2,,Einige Sorgen
-soep-core,p_statistics,v38.1,plh0032,3,,Keine Sorgen
-soep-core,p_statistics,v38.1,plh0033,1,,Grosse Sorgen
-soep-core,p_statistics,v38.1,plh0033,2,,Einige Sorgen
-soep-core,p_statistics,v38.1,plh0033,3,,Keine Sorgen
-soep-core,p_statistics,v38.1,plh0034,1,,Grosse Sorgen
-soep-core,p_statistics,v38.1,plh0034,2,,Einige Sorgen
-soep-core,p_statistics,v38.1,plh0034,3,,Keine Sorgen
-soep-core,p_statistics,v38.1,plh0035,1,,Grosse Sorgen
-soep-core,p_statistics,v38.1,plh0035,2,,Einige Sorgen
-soep-core,p_statistics,v38.1,plh0035,3,,Keine Sorgen
-soep-core,p_statistics,v38.1,plh0036,1,,Grosse Sorgen
-soep-core,p_statistics,v38.1,plh0036,2,,Einige Sorgen
-soep-core,p_statistics,v38.1,plh0036,3,,Keine Sorgen
-soep-core,p_statistics,v38.1,plh0037,1,,Grosse Sorgen
-soep-core,p_statistics,v38.1,plh0037,2,,Einige Sorgen
-soep-core,p_statistics,v38.1,plh0037,3,,Keine Sorgen
-soep-core,p_statistics,v38.1,plh0038,1,,Grosse Sorgen
-soep-core,p_statistics,v38.1,plh0038,2,,Einige Sorgen
-soep-core,p_statistics,v38.1,plh0038,3,,Keine Sorgen
-soep-core,p_statistics,v38.1,plh0039,1,,Grosse Sorgen
-soep-core,p_statistics,v38.1,plh0039,2,,Einige Sorgen
-soep-core,p_statistics,v38.1,plh0039,3,,Keine Sorgen
-soep-core,p_statistics,v38.1,plh0040,1,,Grosse Sorgen
-soep-core,p_statistics,v38.1,plh0040,2,,Einige Sorgen
-soep-core,p_statistics,v38.1,plh0040,3,,Keine Sorgen
-soep-core,p_statistics,v38.1,plh0042,1,,Grosse Sorgen
-soep-core,p_statistics,v38.1,plh0042,2,,Einige Sorgen
-soep-core,p_statistics,v38.1,plh0042,3,,Keine Sorgen
-soep-core,p_statistics,v38.1,plh0105,1,,1 Sehr wichtig
-soep-core,p_statistics,v38.1,plh0105,2,,2 Wichtig
-soep-core,p_statistics,v38.1,plh0105,3,,3 Weniger wichtig
-soep-core,p_statistics,v38.1,plh0105,4,,4 Ganz unwichtig
-soep-core,p_statistics,v38.1,plh0106,1,,1 Sehr wichtig
-soep-core,p_statistics,v38.1,plh0106,2,,2 Wichtig
-soep-core,p_statistics,v38.1,plh0106,3,,3 Weniger wichtig
-soep-core,p_statistics,v38.1,plh0106,4,,4 Ganz unwichtig
-soep-core,p_statistics,v38.1,plh0107,1,,1 Sehr wichtig
-soep-core,p_statistics,v38.1,plh0107,2,,2 Wichtig
-soep-core,p_statistics,v38.1,plh0107,3,,3 Weniger wichtig
-soep-core,p_statistics,v38.1,plh0107,4,,4 Ganz unwichtig
-soep-core,p_statistics,v38.1,plh0108,1,,1 Sehr wichtig
-soep-core,p_statistics,v38.1,plh0108,2,,2 Wichtig
-soep-core,p_statistics,v38.1,plh0108,3,,3 Weniger wichtig
-soep-core,p_statistics,v38.1,plh0108,4,,4 Ganz unwichtig
-soep-core,p_statistics,v38.1,plh0109,1,,1 Sehr wichtig
-soep-core,p_statistics,v38.1,plh0109,2,,2 Wichtig
-soep-core,p_statistics,v38.1,plh0109,3,,3 Weniger wichtig
-soep-core,p_statistics,v38.1,plh0109,4,,4 Ganz unwichtig
-soep-core,p_statistics,v38.1,plh0110,1,,1 Sehr wichtig
-soep-core,p_statistics,v38.1,plh0110,2,,2 Wichtig
-soep-core,p_statistics,v38.1,plh0110,3,,3 Weniger wichtig
-soep-core,p_statistics,v38.1,plh0110,4,,4 Ganz unwichtig
-soep-core,p_statistics,v38.1,plh0111,1,,1 Sehr wichtig
-soep-core,p_statistics,v38.1,plh0111,2,,2 Wichtig
-soep-core,p_statistics,v38.1,plh0111,3,,3 Weniger wichtig
-soep-core,p_statistics,v38.1,plh0111,4,,4 Ganz unwichtig
-soep-core,p_statistics,v38.1,plh0112,1,,1 Sehr wichtig
-soep-core,p_statistics,v38.1,plh0112,2,,2 Wichtig
-soep-core,p_statistics,v38.1,plh0112,3,,3 Weniger wichtig
-soep-core,p_statistics,v38.1,plh0112,4,,4 Ganz unwichtig
-soep-core,p_statistics,v38.1,plh0162,0,,0 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0162,1,,1 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0162,2,,2 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0162,3,,3 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0162,4,,4 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0162,5,,5 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0162,6,,6 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0162,7,,7 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0162,8,,8 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0162,9,,9 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0162,10,,10 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0164,0,,0 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0164,1,,1 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0164,2,,2 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0164,3,,3 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0164,4,,4 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0164,5,,5 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0164,6,,6 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0164,7,,7 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0164,8,,8 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0164,9,,9 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0164,10,,10 Zufrieden: Skala 0-Niedrig bis 10-Hoc
-soep-core,p_statistics,v38.1,plh0171,0,,0 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0171,1,,1 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0171,2,,2 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0171,3,,3 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0171,4,,4 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0171,5,,5 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0171,6,,6 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0171,7,,7 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0171,8,,8 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0171,9,,9 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0171,10,,10 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0172,0,,0 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0172,1,,1 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0172,2,,2 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0172,3,,3 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0172,4,,4 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0172,5,,5 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0172,6,,6 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0172,7,,7 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0172,8,,8 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0172,9,,9 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0172,10,,10 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0173,0,,0 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0173,1,,1 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0173,2,,2 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0173,3,,3 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0173,4,,4 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0173,5,,5 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0173,6,,6 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0173,7,,7 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0173,8,,8 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0173,9,,9 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0173,10,,10 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0174,0,,0 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0174,1,,1 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0174,2,,2 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0174,3,,3 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0174,4,,4 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0174,5,,5 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0174,6,,6 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0174,7,,7 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0174,8,,8 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0174,9,,9 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0174,10,,10 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0175,0,,0 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0175,1,,1 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0175,2,,2 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0175,3,,3 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0175,4,,4 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0175,5,,5 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0175,6,,6 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0175,7,,7 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0175,8,,8 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0175,9,,9 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0175,10,,10 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0176,0,,0 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0176,1,,1 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0176,2,,2 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0176,3,,3 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0176,4,,4 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0176,5,,5 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0176,6,,6 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0176,7,,7 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0176,8,,8 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0176,9,,9 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0176,10,,10 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0177,0,,0 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0177,1,,1 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0177,2,,2 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0177,3,,3 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0177,4,,4 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0177,5,,5 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0177,6,,6 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0177,7,,7 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0177,8,,8 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0177,9,,9 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0177,10,,10 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0178,0,,0 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0178,1,,1 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0178,2,,2 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0178,3,,3 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0178,4,,4 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0178,5,,5 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0178,6,,6 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0178,7,,7 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0178,8,,8 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0178,9,,9 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0178,10,,10 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0179,0,,0 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0179,1,,1 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0179,2,,2 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0179,3,,3 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0179,4,,4 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0179,5,,5 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0179,6,,6 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0179,7,,7 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0179,8,,8 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0179,9,,9 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0179,10,,10 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0180,0,,0 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0180,1,,1 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0180,2,,2 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0180,3,,3 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0180,4,,4 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0180,5,,5 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0180,6,,6 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0180,7,,7 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0180,8,,8 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0180,9,,9 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0180,10,,10 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0181,0,,Ganz und gar unzufrieden
-soep-core,p_statistics,v38.1,plh0181,1,,1 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0181,2,,2 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0181,3,,3 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0181,4,,4 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0181,5,,5 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0181,6,,6 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0181,7,,7 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0181,8,,8 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0181,9,,9 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0181,10,,Ganz und gar zufrieden
-soep-core,p_statistics,v38.1,plh0182,0,,0 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0182,1,,1 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0182,2,,2 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0182,3,,3 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0182,4,,4 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0182,5,,5 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0182,6,,6 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0182,7,,7 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0182,8,,8 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0182,9,,9 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0182,10,,10 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0183,0,,0 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0183,1,,1 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0183,2,,2 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0183,3,,3 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0183,4,,4 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0183,5,,5 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0183,6,,6 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0183,7,,7 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0183,8,,8 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0183,9,,9 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0183,10,,10 Zufrieden: Skala 0-Niedrig bis 10-Hoch
-soep-core,p_statistics,v38.1,plh0184,1,,Sehr selten
-soep-core,p_statistics,v38.1,plh0184,2,,Selten
-soep-core,p_statistics,v38.1,plh0184,3,,Manchmal
-soep-core,p_statistics,v38.1,plh0184,4,,Oft
-soep-core,p_statistics,v38.1,plh0184,5,,Sehr oft
-soep-core,p_statistics,v38.1,plh0185,1,,Sehr selten
-soep-core,p_statistics,v38.1,plh0185,2,,Selten
-soep-core,p_statistics,v38.1,plh0185,3,,Manchmal
-soep-core,p_statistics,v38.1,plh0185,4,,Oft
-soep-core,p_statistics,v38.1,plh0185,5,,Sehr oft
-soep-core,p_statistics,v38.1,plh0186,1,,Sehr selten
-soep-core,p_statistics,v38.1,plh0186,2,,Selten
-soep-core,p_statistics,v38.1,plh0186,3,,Manchmal
-soep-core,p_statistics,v38.1,plh0186,4,,Oft
-soep-core,p_statistics,v38.1,plh0186,5,,Sehr oft
-soep-core,p_statistics,v38.1,plh0187,1,,Sehr selten
-soep-core,p_statistics,v38.1,plh0187,2,,Selten
-soep-core,p_statistics,v38.1,plh0187,3,,Manchmal
-soep-core,p_statistics,v38.1,plh0187,4,,Oft
-soep-core,p_statistics,v38.1,plh0187,5,,Sehr oft
-soep-core,p_statistics,v38.1,plh0188,1,,Stimmt ganz u.gar
-soep-core,p_statistics,v38.1,plh0188,2,,Stimmt eher
-soep-core,p_statistics,v38.1,plh0188,3,,Stimmt eher nicht
-soep-core,p_statistics,v38.1,plh0188,4,,Stimmt ganz u.gar nicht
-soep-core,p_statistics,v38.1,plh0189,1,,Stimmt ganz u.gar
-soep-core,p_statistics,v38.1,plh0189,2,,Stimmt eher
-soep-core,p_statistics,v38.1,plh0189,3,,Stimmt eher nicht
-soep-core,p_statistics,v38.1,plh0189,4,,Stimmt ganz u.gar nicht
-soep-core,p_statistics,v38.1,plh0190,1,,Stimmt ganz u.gar
-soep-core,p_statistics,v38.1,plh0190,2,,Stimmt eher
-soep-core,p_statistics,v38.1,plh0190,3,,Stimmt eher nicht
-soep-core,p_statistics,v38.1,plh0190,4,,Stimmt ganz u.gar nicht
-soep-core,p_statistics,v38.1,plh0191,1,,Stimmt ganz u.gar
-soep-core,p_statistics,v38.1,plh0191,2,,Stimmt eher
-soep-core,p_statistics,v38.1,plh0191,3,,Stimmt eher nicht
-soep-core,p_statistics,v38.1,plh0191,4,,Stimmt ganz u.gar nicht
-soep-core,p_statistics,v38.1,plh0192,1,,Stimme voll zu
-soep-core,p_statistics,v38.1,plh0192,2,,Stimme eher zu
-soep-core,p_statistics,v38.1,plh0192,3,,Lehne eher ab
-soep-core,p_statistics,v38.1,plh0192,4,,Lehne voll ab
-soep-core,p_statistics,v38.1,plh0193,1,,Stimme voll zu
-soep-core,p_statistics,v38.1,plh0193,2,,Stimme eher zu
-soep-core,p_statistics,v38.1,plh0193,3,,Lehne eher ab
-soep-core,p_statistics,v38.1,plh0193,4,,Lehne voll ab
-soep-core,p_statistics,v38.1,plh0194,1,,Stimme voll zu
-soep-core,p_statistics,v38.1,plh0194,2,,Stimme eher zu
-soep-core,p_statistics,v38.1,plh0194,3,,Lehne eher ab
-soep-core,p_statistics,v38.1,plh0194,4,,Lehne voll ab
-soep-core,p_statistics,v38.1,plh0195,1,,Leute nutzen aus
-soep-core,p_statistics,v38.1,plh0195,2,,Leute sind fair
-soep-core,p_statistics,v38.1,plh0196,1,,Leute sind hilfsbereit
-soep-core,p_statistics,v38.1,plh0196,2,,Leute verfolgen Eigeninteresse
-soep-core,p_statistics,v38.1,plh0204_h,0,,"0 Risikobereit Skala 0-Gar nicht, 10-Sehr"
-soep-core,p_statistics,v38.1,plh0204_h,1,,"1 Risikobereit Skala 0-Gar nicht, 10-Sehr"
-soep-core,p_statistics,v38.1,plh0204_h,2,,"2 Risikobereit Skala 0-Gar nicht, 10-Sehr"
-soep-core,p_statistics,v38.1,plh0204_h,3,,"3 Risikobereit Skala 0-Gar nicht, 10-Sehr"
-soep-core,p_statistics,v38.1,plh0204_h,4,,"4 Risikobereit Skala 0-Gar nicht, 10-Sehr"
-soep-core,p_statistics,v38.1,plh0204_h,5,,"5 Risikobereit Skala 0-Gar nicht, 10-Sehr"
-soep-core,p_statistics,v38.1,plh0204_h,6,,"6 Risikobereit Skala 0-Gar nicht, 10-Sehr"
-soep-core,p_statistics,v38.1,plh0204_h,7,,"7 Risikobereit Skala 0-Gar nicht, 10-Sehr"
-soep-core,p_statistics,v38.1,plh0204_h,8,,"8 Risikobereit Skala 0-Gar nicht, 10-Sehr"
-soep-core,p_statistics,v38.1,plh0204_h,9,,"9 Risikobereit Skala 0-Gar nicht, 10-Sehr"
-soep-core,p_statistics,v38.1,plh0204_h,10,,"10 Risikobereit Skala 0-Gar nicht, 10-Sehr"
-soep-core,p_statistics,v38.1,plh0206i01,1,,"1 Trifft ueberhaupt nicht zu, (Skala 1-7)"
-soep-core,p_statistics,v38.1,plh0206i01,2,,2 auf Skala 1-7
-soep-core,p_statistics,v38.1,plh0206i01,3,,3 auf Skala 1-7
-soep-core,p_statistics,v38.1,plh0206i01,4,,4 auf Skala 1-7
-soep-core,p_statistics,v38.1,plh0206i01,5,,5 auf Skala 1-7
-soep-core,p_statistics,v38.1,plh0206i01,6,,6 auf Skala 1-7
-soep-core,p_statistics,v38.1,plh0206i01,7,,"7 Trifft voll zu, (Skala 1-7)"
-soep-core,p_statistics,v38.1,plh0206i02,1,,"1 Trifft ueberhaupt nicht zu, (Skala 1-7)"
-soep-core,p_statistics,v38.1,plh0206i02,2,,2 auf Skala 1-7
-soep-core,p_statistics,v38.1,plh0206i02,3,,3 auf Skala 1-7
-soep-core,p_statistics,v38.1,plh0206i02,4,,4 auf Skala 1-7
-soep-core,p_statistics,v38.1,plh0206i02,5,,5 auf Skala 1-7
-soep-core,p_statistics,v38.1,plh0206i02,6,,6 auf Skala 1-7
-soep-core,p_statistics,v38.1,plh0206i02,7,,"7 Trifft voll zu, (Skala 1-7)"
-soep-core,p_statistics,v38.1,plh0206i03,1,,"1 Trifft ueberhaupt nicht zu, (Skala 1-7)"
-soep-core,p_statistics,v38.1,plh0206i03,2,,2 auf Skala 1-7
-soep-core,p_statistics,v38.1,plh0206i03,3,,3 auf Skala 1-7
-soep-core,p_statistics,v38.1,plh0206i03,4,,4 auf Skala 1-7
-soep-core,p_statistics,v38.1,plh0206i03,5,,5 auf Skala 1-7
-soep-core,p_statistics,v38.1,plh0206i03,6,,6 auf Skala 1-7
-soep-core,p_statistics,v38.1,plh0206i03,7,,"7 Trifft voll zu, (Skala 1-7)"
-soep-core,p_statistics,v38.1,plh0206i04,1,,"1 Trifft ueberhaupt nicht zu, (Skala 1-7)"
-soep-core,p_statistics,v38.1,plh0206i04,2,,2 auf Skala 1-7
-soep-core,p_statistics,v38.1,plh0206i04,3,,3 auf Skala 1-7
-soep-core,p_statistics,v38.1,plh0206i04,4,,4 auf Skala 1-7
-soep-core,p_statistics,v38.1,plh0206i04,5,,5 auf Skala 1-7
-soep-core,p_statistics,v38.1,plh0206i04,6,,6 auf Skala 1-7
-soep-core,p_statistics,v38.1,plh0206i04,7,,"7 Trifft voll zu, (Skala 1-7)"
-soep-core,p_statistics,v38.1,plh0206i05,1,,"1 Trifft ueberhaupt nicht zu, (Skala 1-7)"
-soep-core,p_statistics,v38.1,plh0206i05,2,,2 auf Skala 1-7
-soep-core,p_statistics,v38.1,plh0206i05,3,,3 auf Skala 1-7
-soep-core,p_statistics,v38.1,plh0206i05,4,,4 auf Skala 1-7
-soep-core,p_statistics,v38.1,plh0206i05,5,,5 auf Skala 1-7
-soep-core,p_statistics,v38.1,plh0206i05,6,,6 auf Skala 1-7
-soep-core,p_statistics,v38.1,plh0206i05,7,,"7 Trifft voll zu, (Skala 1-7)"
-soep-core,p_statistics,v38.1,plh0206i06,1,,"1 Trifft ueberhaupt nicht zu, (Skala 1-7)"
-soep-core,p_statistics,v38.1,plh0206i06,2,,2 auf Skala 1-7
-soep-core,p_statistics,v38.1,plh0206i06,3,,3 auf Skala 1-7
-soep-core,p_statistics,v38.1,plh0206i06,4,,4 auf Skala 1-7
-soep-core,p_statistics,v38.1,plh0206i06,5,,5 auf Skala 1-7
-soep-core,p_statistics,v38.1,plh0206i06,6,,6 auf Skala 1-7
-soep-core,p_statistics,v38.1,plh0206i06,7,,"7 Trifft voll zu, (Skala 1-7)"
-soep-core,p_statistics,v38.1,plh0244,1,,Optimistisch
-soep-core,p_statistics,v38.1,plh0244,2,,Eher optimistisch als pessimistisch
-soep-core,p_statistics,v38.1,plh0244,3,,Eher pessimistisch als optimistisch
-soep-core,p_statistics,v38.1,plh0244,4,,Pessimistisch
-soep-core,p_statistics,v38.1,plh0258_h,1,,Katholisch
-soep-core,p_statistics,v38.1,plh0258_h,2,,Evangelisch
-soep-core,p_statistics,v38.1,plh0258_h,3,,Andere christlische Religionsgemeinschaft
-soep-core,p_statistics,v38.1,plh0258_h,4,,Islamische Religionsgemeinschaft
-soep-core,p_statistics,v38.1,plh0258_h,5,,Andere Religionsgemeinschaft
-soep-core,p_statistics,v38.1,plh0258_h,6,,Konfessionslos
-soep-core,p_statistics,v38.1,plh0258_h,7,,Christlich orthodox
-soep-core,p_statistics,v38.1,plh0258_h,8,,Schiitische Rel.gemeinschaft
-soep-core,p_statistics,v38.1,plh0258_h,9,,Sunnitische Rel.gemeinschaft
-soep-core,p_statistics,v38.1,plh0258_h,10,,Alevitische Rel.gemeinschaft
-soep-core,p_statistics,v38.1,plh0258_h,11,,Mehrfachnennung
-soep-core,p_statistics,v38.1,pli0079,1,,Taeglich
-soep-core,p_statistics,v38.1,pli0079,2,,Min 1x pro Woche
-soep-core,p_statistics,v38.1,pli0079,3,,Min 1x pro Monat
-soep-core,p_statistics,v38.1,pli0079,4,,Seltener
-soep-core,p_statistics,v38.1,pli0079,5,,Nie
-soep-core,p_statistics,v38.1,pli0080,1,,Taeglich
-soep-core,p_statistics,v38.1,pli0080,2,,Min 1x pro Woche
-soep-core,p_statistics,v38.1,pli0080,3,,Min 1x pro Monat
-soep-core,p_statistics,v38.1,pli0080,4,,Seltener
-soep-core,p_statistics,v38.1,pli0080,5,,Nie
-soep-core,p_statistics,v38.1,pli0081,1,,Taeglich
-soep-core,p_statistics,v38.1,pli0081,2,,Min 1x pro Woche
-soep-core,p_statistics,v38.1,pli0081,3,,Min 1x pro Monat
-soep-core,p_statistics,v38.1,pli0081,4,,Seltener
-soep-core,p_statistics,v38.1,pli0081,5,,Nie
-soep-core,p_statistics,v38.1,pli0082,1,,Taeglich
-soep-core,p_statistics,v38.1,pli0082,2,,Min 1x pro Woche
-soep-core,p_statistics,v38.1,pli0082,3,,Min 1x pro Monat
-soep-core,p_statistics,v38.1,pli0082,4,,Seltener
-soep-core,p_statistics,v38.1,pli0082,5,,Nie
-soep-core,p_statistics,v38.1,pli0083,1,,Taeglich
-soep-core,p_statistics,v38.1,pli0083,2,,Min 1x pro Woche
-soep-core,p_statistics,v38.1,pli0083,3,,Min 1x pro Monat
-soep-core,p_statistics,v38.1,pli0083,4,,Seltener
-soep-core,p_statistics,v38.1,pli0083,5,,Nie
-soep-core,p_statistics,v38.1,pli0089,1,,Taeglich
-soep-core,p_statistics,v38.1,pli0089,2,,Min 1x pro Woche
-soep-core,p_statistics,v38.1,pli0089,3,,Min 1x pro Monat
-soep-core,p_statistics,v38.1,pli0089,4,,Seltener
-soep-core,p_statistics,v38.1,pli0089,5,,Nie
-soep-core,p_statistics,v38.1,pli0091_h,1,,Taeglich
-soep-core,p_statistics,v38.1,pli0091_h,2,,Min 1x pro Woche
-soep-core,p_statistics,v38.1,pli0091_h,3,,Min 1x pro Monat
-soep-core,p_statistics,v38.1,pli0091_h,4,,Seltener
-soep-core,p_statistics,v38.1,pli0091_h,5,,Nie
-soep-core,p_statistics,v38.1,pli0092_h,1,,Taeglich
-soep-core,p_statistics,v38.1,pli0092_h,2,,Min 1x pro Woche
-soep-core,p_statistics,v38.1,pli0092_h,3,,Min 1x pro Monat
-soep-core,p_statistics,v38.1,pli0092_h,4,,Seltener
-soep-core,p_statistics,v38.1,pli0092_h,5,,Nie
-soep-core,p_statistics,v38.1,pli0092_h,6,,"Nie, sehr selten (1984)"
-soep-core,p_statistics,v38.1,pli0092_h,7,,Gelegentlich (1984)
-soep-core,p_statistics,v38.1,pli0092_h,8,,"Haeufig,regelmaessig (1984)"
-soep-core,p_statistics,v38.1,pli0093_h,1,,Taeglich
-soep-core,p_statistics,v38.1,pli0093_h,2,,Min 1x pro Woche
-soep-core,p_statistics,v38.1,pli0093_h,3,,Min 1x pro Monat
-soep-core,p_statistics,v38.1,pli0093_h,4,,Seltener
-soep-core,p_statistics,v38.1,pli0093_h,5,,Nie
-soep-core,p_statistics,v38.1,pli0094_h,1,,Taeglich
-soep-core,p_statistics,v38.1,pli0094_h,2,,Min 1x pro Woche
-soep-core,p_statistics,v38.1,pli0094_h,3,,Min 1x pro Monat
-soep-core,p_statistics,v38.1,pli0094_h,4,,Seltener
-soep-core,p_statistics,v38.1,pli0094_h,5,,Nie
-soep-core,p_statistics,v38.1,pli0094_h,6,,"Nie, sehr selten (1984)"
-soep-core,p_statistics,v38.1,pli0094_h,7,,Gelegentlich (1984)
-soep-core,p_statistics,v38.1,pli0094_h,8,,"Haeufig,regelmaessig (1984)"
-soep-core,p_statistics,v38.1,pli0095_h,1,,Taeglich
-soep-core,p_statistics,v38.1,pli0095_h,2,,Min 1x pro Woche
-soep-core,p_statistics,v38.1,pli0095_h,3,,Min 1x pro Monat
-soep-core,p_statistics,v38.1,pli0095_h,4,,Seltener
-soep-core,p_statistics,v38.1,pli0095_h,5,,Nie
-soep-core,p_statistics,v38.1,pli0095_h,6,,"Nie, sehr selten (1984)"
-soep-core,p_statistics,v38.1,pli0095_h,7,,Gelegentlich (1984)
-soep-core,p_statistics,v38.1,pli0095_h,8,,"Haeufig,regelmaessig (1984)"
-soep-core,p_statistics,v38.1,pli0096_h,1,,Taeglich
-soep-core,p_statistics,v38.1,pli0096_h,2,,Min 1x pro Woche
-soep-core,p_statistics,v38.1,pli0096_h,3,,Min 1x pro Monat
-soep-core,p_statistics,v38.1,pli0096_h,4,,Seltener
-soep-core,p_statistics,v38.1,pli0096_h,5,,Nie
-soep-core,p_statistics,v38.1,pli0096_h,6,,"Nie, sehr selten (1984)"
-soep-core,p_statistics,v38.1,pli0096_h,7,,Gelegentlich (1984)
-soep-core,p_statistics,v38.1,pli0096_h,8,,"Haeufig,regelmaessig (1984)"
-soep-core,p_statistics,v38.1,pli0097_h,1,,Taeglich
-soep-core,p_statistics,v38.1,pli0097_h,2,,Min 1x pro Woche
-soep-core,p_statistics,v38.1,pli0097_h,3,,Min 1x pro Monat
-soep-core,p_statistics,v38.1,pli0097_h,4,,Seltener
-soep-core,p_statistics,v38.1,pli0097_h,5,,Nie
-soep-core,p_statistics,v38.1,pli0097_h,6,,"Nie, sehr selten (1984)"
-soep-core,p_statistics,v38.1,pli0097_h,7,,Gelegentlich (1984)
-soep-core,p_statistics,v38.1,pli0097_h,8,,"Haeufig,regelmaessig (1984)"
-soep-core,p_statistics,v38.1,pli0098_h,1,,Taeglich
-soep-core,p_statistics,v38.1,pli0098_h,2,,Min 1x pro Woche
-soep-core,p_statistics,v38.1,pli0098_h,3,,Min 1x pro Monat
-soep-core,p_statistics,v38.1,pli0098_h,4,,Seltener
-soep-core,p_statistics,v38.1,pli0098_h,5,,Nie
-soep-core,p_statistics,v38.1,pli0165,1,,Taeglich
-soep-core,p_statistics,v38.1,pli0165,2,,Min 1x pro Woche
-soep-core,p_statistics,v38.1,pli0165,3,,Min 1x pro Monat
-soep-core,p_statistics,v38.1,pli0165,4,,Seltener
-soep-core,p_statistics,v38.1,pli0165,5,,Nie
-soep-core,p_statistics,v38.1,plj0021_h,1,,"Ja, ganz sicher"
-soep-core,p_statistics,v38.1,plj0021_h,2,,"Ja, wahrscheinlich"
-soep-core,p_statistics,v38.1,plj0021_h,3,,Eher unwahrscheinlich
-soep-core,p_statistics,v38.1,plj0021_h,4,,Ganz sicher nicht
-soep-core,p_statistics,v38.1,plj0024_h,1,,Seit Geburt
-soep-core,p_statistics,v38.1,plj0024_h,2,,Erst spaeter
-soep-core,p_statistics,v38.1,plj0045,1,,"Ja, gerne"
-soep-core,p_statistics,v38.1,plj0045,2,,"Ja, unter Umstaenden"
-soep-core,p_statistics,v38.1,plj0045,3,,Eher nein
-soep-core,p_statistics,v38.1,plj0045,4,,Auf keinen Fall
-soep-core,p_statistics,v38.1,plj0046,1,,Grosse Sorgen
-soep-core,p_statistics,v38.1,plj0046,2,,Einige Sorgen
-soep-core,p_statistics,v38.1,plj0046,3,,Keine Sorgen
-soep-core,p_statistics,v38.1,plj0047,1,,Grosse Sorgen
-soep-core,p_statistics,v38.1,plj0047,2,,Einige Sorgen
-soep-core,p_statistics,v38.1,plj0047,3,,Keine Sorgen
-soep-core,p_statistics,v38.1,plj0078,1,,Voll und ganz
-soep-core,p_statistics,v38.1,plj0078,2,,Ueberwiegend
-soep-core,p_statistics,v38.1,plj0078,3,,In mancher Beziehung
-soep-core,p_statistics,v38.1,plj0078,4,,Kaum
-soep-core,p_statistics,v38.1,plj0078,5,,Gar nicht
-soep-core,p_statistics,v38.1,plj0089,1,,Ja
-soep-core,p_statistics,v38.1,plj0089,2,,Nein
-soep-core,p_statistics,v38.1,plj0091,1,,Deutschland
-soep-core,p_statistics,v38.1,plj0091,2,,Tuerkei
-soep-core,p_statistics,v38.1,plj0091,3,,Ex-Jugoslawien
-soep-core,p_statistics,v38.1,plj0091,4,,Griechenland
-soep-core,p_statistics,v38.1,plj0091,5,,Italien
-soep-core,p_statistics,v38.1,plj0091,6,,Spanien
-soep-core,p_statistics,v38.1,plj0091,7,,Ex-DDR
-soep-core,p_statistics,v38.1,plj0091,10,,Oesterreich
-soep-core,p_statistics,v38.1,plj0091,11,,Frankreich
-soep-core,p_statistics,v38.1,plj0091,12,,Benelux
-soep-core,p_statistics,v38.1,plj0091,13,,Daenemark
-soep-core,p_statistics,v38.1,plj0091,14,,Grossbritannien
-soep-core,p_statistics,v38.1,plj0091,15,,Schweden
-soep-core,p_statistics,v38.1,plj0091,16,,Norwegen
-soep-core,p_statistics,v38.1,plj0091,17,,Finnland
-soep-core,p_statistics,v38.1,plj0091,18,,USA
-soep-core,p_statistics,v38.1,plj0091,19,,Schweiz
-soep-core,p_statistics,v38.1,plj0091,20,,Chile
-soep-core,p_statistics,v38.1,plj0091,21,,Rumaenien
-soep-core,p_statistics,v38.1,plj0091,22,,Polen
-soep-core,p_statistics,v38.1,plj0091,23,,Korea
-soep-core,p_statistics,v38.1,plj0091,24,,Iran
-soep-core,p_statistics,v38.1,plj0091,25,,Indonesien
-soep-core,p_statistics,v38.1,plj0091,26,,Ungarn
-soep-core,p_statistics,v38.1,plj0091,27,,Bolivien
-soep-core,p_statistics,v38.1,plj0091,28,,Portugal
-soep-core,p_statistics,v38.1,plj0091,29,,Bulgarien
-soep-core,p_statistics,v38.1,plj0091,30,,Syrien
-soep-core,p_statistics,v38.1,plj0091,31,,Tschechien
-soep-core,p_statistics,v38.1,plj0091,32,,Russland
-soep-core,p_statistics,v38.1,plj0091,33,,Kurdistan
-soep-core,p_statistics,v38.1,plj0091,34,,Mexiko
-soep-core,p_statistics,v38.1,plj0091,35,,Argentinien
-soep-core,p_statistics,v38.1,plj0091,36,,Cap Verden
-soep-core,p_statistics,v38.1,plj0091,37,,Benin
-soep-core,p_statistics,v38.1,plj0091,38,,Philippinen
-soep-core,p_statistics,v38.1,plj0091,39,,Israel
-soep-core,p_statistics,v38.1,plj0091,40,,Japan
-soep-core,p_statistics,v38.1,plj0091,41,,Australien
-soep-core,p_statistics,v38.1,plj0091,42,,Indien
-soep-core,p_statistics,v38.1,plj0091,43,,Afghanistan
-soep-core,p_statistics,v38.1,plj0091,44,,Thailand
-soep-core,p_statistics,v38.1,plj0091,45,,Jamaika
-soep-core,p_statistics,v38.1,plj0091,46,,Saudi-Arabien
-soep-core,p_statistics,v38.1,plj0091,47,,Aethiopien
-soep-core,p_statistics,v38.1,plj0091,48,,Kolumbien
-soep-core,p_statistics,v38.1,plj0091,49,,Ghana
-soep-core,p_statistics,v38.1,plj0091,50,,Bangla Desh
-soep-core,p_statistics,v38.1,plj0091,51,,Venezuela
-soep-core,p_statistics,v38.1,plj0091,52,,Tunesien
-soep-core,p_statistics,v38.1,plj0091,53,,Mauritius
-soep-core,p_statistics,v38.1,plj0091,54,,Nigeria
-soep-core,p_statistics,v38.1,plj0091,55,,Kanada
-soep-core,p_statistics,v38.1,plj0091,56,,Neuseeland
-soep-core,p_statistics,v38.1,plj0091,57,,Tansania
-soep-core,p_statistics,v38.1,plj0091,58,,Zypern
-soep-core,p_statistics,v38.1,plj0091,59,,Kuba
-soep-core,p_statistics,v38.1,plj0091,60,,Irak
-soep-core,p_statistics,v38.1,plj0091,61,,Brasilien
-soep-core,p_statistics,v38.1,plj0091,62,,Monaco
-soep-core,p_statistics,v38.1,plj0091,63,,Hongkong
-soep-core,p_statistics,v38.1,plj0091,64,,Peru
-soep-core,p_statistics,v38.1,plj0091,65,,Sri Lanka
-soep-core,p_statistics,v38.1,plj0091,66,,Nepal
-soep-core,p_statistics,v38.1,plj0091,67,,Marokko
-soep-core,p_statistics,v38.1,plj0091,68,,China
-soep-core,p_statistics,v38.1,plj0091,69,,Liechtenstein
-soep-core,p_statistics,v38.1,plj0091,70,,Island
-soep-core,p_statistics,v38.1,plj0091,71,,Irland
-soep-core,p_statistics,v38.1,plj0091,72,,St. Lucia
-soep-core,p_statistics,v38.1,plj0091,73,,Moldawien
-soep-core,p_statistics,v38.1,plj0091,74,,Kasachstan
-soep-core,p_statistics,v38.1,plj0091,75,,Albanien
-soep-core,p_statistics,v38.1,plj0091,76,,Libanon
-soep-core,p_statistics,v38.1,plj0091,77,,Kirgistan
-soep-core,p_statistics,v38.1,plj0091,78,,Ukraine
-soep-core,p_statistics,v38.1,plj0091,79,,Algerien
-soep-core,p_statistics,v38.1,plj0091,80,,Mocambique
-soep-core,p_statistics,v38.1,plj0091,81,,Aegypten
-soep-core,p_statistics,v38.1,plj0091,82,,Tadschikistan
-soep-core,p_statistics,v38.1,plj0091,83,,Vietnam
-soep-core,p_statistics,v38.1,plj0091,84,,Somalia
-soep-core,p_statistics,v38.1,plj0091,85,,Pakistan
-soep-core,p_statistics,v38.1,plj0091,86,,Suedafrika
-soep-core,p_statistics,v38.1,plj0091,87,,Vereinigte Arabische Emirate
-soep-core,p_statistics,v38.1,plj0091,88,,El Salvador
-soep-core,p_statistics,v38.1,plj0091,89,,Eritrea
-soep-core,p_statistics,v38.1,plj0091,90,,Jordanien
-soep-core,p_statistics,v38.1,plj0091,91,,Turkmenistan-UdSSR (bis 1991)
-soep-core,p_statistics,v38.1,plj0091,92,,Costa Rica
-soep-core,p_statistics,v38.1,plj0091,93,,Singapur
-soep-core,p_statistics,v38.1,plj0091,94,,Burkina Faso
-soep-core,p_statistics,v38.1,plj0091,95,,Sambia
-soep-core,p_statistics,v38.1,plj0091,96,,Ecuador
-soep-core,p_statistics,v38.1,plj0091,97,,Usbekistan
-soep-core,p_statistics,v38.1,plj0091,98,,Staatenlos
-soep-core,p_statistics,v38.1,plj0091,99,,Puerto Rico
-soep-core,p_statistics,v38.1,plj0091,100,,Laos
-soep-core,p_statistics,v38.1,plj0091,101,,Estland
-soep-core,p_statistics,v38.1,plj0091,102,,Angola
-soep-core,p_statistics,v38.1,plj0091,103,,Lettland
-soep-core,p_statistics,v38.1,plj0091,104,,Malaysia
-soep-core,p_statistics,v38.1,plj0091,105,,Namibia
-soep-core,p_statistics,v38.1,plj0091,106,,Montenegro
-soep-core,p_statistics,v38.1,plj0091,107,,Belize
-soep-core,p_statistics,v38.1,plj0091,108,,Dominikanische Republik
-soep-core,p_statistics,v38.1,plj0091,109,,Nicaragua
-soep-core,p_statistics,v38.1,plj0091,110,,Kenia
-soep-core,p_statistics,v38.1,plj0091,111,,Libyen
-soep-core,p_statistics,v38.1,plj0091,112,,Malta
-soep-core,p_statistics,v38.1,plj0091,113,,Botswana
-soep-core,p_statistics,v38.1,plj0091,114,,Haiti
-soep-core,p_statistics,v38.1,plj0091,115,,"Trinidad, Tobago"
-soep-core,p_statistics,v38.1,plj0091,116,,Luxemburg
-soep-core,p_statistics,v38.1,plj0091,117,,Belgien
-soep-core,p_statistics,v38.1,plj0091,118,,Holland
-soep-core,p_statistics,v38.1,plj0091,119,,Kroatien
-soep-core,p_statistics,v38.1,plj0091,120,,Bosnien/Herzegowina
-soep-core,p_statistics,v38.1,plj0091,121,,Makedonien
-soep-core,p_statistics,v38.1,plj0091,122,,Slowenien
-soep-core,p_statistics,v38.1,plj0091,123,,Slowakei
-soep-core,p_statistics,v38.1,plj0091,124,,Paraguay
-soep-core,p_statistics,v38.1,plj0091,125,,Guinea
-soep-core,p_statistics,v38.1,plj0091,126,,Kuwait
-soep-core,p_statistics,v38.1,plj0091,127,,Elfenbeinkueste
-soep-core,p_statistics,v38.1,plj0091,128,,Malaysia
-soep-core,p_statistics,v38.1,plj0091,129,,Samoa
-soep-core,p_statistics,v38.1,plj0091,130,,Aserbaidschan
-soep-core,p_statistics,v38.1,plj0091,131,,Seychellen
-soep-core,p_statistics,v38.1,plj0091,132,,Weissrussland
-soep-core,p_statistics,v38.1,plj0091,133,,Uruguay
-soep-core,p_statistics,v38.1,plj0091,134,,Bahamas
-soep-core,p_statistics,v38.1,plj0091,135,,Uganda
-soep-core,p_statistics,v38.1,plj0091,136,,Oman
-soep-core,p_statistics,v38.1,plj0091,137,,Mikronesien
-soep-core,p_statistics,v38.1,plj0091,138,,Mali
-soep-core,p_statistics,v38.1,plj0091,139,,Kamerun
-soep-core,p_statistics,v38.1,plj0091,140,,Kosovo-Albaner
-soep-core,p_statistics,v38.1,plj0091,141,,Georgien
-soep-core,p_statistics,v38.1,plj0091,142,,Sudan
-soep-core,p_statistics,v38.1,plj0091,143,,Kongo
-soep-core,p_statistics,v38.1,plj0091,144,,Togo
-soep-core,p_statistics,v38.1,plj0091,145,,Mongolei
-soep-core,p_statistics,v38.1,plj0091,146,,Litauen
-soep-core,p_statistics,v38.1,plj0091,147,,Tschad
-soep-core,p_statistics,v38.1,plj0091,148,,Armenien
-soep-core,p_statistics,v38.1,plj0091,149,,Kurdistan
-soep-core,p_statistics,v38.1,plj0091,150,,Liberia
-soep-core,p_statistics,v38.1,plj0091,151,,Jemen
-soep-core,p_statistics,v38.1,plj0091,152,,Palaestina
-soep-core,p_statistics,v38.1,plj0091,153,,Freistaat Danzig
-soep-core,p_statistics,v38.1,plj0091,154,,Taiwan
-soep-core,p_statistics,v38.1,plj0091,155,,Turkmenistan
-soep-core,p_statistics,v38.1,plj0091,156,,Afrika
-soep-core,p_statistics,v38.1,plj0091,157,,Guatemala
-soep-core,p_statistics,v38.1,plj0091,158,,Sierra Leone(Westafrika)
-soep-core,p_statistics,v38.1,plj0091,159,,Panama
-soep-core,p_statistics,v38.1,plj0091,160,,Osttimor
-soep-core,p_statistics,v38.1,plj0091,161,,Bahrain
-soep-core,p_statistics,v38.1,plj0091,162,,Senegal
-soep-core,p_statistics,v38.1,plj0091,163,,Malediven
-soep-core,p_statistics,v38.1,plj0091,164,,Hawaii
-soep-core,p_statistics,v38.1,plj0091,165,,Serbien
-soep-core,p_statistics,v38.1,plj0091,166,,Gambia
-soep-core,p_statistics,v38.1,plj0091,167,,Honduras
-soep-core,p_statistics,v38.1,plj0091,168,,Montenegro
-soep-core,p_statistics,v38.1,plj0091,169,,Kambodscha
-soep-core,p_statistics,v38.1,plj0091,170,,Surinam
-soep-core,p_statistics,v38.1,plj0091,171,,Guyana
-soep-core,p_statistics,v38.1,plj0091,172,,Kaukasus
-soep-core,p_statistics,v38.1,plj0091,173,,Simbabwe
-soep-core,p_statistics,v38.1,plj0091,174,,Madagaskar
-soep-core,p_statistics,v38.1,plj0091,175,,Grenada
-soep-core,p_statistics,v38.1,plj0091,176,,Lesotho
-soep-core,p_statistics,v38.1,plj0091,177,,Bhutan
-soep-core,p_statistics,v38.1,plj0091,178,,Ruanda
-soep-core,p_statistics,v38.1,plj0091,179,,Malawi
-soep-core,p_statistics,v38.1,plj0091,180,,Bessarabien
-soep-core,p_statistics,v38.1,plj0091,181,,Myanmar
-soep-core,p_statistics,v38.1,plj0091,182,,Fidschi
-soep-core,p_statistics,v38.1,plj0091,188,,Tschetschenien
-soep-core,p_statistics,v38.1,plj0091,190,,Dschibuti
-soep-core,p_statistics,v38.1,plj0091,193,,Qatar
-soep-core,p_statistics,v38.1,plj0091,196,,Kosovo
-soep-core,p_statistics,v38.1,plj0091,998,,Anderes Land und zwar:
-soep-core,p_statistics,v38.1,plj0092,1,,Ja
-soep-core,p_statistics,v38.1,plj0092,2,,Nein
-soep-core,p_statistics,v38.1,plj0104,1,,Ja
-soep-core,p_statistics,v38.1,plj0104,2,,Nein
-soep-core,p_statistics,v38.1,plj0175,1,,Ja
-soep-core,p_statistics,v38.1,plj0175,2,,Nein
-soep-core,p_statistics,v38.1,plj0587,1,,Sehr oft
-soep-core,p_statistics,v38.1,plj0587,2,,Oft
-soep-core,p_statistics,v38.1,plj0587,3,,Manchmal
-soep-core,p_statistics,v38.1,plj0587,4,,Selten
-soep-core,p_statistics,v38.1,plj0587,5,,Nie
-soep-core,p_statistics,v38.1,plj0588,1,,Sehr oft
-soep-core,p_statistics,v38.1,plj0588,2,,Oft
-soep-core,p_statistics,v38.1,plj0588,3,,Manchmal
-soep-core,p_statistics,v38.1,plj0588,4,,Selten
-soep-core,p_statistics,v38.1,plj0588,5,,Nie
-soep-core,p_statistics,v38.1,plj0589,1,,Sehr oft
-soep-core,p_statistics,v38.1,plj0589,2,,Oft
-soep-core,p_statistics,v38.1,plj0589,3,,Manchmal
-soep-core,p_statistics,v38.1,plj0589,4,,Selten
-soep-core,p_statistics,v38.1,plj0589,5,,Nie
-soep-core,p_statistics,v38.1,quintil_oecd,1,1st Quintile,1. Quintil
-soep-core,p_statistics,v38.1,quintil_oecd,2,2nd Quintile,2. Quintil
-soep-core,p_statistics,v38.1,quintil_oecd,3,3rd Quintile,3. Quintil
-soep-core,p_statistics,v38.1,quintil_oecd,4,4th Quintile,4. Quintil
-soep-core,p_statistics,v38.1,quintil_oecd,5,5th Quintile,5. Quintil
-soep-core,p_statistics,v38.1,region_origin,0,Germany,Germany
-soep-core,p_statistics,v38.1,region_origin,15,Northern Africa,Northern Africa
-soep-core,p_statistics,v38.1,region_origin,21,Northern America,Northern America
-soep-core,p_statistics,v38.1,region_origin,30,Eastern Asia,Eastern Asia
-soep-core,p_statistics,v38.1,region_origin,34,Southern Asia,Southern Asia
-soep-core,p_statistics,v38.1,region_origin,35,South-Eastern Asia,South-Eastern Asia
-soep-core,p_statistics,v38.1,region_origin,39,Southern Europe,Southern Europe
-soep-core,p_statistics,v38.1,region_origin,53,Australia and New Zealand,Australia and New Zealand
-soep-core,p_statistics,v38.1,region_origin,61,Polynesia,Polynesia
-soep-core,p_statistics,v38.1,region_origin,143,Central Asia,Central Asia
-soep-core,p_statistics,v38.1,region_origin,145,Western Asia,Western Asia
-soep-core,p_statistics,v38.1,region_origin,151,Eastern Europe,Eastern Europe
-soep-core,p_statistics,v38.1,region_origin,154,Northern Europe,Northern Europe
-soep-core,p_statistics,v38.1,region_origin,155,Western Europe,Western Europe
-soep-core,p_statistics,v38.1,region_origin,202,Sub-Saharan Africa,Sub-Saharan Africa
-soep-core,p_statistics,v38.1,region_origin,419,Latin America and the Caribbean,Latin America and the Caribbean
-soep-core,p_statistics,v38.1,region_secnat,0,,Germany
-soep-core,p_statistics,v38.1,region_secnat,15,,Northern Africa
-soep-core,p_statistics,v38.1,region_secnat,21,,Northern America
-soep-core,p_statistics,v38.1,region_secnat,30,,Eastern Asia
-soep-core,p_statistics,v38.1,region_secnat,34,,Southern Asia
-soep-core,p_statistics,v38.1,region_secnat,35,,South-Eastern Asia
-soep-core,p_statistics,v38.1,region_secnat,39,,Southern Europe
-soep-core,p_statistics,v38.1,region_secnat,53,,Australia and New Zealand
-soep-core,p_statistics,v38.1,region_secnat,61,,Polynesia
-soep-core,p_statistics,v38.1,region_secnat,143,,Central Asia
-soep-core,p_statistics,v38.1,region_secnat,145,,Western Asia
-soep-core,p_statistics,v38.1,region_secnat,151,,Eastern Europe
-soep-core,p_statistics,v38.1,region_secnat,154,,Northern Europe
-soep-core,p_statistics,v38.1,region_secnat,155,,Western Europe
-soep-core,p_statistics,v38.1,region_secnat,202,,Sub-Saharan Africa
-soep-core,p_statistics,v38.1,region_secnat,419,,Latin America and the Caribbean
-soep-core,p_statistics,v38.1,region_secnat,9999,,Sonstige
-soep-core,p_statistics,v38.1,regtyp,1,,Staedtischer Raum
-soep-core,p_statistics,v38.1,regtyp,2,,Laendlicher Raum
-soep-core,p_statistics,v38.1,sampreg,1,,"Westdeutschland, alte Bundeslaender"
-soep-core,p_statistics,v38.1,sampreg,2,,"Ostdeutschland, neue Bundeslaender"
-soep-core,p_statistics,v38.1,sex,1,,maennlich
-soep-core,p_statistics,v38.1,sex,2,,weiblich
-soep-core,p_statistics,v38.1,train,1,,Ja
-soep-core,p_statistics,v38.1,train,2,,Nein
-soep-core,h_statistics,v38.1,bula_h,1,Schleswig-Holstein,Schleswig-Holstein
-soep-core,h_statistics,v38.1,bula_h,2,Hamburg,Hamburg
-soep-core,h_statistics,v38.1,bula_h,3,Lower Saxony,Niedersachsen
-soep-core,h_statistics,v38.1,bula_h,4,Bremen,Bremen
-soep-core,h_statistics,v38.1,bula_h,5,North Rhine-Westphalia,Nordrhein-Westfalen
-soep-core,h_statistics,v38.1,bula_h,6,Hesse,Hessen
-soep-core,h_statistics,v38.1,bula_h,7,"Rhineland-Palatinate, Saarland","Rheinland-Pfalz,Saarland"
-soep-core,h_statistics,v38.1,bula_h,8,Baden-Wuerttemberg,Baden-Wuerttemberg
-soep-core,h_statistics,v38.1,bula_h,9,Bavaria,Bayern
-soep-core,h_statistics,v38.1,bula_h,10,,Saarland
-soep-core,h_statistics,v38.1,bula_h,11,Berlin,Berlin
-soep-core,h_statistics,v38.1,bula_h,12,Brandenburg,Brandenburg
-soep-core,h_statistics,v38.1,bula_h,13,Mecklenburg-Western Pomerania,Mecklenburg-Vorpommern
-soep-core,h_statistics,v38.1,bula_h,14,Saxony,Sachsen
-soep-core,h_statistics,v38.1,bula_h,15,Saxony-Anhalt,Sachsen-Anhalt
-soep-core,h_statistics,v38.1,bula_h,16,Thuringa,Thueringen
-soep-core,h_statistics,v38.1,hgeqpgar,1,,Ja
-soep-core,h_statistics,v38.1,hgeqpgar,2,,Nein
-soep-core,h_statistics,v38.1,hgeqpinsul,1,,Ja
-soep-core,h_statistics,v38.1,hgeqpinsul,2,,Nein
-soep-core,h_statistics,v38.1,hgeqpmglass,1,,Ja
-soep-core,h_statistics,v38.1,hgeqpmglass,2,,Nein
-soep-core,h_statistics,v38.1,hgeqpnrj,1,,Ja
-soep-core,h_statistics,v38.1,hgeqpnrj,2,,Nein
-soep-core,h_statistics,v38.1,hgeqpsol,1,,Ja
-soep-core,h_statistics,v38.1,hgeqpsol,2,,Nein
-soep-core,h_statistics,v38.1,hgeqpter,1,,Ja
-soep-core,h_statistics,v38.1,hgeqpter,2,,Nein
-soep-core,h_statistics,v38.1,hgreval,1,,Sehr guenstig
-soep-core,h_statistics,v38.1,hgreval,2,,Guenstig
-soep-core,h_statistics,v38.1,hgreval,3,,Angemessen
-soep-core,h_statistics,v38.1,hgreval,4,,Etwas zu hoch
-soep-core,h_statistics,v38.1,hgreval,5,,Viel zu hoch
-soep-core,h_statistics,v38.1,hgroom,1,,1 room
-soep-core,h_statistics,v38.1,hgroom,2,,2 rooms
-soep-core,h_statistics,v38.1,hgroom,3,,3 rooms
-soep-core,h_statistics,v38.1,hgroom,4,,4 rooms
-soep-core,h_statistics,v38.1,hgroom,5,,5 rooms
-soep-core,h_statistics,v38.1,hgroom,6,,6 rooms
-soep-core,h_statistics,v38.1,hgroom,7,,7 rooms
-soep-core,h_statistics,v38.1,hgroom,8,,8 rooms
-soep-core,h_statistics,v38.1,hgroom,9,,9 rooms
-soep-core,h_statistics,v38.1,hgroom,10,,10 or more rooms
-soep-core,h_statistics,v38.1,hgseval,1,,Viel zu klein
-soep-core,h_statistics,v38.1,hgseval,2,,Etwas zu klein
-soep-core,h_statistics,v38.1,hgseval,3,,Gerade richtig
-soep-core,h_statistics,v38.1,hgseval,4,,Etwas zu gross
-soep-core,h_statistics,v38.1,hgseval,5,,Viel zu gross
-soep-core,h_statistics,v38.1,hhgr,0,,Aufgeloeste/n.bearbeitete Haushalte
-soep-core,h_statistics,v38.1,hhtyp,1,,Single-person household
-soep-core,h_statistics,v38.1,hhtyp,2,,Couple without children
-soep-core,h_statistics,v38.1,hhtyp,3,,Single parent
-soep-core,h_statistics,v38.1,hhtyp,4,,Couple with children
-soep-core,h_statistics,v38.1,hhtyp,5,,Multi-generational household
-soep-core,h_statistics,v38.1,hhtyp,6,,Other Combinations
-soep-core,h_statistics,v38.1,hlc0052,1,,Ja
-soep-core,h_statistics,v38.1,hlc0052,2,,Nein
-soep-core,h_statistics,v38.1,hlc0061_h,1,Yes,Yes
-soep-core,h_statistics,v38.1,hlc0061_h,2,No,No
-soep-core,h_statistics,v38.1,hlc0080_h,1,Yes,Yes
-soep-core,h_statistics,v38.1,hlc0080_h,2,No,No
-soep-core,h_statistics,v38.1,hlc0083_h,1,Yes,Yes
-soep-core,h_statistics,v38.1,hlc0083_h,2,No,No
-soep-core,h_statistics,v38.1,hlc0119_h,1,Yes,Yes
-soep-core,h_statistics,v38.1,hlc0119_h,2,No,No
-soep-core,h_statistics,v38.1,hlc0178,1,Yes,Yes
-soep-core,h_statistics,v38.1,hlc0178,2,No,No
-soep-core,h_statistics,v38.1,hlc0180,1,,ja
-soep-core,h_statistics,v38.1,hlc0180,2,,nein
-soep-core,h_statistics,v38.1,hlc0182,1,Yes,Yes
-soep-core,h_statistics,v38.1,hlc0182,2,No,No
-soep-core,h_statistics,v38.1,hlf0151,1,,Sehr sicher
-soep-core,h_statistics,v38.1,hlf0151,2,,Ziemlich sicher
-soep-core,h_statistics,v38.1,hlf0151,3,,Ziemlich unsicher
-soep-core,h_statistics,v38.1,hlf0151,4,,Sehr unsicher
-soep-core,h_statistics,v38.1,hlf0178_h,1,Yes,Yes
-soep-core,h_statistics,v38.1,hlf0178_h,2,No,No
-soep-core,h_statistics,v38.1,hlf0180,1,,Ja
-soep-core,h_statistics,v38.1,hlf0180,2,,Nein
-soep-core,h_statistics,v38.1,hlf0186,1,,Ja
-soep-core,h_statistics,v38.1,hlf0186,2,,Nein
-soep-core,h_statistics,v38.1,hlf0188,1,,Ja
-soep-core,h_statistics,v38.1,hlf0188,2,,Nein
-soep-core,h_statistics,v38.1,hlf0192,1,,Ja
-soep-core,h_statistics,v38.1,hlf0192,2,,Nein
-soep-core,h_statistics,v38.1,hlf0196,1,,Ja
-soep-core,h_statistics,v38.1,hlf0196,2,,Nein
-soep-core,h_statistics,v38.1,hlf0197,1,,Fewer than 10 books
-soep-core,h_statistics,v38.1,hlf0197,2,,10 to fewer than 50 books
-soep-core,h_statistics,v38.1,hlf0197,3,,50 to fewer than 100 books
-soep-core,h_statistics,v38.1,hlf0197,4,,100 to fewer than 200 books
-soep-core,h_statistics,v38.1,hlf0197,5,,200 to fewer than 500 books
-soep-core,h_statistics,v38.1,hlf0197,6,,500 to fewer than 1000 books
-soep-core,h_statistics,v38.1,hlf0197,7,,1000 books or more
-soep-core,h_statistics,v38.1,hlf0254,1,,Ja
-soep-core,h_statistics,v38.1,hlf0254,2,,Nein
-soep-core,h_statistics,v38.1,hlf0255,1,,Ja
-soep-core,h_statistics,v38.1,hlf0255,2,,Nein
-soep-core,h_statistics,v38.1,hlf0256,1,,Ja
-soep-core,h_statistics,v38.1,hlf0256,2,,Nein
-soep-core,h_statistics,v38.1,hlf0257,1,,Ja
-soep-core,h_statistics,v38.1,hlf0257,2,,Nein
-soep-core,h_statistics,v38.1,hlf0258,1,,Ja
-soep-core,h_statistics,v38.1,hlf0258,2,,Nein
-soep-core,h_statistics,v38.1,hlf0261,1,,"Ja, regelmaessig"
-soep-core,h_statistics,v38.1,hlf0261,2,,"Ja, gelegentlich"
-soep-core,h_statistics,v38.1,hlf0261,3,,Nein
-soep-core,h_statistics,v38.1,hlf0291,1,,Ja
-soep-core,h_statistics,v38.1,hlf0291,2,,Nein
-soep-core,h_statistics,v38.1,hlf0613,1,Yes,Yes
-soep-core,h_statistics,v38.1,hlf0613,2,No,No
-soep-core,h_statistics,v38.1,hlf0626,1,,Ja
-soep-core,h_statistics,v38.1,hlf0626,2,,Nein
-soep-core,h_statistics,v38.1,hlf0627,1,,Ja
-soep-core,h_statistics,v38.1,hlf0627,2,,Nein
-soep-core,h_statistics,v38.1,hlf0632_v1,0,,Ueberhaupt kein Problem
-soep-core,h_statistics,v38.1,hlf0632_v1,10,,Sehr hohe finanzielle Belastung
-soep-core,h_statistics,v38.1,hlf0633_v1,0,,Ueberhaupt kein Problem
-soep-core,h_statistics,v38.1,hlf0633_v1,10,,Sehr hohe finanzielle Belastung
-soep-core,h_statistics,v38.1,petyn,1,,Yes
-soep-core,h_statistics,v38.1,petyn,2,,No
-soep-core,h_statistics,v38.1,regtyp,1,,Urban regions
-soep-core,h_statistics,v38.1,regtyp,2,,Rural regions
-soep-core,h_statistics,v38.1,rentown,1,,Owner
-soep-core,h_statistics,v38.1,rentown,2,,Tenant
-soep-core,h_statistics,v38.1,sampreg,1,,West
-soep-core,h_statistics,v38.1,sampreg,2,,East
+study,dataset,version,variable,value,label,label_de,_merge
+soep-core,p_statistics,v38.1,age_gr,1,18-29 y.,18-29 J.,Matched (3)
+soep-core,p_statistics,v38.1,age_gr,2,30-45 y.,30-45 J.,Matched (3)
+soep-core,p_statistics,v38.1,age_gr,3,46-65 y.,46-65 J.,Matched (3)
+soep-core,p_statistics,v38.1,age_gr,4,66 and older,66 und älter,Matched (3)
+soep-core,p_statistics,v38.1,bula_h,1,Schleswig-Holstein,Schleswig-Holstein,Matched (3)
+soep-core,p_statistics,v38.1,bula_h,2,Hamburg,Hamburg,Matched (3)
+soep-core,p_statistics,v38.1,bula_h,3,Lower Saxony,Niedersachsen,Matched (3)
+soep-core,p_statistics,v38.1,bula_h,4,Bremen,Bremen,Matched (3)
+soep-core,p_statistics,v38.1,bula_h,5,North Rhine-Westphalia,Nordrhein-Westfalen,Matched (3)
+soep-core,p_statistics,v38.1,bula_h,6,Hesse,Hessen,Matched (3)
+soep-core,p_statistics,v38.1,bula_h,7,"Rhineland-Palatinate, Saarland","Rheinland-Pfalz,Saarland",Matched (3)
+soep-core,p_statistics,v38.1,bula_h,8,Baden-Wuerttemberg,Baden-Württemberg,Matched (3)
+soep-core,p_statistics,v38.1,bula_h,9,Bavaria,Bayern,Matched (3)
+soep-core,p_statistics,v38.1,bula_h,11,Berlin,Berlin,Matched (3)
+soep-core,p_statistics,v38.1,bula_h,12,Brandenburg,Brandenburg,Matched (3)
+soep-core,p_statistics,v38.1,bula_h,13,Mecklenburg-Western Pomerania,Mecklenburg-Vorpommern,Matched (3)
+soep-core,p_statistics,v38.1,bula_h,14,Saxony,Sachsen,Matched (3)
+soep-core,p_statistics,v38.1,bula_h,15,Saxony-Anhalt,Sachsen-Anhalt,Matched (3)
+soep-core,p_statistics,v38.1,bula_h,16,Thuringa,Thüringen,Matched (3)
+soep-core,p_statistics,v38.1,chronill,1,Yes,Ja,Matched (3)
+soep-core,p_statistics,v38.1,chronill,2,No,Nein,Matched (3)
+soep-core,p_statistics,v38.1,e11103,1,Full Time,Vollzeit,Matched (3)
+soep-core,p_statistics,v38.1,e11103,2,Part Time,Teilzeit,Matched (3)
+soep-core,p_statistics,v38.1,e11103,3,Not Working,Nicht in Arbeit,Matched (3)
+soep-core,p_statistics,v38.1,germborn,1,,in Deutschland geboren oder immigr.<1950,Master only (1)
+soep-core,p_statistics,v38.1,germborn,2,,nicht in Deutschland geboren,Master only (1)
+soep-core,p_statistics,v38.1,m11124,0,Not Disabled,Keine Behinderung,Matched (3)
+soep-core,p_statistics,v38.1,m11124,1,Disabled,Behinderung,Matched (3)
+soep-core,p_statistics,v38.1,m11125,0,Completely dissatisfied,Completely dissatisfied,Matched (3)
+soep-core,p_statistics,v38.1,m11125,10,Completely satisfied,Completely satisfied,Matched (3)
+soep-core,p_statistics,v38.1,m11126,1,Very good,Sehr gut,Matched (3)
+soep-core,p_statistics,v38.1,m11126,2,Good,Gut,Matched (3)
+soep-core,p_statistics,v38.1,m11126,3,Satisfactory,Zufriedenstellend,Matched (3)
+soep-core,p_statistics,v38.1,m11126,4,Poor,Weniger gut,Matched (3)
+soep-core,p_statistics,v38.1,m11126,5,Bad,Schlecht,Matched (3)
+soep-core,p_statistics,v38.1,migback,1,No migration background,kein Migrationshintergrund,Matched (3)
+soep-core,p_statistics,v38.1,migback,2,Direct migration background,direkter Migrationshintergrund,Matched (3)
+soep-core,p_statistics,v38.1,migback,3,Indirect migration background,indirekter Migrationshintergrund,Matched (3)
+soep-core,p_statistics,v38.1,occpos,1,Self-employed,Selbständige,Matched (3)
+soep-core,p_statistics,v38.1,occpos,2,Blue-collar worker,Arbeiter*innen,Matched (3)
+soep-core,p_statistics,v38.1,occpos,3,Civil servant,Beamte,Matched (3)
+soep-core,p_statistics,v38.1,occpos,4,White-collar worker,Angestellte,Matched (3)
+soep-core,p_statistics,v38.1,occpos,5,Apprentice/ Trainee/ Intern,Auszubildende/ Praktikant*innen,Matched (3)
+soep-core,p_statistics,v38.1,occpos,6,Not employed: Pensioner,Nicht erwerbstätig: Rentner*innen,Matched (3)
+soep-core,p_statistics,v38.1,occpos,7,Not employed: Military/Community Service,Nicht erwerbstätig: Wehr-/Zivildienst,Matched (3)
+soep-core,p_statistics,v38.1,occpos,8,Not employed: registered unemployed,Nicht erwerbstätig: arbeitslos gemeldet,Matched (3)
+soep-core,p_statistics,v38.1,occpos,9,Not employed: no further information,Nicht erwerbstätig: keine weitere Angaben,Matched (3)
+soep-core,p_statistics,v38.1,overyn,1,Yes,Ja,Matched (3)
+soep-core,p_statistics,v38.1,overyn,2,No,Nein,Matched (3)
+soep-core,p_statistics,v38.1,party,0,Not leaning towards specific party,keine Parteineigung,Matched (3)
+soep-core,p_statistics,v38.1,party,1,SPD,SPD,Matched (3)
+soep-core,p_statistics,v38.1,party,2,CDU/CSU,CDU/CSU,Matched (3)
+soep-core,p_statistics,v38.1,party,3,FDP,FDP,Matched (3)
+soep-core,p_statistics,v38.1,party,4,Bündnis90/Grüne,Bündnis90/Grüne,Matched (3)
+soep-core,p_statistics,v38.1,party,5,PDS/Linke,PDS/Linke,Matched (3)
+soep-core,p_statistics,v38.1,party,6,Far right parties,Rechtsextrem,Matched (3)
+soep-core,p_statistics,v38.1,party,7,AfD,AfD,Matched (3)
+soep-core,p_statistics,v38.1,party,8,Others,Sonstige,Matched (3)
+soep-core,p_statistics,v38.1,party,9,Party combinations,Partei-Kombinationen,Matched (3)
+soep-core,p_statistics,v38.1,pgcasmin,0,(0) No qualification (yet),(0) In der Schule,Matched (3)
+soep-core,p_statistics,v38.1,pgcasmin,1,(1a) Inadequately completed,(1a) Ohne Abschluss,Matched (3)
+soep-core,p_statistics,v38.1,pgcasmin,2,(1b) General Elementary School,(1b) Haupt-/Volksschulabschluss,Matched (3)
+soep-core,p_statistics,v38.1,pgcasmin,3,(1c) Basic Vocational Qualification,(1c) Haupt-/Volksschulabschluss mit Lehrausbildung,Matched (3)
+soep-core,p_statistics,v38.1,pgcasmin,5,(2) Intermediate General/Vocational Qualification,(2) Mittlere Reife,Matched (3)
+soep-core,p_statistics,v38.1,pgcasmin,6,(2c_gen) General Maturity Certificate,(2c_gen) (Fach-)Hochschulreife,Matched (3)
+soep-core,p_statistics,v38.1,pgcasmin,7,(2c_voc) Vocational Maturity Certificate,(2c_voc) (Fach-)Hochschulreife mit Lehrausbildung,Matched (3)
+soep-core,p_statistics,v38.1,pgcasmin,8,(3a) Lower Tertiary Education,(3a) Niedrige Tertiärbildung,Matched (3)
+soep-core,p_statistics,v38.1,pgcasmin,9,(3b) Higher Tertiary Education,(3b) Hohe Tertiärbildung,Matched (3)
+soep-core,p_statistics,v38.1,pgemplst,1,Full-Time Employment,Voll erwerbstätig,Matched (3)
+soep-core,p_statistics,v38.1,pgemplst,2,Regular Part-Time Employment,Teilzeitbeschäftigung,Matched (3)
+soep-core,p_statistics,v38.1,pgemplst,3,Vocational Training,"Ausbildung, Lehre",Matched (3)
+soep-core,p_statistics,v38.1,pgemplst,4,"Marginal, Irregular Part-Time Employment","Unregelmässig, geringfügig erwerbstät.",Matched (3)
+soep-core,p_statistics,v38.1,pgemplst,5,Not Employed,Nicht erwerbstätig,Matched (3)
+soep-core,p_statistics,v38.1,pgemplst,6,Sheltered workshop (since 1998),Werkstatt für behinderte Menschen (seit 1998),Matched (3)
+soep-core,p_statistics,v38.1,pgemplst,7,In short-time work (since 2021),in Kurzarbeit (seit 2021),Matched (3)
+soep-core,p_statistics,v38.1,pgfamstd,1,Married,Verheiratet,Matched (3)
+soep-core,p_statistics,v38.1,pgfamstd,2,"Married, living apart","Verheiratet, getrennt lebend",Matched (3)
+soep-core,p_statistics,v38.1,pgfamstd,3,Single,Ledig,Matched (3)
+soep-core,p_statistics,v38.1,pgfamstd,4,Divorced,Geschieden,Matched (3)
+soep-core,p_statistics,v38.1,pgfamstd,5,Widowed,Verwitwet,Matched (3)
+soep-core,p_statistics,v38.1,pgisced97,0,in school,in school,Matched (3)
+soep-core,p_statistics,v38.1,pgisced97,1,inadequately,inadequately,Matched (3)
+soep-core,p_statistics,v38.1,pgisced97,2,general elementary,general elemantary,Matched (3)
+soep-core,p_statistics,v38.1,pgisced97,3,middle vocational,middle vocational,Matched (3)
+soep-core,p_statistics,v38.1,pgisced97,4,vocational + Abi,vocational + Abi,Matched (3)
+soep-core,p_statistics,v38.1,pgisced97,5,higher vocational,higher vocational,Matched (3)
+soep-core,p_statistics,v38.1,pgisced97,6,higher education,higher education,Matched (3)
+soep-core,p_statistics,v38.1,pgpsbil,1,Secondary School Degree,Hauptschulabschluss,Matched (3)
+soep-core,p_statistics,v38.1,pgpsbil,2,Intermediate School Degree,Realschulabschluss,Matched (3)
+soep-core,p_statistics,v38.1,pgpsbil,3,Technical School Degree,Fachhochschulreife,Matched (3)
+soep-core,p_statistics,v38.1,pgpsbil,4,Upper Secondary Degree,Abitur,Matched (3)
+soep-core,p_statistics,v38.1,pgpsbil,5,Other Degree,Anderer Abschluss,Matched (3)
+soep-core,p_statistics,v38.1,pgpsbil,6,"Dropout, No School Degree",Ohne Abschluss verlassen,Matched (3)
+soep-core,p_statistics,v38.1,pgpsbil,7,No School Degree Yet,Noch kein Abschluss,Matched (3)
+soep-core,p_statistics,v38.1,pgpsbil,8,No School Attended,Keine Schule besucht,Matched (3)
+soep-core,p_statistics,v38.1,plb0021,1,Ja,Ja,Matched (3)
+soep-core,p_statistics,v38.1,plb0021,2,Nein,Nein,Matched (3)
+soep-core,p_statistics,v38.1,plb0037_h,1,Permanent job,Unbefristet,Matched (3)
+soep-core,p_statistics,v38.1,plb0037_h,2,Temporary job,Befristet,Matched (3)
+soep-core,p_statistics,v38.1,plb0050,1,Yes,Ja,Matched (3)
+soep-core,p_statistics,v38.1,plb0050,2,No,Nein,Matched (3)
+soep-core,p_statistics,v38.1,plb0111,1,Earn money,Geld verdienen,Matched (3)
+soep-core,p_statistics,v38.1,plb0111,2,Other reasons,Andere Gruende,Matched (3)
+soep-core,p_statistics,v38.1,plb0111,3,Both equally,Beides gleichermassen,Matched (3)
+soep-core,p_statistics,v38.1,plb0195_h,1,Comp. time,Abgefeiert,Matched (3)
+soep-core,p_statistics,v38.1,plb0195_h,2,Some of both,"Teils, teils",Matched (3)
+soep-core,p_statistics,v38.1,plb0195_h,3,Paid,Bezahlt,Matched (3)
+soep-core,p_statistics,v38.1,plb0195_h,4,Not compensated,Nicht abgegolten,Matched (3)
+soep-core,p_statistics,v38.1,plb0196_h,1,Yes,Ja,Matched (3)
+soep-core,p_statistics,v38.1,plb0196_h,2,No,Nein,Matched (3)
+soep-core,p_statistics,v38.1,plb0218_v1,1,"No, never","Nein, nie",Matched (3)
+soep-core,p_statistics,v38.1,plb0218_v1,2,"Yes, every week","Ja, jede Woche",Matched (3)
+soep-core,p_statistics,v38.1,plb0218_v1,3,"Yes, every 2 weeks","Ja, alle 2 Wochen",Matched (3)
+soep-core,p_statistics,v38.1,plb0218_v1,4,"Yes, every 3-4 weeks","Ja, alle 3-4 Wochen",Matched (3)
+soep-core,p_statistics,v38.1,plb0218_v1,5,"Yes, less frequently",Seltener,Matched (3)
+soep-core,p_statistics,v38.1,plb0219_v1,1,"No, never","Nein, nie",Matched (3)
+soep-core,p_statistics,v38.1,plb0219_v1,2,"Yes, every week","Ja, jede Woche",Matched (3)
+soep-core,p_statistics,v38.1,plb0219_v1,3,"Yes, every 2 weeks","Ja, alle 2 Wochen",Matched (3)
+soep-core,p_statistics,v38.1,plb0219_v1,4,"Yes, every 3-4 weeks","Ja, alle 3-4 Wochen",Matched (3)
+soep-core,p_statistics,v38.1,plb0219_v1,5,"Yes, less frequently",Seltener,Matched (3)
+soep-core,p_statistics,v38.1,plb0240,1,Full-time,An Vollzeitbeschaeftigung,Matched (3)
+soep-core,p_statistics,v38.1,plb0240,2,Part-time,An Teilzeitbeschaeftigung,Matched (3)
+soep-core,p_statistics,v38.1,plb0240,3,Either,Beides recht,Matched (3)
+soep-core,p_statistics,v38.1,plb0240,4,I'm not sure yet,Weiss noch nicht,Matched (3)
+soep-core,p_statistics,v38.1,plb0417_v2,1,"No, definitely not",Nein ganz sicher nicht,Matched (3)
+soep-core,p_statistics,v38.1,plb0417_v2,2,Probably not,Eher unwahrscheinlich,Matched (3)
+soep-core,p_statistics,v38.1,plb0417_v2,3,Probably,Wahrscheinlich,Matched (3)
+soep-core,p_statistics,v38.1,plb0417_v2,4,"Yes, definitely",Ganz sicher,Matched (3)
+soep-core,p_statistics,v38.1,plb0418,1,As soon as possible,Moeglichst sofort,Matched (3)
+soep-core,p_statistics,v38.1,plb0418,2,Next year,Innerhalb d.kommenden Jahres,Matched (3)
+soep-core,p_statistics,v38.1,plb0418,3,In the next 2 to 5 years,In 2 bis 5 Jahren,Matched (3)
+soep-core,p_statistics,v38.1,plb0418,4,"In the distant future, in more than five years",In mehr als 5 Jahren,Matched (3)
+soep-core,p_statistics,v38.1,plb0419_h,1,Easy,Leicht,Matched (3)
+soep-core,p_statistics,v38.1,plb0419_h,2,Difficult,Schwierig,Matched (3)
+soep-core,p_statistics,v38.1,plb0419_h,3,Almost impossible,Prakt. unmoeglich,Matched (3)
+soep-core,p_statistics,v38.1,plb0426,1,In my current field/ field I was trained in,Im bisherigen/erlernten Beruf,Matched (3)
+soep-core,p_statistics,v38.1,plb0426,2,Do something new,Etwas Neues machen,Matched (3)
+soep-core,p_statistics,v38.1,plb0426,3,Does not matter,Egal,Matched (3)
+soep-core,p_statistics,v38.1,plb0426,4,Does not apply/do not (yet) have a job,"T.n.z., noch k.Beruf erlernt",Matched (3)
+soep-core,p_statistics,v38.1,pld0043,1,Very often,Sehr oft,Matched (3)
+soep-core,p_statistics,v38.1,pld0043,2,Often,Oft,Matched (3)
+soep-core,p_statistics,v38.1,pld0043,3,Sometimes,Manchmal,Matched (3)
+soep-core,p_statistics,v38.1,pld0043,4,Seldom,Selten,Matched (3)
+soep-core,p_statistics,v38.1,pld0043,5,Never,Nie,Matched (3)
+soep-core,p_statistics,v38.1,pld0044,1,Very often,Sehr oft,Matched (3)
+soep-core,p_statistics,v38.1,pld0044,2,Often,Oft,Matched (3)
+soep-core,p_statistics,v38.1,pld0044,3,Sometimes,Manchmal,Matched (3)
+soep-core,p_statistics,v38.1,pld0044,4,Seldom,Selten,Matched (3)
+soep-core,p_statistics,v38.1,pld0044,5,Never,Nie,Matched (3)
+soep-core,p_statistics,v38.1,pld0045,1,Very often,Sehr oft,Matched (3)
+soep-core,p_statistics,v38.1,pld0045,2,Often,Oft,Matched (3)
+soep-core,p_statistics,v38.1,pld0045,3,Sometimes,Manchmal,Matched (3)
+soep-core,p_statistics,v38.1,pld0045,4,Seldom,Selten,Matched (3)
+soep-core,p_statistics,v38.1,pld0045,5,Never,Nie,Matched (3)
+soep-core,p_statistics,v38.1,pld0298_h,1,Heterosexual,Heterosexuell,Matched (3)
+soep-core,p_statistics,v38.1,pld0298_h,2,Homosexual,Homosexuell,Matched (3)
+soep-core,p_statistics,v38.1,pld0298_h,3,Bisexual,Bisexuell,Matched (3)
+soep-core,p_statistics,v38.1,pld0298_h,4,No answer/ Do not wish to respond,Keine Angabe / Möchte mich zu diesem Thema nicht äußern,Matched (3)
+soep-core,p_statistics,v38.1,ple0004,1,Strong,Stark,Matched (3)
+soep-core,p_statistics,v38.1,ple0004,2,A Little,Ein wenig,Matched (3)
+soep-core,p_statistics,v38.1,ple0004,3,Not at all,Gar nicht,Matched (3)
+soep-core,p_statistics,v38.1,ple0005,1,Strong,Stark,Matched (3)
+soep-core,p_statistics,v38.1,ple0005,2,A Little,Ein wenig,Matched (3)
+soep-core,p_statistics,v38.1,ple0005,3,Not at all,Gar nicht,Matched (3)
+soep-core,p_statistics,v38.1,ple0008,1,Very good,Sehr gut,Matched (3)
+soep-core,p_statistics,v38.1,ple0008,2,Good,Gut,Matched (3)
+soep-core,p_statistics,v38.1,ple0008,3,Satisfactory,Zufriedenstellend,Matched (3)
+soep-core,p_statistics,v38.1,ple0008,4,Poor,Weniger gut,Matched (3)
+soep-core,p_statistics,v38.1,ple0008,5,Bad,Schlecht,Matched (3)
+soep-core,p_statistics,v38.1,ple0009,1,"Yes, strongly limited","Ja, stark eingeschraenkt",Matched (3)
+soep-core,p_statistics,v38.1,ple0009,2,"Yes, somewhat limited","Ja, etwas eingeschraenkt",Matched (3)
+soep-core,p_statistics,v38.1,ple0009,3,"No, not limited at all","Nein, nicht eingeschraenkt",Matched (3)
+soep-core,p_statistics,v38.1,ple0011,1,Yes,Ja,Matched (3)
+soep-core,p_statistics,v38.1,ple0011,2,No,Nein,Matched (3)
+soep-core,p_statistics,v38.1,ple0012,1,Yes,Ja,Matched (3)
+soep-core,p_statistics,v38.1,ple0012,2,No,Nein,Matched (3)
+soep-core,p_statistics,v38.1,ple0013,1,Yes,Ja,Matched (3)
+soep-core,p_statistics,v38.1,ple0013,2,No,Nein,Matched (3)
+soep-core,p_statistics,v38.1,ple0014,1,Yes,Ja,Matched (3)
+soep-core,p_statistics,v38.1,ple0014,2,No,Nein,Matched (3)
+soep-core,p_statistics,v38.1,ple0015,1,Yes,Ja,Matched (3)
+soep-core,p_statistics,v38.1,ple0015,2,No,Nein,Matched (3)
+soep-core,p_statistics,v38.1,ple0016,1,Yes,Ja,Matched (3)
+soep-core,p_statistics,v38.1,ple0016,2,No,Nein,Matched (3)
+soep-core,p_statistics,v38.1,ple0017,1,Yes,Ja,Matched (3)
+soep-core,p_statistics,v38.1,ple0017,2,No,Nein,Matched (3)
+soep-core,p_statistics,v38.1,ple0018,1,Yes,Ja,Matched (3)
+soep-core,p_statistics,v38.1,ple0018,2,No,Nein,Matched (3)
+soep-core,p_statistics,v38.1,ple0019,1,Yes,Ja,Matched (3)
+soep-core,p_statistics,v38.1,ple0019,2,No,Nein,Matched (3)
+soep-core,p_statistics,v38.1,ple0020,1,Yes,Ja,Matched (3)
+soep-core,p_statistics,v38.1,ple0020,2,No,Nein,Matched (3)
+soep-core,p_statistics,v38.1,ple0021,1,Yes,Ja,Matched (3)
+soep-core,p_statistics,v38.1,ple0021,2,No,Nein,Matched (3)
+soep-core,p_statistics,v38.1,ple0022,1,Yes,Ja,Matched (3)
+soep-core,p_statistics,v38.1,ple0022,2,No,Nein,Matched (3)
+soep-core,p_statistics,v38.1,ple0023,1,Yes,Ja,Matched (3)
+soep-core,p_statistics,v38.1,ple0023,2,No,Nein,Matched (3)
+soep-core,p_statistics,v38.1,ple0040,1,Yes,Ja,Matched (3)
+soep-core,p_statistics,v38.1,ple0040,2,No,Nein,Matched (3)
+soep-core,p_statistics,v38.1,ple0053,1,Yes,Ja,Matched (3)
+soep-core,p_statistics,v38.1,ple0053,2,No,Nein,Matched (3)
+soep-core,p_statistics,v38.1,ple0081_h,1,Yes,Ja,Matched (3)
+soep-core,p_statistics,v38.1,ple0081_h,2,No,Nein,Matched (3)
+soep-core,p_statistics,v38.1,ple0097,1,Statutory health insurance,Gesetzliche KV,Matched (3)
+soep-core,p_statistics,v38.1,ple0097,2,Private health insurance,Private KV,Matched (3)
+soep-core,p_statistics,v38.1,ple0097,3,No insurance,Weder-noch,Matched (3)
+soep-core,p_statistics,v38.1,ple0098_v5,1,Yes,Ja,Matched (3)
+soep-core,p_statistics,v38.1,ple0098_v5,2,No,Nein,Matched (3)
+soep-core,p_statistics,v38.1,ple0162,1,Yes,Ja,Matched (3)
+soep-core,p_statistics,v38.1,ple0162,2,No,Nein,Matched (3)
+soep-core,p_statistics,v38.1,ple0187,1,,Ja,Master only (1)
+soep-core,p_statistics,v38.1,ple0187,2,,Nein,Master only (1)
+soep-core,p_statistics,v38.1,plg0267_h,1,General education,Allgemeinbildende Schule,Matched (3)
+soep-core,p_statistics,v38.1,plg0267_h,2,University/ Technical university,Hochschule,Matched (3)
+soep-core,p_statistics,v38.1,plg0267_h,3,Vocational training,Berufliche Ausbildung,Matched (3)
+soep-core,p_statistics,v38.1,plg0267_h,4,Further training/ Retraining,Weiterbildung / Umschulung,Matched (3)
+soep-core,p_statistics,v38.1,plg0292_h,1,Berufliche Umschulung,Berufliche Umschulung,Matched (3)
+soep-core,p_statistics,v38.1,plg0292_h,2,Berufliche Fortbildung,Berufliche Fortbildung,Matched (3)
+soep-core,p_statistics,v38.1,plg0292_h,3,Berufliche Rehabilitation,Berufliche Rehabilitation,Matched (3)
+soep-core,p_statistics,v38.1,plg0292_h,4,Allgemeine/politische Weiterbildung,Allgemeine/politische Weiterbildung,Matched (3)
+soep-core,p_statistics,v38.1,plg0292_h,5,Sonstiges,Sonstiges,Matched (3)
+soep-core,p_statistics,v38.1,plg0292_h,6,Integrationskurs / Sprachkurs,Integrationskurs / Sprachkurs,Matched (3)
+soep-core,p_statistics,v38.1,plg0292_h,7,Mehrfachnennung,Mehrfachnennung,Matched (3)
+soep-core,p_statistics,v38.1,plh0004,0,0 ganz links,0 ganz links,Matched (3)
+soep-core,p_statistics,v38.1,plh0004,1,1,1,Matched (3)
+soep-core,p_statistics,v38.1,plh0004,2,2,2,Matched (3)
+soep-core,p_statistics,v38.1,plh0004,3,3,3,Matched (3)
+soep-core,p_statistics,v38.1,plh0004,4,4,4,Matched (3)
+soep-core,p_statistics,v38.1,plh0004,5,5,5,Matched (3)
+soep-core,p_statistics,v38.1,plh0004,6,6,6,Matched (3)
+soep-core,p_statistics,v38.1,plh0004,7,7,7,Matched (3)
+soep-core,p_statistics,v38.1,plh0004,8,8,8,Matched (3)
+soep-core,p_statistics,v38.1,plh0004,9,9,9,Matched (3)
+soep-core,p_statistics,v38.1,plh0004,10,10 ganz rechts,10 ganz rechts,Matched (3)
+soep-core,p_statistics,v38.1,plh0032,1,Very concerned,Grosse Sorgen,Matched (3)
+soep-core,p_statistics,v38.1,plh0032,2,Somewhat concerned,Einige Sorgen,Matched (3)
+soep-core,p_statistics,v38.1,plh0032,3,Not concerned at all,Keine Sorgen,Matched (3)
+soep-core,p_statistics,v38.1,plh0033,1,Very concerned,Grosse Sorgen,Matched (3)
+soep-core,p_statistics,v38.1,plh0033,2,Somewhat concerned,Einige Sorgen,Matched (3)
+soep-core,p_statistics,v38.1,plh0033,3,Not concerned at all,Keine Sorgen,Matched (3)
+soep-core,p_statistics,v38.1,plh0034,1,Very concerned,Grosse Sorgen,Matched (3)
+soep-core,p_statistics,v38.1,plh0034,2,Somewhat concerned,Einige Sorgen,Matched (3)
+soep-core,p_statistics,v38.1,plh0034,3,Not concerned at all,Keine Sorgen,Matched (3)
+soep-core,p_statistics,v38.1,plh0035,1,Very concerned,Grosse Sorgen,Matched (3)
+soep-core,p_statistics,v38.1,plh0035,2,Somewhat concerned,Einige Sorgen,Matched (3)
+soep-core,p_statistics,v38.1,plh0035,3,Not concerned at all,Keine Sorgen,Matched (3)
+soep-core,p_statistics,v38.1,plh0036,1,Very concerned,Grosse Sorgen,Matched (3)
+soep-core,p_statistics,v38.1,plh0036,2,Somewhat concerned,Einige Sorgen,Matched (3)
+soep-core,p_statistics,v38.1,plh0036,3,Not concerned at all,Keine Sorgen,Matched (3)
+soep-core,p_statistics,v38.1,plh0037,1,Very concerned,Grosse Sorgen,Matched (3)
+soep-core,p_statistics,v38.1,plh0037,2,Somewhat concerned,Einige Sorgen,Matched (3)
+soep-core,p_statistics,v38.1,plh0037,3,Not concerned at all,Keine Sorgen,Matched (3)
+soep-core,p_statistics,v38.1,plh0038,1,Very concerned,Grosse Sorgen,Matched (3)
+soep-core,p_statistics,v38.1,plh0038,2,Somewhat concerned,Einige Sorgen,Matched (3)
+soep-core,p_statistics,v38.1,plh0038,3,Not concerned at all,Keine Sorgen,Matched (3)
+soep-core,p_statistics,v38.1,plh0039,1,Very concerned,Grosse Sorgen,Matched (3)
+soep-core,p_statistics,v38.1,plh0039,2,Somewhat concerned,Einige Sorgen,Matched (3)
+soep-core,p_statistics,v38.1,plh0039,3,Not concerned at all,Keine Sorgen,Matched (3)
+soep-core,p_statistics,v38.1,plh0040,1,Very concerned,Grosse Sorgen,Matched (3)
+soep-core,p_statistics,v38.1,plh0040,2,Somewhat concerned,Einige Sorgen,Matched (3)
+soep-core,p_statistics,v38.1,plh0040,3,Not concerned at all,Keine Sorgen,Matched (3)
+soep-core,p_statistics,v38.1,plh0042,1,Very concerned,Grosse Sorgen,Matched (3)
+soep-core,p_statistics,v38.1,plh0042,2,Somewhat concerned,Einige Sorgen,Matched (3)
+soep-core,p_statistics,v38.1,plh0042,3,Not concerned at all,Keine Sorgen,Matched (3)
+soep-core,p_statistics,v38.1,plh0105,1,Very important,1 Sehr wichtig,Matched (3)
+soep-core,p_statistics,v38.1,plh0105,2,Important,2 Wichtig,Matched (3)
+soep-core,p_statistics,v38.1,plh0105,3,Less important,3 Weniger wichtig,Matched (3)
+soep-core,p_statistics,v38.1,plh0105,4,Unimportant,4 Ganz unwichtig,Matched (3)
+soep-core,p_statistics,v38.1,plh0106,1,Very important,1 Sehr wichtig,Matched (3)
+soep-core,p_statistics,v38.1,plh0106,2,Important,2 Wichtig,Matched (3)
+soep-core,p_statistics,v38.1,plh0106,3,Less important,3 Weniger wichtig,Matched (3)
+soep-core,p_statistics,v38.1,plh0106,4,Unimportant,4 Ganz unwichtig,Matched (3)
+soep-core,p_statistics,v38.1,plh0107,1,Very important,1 Sehr wichtig,Matched (3)
+soep-core,p_statistics,v38.1,plh0107,2,Important,2 Wichtig,Matched (3)
+soep-core,p_statistics,v38.1,plh0107,3,Less important,3 Weniger wichtig,Matched (3)
+soep-core,p_statistics,v38.1,plh0107,4,Unimportant,4 Ganz unwichtig,Matched (3)
+soep-core,p_statistics,v38.1,plh0108,1,Very important,1 Sehr wichtig,Matched (3)
+soep-core,p_statistics,v38.1,plh0108,2,Important,2 Wichtig,Matched (3)
+soep-core,p_statistics,v38.1,plh0108,3,Less important,3 Weniger wichtig,Matched (3)
+soep-core,p_statistics,v38.1,plh0108,4,Unimportant,4 Ganz unwichtig,Matched (3)
+soep-core,p_statistics,v38.1,plh0109,1,Very important,1 Sehr wichtig,Matched (3)
+soep-core,p_statistics,v38.1,plh0109,2,Important,2 Wichtig,Matched (3)
+soep-core,p_statistics,v38.1,plh0109,3,Less important,3 Weniger wichtig,Matched (3)
+soep-core,p_statistics,v38.1,plh0109,4,Unimportant,4 Ganz unwichtig,Matched (3)
+soep-core,p_statistics,v38.1,plh0110,1,Very important,1 Sehr wichtig,Matched (3)
+soep-core,p_statistics,v38.1,plh0110,2,Important,2 Wichtig,Matched (3)
+soep-core,p_statistics,v38.1,plh0110,3,Less important,3 Weniger wichtig,Matched (3)
+soep-core,p_statistics,v38.1,plh0110,4,Unimportant,4 Ganz unwichtig,Matched (3)
+soep-core,p_statistics,v38.1,plh0111,1,Very important,1 Sehr wichtig,Matched (3)
+soep-core,p_statistics,v38.1,plh0111,2,Important,2 Wichtig,Matched (3)
+soep-core,p_statistics,v38.1,plh0111,3,Less important,3 Weniger wichtig,Matched (3)
+soep-core,p_statistics,v38.1,plh0111,4,Unimportant,4 Ganz unwichtig,Matched (3)
+soep-core,p_statistics,v38.1,plh0112,1,Very important,1 Sehr wichtig,Matched (3)
+soep-core,p_statistics,v38.1,plh0112,2,Important,2 Wichtig,Matched (3)
+soep-core,p_statistics,v38.1,plh0112,3,Less important,3 Weniger wichtig,Matched (3)
+soep-core,p_statistics,v38.1,plh0112,4,Unimportant,4 Ganz unwichtig,Matched (3)
+soep-core,p_statistics,v38.1,plh0162,0,0 Zufrieden: Skala 0-Niedrig bis 10-Hoch,0 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0162,1,1 Zufrieden: Skala 0-Niedrig bis 10-Hoch,1 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0162,2,2 Zufrieden: Skala 0-Niedrig bis 10-Hoch,2 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0162,3,3 Zufrieden: Skala 0-Niedrig bis 10-Hoch,3 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0162,4,4 Zufrieden: Skala 0-Niedrig bis 10-Hoch,4 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0162,5,5 Zufrieden: Skala 0-Niedrig bis 10-Hoch,5 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0162,6,6 Zufrieden: Skala 0-Niedrig bis 10-Hoch,6 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0162,7,7 Zufrieden: Skala 0-Niedrig bis 10-Hoch,7 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0162,8,8 Zufrieden: Skala 0-Niedrig bis 10-Hoch,8 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0162,9,9 Zufrieden: Skala 0-Niedrig bis 10-Hoch,9 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0162,10,10 Zufrieden: Skala 0-Niedrig bis 10-Hoch,10 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0164,0,0 Zufrieden: Skala 0-Niedrig bis 10-Hoch,0 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0164,1,1 Zufrieden: Skala 0-Niedrig bis 10-Hoch,1 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0164,2,2 Zufrieden: Skala 0-Niedrig bis 10-Hoch,2 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0164,3,3 Zufrieden: Skala 0-Niedrig bis 10-Hoch,3 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0164,4,4 Zufrieden: Skala 0-Niedrig bis 10-Hoch,4 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0164,5,5 Zufrieden: Skala 0-Niedrig bis 10-Hoch,5 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0164,6,6 Zufrieden: Skala 0-Niedrig bis 10-Hoch,6 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0164,7,7 Zufrieden: Skala 0-Niedrig bis 10-Hoch,7 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0164,8,8 Zufrieden: Skala 0-Niedrig bis 10-Hoch,8 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0164,9,9 Zufrieden: Skala 0-Niedrig bis 10-Hoch,9 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0164,10,10 Zufrieden: Skala 0-Niedrig bis 10-Hoc,10 Zufrieden: Skala 0-Niedrig bis 10-Hoc,Matched (3)
+soep-core,p_statistics,v38.1,plh0171,0,0 Zufrieden: Skala 0-Niedrig bis 10-Hoch,0 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0171,1,1 Zufrieden: Skala 0-Niedrig bis 10-Hoch,1 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0171,2,2 Zufrieden: Skala 0-Niedrig bis 10-Hoch,2 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0171,3,3 Zufrieden: Skala 0-Niedrig bis 10-Hoch,3 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0171,4,4 Zufrieden: Skala 0-Niedrig bis 10-Hoch,4 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0171,5,5 Zufrieden: Skala 0-Niedrig bis 10-Hoch,5 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0171,6,6 Zufrieden: Skala 0-Niedrig bis 10-Hoch,6 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0171,7,7 Zufrieden: Skala 0-Niedrig bis 10-Hoch,7 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0171,8,8 Zufrieden: Skala 0-Niedrig bis 10-Hoch,8 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0171,9,9 Zufrieden: Skala 0-Niedrig bis 10-Hoch,9 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0171,10,10 Zufrieden: Skala 0-Niedrig bis 10-Hoch,10 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0172,0,0 Zufrieden: Skala 0-Niedrig bis 10-Hoch,0 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0172,1,1 Zufrieden: Skala 0-Niedrig bis 10-Hoch,1 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0172,2,2 Zufrieden: Skala 0-Niedrig bis 10-Hoch,2 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0172,3,3 Zufrieden: Skala 0-Niedrig bis 10-Hoch,3 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0172,4,4 Zufrieden: Skala 0-Niedrig bis 10-Hoch,4 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0172,5,5 Zufrieden: Skala 0-Niedrig bis 10-Hoch,5 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0172,6,6 Zufrieden: Skala 0-Niedrig bis 10-Hoch,6 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0172,7,7 Zufrieden: Skala 0-Niedrig bis 10-Hoch,7 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0172,8,8 Zufrieden: Skala 0-Niedrig bis 10-Hoch,8 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0172,9,9 Zufrieden: Skala 0-Niedrig bis 10-Hoch,9 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0172,10,10 Zufrieden: Skala 0-Niedrig bis 10-Hoch,10 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0173,0,0 Zufrieden: Skala 0-Niedrig bis 10-Hoch,0 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0173,1,1 Zufrieden: Skala 0-Niedrig bis 10-Hoch,1 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0173,2,2 Zufrieden: Skala 0-Niedrig bis 10-Hoch,2 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0173,3,3 Zufrieden: Skala 0-Niedrig bis 10-Hoch,3 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0173,4,4 Zufrieden: Skala 0-Niedrig bis 10-Hoch,4 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0173,5,5 Zufrieden: Skala 0-Niedrig bis 10-Hoch,5 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0173,6,6 Zufrieden: Skala 0-Niedrig bis 10-Hoch,6 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0173,7,7 Zufrieden: Skala 0-Niedrig bis 10-Hoch,7 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0173,8,8 Zufrieden: Skala 0-Niedrig bis 10-Hoch,8 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0173,9,9 Zufrieden: Skala 0-Niedrig bis 10-Hoch,9 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0173,10,10 Zufrieden: Skala 0-Niedrig bis 10-Hoch,10 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0174,0,0 Zufrieden: Skala 0-Niedrig bis 10-Hoch,0 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0174,1,1 Zufrieden: Skala 0-Niedrig bis 10-Hoch,1 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0174,2,2 Zufrieden: Skala 0-Niedrig bis 10-Hoch,2 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0174,3,3 Zufrieden: Skala 0-Niedrig bis 10-Hoch,3 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0174,4,4 Zufrieden: Skala 0-Niedrig bis 10-Hoch,4 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0174,5,5 Zufrieden: Skala 0-Niedrig bis 10-Hoch,5 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0174,6,6 Zufrieden: Skala 0-Niedrig bis 10-Hoch,6 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0174,7,7 Zufrieden: Skala 0-Niedrig bis 10-Hoch,7 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0174,8,8 Zufrieden: Skala 0-Niedrig bis 10-Hoch,8 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0174,9,9 Zufrieden: Skala 0-Niedrig bis 10-Hoch,9 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0174,10,10 Zufrieden: Skala 0-Niedrig bis 10-Hoch,10 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0175,0,0 Zufrieden: Skala 0-Niedrig bis 10-Hoch,0 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0175,1,1 Zufrieden: Skala 0-Niedrig bis 10-Hoch,1 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0175,2,2 Zufrieden: Skala 0-Niedrig bis 10-Hoch,2 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0175,3,3 Zufrieden: Skala 0-Niedrig bis 10-Hoch,3 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0175,4,4 Zufrieden: Skala 0-Niedrig bis 10-Hoch,4 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0175,5,5 Zufrieden: Skala 0-Niedrig bis 10-Hoch,5 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0175,6,6 Zufrieden: Skala 0-Niedrig bis 10-Hoch,6 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0175,7,7 Zufrieden: Skala 0-Niedrig bis 10-Hoch,7 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0175,8,8 Zufrieden: Skala 0-Niedrig bis 10-Hoch,8 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0175,9,9 Zufrieden: Skala 0-Niedrig bis 10-Hoch,9 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0175,10,10 Zufrieden: Skala 0-Niedrig bis 10-Hoch,10 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0176,0,0 Zufrieden: Skala 0-Niedrig bis 10-Hoch,0 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0176,1,1 Zufrieden: Skala 0-Niedrig bis 10-Hoch,1 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0176,2,2 Zufrieden: Skala 0-Niedrig bis 10-Hoch,2 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0176,3,3 Zufrieden: Skala 0-Niedrig bis 10-Hoch,3 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0176,4,4 Zufrieden: Skala 0-Niedrig bis 10-Hoch,4 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0176,5,5 Zufrieden: Skala 0-Niedrig bis 10-Hoch,5 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0176,6,6 Zufrieden: Skala 0-Niedrig bis 10-Hoch,6 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0176,7,7 Zufrieden: Skala 0-Niedrig bis 10-Hoch,7 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0176,8,8 Zufrieden: Skala 0-Niedrig bis 10-Hoch,8 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0176,9,9 Zufrieden: Skala 0-Niedrig bis 10-Hoch,9 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0176,10,10 Zufrieden: Skala 0-Niedrig bis 10-Hoch,10 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0177,0,0 Zufrieden: Skala 0-Niedrig bis 10-Hoch,0 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0177,1,1 Zufrieden: Skala 0-Niedrig bis 10-Hoch,1 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0177,2,2 Zufrieden: Skala 0-Niedrig bis 10-Hoch,2 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0177,3,3 Zufrieden: Skala 0-Niedrig bis 10-Hoch,3 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0177,4,4 Zufrieden: Skala 0-Niedrig bis 10-Hoch,4 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0177,5,5 Zufrieden: Skala 0-Niedrig bis 10-Hoch,5 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0177,6,6 Zufrieden: Skala 0-Niedrig bis 10-Hoch,6 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0177,7,7 Zufrieden: Skala 0-Niedrig bis 10-Hoch,7 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0177,8,8 Zufrieden: Skala 0-Niedrig bis 10-Hoch,8 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0177,9,9 Zufrieden: Skala 0-Niedrig bis 10-Hoch,9 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0177,10,10 Zufrieden: Skala 0-Niedrig bis 10-Hoch,10 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0178,0,0 Zufrieden: Skala 0-Niedrig bis 10-Hoch,0 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0178,1,1 Zufrieden: Skala 0-Niedrig bis 10-Hoch,1 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0178,2,2 Zufrieden: Skala 0-Niedrig bis 10-Hoch,2 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0178,3,3 Zufrieden: Skala 0-Niedrig bis 10-Hoch,3 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0178,4,4 Zufrieden: Skala 0-Niedrig bis 10-Hoch,4 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0178,5,5 Zufrieden: Skala 0-Niedrig bis 10-Hoch,5 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0178,6,6 Zufrieden: Skala 0-Niedrig bis 10-Hoch,6 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0178,7,7 Zufrieden: Skala 0-Niedrig bis 10-Hoch,7 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0178,8,8 Zufrieden: Skala 0-Niedrig bis 10-Hoch,8 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0178,9,9 Zufrieden: Skala 0-Niedrig bis 10-Hoch,9 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0178,10,10 Zufrieden: Skala 0-Niedrig bis 10-Hoch,10 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0179,0,0 Zufrieden: Skala 0-Niedrig bis 10-Hoch,0 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0179,1,1 Zufrieden: Skala 0-Niedrig bis 10-Hoch,1 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0179,2,2 Zufrieden: Skala 0-Niedrig bis 10-Hoch,2 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0179,3,3 Zufrieden: Skala 0-Niedrig bis 10-Hoch,3 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0179,4,4 Zufrieden: Skala 0-Niedrig bis 10-Hoch,4 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0179,5,5 Zufrieden: Skala 0-Niedrig bis 10-Hoch,5 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0179,6,6 Zufrieden: Skala 0-Niedrig bis 10-Hoch,6 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0179,7,7 Zufrieden: Skala 0-Niedrig bis 10-Hoch,7 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0179,8,8 Zufrieden: Skala 0-Niedrig bis 10-Hoch,8 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0179,9,9 Zufrieden: Skala 0-Niedrig bis 10-Hoch,9 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0179,10,10 Zufrieden: Skala 0-Niedrig bis 10-Hoch,10 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0180,0,0 Zufrieden: Skala 0-Niedrig bis 10-Hoch,0 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0180,1,1 Zufrieden: Skala 0-Niedrig bis 10-Hoch,1 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0180,2,2 Zufrieden: Skala 0-Niedrig bis 10-Hoch,2 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0180,3,3 Zufrieden: Skala 0-Niedrig bis 10-Hoch,3 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0180,4,4 Zufrieden: Skala 0-Niedrig bis 10-Hoch,4 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0180,5,5 Zufrieden: Skala 0-Niedrig bis 10-Hoch,5 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0180,6,6 Zufrieden: Skala 0-Niedrig bis 10-Hoch,6 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0180,7,7 Zufrieden: Skala 0-Niedrig bis 10-Hoch,7 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0180,8,8 Zufrieden: Skala 0-Niedrig bis 10-Hoch,8 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0180,9,9 Zufrieden: Skala 0-Niedrig bis 10-Hoch,9 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0180,10,10 Zufrieden: Skala 0-Niedrig bis 10-Hoch,10 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0181,0,Ganz und gar unzufrieden,Ganz und gar unzufrieden,Matched (3)
+soep-core,p_statistics,v38.1,plh0181,1,1 Zufrieden: Skala 0-Niedrig bis 10-Hoch,1 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0181,2,2 Zufrieden: Skala 0-Niedrig bis 10-Hoch,2 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0181,3,3 Zufrieden: Skala 0-Niedrig bis 10-Hoch,3 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0181,4,4 Zufrieden: Skala 0-Niedrig bis 10-Hoch,4 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0181,5,5 Zufrieden: Skala 0-Niedrig bis 10-Hoch,5 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0181,6,6 Zufrieden: Skala 0-Niedrig bis 10-Hoch,6 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0181,7,7 Zufrieden: Skala 0-Niedrig bis 10-Hoch,7 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0181,8,8 Zufrieden: Skala 0-Niedrig bis 10-Hoch,8 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0181,9,9 Zufrieden: Skala 0-Niedrig bis 10-Hoch,9 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0181,10,Ganz und gar zufrieden,Ganz und gar zufrieden,Matched (3)
+soep-core,p_statistics,v38.1,plh0182,0,0 Zufrieden: Skala 0-Niedrig bis 10-Hoch,0 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0182,1,1 Zufrieden: Skala 0-Niedrig bis 10-Hoch,1 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0182,2,2 Zufrieden: Skala 0-Niedrig bis 10-Hoch,2 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0182,3,3 Zufrieden: Skala 0-Niedrig bis 10-Hoch,3 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0182,4,4 Zufrieden: Skala 0-Niedrig bis 10-Hoch,4 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0182,5,5 Zufrieden: Skala 0-Niedrig bis 10-Hoch,5 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0182,6,6 Zufrieden: Skala 0-Niedrig bis 10-Hoch,6 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0182,7,7 Zufrieden: Skala 0-Niedrig bis 10-Hoch,7 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0182,8,8 Zufrieden: Skala 0-Niedrig bis 10-Hoch,8 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0182,9,9 Zufrieden: Skala 0-Niedrig bis 10-Hoch,9 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0182,10,10 Zufrieden: Skala 0-Niedrig bis 10-Hoch,10 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0183,0,0 Zufrieden: Skala 0-Niedrig bis 10-Hoch,0 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0183,1,1 Zufrieden: Skala 0-Niedrig bis 10-Hoch,1 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0183,2,2 Zufrieden: Skala 0-Niedrig bis 10-Hoch,2 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0183,3,3 Zufrieden: Skala 0-Niedrig bis 10-Hoch,3 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0183,4,4 Zufrieden: Skala 0-Niedrig bis 10-Hoch,4 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0183,5,5 Zufrieden: Skala 0-Niedrig bis 10-Hoch,5 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0183,6,6 Zufrieden: Skala 0-Niedrig bis 10-Hoch,6 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0183,7,7 Zufrieden: Skala 0-Niedrig bis 10-Hoch,7 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0183,8,8 Zufrieden: Skala 0-Niedrig bis 10-Hoch,8 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0183,9,9 Zufrieden: Skala 0-Niedrig bis 10-Hoch,9 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0183,10,10 Zufrieden: Skala 0-Niedrig bis 10-Hoch,10 Zufrieden: Skala 0-Niedrig bis 10-Hoch,Matched (3)
+soep-core,p_statistics,v38.1,plh0184,1,Very seldom,Sehr selten,Matched (3)
+soep-core,p_statistics,v38.1,plh0184,2,Seldom,Selten,Matched (3)
+soep-core,p_statistics,v38.1,plh0184,3,Sometimes,Manchmal,Matched (3)
+soep-core,p_statistics,v38.1,plh0184,4,Often,Oft,Matched (3)
+soep-core,p_statistics,v38.1,plh0184,5,Very often,Sehr oft,Matched (3)
+soep-core,p_statistics,v38.1,plh0185,1,Very seldom,Sehr selten,Matched (3)
+soep-core,p_statistics,v38.1,plh0185,2,Seldom,Selten,Matched (3)
+soep-core,p_statistics,v38.1,plh0185,3,Sometimes,Manchmal,Matched (3)
+soep-core,p_statistics,v38.1,plh0185,4,Often,Oft,Matched (3)
+soep-core,p_statistics,v38.1,plh0185,5,Very often,Sehr oft,Matched (3)
+soep-core,p_statistics,v38.1,plh0186,1,Very seldom,Sehr selten,Matched (3)
+soep-core,p_statistics,v38.1,plh0186,2,Seldom,Selten,Matched (3)
+soep-core,p_statistics,v38.1,plh0186,3,Sometimes,Manchmal,Matched (3)
+soep-core,p_statistics,v38.1,plh0186,4,Often,Oft,Matched (3)
+soep-core,p_statistics,v38.1,plh0186,5,Very often,Sehr oft,Matched (3)
+soep-core,p_statistics,v38.1,plh0187,1,Very seldom,Sehr selten,Matched (3)
+soep-core,p_statistics,v38.1,plh0187,2,Seldom,Selten,Matched (3)
+soep-core,p_statistics,v38.1,plh0187,3,Sometimes,Manchmal,Matched (3)
+soep-core,p_statistics,v38.1,plh0187,4,Often,Oft,Matched (3)
+soep-core,p_statistics,v38.1,plh0187,5,Very often,Sehr oft,Matched (3)
+soep-core,p_statistics,v38.1,plh0188,1,Agree completely,Stimmt ganz u.gar,Matched (3)
+soep-core,p_statistics,v38.1,plh0188,2,Agree,Stimmt eher,Matched (3)
+soep-core,p_statistics,v38.1,plh0188,3,Disagree,Stimmt eher nicht,Matched (3)
+soep-core,p_statistics,v38.1,plh0188,4,Disagree completely,Stimmt ganz u.gar nicht,Matched (3)
+soep-core,p_statistics,v38.1,plh0189,1,Agree completely,Stimmt ganz u.gar,Matched (3)
+soep-core,p_statistics,v38.1,plh0189,2,Agree,Stimmt eher,Matched (3)
+soep-core,p_statistics,v38.1,plh0189,3,Disagree,Stimmt eher nicht,Matched (3)
+soep-core,p_statistics,v38.1,plh0189,4,Disagree completely,Stimmt ganz u.gar nicht,Matched (3)
+soep-core,p_statistics,v38.1,plh0190,1,Agree completely,Stimmt ganz u.gar,Matched (3)
+soep-core,p_statistics,v38.1,plh0190,2,Agree,Stimmt eher,Matched (3)
+soep-core,p_statistics,v38.1,plh0190,3,Disagree,Stimmt eher nicht,Matched (3)
+soep-core,p_statistics,v38.1,plh0190,4,Disagree completely,Stimmt ganz u.gar nicht,Matched (3)
+soep-core,p_statistics,v38.1,plh0191,1,Agree completely,Stimmt ganz u.gar,Matched (3)
+soep-core,p_statistics,v38.1,plh0191,2,Agree,Stimmt eher,Matched (3)
+soep-core,p_statistics,v38.1,plh0191,3,Disagree,Stimmt eher nicht,Matched (3)
+soep-core,p_statistics,v38.1,plh0191,4,Disagree completely,Stimmt ganz u.gar nicht,Matched (3)
+soep-core,p_statistics,v38.1,plh0192,1,Strongly agree,Stimme voll zu,Matched (3)
+soep-core,p_statistics,v38.1,plh0192,2,Agree,Stimme eher zu,Matched (3)
+soep-core,p_statistics,v38.1,plh0192,3,Disagree,Lehne eher ab,Matched (3)
+soep-core,p_statistics,v38.1,plh0192,4,Strongly disagree,Lehne voll ab,Matched (3)
+soep-core,p_statistics,v38.1,plh0193,1,Strongly agree,Stimme voll zu,Matched (3)
+soep-core,p_statistics,v38.1,plh0193,2,Agree,Stimme eher zu,Matched (3)
+soep-core,p_statistics,v38.1,plh0193,3,Disagree,Lehne eher ab,Matched (3)
+soep-core,p_statistics,v38.1,plh0193,4,Strongly disagree,Lehne voll ab,Matched (3)
+soep-core,p_statistics,v38.1,plh0194,1,Strongly agree,Stimme voll zu,Matched (3)
+soep-core,p_statistics,v38.1,plh0194,2,Agree,Stimme eher zu,Matched (3)
+soep-core,p_statistics,v38.1,plh0194,3,Disagree,Lehne eher ab,Matched (3)
+soep-core,p_statistics,v38.1,plh0194,4,Strongly disagree,Lehne voll ab,Matched (3)
+soep-core,p_statistics,v38.1,plh0195,1,Most people would exploit you if they had the opportunity,Leute nutzen aus,Matched (3)
+soep-core,p_statistics,v38.1,plh0195,2,Most People would try to be fair,Leute sind fair,Matched (3)
+soep-core,p_statistics,v38.1,plh0196,1,People usually try to be helpful,Leute sind hilfsbereit,Matched (3)
+soep-core,p_statistics,v38.1,plh0196,2,People usually only pursue their own interests,Leute verfolgen Eigeninteresse,Matched (3)
+soep-core,p_statistics,v38.1,plh0204_h,0,"0 Risikobereit Skala 0-Gar nicht, 10-Sehr","0 Risikobereit Skala 0-Gar nicht, 10-Sehr",Matched (3)
+soep-core,p_statistics,v38.1,plh0204_h,1,"1 Risikobereit Skala 0-Gar nicht, 10-Sehr","1 Risikobereit Skala 0-Gar nicht, 10-Sehr",Matched (3)
+soep-core,p_statistics,v38.1,plh0204_h,2,"2 Risikobereit Skala 0-Gar nicht, 10-Sehr","2 Risikobereit Skala 0-Gar nicht, 10-Sehr",Matched (3)
+soep-core,p_statistics,v38.1,plh0204_h,3,"3 Risikobereit Skala 0-Gar nicht, 10-Sehr","3 Risikobereit Skala 0-Gar nicht, 10-Sehr",Matched (3)
+soep-core,p_statistics,v38.1,plh0204_h,4,"4 Risikobereit Skala 0-Gar nicht, 10-Sehr","4 Risikobereit Skala 0-Gar nicht, 10-Sehr",Matched (3)
+soep-core,p_statistics,v38.1,plh0204_h,5,"5 Risikobereit Skala 0-Gar nicht, 10-Sehr","5 Risikobereit Skala 0-Gar nicht, 10-Sehr",Matched (3)
+soep-core,p_statistics,v38.1,plh0204_h,6,"6 Risikobereit Skala 0-Gar nicht, 10-Sehr","6 Risikobereit Skala 0-Gar nicht, 10-Sehr",Matched (3)
+soep-core,p_statistics,v38.1,plh0204_h,7,"7 Risikobereit Skala 0-Gar nicht, 10-Sehr","7 Risikobereit Skala 0-Gar nicht, 10-Sehr",Matched (3)
+soep-core,p_statistics,v38.1,plh0204_h,8,"8 Risikobereit Skala 0-Gar nicht, 10-Sehr","8 Risikobereit Skala 0-Gar nicht, 10-Sehr",Matched (3)
+soep-core,p_statistics,v38.1,plh0204_h,9,"9 Risikobereit Skala 0-Gar nicht, 10-Sehr","9 Risikobereit Skala 0-Gar nicht, 10-Sehr",Matched (3)
+soep-core,p_statistics,v38.1,plh0204_h,10,"10 Risikobereit Skala 0-Gar nicht, 10-Sehr","10 Risikobereit Skala 0-Gar nicht, 10-Sehr",Matched (3)
+soep-core,p_statistics,v38.1,plh0206i01,1,"1 Trifft ueberhaupt nicht zu, (Skala 1-7)","1 Trifft ueberhaupt nicht zu, (Skala 1-7)",Matched (3)
+soep-core,p_statistics,v38.1,plh0206i01,2,2 auf Skala 1-7,2 auf Skala 1-7,Matched (3)
+soep-core,p_statistics,v38.1,plh0206i01,3,3 auf Skala 1-7,3 auf Skala 1-7,Matched (3)
+soep-core,p_statistics,v38.1,plh0206i01,4,4 auf Skala 1-7,4 auf Skala 1-7,Matched (3)
+soep-core,p_statistics,v38.1,plh0206i01,5,5 auf Skala 1-7,5 auf Skala 1-7,Matched (3)
+soep-core,p_statistics,v38.1,plh0206i01,6,6 auf Skala 1-7,6 auf Skala 1-7,Matched (3)
+soep-core,p_statistics,v38.1,plh0206i01,7,"7 Trifft voll zu, (Skala 1-7)","7 Trifft voll zu, (Skala 1-7)",Matched (3)
+soep-core,p_statistics,v38.1,plh0206i02,1,"1 Trifft ueberhaupt nicht zu, (Skala 1-7)","1 Trifft ueberhaupt nicht zu, (Skala 1-7)",Matched (3)
+soep-core,p_statistics,v38.1,plh0206i02,2,2 auf Skala 1-7,2 auf Skala 1-7,Matched (3)
+soep-core,p_statistics,v38.1,plh0206i02,3,3 auf Skala 1-7,3 auf Skala 1-7,Matched (3)
+soep-core,p_statistics,v38.1,plh0206i02,4,4 auf Skala 1-7,4 auf Skala 1-7,Matched (3)
+soep-core,p_statistics,v38.1,plh0206i02,5,5 auf Skala 1-7,5 auf Skala 1-7,Matched (3)
+soep-core,p_statistics,v38.1,plh0206i02,6,6 auf Skala 1-7,6 auf Skala 1-7,Matched (3)
+soep-core,p_statistics,v38.1,plh0206i02,7,"7 Trifft voll zu, (Skala 1-7)","7 Trifft voll zu, (Skala 1-7)",Matched (3)
+soep-core,p_statistics,v38.1,plh0206i03,1,"1 Trifft ueberhaupt nicht zu, (Skala 1-7)","1 Trifft ueberhaupt nicht zu, (Skala 1-7)",Matched (3)
+soep-core,p_statistics,v38.1,plh0206i03,2,2 auf Skala 1-7,2 auf Skala 1-7,Matched (3)
+soep-core,p_statistics,v38.1,plh0206i03,3,3 auf Skala 1-7,3 auf Skala 1-7,Matched (3)
+soep-core,p_statistics,v38.1,plh0206i03,4,4 auf Skala 1-7,4 auf Skala 1-7,Matched (3)
+soep-core,p_statistics,v38.1,plh0206i03,5,5 auf Skala 1-7,5 auf Skala 1-7,Matched (3)
+soep-core,p_statistics,v38.1,plh0206i03,6,6 auf Skala 1-7,6 auf Skala 1-7,Matched (3)
+soep-core,p_statistics,v38.1,plh0206i03,7,"7 Trifft voll zu, (Skala 1-7)","7 Trifft voll zu, (Skala 1-7)",Matched (3)
+soep-core,p_statistics,v38.1,plh0206i04,1,"1 Trifft ueberhaupt nicht zu, (Skala 1-7)","1 Trifft ueberhaupt nicht zu, (Skala 1-7)",Matched (3)
+soep-core,p_statistics,v38.1,plh0206i04,2,2 auf Skala 1-7,2 auf Skala 1-7,Matched (3)
+soep-core,p_statistics,v38.1,plh0206i04,3,3 auf Skala 1-7,3 auf Skala 1-7,Matched (3)
+soep-core,p_statistics,v38.1,plh0206i04,4,4 auf Skala 1-7,4 auf Skala 1-7,Matched (3)
+soep-core,p_statistics,v38.1,plh0206i04,5,5 auf Skala 1-7,5 auf Skala 1-7,Matched (3)
+soep-core,p_statistics,v38.1,plh0206i04,6,6 auf Skala 1-7,6 auf Skala 1-7,Matched (3)
+soep-core,p_statistics,v38.1,plh0206i04,7,"7 Trifft voll zu, (Skala 1-7)","7 Trifft voll zu, (Skala 1-7)",Matched (3)
+soep-core,p_statistics,v38.1,plh0206i05,1,"1 Trifft ueberhaupt nicht zu, (Skala 1-7)","1 Trifft ueberhaupt nicht zu, (Skala 1-7)",Matched (3)
+soep-core,p_statistics,v38.1,plh0206i05,2,2 auf Skala 1-7,2 auf Skala 1-7,Matched (3)
+soep-core,p_statistics,v38.1,plh0206i05,3,3 auf Skala 1-7,3 auf Skala 1-7,Matched (3)
+soep-core,p_statistics,v38.1,plh0206i05,4,4 auf Skala 1-7,4 auf Skala 1-7,Matched (3)
+soep-core,p_statistics,v38.1,plh0206i05,5,5 auf Skala 1-7,5 auf Skala 1-7,Matched (3)
+soep-core,p_statistics,v38.1,plh0206i05,6,6 auf Skala 1-7,6 auf Skala 1-7,Matched (3)
+soep-core,p_statistics,v38.1,plh0206i05,7,"7 Trifft voll zu, (Skala 1-7)","7 Trifft voll zu, (Skala 1-7)",Matched (3)
+soep-core,p_statistics,v38.1,plh0206i06,1,"1 Trifft ueberhaupt nicht zu, (Skala 1-7)","1 Trifft ueberhaupt nicht zu, (Skala 1-7)",Matched (3)
+soep-core,p_statistics,v38.1,plh0206i06,2,2 auf Skala 1-7,2 auf Skala 1-7,Matched (3)
+soep-core,p_statistics,v38.1,plh0206i06,3,3 auf Skala 1-7,3 auf Skala 1-7,Matched (3)
+soep-core,p_statistics,v38.1,plh0206i06,4,4 auf Skala 1-7,4 auf Skala 1-7,Matched (3)
+soep-core,p_statistics,v38.1,plh0206i06,5,5 auf Skala 1-7,5 auf Skala 1-7,Matched (3)
+soep-core,p_statistics,v38.1,plh0206i06,6,6 auf Skala 1-7,6 auf Skala 1-7,Matched (3)
+soep-core,p_statistics,v38.1,plh0206i06,7,"7 Trifft voll zu, (Skala 1-7)","7 Trifft voll zu, (Skala 1-7)",Matched (3)
+soep-core,p_statistics,v38.1,plh0244,1,Optimistic,Optimistisch,Matched (3)
+soep-core,p_statistics,v38.1,plh0244,2,More optimistic than pessimistic,Eher optimistisch als pessimistisch,Matched (3)
+soep-core,p_statistics,v38.1,plh0244,3,More pessimistic than optimistic,Eher pessimistisch als optimistisch,Matched (3)
+soep-core,p_statistics,v38.1,plh0244,4,Pessimistic,Pessimistisch,Matched (3)
+soep-core,p_statistics,v38.1,plh0258_h,1,Catholic,Katholisch,Matched (3)
+soep-core,p_statistics,v38.1,plh0258_h,2,Protestant,Evangelisch,Matched (3)
+soep-core,p_statistics,v38.1,plh0258_h,3,Other Christian community,Andere christlische Religionsgemeinschaft,Matched (3)
+soep-core,p_statistics,v38.1,plh0258_h,4,Islamic community,Islamische Religionsgemeinschaft,Matched (3)
+soep-core,p_statistics,v38.1,plh0258_h,5,Other religious community,Andere Religionsgemeinschaft,Matched (3)
+soep-core,p_statistics,v38.1,plh0258_h,6,Non-denominational,Konfessionslos,Matched (3)
+soep-core,p_statistics,v38.1,plh0258_h,7,Christian orthodox,Christlich orthodox,Matched (3)
+soep-core,p_statistics,v38.1,plh0258_h,8,Shiite denomination,Schiitische Rel.gemeinschaft,Matched (3)
+soep-core,p_statistics,v38.1,plh0258_h,9,Sunni denomination,Sunnitische Rel.gemeinschaft,Matched (3)
+soep-core,p_statistics,v38.1,plh0258_h,10,Alevi denomination,Alevitische Rel.gemeinschaft,Matched (3)
+soep-core,p_statistics,v38.1,plh0258_h,11,Multiple answers,Mehrfachnennung,Matched (3)
+soep-core,p_statistics,v38.1,pli0079,1,Daily,Taeglich,Matched (3)
+soep-core,p_statistics,v38.1,pli0079,2,At least once per week,Min 1x pro Woche,Matched (3)
+soep-core,p_statistics,v38.1,pli0079,3,At least once per month,Min 1x pro Monat,Matched (3)
+soep-core,p_statistics,v38.1,pli0079,4,Seldom,Seltener,Matched (3)
+soep-core,p_statistics,v38.1,pli0079,5,Never,Nie,Matched (3)
+soep-core,p_statistics,v38.1,pli0080,1,Daily,Taeglich,Matched (3)
+soep-core,p_statistics,v38.1,pli0080,2,At least once per week,Min 1x pro Woche,Matched (3)
+soep-core,p_statistics,v38.1,pli0080,3,At least once per month,Min 1x pro Monat,Matched (3)
+soep-core,p_statistics,v38.1,pli0080,4,Seldom,Seltener,Matched (3)
+soep-core,p_statistics,v38.1,pli0080,5,Never,Nie,Matched (3)
+soep-core,p_statistics,v38.1,pli0081,1,Daily,Taeglich,Matched (3)
+soep-core,p_statistics,v38.1,pli0081,2,At least once per week,Min 1x pro Woche,Matched (3)
+soep-core,p_statistics,v38.1,pli0081,3,At least once per month,Min 1x pro Monat,Matched (3)
+soep-core,p_statistics,v38.1,pli0081,4,Seldom,Seltener,Matched (3)
+soep-core,p_statistics,v38.1,pli0081,5,Never,Nie,Matched (3)
+soep-core,p_statistics,v38.1,pli0082,1,Daily,Taeglich,Matched (3)
+soep-core,p_statistics,v38.1,pli0082,2,At least once per week,Min 1x pro Woche,Matched (3)
+soep-core,p_statistics,v38.1,pli0082,3,At least once per month,Min 1x pro Monat,Matched (3)
+soep-core,p_statistics,v38.1,pli0082,4,Seldom,Seltener,Matched (3)
+soep-core,p_statistics,v38.1,pli0082,5,Never,Nie,Matched (3)
+soep-core,p_statistics,v38.1,pli0083,1,Daily,Taeglich,Matched (3)
+soep-core,p_statistics,v38.1,pli0083,2,At least once per week,Min 1x pro Woche,Matched (3)
+soep-core,p_statistics,v38.1,pli0083,3,At least once per month,Min 1x pro Monat,Matched (3)
+soep-core,p_statistics,v38.1,pli0083,4,Seldom,Seltener,Matched (3)
+soep-core,p_statistics,v38.1,pli0083,5,Never,Nie,Matched (3)
+soep-core,p_statistics,v38.1,pli0089,1,Daily,Taeglich,Matched (3)
+soep-core,p_statistics,v38.1,pli0089,2,At least once per week,Min 1x pro Woche,Matched (3)
+soep-core,p_statistics,v38.1,pli0089,3,At least once per month,Min 1x pro Monat,Matched (3)
+soep-core,p_statistics,v38.1,pli0089,4,Seldom,Seltener,Matched (3)
+soep-core,p_statistics,v38.1,pli0089,5,Never,Nie,Matched (3)
+soep-core,p_statistics,v38.1,pli0091_h,1,Daily,Taeglich,Matched (3)
+soep-core,p_statistics,v38.1,pli0091_h,2,At least once per week,Min 1x pro Woche,Matched (3)
+soep-core,p_statistics,v38.1,pli0091_h,3,At least once per month,Min 1x pro Monat,Matched (3)
+soep-core,p_statistics,v38.1,pli0091_h,4,Seldom,Seltener,Matched (3)
+soep-core,p_statistics,v38.1,pli0091_h,5,Never,Nie,Matched (3)
+soep-core,p_statistics,v38.1,pli0092_h,1,Daily,Täglich,Matched (3)
+soep-core,p_statistics,v38.1,pli0092_h,2,At least once per week,Min 1x pro Woche,Matched (3)
+soep-core,p_statistics,v38.1,pli0092_h,3,At least once per month,Min 1x pro Monat,Matched (3)
+soep-core,p_statistics,v38.1,pli0092_h,4,Seldom,Seltener,Matched (3)
+soep-core,p_statistics,v38.1,pli0092_h,5,Never,Nie,Matched (3)
+soep-core,p_statistics,v38.1,pli0093_h,1,Daily,Taeglich,Matched (3)
+soep-core,p_statistics,v38.1,pli0093_h,2,At least once per week,Min 1x pro Woche,Matched (3)
+soep-core,p_statistics,v38.1,pli0093_h,3,At least once per month,Min 1x pro Monat,Matched (3)
+soep-core,p_statistics,v38.1,pli0093_h,4,Seldom,Seltener,Matched (3)
+soep-core,p_statistics,v38.1,pli0093_h,5,Never,Nie,Matched (3)
+soep-core,p_statistics,v38.1,pli0094_h,1,Daily,Täglich,Matched (3)
+soep-core,p_statistics,v38.1,pli0094_h,2,At least once per week,Min 1x pro Woche,Matched (3)
+soep-core,p_statistics,v38.1,pli0094_h,3,At least once per month,Min 1x pro Monat,Matched (3)
+soep-core,p_statistics,v38.1,pli0094_h,4,Seldom,Seltener,Matched (3)
+soep-core,p_statistics,v38.1,pli0094_h,5,Never,Nie,Matched (3)
+soep-core,p_statistics,v38.1,pli0095_h,1,Daily,Täglich,Matched (3)
+soep-core,p_statistics,v38.1,pli0095_h,2,At least once per week,Min 1x pro Woche,Matched (3)
+soep-core,p_statistics,v38.1,pli0095_h,3,At least once per month,Min 1x pro Monat,Matched (3)
+soep-core,p_statistics,v38.1,pli0095_h,4,Seldom,Seltener,Matched (3)
+soep-core,p_statistics,v38.1,pli0095_h,5,Never,Nie,Matched (3)
+soep-core,p_statistics,v38.1,pli0096_h,1,Daily,Täglich,Matched (3)
+soep-core,p_statistics,v38.1,pli0096_h,2,At least once per week,Min 1x pro Woche,Matched (3)
+soep-core,p_statistics,v38.1,pli0096_h,3,At least once per month,Min 1x pro Monat,Matched (3)
+soep-core,p_statistics,v38.1,pli0096_h,4,Seldom,Seltener,Matched (3)
+soep-core,p_statistics,v38.1,pli0096_h,5,Never,Nie,Matched (3)
+soep-core,p_statistics,v38.1,pli0097_h,1,Daily,Täglich,Matched (3)
+soep-core,p_statistics,v38.1,pli0097_h,2,At least once per week,Min 1x pro Woche,Matched (3)
+soep-core,p_statistics,v38.1,pli0097_h,3,At least once per month,Min 1x pro Monat,Matched (3)
+soep-core,p_statistics,v38.1,pli0097_h,4,Seldom,Seltener,Matched (3)
+soep-core,p_statistics,v38.1,pli0097_h,5,Never,Nie,Matched (3)
+soep-core,p_statistics,v38.1,pli0098_h,1,Daily,Taeglich,Matched (3)
+soep-core,p_statistics,v38.1,pli0098_h,2,At least once per week,Min 1x pro Woche,Matched (3)
+soep-core,p_statistics,v38.1,pli0098_h,3,At least once per month,Min 1x pro Monat,Matched (3)
+soep-core,p_statistics,v38.1,pli0098_h,4,Seldom,Seltener,Matched (3)
+soep-core,p_statistics,v38.1,pli0098_h,5,Never,Nie,Matched (3)
+soep-core,p_statistics,v38.1,pli0165,1,Daily,Taeglich,Matched (3)
+soep-core,p_statistics,v38.1,pli0165,2,At least once per week,Min 1x pro Woche,Matched (3)
+soep-core,p_statistics,v38.1,pli0165,3,At least once per month,Min 1x pro Monat,Matched (3)
+soep-core,p_statistics,v38.1,pli0165,4,Seldom,Seltener,Matched (3)
+soep-core,p_statistics,v38.1,pli0165,5,Never,Nie,Matched (3)
+soep-core,p_statistics,v38.1,plj0021_h,1,"Yes, definitely","Ja, ganz sicher",Matched (3)
+soep-core,p_statistics,v38.1,plj0021_h,2,"Yes, probably","Ja, wahrscheinlich",Matched (3)
+soep-core,p_statistics,v38.1,plj0021_h,3,Improbable,Eher unwahrscheinlich,Matched (3)
+soep-core,p_statistics,v38.1,plj0021_h,4,Definitely not,Ganz sicher nicht,Matched (3)
+soep-core,p_statistics,v38.1,plj0024_h,1,Since birth,Seit Geburt,Matched (3)
+soep-core,p_statistics,v38.1,plj0024_h,2,Later,Erst spaeter,Matched (3)
+soep-core,p_statistics,v38.1,plj0045,1,"Yes, happily","Ja, gerne",Matched (3)
+soep-core,p_statistics,v38.1,plj0045,2,"Yes, depending on situation","Ja, unter Umstaenden",Matched (3)
+soep-core,p_statistics,v38.1,plj0045,3,Rather not,Eher nein,Matched (3)
+soep-core,p_statistics,v38.1,plj0045,4,Never,Auf keinen Fall,Matched (3)
+soep-core,p_statistics,v38.1,plj0046,1,Very concerned,Grosse Sorgen,Matched (3)
+soep-core,p_statistics,v38.1,plj0046,2,Somewhat concerned,Einige Sorgen,Matched (3)
+soep-core,p_statistics,v38.1,plj0046,3,Not concerned at all,Keine Sorgen,Matched (3)
+soep-core,p_statistics,v38.1,plj0047,1,Very concerned,Grosse Sorgen,Matched (3)
+soep-core,p_statistics,v38.1,plj0047,2,Somewhat concerned,Einige Sorgen,Matched (3)
+soep-core,p_statistics,v38.1,plj0047,3,Not concerned at all,Keine Sorgen,Matched (3)
+soep-core,p_statistics,v38.1,plj0078,1,Voll und ganz,Voll und ganz,Matched (3)
+soep-core,p_statistics,v38.1,plj0078,2,Ueberwiegend,Ueberwiegend,Matched (3)
+soep-core,p_statistics,v38.1,plj0078,3,In mancher Beziehung,In mancher Beziehung,Matched (3)
+soep-core,p_statistics,v38.1,plj0078,4,Kaum,Kaum,Matched (3)
+soep-core,p_statistics,v38.1,plj0078,5,Gar nicht,Gar nicht,Matched (3)
+soep-core,p_statistics,v38.1,plj0089,1,Ja,Ja,Matched (3)
+soep-core,p_statistics,v38.1,plj0089,2,Nein,Nein,Matched (3)
+soep-core,p_statistics,v38.1,plj0092,1,Ja,Ja,Matched (3)
+soep-core,p_statistics,v38.1,plj0092,2,Nein,Nein,Matched (3)
+soep-core,p_statistics,v38.1,plj0104,1,Ja,Ja,Matched (3)
+soep-core,p_statistics,v38.1,plj0104,2,Nein,Nein,Matched (3)
+soep-core,p_statistics,v38.1,plj0175,1,Ja,Ja,Matched (3)
+soep-core,p_statistics,v38.1,plj0175,2,Nein,Nein,Matched (3)
+soep-core,p_statistics,v38.1,plj0587,1,Very often,Sehr oft,Matched (3)
+soep-core,p_statistics,v38.1,plj0587,2,Often,Oft,Matched (3)
+soep-core,p_statistics,v38.1,plj0587,3,Sometimes,Manchmal,Matched (3)
+soep-core,p_statistics,v38.1,plj0587,4,Seldom,Selten,Matched (3)
+soep-core,p_statistics,v38.1,plj0587,5,Never,Nie,Matched (3)
+soep-core,p_statistics,v38.1,plj0588,1,Very often,Sehr oft,Matched (3)
+soep-core,p_statistics,v38.1,plj0588,2,Often,Oft,Matched (3)
+soep-core,p_statistics,v38.1,plj0588,3,Sometimes,Manchmal,Matched (3)
+soep-core,p_statistics,v38.1,plj0588,4,Seldom,Selten,Matched (3)
+soep-core,p_statistics,v38.1,plj0588,5,Never,Nie,Matched (3)
+soep-core,p_statistics,v38.1,plj0589,1,Very often,Sehr oft,Matched (3)
+soep-core,p_statistics,v38.1,plj0589,2,Often,Oft,Matched (3)
+soep-core,p_statistics,v38.1,plj0589,3,Sometimes,Manchmal,Matched (3)
+soep-core,p_statistics,v38.1,plj0589,4,Seldom,Selten,Matched (3)
+soep-core,p_statistics,v38.1,plj0589,5,Never,Nie,Matched (3)
+soep-core,p_statistics,v38.1,quintil_oecd,1,1st Quintile,1. Quintil,Matched (3)
+soep-core,p_statistics,v38.1,quintil_oecd,2,2nd Quintile,2. Quintil,Matched (3)
+soep-core,p_statistics,v38.1,quintil_oecd,3,3rd Quintile,3. Quintil,Matched (3)
+soep-core,p_statistics,v38.1,quintil_oecd,4,4th Quintile,4. Quintil,Matched (3)
+soep-core,p_statistics,v38.1,quintil_oecd,5,5th Quintile,5. Quintil,Matched (3)
+soep-core,p_statistics,v38.1,region_origin,0,Germany,Deutschland,Matched (3)
+soep-core,p_statistics,v38.1,region_origin,15,Northern Africa,Nordafrica,Matched (3)
+soep-core,p_statistics,v38.1,region_origin,21,Northern America,Nordamerica,Matched (3)
+soep-core,p_statistics,v38.1,region_origin,30,Eastern Asia,Ostasien,Matched (3)
+soep-core,p_statistics,v38.1,region_origin,34,Southern Asia,Südasien,Matched (3)
+soep-core,p_statistics,v38.1,region_origin,35,South-Eastern Asia,Südostasien,Matched (3)
+soep-core,p_statistics,v38.1,region_origin,39,Southern Europe,Südeuropa,Matched (3)
+soep-core,p_statistics,v38.1,region_origin,53,Australia and New Zealand,Australien und Neuseeland,Matched (3)
+soep-core,p_statistics,v38.1,region_origin,61,Polynesia,Polynesien,Matched (3)
+soep-core,p_statistics,v38.1,region_origin,143,Central Asia,Zentralasien,Matched (3)
+soep-core,p_statistics,v38.1,region_origin,145,Western Asia,Westasien,Matched (3)
+soep-core,p_statistics,v38.1,region_origin,151,Eastern Europe,Osteuropa,Matched (3)
+soep-core,p_statistics,v38.1,region_origin,154,Northern Europe,Nordeuropa,Matched (3)
+soep-core,p_statistics,v38.1,region_origin,155,Western Europe,Westeuropa,Matched (3)
+soep-core,p_statistics,v38.1,region_origin,202,Sub-Saharan Africa,Sub-Sahara Afrika,Matched (3)
+soep-core,p_statistics,v38.1,region_origin,419,Latin America and the Caribbean,Lateinamerika und Karibik,Matched (3)
+soep-core,p_statistics,v38.1,region_secnat,0,Germany,Deutschland,Matched (3)
+soep-core,p_statistics,v38.1,region_secnat,15,Northern Africa,Nordafrica,Matched (3)
+soep-core,p_statistics,v38.1,region_secnat,21,Northern America,Nordamerica,Matched (3)
+soep-core,p_statistics,v38.1,region_secnat,30,Eastern Asia,Ostasien,Matched (3)
+soep-core,p_statistics,v38.1,region_secnat,34,Southern Asia,Südasien,Matched (3)
+soep-core,p_statistics,v38.1,region_secnat,35,South-Eastern Asia,Südostasien,Matched (3)
+soep-core,p_statistics,v38.1,region_secnat,39,Southern Europe,Südeuropa,Matched (3)
+soep-core,p_statistics,v38.1,region_secnat,53,Australia and New Zealand,Australien und Neuseeland,Matched (3)
+soep-core,p_statistics,v38.1,region_secnat,61,Polynesia,Polynesien,Matched (3)
+soep-core,p_statistics,v38.1,region_secnat,143,Central Asia,Zentralasien,Matched (3)
+soep-core,p_statistics,v38.1,region_secnat,145,Western Asia,Westasien,Matched (3)
+soep-core,p_statistics,v38.1,region_secnat,151,Eastern Europe,Osteuropa,Matched (3)
+soep-core,p_statistics,v38.1,region_secnat,154,Northern Europe,Nordeuropa,Matched (3)
+soep-core,p_statistics,v38.1,region_secnat,155,Western Europe,Westeuropa,Matched (3)
+soep-core,p_statistics,v38.1,region_secnat,202,Sub-Saharan Africa,Sub-Sahara Afrika,Matched (3)
+soep-core,p_statistics,v38.1,region_secnat,419,Latin America and the Caribbean,Lateinamerika und Karibik,Matched (3)
+soep-core,p_statistics,v38.1,region_secnat,9999,Others,Sonstige,Matched (3)
+soep-core,p_statistics,v38.1,regtyp,1,Urban regions,Staedtischer Raum,Matched (3)
+soep-core,p_statistics,v38.1,regtyp,2,Rural regions,Laendlicher Raum,Matched (3)
+soep-core,p_statistics,v38.1,sampreg,1,West,"Westdeutschland, alte Bundeslaender",Matched (3)
+soep-core,p_statistics,v38.1,sampreg,2,East,"Ostdeutschland, neue Bundeslaender",Matched (3)
+soep-core,p_statistics,v38.1,sex,1,male,maennlich,Matched (3)
+soep-core,p_statistics,v38.1,sex,2,female,weiblich,Matched (3)
+soep-core,p_statistics,v38.1,train,1,Yes,Ja,Matched (3)
+soep-core,p_statistics,v38.1,train,2,No,Nein,Matched (3)
+soep-core,h_statistics,v38.1,bula_h,1,Schleswig-Holstein,Schleswig-Holstein,
+soep-core,h_statistics,v38.1,bula_h,2,Hamburg,Hamburg,
+soep-core,h_statistics,v38.1,bula_h,3,Lower Saxony,Niedersachsen,
+soep-core,h_statistics,v38.1,bula_h,4,Bremen,Bremen,
+soep-core,h_statistics,v38.1,bula_h,5,North Rhine-Westphalia,Nordrhein-Westfalen,
+soep-core,h_statistics,v38.1,bula_h,6,Hesse,Hessen,
+soep-core,h_statistics,v38.1,bula_h,7,"Rhineland-Palatinate, Saarland","Rheinland-Pfalz,Saarland",
+soep-core,h_statistics,v38.1,bula_h,8,Baden-Wuerttemberg,Baden-Wuerttemberg,
+soep-core,h_statistics,v38.1,bula_h,9,Bavaria,Bayern,
+soep-core,h_statistics,v38.1,bula_h,10,,Saarland,
+soep-core,h_statistics,v38.1,bula_h,11,Berlin,Berlin,
+soep-core,h_statistics,v38.1,bula_h,12,Brandenburg,Brandenburg,
+soep-core,h_statistics,v38.1,bula_h,13,Mecklenburg-Western Pomerania,Mecklenburg-Vorpommern,
+soep-core,h_statistics,v38.1,bula_h,14,Saxony,Sachsen,
+soep-core,h_statistics,v38.1,bula_h,15,Saxony-Anhalt,Sachsen-Anhalt,
+soep-core,h_statistics,v38.1,bula_h,16,Thuringa,Thueringen,
+soep-core,h_statistics,v38.1,hgeqpgar,1,,Ja,
+soep-core,h_statistics,v38.1,hgeqpgar,2,,Nein,
+soep-core,h_statistics,v38.1,hgeqpinsul,1,,Ja,
+soep-core,h_statistics,v38.1,hgeqpinsul,2,,Nein,
+soep-core,h_statistics,v38.1,hgeqpmglass,1,,Ja,
+soep-core,h_statistics,v38.1,hgeqpmglass,2,,Nein,
+soep-core,h_statistics,v38.1,hgeqpnrj,1,,Ja,
+soep-core,h_statistics,v38.1,hgeqpnrj,2,,Nein,
+soep-core,h_statistics,v38.1,hgeqpsol,1,,Ja,
+soep-core,h_statistics,v38.1,hgeqpsol,2,,Nein,
+soep-core,h_statistics,v38.1,hgeqpter,1,,Ja,
+soep-core,h_statistics,v38.1,hgeqpter,2,,Nein,
+soep-core,h_statistics,v38.1,hgreval,1,,Sehr guenstig,
+soep-core,h_statistics,v38.1,hgreval,2,,Guenstig,
+soep-core,h_statistics,v38.1,hgreval,3,,Angemessen,
+soep-core,h_statistics,v38.1,hgreval,4,,Etwas zu hoch,
+soep-core,h_statistics,v38.1,hgreval,5,,Viel zu hoch,
+soep-core,h_statistics,v38.1,hgroom,1,,1 room,
+soep-core,h_statistics,v38.1,hgroom,2,,2 rooms,
+soep-core,h_statistics,v38.1,hgroom,3,,3 rooms,
+soep-core,h_statistics,v38.1,hgroom,4,,4 rooms,
+soep-core,h_statistics,v38.1,hgroom,5,,5 rooms,
+soep-core,h_statistics,v38.1,hgroom,6,,6 rooms,
+soep-core,h_statistics,v38.1,hgroom,7,,7 rooms,
+soep-core,h_statistics,v38.1,hgroom,8,,8 rooms,
+soep-core,h_statistics,v38.1,hgroom,9,,9 rooms,
+soep-core,h_statistics,v38.1,hgroom,10,,10 or more rooms,
+soep-core,h_statistics,v38.1,hgseval,1,,Viel zu klein,
+soep-core,h_statistics,v38.1,hgseval,2,,Etwas zu klein,
+soep-core,h_statistics,v38.1,hgseval,3,,Gerade richtig,
+soep-core,h_statistics,v38.1,hgseval,4,,Etwas zu gross,
+soep-core,h_statistics,v38.1,hgseval,5,,Viel zu gross,
+soep-core,h_statistics,v38.1,hhgr,0,,Aufgeloeste/n.bearbeitete Haushalte,
+soep-core,h_statistics,v38.1,hhtyp,1,,Single-person household,
+soep-core,h_statistics,v38.1,hhtyp,2,,Couple without children,
+soep-core,h_statistics,v38.1,hhtyp,3,,Single parent,
+soep-core,h_statistics,v38.1,hhtyp,4,,Couple with children,
+soep-core,h_statistics,v38.1,hhtyp,5,,Multi-generational household,
+soep-core,h_statistics,v38.1,hhtyp,6,,Other Combinations,
+soep-core,h_statistics,v38.1,hlc0052,1,,Ja,
+soep-core,h_statistics,v38.1,hlc0052,2,,Nein,
+soep-core,h_statistics,v38.1,hlc0061_h,1,Yes,Yes,
+soep-core,h_statistics,v38.1,hlc0061_h,2,No,No,
+soep-core,h_statistics,v38.1,hlc0080_h,1,Yes,Yes,
+soep-core,h_statistics,v38.1,hlc0080_h,2,No,No,
+soep-core,h_statistics,v38.1,hlc0083_h,1,Yes,Yes,
+soep-core,h_statistics,v38.1,hlc0083_h,2,No,No,
+soep-core,h_statistics,v38.1,hlc0119_h,1,Yes,Yes,
+soep-core,h_statistics,v38.1,hlc0119_h,2,No,No,
+soep-core,h_statistics,v38.1,hlc0178,1,Yes,Yes,
+soep-core,h_statistics,v38.1,hlc0178,2,No,No,
+soep-core,h_statistics,v38.1,hlc0180,1,,ja,
+soep-core,h_statistics,v38.1,hlc0180,2,,nein,
+soep-core,h_statistics,v38.1,hlc0182,1,Yes,Yes,
+soep-core,h_statistics,v38.1,hlc0182,2,No,No,
+soep-core,h_statistics,v38.1,hlf0151,1,,Sehr sicher,
+soep-core,h_statistics,v38.1,hlf0151,2,,Ziemlich sicher,
+soep-core,h_statistics,v38.1,hlf0151,3,,Ziemlich unsicher,
+soep-core,h_statistics,v38.1,hlf0151,4,,Sehr unsicher,
+soep-core,h_statistics,v38.1,hlf0178_h,1,Yes,Yes,
+soep-core,h_statistics,v38.1,hlf0178_h,2,No,No,
+soep-core,h_statistics,v38.1,hlf0180,1,,Ja,
+soep-core,h_statistics,v38.1,hlf0180,2,,Nein,
+soep-core,h_statistics,v38.1,hlf0186,1,,Ja,
+soep-core,h_statistics,v38.1,hlf0186,2,,Nein,
+soep-core,h_statistics,v38.1,hlf0188,1,,Ja,
+soep-core,h_statistics,v38.1,hlf0188,2,,Nein,
+soep-core,h_statistics,v38.1,hlf0192,1,,Ja,
+soep-core,h_statistics,v38.1,hlf0192,2,,Nein,
+soep-core,h_statistics,v38.1,hlf0196,1,,Ja,
+soep-core,h_statistics,v38.1,hlf0196,2,,Nein,
+soep-core,h_statistics,v38.1,hlf0197,1,,Fewer than 10 books,
+soep-core,h_statistics,v38.1,hlf0197,2,,10 to fewer than 50 books,
+soep-core,h_statistics,v38.1,hlf0197,3,,50 to fewer than 100 books,
+soep-core,h_statistics,v38.1,hlf0197,4,,100 to fewer than 200 books,
+soep-core,h_statistics,v38.1,hlf0197,5,,200 to fewer than 500 books,
+soep-core,h_statistics,v38.1,hlf0197,6,,500 to fewer than 1000 books,
+soep-core,h_statistics,v38.1,hlf0197,7,,1000 books or more,
+soep-core,h_statistics,v38.1,hlf0254,1,,Ja,
+soep-core,h_statistics,v38.1,hlf0254,2,,Nein,
+soep-core,h_statistics,v38.1,hlf0255,1,,Ja,
+soep-core,h_statistics,v38.1,hlf0255,2,,Nein,
+soep-core,h_statistics,v38.1,hlf0256,1,,Ja,
+soep-core,h_statistics,v38.1,hlf0256,2,,Nein,
+soep-core,h_statistics,v38.1,hlf0257,1,,Ja,
+soep-core,h_statistics,v38.1,hlf0257,2,,Nein,
+soep-core,h_statistics,v38.1,hlf0258,1,,Ja,
+soep-core,h_statistics,v38.1,hlf0258,2,,Nein,
+soep-core,h_statistics,v38.1,hlf0261,1,,"Ja, regelmaessig",
+soep-core,h_statistics,v38.1,hlf0261,2,,"Ja, gelegentlich",
+soep-core,h_statistics,v38.1,hlf0261,3,,Nein,
+soep-core,h_statistics,v38.1,hlf0291,1,,Ja,
+soep-core,h_statistics,v38.1,hlf0291,2,,Nein,
+soep-core,h_statistics,v38.1,hlf0613,1,Yes,Yes,
+soep-core,h_statistics,v38.1,hlf0613,2,No,No,
+soep-core,h_statistics,v38.1,hlf0626,1,,Ja,
+soep-core,h_statistics,v38.1,hlf0626,2,,Nein,
+soep-core,h_statistics,v38.1,hlf0627,1,,Ja,
+soep-core,h_statistics,v38.1,hlf0627,2,,Nein,
+soep-core,h_statistics,v38.1,hlf0632_v1,0,,Ueberhaupt kein Problem,
+soep-core,h_statistics,v38.1,hlf0632_v1,10,,Sehr hohe finanzielle Belastung,
+soep-core,h_statistics,v38.1,hlf0633_v1,0,,Ueberhaupt kein Problem,
+soep-core,h_statistics,v38.1,hlf0633_v1,10,,Sehr hohe finanzielle Belastung,
+soep-core,h_statistics,v38.1,petyn,1,,Yes,
+soep-core,h_statistics,v38.1,petyn,2,,No,
+soep-core,h_statistics,v38.1,regtyp,1,,Urban regions,
+soep-core,h_statistics,v38.1,regtyp,2,,Rural regions,
+soep-core,h_statistics,v38.1,rentown,1,,Owner,
+soep-core,h_statistics,v38.1,rentown,2,,Tenant,
+soep-core,h_statistics,v38.1,sampreg,1,,West,
+soep-core,h_statistics,v38.1,sampreg,2,,East,
