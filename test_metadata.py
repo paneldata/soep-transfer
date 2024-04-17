@@ -40,17 +40,23 @@ error = False
 if missing_datasets:
     error = True
     missing_datasets_str = ", ".join(missing_datasets)
-    print("\ndatasets.csv incomplete.")
+    print("datasets.csv incomplete.")
     print(f"Missing datasets: {missing_datasets_str}")
+    print("=" * 20)
+    print("-" * 20)
+    print("=" * 20)
 
 if missing_variables:
     error = True
-    print("\nVariables missing in variable_categories.csv")
-    print("Missing Variables:\n")
+    print("Variables missing in variable_categories.csv")
+    print("Missing Variables:")
     for variable in missing_variables:
         print(f"Dataset: {variable[0]}")
         print(f"Version: {variable[1]}")
-        print(f"Variable: {variable[2]}\n")
+        print(f"Variable: {variable[2]}")
+        print("=" * 20)
+        print("-" * 20)
+        print("=" * 20)
 
 
 if error:
