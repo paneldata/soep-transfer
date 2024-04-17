@@ -38,12 +38,13 @@ with open("./metadata/variables.csv", "r", encoding="utf-8") as file:
 error = False
 
 if missing_datasets:
+    error = True
     missing_datasets_str = ", ".join(missing_datasets)
     print("\ndatasets.csv incomplete.")
     print(f"Missing datasets: {missing_datasets_str}")
-    error = True
 
 if missing_variables:
+    error = True
     print("\nVariables missing in variable_categories.csv")
     print("Missing Variables:\n")
     for variable in missing_variables:
