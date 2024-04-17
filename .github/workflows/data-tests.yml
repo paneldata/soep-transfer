@@ -1,0 +1,21 @@
+name: Data-Tests
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  test:
+
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: ["3.12"]
+
+    steps:
+      - uses: actions/checkout@b4ffde65f46336ab88eb53be808477a3936bae11 # v4.1.1
+
+      - name: Test Metadata
+        run: python3.12 test_metadata.py
+        
