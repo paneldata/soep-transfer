@@ -1,4 +1,5 @@
 study,dataset,version,variable,value,label,label_de,_merge
+soep-core,p_statistics,v38.1,age_gr,0,under 18 y.,unter 18 J.,Matched (3)
 soep-core,p_statistics,v38.1,age_gr,1,18-29 y.,18-29 J.,Matched (3)
 soep-core,p_statistics,v38.1,age_gr,2,30-45 y.,30-45 J.,Matched (3)
 soep-core,p_statistics,v38.1,age_gr,3,46-65 y.,46-65 J.,Matched (3)
@@ -753,110 +754,135 @@ soep-core,p_statistics,v38.1,sex,1,male,maennlich,Matched (3)
 soep-core,p_statistics,v38.1,sex,2,female,weiblich,Matched (3)
 soep-core,p_statistics,v38.1,train,1,Yes,Ja,Matched (3)
 soep-core,p_statistics,v38.1,train,2,No,Nein,Matched (3)
-soep-core,h_statistics,v38.1,bula_h,1,Schleswig-Holstein,Schleswig-Holstein,
-soep-core,h_statistics,v38.1,bula_h,2,Hamburg,Hamburg,
-soep-core,h_statistics,v38.1,bula_h,3,Lower Saxony,Niedersachsen,
-soep-core,h_statistics,v38.1,bula_h,4,Bremen,Bremen,
-soep-core,h_statistics,v38.1,bula_h,5,North Rhine-Westphalia,Nordrhein-Westfalen,
-soep-core,h_statistics,v38.1,bula_h,6,Hesse,Hessen,
-soep-core,h_statistics,v38.1,bula_h,7,"Rhineland-Palatinate, Saarland","Rheinland-Pfalz,Saarland",
-soep-core,h_statistics,v38.1,bula_h,8,Baden-Wuerttemberg,Baden-Wuerttemberg,
-soep-core,h_statistics,v38.1,bula_h,9,Bavaria,Bayern,
-soep-core,h_statistics,v38.1,bula_h,10,,Saarland,
-soep-core,h_statistics,v38.1,bula_h,11,Berlin,Berlin,
-soep-core,h_statistics,v38.1,bula_h,12,Brandenburg,Brandenburg,
-soep-core,h_statistics,v38.1,bula_h,13,Mecklenburg-Western Pomerania,Mecklenburg-Vorpommern,
-soep-core,h_statistics,v38.1,bula_h,14,Saxony,Sachsen,
-soep-core,h_statistics,v38.1,bula_h,15,Saxony-Anhalt,Sachsen-Anhalt,
-soep-core,h_statistics,v38.1,bula_h,16,Thuringa,Thueringen,
-soep-core,h_statistics,v38.1,hgeqpgar,1,,Ja,
-soep-core,h_statistics,v38.1,hgeqpgar,2,,Nein,
-soep-core,h_statistics,v38.1,hgeqpinsul,1,,Ja,
-soep-core,h_statistics,v38.1,hgeqpinsul,2,,Nein,
-soep-core,h_statistics,v38.1,hgeqpmglass,1,,Ja,
-soep-core,h_statistics,v38.1,hgeqpmglass,2,,Nein,
-soep-core,h_statistics,v38.1,hgeqpnrj,1,,Ja,
-soep-core,h_statistics,v38.1,hgeqpnrj,2,,Nein,
-soep-core,h_statistics,v38.1,hgeqpsol,1,,Ja,
-soep-core,h_statistics,v38.1,hgeqpsol,2,,Nein,
-soep-core,h_statistics,v38.1,hgeqpter,1,,Ja,
-soep-core,h_statistics,v38.1,hgeqpter,2,,Nein,
-soep-core,h_statistics,v38.1,hgreval,1,,Sehr guenstig,
-soep-core,h_statistics,v38.1,hgreval,2,,Guenstig,
-soep-core,h_statistics,v38.1,hgreval,3,,Angemessen,
-soep-core,h_statistics,v38.1,hgreval,4,,Etwas zu hoch,
-soep-core,h_statistics,v38.1,hgreval,5,,Viel zu hoch,
-soep-core,h_statistics,v38.1,hgroom,1,,1 Zimmer,
-soep-core,h_statistics,v38.1,hgroom,2,,2 Zimmer,
-soep-core,h_statistics,v38.1,hgroom,3,,3 Zimmer,
-soep-core,h_statistics,v38.1,hgroom,4,,4 Zimmer,
-soep-core,h_statistics,v38.1,hgroom,5,,5 Zimmer,
-soep-core,h_statistics,v38.1,hgroom,6,,6 Zimmer,
-soep-core,h_statistics,v38.1,hgroom,7,,7 Zimmer,
-soep-core,h_statistics,v38.1,hgroom,8,,8 Zimmer,
-soep-core,h_statistics,v38.1,hgroom,9,,9 Zimmer,
-soep-core,h_statistics,v38.1,hgroom,10,,10 oder mehr Zimmer,
-soep-core,h_statistics,v38.1,hgseval,1,,Viel zu klein,
-soep-core,h_statistics,v38.1,hgseval,2,,Etwas zu klein,
-soep-core,h_statistics,v38.1,hgseval,3,,Gerade richtig,
-soep-core,h_statistics,v38.1,hgseval,4,,Etwas zu gross,
-soep-core,h_statistics,v38.1,hgseval,5,,Viel zu gross,
-soep-core,h_statistics,v38.1,hhgr,0,,Aufgeloeste/n.bearbeitete Haushalte,
-soep-core,h_statistics,v38.1,hlc0052,1,,Ja,
-soep-core,h_statistics,v38.1,hlc0052,2,,Nein,
-soep-core,h_statistics,v38.1,hlc0061_h,1,Yes,Ja,
-soep-core,h_statistics,v38.1,hlc0061_h,2,No,Nein,
-soep-core,h_statistics,v38.1,hlc0080_h,1,Yes,Ja,
-soep-core,h_statistics,v38.1,hlc0080_h,2,No,Nein,
-soep-core,h_statistics,v38.1,hlc0083_h,1,Yes,Ja,
-soep-core,h_statistics,v38.1,hlc0083_h,2,No,Nein,
-soep-core,h_statistics,v38.1,hlc0119_h,1,Yes,Ja,
-soep-core,h_statistics,v38.1,hlc0119_h,2,No,Nein,
-soep-core,h_statistics,v38.1,hlc0178,1,Yes,ja,
-soep-core,h_statistics,v38.1,hlc0178,2,No,nein,
-soep-core,h_statistics,v38.1,hlc0180,1,,ja,
-soep-core,h_statistics,v38.1,hlc0180,2,,nein,
-soep-core,h_statistics,v38.1,hlc0182,1,Yes,ja,
-soep-core,h_statistics,v38.1,hlc0182,2,No,nein,
-soep-core,h_statistics,v38.1,hlf0151,1,,Sehr sicher,
-soep-core,h_statistics,v38.1,hlf0151,2,,Ziemlich sicher,
-soep-core,h_statistics,v38.1,hlf0151,3,,Ziemlich unsicher,
-soep-core,h_statistics,v38.1,hlf0151,4,,Sehr unsicher,
-soep-core,h_statistics,v38.1,hlf0178_h,1,Yes,Ja,
-soep-core,h_statistics,v38.1,hlf0178_h,2,No,Nein,
-soep-core,h_statistics,v38.1,hlf0180,1,,Ja,
-soep-core,h_statistics,v38.1,hlf0180,2,,Nein,
-soep-core,h_statistics,v38.1,hlf0186,1,,Ja,
-soep-core,h_statistics,v38.1,hlf0186,2,,Nein,
-soep-core,h_statistics,v38.1,hlf0188,1,,Ja,
-soep-core,h_statistics,v38.1,hlf0188,2,,Nein,
-soep-core,h_statistics,v38.1,hlf0192,1,,Ja,
-soep-core,h_statistics,v38.1,hlf0192,2,,Nein,
-soep-core,h_statistics,v38.1,hlf0196,1,,Ja,
-soep-core,h_statistics,v38.1,hlf0197,1,,unter 10,
-soep-core,h_statistics,v38.1,hlf0197,2,,10 bis unter 50,
-soep-core,h_statistics,v38.1,hlf0197,3,,50 bis unter 100,
-soep-core,h_statistics,v38.1,hlf0197,4,,100 bis unter 200,
-soep-core,h_statistics,v38.1,hlf0197,5,,200 bis unter 500,
-soep-core,h_statistics,v38.1,hlf0197,6,,500 bis unter 1000,
-soep-core,h_statistics,v38.1,hlf0197,7,,1000 und mehr,
-soep-core,h_statistics,v38.1,hlf0254,1,,Ja,
-soep-core,h_statistics,v38.1,hlf0255,1,,Ja,
-soep-core,h_statistics,v38.1,hlf0256,1,,Ja,
-soep-core,h_statistics,v38.1,hlf0257,1,,Ja,
-soep-core,h_statistics,v38.1,hlf0258,1,,Ja,
-soep-core,h_statistics,v38.1,hlf0261,1,,"Ja, regelmaessig",
-soep-core,h_statistics,v38.1,hlf0261,2,,"Ja, gelegentlich",
-soep-core,h_statistics,v38.1,hlf0261,3,,Nein,
-soep-core,h_statistics,v38.1,hlf0291,1,,Ja,
-soep-core,h_statistics,v38.1,hlf0291,2,,Nein,
-soep-core,h_statistics,v38.1,hlf0613,1,Yes,ja,
-soep-core,h_statistics,v38.1,hlf0613,2,No,nein,
-soep-core,h_statistics,v38.1,hlf0632_v1,0,,Ueberhaupt kein Problem,
-soep-core,h_statistics,v38.1,hlf0632_v1,10,,Sehr hohe finanzielle Belastung,
-soep-core,h_statistics,v38.1,hlf0633_v1,0,,Ueberhaupt kein Problem,
-soep-core,h_statistics,v38.1,hlf0633_v1,10,,Sehr hohe finanzielle Belastung,
-soep-core,h_statistics,v38.1,regtyp,1,,Staedtischer Raum,
-soep-core,h_statistics,v38.1,regtyp,2,,Laendlicher Raum,
-soep-core,h_statistics,v38.1,sampreg,1,,Westdeutschland,
-soep-core,h_statistics,v38.1,sampreg,2,,Ostdeutschland,
+soep-core,h_statistics,v38.1,bula_h,1,Schleswig-Holstein,Schleswig-Holstein,Matched (3)
+soep-core,h_statistics,v38.1,bula_h,2,Hamburg,Hamburg,Matched (3)
+soep-core,h_statistics,v38.1,bula_h,3,Lower Saxony,Niedersachsen,Matched (3)
+soep-core,h_statistics,v38.1,bula_h,4,Bremen,Bremen,Matched (3)
+soep-core,h_statistics,v38.1,bula_h,5,North Rhine-Westphalia,Nordrhein-Westfalen,Matched (3)
+soep-core,h_statistics,v38.1,bula_h,6,Hesse,Hessen,Matched (3)
+soep-core,h_statistics,v38.1,bula_h,7,"Rhineland-Palatinate, Saarland","Rheinland-Pfalz,Saarland",Matched (3)
+soep-core,h_statistics,v38.1,bula_h,8,Baden-Wuerttemberg,Baden-Württemberg,Matched (3)
+soep-core,h_statistics,v38.1,bula_h,9,Bavaria,Bayern,Matched (3)
+soep-core,h_statistics,v38.1,bula_h,11,Berlin,Berlin,Matched (3)
+soep-core,h_statistics,v38.1,bula_h,12,Brandenburg,Brandenburg,Matched (3)
+soep-core,h_statistics,v38.1,bula_h,13,Mecklenburg-Western Pomerania,Mecklenburg-Vorpommern,Matched (3)
+soep-core,h_statistics,v38.1,bula_h,14,Saxony,Sachsen,Matched (3)
+soep-core,h_statistics,v38.1,bula_h,15,Saxony-Anhalt,Sachsen-Anhalt,Matched (3)
+soep-core,h_statistics,v38.1,bula_h,16,Thuringa,Thüringen,Matched (3)
+soep-core,h_statistics,v38.1,hgeqpgar,1,Yes,Ja,Matched (3)
+soep-core,h_statistics,v38.1,hgeqpgar,2,No,Nein,Matched (3)
+soep-core,h_statistics,v38.1,hgeqpinsul,1,Yes,Ja,Matched (3)
+soep-core,h_statistics,v38.1,hgeqpinsul,2,No,Nein,Matched (3)
+soep-core,h_statistics,v38.1,hgeqpmglass,1,Yes,Ja,Matched (3)
+soep-core,h_statistics,v38.1,hgeqpmglass,2,No,Nein,Matched (3)
+soep-core,h_statistics,v38.1,hgeqpnrj,1,Yes,Ja,Matched (3)
+soep-core,h_statistics,v38.1,hgeqpnrj,2,No,Nein,Matched (3)
+soep-core,h_statistics,v38.1,hgeqpsol,1,Yes,Ja,Matched (3)
+soep-core,h_statistics,v38.1,hgeqpsol,2,No,Nein,Matched (3)
+soep-core,h_statistics,v38.1,hgeqpter,1,Yes,Ja,Matched (3)
+soep-core,h_statistics,v38.1,hgeqpter,2,No,Nein,Matched (3)
+soep-core,h_statistics,v38.1,hgreval,1,Very Inexpensive,Sehr guenstig,Matched (3)
+soep-core,h_statistics,v38.1,hgreval,2,Inexpensive,Guenstig,Matched (3)
+soep-core,h_statistics,v38.1,hgreval,3,Reasonable,Angemessen,Matched (3)
+soep-core,h_statistics,v38.1,hgreval,4,Slightly Expensive,Etwas zu hoch,Matched (3)
+soep-core,h_statistics,v38.1,hgreval,5,Too Expensive,Viel zu hoch,Matched (3)
+soep-core,h_statistics,v38.1,hgroom,1,1 room,1 Zimmer,Matched (3)
+soep-core,h_statistics,v38.1,hgroom,2,2 rooms,2 Zimmer,Matched (3)
+soep-core,h_statistics,v38.1,hgroom,3,3 rooms,3 Zimmer,Matched (3)
+soep-core,h_statistics,v38.1,hgroom,4,4 rooms,4 Zimmer,Matched (3)
+soep-core,h_statistics,v38.1,hgroom,5,5 rooms,5 Zimmer,Matched (3)
+soep-core,h_statistics,v38.1,hgroom,6,6 rooms,6 Zimmer,Matched (3)
+soep-core,h_statistics,v38.1,hgroom,7,7 rooms,7 Zimmer,Matched (3)
+soep-core,h_statistics,v38.1,hgroom,8,8 rooms,8 Zimmer,Matched (3)
+soep-core,h_statistics,v38.1,hgroom,9,9 rooms,9 Zimmer,Matched (3)
+soep-core,h_statistics,v38.1,hgroom,10,10 or more rooms,10 oder mehr Zimmer,Matched (3)
+soep-core,h_statistics,v38.1,hgseval,1,Much Too Small,Viel zu klein,Matched (3)
+soep-core,h_statistics,v38.1,hgseval,2,A Bit Too Small,Etwas zu klein,Matched (3)
+soep-core,h_statistics,v38.1,hgseval,3,Just Right,Gerade richtig,Matched (3)
+soep-core,h_statistics,v38.1,hgseval,4,A Bit Too Large,Etwas zu gross,Matched (3)
+soep-core,h_statistics,v38.1,hgseval,5,Much Too Large,Viel zu gross,Matched (3)
+soep-core,h_statistics,v38.1,hhgr,0,HH Dissolved/ Not Processed,Aufgeloeste/n.bearbeitete Haushalte,Matched (3)
+soep-core,h_statistics,v38.1,hhtyp,1,Single-person household,,Using only (2)
+soep-core,h_statistics,v38.1,hhtyp,2,Couple without children,,Using only (2)
+soep-core,h_statistics,v38.1,hhtyp,3,Single parent,,Using only (2)
+soep-core,h_statistics,v38.1,hhtyp,4,Couple with children,,Using only (2)
+soep-core,h_statistics,v38.1,hhtyp,5,Multi-generational household,,Using only (2)
+soep-core,h_statistics,v38.1,hhtyp,6,Other Combinations,,Using only (2)
+soep-core,h_statistics,v38.1,hlc0052,1,Yes,Ja,Matched (3)
+soep-core,h_statistics,v38.1,hlc0052,2,No,Nein,Matched (3)
+soep-core,h_statistics,v38.1,hlc0061_h,1,Yes,Ja,Matched (3)
+soep-core,h_statistics,v38.1,hlc0061_h,2,No,Nein,Matched (3)
+soep-core,h_statistics,v38.1,hlc0080_h,1,Yes,Ja,Matched (3)
+soep-core,h_statistics,v38.1,hlc0080_h,2,No,Nein,Matched (3)
+soep-core,h_statistics,v38.1,hlc0083_h,1,Yes,Ja,Matched (3)
+soep-core,h_statistics,v38.1,hlc0083_h,2,No,Nein,Matched (3)
+soep-core,h_statistics,v38.1,hlc0119_h,1,Yes,Ja,Matched (3)
+soep-core,h_statistics,v38.1,hlc0119_h,2,No,Nein,Matched (3)
+soep-core,h_statistics,v38.1,hlc0178,1,Yes,ja,Matched (3)
+soep-core,h_statistics,v38.1,hlc0178,2,No,nein,Matched (3)
+soep-core,h_statistics,v38.1,hlc0180,1,Yes,ja,Matched (3)
+soep-core,h_statistics,v38.1,hlc0180,2,No,nein,Matched (3)
+soep-core,h_statistics,v38.1,hlc0182,1,Yes,ja,Matched (3)
+soep-core,h_statistics,v38.1,hlc0182,2,No,nein,Matched (3)
+soep-core,h_statistics,v38.1,hlf0151,1,Certain,Sehr sicher,Matched (3)
+soep-core,h_statistics,v38.1,hlf0151,2,Relatively Certain,Ziemlich sicher,Matched (3)
+soep-core,h_statistics,v38.1,hlf0151,3,Relatively Uncertain,Ziemlich unsicher,Matched (3)
+soep-core,h_statistics,v38.1,hlf0151,4,Very Uncertain,Sehr unsicher,Matched (3)
+soep-core,h_statistics,v38.1,hlf0178_h,1,Yes,Ja,Matched (3)
+soep-core,h_statistics,v38.1,hlf0178_h,2,No,Nein,Matched (3)
+soep-core,h_statistics,v38.1,hlf0180,1,Yes,Ja,Matched (3)
+soep-core,h_statistics,v38.1,hlf0180,2,No,Nein,Matched (3)
+soep-core,h_statistics,v38.1,hlf0186,1,Yes,Ja,Matched (3)
+soep-core,h_statistics,v38.1,hlf0186,2,No,Nein,Matched (3)
+soep-core,h_statistics,v38.1,hlf0188,1,Yes,Ja,Matched (3)
+soep-core,h_statistics,v38.1,hlf0188,2,No,Nein,Matched (3)
+soep-core,h_statistics,v38.1,hlf0192,1,Yes,Ja,Matched (3)
+soep-core,h_statistics,v38.1,hlf0192,2,No,Nein,Matched (3)
+soep-core,h_statistics,v38.1,hlf0196,1,,Ja,Master only (1)
+soep-core,h_statistics,v38.1,hlf0197,1,Fewer than 10 books,unter 10,Matched (3)
+soep-core,h_statistics,v38.1,hlf0197,2,10 to fewer than 50 books,10 bis unter 50,Matched (3)
+soep-core,h_statistics,v38.1,hlf0197,3,50 to fewer than 100 books,50 bis unter 100,Matched (3)
+soep-core,h_statistics,v38.1,hlf0197,4,100 to fewer than 200 books,100 bis unter 200,Matched (3)
+soep-core,h_statistics,v38.1,hlf0197,5,200 to fewer than 500 books,200 bis unter 500,Matched (3)
+soep-core,h_statistics,v38.1,hlf0197,6,500 to fewer than 1000 books,500 bis unter 1000,Matched (3)
+soep-core,h_statistics,v38.1,hlf0197,7,1000 books or more,1000 und mehr,Matched (3)
+soep-core,h_statistics,v38.1,hlf0254,1,,Ja,Master only (1)
+soep-core,h_statistics,v38.1,hlf0255,1,,Ja,Master only (1)
+soep-core,h_statistics,v38.1,hlf0256,1,,Ja,Master only (1)
+soep-core,h_statistics,v38.1,hlf0257,1,,Ja,Master only (1)
+soep-core,h_statistics,v38.1,hlf0258,1,,Ja,Master only (1)
+soep-core,h_statistics,v38.1,hlf0261,1,"Yes, Regularly","Ja, regelmaessig",Matched (3)
+soep-core,h_statistics,v38.1,hlf0261,2,"Yes, Occasionally","Ja, gelegentlich",Matched (3)
+soep-core,h_statistics,v38.1,hlf0261,3,No,Nein,Matched (3)
+soep-core,h_statistics,v38.1,hlf0291,1,Yes,Ja,Matched (3)
+soep-core,h_statistics,v38.1,hlf0291,2,No,Nein,Matched (3)
+soep-core,h_statistics,v38.1,hlf0613,1,Yes,ja,Matched (3)
+soep-core,h_statistics,v38.1,hlf0613,2,No,nein,Matched (3)
+soep-core,h_statistics,v38.1,hlf0632_v1,0,Not a problem at all,Ueberhaupt kein Problem,Matched (3)
+soep-core,h_statistics,v38.1,hlf0632_v1,10,Very High Financial Burden,Sehr hohe finanzielle Belastung,Matched (3)
+soep-core,h_statistics,v38.1,hlf0633_v1,0,Not a problem at all,Ueberhaupt kein Problem,Matched (3)
+soep-core,h_statistics,v38.1,hlf0633_v1,10,Very High Financial Burden,Sehr hohe finanzielle Belastung,Matched (3)
+soep-core,h_statistics,v38.1,pet_bird,1,Yes,,Using only (2)
+soep-core,h_statistics,v38.1,pet_bird,2,No,,Using only (2)
+soep-core,h_statistics,v38.1,pet_cat,1,Yes,,Using only (2)
+soep-core,h_statistics,v38.1,pet_cat,2,No,,Using only (2)
+soep-core,h_statistics,v38.1,pet_dog,1,Yes,,Using only (2)
+soep-core,h_statistics,v38.1,pet_dog,2,No,,Using only (2)
+soep-core,h_statistics,v38.1,pet_fish,1,Yes,,Using only (2)
+soep-core,h_statistics,v38.1,pet_fish,2,No,,Using only (2)
+soep-core,h_statistics,v38.1,pet_horse,1,Yes,,Using only (2)
+soep-core,h_statistics,v38.1,pet_horse,2,No,,Using only (2)
+soep-core,h_statistics,v38.1,pet_other,1,Yes,,Using only (2)
+soep-core,h_statistics,v38.1,pet_other,2,No,,Using only (2)
+soep-core,h_statistics,v38.1,pet_othrodent,1,Yes,,Using only (2)
+soep-core,h_statistics,v38.1,pet_othrodent,2,No,,Using only (2)
+soep-core,h_statistics,v38.1,pet_rabbit,1,Yes,,Using only (2)
+soep-core,h_statistics,v38.1,pet_rabbit,2,No,,Using only (2)
+soep-core,h_statistics,v38.1,petyn,1,Yes,,Using only (2)
+soep-core,h_statistics,v38.1,petyn,2,No,,Using only (2)
+soep-core,h_statistics,v38.1,regtyp,1,Urban regions,Staedtischer Raum,Matched (3)
+soep-core,h_statistics,v38.1,regtyp,2,Rural regions,Laendlicher Raum,Matched (3)
+soep-core,h_statistics,v38.1,rentown,1,Owner,,Using only (2)
+soep-core,h_statistics,v38.1,rentown,2,Tenant,,Using only (2)
+soep-core,h_statistics,v38.1,sampreg,1,West,Westdeutschland,Matched (3)
+soep-core,h_statistics,v38.1,sampreg,2,East,Ostdeutschland,Matched (3)
