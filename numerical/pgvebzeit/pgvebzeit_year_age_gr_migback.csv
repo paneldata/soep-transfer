@@ -1,11 +1,12 @@
 year,age_gr,migback,mean,mean_lower_confidence,mean_upper_confidence,lower_quartile,boxplot_median,upper_quartile,lower_whisker,upper_whisker,median,median_lower_confidence,median_upper_confidence,n
-1984,0,kein Migrationshintergrund,,,,,,,,,,,,
-1984,0,indirekter Migrationshintergrund,,,,,,,,,,,,
+1984,unter 18 J.,kein Migrationshintergrund,,,,,,,,,,,,
+1984,unter 18 J.,direkter Migrationshintergrund,,,,,,,,,,,,
+1984,unter 18 J.,indirekter Migrationshintergrund,,,,,,,,,,,,
 1984,18-29 J.,kein Migrationshintergrund,39.23154711296122,39.06086882335494,39.40222540256751,40.0,40.0,40.0,40.0,40.0,40.0,40.0,40.0,1304.0
-1984,18-29 J.,direkter Migrationshintergrund,39.98973313138245,39.72239547869068,40.25707078407422,40.0,40.0,40.0,40.0,40.0,40.0,40.0,40.0,533.0
+1984,18-29 J.,direkter Migrationshintergrund,39.989733131382444,39.72239547869067,40.257070784074216,40.0,40.0,40.0,40.0,40.0,40.0,40.0,40.0,533.0
 1984,18-29 J.,indirekter Migrationshintergrund,39.086817017480556,38.49859211124103,39.67504192372008,40.0,40.0,40.0,40.0,40.0,40.0,40.0,40.0,38.0
-1984,30-45 J.,kein Migrationshintergrund,36.68584555633161,36.44992470683864,36.92176640582458,40.0,40.0,40.0,40.0,40.0,40.0,40.0,40.0,1546.0
-1984,30-45 J.,direkter Migrationshintergrund,37.8328784587023,37.58765689295549,38.0781000244491,40.0,40.0,40.0,40.0,40.0,40.0,40.0,40.0,943.0
+1984,30-45 J.,kein Migrationshintergrund,36.68584555633161,36.44992470683863,36.921766405824584,40.0,40.0,40.0,40.0,40.0,40.0,40.0,40.0,1546.0
+1984,30-45 J.,direkter Migrationshintergrund,37.83287845870231,37.58765689295551,38.078100024449114,40.0,40.0,40.0,40.0,40.0,40.0,40.0,40.0,943.0
 1984,30-45 J.,indirekter Migrationshintergrund,,,,,,,,,,,,
 1984,46-65 J.,kein Migrationshintergrund,37.67602738956874,37.43269976307723,37.919355016060244,40.0,40.0,40.0,40.0,40.0,40.0,40.0,40.0,1169.0
 1984,46-65 J.,direkter Migrationshintergrund,38.615240825076256,38.334702395448595,38.89577925470392,40.0,40.0,40.0,40.0,40.0,40.0,40.0,40.0,603.0
@@ -13,158 +14,44 @@ year,age_gr,migback,mean,mean_lower_confidence,mean_upper_confidence,lower_quart
 1984,66 und älter,kein Migrationshintergrund,,,,,,,,,,,,
 1984,66 und älter,direkter Migrationshintergrund,,,,,,,,,,,,
 1984,66 und älter,indirekter Migrationshintergrund,,,,,,,,,,,,
-1984,5,kein Migrationshintergrund,,,,,,,,,,,,
-1984,5,direkter Migrationshintergrund,,,,,,,,,,,,
-1984,5,indirekter Migrationshintergrund,,,,,,,,,,,,
-1984,6,kein Migrationshintergrund,,,,,,,,,,,,
-1984,6,direkter Migrationshintergrund,,,,,,,,,,,,
-1984,6,indirekter Migrationshintergrund,,,,,,,,,,,,
-1984,7,kein Migrationshintergrund,,,,,,,,,,,,
-1984,7,direkter Migrationshintergrund,,,,,,,,,,,,
-1984,7,indirekter Migrationshintergrund,,,,,,,,,,,,
-1984,8,kein Migrationshintergrund,,,,,,,,,,,,
-1984,8,direkter Migrationshintergrund,,,,,,,,,,,,
-1984,8,indirekter Migrationshintergrund,,,,,,,,,,,,
-1984,9,kein Migrationshintergrund,,,,,,,,,,,,
-1984,9,direkter Migrationshintergrund,,,,,,,,,,,,
-1984,9,indirekter Migrationshintergrund,,,,,,,,,,,,
-1984,10,kein Migrationshintergrund,,,,,,,,,,,,
-1984,10,direkter Migrationshintergrund,,,,,,,,,,,,
-1984,10,indirekter Migrationshintergrund,,,,,,,,,,,,
-1984,11,kein Migrationshintergrund,,,,,,,,,,,,
-1984,11,direkter Migrationshintergrund,,,,,,,,,,,,
-1984,11,indirekter Migrationshintergrund,,,,,,,,,,,,
-1984,12,kein Migrationshintergrund,,,,,,,,,,,,
-1984,12,direkter Migrationshintergrund,,,,,,,,,,,,
-1984,12,indirekter Migrationshintergrund,,,,,,,,,,,,
-1984,13,kein Migrationshintergrund,,,,,,,,,,,,
-1984,13,direkter Migrationshintergrund,,,,,,,,,,,,
-1984,13,indirekter Migrationshintergrund,,,,,,,,,,,,
-1984,14,kein Migrationshintergrund,,,,,,,,,,,,
-1984,14,direkter Migrationshintergrund,,,,,,,,,,,,
-1984,14,indirekter Migrationshintergrund,,,,,,,,,,,,
-1984,15,kein Migrationshintergrund,,,,,,,,,,,,
-1984,15,direkter Migrationshintergrund,,,,,,,,,,,,
-1984,15,indirekter Migrationshintergrund,,,,,,,,,,,,
-1984,16,kein Migrationshintergrund,,,,,,,,,,,,
-1984,16,direkter Migrationshintergrund,,,,,,,,,,,,
-1984,16,indirekter Migrationshintergrund,,,,,,,,,,,,
-1984,17,kein Migrationshintergrund,,,,,,,,,,,,
-1984,17,direkter Migrationshintergrund,,,,,,,,,,,,
-1984,17,indirekter Migrationshintergrund,,,,,,,,,,,,
-1985,0,kein Migrationshintergrund,,,,,,,,,,,,
-1985,0,indirekter Migrationshintergrund,,,,,,,,,,,,
+1985,unter 18 J.,kein Migrationshintergrund,,,,,,,,,,,,
+1985,unter 18 J.,direkter Migrationshintergrund,,,,,,,,,,,,
+1985,unter 18 J.,indirekter Migrationshintergrund,,,,,,,,,,,,
 1985,18-29 J.,kein Migrationshintergrund,38.73665575287034,38.5680223751871,38.905289130553584,40.0,40.0,40.0,40.0,40.0,40.0,40.0,40.0,1160.0
-1985,18-29 J.,direkter Migrationshintergrund,39.17805201553783,38.847794474615995,39.508309556459665,40.0,40.0,40.0,40.0,40.0,40.0,40.0,40.0,435.0
+1985,18-29 J.,direkter Migrationshintergrund,39.17805201553782,38.84779447461599,39.50830955645966,40.0,40.0,40.0,40.0,40.0,40.0,40.0,40.0,435.0
 1985,18-29 J.,indirekter Migrationshintergrund,39.84106378998319,39.43538359633876,40.24674398362762,40.0,40.0,40.0,40.0,40.0,40.0,40.0,40.0,42.0
 1985,30-45 J.,kein Migrationshintergrund,36.24246267986928,36.02301160639408,36.461913753344476,39.0,40.0,40.0,37.5,41.5,40.0,40.0,40.0,1377.0
-1985,30-45 J.,direkter Migrationshintergrund,37.717947352654974,37.462004628671295,37.973890076638654,39.0,40.0,40.0,37.5,41.5,40.0,40.0,40.0,783.0
+1985,30-45 J.,direkter Migrationshintergrund,37.71794735265498,37.4620046286713,37.97389007663866,39.0,40.0,40.0,37.5,41.5,40.0,40.0,40.0,783.0
 1985,30-45 J.,indirekter Migrationshintergrund,,,,,,,,,,,,
 1985,46-65 J.,kein Migrationshintergrund,36.7535319419027,36.52009972410135,36.98696415970405,40.0,40.0,40.0,40.0,40.0,40.0,40.0,40.0,1073.0
-1985,46-65 J.,direkter Migrationshintergrund,37.58928326508829,37.2844207741278,37.89414575604878,40.0,40.0,40.0,40.0,40.0,40.0,40.0,40.0,532.0
+1985,46-65 J.,direkter Migrationshintergrund,37.589283265088284,37.284420774127796,37.89414575604877,40.0,40.0,40.0,40.0,40.0,40.0,40.0,40.0,532.0
 1985,46-65 J.,indirekter Migrationshintergrund,,,,,,,,,,,,
 1985,66 und älter,kein Migrationshintergrund,,,,,,,,,,,,
 1985,66 und älter,direkter Migrationshintergrund,,,,,,,,,,,,
 1985,66 und älter,indirekter Migrationshintergrund,,,,,,,,,,,,
-1985,5,kein Migrationshintergrund,,,,,,,,,,,,
-1985,5,direkter Migrationshintergrund,,,,,,,,,,,,
-1985,5,indirekter Migrationshintergrund,,,,,,,,,,,,
-1985,6,kein Migrationshintergrund,,,,,,,,,,,,
-1985,6,direkter Migrationshintergrund,,,,,,,,,,,,
-1985,6,indirekter Migrationshintergrund,,,,,,,,,,,,
-1985,7,kein Migrationshintergrund,,,,,,,,,,,,
-1985,7,direkter Migrationshintergrund,,,,,,,,,,,,
-1985,7,indirekter Migrationshintergrund,,,,,,,,,,,,
-1985,8,kein Migrationshintergrund,,,,,,,,,,,,
-1985,8,direkter Migrationshintergrund,,,,,,,,,,,,
-1985,8,indirekter Migrationshintergrund,,,,,,,,,,,,
-1985,9,kein Migrationshintergrund,,,,,,,,,,,,
-1985,9,direkter Migrationshintergrund,,,,,,,,,,,,
-1985,9,indirekter Migrationshintergrund,,,,,,,,,,,,
-1985,10,kein Migrationshintergrund,,,,,,,,,,,,
-1985,10,direkter Migrationshintergrund,,,,,,,,,,,,
-1985,10,indirekter Migrationshintergrund,,,,,,,,,,,,
-1985,11,kein Migrationshintergrund,,,,,,,,,,,,
-1985,11,direkter Migrationshintergrund,,,,,,,,,,,,
-1985,11,indirekter Migrationshintergrund,,,,,,,,,,,,
-1985,12,kein Migrationshintergrund,,,,,,,,,,,,
-1985,12,direkter Migrationshintergrund,,,,,,,,,,,,
-1985,12,indirekter Migrationshintergrund,,,,,,,,,,,,
-1985,13,kein Migrationshintergrund,,,,,,,,,,,,
-1985,13,direkter Migrationshintergrund,,,,,,,,,,,,
-1985,13,indirekter Migrationshintergrund,,,,,,,,,,,,
-1985,14,kein Migrationshintergrund,,,,,,,,,,,,
-1985,14,direkter Migrationshintergrund,,,,,,,,,,,,
-1985,14,indirekter Migrationshintergrund,,,,,,,,,,,,
-1985,15,kein Migrationshintergrund,,,,,,,,,,,,
-1985,15,direkter Migrationshintergrund,,,,,,,,,,,,
-1985,15,indirekter Migrationshintergrund,,,,,,,,,,,,
-1985,16,kein Migrationshintergrund,,,,,,,,,,,,
-1985,16,direkter Migrationshintergrund,,,,,,,,,,,,
-1985,16,indirekter Migrationshintergrund,,,,,,,,,,,,
-1985,17,kein Migrationshintergrund,,,,,,,,,,,,
-1985,17,direkter Migrationshintergrund,,,,,,,,,,,,
-1985,17,indirekter Migrationshintergrund,,,,,,,,,,,,
-1986,0,kein Migrationshintergrund,,,,,,,,,,,,
-1986,0,indirekter Migrationshintergrund,,,,,,,,,,,,
+1986,unter 18 J.,kein Migrationshintergrund,,,,,,,,,,,,
+1986,unter 18 J.,direkter Migrationshintergrund,,,,,,,,,,,,
+1986,unter 18 J.,indirekter Migrationshintergrund,,,,,,,,,,,,
 1986,18-29 J.,kein Migrationshintergrund,38.6511579196768,38.49793496729636,38.80438087205724,39.0,40.0,40.0,37.5,41.5,40.0,40.0,40.0,1178.0
-1986,18-29 J.,direkter Migrationshintergrund,38.727522503945266,38.45470492896697,39.000340078923564,39.0,40.0,40.0,37.5,41.5,40.0,40.0,40.0,430.0
-1986,18-29 J.,indirekter Migrationshintergrund,38.84497143580287,38.183107806036126,39.50683506556961,39.0,40.0,40.0,37.5,41.5,40.0,40.0,40.025,62.0
+1986,18-29 J.,direkter Migrationshintergrund,38.72752250394527,38.454704928966976,39.00034007892357,39.0,40.0,40.0,37.5,41.5,40.0,40.0,40.0,430.0
+1986,18-29 J.,indirekter Migrationshintergrund,38.84497143580287,38.183107806036126,39.50683506556961,39.0,40.0,40.0,37.5,41.5,40.0,40.0,40.0,62.0
 1986,30-45 J.,kein Migrationshintergrund,36.45530557662848,36.24567578775884,36.664935365498124,38.0,40.0,40.0,35.0,43.0,40.0,40.0,40.0,1286.0
 1986,30-45 J.,direkter Migrationshintergrund,36.92107886037883,36.66354445973104,37.17861326102661,38.0,40.0,40.0,35.0,43.0,40.0,40.0,40.0,704.0
 1986,30-45 J.,indirekter Migrationshintergrund,,,,,,,,,,,,
-1986,46-65 J.,kein Migrationshintergrund,36.634115033367934,36.40134854478832,36.86688152194755,38.0,40.0,40.0,35.0,43.0,40.0,40.0,40.0,1039.0
-1986,46-65 J.,direkter Migrationshintergrund,37.86221555602313,37.60063830769669,38.12379280434957,38.543469924400156,40.0,40.0,36.35867481100039,42.184795113399765,40.0,40.0,40.0,532.0
+1986,46-65 J.,kein Migrationshintergrund,36.63411503336793,36.40134854478831,36.86688152194754,38.0,40.0,40.0,35.0,43.0,40.0,40.0,40.0,1039.0
+1986,46-65 J.,direkter Migrationshintergrund,37.86221555602313,37.60063830769669,38.12379280434957,38.65063320238809,40.0,40.0,36.62658300597023,42.02405019641786,40.0,40.0,40.0,532.0
 1986,46-65 J.,indirekter Migrationshintergrund,,,,,,,,,,,,
 1986,66 und älter,kein Migrationshintergrund,,,,,,,,,,,,
 1986,66 und älter,direkter Migrationshintergrund,,,,,,,,,,,,
 1986,66 und älter,indirekter Migrationshintergrund,,,,,,,,,,,,
-1986,5,kein Migrationshintergrund,,,,,,,,,,,,
-1986,5,direkter Migrationshintergrund,,,,,,,,,,,,
-1986,5,indirekter Migrationshintergrund,,,,,,,,,,,,
-1986,6,kein Migrationshintergrund,,,,,,,,,,,,
-1986,6,direkter Migrationshintergrund,,,,,,,,,,,,
-1986,6,indirekter Migrationshintergrund,,,,,,,,,,,,
-1986,7,kein Migrationshintergrund,,,,,,,,,,,,
-1986,7,direkter Migrationshintergrund,,,,,,,,,,,,
-1986,7,indirekter Migrationshintergrund,,,,,,,,,,,,
-1986,8,kein Migrationshintergrund,,,,,,,,,,,,
-1986,8,direkter Migrationshintergrund,,,,,,,,,,,,
-1986,8,indirekter Migrationshintergrund,,,,,,,,,,,,
-1986,9,kein Migrationshintergrund,,,,,,,,,,,,
-1986,9,direkter Migrationshintergrund,,,,,,,,,,,,
-1986,9,indirekter Migrationshintergrund,,,,,,,,,,,,
-1986,10,kein Migrationshintergrund,,,,,,,,,,,,
-1986,10,direkter Migrationshintergrund,,,,,,,,,,,,
-1986,10,indirekter Migrationshintergrund,,,,,,,,,,,,
-1986,11,kein Migrationshintergrund,,,,,,,,,,,,
-1986,11,direkter Migrationshintergrund,,,,,,,,,,,,
-1986,11,indirekter Migrationshintergrund,,,,,,,,,,,,
-1986,12,kein Migrationshintergrund,,,,,,,,,,,,
-1986,12,direkter Migrationshintergrund,,,,,,,,,,,,
-1986,12,indirekter Migrationshintergrund,,,,,,,,,,,,
-1986,13,kein Migrationshintergrund,,,,,,,,,,,,
-1986,13,direkter Migrationshintergrund,,,,,,,,,,,,
-1986,13,indirekter Migrationshintergrund,,,,,,,,,,,,
-1986,14,kein Migrationshintergrund,,,,,,,,,,,,
-1986,14,direkter Migrationshintergrund,,,,,,,,,,,,
-1986,14,indirekter Migrationshintergrund,,,,,,,,,,,,
-1986,15,kein Migrationshintergrund,,,,,,,,,,,,
-1986,15,direkter Migrationshintergrund,,,,,,,,,,,,
-1986,15,indirekter Migrationshintergrund,,,,,,,,,,,,
-1986,16,kein Migrationshintergrund,,,,,,,,,,,,
-1986,16,direkter Migrationshintergrund,,,,,,,,,,,,
-1986,16,indirekter Migrationshintergrund,,,,,,,,,,,,
-1986,17,kein Migrationshintergrund,,,,,,,,,,,,
-1986,17,direkter Migrationshintergrund,,,,,,,,,,,,
-1986,17,indirekter Migrationshintergrund,,,,,,,,,,,,
-1987,0,kein Migrationshintergrund,,,,,,,,,,,,
-1987,0,indirekter Migrationshintergrund,,,,,,,,,,,,
-1987,18-29 J.,kein Migrationshintergrund,38.18990302486363,38.01509397233133,38.364712077395936,38.5,40.0,40.0,36.25,42.25,40.0,40.0,40.0,1184.0
-1987,18-29 J.,direkter Migrationshintergrund,38.52610607312479,38.27693067320619,38.775281473043385,38.5,40.0,40.0,36.25,42.25,40.0,40.0,40.0,436.0
-1987,18-29 J.,indirekter Migrationshintergrund,38.988636980056796,38.61889630146022,39.358377658653374,38.752115874428455,40.0,40.0,36.88028968607114,41.87182618835732,40.0,40.0,41.0,63.0
+1987,unter 18 J.,kein Migrationshintergrund,,,,,,,,,,,,
+1987,unter 18 J.,direkter Migrationshintergrund,,,,,,,,,,,,
+1987,unter 18 J.,indirekter Migrationshintergrund,,,,,,,,,,,,
+1987,18-29 J.,kein Migrationshintergrund,38.189903024863625,38.01509397233132,38.36471207739593,38.5,40.0,40.0,36.25,42.25,40.0,40.0,40.0,1184.0
+1987,18-29 J.,direkter Migrationshintergrund,38.52610607312478,38.27693067320618,38.77528147304338,38.5,40.0,40.0,36.25,42.25,40.0,40.0,40.0,436.0
+1987,18-29 J.,indirekter Migrationshintergrund,38.98863698005679,38.61889630146021,39.35837765865337,38.5,40.0,40.0,36.25,42.25,40.0,40.0,41.0,63.0
 1987,30-45 J.,kein Migrationshintergrund,36.37400126676539,36.15388973827088,36.5941127952599,38.0,40.0,40.0,35.0,43.0,40.0,40.0,40.0,1271.0
-1987,30-45 J.,direkter Migrationshintergrund,36.74517010231576,36.464400813070434,37.02593939156109,38.0,40.0,40.0,35.0,43.0,40.0,40.0,41.0,691.0
+1987,30-45 J.,direkter Migrationshintergrund,36.74517010231576,36.464400813070434,37.02593939156109,38.0,40.0,40.0,35.0,43.0,40.0,40.0,40.0,691.0
 1987,30-45 J.,indirekter Migrationshintergrund,,,,,,,,,,,,
 1987,46-65 J.,kein Migrationshintergrund,36.42553563161208,36.18564252711698,36.665428736107174,38.0,40.0,40.0,35.0,43.0,40.0,40.0,40.0,1045.0
 1987,46-65 J.,direkter Migrationshintergrund,37.86441975807259,37.634494500581056,38.09434501556413,38.0,40.0,40.0,35.0,43.0,40.0,40.0,40.0,530.0
@@ -172,50 +59,13 @@ year,age_gr,migback,mean,mean_lower_confidence,mean_upper_confidence,lower_quart
 1987,66 und älter,kein Migrationshintergrund,,,,,,,,,,,,
 1987,66 und älter,direkter Migrationshintergrund,,,,,,,,,,,,
 1987,66 und älter,indirekter Migrationshintergrund,,,,,,,,,,,,
-1987,5,kein Migrationshintergrund,,,,,,,,,,,,
-1987,5,direkter Migrationshintergrund,,,,,,,,,,,,
-1987,5,indirekter Migrationshintergrund,,,,,,,,,,,,
-1987,6,kein Migrationshintergrund,,,,,,,,,,,,
-1987,6,direkter Migrationshintergrund,,,,,,,,,,,,
-1987,6,indirekter Migrationshintergrund,,,,,,,,,,,,
-1987,7,kein Migrationshintergrund,,,,,,,,,,,,
-1987,7,indirekter Migrationshintergrund,,,,,,,,,,,,
-1987,8,kein Migrationshintergrund,,,,,,,,,,,,
-1987,8,direkter Migrationshintergrund,,,,,,,,,,,,
-1987,8,indirekter Migrationshintergrund,,,,,,,,,,,,
-1987,9,kein Migrationshintergrund,,,,,,,,,,,,
-1987,9,direkter Migrationshintergrund,,,,,,,,,,,,
-1987,9,indirekter Migrationshintergrund,,,,,,,,,,,,
-1987,10,kein Migrationshintergrund,,,,,,,,,,,,
-1987,10,direkter Migrationshintergrund,,,,,,,,,,,,
-1987,10,indirekter Migrationshintergrund,,,,,,,,,,,,
-1987,11,kein Migrationshintergrund,,,,,,,,,,,,
-1987,11,direkter Migrationshintergrund,,,,,,,,,,,,
-1987,11,indirekter Migrationshintergrund,,,,,,,,,,,,
-1987,12,kein Migrationshintergrund,,,,,,,,,,,,
-1987,12,direkter Migrationshintergrund,,,,,,,,,,,,
-1987,12,indirekter Migrationshintergrund,,,,,,,,,,,,
-1987,13,kein Migrationshintergrund,,,,,,,,,,,,
-1987,13,direkter Migrationshintergrund,,,,,,,,,,,,
-1987,13,indirekter Migrationshintergrund,,,,,,,,,,,,
-1987,14,kein Migrationshintergrund,,,,,,,,,,,,
-1987,14,direkter Migrationshintergrund,,,,,,,,,,,,
-1987,14,indirekter Migrationshintergrund,,,,,,,,,,,,
-1987,15,kein Migrationshintergrund,,,,,,,,,,,,
-1987,15,direkter Migrationshintergrund,,,,,,,,,,,,
-1987,15,indirekter Migrationshintergrund,,,,,,,,,,,,
-1987,16,kein Migrationshintergrund,,,,,,,,,,,,
-1987,16,direkter Migrationshintergrund,,,,,,,,,,,,
-1987,16,indirekter Migrationshintergrund,,,,,,,,,,,,
-1987,17,kein Migrationshintergrund,,,,,,,,,,,,
-1987,17,direkter Migrationshintergrund,,,,,,,,,,,,
-1987,17,indirekter Migrationshintergrund,,,,,,,,,,,,
-1988,0,kein Migrationshintergrund,,,,,,,,,,,,
-1988,0,indirekter Migrationshintergrund,,,,,,,,,,,,
-1988,18-29 J.,kein Migrationshintergrund,38.073681835231326,37.88893830486893,38.25842536559372,38.0,40.0,40.0,35.0,43.0,40.0,40.0,40.0,1069.0
-1988,18-29 J.,direkter Migrationshintergrund,38.024797575797685,37.718961682917985,38.330633468677384,38.0,40.0,40.0,35.0,43.0,40.0,40.0,40.0,454.0
+1988,unter 18 J.,kein Migrationshintergrund,,,,,,,,,,,,
+1988,unter 18 J.,direkter Migrationshintergrund,,,,,,,,,,,,
+1988,unter 18 J.,indirekter Migrationshintergrund,,,,,,,,,,,,
+1988,18-29 J.,kein Migrationshintergrund,38.07368183523133,37.88893830486894,38.25842536559373,38.0,40.0,40.0,35.0,43.0,40.0,40.0,40.0,1069.0
+1988,18-29 J.,direkter Migrationshintergrund,38.02479757579768,37.71896168291798,38.33063346867738,38.0,40.0,40.0,35.0,43.0,40.0,40.0,40.0,454.0
 1988,18-29 J.,indirekter Migrationshintergrund,37.641940830383724,36.933782922908904,38.350098737858545,38.5,40.0,40.0,36.25,40.0,40.0,40.0,40.0,73.0
-1988,30-45 J.,kein Migrationshintergrund,36.099831910045474,35.877490831202515,36.32217298888843,38.0,40.0,40.0,35.0,43.0,40.0,40.0,40.0,1234.0
+1988,30-45 J.,kein Migrationshintergrund,36.09983191004548,35.87749083120252,36.32217298888844,38.0,40.0,40.0,35.0,43.0,40.0,40.0,40.0,1234.0
 1988,30-45 J.,direkter Migrationshintergrund,36.66861510978003,36.39325167433765,36.94397854522241,37.5,40.0,40.0,33.75,43.75,40.0,40.0,41.5,597.0
 1988,30-45 J.,indirekter Migrationshintergrund,,,,,,,,,,,,
 1988,46-65 J.,kein Migrationshintergrund,36.17561822223467,35.936703604713315,36.41453283975602,38.0,40.0,40.0,35.0,43.0,40.0,40.0,40.0,1021.0
@@ -224,205 +74,57 @@ year,age_gr,migback,mean,mean_lower_confidence,mean_upper_confidence,lower_quart
 1988,66 und älter,kein Migrationshintergrund,,,,,,,,,,,,
 1988,66 und älter,direkter Migrationshintergrund,,,,,,,,,,,,
 1988,66 und älter,indirekter Migrationshintergrund,,,,,,,,,,,,
-1988,5,kein Migrationshintergrund,,,,,,,,,,,,
-1988,5,direkter Migrationshintergrund,,,,,,,,,,,,
-1988,5,indirekter Migrationshintergrund,,,,,,,,,,,,
-1988,6,kein Migrationshintergrund,,,,,,,,,,,,
-1988,6,direkter Migrationshintergrund,,,,,,,,,,,,
-1988,6,indirekter Migrationshintergrund,,,,,,,,,,,,
-1988,7,kein Migrationshintergrund,,,,,,,,,,,,
-1988,7,direkter Migrationshintergrund,,,,,,,,,,,,
-1988,7,indirekter Migrationshintergrund,,,,,,,,,,,,
-1988,8,kein Migrationshintergrund,,,,,,,,,,,,
-1988,8,indirekter Migrationshintergrund,,,,,,,,,,,,
-1988,9,kein Migrationshintergrund,,,,,,,,,,,,
-1988,9,direkter Migrationshintergrund,,,,,,,,,,,,
-1988,9,indirekter Migrationshintergrund,,,,,,,,,,,,
-1988,10,kein Migrationshintergrund,,,,,,,,,,,,
-1988,10,direkter Migrationshintergrund,,,,,,,,,,,,
-1988,10,indirekter Migrationshintergrund,,,,,,,,,,,,
-1988,11,kein Migrationshintergrund,,,,,,,,,,,,
-1988,11,direkter Migrationshintergrund,,,,,,,,,,,,
-1988,11,indirekter Migrationshintergrund,,,,,,,,,,,,
-1988,12,kein Migrationshintergrund,,,,,,,,,,,,
-1988,12,direkter Migrationshintergrund,,,,,,,,,,,,
-1988,12,indirekter Migrationshintergrund,,,,,,,,,,,,
-1988,13,kein Migrationshintergrund,,,,,,,,,,,,
-1988,13,direkter Migrationshintergrund,,,,,,,,,,,,
-1988,13,indirekter Migrationshintergrund,,,,,,,,,,,,
-1988,14,kein Migrationshintergrund,,,,,,,,,,,,
-1988,14,direkter Migrationshintergrund,,,,,,,,,,,,
-1988,14,indirekter Migrationshintergrund,,,,,,,,,,,,
-1988,15,kein Migrationshintergrund,,,,,,,,,,,,
-1988,15,direkter Migrationshintergrund,,,,,,,,,,,,
-1988,15,indirekter Migrationshintergrund,,,,,,,,,,,,
-1988,16,kein Migrationshintergrund,,,,,,,,,,,,
-1988,16,direkter Migrationshintergrund,,,,,,,,,,,,
-1988,16,indirekter Migrationshintergrund,,,,,,,,,,,,
-1988,17,kein Migrationshintergrund,,,,,,,,,,,,
-1988,17,direkter Migrationshintergrund,,,,,,,,,,,,
-1988,17,indirekter Migrationshintergrund,,,,,,,,,,,,
-1989,0,kein Migrationshintergrund,,,,,,,,,,,,
-1989,0,indirekter Migrationshintergrund,,,,,,,,,,,,
-1989,18-29 J.,kein Migrationshintergrund,37.59486018056222,37.39596375181225,37.79375660931219,38.0,40.0,40.0,35.0,43.0,40.0,40.0,41.0,1126.0
+1989,unter 18 J.,kein Migrationshintergrund,,,,,,,,,,,,
+1989,unter 18 J.,direkter Migrationshintergrund,,,,,,,,,,,,
+1989,unter 18 J.,indirekter Migrationshintergrund,,,,,,,,,,,,
+1989,18-29 J.,kein Migrationshintergrund,37.59486018056223,37.39596375181226,37.7937566093122,38.0,40.0,40.0,35.0,43.0,40.0,40.0,41.0,1126.0
 1989,18-29 J.,direkter Migrationshintergrund,37.64339146977629,37.3347610737818,37.95202186577078,37.5,39.0,40.0,33.75,43.75,39.0,38.0,39.5125,431.0
-1989,18-29 J.,indirekter Migrationshintergrund,37.87598556235591,37.39946269890054,38.35250842581127,38.0,39.0,40.0,35.0,43.0,39.0,38.0,40.0,93.0
+1989,18-29 J.,indirekter Migrationshintergrund,37.87598556235589,37.39946269890053,38.35250842581126,38.0,39.688692081716646,40.0,35.0,43.0,39.0,38.0,39.5,93.0
 1989,30-45 J.,kein Migrationshintergrund,36.18128982976453,35.967774833299785,36.394804826229276,37.0,39.0,40.0,32.5,44.5,39.0,38.0,39.0,1230.0
 1989,30-45 J.,direkter Migrationshintergrund,36.4950977629502,36.173366422917056,36.81682910298335,37.0,39.0,40.0,32.5,44.5,39.0,38.0,39.5,586.0
 1989,30-45 J.,indirekter Migrationshintergrund,,,,,,,,,,,,
-1989,46-65 J.,kein Migrationshintergrund,36.0095739840342,35.75819891696328,36.260949051105115,37.0,39.0,40.0,32.5,44.5,39.0,39.0,39.0,960.0
+1989,46-65 J.,kein Migrationshintergrund,36.0095739840342,35.75819891696328,36.260949051105115,37.0,39.0,40.0,32.5,44.5,39.0,38.0,39.0,960.0
 1989,46-65 J.,direkter Migrationshintergrund,36.75895634064797,36.47476213350422,37.04315054779172,37.5,39.0,40.0,33.75,43.75,39.0,38.0,40.0,509.0
 1989,46-65 J.,indirekter Migrationshintergrund,,,,,,,,,,,,
 1989,66 und älter,kein Migrationshintergrund,,,,,,,,,,,,
 1989,66 und älter,direkter Migrationshintergrund,,,,,,,,,,,,
 1989,66 und älter,indirekter Migrationshintergrund,,,,,,,,,,,,
-1989,5,kein Migrationshintergrund,,,,,,,,,,,,
-1989,5,direkter Migrationshintergrund,,,,,,,,,,,,
-1989,5,indirekter Migrationshintergrund,,,,,,,,,,,,
-1989,6,kein Migrationshintergrund,,,,,,,,,,,,
-1989,6,direkter Migrationshintergrund,,,,,,,,,,,,
-1989,6,indirekter Migrationshintergrund,,,,,,,,,,,,
-1989,7,kein Migrationshintergrund,,,,,,,,,,,,
-1989,7,direkter Migrationshintergrund,,,,,,,,,,,,
-1989,7,indirekter Migrationshintergrund,,,,,,,,,,,,
-1989,8,kein Migrationshintergrund,,,,,,,,,,,,
-1989,8,direkter Migrationshintergrund,,,,,,,,,,,,
-1989,8,indirekter Migrationshintergrund,,,,,,,,,,,,
-1989,9,kein Migrationshintergrund,,,,,,,,,,,,
-1989,9,indirekter Migrationshintergrund,,,,,,,,,,,,
-1989,10,kein Migrationshintergrund,,,,,,,,,,,,
-1989,10,direkter Migrationshintergrund,,,,,,,,,,,,
-1989,10,indirekter Migrationshintergrund,,,,,,,,,,,,
-1989,11,kein Migrationshintergrund,,,,,,,,,,,,
-1989,11,direkter Migrationshintergrund,,,,,,,,,,,,
-1989,11,indirekter Migrationshintergrund,,,,,,,,,,,,
-1989,12,kein Migrationshintergrund,,,,,,,,,,,,
-1989,12,direkter Migrationshintergrund,,,,,,,,,,,,
-1989,12,indirekter Migrationshintergrund,,,,,,,,,,,,
-1989,13,kein Migrationshintergrund,,,,,,,,,,,,
-1989,13,direkter Migrationshintergrund,,,,,,,,,,,,
-1989,13,indirekter Migrationshintergrund,,,,,,,,,,,,
-1989,14,kein Migrationshintergrund,,,,,,,,,,,,
-1989,14,direkter Migrationshintergrund,,,,,,,,,,,,
-1989,14,indirekter Migrationshintergrund,,,,,,,,,,,,
-1989,15,kein Migrationshintergrund,,,,,,,,,,,,
-1989,15,direkter Migrationshintergrund,,,,,,,,,,,,
-1989,15,indirekter Migrationshintergrund,,,,,,,,,,,,
-1989,16,kein Migrationshintergrund,,,,,,,,,,,,
-1989,16,direkter Migrationshintergrund,,,,,,,,,,,,
-1989,16,indirekter Migrationshintergrund,,,,,,,,,,,,
-1989,17,kein Migrationshintergrund,,,,,,,,,,,,
-1989,17,direkter Migrationshintergrund,,,,,,,,,,,,
-1989,17,indirekter Migrationshintergrund,,,,,,,,,,,,
-1990,0,kein Migrationshintergrund,,,,,,,,,,,,
-1990,0,indirekter Migrationshintergrund,,,,,,,,,,,,
-1990,18-29 J.,kein Migrationshintergrund,38.72671916711563,38.59607566185411,38.85736267237716,38.0,39.0,40.0,35.0,43.0,39.0,39.0,39.0,1851.0
-1990,18-29 J.,direkter Migrationshintergrund,37.03028265288858,36.68026964596439,37.380295659812774,37.5,38.5,40.0,33.75,43.75,38.5,38.0,38.5,402.0
-1990,18-29 J.,indirekter Migrationshintergrund,36.1849677010051,35.52573795894199,36.84419744306821,37.0,38.5,40.0,32.5,44.5,38.5,38.0,39.5,120.0
-1990,30-45 J.,kein Migrationshintergrund,36.769672877422984,36.615337232216355,36.92400852262961,37.5,39.0,40.0,33.75,43.75,39.0,39.0,39.5,2552.0
-1990,30-45 J.,direkter Migrationshintergrund,37.13202602382283,36.827867198205865,37.4361848494398,37.5,38.5,40.0,33.75,43.75,38.5,38.49250001907348,38.5,594.0
+1990,unter 18 J.,kein Migrationshintergrund,,,,,,,,,,,,
+1990,unter 18 J.,direkter Migrationshintergrund,,,,,,,,,,,,
+1990,unter 18 J.,indirekter Migrationshintergrund,,,,,,,,,,,,
+1990,18-29 J.,kein Migrationshintergrund,38.726719167115625,38.5960756618541,38.85736267237715,38.0,39.0,40.0,35.0,43.0,39.0,39.0,39.0,1851.0
+1990,18-29 J.,direkter Migrationshintergrund,37.03028265288858,36.68026964596439,37.380295659812774,37.5,38.5,40.0,33.75,43.75,38.5,38.0,38.5125,402.0
+1990,18-29 J.,indirekter Migrationshintergrund,36.18496770100509,35.52573795894198,36.844197443068204,37.0,38.5,40.0,32.5,44.5,38.5,38.0,39.5,120.0
+1990,30-45 J.,kein Migrationshintergrund,36.76967287742299,36.61533723221636,36.92400852262962,37.5,39.0,40.0,33.75,43.75,39.0,39.0,39.5,2552.0
+1990,30-45 J.,direkter Migrationshintergrund,37.13202602382283,36.827867198205865,37.4361848494398,37.5,38.5,40.0,33.75,43.75,38.5,38.5,38.5125,594.0
 1990,30-45 J.,indirekter Migrationshintergrund,,,,,,,,,,,,
-1990,46-65 J.,kein Migrationshintergrund,36.61491088234971,36.43114341641021,36.798678348289215,37.0,39.0,40.0,32.5,44.5,39.0,39.0,39.5,1865.0
-1990,46-65 J.,direkter Migrationshintergrund,37.070257119419075,36.77615769272833,37.36435654610982,37.21354768494202,38.5,40.0,33.03386921235506,44.17967847258697,38.5,38.0,38.5,557.0
+1990,46-65 J.,kein Migrationshintergrund,36.61491088234972,36.431143416410215,36.79867834828922,37.0,39.0,40.0,32.5,44.5,39.0,39.0,39.5,1865.0
+1990,46-65 J.,direkter Migrationshintergrund,37.070257119419075,36.77615769272833,37.36435654610982,37.354804239108546,38.5,40.0,33.387010597771365,43.96779364133718,38.5,38.0,38.5,557.0
 1990,46-65 J.,indirekter Migrationshintergrund,,,,,,,,,,,,
 1990,66 und älter,kein Migrationshintergrund,,,,,,,,,,,,
 1990,66 und älter,direkter Migrationshintergrund,,,,,,,,,,,,
 1990,66 und älter,indirekter Migrationshintergrund,,,,,,,,,,,,
-1990,5,kein Migrationshintergrund,,,,,,,,,,,,
-1990,5,indirekter Migrationshintergrund,,,,,,,,,,,,
-1990,6,kein Migrationshintergrund,,,,,,,,,,,,
-1990,6,direkter Migrationshintergrund,,,,,,,,,,,,
-1990,6,indirekter Migrationshintergrund,,,,,,,,,,,,
-1990,7,kein Migrationshintergrund,,,,,,,,,,,,
-1990,7,direkter Migrationshintergrund,,,,,,,,,,,,
-1990,7,indirekter Migrationshintergrund,,,,,,,,,,,,
-1990,8,kein Migrationshintergrund,,,,,,,,,,,,
-1990,8,direkter Migrationshintergrund,,,,,,,,,,,,
-1990,8,indirekter Migrationshintergrund,,,,,,,,,,,,
-1990,9,kein Migrationshintergrund,,,,,,,,,,,,
-1990,9,direkter Migrationshintergrund,,,,,,,,,,,,
-1990,9,indirekter Migrationshintergrund,,,,,,,,,,,,
-1990,10,kein Migrationshintergrund,,,,,,,,,,,,
-1990,10,direkter Migrationshintergrund,,,,,,,,,,,,
-1990,10,indirekter Migrationshintergrund,,,,,,,,,,,,
-1990,11,kein Migrationshintergrund,,,,,,,,,,,,
-1990,11,direkter Migrationshintergrund,,,,,,,,,,,,
-1990,11,indirekter Migrationshintergrund,,,,,,,,,,,,
-1990,12,kein Migrationshintergrund,,,,,,,,,,,,
-1990,12,direkter Migrationshintergrund,,,,,,,,,,,,
-1990,12,indirekter Migrationshintergrund,,,,,,,,,,,,
-1990,13,kein Migrationshintergrund,,,,,,,,,,,,
-1990,13,direkter Migrationshintergrund,,,,,,,,,,,,
-1990,13,indirekter Migrationshintergrund,,,,,,,,,,,,
-1990,14,kein Migrationshintergrund,,,,,,,,,,,,
-1990,14,direkter Migrationshintergrund,,,,,,,,,,,,
-1990,14,indirekter Migrationshintergrund,,,,,,,,,,,,
-1990,15,kein Migrationshintergrund,,,,,,,,,,,,
-1990,15,direkter Migrationshintergrund,,,,,,,,,,,,
-1990,15,indirekter Migrationshintergrund,,,,,,,,,,,,
-1990,16,kein Migrationshintergrund,,,,,,,,,,,,
-1990,16,direkter Migrationshintergrund,,,,,,,,,,,,
-1990,16,indirekter Migrationshintergrund,,,,,,,,,,,,
-1990,17,kein Migrationshintergrund,,,,,,,,,,,,
-1990,17,direkter Migrationshintergrund,,,,,,,,,,,,
-1990,17,indirekter Migrationshintergrund,,,,,,,,,,,,
-1991,0,kein Migrationshintergrund,,,,,,,,,,,,
-1991,0,indirekter Migrationshintergrund,,,,,,,,,,,,
-1991,18-29 J.,kein Migrationshintergrund,37.80041919419885,37.661943729157706,37.93889465924,37.5,38.5,40.0,33.75,43.75,38.5,38.5,38.5,1647.0
-1991,18-29 J.,direkter Migrationshintergrund,36.748598235101426,36.4158904167485,37.08130605345435,37.5,38.292930612540545,40.0,33.75,43.75,38.5,38.5,39.0,383.0
-1991,18-29 J.,indirekter Migrationshintergrund,36.49925159307665,35.953948184006364,37.044555002146936,37.5,38.5,40.0,33.75,43.75,38.5,37.0,39.5,153.0
-1991,30-45 J.,kein Migrationshintergrund,35.72204113919102,35.56372175650361,35.88036052187843,37.0,38.5,40.0,32.5,44.5,38.5,38.5,38.5,2465.0
+1991,unter 18 J.,kein Migrationshintergrund,,,,,,,,,,,,
+1991,unter 18 J.,direkter Migrationshintergrund,,,,,,,,,,,,
+1991,unter 18 J.,indirekter Migrationshintergrund,,,,,,,,,,,,
+1991,18-29 J.,kein Migrationshintergrund,37.80041919419886,37.66194372915771,37.938894659240006,37.5,38.5,40.0,33.75,43.75,38.5,38.5,38.5,1647.0
+1991,18-29 J.,direkter Migrationshintergrund,36.748598235101426,36.4158904167485,37.08130605345435,37.5,38.5,40.0,33.75,43.75,38.5,38.5,39.0,383.0
+1991,18-29 J.,indirekter Migrationshintergrund,36.49925159307666,35.95394818400637,37.04455500214694,37.5,38.5,40.0,33.75,43.75,38.5,37.0,39.5,153.0
+1991,30-45 J.,kein Migrationshintergrund,35.72204113919101,35.563721756503604,35.88036052187842,37.0,38.5,40.0,32.5,44.5,38.5,38.5,38.5,2465.0
 1991,30-45 J.,direkter Migrationshintergrund,36.91363549340329,36.61911777116849,37.20815321563809,37.5,38.5,40.0,33.75,43.75,38.5,38.5,39.0,586.0
 1991,30-45 J.,indirekter Migrationshintergrund,,,,,,,,,,,,
-1991,46-65 J.,kein Migrationshintergrund,35.974541928635,35.78176783242452,36.167316024845476,37.16160299749296,38.5,40.0,32.90400749373241,44.257595503760555,38.5,38.5,38.5,1609.0
-1991,46-65 J.,direkter Migrationshintergrund,35.97401273716315,35.67606538470751,36.27196008961879,37.0,38.0,40.0,32.5,44.5,38.0,37.5,38.5,575.0
+1991,46-65 J.,kein Migrationshintergrund,35.974541928635006,35.78176783242453,36.16731602484548,37.174090341125336,38.5,40.0,32.93522585281334,44.238864488312,38.5,38.5,38.5,1609.0
+1991,46-65 J.,direkter Migrationshintergrund,35.97401273716314,35.676065384707506,36.27196008961878,37.0,38.0,40.0,32.5,44.5,38.0,37.5,38.5,575.0
 1991,46-65 J.,indirekter Migrationshintergrund,,,,,,,,,,,,
 1991,66 und älter,kein Migrationshintergrund,,,,,,,,,,,,
 1991,66 und älter,direkter Migrationshintergrund,,,,,,,,,,,,
 1991,66 und älter,indirekter Migrationshintergrund,,,,,,,,,,,,
-1991,5,kein Migrationshintergrund,,,,,,,,,,,,
-1991,5,direkter Migrationshintergrund,,,,,,,,,,,,
-1991,5,indirekter Migrationshintergrund,,,,,,,,,,,,
-1991,6,kein Migrationshintergrund,,,,,,,,,,,,
-1991,6,indirekter Migrationshintergrund,,,,,,,,,,,,
-1991,7,kein Migrationshintergrund,,,,,,,,,,,,
-1991,7,direkter Migrationshintergrund,,,,,,,,,,,,
-1991,7,indirekter Migrationshintergrund,,,,,,,,,,,,
-1991,8,kein Migrationshintergrund,,,,,,,,,,,,
-1991,8,direkter Migrationshintergrund,,,,,,,,,,,,
-1991,8,indirekter Migrationshintergrund,,,,,,,,,,,,
-1991,9,kein Migrationshintergrund,,,,,,,,,,,,
-1991,9,direkter Migrationshintergrund,,,,,,,,,,,,
-1991,9,indirekter Migrationshintergrund,,,,,,,,,,,,
-1991,10,kein Migrationshintergrund,,,,,,,,,,,,
-1991,10,direkter Migrationshintergrund,,,,,,,,,,,,
-1991,10,indirekter Migrationshintergrund,,,,,,,,,,,,
-1991,11,kein Migrationshintergrund,,,,,,,,,,,,
-1991,11,direkter Migrationshintergrund,,,,,,,,,,,,
-1991,11,indirekter Migrationshintergrund,,,,,,,,,,,,
-1991,12,kein Migrationshintergrund,,,,,,,,,,,,
-1991,12,direkter Migrationshintergrund,,,,,,,,,,,,
-1991,12,indirekter Migrationshintergrund,,,,,,,,,,,,
-1991,13,kein Migrationshintergrund,,,,,,,,,,,,
-1991,13,direkter Migrationshintergrund,,,,,,,,,,,,
-1991,13,indirekter Migrationshintergrund,,,,,,,,,,,,
-1991,14,kein Migrationshintergrund,,,,,,,,,,,,
-1991,14,direkter Migrationshintergrund,,,,,,,,,,,,
-1991,14,indirekter Migrationshintergrund,,,,,,,,,,,,
-1991,15,kein Migrationshintergrund,,,,,,,,,,,,
-1991,15,direkter Migrationshintergrund,,,,,,,,,,,,
-1991,15,indirekter Migrationshintergrund,,,,,,,,,,,,
-1991,16,kein Migrationshintergrund,,,,,,,,,,,,
-1991,16,direkter Migrationshintergrund,,,,,,,,,,,,
-1991,16,indirekter Migrationshintergrund,,,,,,,,,,,,
-1991,17,kein Migrationshintergrund,,,,,,,,,,,,
-1991,17,direkter Migrationshintergrund,,,,,,,,,,,,
-1991,17,indirekter Migrationshintergrund,,,,,,,,,,,,
-1992,0,kein Migrationshintergrund,,,,,,,,,,,,
-1992,0,indirekter Migrationshintergrund,,,,,,,,,,,,
+1992,unter 18 J.,kein Migrationshintergrund,,,,,,,,,,,,
+1992,unter 18 J.,direkter Migrationshintergrund,,,,,,,,,,,,
+1992,unter 18 J.,indirekter Migrationshintergrund,,,,,,,,,,,,
 1992,18-29 J.,kein Migrationshintergrund,38.02431286890785,37.89005941440921,38.15856632340649,37.5,38.5,40.0,33.75,43.75,38.5,38.5,38.5,1514.0
-1992,18-29 J.,direkter Migrationshintergrund,36.22389686320167,35.854654519178574,36.59313920722476,37.5,38.0,38.5,36.0,40.0,38.0,38.0,38.5,361.0
-1992,18-29 J.,indirekter Migrationshintergrund,35.556524120165754,34.9173394551905,36.19570878514101,37.37895203584729,38.0,40.0,33.44738008961823,43.93157194622906,38.0,37.5,38.5,169.0
+1992,18-29 J.,direkter Migrationshintergrund,36.22389686320167,35.854654519178574,36.59313920722476,37.5,38.0,38.5,36.0,40.0,38.0,37.70000076293945,38.5,361.0
+1992,18-29 J.,indirekter Migrationshintergrund,35.556524120165754,34.9173394551905,36.19570878514101,37.5,38.0,40.0,33.75,43.75,38.0,37.5,38.5,169.0
 1992,30-45 J.,kein Migrationshintergrund,35.29546529407396,35.129087994161026,35.4618425939869,37.0,38.5,40.0,32.5,44.5,38.5,38.5,38.5,2347.0
 1992,30-45 J.,direkter Migrationshintergrund,36.44251078304719,36.13415929324865,36.75086227284573,37.5,38.0,40.0,33.75,43.75,38.0,37.5,38.0,532.0
 1992,30-45 J.,indirekter Migrationshintergrund,,,,,,,,,,,,
@@ -432,47 +134,10 @@ year,age_gr,migback,mean,mean_lower_confidence,mean_upper_confidence,lower_quart
 1992,66 und älter,kein Migrationshintergrund,,,,,,,,,,,,
 1992,66 und älter,direkter Migrationshintergrund,,,,,,,,,,,,
 1992,66 und älter,indirekter Migrationshintergrund,,,,,,,,,,,,
-1992,5,kein Migrationshintergrund,,,,,,,,,,,,
-1992,5,direkter Migrationshintergrund,,,,,,,,,,,,
-1992,5,indirekter Migrationshintergrund,,,,,,,,,,,,
-1992,6,kein Migrationshintergrund,,,,,,,,,,,,
-1992,6,direkter Migrationshintergrund,,,,,,,,,,,,
-1992,6,indirekter Migrationshintergrund,,,,,,,,,,,,
-1992,7,kein Migrationshintergrund,,,,,,,,,,,,
-1992,7,indirekter Migrationshintergrund,,,,,,,,,,,,
-1992,8,kein Migrationshintergrund,,,,,,,,,,,,
-1992,8,direkter Migrationshintergrund,,,,,,,,,,,,
-1992,8,indirekter Migrationshintergrund,,,,,,,,,,,,
-1992,9,kein Migrationshintergrund,,,,,,,,,,,,
-1992,9,direkter Migrationshintergrund,,,,,,,,,,,,
-1992,9,indirekter Migrationshintergrund,,,,,,,,,,,,
-1992,10,kein Migrationshintergrund,,,,,,,,,,,,
-1992,10,direkter Migrationshintergrund,,,,,,,,,,,,
-1992,10,indirekter Migrationshintergrund,,,,,,,,,,,,
-1992,11,kein Migrationshintergrund,,,,,,,,,,,,
-1992,11,direkter Migrationshintergrund,,,,,,,,,,,,
-1992,11,indirekter Migrationshintergrund,,,,,,,,,,,,
-1992,12,kein Migrationshintergrund,,,,,,,,,,,,
-1992,12,direkter Migrationshintergrund,,,,,,,,,,,,
-1992,12,indirekter Migrationshintergrund,,,,,,,,,,,,
-1992,13,kein Migrationshintergrund,,,,,,,,,,,,
-1992,13,direkter Migrationshintergrund,,,,,,,,,,,,
-1992,13,indirekter Migrationshintergrund,,,,,,,,,,,,
-1992,14,kein Migrationshintergrund,,,,,,,,,,,,
-1992,14,direkter Migrationshintergrund,,,,,,,,,,,,
-1992,14,indirekter Migrationshintergrund,,,,,,,,,,,,
-1992,15,kein Migrationshintergrund,,,,,,,,,,,,
-1992,15,direkter Migrationshintergrund,,,,,,,,,,,,
-1992,15,indirekter Migrationshintergrund,,,,,,,,,,,,
-1992,16,kein Migrationshintergrund,,,,,,,,,,,,
-1992,16,direkter Migrationshintergrund,,,,,,,,,,,,
-1992,16,indirekter Migrationshintergrund,,,,,,,,,,,,
-1992,17,kein Migrationshintergrund,,,,,,,,,,,,
-1992,17,direkter Migrationshintergrund,,,,,,,,,,,,
-1992,17,indirekter Migrationshintergrund,,,,,,,,,,,,
-1993,0,kein Migrationshintergrund,,,,,,,,,,,,
-1993,0,indirekter Migrationshintergrund,,,,,,,,,,,,
-1993,18-29 J.,kein Migrationshintergrund,37.496380995554226,37.34699663080095,37.6457653603075,37.5,38.5,40.0,33.75,43.75,38.5,38.5,38.5,1403.0
+1993,unter 18 J.,kein Migrationshintergrund,,,,,,,,,,,,
+1993,unter 18 J.,direkter Migrationshintergrund,,,,,,,,,,,,
+1993,unter 18 J.,indirekter Migrationshintergrund,,,,,,,,,,,,
+1993,18-29 J.,kein Migrationshintergrund,37.49638099555423,37.34699663080096,37.64576536030751,37.5,38.5,40.0,33.75,43.75,38.5,38.5,38.5,1403.0
 1993,18-29 J.,direkter Migrationshintergrund,37.271790876006676,37.00054818199224,37.543033570021116,37.5,38.0,40.0,33.75,43.75,38.0,37.5,38.0,331.0
 1993,18-29 J.,indirekter Migrationshintergrund,37.770674294587835,37.4940384044918,38.047310184683866,37.5,38.0,40.0,33.75,43.75,38.0,37.5,38.005000019073485,208.0
 1993,30-45 J.,kein Migrationshintergrund,35.22736632295999,35.06878747837923,35.38594516754075,37.0,38.5,40.0,32.5,44.5,38.5,38.5,38.5,2311.0
@@ -484,1535 +149,439 @@ year,age_gr,migback,mean,mean_lower_confidence,mean_upper_confidence,lower_quart
 1993,66 und älter,kein Migrationshintergrund,,,,,,,,,,,,
 1993,66 und älter,direkter Migrationshintergrund,,,,,,,,,,,,
 1993,66 und älter,indirekter Migrationshintergrund,,,,,,,,,,,,
-1993,5,kein Migrationshintergrund,,,,,,,,,,,,
-1993,5,direkter Migrationshintergrund,,,,,,,,,,,,
-1993,5,indirekter Migrationshintergrund,,,,,,,,,,,,
-1993,6,kein Migrationshintergrund,,,,,,,,,,,,
-1993,6,direkter Migrationshintergrund,,,,,,,,,,,,
-1993,6,indirekter Migrationshintergrund,,,,,,,,,,,,
-1993,7,kein Migrationshintergrund,,,,,,,,,,,,
-1993,7,direkter Migrationshintergrund,,,,,,,,,,,,
-1993,7,indirekter Migrationshintergrund,,,,,,,,,,,,
-1993,8,kein Migrationshintergrund,,,,,,,,,,,,
-1993,8,direkter Migrationshintergrund,,,,,,,,,,,,
-1993,8,indirekter Migrationshintergrund,,,,,,,,,,,,
-1993,9,kein Migrationshintergrund,,,,,,,,,,,,
-1993,9,direkter Migrationshintergrund,,,,,,,,,,,,
-1993,9,indirekter Migrationshintergrund,,,,,,,,,,,,
-1993,10,kein Migrationshintergrund,,,,,,,,,,,,
-1993,10,direkter Migrationshintergrund,,,,,,,,,,,,
-1993,10,indirekter Migrationshintergrund,,,,,,,,,,,,
-1993,11,kein Migrationshintergrund,,,,,,,,,,,,
-1993,11,direkter Migrationshintergrund,,,,,,,,,,,,
-1993,11,indirekter Migrationshintergrund,,,,,,,,,,,,
-1993,12,kein Migrationshintergrund,,,,,,,,,,,,
-1993,12,direkter Migrationshintergrund,,,,,,,,,,,,
-1993,12,indirekter Migrationshintergrund,,,,,,,,,,,,
-1993,13,kein Migrationshintergrund,,,,,,,,,,,,
-1993,13,direkter Migrationshintergrund,,,,,,,,,,,,
-1993,13,indirekter Migrationshintergrund,,,,,,,,,,,,
-1993,14,kein Migrationshintergrund,,,,,,,,,,,,
-1993,14,direkter Migrationshintergrund,,,,,,,,,,,,
-1993,14,indirekter Migrationshintergrund,,,,,,,,,,,,
-1993,15,kein Migrationshintergrund,,,,,,,,,,,,
-1993,15,direkter Migrationshintergrund,,,,,,,,,,,,
-1993,15,indirekter Migrationshintergrund,,,,,,,,,,,,
-1993,16,kein Migrationshintergrund,,,,,,,,,,,,
-1993,16,direkter Migrationshintergrund,,,,,,,,,,,,
-1993,16,indirekter Migrationshintergrund,,,,,,,,,,,,
-1993,17,kein Migrationshintergrund,,,,,,,,,,,,
-1993,17,direkter Migrationshintergrund,,,,,,,,,,,,
-1993,17,indirekter Migrationshintergrund,,,,,,,,,,,,
-1994,0,kein Migrationshintergrund,,,,,,,,,,,,
-1994,0,indirekter Migrationshintergrund,,,,,,,,,,,,
-1994,18-29 J.,kein Migrationshintergrund,37.46693764866365,37.31360869807654,37.62026659925076,37.5,38.5,40.0,33.75,43.75,38.5,38.5,38.5,1344.0
-1994,18-29 J.,direkter Migrationshintergrund,36.7826504665923,36.32898540407858,37.23631552910602,37.143886702825625,38.481727844188356,40.0,32.859716757064064,44.28416994576156,38.5,38.5,39.0,269.0
+1994,unter 18 J.,kein Migrationshintergrund,,,,,,,,,,,,
+1994,unter 18 J.,direkter Migrationshintergrund,,,,,,,,,,,,
+1994,unter 18 J.,indirekter Migrationshintergrund,,,,,,,,,,,,
+1994,18-29 J.,kein Migrationshintergrund,37.466937648663645,37.313608698076536,37.620266599250755,37.5,38.5,40.0,33.75,43.75,38.5,38.5,38.5,1344.0
+1994,18-29 J.,direkter Migrationshintergrund,36.78265046659231,36.32898540407859,37.23631552910603,37.12870484348901,38.481727844188356,40.0,32.821762108722524,44.30694273476648,38.5,38.5,39.0,269.0
 1994,18-29 J.,indirekter Migrationshintergrund,37.661092172967834,37.31372282712243,38.008461518813235,37.5,38.5,40.0,33.75,43.75,38.5,38.0,39.0,215.0
-1994,30-45 J.,kein Migrationshintergrund,35.01017217546836,34.84073879304634,35.17960555789038,36.0,38.5,40.0,30.0,46.0,38.5,38.5,39.0,2272.0
+1994,30-45 J.,kein Migrationshintergrund,35.01017217546837,34.84073879304635,35.17960555789039,36.0,38.5,40.0,30.0,46.0,38.5,38.5,38.5125,2272.0
 1994,30-45 J.,direkter Migrationshintergrund,35.55050896104792,35.224649933625635,35.8763679884702,36.5,37.5,39.0,32.75,42.75,37.5,37.0,37.5,460.0
 1994,30-45 J.,indirekter Migrationshintergrund,,,,,,,,,,,,
 1994,46-65 J.,kein Migrationshintergrund,35.59812839750941,35.39148713615429,35.80476965886454,37.0,38.5,40.0,32.5,44.5,38.5,38.5,38.5,1332.0
-1994,46-65 J.,direkter Migrationshintergrund,35.2922369135975,34.9477322143603,35.6367416128347,36.0,37.5,39.0,31.5,43.5,37.5,37.0,37.5,479.0
+1994,46-65 J.,direkter Migrationshintergrund,35.292236913597506,34.94773221436031,35.636741612834705,36.0,37.5,39.312231289786176,31.031653065320736,44.280578224465444,37.5,37.0,37.5,479.0
 1994,46-65 J.,indirekter Migrationshintergrund,,,,,,,,,,,,
 1994,66 und älter,kein Migrationshintergrund,,,,,,,,,,,,
 1994,66 und älter,direkter Migrationshintergrund,,,,,,,,,,,,
 1994,66 und älter,indirekter Migrationshintergrund,,,,,,,,,,,,
-1994,5,kein Migrationshintergrund,,,,,,,,,,,,
-1994,5,indirekter Migrationshintergrund,,,,,,,,,,,,
-1994,6,kein Migrationshintergrund,,,,,,,,,,,,
-1994,6,direkter Migrationshintergrund,,,,,,,,,,,,
-1994,6,indirekter Migrationshintergrund,,,,,,,,,,,,
-1994,7,kein Migrationshintergrund,,,,,,,,,,,,
-1994,7,direkter Migrationshintergrund,,,,,,,,,,,,
-1994,7,indirekter Migrationshintergrund,,,,,,,,,,,,
-1994,8,kein Migrationshintergrund,,,,,,,,,,,,
-1994,8,direkter Migrationshintergrund,,,,,,,,,,,,
-1994,8,indirekter Migrationshintergrund,,,,,,,,,,,,
-1994,9,kein Migrationshintergrund,,,,,,,,,,,,
-1994,9,direkter Migrationshintergrund,,,,,,,,,,,,
-1994,9,indirekter Migrationshintergrund,,,,,,,,,,,,
-1994,10,kein Migrationshintergrund,,,,,,,,,,,,
-1994,10,direkter Migrationshintergrund,,,,,,,,,,,,
-1994,10,indirekter Migrationshintergrund,,,,,,,,,,,,
-1994,11,kein Migrationshintergrund,,,,,,,,,,,,
-1994,11,direkter Migrationshintergrund,,,,,,,,,,,,
-1994,11,indirekter Migrationshintergrund,,,,,,,,,,,,
-1994,12,kein Migrationshintergrund,,,,,,,,,,,,
-1994,12,direkter Migrationshintergrund,,,,,,,,,,,,
-1994,12,indirekter Migrationshintergrund,,,,,,,,,,,,
-1994,13,kein Migrationshintergrund,,,,,,,,,,,,
-1994,13,direkter Migrationshintergrund,,,,,,,,,,,,
-1994,13,indirekter Migrationshintergrund,,,,,,,,,,,,
-1994,14,kein Migrationshintergrund,,,,,,,,,,,,
-1994,14,direkter Migrationshintergrund,,,,,,,,,,,,
-1994,14,indirekter Migrationshintergrund,,,,,,,,,,,,
-1994,15,kein Migrationshintergrund,,,,,,,,,,,,
-1994,15,direkter Migrationshintergrund,,,,,,,,,,,,
-1994,15,indirekter Migrationshintergrund,,,,,,,,,,,,
-1994,16,kein Migrationshintergrund,,,,,,,,,,,,
-1994,16,direkter Migrationshintergrund,,,,,,,,,,,,
-1994,16,indirekter Migrationshintergrund,,,,,,,,,,,,
-1994,17,kein Migrationshintergrund,,,,,,,,,,,,
-1994,17,direkter Migrationshintergrund,,,,,,,,,,,,
-1994,17,indirekter Migrationshintergrund,,,,,,,,,,,,
-1995,0,kein Migrationshintergrund,,,,,,,,,,,,
-1995,0,indirekter Migrationshintergrund,,,,,,,,,,,,
+1995,unter 18 J.,kein Migrationshintergrund,,,,,,,,,,,,
+1995,unter 18 J.,direkter Migrationshintergrund,,,,,,,,,,,,
+1995,unter 18 J.,indirekter Migrationshintergrund,,,,,,,,,,,,
 1995,18-29 J.,kein Migrationshintergrund,37.067847266185595,36.899880460401725,37.235814071969465,37.5,38.5,40.0,33.75,43.75,38.5,38.5,38.5,1328.0
-1995,18-29 J.,direkter Migrationshintergrund,36.27481409748093,35.85459392384922,36.69503427111263,37.0,38.5,40.0,32.5,44.5,38.5,38.5,39.0,298.0
+1995,18-29 J.,direkter Migrationshintergrund,36.27481409748091,35.85459392384921,36.69503427111262,37.0,38.5,40.0,32.5,44.5,38.5,38.5,39.0,298.0
 1995,18-29 J.,indirekter Migrationshintergrund,35.15544000388927,34.60146589834886,35.70941410942967,36.0,38.0,40.0,30.0,43.0,38.0,37.5,38.5,220.0
 1995,30-45 J.,kein Migrationshintergrund,34.86043647263335,34.69134346499187,35.02952948027484,36.0,38.0,40.0,30.0,46.0,38.0,37.5,38.0,2348.0
-1995,30-45 J.,direkter Migrationshintergrund,34.848682983402995,34.50987375148533,35.18749221532066,36.0,38.0,40.0,30.0,46.0,38.0,38.0,38.5,568.0
+1995,30-45 J.,direkter Migrationshintergrund,34.848682983402995,34.50987375148533,35.18749221532066,36.0,37.84380917802461,40.0,30.0,46.0,38.0,38.0,38.5,568.0
 1995,30-45 J.,indirekter Migrationshintergrund,,,,,,,,,,,,
 1995,46-65 J.,kein Migrationshintergrund,35.16105674385888,34.94418034631881,35.37793314139895,36.0,38.5,40.0,30.0,46.0,38.5,38.5,38.5,1380.0
-1995,46-65 J.,direkter Migrationshintergrund,34.14105156151902,33.744389049355426,34.537714073682615,35.0,37.5,39.0,29.0,45.0,37.5,37.0,37.5,498.0
+1995,46-65 J.,direkter Migrationshintergrund,34.14105156151903,33.74438904935543,34.53771407368262,35.0,37.5,39.0,29.0,45.0,37.5,37.0,37.5,498.0
 1995,46-65 J.,indirekter Migrationshintergrund,,,,,,,,,,,,
 1995,66 und älter,kein Migrationshintergrund,,,,,,,,,,,,
 1995,66 und älter,direkter Migrationshintergrund,,,,,,,,,,,,
 1995,66 und älter,indirekter Migrationshintergrund,,,,,,,,,,,,
-1995,5,kein Migrationshintergrund,,,,,,,,,,,,
-1995,5,direkter Migrationshintergrund,,,,,,,,,,,,
-1995,5,indirekter Migrationshintergrund,,,,,,,,,,,,
-1995,6,kein Migrationshintergrund,,,,,,,,,,,,
-1995,6,direkter Migrationshintergrund,,,,,,,,,,,,
-1995,6,indirekter Migrationshintergrund,,,,,,,,,,,,
-1995,7,kein Migrationshintergrund,,,,,,,,,,,,
-1995,7,direkter Migrationshintergrund,,,,,,,,,,,,
-1995,7,indirekter Migrationshintergrund,,,,,,,,,,,,
-1995,8,kein Migrationshintergrund,,,,,,,,,,,,
-1995,8,direkter Migrationshintergrund,,,,,,,,,,,,
-1995,8,indirekter Migrationshintergrund,,,,,,,,,,,,
-1995,9,kein Migrationshintergrund,,,,,,,,,,,,
-1995,9,direkter Migrationshintergrund,,,,,,,,,,,,
-1995,9,indirekter Migrationshintergrund,,,,,,,,,,,,
-1995,10,kein Migrationshintergrund,,,,,,,,,,,,
-1995,10,direkter Migrationshintergrund,,,,,,,,,,,,
-1995,10,indirekter Migrationshintergrund,,,,,,,,,,,,
-1995,11,kein Migrationshintergrund,,,,,,,,,,,,
-1995,11,direkter Migrationshintergrund,,,,,,,,,,,,
-1995,11,indirekter Migrationshintergrund,,,,,,,,,,,,
-1995,12,kein Migrationshintergrund,,,,,,,,,,,,
-1995,12,direkter Migrationshintergrund,,,,,,,,,,,,
-1995,12,indirekter Migrationshintergrund,,,,,,,,,,,,
-1995,13,kein Migrationshintergrund,,,,,,,,,,,,
-1995,13,direkter Migrationshintergrund,,,,,,,,,,,,
-1995,13,indirekter Migrationshintergrund,,,,,,,,,,,,
-1995,14,kein Migrationshintergrund,,,,,,,,,,,,
-1995,14,direkter Migrationshintergrund,,,,,,,,,,,,
-1995,14,indirekter Migrationshintergrund,,,,,,,,,,,,
-1995,15,kein Migrationshintergrund,,,,,,,,,,,,
-1995,15,direkter Migrationshintergrund,,,,,,,,,,,,
-1995,15,indirekter Migrationshintergrund,,,,,,,,,,,,
-1995,16,kein Migrationshintergrund,,,,,,,,,,,,
-1995,16,direkter Migrationshintergrund,,,,,,,,,,,,
-1995,16,indirekter Migrationshintergrund,,,,,,,,,,,,
-1995,17,kein Migrationshintergrund,,,,,,,,,,,,
-1995,17,direkter Migrationshintergrund,,,,,,,,,,,,
-1995,17,indirekter Migrationshintergrund,,,,,,,,,,,,
-1996,0,kein Migrationshintergrund,,,,,,,,,,,,
-1996,0,indirekter Migrationshintergrund,,,,,,,,,,,,
+1996,unter 18 J.,kein Migrationshintergrund,,,,,,,,,,,,
+1996,unter 18 J.,direkter Migrationshintergrund,,,,,,,,,,,,
+1996,unter 18 J.,indirekter Migrationshintergrund,,,,,,,,,,,,
 1996,18-29 J.,kein Migrationshintergrund,36.51586824456318,36.31707250902806,36.7146639800983,37.5,38.5,40.0,33.75,43.75,38.5,38.5,38.5,1196.0
-1996,18-29 J.,direkter Migrationshintergrund,35.90150039603852,35.4415460248551,36.36145476722194,35.0,38.5,40.0,27.5,47.5,38.5,38.5,39.0,262.0
-1996,18-29 J.,indirekter Migrationshintergrund,36.58446181902715,36.21503596502398,36.953887673030316,37.0,38.0,39.580273594970315,33.12958960754453,43.45068398742579,38.0,37.5,38.5,233.0
+1996,18-29 J.,direkter Migrationshintergrund,35.901500396038514,35.44154602485509,36.361454767221936,35.0,38.5,40.0,27.5,47.5,38.5,38.494999980926515,39.0,262.0
+1996,18-29 J.,indirekter Migrationshintergrund,36.58446181902714,36.21503596502397,36.95388767303031,37.0,38.0,39.54677467956783,33.17983798064825,43.36693669891958,38.0,37.5,38.5,233.0
 1996,30-45 J.,kein Migrationshintergrund,34.92532805170484,34.76440195667942,35.086254146730255,35.0,38.5,40.0,27.5,47.5,38.5,38.5,39.0,2360.0
 1996,30-45 J.,direkter Migrationshintergrund,35.066362333321614,34.747991002979575,35.38473366366365,35.0,38.0,40.0,27.5,47.5,38.0,38.0,38.5,540.0
-1996,30-45 J.,indirekter Migrationshintergrund,29.05858774563912,27.47420220079813,30.64297329048011,20.0,35.0,38.4820717149668,12.0,40.0,35.0,32.0,50.0,38.0
-1996,46-65 J.,kein Migrationshintergrund,35.02354166709638,34.80947211359106,35.2376112206017,35.0,38.5,40.0,27.5,47.5,38.5,38.5,39.0,1339.0
-1996,46-65 J.,direkter Migrationshintergrund,34.55348442878378,34.19570977506811,34.911259082499456,35.0,37.5,39.0,29.0,45.0,37.5,37.0,38.0,466.0
+1996,30-45 J.,indirekter Migrationshintergrund,29.05858774563912,27.47420220079813,30.64297329048011,20.0,35.0,38.5,12.0,40.0,35.0,32.0,50.0,38.0
+1996,46-65 J.,kein Migrationshintergrund,35.02354166709639,34.80947211359107,35.23761122060171,35.0,38.5,40.0,27.5,47.5,38.5,38.5,39.0,1339.0
+1996,46-65 J.,direkter Migrationshintergrund,34.553484428783776,34.1957097750681,34.91125908249945,35.0,37.5,39.0,29.0,45.0,37.5,37.0,38.0,466.0
 1996,46-65 J.,indirekter Migrationshintergrund,,,,,,,,,,,,
 1996,66 und älter,kein Migrationshintergrund,,,,,,,,,,,,
 1996,66 und älter,direkter Migrationshintergrund,,,,,,,,,,,,
 1996,66 und älter,indirekter Migrationshintergrund,,,,,,,,,,,,
-1996,5,kein Migrationshintergrund,,,,,,,,,,,,
-1996,5,direkter Migrationshintergrund,,,,,,,,,,,,
-1996,5,indirekter Migrationshintergrund,,,,,,,,,,,,
-1996,6,kein Migrationshintergrund,,,,,,,,,,,,
-1996,6,direkter Migrationshintergrund,,,,,,,,,,,,
-1996,6,indirekter Migrationshintergrund,,,,,,,,,,,,
-1996,7,kein Migrationshintergrund,,,,,,,,,,,,
-1996,7,direkter Migrationshintergrund,,,,,,,,,,,,
-1996,7,indirekter Migrationshintergrund,,,,,,,,,,,,
-1996,8,kein Migrationshintergrund,,,,,,,,,,,,
-1996,8,direkter Migrationshintergrund,,,,,,,,,,,,
-1996,8,indirekter Migrationshintergrund,,,,,,,,,,,,
-1996,9,kein Migrationshintergrund,,,,,,,,,,,,
-1996,9,direkter Migrationshintergrund,,,,,,,,,,,,
-1996,9,indirekter Migrationshintergrund,,,,,,,,,,,,
-1996,10,kein Migrationshintergrund,,,,,,,,,,,,
-1996,10,direkter Migrationshintergrund,,,,,,,,,,,,
-1996,10,indirekter Migrationshintergrund,,,,,,,,,,,,
-1996,11,kein Migrationshintergrund,,,,,,,,,,,,
-1996,11,direkter Migrationshintergrund,,,,,,,,,,,,
-1996,11,indirekter Migrationshintergrund,,,,,,,,,,,,
-1996,12,kein Migrationshintergrund,,,,,,,,,,,,
-1996,12,direkter Migrationshintergrund,,,,,,,,,,,,
-1996,12,indirekter Migrationshintergrund,,,,,,,,,,,,
-1996,13,kein Migrationshintergrund,,,,,,,,,,,,
-1996,13,direkter Migrationshintergrund,,,,,,,,,,,,
-1996,13,indirekter Migrationshintergrund,,,,,,,,,,,,
-1996,14,kein Migrationshintergrund,,,,,,,,,,,,
-1996,14,direkter Migrationshintergrund,,,,,,,,,,,,
-1996,14,indirekter Migrationshintergrund,,,,,,,,,,,,
-1996,15,kein Migrationshintergrund,,,,,,,,,,,,
-1996,15,direkter Migrationshintergrund,,,,,,,,,,,,
-1996,15,indirekter Migrationshintergrund,,,,,,,,,,,,
-1996,16,kein Migrationshintergrund,,,,,,,,,,,,
-1996,16,direkter Migrationshintergrund,,,,,,,,,,,,
-1996,16,indirekter Migrationshintergrund,,,,,,,,,,,,
-1996,17,kein Migrationshintergrund,,,,,,,,,,,,
-1996,17,direkter Migrationshintergrund,,,,,,,,,,,,
-1996,17,indirekter Migrationshintergrund,,,,,,,,,,,,
-1997,0,kein Migrationshintergrund,,,,,,,,,,,,
-1997,0,indirekter Migrationshintergrund,,,,,,,,,,,,
+1997,unter 18 J.,kein Migrationshintergrund,,,,,,,,,,,,
+1997,unter 18 J.,direkter Migrationshintergrund,,,,,,,,,,,,
+1997,unter 18 J.,indirekter Migrationshintergrund,,,,,,,,,,,,
 1997,18-29 J.,kein Migrationshintergrund,36.86574771004166,36.66824909330246,37.06324632678086,37.5,38.5,40.0,33.75,43.75,38.5,38.5,38.5,1106.0
-1997,18-29 J.,direkter Migrationshintergrund,35.97374618137019,35.41718913635041,36.53030322638997,37.0,38.5,40.0,32.5,44.5,38.5,38.0,39.0,232.0
-1997,18-29 J.,indirekter Migrationshintergrund,37.21042882552455,36.86424578919025,37.556611861858855,37.5,38.0,40.0,33.75,43.75,38.0,37.5,38.0,237.0
+1997,18-29 J.,direkter Migrationshintergrund,35.973746181370196,35.417189136350416,36.530303226389975,37.0,38.5,40.0,32.5,44.5,38.5,38.0,39.0,232.0
+1997,18-29 J.,indirekter Migrationshintergrund,37.210428825524545,36.86424578919024,37.55661186185885,37.5,38.0,40.0,33.75,43.75,38.0,37.5,38.0,237.0
 1997,30-45 J.,kein Migrationshintergrund,34.984324727424635,34.82067211280893,35.14797734204034,35.0,38.5,40.0,27.5,47.5,38.5,38.5,39.0,2249.0
-1997,30-45 J.,direkter Migrationshintergrund,35.253520159708344,34.9177500951971,35.58929022421959,35.0,38.0,40.0,27.5,47.5,38.0,37.5,38.5,497.0
-1997,30-45 J.,indirekter Migrationshintergrund,31.1159048828661,29.763447384350094,32.46836238138211,20.0,36.53475005210601,38.5,14.0,50.0,37.0,35.5,49.0,41.0
-1997,46-65 J.,kein Migrationshintergrund,34.8320451507639,34.6132828008178,35.05080750071001,35.0,38.5,40.0,27.5,47.5,38.5,38.5,39.0,1297.0
+1997,30-45 J.,direkter Migrationshintergrund,35.25352015970835,34.91775009519711,35.589290224219596,35.0,38.0,40.0,27.5,47.5,38.0,38.0,38.5,497.0
+1997,30-45 J.,indirekter Migrationshintergrund,31.1159048828661,29.763447384350094,32.46836238138211,20.0,37.0,38.5,14.0,50.0,37.0,35.5,54.0,41.0
+1997,46-65 J.,kein Migrationshintergrund,34.83204515076391,34.61328280081781,35.050807500710015,35.0,38.5,40.0,27.5,47.5,38.5,38.5,39.0,1297.0
 1997,46-65 J.,direkter Migrationshintergrund,35.132548163720024,34.756984740117005,35.50811158732304,35.0,37.5,40.0,27.5,47.5,37.5,37.0,38.0,425.0
 1997,46-65 J.,indirekter Migrationshintergrund,,,,,,,,,,,,
 1997,66 und älter,kein Migrationshintergrund,,,,,,,,,,,,
 1997,66 und älter,direkter Migrationshintergrund,,,,,,,,,,,,
 1997,66 und älter,indirekter Migrationshintergrund,,,,,,,,,,,,
-1997,5,kein Migrationshintergrund,,,,,,,,,,,,
-1997,5,direkter Migrationshintergrund,,,,,,,,,,,,
-1997,5,indirekter Migrationshintergrund,,,,,,,,,,,,
-1997,6,kein Migrationshintergrund,,,,,,,,,,,,
-1997,6,direkter Migrationshintergrund,,,,,,,,,,,,
-1997,6,indirekter Migrationshintergrund,,,,,,,,,,,,
-1997,7,kein Migrationshintergrund,,,,,,,,,,,,
-1997,7,direkter Migrationshintergrund,,,,,,,,,,,,
-1997,7,indirekter Migrationshintergrund,,,,,,,,,,,,
-1997,8,kein Migrationshintergrund,,,,,,,,,,,,
-1997,8,direkter Migrationshintergrund,,,,,,,,,,,,
-1997,8,indirekter Migrationshintergrund,,,,,,,,,,,,
-1997,9,kein Migrationshintergrund,,,,,,,,,,,,
-1997,9,direkter Migrationshintergrund,,,,,,,,,,,,
-1997,9,indirekter Migrationshintergrund,,,,,,,,,,,,
-1997,10,kein Migrationshintergrund,,,,,,,,,,,,
-1997,10,direkter Migrationshintergrund,,,,,,,,,,,,
-1997,10,indirekter Migrationshintergrund,,,,,,,,,,,,
-1997,11,kein Migrationshintergrund,,,,,,,,,,,,
-1997,11,direkter Migrationshintergrund,,,,,,,,,,,,
-1997,11,indirekter Migrationshintergrund,,,,,,,,,,,,
-1997,12,kein Migrationshintergrund,,,,,,,,,,,,
-1997,12,direkter Migrationshintergrund,,,,,,,,,,,,
-1997,12,indirekter Migrationshintergrund,,,,,,,,,,,,
-1997,13,kein Migrationshintergrund,,,,,,,,,,,,
-1997,13,direkter Migrationshintergrund,,,,,,,,,,,,
-1997,13,indirekter Migrationshintergrund,,,,,,,,,,,,
-1997,14,kein Migrationshintergrund,,,,,,,,,,,,
-1997,14,direkter Migrationshintergrund,,,,,,,,,,,,
-1997,14,indirekter Migrationshintergrund,,,,,,,,,,,,
-1997,15,kein Migrationshintergrund,,,,,,,,,,,,
-1997,15,direkter Migrationshintergrund,,,,,,,,,,,,
-1997,15,indirekter Migrationshintergrund,,,,,,,,,,,,
-1997,16,kein Migrationshintergrund,,,,,,,,,,,,
-1997,16,direkter Migrationshintergrund,,,,,,,,,,,,
-1997,16,indirekter Migrationshintergrund,,,,,,,,,,,,
-1997,17,kein Migrationshintergrund,,,,,,,,,,,,
-1997,17,direkter Migrationshintergrund,,,,,,,,,,,,
-1997,17,indirekter Migrationshintergrund,,,,,,,,,,,,
 1998,-1,direkter Migrationshintergrund,,,,,,,,,,,,
-1998,0,kein Migrationshintergrund,,,,,,,,,,,,
-1998,0,indirekter Migrationshintergrund,,,,,,,,,,,,
-1998,18-29 J.,kein Migrationshintergrund,36.25688108681564,36.04118619801658,36.472575975614696,37.5,38.5,40.0,33.75,43.75,38.5,38.5,38.5,1181.0
-1998,18-29 J.,direkter Migrationshintergrund,36.51217223410921,36.071676078862794,36.95266838935562,36.0,38.5,40.0,30.0,46.0,38.5,38.0,39.0125,209.0
-1998,18-29 J.,indirekter Migrationshintergrund,36.3380924745453,35.916754422160686,36.75943052692991,36.0,38.0,39.0,31.5,43.5,38.0,37.5,38.5,234.0
+1998,unter 18 J.,kein Migrationshintergrund,,,,,,,,,,,,
+1998,unter 18 J.,direkter Migrationshintergrund,,,,,,,,,,,,
+1998,unter 18 J.,indirekter Migrationshintergrund,,,,,,,,,,,,
+1998,18-29 J.,kein Migrationshintergrund,36.25688108681563,36.041186198016575,36.47257597561469,37.5,38.5,40.0,33.75,43.75,38.5,38.5,38.5,1181.0
+1998,18-29 J.,direkter Migrationshintergrund,36.51217223410921,36.071676078862794,36.95266838935562,36.0,38.5,40.0,30.0,46.0,38.5,38.0,39.0,209.0
+1998,18-29 J.,indirekter Migrationshintergrund,36.3380924745453,35.916754422160686,36.75943052692991,36.0,38.0,39.18287725918319,31.22568411122521,43.95719314795798,38.0,37.5,38.5,234.0
 1998,30-45 J.,kein Migrationshintergrund,34.97800941150875,34.81882893646279,35.13718988655471,35.0,38.5,40.0,27.5,47.5,38.5,38.5,38.5,2571.0
-1998,30-45 J.,direkter Migrationshintergrund,34.26602125203674,33.84763677150394,34.68440573256953,35.0,37.5,40.0,27.5,47.5,37.5,37.0,37.5,477.0
-1998,30-45 J.,indirekter Migrationshintergrund,32.50040251275181,31.309899055367943,33.69090597013568,28.280941640101787,37.5,38.5,12.952354100254468,49.0,37.5,36.5,45.0,51.0
+1998,30-45 J.,direkter Migrationshintergrund,34.26602125203673,33.847636771503936,34.68440573256952,35.0,37.5,40.0,27.5,47.5,37.5,37.0,37.5,477.0
+1998,30-45 J.,indirekter Migrationshintergrund,32.50040251275182,31.30989905536795,33.69090597013569,28.280941640101773,37.5,38.5,12.952354100254432,49.0,37.5,36.5,45.0,51.0
 1998,46-65 J.,kein Migrationshintergrund,34.783724358798004,34.58858818280124,34.97886053479477,35.0,38.0,40.0,27.5,47.5,38.0,37.5,38.0,1518.0
 1998,46-65 J.,direkter Migrationshintergrund,35.28049348840332,34.94827560681854,35.612711369988105,35.0,37.5,40.0,27.5,47.5,37.5,37.0,38.0,428.0
 1998,46-65 J.,indirekter Migrationshintergrund,,,,,,,,,,,,
 1998,66 und älter,kein Migrationshintergrund,,,,,,,,,,,,
 1998,66 und älter,direkter Migrationshintergrund,,,,,,,,,,,,
 1998,66 und älter,indirekter Migrationshintergrund,,,,,,,,,,,,
-1998,5,kein Migrationshintergrund,,,,,,,,,,,,
-1998,5,direkter Migrationshintergrund,,,,,,,,,,,,
-1998,5,indirekter Migrationshintergrund,,,,,,,,,,,,
-1998,6,kein Migrationshintergrund,,,,,,,,,,,,
-1998,6,indirekter Migrationshintergrund,,,,,,,,,,,,
-1998,7,kein Migrationshintergrund,,,,,,,,,,,,
-1998,7,direkter Migrationshintergrund,,,,,,,,,,,,
-1998,7,indirekter Migrationshintergrund,,,,,,,,,,,,
-1998,8,kein Migrationshintergrund,,,,,,,,,,,,
-1998,8,direkter Migrationshintergrund,,,,,,,,,,,,
-1998,8,indirekter Migrationshintergrund,,,,,,,,,,,,
-1998,9,kein Migrationshintergrund,,,,,,,,,,,,
-1998,9,direkter Migrationshintergrund,,,,,,,,,,,,
-1998,9,indirekter Migrationshintergrund,,,,,,,,,,,,
-1998,10,kein Migrationshintergrund,,,,,,,,,,,,
-1998,10,direkter Migrationshintergrund,,,,,,,,,,,,
-1998,10,indirekter Migrationshintergrund,,,,,,,,,,,,
-1998,11,kein Migrationshintergrund,,,,,,,,,,,,
-1998,11,direkter Migrationshintergrund,,,,,,,,,,,,
-1998,11,indirekter Migrationshintergrund,,,,,,,,,,,,
-1998,12,kein Migrationshintergrund,,,,,,,,,,,,
-1998,12,direkter Migrationshintergrund,,,,,,,,,,,,
-1998,12,indirekter Migrationshintergrund,,,,,,,,,,,,
-1998,13,kein Migrationshintergrund,,,,,,,,,,,,
-1998,13,direkter Migrationshintergrund,,,,,,,,,,,,
-1998,13,indirekter Migrationshintergrund,,,,,,,,,,,,
-1998,14,kein Migrationshintergrund,,,,,,,,,,,,
-1998,14,direkter Migrationshintergrund,,,,,,,,,,,,
-1998,14,indirekter Migrationshintergrund,,,,,,,,,,,,
-1998,15,kein Migrationshintergrund,,,,,,,,,,,,
-1998,15,direkter Migrationshintergrund,,,,,,,,,,,,
-1998,15,indirekter Migrationshintergrund,,,,,,,,,,,,
-1998,16,kein Migrationshintergrund,,,,,,,,,,,,
-1998,16,direkter Migrationshintergrund,,,,,,,,,,,,
-1998,16,indirekter Migrationshintergrund,,,,,,,,,,,,
-1998,17,kein Migrationshintergrund,,,,,,,,,,,,
-1998,17,direkter Migrationshintergrund,,,,,,,,,,,,
-1998,17,indirekter Migrationshintergrund,,,,,,,,,,,,
-1999,0,kein Migrationshintergrund,,,,,,,,,,,,
-1999,0,indirekter Migrationshintergrund,,,,,,,,,,,,
-1999,18-29 J.,kein Migrationshintergrund,36.5513995820508,36.33525050652978,36.767548657571815,37.5,38.5,40.0,33.75,43.75,38.5,38.5,38.5,1162.0
+1999,unter 18 J.,kein Migrationshintergrund,,,,,,,,,,,,
+1999,unter 18 J.,direkter Migrationshintergrund,,,,,,,,,,,,
+1999,unter 18 J.,indirekter Migrationshintergrund,,,,,,,,,,,,
+1999,18-29 J.,kein Migrationshintergrund,36.551399582050806,36.33525050652979,36.76754865757182,37.5,38.5,40.0,33.75,43.75,38.5,38.5,38.5,1162.0
 1999,18-29 J.,direkter Migrationshintergrund,35.60835267126288,35.05392820608013,36.16277713644563,36.0,38.5,40.0,30.0,46.0,38.5,38.5,39.0,188.0
 1999,18-29 J.,indirekter Migrationshintergrund,36.74468456002837,36.34619689171852,37.143172228338216,37.0,38.5,40.0,32.5,44.5,38.5,38.5,39.0,250.0
-1999,30-45 J.,kein Migrationshintergrund,34.735991534121055,34.57079412096218,34.901188947279934,35.0,38.5,40.0,27.5,47.5,38.5,38.5,38.505000019073485,2614.0
+1999,30-45 J.,kein Migrationshintergrund,34.73599153412106,34.570794120962184,34.90118894727994,35.0,38.5,40.0,27.5,47.5,38.5,38.5,38.707500743865964,2614.0
 1999,30-45 J.,direkter Migrationshintergrund,34.334461237046824,33.9332696364317,34.735652837661945,35.0,37.5,40.0,27.5,47.5,37.5,37.0,37.5,463.0
-1999,30-45 J.,indirekter Migrationshintergrund,31.47309279046218,30.368104605147707,32.57808097577665,25.0,37.0,38.5,11.0,50.0,37.0,35.5,44.0,65.0
+1999,30-45 J.,indirekter Migrationshintergrund,31.47309279046218,30.368104605147707,32.57808097577665,21.91335716985797,37.0,38.5,11.0,50.0,37.0,35.5,45.20000076293945,65.0
 1999,46-65 J.,kein Migrationshintergrund,34.758848496818395,34.55284963602363,34.96484735761316,35.0,38.0,40.0,27.5,47.5,38.0,37.5,38.0,1509.0
 1999,46-65 J.,direkter Migrationshintergrund,34.96346858619632,34.57048176790414,35.3564554044885,35.0,37.5,39.0,29.0,45.0,37.5,37.0,37.5,390.0
 1999,46-65 J.,indirekter Migrationshintergrund,,,,,,,,,,,,
 1999,66 und älter,kein Migrationshintergrund,,,,,,,,,,,,
 1999,66 und älter,direkter Migrationshintergrund,,,,,,,,,,,,
 1999,66 und älter,indirekter Migrationshintergrund,,,,,,,,,,,,
-1999,5,kein Migrationshintergrund,,,,,,,,,,,,
-1999,5,direkter Migrationshintergrund,,,,,,,,,,,,
-1999,5,indirekter Migrationshintergrund,,,,,,,,,,,,
-1999,6,kein Migrationshintergrund,,,,,,,,,,,,
-1999,6,direkter Migrationshintergrund,,,,,,,,,,,,
-1999,6,indirekter Migrationshintergrund,,,,,,,,,,,,
-1999,7,kein Migrationshintergrund,,,,,,,,,,,,
-1999,7,indirekter Migrationshintergrund,,,,,,,,,,,,
-1999,8,kein Migrationshintergrund,,,,,,,,,,,,
-1999,8,direkter Migrationshintergrund,,,,,,,,,,,,
-1999,8,indirekter Migrationshintergrund,,,,,,,,,,,,
-1999,9,kein Migrationshintergrund,,,,,,,,,,,,
-1999,9,direkter Migrationshintergrund,,,,,,,,,,,,
-1999,9,indirekter Migrationshintergrund,,,,,,,,,,,,
-1999,10,kein Migrationshintergrund,,,,,,,,,,,,
-1999,10,direkter Migrationshintergrund,,,,,,,,,,,,
-1999,10,indirekter Migrationshintergrund,,,,,,,,,,,,
-1999,11,kein Migrationshintergrund,,,,,,,,,,,,
-1999,11,direkter Migrationshintergrund,,,,,,,,,,,,
-1999,11,indirekter Migrationshintergrund,,,,,,,,,,,,
-1999,12,kein Migrationshintergrund,,,,,,,,,,,,
-1999,12,direkter Migrationshintergrund,,,,,,,,,,,,
-1999,12,indirekter Migrationshintergrund,,,,,,,,,,,,
-1999,13,kein Migrationshintergrund,,,,,,,,,,,,
-1999,13,direkter Migrationshintergrund,,,,,,,,,,,,
-1999,13,indirekter Migrationshintergrund,,,,,,,,,,,,
-1999,14,kein Migrationshintergrund,,,,,,,,,,,,
-1999,14,direkter Migrationshintergrund,,,,,,,,,,,,
-1999,14,indirekter Migrationshintergrund,,,,,,,,,,,,
-1999,15,kein Migrationshintergrund,,,,,,,,,,,,
-1999,15,direkter Migrationshintergrund,,,,,,,,,,,,
-1999,15,indirekter Migrationshintergrund,,,,,,,,,,,,
-1999,16,kein Migrationshintergrund,,,,,,,,,,,,
-1999,16,direkter Migrationshintergrund,,,,,,,,,,,,
-1999,16,indirekter Migrationshintergrund,,,,,,,,,,,,
-1999,17,kein Migrationshintergrund,,,,,,,,,,,,
-1999,17,direkter Migrationshintergrund,,,,,,,,,,,,
-1999,17,indirekter Migrationshintergrund,,,,,,,,,,,,
 2000,-1,kein Migrationshintergrund,,,,,,,,,,,,
-2000,0,kein Migrationshintergrund,,,,,,,,,,,,
-2000,0,indirekter Migrationshintergrund,,,,,,,,,,,,
+2000,unter 18 J.,kein Migrationshintergrund,,,,,,,,,,,,
+2000,unter 18 J.,direkter Migrationshintergrund,,,,,,,,,,,,
+2000,unter 18 J.,indirekter Migrationshintergrund,,,,,,,,,,,,
 2000,18-29 J.,kein Migrationshintergrund,36.65031659857748,36.48192925109488,36.81870394606008,37.5,38.5,40.0,33.75,43.75,38.5,38.5,38.5,1760.0
 2000,18-29 J.,direkter Migrationshintergrund,35.324870527600254,34.81091327078635,35.83882778441416,36.0,38.5,40.0,30.0,46.0,38.5,38.0,39.0,270.0
-2000,18-29 J.,indirekter Migrationshintergrund,36.38380350487998,35.9654234444027,36.802183565357254,37.5,38.5,40.0,33.75,43.75,38.5,37.9875,39.0,303.0
+2000,18-29 J.,indirekter Migrationshintergrund,36.383803504879985,35.96542344440271,36.80218356535726,37.5,38.5,40.0,33.75,43.75,38.5,37.5,39.0,303.0
 2000,30-45 J.,kein Migrationshintergrund,34.81123546578143,34.68867742942632,34.93379350213654,35.0,38.5,40.0,27.5,47.5,38.5,38.5,38.5,4514.0
-2000,30-45 J.,direkter Migrationshintergrund,34.42455292129581,34.0991255620651,34.74998028052653,35.0,37.5,40.0,27.5,47.5,37.5,37.0,37.5,698.0
-2000,30-45 J.,indirekter Migrationshintergrund,33.95946602052433,33.18848572772315,34.730446313325515,30.117966098358625,37.59640131081509,38.5,17.54491524589656,51.0,37.70000076293945,36.900001525878906,37.91250152587891,99.0
+2000,30-45 J.,direkter Migrationshintergrund,34.42455292129582,34.099125562065105,34.749980280526536,35.0,37.5,40.0,27.5,47.5,37.5,37.0,37.5,698.0
+2000,30-45 J.,indirekter Migrationshintergrund,33.959466020524324,33.18848572772314,34.73044631332551,30.11796609835863,37.608812984787065,38.5,17.544915245896572,51.0,37.70000076293945,36.900001525878906,38.41250152587891,99.0
 2000,46-65 J.,kein Migrationshintergrund,34.49991946450618,34.34562915368078,34.65420977533157,35.0,38.5,40.0,27.5,47.5,38.5,38.5,39.0,2848.0
 2000,46-65 J.,direkter Migrationshintergrund,34.45335420877134,34.10105136753679,34.805657050005884,35.0,38.0,40.0,27.5,47.5,38.0,38.0,38.5,538.0
 2000,46-65 J.,indirekter Migrationshintergrund,,,,,,,,,,,,
 2000,66 und älter,kein Migrationshintergrund,,,,,,,,,,,,
 2000,66 und älter,direkter Migrationshintergrund,,,,,,,,,,,,
 2000,66 und älter,indirekter Migrationshintergrund,,,,,,,,,,,,
-2000,5,kein Migrationshintergrund,,,,,,,,,,,,
-2000,5,direkter Migrationshintergrund,,,,,,,,,,,,
-2000,5,indirekter Migrationshintergrund,,,,,,,,,,,,
-2000,6,kein Migrationshintergrund,,,,,,,,,,,,
-2000,6,direkter Migrationshintergrund,,,,,,,,,,,,
-2000,6,indirekter Migrationshintergrund,,,,,,,,,,,,
-2000,7,kein Migrationshintergrund,,,,,,,,,,,,
-2000,7,direkter Migrationshintergrund,,,,,,,,,,,,
-2000,7,indirekter Migrationshintergrund,,,,,,,,,,,,
-2000,8,kein Migrationshintergrund,,,,,,,,,,,,
-2000,8,direkter Migrationshintergrund,,,,,,,,,,,,
-2000,8,indirekter Migrationshintergrund,,,,,,,,,,,,
-2000,9,kein Migrationshintergrund,,,,,,,,,,,,
-2000,9,direkter Migrationshintergrund,,,,,,,,,,,,
-2000,9,indirekter Migrationshintergrund,,,,,,,,,,,,
-2000,10,kein Migrationshintergrund,,,,,,,,,,,,
-2000,10,direkter Migrationshintergrund,,,,,,,,,,,,
-2000,10,indirekter Migrationshintergrund,,,,,,,,,,,,
-2000,11,kein Migrationshintergrund,,,,,,,,,,,,
-2000,11,direkter Migrationshintergrund,,,,,,,,,,,,
-2000,11,indirekter Migrationshintergrund,,,,,,,,,,,,
-2000,12,kein Migrationshintergrund,,,,,,,,,,,,
-2000,12,direkter Migrationshintergrund,,,,,,,,,,,,
-2000,12,indirekter Migrationshintergrund,,,,,,,,,,,,
-2000,13,kein Migrationshintergrund,,,,,,,,,,,,
-2000,13,direkter Migrationshintergrund,,,,,,,,,,,,
-2000,13,indirekter Migrationshintergrund,,,,,,,,,,,,
-2000,14,kein Migrationshintergrund,,,,,,,,,,,,
-2000,14,direkter Migrationshintergrund,,,,,,,,,,,,
-2000,14,indirekter Migrationshintergrund,,,,,,,,,,,,
-2000,15,kein Migrationshintergrund,,,,,,,,,,,,
-2000,15,direkter Migrationshintergrund,,,,,,,,,,,,
-2000,15,indirekter Migrationshintergrund,,,,,,,,,,,,
-2000,16,kein Migrationshintergrund,,,,,,,,,,,,
-2000,16,direkter Migrationshintergrund,,,,,,,,,,,,
-2000,16,indirekter Migrationshintergrund,,,,,,,,,,,,
-2000,17,kein Migrationshintergrund,,,,,,,,,,,,
-2000,17,direkter Migrationshintergrund,,,,,,,,,,,,
-2000,17,indirekter Migrationshintergrund,,,,,,,,,,,,
-2001,0,kein Migrationshintergrund,,,,,,,,,,,,
-2001,0,indirekter Migrationshintergrund,,,,,,,,,,,,
-2001,18-29 J.,kein Migrationshintergrund,36.26326528223454,36.06962378761355,36.45690677685553,37.5,38.5,40.0,33.75,43.75,38.5,38.5,38.5,1588.0
-2001,18-29 J.,direkter Migrationshintergrund,34.948228784844034,34.361397443982625,35.53506012570544,37.39173453978688,38.47519527636334,40.0,33.479336349467204,43.91239819031968,38.5,38.5,39.0,252.0
+2001,unter 18 J.,kein Migrationshintergrund,,,,,,,,,,,,
+2001,unter 18 J.,direkter Migrationshintergrund,,,,,,,,,,,,
+2001,unter 18 J.,indirekter Migrationshintergrund,,,,,,,,,,,,
+2001,18-29 J.,kein Migrationshintergrund,36.26326528223454,36.06962378761355,36.45690677685553,37.5,38.5,40.0,33.75,43.75,38.5,38.29999923706055,38.5,1588.0
+2001,18-29 J.,direkter Migrationshintergrund,34.948228784844034,34.361397443982625,35.53506012570544,37.5,38.5,40.0,33.75,43.75,38.5,38.5,39.0,252.0
 2001,18-29 J.,indirekter Migrationshintergrund,35.411432801213984,34.92751079171813,35.89535481070984,35.0,38.0,40.0,27.5,47.5,38.0,37.5,38.0,286.0
 2001,30-45 J.,kein Migrationshintergrund,34.39171714338114,34.25662689960399,34.5268073871583,35.0,38.20000076293945,40.0,27.5,47.5,38.20000076293945,37.900001525878906,38.400001525878906,4173.0
-2001,30-45 J.,direkter Migrationshintergrund,34.63950889613918,34.3152601629589,34.96375762931947,35.0,38.0,40.0,27.5,47.5,38.0,38.0,38.5,649.0
-2001,30-45 J.,indirekter Migrationshintergrund,34.5435906616854,33.777832395395684,35.309348927975115,35.0,38.5,39.0,29.0,45.0,38.5,38.5,39.5,109.0
-2001,46-65 J.,kein Migrationshintergrund,34.008613555375476,33.843509140355636,34.173717970395316,30.0,38.0,40.0,15.0,55.0,38.0,37.5,38.0,2771.0
+2001,30-45 J.,direkter Migrationshintergrund,34.639508896139176,34.31526016295889,34.96375762931946,35.0,38.0,40.0,27.5,47.5,38.0,38.0,38.5,649.0
+2001,30-45 J.,indirekter Migrationshintergrund,34.54359066168539,33.77783239539568,35.30934892797511,35.0,38.5,39.0,29.0,45.0,38.5,38.5,39.5,109.0
+2001,46-65 J.,kein Migrationshintergrund,34.008613555375454,33.843509140355614,34.173717970395295,30.0,38.0,40.0,15.0,55.0,38.0,37.5,38.0,2771.0
 2001,46-65 J.,direkter Migrationshintergrund,34.74321384348531,34.389650131500346,35.09677755547027,35.0,38.0,40.0,27.5,47.5,38.0,38.0,38.5,501.0
 2001,46-65 J.,indirekter Migrationshintergrund,,,,,,,,,,,,
 2001,66 und älter,kein Migrationshintergrund,,,,,,,,,,,,
 2001,66 und älter,direkter Migrationshintergrund,,,,,,,,,,,,
 2001,66 und älter,indirekter Migrationshintergrund,,,,,,,,,,,,
-2001,5,kein Migrationshintergrund,,,,,,,,,,,,
-2001,5,direkter Migrationshintergrund,,,,,,,,,,,,
-2001,5,indirekter Migrationshintergrund,,,,,,,,,,,,
-2001,6,kein Migrationshintergrund,,,,,,,,,,,,
-2001,6,direkter Migrationshintergrund,,,,,,,,,,,,
-2001,6,indirekter Migrationshintergrund,,,,,,,,,,,,
-2001,7,kein Migrationshintergrund,,,,,,,,,,,,
-2001,7,direkter Migrationshintergrund,,,,,,,,,,,,
-2001,7,indirekter Migrationshintergrund,,,,,,,,,,,,
-2001,8,kein Migrationshintergrund,,,,,,,,,,,,
-2001,8,direkter Migrationshintergrund,,,,,,,,,,,,
-2001,8,indirekter Migrationshintergrund,,,,,,,,,,,,
-2001,9,kein Migrationshintergrund,,,,,,,,,,,,
-2001,9,direkter Migrationshintergrund,,,,,,,,,,,,
-2001,9,indirekter Migrationshintergrund,,,,,,,,,,,,
-2001,10,kein Migrationshintergrund,,,,,,,,,,,,
-2001,10,direkter Migrationshintergrund,,,,,,,,,,,,
-2001,10,indirekter Migrationshintergrund,,,,,,,,,,,,
-2001,11,kein Migrationshintergrund,,,,,,,,,,,,
-2001,11,direkter Migrationshintergrund,,,,,,,,,,,,
-2001,11,indirekter Migrationshintergrund,,,,,,,,,,,,
-2001,12,kein Migrationshintergrund,,,,,,,,,,,,
-2001,12,direkter Migrationshintergrund,,,,,,,,,,,,
-2001,12,indirekter Migrationshintergrund,,,,,,,,,,,,
-2001,13,kein Migrationshintergrund,,,,,,,,,,,,
-2001,13,direkter Migrationshintergrund,,,,,,,,,,,,
-2001,13,indirekter Migrationshintergrund,,,,,,,,,,,,
-2001,14,kein Migrationshintergrund,,,,,,,,,,,,
-2001,14,direkter Migrationshintergrund,,,,,,,,,,,,
-2001,14,indirekter Migrationshintergrund,,,,,,,,,,,,
-2001,15,kein Migrationshintergrund,,,,,,,,,,,,
-2001,15,direkter Migrationshintergrund,,,,,,,,,,,,
-2001,15,indirekter Migrationshintergrund,,,,,,,,,,,,
-2001,16,kein Migrationshintergrund,,,,,,,,,,,,
-2001,16,direkter Migrationshintergrund,,,,,,,,,,,,
-2001,16,indirekter Migrationshintergrund,,,,,,,,,,,,
-2001,17,kein Migrationshintergrund,,,,,,,,,,,,
-2001,17,direkter Migrationshintergrund,,,,,,,,,,,,
-2001,17,indirekter Migrationshintergrund,,,,,,,,,,,,
-2002,0,kein Migrationshintergrund,,,,,,,,,,,,
-2002,0,indirekter Migrationshintergrund,,,,,,,,,,,,
+2002,unter 18 J.,kein Migrationshintergrund,,,,,,,,,,,,
+2002,unter 18 J.,direkter Migrationshintergrund,,,,,,,,,,,,
+2002,unter 18 J.,indirekter Migrationshintergrund,,,,,,,,,,,,
 2002,18-29 J.,kein Migrationshintergrund,36.76080464208361,36.572772267227606,36.94883701693962,37.5,38.5,40.0,33.75,43.75,38.5,38.0,38.5,1530.0
 2002,18-29 J.,direkter Migrationshintergrund,35.65536303270968,35.05004836895263,36.26067769646673,36.184308609765104,38.5,40.0,30.46077152441276,45.72353708535235,38.5,38.0,39.0,210.0
-2002,18-29 J.,indirekter Migrationshintergrund,36.41651067223362,35.94185976164528,36.89116158282196,37.0,38.5,40.0,32.5,44.5,38.5,38.5,39.0,235.0
-2002,30-45 J.,kein Migrationshintergrund,34.34001649316239,34.204615867304106,34.47541711902067,32.636255544709954,38.5,40.0,21.590638861774885,51.04561668293507,38.5,38.5,39.0,4161.0
-2002,30-45 J.,direkter Migrationshintergrund,34.440230324052976,34.08233461830528,34.79812602980067,35.0,38.0,40.0,27.5,47.5,38.0,37.5,38.5,578.0
-2002,30-45 J.,indirekter Migrationshintergrund,33.51901923278571,32.69467173024655,34.34336673532487,35.0,38.0,39.0,29.0,45.0,38.0,37.5,38.5125,121.0
+2002,18-29 J.,indirekter Migrationshintergrund,36.41651067223362,35.94185976164528,36.89116158282196,37.0,38.5,40.0,32.5,44.5,38.5,37.5,39.0,235.0
+2002,30-45 J.,kein Migrationshintergrund,34.34001649316238,34.2046158673041,34.47541711902066,32.50803378509647,38.5,40.0,21.27008446274118,51.23794932235529,38.5,38.5,39.0,4161.0
+2002,30-45 J.,direkter Migrationshintergrund,34.440230324052976,34.08233461830528,34.79812602980067,35.0,38.0,40.0,27.5,47.5,38.0,38.0,38.5,578.0
+2002,30-45 J.,indirekter Migrationshintergrund,33.5190192327857,32.69467173024654,34.343366735324864,35.0,38.0,39.0,29.0,45.0,38.0,37.5,39.0,121.0
 2002,46-65 J.,kein Migrationshintergrund,33.92573190037105,33.77133632248393,34.08012747825816,30.0,38.0,40.0,15.0,55.0,38.0,37.5,38.0,3104.0
-2002,46-65 J.,direkter Migrationshintergrund,34.1028404191855,33.6921559099271,34.51352492844389,35.0,37.5,40.0,27.5,47.5,37.5,37.0,37.5,477.0
+2002,46-65 J.,direkter Migrationshintergrund,34.102840419185505,33.69215590992711,34.5135249284439,35.0,37.5,40.0,27.5,47.5,37.5,37.0,37.5,477.0
 2002,46-65 J.,indirekter Migrationshintergrund,,,,,,,,,,,,
 2002,66 und älter,kein Migrationshintergrund,,,,,,,,,,,,
 2002,66 und älter,direkter Migrationshintergrund,,,,,,,,,,,,
 2002,66 und älter,indirekter Migrationshintergrund,,,,,,,,,,,,
-2002,5,kein Migrationshintergrund,,,,,,,,,,,,
-2002,5,direkter Migrationshintergrund,,,,,,,,,,,,
-2002,5,indirekter Migrationshintergrund,,,,,,,,,,,,
-2002,6,kein Migrationshintergrund,,,,,,,,,,,,
-2002,6,direkter Migrationshintergrund,,,,,,,,,,,,
-2002,6,indirekter Migrationshintergrund,,,,,,,,,,,,
-2002,7,kein Migrationshintergrund,,,,,,,,,,,,
-2002,7,direkter Migrationshintergrund,,,,,,,,,,,,
-2002,7,indirekter Migrationshintergrund,,,,,,,,,,,,
-2002,8,kein Migrationshintergrund,,,,,,,,,,,,
-2002,8,direkter Migrationshintergrund,,,,,,,,,,,,
-2002,8,indirekter Migrationshintergrund,,,,,,,,,,,,
-2002,9,kein Migrationshintergrund,,,,,,,,,,,,
-2002,9,direkter Migrationshintergrund,,,,,,,,,,,,
-2002,9,indirekter Migrationshintergrund,,,,,,,,,,,,
-2002,10,kein Migrationshintergrund,,,,,,,,,,,,
-2002,10,direkter Migrationshintergrund,,,,,,,,,,,,
-2002,10,indirekter Migrationshintergrund,,,,,,,,,,,,
-2002,11,kein Migrationshintergrund,,,,,,,,,,,,
-2002,11,direkter Migrationshintergrund,,,,,,,,,,,,
-2002,11,indirekter Migrationshintergrund,,,,,,,,,,,,
-2002,12,kein Migrationshintergrund,,,,,,,,,,,,
-2002,12,direkter Migrationshintergrund,,,,,,,,,,,,
-2002,12,indirekter Migrationshintergrund,,,,,,,,,,,,
-2002,13,kein Migrationshintergrund,,,,,,,,,,,,
-2002,13,direkter Migrationshintergrund,,,,,,,,,,,,
-2002,13,indirekter Migrationshintergrund,,,,,,,,,,,,
-2002,14,kein Migrationshintergrund,,,,,,,,,,,,
-2002,14,direkter Migrationshintergrund,,,,,,,,,,,,
-2002,14,indirekter Migrationshintergrund,,,,,,,,,,,,
-2002,15,kein Migrationshintergrund,,,,,,,,,,,,
-2002,15,direkter Migrationshintergrund,,,,,,,,,,,,
-2002,15,indirekter Migrationshintergrund,,,,,,,,,,,,
-2002,16,kein Migrationshintergrund,,,,,,,,,,,,
-2002,16,direkter Migrationshintergrund,,,,,,,,,,,,
-2002,16,indirekter Migrationshintergrund,,,,,,,,,,,,
-2002,17,kein Migrationshintergrund,,,,,,,,,,,,
-2002,17,direkter Migrationshintergrund,,,,,,,,,,,,
-2002,17,indirekter Migrationshintergrund,,,,,,,,,,,,
-2003,0,kein Migrationshintergrund,,,,,,,,,,,,
-2003,0,indirekter Migrationshintergrund,,,,,,,,,,,,
+2003,unter 18 J.,kein Migrationshintergrund,,,,,,,,,,,,
+2003,unter 18 J.,direkter Migrationshintergrund,,,,,,,,,,,,
+2003,unter 18 J.,indirekter Migrationshintergrund,,,,,,,,,,,,
 2003,18-29 J.,kein Migrationshintergrund,35.57110346280779,35.35269836536388,35.789508560251704,37.0,38.5,40.0,32.5,44.5,38.5,38.5,38.5,1511.0
-2003,18-29 J.,direkter Migrationshintergrund,34.17461865431097,33.46629394942159,34.88294335920035,35.0,38.0,40.0,27.5,47.5,38.0,37.5,38.0,175.0
+2003,18-29 J.,direkter Migrationshintergrund,34.17461865431097,33.46629394942159,34.88294335920035,35.0,38.134185007266105,40.0,27.5,47.5,38.0,37.5,38.5,175.0
 2003,18-29 J.,indirekter Migrationshintergrund,35.63168007756931,35.07783918138415,36.185520973754464,37.0,38.0,40.0,32.5,44.5,38.0,37.5,38.0,242.0
 2003,30-45 J.,kein Migrationshintergrund,33.907603470910246,33.76546984552308,34.04973709629741,30.0,38.0,40.0,15.0,55.0,38.0,37.5,38.0,3922.0
-2003,30-45 J.,direkter Migrationshintergrund,33.82192158468377,33.445182815078795,34.19866035428875,34.0,38.0,40.0,25.0,49.0,38.0,38.0,38.5,548.0
-2003,30-45 J.,indirekter Migrationshintergrund,33.32609571951956,32.52457772086725,34.127613718171865,30.0,38.40986529318542,39.0,16.5,48.5,38.5,38.5,40.0,138.0
+2003,30-45 J.,direkter Migrationshintergrund,33.82192158468378,33.4451828150788,34.198660354288755,34.0,38.0,40.0,25.0,49.0,38.0,38.0,38.5,548.0
+2003,30-45 J.,indirekter Migrationshintergrund,33.32609571951956,32.52457772086725,34.127613718171865,30.0,38.5,39.0,16.5,48.5,38.5,38.5,40.025,138.0
 2003,46-65 J.,kein Migrationshintergrund,33.862174395943,33.705762324035376,34.018586467850625,30.0,38.0,40.0,15.0,55.0,38.0,37.5,38.0,3137.0
-2003,46-65 J.,direkter Migrationshintergrund,33.5609719297573,33.123254178269725,33.998689681244876,30.53073928680087,37.5,39.64749389406689,16.85560737590184,53.322625804965924,37.5,37.0,37.5,472.0
+2003,46-65 J.,direkter Migrationshintergrund,33.5609719297573,33.123254178269725,33.998689681244876,30.530875623629626,37.5,39.67011988455561,16.82200923224065,53.378986275944584,37.5,37.0,37.5,472.0
 2003,46-65 J.,indirekter Migrationshintergrund,,,,,,,,,,,,
-2003,66 und älter,kein Migrationshintergrund,19.041247024433208,16.905505569348048,21.176988479518368,10.0,15.0,24.239227585541773,3.0,45.59806896385443,15.0,10.0,20.0,32.0
+2003,66 und älter,kein Migrationshintergrund,19.041247024433204,16.905505569348044,21.176988479518364,10.0,15.0,24.239227585541773,3.0,45.59806896385443,15.0,10.0,20.0,32.0
 2003,66 und älter,direkter Migrationshintergrund,,,,,,,,,,,,
 2003,66 und älter,indirekter Migrationshintergrund,,,,,,,,,,,,
-2003,5,kein Migrationshintergrund,,,,,,,,,,,,
-2003,5,direkter Migrationshintergrund,,,,,,,,,,,,
-2003,5,indirekter Migrationshintergrund,,,,,,,,,,,,
-2003,6,kein Migrationshintergrund,,,,,,,,,,,,
-2003,6,direkter Migrationshintergrund,,,,,,,,,,,,
-2003,6,indirekter Migrationshintergrund,,,,,,,,,,,,
-2003,7,kein Migrationshintergrund,,,,,,,,,,,,
-2003,7,direkter Migrationshintergrund,,,,,,,,,,,,
-2003,7,indirekter Migrationshintergrund,,,,,,,,,,,,
-2003,8,kein Migrationshintergrund,,,,,,,,,,,,
-2003,8,direkter Migrationshintergrund,,,,,,,,,,,,
-2003,8,indirekter Migrationshintergrund,,,,,,,,,,,,
-2003,9,kein Migrationshintergrund,,,,,,,,,,,,
-2003,9,direkter Migrationshintergrund,,,,,,,,,,,,
-2003,9,indirekter Migrationshintergrund,,,,,,,,,,,,
-2003,10,kein Migrationshintergrund,,,,,,,,,,,,
-2003,10,direkter Migrationshintergrund,,,,,,,,,,,,
-2003,10,indirekter Migrationshintergrund,,,,,,,,,,,,
-2003,11,kein Migrationshintergrund,,,,,,,,,,,,
-2003,11,direkter Migrationshintergrund,,,,,,,,,,,,
-2003,11,indirekter Migrationshintergrund,,,,,,,,,,,,
-2003,12,kein Migrationshintergrund,,,,,,,,,,,,
-2003,12,direkter Migrationshintergrund,,,,,,,,,,,,
-2003,12,indirekter Migrationshintergrund,,,,,,,,,,,,
-2003,13,kein Migrationshintergrund,,,,,,,,,,,,
-2003,13,direkter Migrationshintergrund,,,,,,,,,,,,
-2003,13,indirekter Migrationshintergrund,,,,,,,,,,,,
-2003,14,kein Migrationshintergrund,,,,,,,,,,,,
-2003,14,direkter Migrationshintergrund,,,,,,,,,,,,
-2003,14,indirekter Migrationshintergrund,,,,,,,,,,,,
-2003,15,kein Migrationshintergrund,,,,,,,,,,,,
-2003,15,direkter Migrationshintergrund,,,,,,,,,,,,
-2003,15,indirekter Migrationshintergrund,,,,,,,,,,,,
-2003,16,kein Migrationshintergrund,,,,,,,,,,,,
-2003,16,direkter Migrationshintergrund,,,,,,,,,,,,
-2003,16,indirekter Migrationshintergrund,,,,,,,,,,,,
-2003,17,kein Migrationshintergrund,,,,,,,,,,,,
-2003,17,direkter Migrationshintergrund,,,,,,,,,,,,
-2003,17,indirekter Migrationshintergrund,,,,,,,,,,,,
-2004,0,kein Migrationshintergrund,,,,,,,,,,,,
-2004,0,indirekter Migrationshintergrund,,,,,,,,,,,,
-2004,18-29 J.,kein Migrationshintergrund,36.252099335108966,36.05227685647277,36.45192181374516,37.0,38.5,40.0,32.5,44.5,38.5,38.0,38.5,1419.0
+2004,unter 18 J.,kein Migrationshintergrund,,,,,,,,,,,,
+2004,unter 18 J.,direkter Migrationshintergrund,,,,,,,,,,,,
+2004,unter 18 J.,indirekter Migrationshintergrund,,,,,,,,,,,,
+2004,18-29 J.,kein Migrationshintergrund,36.25209933510896,36.052276856472766,36.45192181374515,37.0,38.5,40.0,32.5,44.5,38.5,38.0,38.5,1419.0
 2004,18-29 J.,direkter Migrationshintergrund,35.81555936166025,35.170818076965546,36.46030064635495,37.5,38.5,40.0,33.75,43.75,38.5,37.0,39.0,155.0
-2004,18-29 J.,indirekter Migrationshintergrund,36.65747252941075,36.19481257245438,37.12013248636711,37.26423266725513,38.5,40.0,33.16058166813782,44.103650999117306,38.5,38.0,38.5,215.0
-2004,30-45 J.,kein Migrationshintergrund,34.27593780944324,34.128836843612156,34.42303877527433,32.0,38.0,40.0,20.0,52.0,38.0,37.5,38.0,3542.0
+2004,18-29 J.,indirekter Migrationshintergrund,36.65747252941074,36.194812572454374,37.120132486367105,37.26395645235165,38.5,40.0,33.159891130879124,44.104065321472525,38.5,37.974999999999994,39.0,215.0
+2004,30-45 J.,kein Migrationshintergrund,34.275937809443235,34.12883684361215,34.42303877527432,32.0,38.0,40.0,20.0,52.0,38.0,37.5,38.0,3542.0
 2004,30-45 J.,direkter Migrationshintergrund,33.63962458132038,33.22703392332525,34.052215239315515,30.0,37.5,40.0,15.0,55.0,37.5,37.0,37.5,501.0
-2004,30-45 J.,indirekter Migrationshintergrund,33.59837091287664,32.862508972207564,34.334232853545714,30.0,37.5,39.0,16.5,52.5,37.5,36.5,37.5,147.0
+2004,30-45 J.,indirekter Migrationshintergrund,33.59837091287664,32.862508972207564,34.334232853545714,29.830042259580107,37.5,39.0,16.07510564895027,52.75493661062984,37.5,36.5,37.5,147.0
 2004,46-65 J.,kein Migrationshintergrund,33.938819111952725,33.77704576917135,34.1005924547341,30.0,38.0,40.0,15.0,55.0,38.0,37.5,38.0,3049.0
-2004,46-65 J.,direkter Migrationshintergrund,34.19604824867304,33.75950157011897,34.6325949272271,35.0,37.60357792827276,40.0,27.5,47.5,37.5,37.0,37.5,417.0
+2004,46-65 J.,direkter Migrationshintergrund,34.19604824867304,33.75950157011897,34.6325949272271,35.0,37.592339215151796,40.0,27.5,47.5,37.5,37.0,37.5,417.0
 2004,46-65 J.,indirekter Migrationshintergrund,,,,,,,,,,,,
 2004,66 und älter,kein Migrationshintergrund,,,,,,,,,,,,
 2004,66 und älter,direkter Migrationshintergrund,,,,,,,,,,,,
 2004,66 und älter,indirekter Migrationshintergrund,,,,,,,,,,,,
-2004,5,kein Migrationshintergrund,,,,,,,,,,,,
-2004,5,direkter Migrationshintergrund,,,,,,,,,,,,
-2004,5,indirekter Migrationshintergrund,,,,,,,,,,,,
-2004,6,kein Migrationshintergrund,,,,,,,,,,,,
-2004,6,direkter Migrationshintergrund,,,,,,,,,,,,
-2004,6,indirekter Migrationshintergrund,,,,,,,,,,,,
-2004,7,kein Migrationshintergrund,,,,,,,,,,,,
-2004,7,direkter Migrationshintergrund,,,,,,,,,,,,
-2004,7,indirekter Migrationshintergrund,,,,,,,,,,,,
-2004,8,kein Migrationshintergrund,,,,,,,,,,,,
-2004,8,direkter Migrationshintergrund,,,,,,,,,,,,
-2004,8,indirekter Migrationshintergrund,,,,,,,,,,,,
-2004,9,kein Migrationshintergrund,,,,,,,,,,,,
-2004,9,direkter Migrationshintergrund,,,,,,,,,,,,
-2004,9,indirekter Migrationshintergrund,,,,,,,,,,,,
-2004,10,kein Migrationshintergrund,,,,,,,,,,,,
-2004,10,direkter Migrationshintergrund,,,,,,,,,,,,
-2004,10,indirekter Migrationshintergrund,,,,,,,,,,,,
-2004,11,kein Migrationshintergrund,,,,,,,,,,,,
-2004,11,direkter Migrationshintergrund,,,,,,,,,,,,
-2004,11,indirekter Migrationshintergrund,,,,,,,,,,,,
-2004,12,kein Migrationshintergrund,,,,,,,,,,,,
-2004,12,direkter Migrationshintergrund,,,,,,,,,,,,
-2004,12,indirekter Migrationshintergrund,,,,,,,,,,,,
-2004,13,kein Migrationshintergrund,,,,,,,,,,,,
-2004,13,direkter Migrationshintergrund,,,,,,,,,,,,
-2004,13,indirekter Migrationshintergrund,,,,,,,,,,,,
-2004,14,kein Migrationshintergrund,,,,,,,,,,,,
-2004,14,direkter Migrationshintergrund,,,,,,,,,,,,
-2004,14,indirekter Migrationshintergrund,,,,,,,,,,,,
-2004,15,kein Migrationshintergrund,,,,,,,,,,,,
-2004,15,direkter Migrationshintergrund,,,,,,,,,,,,
-2004,15,indirekter Migrationshintergrund,,,,,,,,,,,,
-2004,16,kein Migrationshintergrund,,,,,,,,,,,,
-2004,16,direkter Migrationshintergrund,,,,,,,,,,,,
-2004,16,indirekter Migrationshintergrund,,,,,,,,,,,,
-2004,17,kein Migrationshintergrund,,,,,,,,,,,,
-2004,17,direkter Migrationshintergrund,,,,,,,,,,,,
-2004,17,indirekter Migrationshintergrund,,,,,,,,,,,,
-2005,0,kein Migrationshintergrund,,,,,,,,,,,,
-2005,0,indirekter Migrationshintergrund,,,,,,,,,,,,
+2005,unter 18 J.,kein Migrationshintergrund,,,,,,,,,,,,
+2005,unter 18 J.,direkter Migrationshintergrund,,,,,,,,,,,,
+2005,unter 18 J.,indirekter Migrationshintergrund,,,,,,,,,,,,
 2005,18-29 J.,kein Migrationshintergrund,36.417505506403906,36.20856853122392,36.626442481583894,37.5,39.0,40.0,33.75,43.75,39.0,38.0,39.5,1343.0
-2005,18-29 J.,direkter Migrationshintergrund,37.09658801733821,36.317356883637885,37.87581915103854,38.0,39.0,40.0,35.0,43.0,39.0,38.0,39.5,114.0
+2005,18-29 J.,direkter Migrationshintergrund,37.09658801733821,36.317356883637885,37.87581915103854,37.797597584654696,39.0,40.0,34.49399396163674,43.303603623017956,39.0,38.0,39.5,114.0
 2005,18-29 J.,indirekter Migrationshintergrund,35.98638137989106,35.37552449444355,36.59723826533856,37.5,38.5,40.0,33.75,43.75,38.5,38.0,39.0,212.0
 2005,30-45 J.,kein Migrationshintergrund,34.68514597319806,34.53816550914207,34.832126437254054,33.0,38.5,40.0,22.5,50.5,38.5,38.5,38.5,3325.0
 2005,30-45 J.,direkter Migrationshintergrund,33.41553730174278,32.9759617522726,33.85511285121296,28.79076549887694,38.0,40.0,11.976913747192352,56.81385175168459,38.0,37.5,38.5,474.0
-2005,30-45 J.,indirekter Migrationshintergrund,34.28145282714256,33.59315701232809,34.969748641957025,32.68087599386245,37.94866385071455,40.0,21.702189984656126,50.97868600920633,38.0,37.5,38.5125,149.0
-2005,46-65 J.,kein Migrationshintergrund,34.338286304149676,34.179036556658446,34.49753605164091,31.94409244377201,38.5,40.0,19.860231109430025,52.08386133434198,38.5,38.5,38.5,2946.0
-2005,46-65 J.,direkter Migrationshintergrund,33.44182056556402,32.98692924027004,33.89671189085801,30.0,37.5,40.0,15.0,54.0,37.5,37.0,37.5125,413.0
+2005,30-45 J.,indirekter Migrationshintergrund,34.28145282714256,33.59315701232809,34.969748641957025,33.47138770230733,38.0,40.0,23.67846925576833,49.792918446539005,38.0,37.5,40.025,149.0
+2005,46-65 J.,kein Migrationshintergrund,34.33828630414967,34.17903655665844,34.4975360516409,32.0,38.5,40.0,20.0,52.0,38.5,38.5,38.5,2946.0
+2005,46-65 J.,direkter Migrationshintergrund,33.441820565564015,32.98692924027003,33.896711890858,30.0,37.5,40.0,15.0,54.0,37.5,37.0,38.0,413.0
 2005,46-65 J.,indirekter Migrationshintergrund,,,,,,,,,,,,
 2005,66 und älter,kein Migrationshintergrund,,,,,,,,,,,,
 2005,66 und älter,direkter Migrationshintergrund,,,,,,,,,,,,
 2005,66 und älter,indirekter Migrationshintergrund,,,,,,,,,,,,
-2005,5,kein Migrationshintergrund,,,,,,,,,,,,
-2005,5,direkter Migrationshintergrund,,,,,,,,,,,,
-2005,5,indirekter Migrationshintergrund,,,,,,,,,,,,
-2005,6,kein Migrationshintergrund,,,,,,,,,,,,
-2005,6,direkter Migrationshintergrund,,,,,,,,,,,,
-2005,6,indirekter Migrationshintergrund,,,,,,,,,,,,
-2005,7,kein Migrationshintergrund,,,,,,,,,,,,
-2005,7,direkter Migrationshintergrund,,,,,,,,,,,,
-2005,7,indirekter Migrationshintergrund,,,,,,,,,,,,
-2005,8,kein Migrationshintergrund,,,,,,,,,,,,
-2005,8,direkter Migrationshintergrund,,,,,,,,,,,,
-2005,8,indirekter Migrationshintergrund,,,,,,,,,,,,
-2005,9,kein Migrationshintergrund,,,,,,,,,,,,
-2005,9,direkter Migrationshintergrund,,,,,,,,,,,,
-2005,9,indirekter Migrationshintergrund,,,,,,,,,,,,
-2005,10,kein Migrationshintergrund,,,,,,,,,,,,
-2005,10,direkter Migrationshintergrund,,,,,,,,,,,,
-2005,10,indirekter Migrationshintergrund,,,,,,,,,,,,
-2005,11,kein Migrationshintergrund,,,,,,,,,,,,
-2005,11,direkter Migrationshintergrund,,,,,,,,,,,,
-2005,11,indirekter Migrationshintergrund,,,,,,,,,,,,
-2005,12,kein Migrationshintergrund,,,,,,,,,,,,
-2005,12,direkter Migrationshintergrund,,,,,,,,,,,,
-2005,12,indirekter Migrationshintergrund,,,,,,,,,,,,
-2005,13,kein Migrationshintergrund,,,,,,,,,,,,
-2005,13,direkter Migrationshintergrund,,,,,,,,,,,,
-2005,13,indirekter Migrationshintergrund,,,,,,,,,,,,
-2005,14,kein Migrationshintergrund,,,,,,,,,,,,
-2005,14,direkter Migrationshintergrund,,,,,,,,,,,,
-2005,14,indirekter Migrationshintergrund,,,,,,,,,,,,
-2005,15,kein Migrationshintergrund,,,,,,,,,,,,
-2005,15,direkter Migrationshintergrund,,,,,,,,,,,,
-2005,15,indirekter Migrationshintergrund,,,,,,,,,,,,
-2005,16,kein Migrationshintergrund,,,,,,,,,,,,
-2005,16,direkter Migrationshintergrund,,,,,,,,,,,,
-2005,16,indirekter Migrationshintergrund,,,,,,,,,,,,
-2005,17,kein Migrationshintergrund,,,,,,,,,,,,
-2005,17,direkter Migrationshintergrund,,,,,,,,,,,,
-2005,17,indirekter Migrationshintergrund,,,,,,,,,,,,
-2006,0,kein Migrationshintergrund,,,,,,,,,,,,
-2006,0,indirekter Migrationshintergrund,,,,,,,,,,,,
-2006,18-29 J.,kein Migrationshintergrund,36.52792614115211,36.32930884494073,36.72654343736348,37.5,39.0,40.0,33.75,43.75,39.0,38.0,39.005000019073485,1375.0
-2006,18-29 J.,direkter Migrationshintergrund,35.16821380570033,34.38458270526596,35.9518449061347,35.0,39.23777542948319,40.0,27.5,47.5,39.0,38.0,40.0,143.0
-2006,18-29 J.,indirekter Migrationshintergrund,36.77099148837981,36.33580558794402,37.206177388815604,37.5,38.93980547977702,40.0,33.75,43.75,39.0,38.0,39.5,207.0
+2006,unter 18 J.,kein Migrationshintergrund,,,,,,,,,,,,
+2006,unter 18 J.,direkter Migrationshintergrund,,,,,,,,,,,,
+2006,unter 18 J.,indirekter Migrationshintergrund,,,,,,,,,,,,
+2006,18-29 J.,kein Migrationshintergrund,36.5279261411521,36.329308844940726,36.726543437363475,37.5,39.0,40.0,33.75,43.75,39.0,38.0,39.0,1375.0
+2006,18-29 J.,direkter Migrationshintergrund,35.168213805700326,34.384582705265956,35.951844906134696,35.0,39.32723763021017,40.0,27.5,47.5,39.0,38.0,40.0,143.0
+2006,18-29 J.,indirekter Migrationshintergrund,36.77099148837982,36.33580558794403,37.20617738881561,37.5,39.0,40.0,33.75,43.75,39.0,38.0,40.0,207.0
 2006,30-45 J.,kein Migrationshintergrund,34.376661204400676,34.229745944594214,34.52357646420714,30.799999237060547,38.5,40.0,16.999998092651367,53.80000114440918,38.5,38.5,38.5,3416.0
 2006,30-45 J.,direkter Migrationshintergrund,32.90538636533457,32.46106990245639,33.349702828212756,25.0,37.5,40.0,6.0,60.0,37.5,37.0,37.5,443.0
 2006,30-45 J.,indirekter Migrationshintergrund,34.4155697887422,33.70521145860115,35.125928118883245,35.0,38.0,40.0,27.5,47.5,38.0,37.5,38.5,158.0
 2006,46-65 J.,kein Migrationshintergrund,34.188599355697505,34.037062701529514,34.340136009865496,30.0,38.5,40.0,15.0,55.0,38.5,38.5,38.5,3236.0
-2006,46-65 J.,direkter Migrationshintergrund,33.448385767103304,32.97421497497698,33.922556559229626,30.0,38.0,40.0,15.0,53.5,38.0,37.5,38.5,416.0
+2006,46-65 J.,direkter Migrationshintergrund,33.44838576710331,32.97421497497699,33.92255655922963,30.0,38.0,40.0,15.0,53.5,38.0,37.5,38.5,416.0
 2006,46-65 J.,indirekter Migrationshintergrund,,,,,,,,,,,,
 2006,66 und älter,kein Migrationshintergrund,17.1515157702509,15.554191750917065,18.748839789584732,10.0,15.0,20.0,2.0,35.0,15.0,10.0,20.0,40.0
 2006,66 und älter,direkter Migrationshintergrund,,,,,,,,,,,,
 2006,66 und älter,indirekter Migrationshintergrund,,,,,,,,,,,,
-2006,5,kein Migrationshintergrund,,,,,,,,,,,,
-2006,5,direkter Migrationshintergrund,,,,,,,,,,,,
-2006,5,indirekter Migrationshintergrund,,,,,,,,,,,,
-2006,6,kein Migrationshintergrund,,,,,,,,,,,,
-2006,6,direkter Migrationshintergrund,,,,,,,,,,,,
-2006,6,indirekter Migrationshintergrund,,,,,,,,,,,,
-2006,7,kein Migrationshintergrund,,,,,,,,,,,,
-2006,7,direkter Migrationshintergrund,,,,,,,,,,,,
-2006,7,indirekter Migrationshintergrund,,,,,,,,,,,,
-2006,8,kein Migrationshintergrund,,,,,,,,,,,,
-2006,8,direkter Migrationshintergrund,,,,,,,,,,,,
-2006,8,indirekter Migrationshintergrund,,,,,,,,,,,,
-2006,9,kein Migrationshintergrund,,,,,,,,,,,,
-2006,9,direkter Migrationshintergrund,,,,,,,,,,,,
-2006,9,indirekter Migrationshintergrund,,,,,,,,,,,,
-2006,10,kein Migrationshintergrund,,,,,,,,,,,,
-2006,10,direkter Migrationshintergrund,,,,,,,,,,,,
-2006,10,indirekter Migrationshintergrund,,,,,,,,,,,,
-2006,11,kein Migrationshintergrund,,,,,,,,,,,,
-2006,11,direkter Migrationshintergrund,,,,,,,,,,,,
-2006,11,indirekter Migrationshintergrund,,,,,,,,,,,,
-2006,12,kein Migrationshintergrund,,,,,,,,,,,,
-2006,12,direkter Migrationshintergrund,,,,,,,,,,,,
-2006,12,indirekter Migrationshintergrund,,,,,,,,,,,,
-2006,13,kein Migrationshintergrund,,,,,,,,,,,,
-2006,13,direkter Migrationshintergrund,,,,,,,,,,,,
-2006,13,indirekter Migrationshintergrund,,,,,,,,,,,,
-2006,14,kein Migrationshintergrund,,,,,,,,,,,,
-2006,14,direkter Migrationshintergrund,,,,,,,,,,,,
-2006,14,indirekter Migrationshintergrund,,,,,,,,,,,,
-2006,15,kein Migrationshintergrund,,,,,,,,,,,,
-2006,15,direkter Migrationshintergrund,,,,,,,,,,,,
-2006,15,indirekter Migrationshintergrund,,,,,,,,,,,,
-2006,16,kein Migrationshintergrund,,,,,,,,,,,,
-2006,16,direkter Migrationshintergrund,,,,,,,,,,,,
-2006,16,indirekter Migrationshintergrund,,,,,,,,,,,,
-2006,17,kein Migrationshintergrund,,,,,,,,,,,,
-2006,17,direkter Migrationshintergrund,,,,,,,,,,,,
-2006,17,indirekter Migrationshintergrund,,,,,,,,,,,,
-2007,0,kein Migrationshintergrund,,,,,,,,,,,,
-2007,0,indirekter Migrationshintergrund,,,,,,,,,,,,
-2007,18-29 J.,kein Migrationshintergrund,36.166978189178515,35.93088173566842,36.40307464268861,37.5,40.0,40.0,33.75,43.75,40.0,40.0,40.005000019073485,1332.0
-2007,18-29 J.,direkter Migrationshintergrund,35.736395834514575,34.853222630974486,36.619569038054664,36.693855579227964,40.0,40.0,31.73463894806991,44.95921663115806,40.0,40.0,41.5,104.0
+2007,unter 18 J.,kein Migrationshintergrund,,,,,,,,,,,,
+2007,unter 18 J.,direkter Migrationshintergrund,,,,,,,,,,,,
+2007,unter 18 J.,indirekter Migrationshintergrund,,,,,,,,,,,,
+2007,18-29 J.,kein Migrationshintergrund,36.166978189178515,35.93088173566842,36.40307464268861,37.5,40.0,40.0,33.75,43.75,40.0,40.0,40.5,1332.0
+2007,18-29 J.,direkter Migrationshintergrund,35.73639583451457,34.85322263097448,36.61956903805466,36.693855579227964,40.0,40.0,31.73463894806991,44.95921663115806,40.0,40.0,41.5,104.0
 2007,18-29 J.,indirekter Migrationshintergrund,35.46107462406912,34.894675082144865,36.027474165993375,36.0,38.5,40.0,30.0,46.0,38.5,37.0,39.0,216.0
-2007,30-45 J.,kein Migrationshintergrund,34.561512780825495,34.40944825879599,34.713577302855,32.0,38.5,40.0,20.0,52.0,38.5,38.5,38.5,3238.0
+2007,30-45 J.,kein Migrationshintergrund,34.5615127808255,34.409448258796,34.71357730285501,32.0,38.5,40.0,20.0,52.0,38.5,38.5,38.5,3238.0
 2007,30-45 J.,direkter Migrationshintergrund,33.20438095119736,32.68253972985383,33.726222172540886,25.0,38.0,40.0,4.0,62.5,38.0,37.5,38.5,411.0
-2007,30-45 J.,indirekter Migrationshintergrund,34.316694389759505,33.708164381879094,34.925224397639916,31.005423727495153,38.24408097801363,40.0,17.513559318737883,53.49186440875727,38.5,38.5,39.5,176.0
-2007,46-65 J.,kein Migrationshintergrund,34.46980203933799,34.31735622864775,34.62224785002823,30.0,38.5,40.0,15.0,55.0,38.5,38.5,38.5,3217.0
-2007,46-65 J.,direkter Migrationshintergrund,33.56458200958847,33.06528125338738,34.06388276578956,30.0,38.0,40.0,15.0,55.0,38.0,37.5,38.5,364.0
+2007,30-45 J.,indirekter Migrationshintergrund,34.316694389759505,33.708164381879094,34.925224397639916,31.005423727495153,38.49741506196946,40.0,17.513559318737883,53.49186440875727,38.5,38.5,39.5,176.0
+2007,46-65 J.,kein Migrationshintergrund,34.469802039337985,34.317356228647746,34.622247850028224,30.0,38.5,40.0,15.0,55.0,38.5,38.5,38.5,3217.0
+2007,46-65 J.,direkter Migrationshintergrund,33.56458200958847,33.06528125338738,34.06388276578956,30.0,38.167316848251254,40.0,15.0,55.0,38.0,37.5,38.5,364.0
 2007,46-65 J.,indirekter Migrationshintergrund,,,,,,,,,,,,
-2007,66 und älter,kein Migrationshintergrund,14.77654890038997,13.194057562183936,16.359040238596005,9.0,12.0,18.59692384429113,1.5,32.99230961072782,12.0,9.0,14.0,47.0
+2007,66 und älter,kein Migrationshintergrund,14.776548900389965,13.19405756218393,16.359040238596,9.0,12.0,18.596923844291123,1.5,32.99230961072781,12.0,8.0,14.0,47.0
 2007,66 und älter,direkter Migrationshintergrund,,,,,,,,,,,,
 2007,66 und älter,indirekter Migrationshintergrund,,,,,,,,,,,,
-2007,5,kein Migrationshintergrund,,,,,,,,,,,,
-2007,5,indirekter Migrationshintergrund,,,,,,,,,,,,
-2007,6,kein Migrationshintergrund,,,,,,,,,,,,
-2007,6,direkter Migrationshintergrund,,,,,,,,,,,,
-2007,6,indirekter Migrationshintergrund,,,,,,,,,,,,
-2007,7,kein Migrationshintergrund,,,,,,,,,,,,
-2007,7,direkter Migrationshintergrund,,,,,,,,,,,,
-2007,7,indirekter Migrationshintergrund,,,,,,,,,,,,
-2007,8,kein Migrationshintergrund,,,,,,,,,,,,
-2007,8,direkter Migrationshintergrund,,,,,,,,,,,,
-2007,8,indirekter Migrationshintergrund,,,,,,,,,,,,
-2007,9,kein Migrationshintergrund,,,,,,,,,,,,
-2007,9,direkter Migrationshintergrund,,,,,,,,,,,,
-2007,9,indirekter Migrationshintergrund,,,,,,,,,,,,
-2007,10,kein Migrationshintergrund,,,,,,,,,,,,
-2007,10,direkter Migrationshintergrund,,,,,,,,,,,,
-2007,10,indirekter Migrationshintergrund,,,,,,,,,,,,
-2007,11,kein Migrationshintergrund,,,,,,,,,,,,
-2007,11,direkter Migrationshintergrund,,,,,,,,,,,,
-2007,11,indirekter Migrationshintergrund,,,,,,,,,,,,
-2007,12,kein Migrationshintergrund,,,,,,,,,,,,
-2007,12,direkter Migrationshintergrund,,,,,,,,,,,,
-2007,12,indirekter Migrationshintergrund,,,,,,,,,,,,
-2007,13,kein Migrationshintergrund,,,,,,,,,,,,
-2007,13,direkter Migrationshintergrund,,,,,,,,,,,,
-2007,13,indirekter Migrationshintergrund,,,,,,,,,,,,
-2007,14,kein Migrationshintergrund,,,,,,,,,,,,
-2007,14,direkter Migrationshintergrund,,,,,,,,,,,,
-2007,14,indirekter Migrationshintergrund,,,,,,,,,,,,
-2007,15,kein Migrationshintergrund,,,,,,,,,,,,
-2007,15,direkter Migrationshintergrund,,,,,,,,,,,,
-2007,15,indirekter Migrationshintergrund,,,,,,,,,,,,
-2007,16,kein Migrationshintergrund,,,,,,,,,,,,
-2007,16,direkter Migrationshintergrund,,,,,,,,,,,,
-2007,16,indirekter Migrationshintergrund,,,,,,,,,,,,
-2007,17,kein Migrationshintergrund,,,,,,,,,,,,
-2007,17,direkter Migrationshintergrund,,,,,,,,,,,,
-2007,17,indirekter Migrationshintergrund,,,,,,,,,,,,
-2008,0,kein Migrationshintergrund,,,,,,,,,,,,
-2008,0,indirekter Migrationshintergrund,,,,,,,,,,,,
+2008,unter 18 J.,kein Migrationshintergrund,,,,,,,,,,,,
+2008,unter 18 J.,direkter Migrationshintergrund,,,,,,,,,,,,
+2008,unter 18 J.,indirekter Migrationshintergrund,,,,,,,,,,,,
 2008,18-29 J.,kein Migrationshintergrund,36.37636977019706,36.14513561927637,36.60760392111775,37.5,40.0,40.0,33.75,43.75,40.0,40.0,41.0,1224.0
-2008,18-29 J.,direkter Migrationshintergrund,32.440713839573455,31.396525057128667,33.48490262201825,24.84276906972514,38.5,40.0,4.0,55.0,38.5,37.0,39.5,102.0
-2008,18-29 J.,indirekter Migrationshintergrund,36.97552087445895,36.463056344737964,37.48798540417994,37.5,39.726969425225654,40.0,33.75,43.75,40.0,40.0,41.5,202.0
+2008,18-29 J.,direkter Migrationshintergrund,32.44071383957347,31.39652505712868,33.48490262201826,24.84276906972514,38.496066920960985,40.0,4.0,55.0,38.5,37.0,39.5,102.0
+2008,18-29 J.,indirekter Migrationshintergrund,36.97552087445895,36.463056344737964,37.48798540417994,37.5,40.0,40.0,33.75,43.75,40.0,40.0,41.5,202.0
 2008,30-45 J.,kein Migrationshintergrund,34.81915069143984,34.65999405663199,34.97830732624769,32.0,38.5,40.0,20.0,52.0,38.5,38.0,38.5,2960.0
 2008,30-45 J.,direkter Migrationshintergrund,32.55991594197742,32.0565795952268,33.063252288728044,25.0,38.0,40.0,2.5,48.0,38.0,37.5,38.5,377.0
-2008,30-45 J.,indirekter Migrationshintergrund,34.23667218409805,33.60952803821201,34.86381632998408,30.0,38.5,40.0,15.0,45.0,38.5,38.0,39.5,177.0
-2008,46-65 J.,kein Migrationshintergrund,34.31462217606308,34.156945932777916,34.47229841934825,31.52163017742166,38.5,40.0,18.804075443554147,52.71755473386751,38.5,38.5,38.5,3201.0
-2008,46-65 J.,direkter Migrationshintergrund,34.03393846965726,33.53988514681399,34.52799179250053,30.0,38.0,40.0,15.0,55.0,38.0,37.5,38.5,344.0
+2008,30-45 J.,indirekter Migrationshintergrund,34.236672184098055,33.60952803821202,34.86381632998409,30.0,38.5,40.0,15.0,45.0,38.5,37.0,39.5,177.0
+2008,46-65 J.,kein Migrationshintergrund,34.31462217606308,34.156945932777916,34.47229841934825,31.514317621634817,38.5,40.0,18.78579405408704,52.728523567547775,38.5,38.5,38.5,3201.0
+2008,46-65 J.,direkter Migrationshintergrund,34.033938469657265,33.539885146813994,34.527991792500536,30.0,38.0,40.0,15.0,55.0,38.0,37.5,38.5,344.0
 2008,46-65 J.,indirekter Migrationshintergrund,29.869375404332185,27.987566094716342,31.751184713948028,18.845841492047946,34.622277626343,38.5,7.0,50.0,35.0,31.5,48.0,33.0
-2008,66 und älter,kein Migrationshintergrund,13.973039137384273,12.516736574788887,15.429341699979659,8.0,10.0,15.706912796598944,4.0,27.267281991497363,10.0,5.0,12.0,35.0
+2008,66 und älter,kein Migrationshintergrund,13.973039137384273,12.516736574788887,15.429341699979659,8.0,10.0,15.692786318012304,4.0,27.23196579503076,10.0,5.0,12.0,35.0
 2008,66 und älter,direkter Migrationshintergrund,,,,,,,,,,,,
 2008,66 und älter,indirekter Migrationshintergrund,,,,,,,,,,,,
-2008,5,kein Migrationshintergrund,,,,,,,,,,,,
-2008,5,direkter Migrationshintergrund,,,,,,,,,,,,
-2008,5,indirekter Migrationshintergrund,,,,,,,,,,,,
-2008,6,kein Migrationshintergrund,,,,,,,,,,,,
-2008,6,indirekter Migrationshintergrund,,,,,,,,,,,,
-2008,7,kein Migrationshintergrund,,,,,,,,,,,,
-2008,7,direkter Migrationshintergrund,,,,,,,,,,,,
-2008,7,indirekter Migrationshintergrund,,,,,,,,,,,,
-2008,8,kein Migrationshintergrund,,,,,,,,,,,,
-2008,8,direkter Migrationshintergrund,,,,,,,,,,,,
-2008,8,indirekter Migrationshintergrund,,,,,,,,,,,,
-2008,9,kein Migrationshintergrund,,,,,,,,,,,,
-2008,9,direkter Migrationshintergrund,,,,,,,,,,,,
-2008,9,indirekter Migrationshintergrund,,,,,,,,,,,,
-2008,10,kein Migrationshintergrund,,,,,,,,,,,,
-2008,10,direkter Migrationshintergrund,,,,,,,,,,,,
-2008,10,indirekter Migrationshintergrund,,,,,,,,,,,,
-2008,11,kein Migrationshintergrund,,,,,,,,,,,,
-2008,11,direkter Migrationshintergrund,,,,,,,,,,,,
-2008,11,indirekter Migrationshintergrund,,,,,,,,,,,,
-2008,12,kein Migrationshintergrund,,,,,,,,,,,,
-2008,12,direkter Migrationshintergrund,,,,,,,,,,,,
-2008,12,indirekter Migrationshintergrund,,,,,,,,,,,,
-2008,13,kein Migrationshintergrund,,,,,,,,,,,,
-2008,13,direkter Migrationshintergrund,,,,,,,,,,,,
-2008,13,indirekter Migrationshintergrund,,,,,,,,,,,,
-2008,14,kein Migrationshintergrund,,,,,,,,,,,,
-2008,14,direkter Migrationshintergrund,,,,,,,,,,,,
-2008,14,indirekter Migrationshintergrund,,,,,,,,,,,,
-2008,15,kein Migrationshintergrund,,,,,,,,,,,,
-2008,15,direkter Migrationshintergrund,,,,,,,,,,,,
-2008,15,indirekter Migrationshintergrund,,,,,,,,,,,,
-2008,16,kein Migrationshintergrund,,,,,,,,,,,,
-2008,16,direkter Migrationshintergrund,,,,,,,,,,,,
-2008,16,indirekter Migrationshintergrund,,,,,,,,,,,,
-2008,17,kein Migrationshintergrund,,,,,,,,,,,,
-2008,17,direkter Migrationshintergrund,,,,,,,,,,,,
-2008,17,indirekter Migrationshintergrund,,,,,,,,,,,,
 2009,-1,kein Migrationshintergrund,,,,,,,,,,,,
-2009,0,kein Migrationshintergrund,,,,,,,,,,,,
-2009,0,indirekter Migrationshintergrund,,,,,,,,,,,,
-2009,18-29 J.,kein Migrationshintergrund,35.937365078415446,35.68634020176267,36.188389955068224,37.5,40.0,40.0,33.75,43.75,40.0,40.0,41.0,1168.0
-2009,18-29 J.,direkter Migrationshintergrund,32.428766207982285,31.170040645940848,33.68749177002372,24.26266283426412,40.0,40.0,4.0,52.0,40.0,40.0,42.0125,80.0
-2009,18-29 J.,indirekter Migrationshintergrund,35.28285030407114,34.645075733238535,35.920624874903744,35.51133869229524,38.5,40.0,28.7783467307381,46.0,38.5,37.0,39.0,175.0
-2009,30-45 J.,kein Migrationshintergrund,35.159847915656584,35.000195225211236,35.31950060610193,35.0,39.0,40.0,27.5,47.5,39.0,39.0,39.0,2707.0
-2009,30-45 J.,direkter Migrationshintergrund,31.147716319189676,30.502681166307486,31.792751472071867,24.0,37.5,40.0,1.5,64.0,37.5,37.0,40.0,316.0
-2009,30-45 J.,indirekter Migrationshintergrund,35.344913321721904,34.734593524551435,35.95523311889237,35.0,38.5,40.0,27.5,47.5,38.5,37.0,39.5,177.0
+2009,unter 18 J.,kein Migrationshintergrund,,,,,,,,,,,,
+2009,unter 18 J.,direkter Migrationshintergrund,,,,,,,,,,,,
+2009,unter 18 J.,indirekter Migrationshintergrund,,,,,,,,,,,,
+2009,18-29 J.,kein Migrationshintergrund,35.93736507841544,35.68634020176266,36.18838995506822,37.5,40.0,40.0,33.75,43.75,40.0,40.0,40.5125,1168.0
+2009,18-29 J.,direkter Migrationshintergrund,32.428766207982285,31.170040645940848,33.68749177002372,24.26266283426412,40.0,40.0,4.0,52.0,40.0,40.0,42.0,80.0
+2009,18-29 J.,indirekter Migrationshintergrund,35.28285030407114,34.645075733238535,35.920624874903744,35.513943250893774,38.5,40.0,28.784858127234436,46.0,38.5,37.0,39.0,175.0
+2009,30-45 J.,kein Migrationshintergrund,35.1598479156566,35.00019522521125,35.31950060610195,35.0,39.0,40.0,27.5,47.5,39.0,39.0,39.5,2707.0
+2009,30-45 J.,direkter Migrationshintergrund,31.147716319189673,30.502681166307482,31.792751472071863,24.0,37.5,40.0,1.5,64.0,37.5,37.0,40.0,316.0
+2009,30-45 J.,indirekter Migrationshintergrund,35.3449133217219,34.73459352455143,35.955233118892366,35.0,38.5,40.0,27.5,47.5,38.5,37.0,39.5,177.0
 2009,46-65 J.,kein Migrationshintergrund,34.37042460899179,34.209591359326986,34.531257858656595,30.0,38.5,40.0,15.0,55.0,38.5,38.5,38.5,3143.0
 2009,46-65 J.,direkter Migrationshintergrund,33.615128237895554,33.04932154588126,34.180934929909846,30.0,38.5,40.0,15.0,55.0,38.5,38.0,39.5,300.0
 2009,46-65 J.,indirekter Migrationshintergrund,,,,,,,,,,,,
-2009,66 und älter,kein Migrationshintergrund,14.399533796408413,13.035470697690688,15.763596895126138,8.0,10.0,16.0,2.0,28.0,10.0,5.0,12.0,49.0
+2009,66 und älter,kein Migrationshintergrund,14.39953379640841,13.035470697690684,15.763596895126135,8.0,10.0,16.0,2.0,28.0,10.0,5.0,12.0,49.0
 2009,66 und älter,direkter Migrationshintergrund,,,,,,,,,,,,
 2009,66 und älter,indirekter Migrationshintergrund,,,,,,,,,,,,
-2009,5,kein Migrationshintergrund,,,,,,,,,,,,
-2009,5,indirekter Migrationshintergrund,,,,,,,,,,,,
-2009,6,kein Migrationshintergrund,,,,,,,,,,,,
-2009,6,direkter Migrationshintergrund,,,,,,,,,,,,
-2009,6,indirekter Migrationshintergrund,,,,,,,,,,,,
-2009,7,kein Migrationshintergrund,,,,,,,,,,,,
-2009,7,indirekter Migrationshintergrund,,,,,,,,,,,,
-2009,8,kein Migrationshintergrund,,,,,,,,,,,,
-2009,8,direkter Migrationshintergrund,,,,,,,,,,,,
-2009,8,indirekter Migrationshintergrund,,,,,,,,,,,,
-2009,9,kein Migrationshintergrund,,,,,,,,,,,,
-2009,9,direkter Migrationshintergrund,,,,,,,,,,,,
-2009,9,indirekter Migrationshintergrund,,,,,,,,,,,,
-2009,10,kein Migrationshintergrund,,,,,,,,,,,,
-2009,10,direkter Migrationshintergrund,,,,,,,,,,,,
-2009,10,indirekter Migrationshintergrund,,,,,,,,,,,,
-2009,11,kein Migrationshintergrund,,,,,,,,,,,,
-2009,11,direkter Migrationshintergrund,,,,,,,,,,,,
-2009,11,indirekter Migrationshintergrund,,,,,,,,,,,,
-2009,12,kein Migrationshintergrund,,,,,,,,,,,,
-2009,12,direkter Migrationshintergrund,,,,,,,,,,,,
-2009,12,indirekter Migrationshintergrund,,,,,,,,,,,,
-2009,13,kein Migrationshintergrund,,,,,,,,,,,,
-2009,13,direkter Migrationshintergrund,,,,,,,,,,,,
-2009,13,indirekter Migrationshintergrund,,,,,,,,,,,,
-2009,14,kein Migrationshintergrund,,,,,,,,,,,,
-2009,14,direkter Migrationshintergrund,,,,,,,,,,,,
-2009,14,indirekter Migrationshintergrund,,,,,,,,,,,,
-2009,15,kein Migrationshintergrund,,,,,,,,,,,,
-2009,15,direkter Migrationshintergrund,,,,,,,,,,,,
-2009,15,indirekter Migrationshintergrund,,,,,,,,,,,,
-2009,16,kein Migrationshintergrund,,,,,,,,,,,,
-2009,16,direkter Migrationshintergrund,,,,,,,,,,,,
-2009,16,indirekter Migrationshintergrund,,,,,,,,,,,,
-2009,17,kein Migrationshintergrund,,,,,,,,,,,,
-2009,17,direkter Migrationshintergrund,,,,,,,,,,,,
-2009,17,indirekter Migrationshintergrund,,,,,,,,,,,,
-2010,0,kein Migrationshintergrund,,,,,,,,,,,,
-2010,0,indirekter Migrationshintergrund,,,,,,,,,,,,
-2010,18-29 J.,kein Migrationshintergrund,35.961397179436766,35.73475591539425,36.18803844347928,37.5,40.0,40.0,33.75,43.75,40.0,40.0,41.0,1398.0
-2010,18-29 J.,direkter Migrationshintergrund,33.06515695549252,32.203731306862316,33.92658260412272,20.38474125944124,39.0,40.0,6.0,58.5,39.0,38.0,40.0,190.0
-2010,18-29 J.,indirekter Migrationshintergrund,33.779175402265736,33.061641492444785,34.496709312086686,35.0,38.5,40.0,27.5,47.5,38.5,37.0,39.5,192.0
+2010,unter 18 J.,kein Migrationshintergrund,,,,,,,,,,,,
+2010,unter 18 J.,direkter Migrationshintergrund,,,,,,,,,,,,
+2010,unter 18 J.,indirekter Migrationshintergrund,,,,,,,,,,,,
+2010,18-29 J.,kein Migrationshintergrund,35.96139717943676,35.734755915394246,36.18803844347927,37.5,40.0,40.0,33.75,43.75,40.0,40.0,41.0,1398.0
+2010,18-29 J.,direkter Migrationshintergrund,33.06515695549251,32.20373130686231,33.926582604122714,20.0,39.0,40.0,6.0,58.5,39.0,38.0,40.005000019073485,190.0
+2010,18-29 J.,indirekter Migrationshintergrund,33.77917540226573,33.06164149244478,34.49670931208668,34.26635648720196,38.5,40.0,25.6658912180049,48.0,38.5,38.0,39.5,192.0
 2010,30-45 J.,kein Migrationshintergrund,34.79391817383324,34.66530543951574,34.92253090815074,32.0,39.0,40.0,20.0,52.0,39.0,39.0,39.5,4545.0
-2010,30-45 J.,direkter Migrationshintergrund,31.578684248928653,31.186370678032375,31.97099781982493,24.0,37.5,40.0,2.0,60.0,37.5,37.0,38.05,734.0
-2010,30-45 J.,indirekter Migrationshintergrund,34.885531002489415,34.41171456538838,35.35934743959045,35.0,38.5,40.0,27.5,47.5,38.5,37.0,39.0,318.0
-2010,46-65 J.,kein Migrationshintergrund,33.92050019445407,33.76515826093669,34.075842127971455,30.0,38.5,40.0,15.0,55.0,38.5,38.5,38.5,3575.0
-2010,46-65 J.,direkter Migrationshintergrund,32.821639489477796,32.195430898005455,33.44784808095014,30.0,38.0,40.0,15.0,55.0,38.0,37.5,40.0,337.0
-2010,46-65 J.,indirekter Migrationshintergrund,30.106829177809676,28.71528838107086,31.498369974548492,23.36261101969503,30.024567626538527,39.0,5.0,49.0,30.0,21.987499999999997,35.0,51.0
-2010,66 und älter,kein Migrationshintergrund,11.573407803875417,10.349633842738319,12.797181765012516,5.390268115682566,8.0,14.874358355389637,0.30000001192092896,29.100493714950247,8.0,6.0,9.0,64.0
+2010,30-45 J.,direkter Migrationshintergrund,31.578684248928653,31.186370678032375,31.97099781982493,24.0,37.5,40.0,2.0,60.0,37.5,37.0,40.0,734.0
+2010,30-45 J.,indirekter Migrationshintergrund,34.88553100248942,34.41171456538839,35.35934743959046,35.0,38.5,40.0,27.5,47.5,38.5,37.0,39.0,318.0
+2010,46-65 J.,kein Migrationshintergrund,33.920500194454085,33.7651582609367,34.07584212797147,30.0,38.5,40.0,15.0,55.0,38.5,38.5,38.5,3575.0
+2010,46-65 J.,direkter Migrationshintergrund,32.821639489477796,32.195430898005455,33.44784808095014,30.0,38.0,40.0,15.0,55.0,38.0,37.5,41.0,337.0
+2010,46-65 J.,indirekter Migrationshintergrund,30.106829177809665,28.71528838107085,31.49836997454848,23.36261101969503,30.024567626538527,39.0,5.0,49.0,30.0,21.5,35.0,51.0
+2010,66 und älter,kein Migrationshintergrund,11.573407803875417,10.349633842738319,12.797181765012516,6.0,8.0,14.874358355389637,0.30000001192092896,28.185895888474093,8.0,5.0,8.5125,64.0
 2010,66 und älter,direkter Migrationshintergrund,,,,,,,,,,,,
 2010,66 und älter,indirekter Migrationshintergrund,,,,,,,,,,,,
-2010,5,kein Migrationshintergrund,,,,,,,,,,,,
-2010,5,direkter Migrationshintergrund,,,,,,,,,,,,
-2010,5,indirekter Migrationshintergrund,,,,,,,,,,,,
-2010,6,kein Migrationshintergrund,,,,,,,,,,,,
-2010,6,direkter Migrationshintergrund,,,,,,,,,,,,
-2010,6,indirekter Migrationshintergrund,,,,,,,,,,,,
-2010,7,kein Migrationshintergrund,,,,,,,,,,,,
-2010,7,direkter Migrationshintergrund,,,,,,,,,,,,
-2010,7,indirekter Migrationshintergrund,,,,,,,,,,,,
-2010,8,kein Migrationshintergrund,,,,,,,,,,,,
-2010,8,direkter Migrationshintergrund,,,,,,,,,,,,
-2010,8,indirekter Migrationshintergrund,,,,,,,,,,,,
-2010,9,kein Migrationshintergrund,,,,,,,,,,,,
-2010,9,direkter Migrationshintergrund,,,,,,,,,,,,
-2010,9,indirekter Migrationshintergrund,,,,,,,,,,,,
-2010,10,kein Migrationshintergrund,,,,,,,,,,,,
-2010,10,direkter Migrationshintergrund,,,,,,,,,,,,
-2010,10,indirekter Migrationshintergrund,,,,,,,,,,,,
-2010,11,kein Migrationshintergrund,,,,,,,,,,,,
-2010,11,direkter Migrationshintergrund,,,,,,,,,,,,
-2010,11,indirekter Migrationshintergrund,,,,,,,,,,,,
-2010,12,kein Migrationshintergrund,,,,,,,,,,,,
-2010,12,direkter Migrationshintergrund,,,,,,,,,,,,
-2010,12,indirekter Migrationshintergrund,,,,,,,,,,,,
-2010,13,kein Migrationshintergrund,,,,,,,,,,,,
-2010,13,direkter Migrationshintergrund,,,,,,,,,,,,
-2010,13,indirekter Migrationshintergrund,,,,,,,,,,,,
-2010,14,kein Migrationshintergrund,,,,,,,,,,,,
-2010,14,direkter Migrationshintergrund,,,,,,,,,,,,
-2010,14,indirekter Migrationshintergrund,,,,,,,,,,,,
-2010,15,kein Migrationshintergrund,,,,,,,,,,,,
-2010,15,direkter Migrationshintergrund,,,,,,,,,,,,
-2010,15,indirekter Migrationshintergrund,,,,,,,,,,,,
-2010,16,kein Migrationshintergrund,,,,,,,,,,,,
-2010,16,direkter Migrationshintergrund,,,,,,,,,,,,
-2010,16,indirekter Migrationshintergrund,,,,,,,,,,,,
-2010,17,kein Migrationshintergrund,,,,,,,,,,,,
-2010,17,direkter Migrationshintergrund,,,,,,,,,,,,
-2010,17,indirekter Migrationshintergrund,,,,,,,,,,,,
-2011,0,kein Migrationshintergrund,,,,,,,,,,,,
-2011,0,indirekter Migrationshintergrund,,,,,,,,,,,,
-2011,18-29 J.,kein Migrationshintergrund,36.173970756036645,35.95972781870389,36.3882136933694,37.5,40.0,40.0,33.75,43.75,40.0,40.0,40.0,1590.0
-2011,18-29 J.,direkter Migrationshintergrund,35.69629724649384,34.98038177657509,36.41221271641259,37.09471031844247,40.0,40.0,32.73677579610619,44.35793452233629,40.0,40.0,41.5,191.0
-2011,18-29 J.,indirekter Migrationshintergrund,33.842485508034855,33.19194687767329,34.49302413839642,32.0,38.49387665488955,40.0,20.0,50.0,38.5,38.0,39.5,216.0
-2011,30-45 J.,kein Migrationshintergrund,34.935976359703275,34.819778496842645,35.052174222563906,32.0,39.0,40.0,20.0,52.0,39.0,39.0,39.0,5315.0
-2011,30-45 J.,direkter Migrationshintergrund,32.257645465815315,31.890931487454004,32.624359444176626,25.0,38.0,40.0,2.5,57.0,38.0,37.0,39.0,834.0
-2011,30-45 J.,indirekter Migrationshintergrund,34.88406704264631,34.46360595462575,35.30452813066687,35.0,38.93675165877573,40.0,27.5,47.5,39.0,38.0,40.0,404.0
-2011,46-65 J.,kein Migrationshintergrund,34.16899589498662,34.03628197287099,34.30170981710226,30.0,38.5,40.0,15.0,55.0,38.5,38.5,38.5,4670.0
+2011,unter 18 J.,kein Migrationshintergrund,,,,,,,,,,,,
+2011,unter 18 J.,direkter Migrationshintergrund,,,,,,,,,,,,
+2011,unter 18 J.,indirekter Migrationshintergrund,,,,,,,,,,,,
+2011,18-29 J.,kein Migrationshintergrund,36.17397075603664,35.95972781870388,36.388213693369394,37.5,40.0,40.0,33.75,43.75,40.0,40.0,40.0,1590.0
+2011,18-29 J.,direkter Migrationshintergrund,35.69629724649386,34.980381776575115,36.41221271641261,37.094710318442466,40.0,40.0,32.736775796106166,44.3579345223363,40.0,40.0,42.0,191.0
+2011,18-29 J.,indirekter Migrationshintergrund,33.84248550803486,33.191946877673296,34.49302413839643,32.0,38.5,40.0,20.0,50.0,38.5,38.0,40.025,216.0
+2011,30-45 J.,kein Migrationshintergrund,34.93597635970326,34.81977849684263,35.05217422256389,32.0,39.0,40.0,20.0,52.0,39.0,39.0,39.0,5315.0
+2011,30-45 J.,direkter Migrationshintergrund,32.257645465815315,31.890931487454004,32.624359444176626,25.0,38.0,40.0,2.5,57.0,38.0,37.0,38.5125,834.0
+2011,30-45 J.,indirekter Migrationshintergrund,34.88406704264632,34.46360595462576,35.30452813066688,35.0,38.904523050516836,40.0,27.5,47.5,39.0,38.0,40.0,404.0
+2011,46-65 J.,kein Migrationshintergrund,34.16899589498663,34.036281972870995,34.301709817102264,30.0,38.5,40.0,15.0,55.0,38.5,38.5,38.5,4670.0
 2011,46-65 J.,direkter Migrationshintergrund,32.31940381981633,31.8407396115553,32.79806802807736,25.0,38.0,40.0,3.0,58.0,38.0,37.5,39.0,491.0
-2011,46-65 J.,indirekter Migrationshintergrund,31.69105519073319,30.59370554408415,32.78840483738224,24.35751950093139,35.0,39.0,10.0,45.0,35.0,31.5,40.0,68.0
-2011,66 und älter,kein Migrationshintergrund,15.507706516240997,14.012870350356016,17.002542682125977,8.0,10.0,20.0,4.0,38.0,10.0,7.0,10.0,56.0
+2011,46-65 J.,indirekter Migrationshintergrund,31.69105519073319,30.59370554408415,32.78840483738224,24.493533584443888,35.0,38.95404925389612,10.0,45.0,35.0,31.5,40.0,68.0
+2011,66 und älter,kein Migrationshintergrund,15.507706516240997,14.012870350356016,17.002542682125977,8.47787324379977,10.0,20.0,4.0,37.28319013430034,10.0,6.987499999999997,10.0,56.0
 2011,66 und älter,direkter Migrationshintergrund,,,,,,,,,,,,
 2011,66 und älter,indirekter Migrationshintergrund,,,,,,,,,,,,
-2011,5,kein Migrationshintergrund,,,,,,,,,,,,
-2011,5,direkter Migrationshintergrund,,,,,,,,,,,,
-2011,5,indirekter Migrationshintergrund,,,,,,,,,,,,
-2011,6,kein Migrationshintergrund,,,,,,,,,,,,
-2011,6,direkter Migrationshintergrund,,,,,,,,,,,,
-2011,6,indirekter Migrationshintergrund,,,,,,,,,,,,
-2011,7,kein Migrationshintergrund,,,,,,,,,,,,
-2011,7,direkter Migrationshintergrund,,,,,,,,,,,,
-2011,7,indirekter Migrationshintergrund,,,,,,,,,,,,
-2011,8,kein Migrationshintergrund,,,,,,,,,,,,
-2011,8,direkter Migrationshintergrund,,,,,,,,,,,,
-2011,8,indirekter Migrationshintergrund,,,,,,,,,,,,
-2011,9,kein Migrationshintergrund,,,,,,,,,,,,
-2011,9,direkter Migrationshintergrund,,,,,,,,,,,,
-2011,9,indirekter Migrationshintergrund,,,,,,,,,,,,
-2011,10,kein Migrationshintergrund,,,,,,,,,,,,
-2011,10,direkter Migrationshintergrund,,,,,,,,,,,,
-2011,10,indirekter Migrationshintergrund,,,,,,,,,,,,
-2011,11,kein Migrationshintergrund,,,,,,,,,,,,
-2011,11,direkter Migrationshintergrund,,,,,,,,,,,,
-2011,11,indirekter Migrationshintergrund,,,,,,,,,,,,
-2011,12,kein Migrationshintergrund,,,,,,,,,,,,
-2011,12,direkter Migrationshintergrund,,,,,,,,,,,,
-2011,12,indirekter Migrationshintergrund,,,,,,,,,,,,
-2011,13,kein Migrationshintergrund,,,,,,,,,,,,
-2011,13,direkter Migrationshintergrund,,,,,,,,,,,,
-2011,13,indirekter Migrationshintergrund,,,,,,,,,,,,
-2011,14,kein Migrationshintergrund,,,,,,,,,,,,
-2011,14,direkter Migrationshintergrund,,,,,,,,,,,,
-2011,14,indirekter Migrationshintergrund,,,,,,,,,,,,
-2011,15,kein Migrationshintergrund,,,,,,,,,,,,
-2011,15,direkter Migrationshintergrund,,,,,,,,,,,,
-2011,15,indirekter Migrationshintergrund,,,,,,,,,,,,
-2011,16,kein Migrationshintergrund,,,,,,,,,,,,
-2011,16,direkter Migrationshintergrund,,,,,,,,,,,,
-2011,16,indirekter Migrationshintergrund,,,,,,,,,,,,
-2011,17,kein Migrationshintergrund,,,,,,,,,,,,
-2011,17,direkter Migrationshintergrund,,,,,,,,,,,,
-2011,17,indirekter Migrationshintergrund,,,,,,,,,,,,
-2012,0,kein Migrationshintergrund,,,,,,,,,,,,
-2012,0,indirekter Migrationshintergrund,,,,,,,,,,,,
-2012,18-29 J.,kein Migrationshintergrund,35.64331484640548,35.41398679467541,35.87264289813555,37.0,40.0,40.0,32.5,44.5,40.0,40.0,40.0,1527.0
-2012,18-29 J.,direkter Migrationshintergrund,32.83895119347447,32.05613155932536,33.621770827623585,25.0,39.796024982616586,40.0,3.5,48.0,39.70000076293945,39.400001525878906,41.400001525878906,192.0
-2012,18-29 J.,indirekter Migrationshintergrund,33.94810552057809,33.23987166603254,34.656339375123636,34.9076268703569,38.5,40.0,27.26906717589225,47.63855969446465,38.5,37.0,40.0,217.0
-2012,30-45 J.,kein Migrationshintergrund,35.104560528298705,34.986609527155125,35.222511529442286,33.0,39.0,40.0,22.5,50.5,39.0,39.0,39.0,4943.0
-2012,30-45 J.,direkter Migrationshintergrund,33.42971102370485,33.09527390889781,33.764148138511885,30.0,39.0,40.0,15.0,55.0,39.0,38.0,40.0,840.0
-2012,30-45 J.,indirekter Migrationshintergrund,35.22900909515257,34.77999760705893,35.67802058324621,33.938461504563264,39.0,40.0,24.84615376140816,49.092307743155104,39.0,38.0,40.0,384.0
+2012,unter 18 J.,kein Migrationshintergrund,,,,,,,,,,,,
+2012,unter 18 J.,direkter Migrationshintergrund,,,,,,,,,,,,
+2012,unter 18 J.,indirekter Migrationshintergrund,,,,,,,,,,,,
+2012,18-29 J.,kein Migrationshintergrund,35.64331484640549,35.41398679467542,35.87264289813556,37.0,40.0,40.0,32.5,44.5,40.0,40.0,40.0,1527.0
+2012,18-29 J.,direkter Migrationshintergrund,32.83895119347447,32.05613155932536,33.621770827623585,25.0,39.77817708636228,40.0,3.5,48.0,39.70000076293945,39.400001525878906,41.400001525878906,192.0
+2012,18-29 J.,indirekter Migrationshintergrund,33.94810552057808,33.239871666032535,34.65633937512363,34.657381959227266,38.5,40.0,26.643454898068164,48.0139270611591,38.5,37.0,39.5,217.0
+2012,30-45 J.,kein Migrationshintergrund,35.1045605282987,34.98660952715512,35.22251152944228,33.0,39.0,40.0,22.5,50.5,39.0,39.0,39.0,4943.0
+2012,30-45 J.,direkter Migrationshintergrund,33.429711023704854,33.095273908897816,33.76414813851189,30.0,39.0,40.0,15.0,55.0,39.0,38.0,40.0,840.0
+2012,30-45 J.,indirekter Migrationshintergrund,35.22900909515257,34.77999760705893,35.67802058324621,33.93846150456323,39.0,40.0,24.846153761408072,49.09230774315516,39.0,38.0,40.0,384.0
 2012,46-65 J.,kein Migrationshintergrund,34.259152759524106,34.12859925127054,34.38970626777767,30.0,38.5,40.0,15.0,55.0,38.5,38.0,38.5,4858.0
-2012,46-65 J.,direkter Migrationshintergrund,32.79894053349715,32.337857848886266,33.26002321810804,28.0,38.0,40.0,10.0,58.0,38.0,37.5,38.5125,507.0
+2012,46-65 J.,direkter Migrationshintergrund,32.798940533497145,32.33785784888626,33.26002321810803,28.0,38.0,40.0,10.0,58.0,38.0,37.5,38.5,507.0
 2012,46-65 J.,indirekter Migrationshintergrund,32.523870147122096,31.550801288531645,33.49693900571255,25.0,37.5,39.0,12.0,45.0,37.5,36.5,40.0,82.0
-2012,66 und älter,kein Migrationshintergrund,12.487401465990295,11.413836261076026,13.560966670904564,5.556699306684238,10.0,18.09580114087659,1.0,36.904453892165115,10.0,9.962499999999991,12.049999999999999,79.0
+2012,66 und älter,kein Migrationshintergrund,12.487401465990295,11.413836261076026,13.560966670904564,5.556303179020657,10.0,18.885108452766197,1.0,38.878316363384506,10.0,8.0,12.0,79.0
 2012,66 und älter,direkter Migrationshintergrund,,,,,,,,,,,,
 2012,66 und älter,indirekter Migrationshintergrund,,,,,,,,,,,,
-2012,5,kein Migrationshintergrund,,,,,,,,,,,,
-2012,5,direkter Migrationshintergrund,,,,,,,,,,,,
-2012,5,indirekter Migrationshintergrund,,,,,,,,,,,,
-2012,6,kein Migrationshintergrund,,,,,,,,,,,,
-2012,6,direkter Migrationshintergrund,,,,,,,,,,,,
-2012,6,indirekter Migrationshintergrund,,,,,,,,,,,,
-2012,7,kein Migrationshintergrund,,,,,,,,,,,,
-2012,7,direkter Migrationshintergrund,,,,,,,,,,,,
-2012,7,indirekter Migrationshintergrund,,,,,,,,,,,,
-2012,8,kein Migrationshintergrund,,,,,,,,,,,,
-2012,8,direkter Migrationshintergrund,,,,,,,,,,,,
-2012,8,indirekter Migrationshintergrund,,,,,,,,,,,,
-2012,9,kein Migrationshintergrund,,,,,,,,,,,,
-2012,9,direkter Migrationshintergrund,,,,,,,,,,,,
-2012,9,indirekter Migrationshintergrund,,,,,,,,,,,,
-2012,10,kein Migrationshintergrund,,,,,,,,,,,,
-2012,10,direkter Migrationshintergrund,,,,,,,,,,,,
-2012,10,indirekter Migrationshintergrund,,,,,,,,,,,,
-2012,11,kein Migrationshintergrund,,,,,,,,,,,,
-2012,11,direkter Migrationshintergrund,,,,,,,,,,,,
-2012,11,indirekter Migrationshintergrund,,,,,,,,,,,,
-2012,12,kein Migrationshintergrund,,,,,,,,,,,,
-2012,12,direkter Migrationshintergrund,,,,,,,,,,,,
-2012,12,indirekter Migrationshintergrund,,,,,,,,,,,,
-2012,13,kein Migrationshintergrund,,,,,,,,,,,,
-2012,13,direkter Migrationshintergrund,,,,,,,,,,,,
-2012,13,indirekter Migrationshintergrund,,,,,,,,,,,,
-2012,14,kein Migrationshintergrund,,,,,,,,,,,,
-2012,14,direkter Migrationshintergrund,,,,,,,,,,,,
-2012,14,indirekter Migrationshintergrund,,,,,,,,,,,,
-2012,15,kein Migrationshintergrund,,,,,,,,,,,,
-2012,15,direkter Migrationshintergrund,,,,,,,,,,,,
-2012,15,indirekter Migrationshintergrund,,,,,,,,,,,,
-2012,16,kein Migrationshintergrund,,,,,,,,,,,,
-2012,16,direkter Migrationshintergrund,,,,,,,,,,,,
-2012,16,indirekter Migrationshintergrund,,,,,,,,,,,,
-2012,17,kein Migrationshintergrund,,,,,,,,,,,,
-2012,17,direkter Migrationshintergrund,,,,,,,,,,,,
-2012,17,indirekter Migrationshintergrund,,,,,,,,,,,,
-2013,0,kein Migrationshintergrund,,,,,,,,,,,,
-2013,0,indirekter Migrationshintergrund,,,,,,,,,,,,
-2013,18-29 J.,kein Migrationshintergrund,35.73695907022662,35.5135209188181,35.960397221635134,37.5,40.0,40.0,33.75,43.75,40.0,40.0,40.0,1503.0
+2013,unter 18 J.,kein Migrationshintergrund,,,,,,,,,,,,
+2013,unter 18 J.,direkter Migrationshintergrund,,,,,,,,,,,,
+2013,unter 18 J.,indirekter Migrationshintergrund,,,,,,,,,,,,
+2013,18-29 J.,kein Migrationshintergrund,35.73695907022662,35.5135209188181,35.960397221635134,37.5,40.0,40.0,33.75,43.75,40.0,40.0,40.5,1503.0
 2013,18-29 J.,direkter Migrationshintergrund,33.03538615106543,32.572916837247604,33.49785546488326,25.0,40.0,40.0,2.5,60.0,40.0,40.0,41.0,543.0
-2013,18-29 J.,indirekter Migrationshintergrund,34.38232809269533,33.93172363674582,34.83293254864484,35.0,39.0,40.0,27.5,47.5,39.0,38.0,39.5,479.0
-2013,30-45 J.,kein Migrationshintergrund,34.79014297720305,34.66205951328071,34.918226441125384,30.0,39.0,40.0,15.0,55.0,39.0,39.0,39.0,4539.0
+2013,18-29 J.,indirekter Migrationshintergrund,34.382328092695325,33.931723636745815,34.832932548644834,35.0,39.0,40.0,27.5,47.5,39.0,38.0,39.5,479.0
+2013,30-45 J.,kein Migrationshintergrund,34.79014297720305,34.66205951328071,34.918226441125384,30.0,39.0,40.0,15.0,55.0,39.0,38.9875,39.0,4539.0
 2013,30-45 J.,direkter Migrationshintergrund,33.59694568812864,33.36366740115061,33.83022397510668,30.0,39.0,40.0,15.0,55.0,39.0,38.0,40.0,1864.0
-2013,30-45 J.,indirekter Migrationshintergrund,35.18519242421159,34.80877494967858,35.56160989874461,35.0,39.0,40.0,27.5,47.5,39.0,38.0,39.5,552.0
-2013,46-65 J.,kein Migrationshintergrund,34.625315671311085,34.50176316150257,34.7488681811196,30.0,38.5,40.0,15.0,55.0,38.5,38.0,38.5,4790.0
-2013,46-65 J.,direkter Migrationshintergrund,32.60438763982323,32.2998412509022,32.90893402874426,25.0,38.0,40.0,2.5,62.5,38.0,37.5,38.5,1083.0
-2013,46-65 J.,indirekter Migrationshintergrund,33.15761226585985,32.31971523919429,33.99550929252542,30.0,38.0,40.0,15.0,55.0,38.0,37.5,41.0,107.0
-2013,66 und älter,kein Migrationshintergrund,10.593388439978554,9.862141952514555,11.324634927442553,5.0,10.0,15.0,1.0,30.0,10.0,9.5,12.0,76.0
+2013,30-45 J.,indirekter Migrationshintergrund,35.185192424211586,34.80877494967857,35.5616098987446,35.0,39.0,40.0,27.5,47.5,39.0,38.0,39.5,552.0
+2013,46-65 J.,kein Migrationshintergrund,34.62531567131108,34.501763161502566,34.74886818111959,30.0,38.5,40.0,15.0,55.0,38.5,38.0,38.5,4790.0
+2013,46-65 J.,direkter Migrationshintergrund,32.60438763982324,32.299841250902205,32.90893402874427,25.0,38.0,40.0,2.5,62.5,38.0,37.5,38.5,1083.0
+2013,46-65 J.,indirekter Migrationshintergrund,33.15761226585985,32.31971523919429,33.99550929252542,30.0,37.87861847956437,40.0,15.0,55.0,38.0,37.0,41.0,107.0
+2013,66 und älter,kein Migrationshintergrund,10.593388439978558,9.862141952514559,11.324634927442556,5.0,10.0,15.0,1.0,30.0,10.0,9.0,12.0,76.0
 2013,66 und älter,direkter Migrationshintergrund,,,,,,,,,,,,
 2013,66 und älter,indirekter Migrationshintergrund,,,,,,,,,,,,
-2013,5,kein Migrationshintergrund,,,,,,,,,,,,
-2013,5,direkter Migrationshintergrund,,,,,,,,,,,,
-2013,5,indirekter Migrationshintergrund,,,,,,,,,,,,
-2013,6,kein Migrationshintergrund,,,,,,,,,,,,
-2013,6,direkter Migrationshintergrund,,,,,,,,,,,,
-2013,6,indirekter Migrationshintergrund,,,,,,,,,,,,
-2013,7,kein Migrationshintergrund,,,,,,,,,,,,
-2013,7,direkter Migrationshintergrund,,,,,,,,,,,,
-2013,7,indirekter Migrationshintergrund,,,,,,,,,,,,
-2013,8,kein Migrationshintergrund,,,,,,,,,,,,
-2013,8,direkter Migrationshintergrund,,,,,,,,,,,,
-2013,8,indirekter Migrationshintergrund,,,,,,,,,,,,
-2013,9,kein Migrationshintergrund,,,,,,,,,,,,
-2013,9,direkter Migrationshintergrund,,,,,,,,,,,,
-2013,9,indirekter Migrationshintergrund,,,,,,,,,,,,
-2013,10,kein Migrationshintergrund,,,,,,,,,,,,
-2013,10,direkter Migrationshintergrund,,,,,,,,,,,,
-2013,10,indirekter Migrationshintergrund,,,,,,,,,,,,
-2013,11,kein Migrationshintergrund,,,,,,,,,,,,
-2013,11,direkter Migrationshintergrund,,,,,,,,,,,,
-2013,11,indirekter Migrationshintergrund,,,,,,,,,,,,
-2013,12,kein Migrationshintergrund,,,,,,,,,,,,
-2013,12,direkter Migrationshintergrund,,,,,,,,,,,,
-2013,12,indirekter Migrationshintergrund,,,,,,,,,,,,
-2013,13,kein Migrationshintergrund,,,,,,,,,,,,
-2013,13,direkter Migrationshintergrund,,,,,,,,,,,,
-2013,13,indirekter Migrationshintergrund,,,,,,,,,,,,
-2013,14,kein Migrationshintergrund,,,,,,,,,,,,
-2013,14,direkter Migrationshintergrund,,,,,,,,,,,,
-2013,14,indirekter Migrationshintergrund,,,,,,,,,,,,
-2013,15,kein Migrationshintergrund,,,,,,,,,,,,
-2013,15,direkter Migrationshintergrund,,,,,,,,,,,,
-2013,15,indirekter Migrationshintergrund,,,,,,,,,,,,
-2013,16,kein Migrationshintergrund,,,,,,,,,,,,
-2013,16,direkter Migrationshintergrund,,,,,,,,,,,,
-2013,16,indirekter Migrationshintergrund,,,,,,,,,,,,
-2013,17,kein Migrationshintergrund,,,,,,,,,,,,
-2013,17,direkter Migrationshintergrund,,,,,,,,,,,,
-2013,17,indirekter Migrationshintergrund,,,,,,,,,,,,
 2014,-1,kein Migrationshintergrund,,,,,,,,,,,,
-2014,0,kein Migrationshintergrund,,,,,,,,,,,,
-2014,0,indirekter Migrationshintergrund,,,,,,,,,,,,
-2014,18-29 J.,kein Migrationshintergrund,34.53660457388247,34.2833250355879,34.78988411217704,35.0,39.50147896970083,40.0,27.5,47.5,39.5,39.0,40.0,1435.0
-2014,18-29 J.,direkter Migrationshintergrund,32.27301366744284,31.70213396521624,32.84389336966944,20.0,39.0,40.0,1.0,60.0,39.0,38.0,40.0,415.0
+2014,unter 18 J.,kein Migrationshintergrund,,,,,,,,,,,,
+2014,unter 18 J.,direkter Migrationshintergrund,,,,,,,,,,,,
+2014,unter 18 J.,indirekter Migrationshintergrund,,,,,,,,,,,,
+2014,18-29 J.,kein Migrationshintergrund,34.536604573882464,34.28332503558789,34.789884112177035,35.0,39.5,40.0,27.5,47.5,39.5,39.0,40.0,1435.0
+2014,18-29 J.,direkter Migrationshintergrund,32.273013667442854,31.702133965216255,32.84389336966945,20.0,39.0,40.0,1.0,60.0,39.0,38.0,40.0,415.0
 2014,18-29 J.,indirekter Migrationshintergrund,33.952418481226324,33.44722384026745,34.4576131221852,35.0,39.0,40.0,27.5,47.5,39.0,38.0,40.0,408.0
-2014,30-45 J.,kein Migrationshintergrund,34.591209822411635,34.45045083319311,34.73196881163016,30.0,39.0,40.0,15.0,55.0,39.0,39.0,39.5,3921.0
-2014,30-45 J.,direkter Migrationshintergrund,33.42769123393823,33.172204431992,33.68317803588447,30.0,40.0,40.0,15.0,55.0,40.0,40.0,41.0,1527.0
+2014,30-45 J.,kein Migrationshintergrund,34.59120982241164,34.450450833193116,34.73196881163017,30.0,39.0,40.0,15.0,55.0,39.0,39.0,39.0,3921.0
+2014,30-45 J.,direkter Migrationshintergrund,33.42769123393823,33.172204431992,33.68317803588447,30.0,40.0,40.0,15.0,55.0,40.0,40.0,41.5,1527.0
 2014,30-45 J.,indirekter Migrationshintergrund,35.00791376521135,34.616580408231655,35.39924712219104,35.0,40.0,40.0,27.5,47.5,40.0,40.0,41.5,463.0
 2014,46-65 J.,kein Migrationshintergrund,34.02129391922857,33.89053929799392,34.15204854046322,30.0,38.5,40.0,15.0,55.0,38.5,38.5,39.0,4640.0
-2014,46-65 J.,direkter Migrationshintergrund,31.774921043519505,31.436963513114847,32.112878573924164,22.5,37.5,40.0,1.5,66.25,37.5,37.0,39.0,927.0
-2014,46-65 J.,indirekter Migrationshintergrund,31.19694054668639,30.298443366221942,32.09543772715083,24.0,37.5,39.0,4.0,45.0,37.5,36.5,45.0,119.0
-2014,66 und älter,kein Migrationshintergrund,13.012346159007459,11.982024562284986,14.042667755729932,5.993967664701015,9.666063298420301,18.52099999076478,2.0,37.31154847986043,9.0,6.0,10.0,102.0
+2014,46-65 J.,direkter Migrationshintergrund,31.774921043519505,31.436963513114847,32.112878573924164,22.66781996884016,37.5,40.0,1.5,65.99827004673976,37.5,37.0,39.0125,927.0
+2014,46-65 J.,indirekter Migrationshintergrund,31.196940546686385,30.29844336622194,32.09543772715083,24.0,37.5,39.0,4.0,45.0,37.5,36.5,45.0,119.0
+2014,66 und älter,kein Migrationshintergrund,13.012346159007457,11.982024562284984,14.04266775572993,5.928675489802006,9.704623300567246,18.52099999076481,2.0,37.40948674220901,9.0,7.924999999999983,10.0,102.0
 2014,66 und älter,direkter Migrationshintergrund,,,,,,,,,,,,
 2014,66 und älter,indirekter Migrationshintergrund,,,,,,,,,,,,
-2014,5,kein Migrationshintergrund,,,,,,,,,,,,
-2014,5,direkter Migrationshintergrund,,,,,,,,,,,,
-2014,5,indirekter Migrationshintergrund,,,,,,,,,,,,
-2014,6,kein Migrationshintergrund,,,,,,,,,,,,
-2014,6,direkter Migrationshintergrund,,,,,,,,,,,,
-2014,6,indirekter Migrationshintergrund,,,,,,,,,,,,
-2014,7,kein Migrationshintergrund,,,,,,,,,,,,
-2014,7,direkter Migrationshintergrund,,,,,,,,,,,,
-2014,7,indirekter Migrationshintergrund,,,,,,,,,,,,
-2014,8,kein Migrationshintergrund,,,,,,,,,,,,
-2014,8,direkter Migrationshintergrund,,,,,,,,,,,,
-2014,8,indirekter Migrationshintergrund,,,,,,,,,,,,
-2014,9,kein Migrationshintergrund,,,,,,,,,,,,
-2014,9,direkter Migrationshintergrund,,,,,,,,,,,,
-2014,9,indirekter Migrationshintergrund,,,,,,,,,,,,
-2014,10,kein Migrationshintergrund,,,,,,,,,,,,
-2014,10,direkter Migrationshintergrund,,,,,,,,,,,,
-2014,10,indirekter Migrationshintergrund,,,,,,,,,,,,
-2014,11,kein Migrationshintergrund,,,,,,,,,,,,
-2014,11,direkter Migrationshintergrund,,,,,,,,,,,,
-2014,11,indirekter Migrationshintergrund,,,,,,,,,,,,
-2014,12,kein Migrationshintergrund,,,,,,,,,,,,
-2014,12,direkter Migrationshintergrund,,,,,,,,,,,,
-2014,12,indirekter Migrationshintergrund,,,,,,,,,,,,
-2014,13,kein Migrationshintergrund,,,,,,,,,,,,
-2014,13,direkter Migrationshintergrund,,,,,,,,,,,,
-2014,13,indirekter Migrationshintergrund,,,,,,,,,,,,
-2014,14,kein Migrationshintergrund,,,,,,,,,,,,
-2014,14,direkter Migrationshintergrund,,,,,,,,,,,,
-2014,14,indirekter Migrationshintergrund,,,,,,,,,,,,
-2014,15,kein Migrationshintergrund,,,,,,,,,,,,
-2014,15,direkter Migrationshintergrund,,,,,,,,,,,,
-2014,15,indirekter Migrationshintergrund,,,,,,,,,,,,
-2014,16,kein Migrationshintergrund,,,,,,,,,,,,
-2014,16,direkter Migrationshintergrund,,,,,,,,,,,,
-2014,16,indirekter Migrationshintergrund,,,,,,,,,,,,
-2014,17,kein Migrationshintergrund,,,,,,,,,,,,
-2014,17,direkter Migrationshintergrund,,,,,,,,,,,,
-2014,17,indirekter Migrationshintergrund,,,,,,,,,,,,
 2015,-1,kein Migrationshintergrund,,,,,,,,,,,,
 2015,-1,direkter Migrationshintergrund,,,,,,,,,,,,
-2015,0,kein Migrationshintergrund,,,,,,,,,,,,
-2015,0,indirekter Migrationshintergrund,,,,,,,,,,,,
-2015,18-29 J.,kein Migrationshintergrund,34.87608337386788,34.622798401622696,35.12936834611306,36.0,39.5,40.0,30.0,46.0,39.5,39.0,40.0,1389.0
+2015,unter 18 J.,kein Migrationshintergrund,,,,,,,,,,,,
+2015,unter 18 J.,direkter Migrationshintergrund,,,,,,,,,,,,
+2015,unter 18 J.,indirekter Migrationshintergrund,,,,,,,,,,,,
+2015,18-29 J.,kein Migrationshintergrund,34.87608337386787,34.62279840162269,35.129368346113054,36.0,39.5,40.0,30.0,46.0,39.5,39.0,40.0,1389.0
 2015,18-29 J.,direkter Migrationshintergrund,33.37644627867838,32.951537565621926,33.80135499173483,30.0,39.0,40.0,15.0,55.0,39.0,38.0,40.0,561.0
 2015,18-29 J.,indirekter Migrationshintergrund,35.51348417592296,35.02673125875706,36.00023709308886,37.0,39.5,40.0,32.5,44.5,39.5,39.0,40.5,371.0
-2015,30-45 J.,kein Migrationshintergrund,34.42934201422933,34.284967706899984,34.57371632155867,30.0,39.0,40.0,15.0,55.0,39.0,39.0,39.29999923706055,3486.0
-2015,30-45 J.,direkter Migrationshintergrund,33.71429599248694,33.48095706460661,33.947634920367264,30.0,39.0,40.0,15.0,55.0,39.0,38.0,39.0,1742.0
+2015,30-45 J.,kein Migrationshintergrund,34.42934201422933,34.284967706899984,34.57371632155867,30.0,39.0,40.0,15.0,55.0,39.0,39.0,39.5,3486.0
+2015,30-45 J.,direkter Migrationshintergrund,33.71429599248694,33.48095706460661,33.947634920367264,30.0,39.0,40.0,15.0,55.0,39.0,38.0,39.5,1742.0
 2015,30-45 J.,indirekter Migrationshintergrund,35.19046821189944,34.78664204238878,35.59429438141011,35.0,40.0,40.0,27.5,47.5,40.0,40.0,41.5,407.0
 2015,46-65 J.,kein Migrationshintergrund,34.12483439868151,33.9937088600231,34.25595993733992,30.0,38.5,40.0,15.0,55.0,38.5,38.5,38.5,4581.0
-2015,46-65 J.,direkter Migrationshintergrund,32.82938387317443,32.49894297515658,33.15982477119228,25.0,38.0,40.0,2.5,62.5,38.0,37.5,38.5,952.0
-2015,46-65 J.,indirekter Migrationshintergrund,33.54066894708031,32.70952729916417,34.371810594996454,30.0,38.182872739240665,40.0,15.0,50.0,38.0,37.0,41.0,113.0
+2015,46-65 J.,direkter Migrationshintergrund,32.82938387317443,32.49894297515658,33.15982477119228,25.0,38.0,40.0,2.5,62.5,38.0,37.0,38.5,952.0
+2015,46-65 J.,indirekter Migrationshintergrund,33.54066894708031,32.70952729916417,34.371810594996454,30.0,38.0,40.0,15.0,50.0,38.0,37.0,41.0,113.0
 2015,66 und älter,kein Migrationshintergrund,10.485137895541005,9.796674197477738,11.173601593604271,6.0,9.0,12.0,2.0,21.0,9.0,8.0,10.0,101.0
 2015,66 und älter,direkter Migrationshintergrund,,,,,,,,,,,,
 2015,66 und älter,indirekter Migrationshintergrund,,,,,,,,,,,,
-2015,5,kein Migrationshintergrund,,,,,,,,,,,,
-2015,5,direkter Migrationshintergrund,,,,,,,,,,,,
-2015,5,indirekter Migrationshintergrund,,,,,,,,,,,,
-2015,6,kein Migrationshintergrund,,,,,,,,,,,,
-2015,6,direkter Migrationshintergrund,,,,,,,,,,,,
-2015,6,indirekter Migrationshintergrund,,,,,,,,,,,,
-2015,7,kein Migrationshintergrund,,,,,,,,,,,,
-2015,7,direkter Migrationshintergrund,,,,,,,,,,,,
-2015,7,indirekter Migrationshintergrund,,,,,,,,,,,,
-2015,8,kein Migrationshintergrund,,,,,,,,,,,,
-2015,8,direkter Migrationshintergrund,,,,,,,,,,,,
-2015,8,indirekter Migrationshintergrund,,,,,,,,,,,,
-2015,9,kein Migrationshintergrund,,,,,,,,,,,,
-2015,9,direkter Migrationshintergrund,,,,,,,,,,,,
-2015,9,indirekter Migrationshintergrund,,,,,,,,,,,,
-2015,10,kein Migrationshintergrund,,,,,,,,,,,,
-2015,10,direkter Migrationshintergrund,,,,,,,,,,,,
-2015,10,indirekter Migrationshintergrund,,,,,,,,,,,,
-2015,11,kein Migrationshintergrund,,,,,,,,,,,,
-2015,11,direkter Migrationshintergrund,,,,,,,,,,,,
-2015,11,indirekter Migrationshintergrund,,,,,,,,,,,,
-2015,12,kein Migrationshintergrund,,,,,,,,,,,,
-2015,12,direkter Migrationshintergrund,,,,,,,,,,,,
-2015,12,indirekter Migrationshintergrund,,,,,,,,,,,,
-2015,13,kein Migrationshintergrund,,,,,,,,,,,,
-2015,13,direkter Migrationshintergrund,,,,,,,,,,,,
-2015,13,indirekter Migrationshintergrund,,,,,,,,,,,,
-2015,14,kein Migrationshintergrund,,,,,,,,,,,,
-2015,14,direkter Migrationshintergrund,,,,,,,,,,,,
-2015,14,indirekter Migrationshintergrund,,,,,,,,,,,,
-2015,15,kein Migrationshintergrund,,,,,,,,,,,,
-2015,15,direkter Migrationshintergrund,,,,,,,,,,,,
-2015,15,indirekter Migrationshintergrund,,,,,,,,,,,,
-2015,16,kein Migrationshintergrund,,,,,,,,,,,,
-2015,16,direkter Migrationshintergrund,,,,,,,,,,,,
-2015,16,indirekter Migrationshintergrund,,,,,,,,,,,,
-2015,17,kein Migrationshintergrund,,,,,,,,,,,,
-2015,17,direkter Migrationshintergrund,,,,,,,,,,,,
-2015,17,indirekter Migrationshintergrund,,,,,,,,,,,,
 2016,-1,kein Migrationshintergrund,,,,,,,,,,,,
 2016,-1,direkter Migrationshintergrund,,,,,,,,,,,,
-2016,0,kein Migrationshintergrund,,,,,,,,,,,,
-2016,0,indirekter Migrationshintergrund,,,,,,,,,,,,
-2016,18-29 J.,kein Migrationshintergrund,35.06500912516716,34.81233813106805,35.317680119266264,35.0,39.04131979025578,40.0,27.5,47.5,39.0,38.0,39.0,1301.0
-2016,18-29 J.,direkter Migrationshintergrund,33.12724497399208,32.587835481289055,33.6666544666951,30.0,39.837153421546894,40.0,15.0,55.0,40.0,40.0,42.0,408.0
-2016,18-29 J.,indirekter Migrationshintergrund,34.0212738413303,33.493744801928536,34.54880288073206,35.0,38.0,40.0,27.5,47.5,38.0,37.0,38.0,345.0
-2016,30-45 J.,kein Migrationshintergrund,34.32957915005329,34.174499707621074,34.48465859248551,30.0,39.0,40.0,15.0,55.0,39.0,39.0,39.5,3129.0
-2016,30-45 J.,direkter Migrationshintergrund,33.56672242776718,33.3103262968455,33.82311855868886,30.0,39.0,40.0,15.0,55.0,39.0,38.0,39.5125,1460.0
-2016,30-45 J.,indirekter Migrationshintergrund,34.934026154741055,34.51508107569862,35.35297123378349,34.0,39.0,40.0,25.0,49.0,39.0,38.0,39.5,393.0
+2016,unter 18 J.,kein Migrationshintergrund,,,,,,,,,,,,
+2016,unter 18 J.,direkter Migrationshintergrund,,,,,,,,,,,,
+2016,unter 18 J.,indirekter Migrationshintergrund,,,,,,,,,,,,
+2016,18-29 J.,kein Migrationshintergrund,35.06500912516716,34.81233813106805,35.317680119266264,35.0,39.0,40.0,27.5,47.5,39.0,38.0,39.0,1301.0
+2016,18-29 J.,direkter Migrationshintergrund,33.127244973992084,32.58783548128906,33.66665446669511,30.0,40.0,40.0,15.0,55.0,40.0,40.0,42.0,408.0
+2016,18-29 J.,indirekter Migrationshintergrund,34.02127384133029,33.49374480192853,34.548802880732055,35.0,38.0,40.0,27.5,47.5,38.0,37.0,38.0,345.0
+2016,30-45 J.,kein Migrationshintergrund,34.3295791500533,34.17449970762108,34.484658592485516,30.0,39.0,40.0,15.0,55.0,39.0,39.0,39.5,3129.0
+2016,30-45 J.,direkter Migrationshintergrund,33.56672242776718,33.3103262968455,33.82311855868886,30.0,39.0,40.0,15.0,55.0,39.0,38.0,40.0,1460.0
+2016,30-45 J.,indirekter Migrationshintergrund,34.93402615474105,34.51508107569861,35.352971233783485,34.069225172736424,39.0,40.0,25.17306293184106,48.896162240895364,39.0,38.0,39.5,393.0
 2016,46-65 J.,kein Migrationshintergrund,34.07270160261256,33.938929189315026,34.206474015910096,30.0,38.5,40.0,15.0,55.0,38.5,38.5,38.5,4446.0
-2016,46-65 J.,direkter Migrationshintergrund,31.739273983598352,31.38068512877927,32.097862838417434,25.0,37.5,40.0,2.5,60.0,37.5,36.5,39.5,895.0
-2016,46-65 J.,indirekter Migrationshintergrund,32.638046138732584,31.753347987420312,33.522744290044855,30.0,38.0,40.0,15.0,45.0,38.0,37.5,41.0,124.0
-2016,66 und älter,kein Migrationshintergrund,12.329719015772227,11.459523614236769,13.199914417307685,7.859573500578317,10.0,12.0,2.0,18.210639749132525,10.0,9.0,12.0,108.0
+2016,46-65 J.,direkter Migrationshintergrund,31.739273983598366,31.380685128779284,32.09786283841745,25.0,37.81798445059199,40.0,2.5,60.0,37.5,36.5,39.0,895.0
+2016,46-65 J.,indirekter Migrationshintergrund,32.638046138732584,31.753347987420312,33.522744290044855,30.0,38.0,40.0,15.0,45.0,38.0,37.0,41.0,124.0
+2016,66 und älter,kein Migrationshintergrund,12.329719015772229,11.459523614236769,13.199914417307689,8.0,10.0,12.016787092925917,2.0,18.04196773231479,10.0,9.0,12.0,108.0
 2016,66 und älter,direkter Migrationshintergrund,,,,,,,,,,,,
 2016,66 und älter,indirekter Migrationshintergrund,,,,,,,,,,,,
-2016,5,kein Migrationshintergrund,,,,,,,,,,,,
-2016,5,direkter Migrationshintergrund,,,,,,,,,,,,
-2016,5,indirekter Migrationshintergrund,,,,,,,,,,,,
-2016,6,kein Migrationshintergrund,,,,,,,,,,,,
-2016,6,direkter Migrationshintergrund,,,,,,,,,,,,
-2016,6,indirekter Migrationshintergrund,,,,,,,,,,,,
-2016,7,kein Migrationshintergrund,,,,,,,,,,,,
-2016,7,direkter Migrationshintergrund,,,,,,,,,,,,
-2016,7,indirekter Migrationshintergrund,,,,,,,,,,,,
-2016,8,kein Migrationshintergrund,,,,,,,,,,,,
-2016,8,direkter Migrationshintergrund,,,,,,,,,,,,
-2016,8,indirekter Migrationshintergrund,,,,,,,,,,,,
-2016,9,kein Migrationshintergrund,,,,,,,,,,,,
-2016,9,direkter Migrationshintergrund,,,,,,,,,,,,
-2016,9,indirekter Migrationshintergrund,,,,,,,,,,,,
-2016,10,kein Migrationshintergrund,,,,,,,,,,,,
-2016,10,direkter Migrationshintergrund,,,,,,,,,,,,
-2016,10,indirekter Migrationshintergrund,,,,,,,,,,,,
-2016,11,kein Migrationshintergrund,,,,,,,,,,,,
-2016,11,direkter Migrationshintergrund,,,,,,,,,,,,
-2016,11,indirekter Migrationshintergrund,,,,,,,,,,,,
-2016,12,kein Migrationshintergrund,,,,,,,,,,,,
-2016,12,direkter Migrationshintergrund,,,,,,,,,,,,
-2016,12,indirekter Migrationshintergrund,,,,,,,,,,,,
-2016,13,kein Migrationshintergrund,,,,,,,,,,,,
-2016,13,direkter Migrationshintergrund,,,,,,,,,,,,
-2016,13,indirekter Migrationshintergrund,,,,,,,,,,,,
-2016,14,kein Migrationshintergrund,,,,,,,,,,,,
-2016,14,direkter Migrationshintergrund,,,,,,,,,,,,
-2016,14,indirekter Migrationshintergrund,,,,,,,,,,,,
-2016,15,kein Migrationshintergrund,,,,,,,,,,,,
-2016,15,direkter Migrationshintergrund,,,,,,,,,,,,
-2016,15,indirekter Migrationshintergrund,,,,,,,,,,,,
-2016,16,kein Migrationshintergrund,,,,,,,,,,,,
-2016,16,direkter Migrationshintergrund,,,,,,,,,,,,
-2016,16,indirekter Migrationshintergrund,,,,,,,,,,,,
-2016,17,kein Migrationshintergrund,,,,,,,,,,,,
-2016,17,direkter Migrationshintergrund,,,,,,,,,,,,
-2016,17,indirekter Migrationshintergrund,,,,,,,,,,,,
 2017,-1,indirekter Migrationshintergrund,,,,,,,,,,,,
-2017,0,kein Migrationshintergrund,,,,,,,,,,,,
-2017,0,indirekter Migrationshintergrund,,,,,,,,,,,,
-2017,18-29 J.,kein Migrationshintergrund,34.94019866493949,34.707720066101494,35.17267726377748,35.0,39.5,40.0,27.5,47.5,39.5,39.0,40.0,1663.0
-2017,18-29 J.,direkter Migrationshintergrund,32.95430030591385,32.44092483500516,33.46767577682253,30.0,40.0,40.0,15.0,55.0,40.0,40.0,42.0,474.0
-2017,18-29 J.,indirekter Migrationshintergrund,33.06593013194052,32.55509765828658,33.57676260559446,30.0,38.0,40.0,15.0,50.0,38.0,37.0,38.5,396.0
+2017,unter 18 J.,kein Migrationshintergrund,,,,,,,,,,,,
+2017,unter 18 J.,direkter Migrationshintergrund,,,,,,,,,,,,
+2017,unter 18 J.,indirekter Migrationshintergrund,,,,,,,,,,,,
+2017,18-29 J.,kein Migrationshintergrund,34.940198664939494,34.7077200661015,35.17267726377749,35.0,39.5,40.0,27.5,47.5,39.5,39.0,40.0,1663.0
+2017,18-29 J.,direkter Migrationshintergrund,32.95430030591385,32.44092483500516,33.46767577682253,30.0,40.0,40.0,15.0,55.0,40.0,40.0,41.5125,474.0
+2017,18-29 J.,indirekter Migrationshintergrund,33.065930131940526,32.555097658286584,33.57676260559447,30.0,38.0,40.0,15.0,50.0,38.0,37.0,38.5,396.0
 2017,30-45 J.,kein Migrationshintergrund,34.54452212495266,34.40263488826621,34.6864093616391,30.0,39.0,40.0,15.0,55.0,39.0,39.0,39.5,3468.0
 2017,30-45 J.,direkter Migrationshintergrund,33.79189023686842,33.55288698426234,34.0308934894745,30.0,39.0,40.0,15.0,55.0,39.0,38.0,39.0,1556.0
 2017,30-45 J.,indirekter Migrationshintergrund,35.44235715611957,35.01547742124738,35.86923689099176,35.0,40.0,40.0,27.5,47.5,40.0,40.0,41.5,407.0
 2017,46-65 J.,kein Migrationshintergrund,34.03591508086954,33.91371651094202,34.15811365079707,30.0,38.5,40.0,15.0,55.0,38.5,38.5,38.5,5410.0
-2017,46-65 J.,direkter Migrationshintergrund,32.22363653760178,31.885792552596968,32.56148052260659,25.0,38.0,40.0,2.5,62.5,38.0,38.0,39.0,970.0
-2017,46-65 J.,indirekter Migrationshintergrund,33.21012977711404,32.47602768037202,33.94423187385606,29.494573374687427,38.0,40.0,13.736433436718567,48.0,38.0,36.5,41.0,143.0
-2017,66 und älter,kein Migrationshintergrund,13.01278730877702,12.196446425023003,13.829128192531035,8.0,10.0,15.0,0.800000011920929,25.5,10.0,8.0,10.5125,133.0
+2017,46-65 J.,direkter Migrationshintergrund,32.22363653760178,31.885792552596968,32.56148052260659,25.0,38.0,40.0,2.5,62.5,38.0,37.5,39.0,970.0
+2017,46-65 J.,indirekter Migrationshintergrund,33.210129777114034,32.47602768037201,33.944231873856054,30.0,38.0,40.0,15.0,48.0,38.0,37.4875,41.0,143.0
+2017,66 und älter,kein Migrationshintergrund,13.012787308777018,12.196446425023002,13.829128192531034,8.0,10.0,15.0,0.800000011920929,25.5,10.0,8.0,11.0,133.0
 2017,66 und älter,direkter Migrationshintergrund,,,,,,,,,,,,
 2017,66 und älter,indirekter Migrationshintergrund,,,,,,,,,,,,
-2017,5,kein Migrationshintergrund,,,,,,,,,,,,
-2017,5,direkter Migrationshintergrund,,,,,,,,,,,,
-2017,5,indirekter Migrationshintergrund,,,,,,,,,,,,
-2017,6,kein Migrationshintergrund,,,,,,,,,,,,
-2017,6,direkter Migrationshintergrund,,,,,,,,,,,,
-2017,6,indirekter Migrationshintergrund,,,,,,,,,,,,
-2017,7,kein Migrationshintergrund,,,,,,,,,,,,
-2017,7,direkter Migrationshintergrund,,,,,,,,,,,,
-2017,7,indirekter Migrationshintergrund,,,,,,,,,,,,
-2017,8,kein Migrationshintergrund,,,,,,,,,,,,
-2017,8,direkter Migrationshintergrund,,,,,,,,,,,,
-2017,8,indirekter Migrationshintergrund,,,,,,,,,,,,
-2017,9,kein Migrationshintergrund,,,,,,,,,,,,
-2017,9,direkter Migrationshintergrund,,,,,,,,,,,,
-2017,9,indirekter Migrationshintergrund,,,,,,,,,,,,
-2017,10,kein Migrationshintergrund,,,,,,,,,,,,
-2017,10,direkter Migrationshintergrund,,,,,,,,,,,,
-2017,10,indirekter Migrationshintergrund,,,,,,,,,,,,
-2017,11,kein Migrationshintergrund,,,,,,,,,,,,
-2017,11,direkter Migrationshintergrund,,,,,,,,,,,,
-2017,11,indirekter Migrationshintergrund,,,,,,,,,,,,
-2017,12,kein Migrationshintergrund,,,,,,,,,,,,
-2017,12,direkter Migrationshintergrund,,,,,,,,,,,,
-2017,12,indirekter Migrationshintergrund,,,,,,,,,,,,
-2017,13,kein Migrationshintergrund,,,,,,,,,,,,
-2017,13,direkter Migrationshintergrund,,,,,,,,,,,,
-2017,13,indirekter Migrationshintergrund,,,,,,,,,,,,
-2017,14,kein Migrationshintergrund,,,,,,,,,,,,
-2017,14,direkter Migrationshintergrund,,,,,,,,,,,,
-2017,14,indirekter Migrationshintergrund,,,,,,,,,,,,
-2017,15,kein Migrationshintergrund,,,,,,,,,,,,
-2017,15,direkter Migrationshintergrund,,,,,,,,,,,,
-2017,15,indirekter Migrationshintergrund,,,,,,,,,,,,
-2017,16,kein Migrationshintergrund,,,,,,,,,,,,
-2017,16,direkter Migrationshintergrund,,,,,,,,,,,,
-2017,16,indirekter Migrationshintergrund,,,,,,,,,,,,
-2017,17,kein Migrationshintergrund,,,,,,,,,,,,
-2017,17,direkter Migrationshintergrund,,,,,,,,,,,,
-2017,17,indirekter Migrationshintergrund,,,,,,,,,,,,
 2018,-1,indirekter Migrationshintergrund,,,,,,,,,,,,
-2018,0,kein Migrationshintergrund,,,,,,,,,,,,
-2018,0,indirekter Migrationshintergrund,,,,,,,,,,,,
-2018,18-29 J.,kein Migrationshintergrund,34.357156178662045,34.12000279872078,34.59430955860331,35.0,39.0,40.0,27.5,47.5,39.0,38.0,39.0,1665.0
+2018,unter 18 J.,kein Migrationshintergrund,,,,,,,,,,,,
+2018,unter 18 J.,direkter Migrationshintergrund,,,,,,,,,,,,
+2018,unter 18 J.,indirekter Migrationshintergrund,,,,,,,,,,,,
+2018,18-29 J.,kein Migrationshintergrund,34.35715617866204,34.120002798720776,34.5943095586033,35.0,39.0,40.0,27.5,47.5,39.0,38.0,39.0,1665.0
 2018,18-29 J.,direkter Migrationshintergrund,33.66754338811407,33.229143887838,34.10594288839014,28.0,40.0,40.0,10.0,58.0,40.0,40.0,41.5125,585.0
-2018,18-29 J.,indirekter Migrationshintergrund,32.80996344685188,32.260925224118424,33.35900166958534,33.071578670740934,38.5,40.0,22.678946676852334,50.0,38.5,38.0,39.0,407.0
+2018,18-29 J.,indirekter Migrationshintergrund,32.80996344685188,32.260925224118424,33.35900166958534,32.241751830635316,38.5,40.0,20.60437957658829,50.0,38.5,38.0,39.0,407.0
 2018,30-45 J.,kein Migrationshintergrund,34.642711681853115,34.49506033894043,34.7903630247658,30.0,39.0,40.0,15.0,55.0,39.0,39.0,39.5,3211.0
-2018,30-45 J.,direkter Migrationshintergrund,33.68932185925707,33.455204744972434,33.92343897354171,30.0,39.0,40.0,15.0,55.0,39.0,38.0,39.5125,1620.0
+2018,30-45 J.,direkter Migrationshintergrund,33.68932185925707,33.455204744972434,33.92343897354171,30.0,39.0,40.0,15.0,55.0,39.0,38.0,40.0,1620.0
 2018,30-45 J.,indirekter Migrationshintergrund,35.09111198170452,34.66022875884669,35.52199520456235,35.0,39.0,40.0,27.5,47.5,39.0,38.0,39.5,394.0
 2018,46-65 J.,kein Migrationshintergrund,33.913262289795206,33.79133427910212,34.035190300488296,30.0,38.5,40.0,15.0,55.0,38.5,38.5,38.5,5231.0
 2018,46-65 J.,direkter Migrationshintergrund,32.884339028228574,32.584784736912034,33.18389331954511,28.89260481269624,38.0,40.0,12.231512031740603,56.66109278095564,38.0,37.0,38.5,1031.0
-2018,46-65 J.,indirekter Migrationshintergrund,33.84102477245242,33.1114810535821,34.570568491322746,30.0,38.5,40.0,15.0,50.0,38.5,37.5,39.0,170.0
-2018,66 und älter,kein Migrationshintergrund,12.094403025607146,11.390172639023499,12.798633412190794,6.0,10.0,15.0,0.4000000059604645,28.5,10.0,9.974999999999994,10.0,162.0
+2018,46-65 J.,indirekter Migrationshintergrund,33.841024772452414,33.11148105358209,34.57056849132274,30.0,38.5,40.0,15.0,50.0,38.5,37.5,39.0125,170.0
+2018,66 und älter,kein Migrationshintergrund,12.094403025607145,11.390172639023497,12.798633412190792,6.0,10.0,15.0,0.4000000059604645,28.5,10.0,9.0,10.0,162.0
 2018,66 und älter,direkter Migrationshintergrund,,,,,,,,,,,,
 2018,66 und älter,indirekter Migrationshintergrund,,,,,,,,,,,,
-2018,5,kein Migrationshintergrund,,,,,,,,,,,,
-2018,5,direkter Migrationshintergrund,,,,,,,,,,,,
-2018,5,indirekter Migrationshintergrund,,,,,,,,,,,,
-2018,6,kein Migrationshintergrund,,,,,,,,,,,,
-2018,6,direkter Migrationshintergrund,,,,,,,,,,,,
-2018,6,indirekter Migrationshintergrund,,,,,,,,,,,,
-2018,7,kein Migrationshintergrund,,,,,,,,,,,,
-2018,7,direkter Migrationshintergrund,,,,,,,,,,,,
-2018,7,indirekter Migrationshintergrund,,,,,,,,,,,,
-2018,8,kein Migrationshintergrund,,,,,,,,,,,,
-2018,8,direkter Migrationshintergrund,,,,,,,,,,,,
-2018,8,indirekter Migrationshintergrund,,,,,,,,,,,,
-2018,9,kein Migrationshintergrund,,,,,,,,,,,,
-2018,9,direkter Migrationshintergrund,,,,,,,,,,,,
-2018,9,indirekter Migrationshintergrund,,,,,,,,,,,,
-2018,10,kein Migrationshintergrund,,,,,,,,,,,,
-2018,10,direkter Migrationshintergrund,,,,,,,,,,,,
-2018,10,indirekter Migrationshintergrund,,,,,,,,,,,,
-2018,11,kein Migrationshintergrund,,,,,,,,,,,,
-2018,11,direkter Migrationshintergrund,,,,,,,,,,,,
-2018,11,indirekter Migrationshintergrund,,,,,,,,,,,,
-2018,12,kein Migrationshintergrund,,,,,,,,,,,,
-2018,12,direkter Migrationshintergrund,,,,,,,,,,,,
-2018,12,indirekter Migrationshintergrund,,,,,,,,,,,,
-2018,13,kein Migrationshintergrund,,,,,,,,,,,,
-2018,13,direkter Migrationshintergrund,,,,,,,,,,,,
-2018,13,indirekter Migrationshintergrund,,,,,,,,,,,,
-2018,14,kein Migrationshintergrund,,,,,,,,,,,,
-2018,14,direkter Migrationshintergrund,,,,,,,,,,,,
-2018,14,indirekter Migrationshintergrund,,,,,,,,,,,,
-2018,15,kein Migrationshintergrund,,,,,,,,,,,,
-2018,15,direkter Migrationshintergrund,,,,,,,,,,,,
-2018,15,indirekter Migrationshintergrund,,,,,,,,,,,,
-2018,16,kein Migrationshintergrund,,,,,,,,,,,,
-2018,16,direkter Migrationshintergrund,,,,,,,,,,,,
-2018,16,indirekter Migrationshintergrund,,,,,,,,,,,,
-2018,17,kein Migrationshintergrund,,,,,,,,,,,,
-2018,17,direkter Migrationshintergrund,,,,,,,,,,,,
-2018,17,indirekter Migrationshintergrund,,,,,,,,,,,,
 2019,-1,kein Migrationshintergrund,,,,,,,,,,,,
-2019,0,kein Migrationshintergrund,,,,,,,,,,,,
-2019,0,indirekter Migrationshintergrund,,,,,,,,,,,,
-2019,18-29 J.,kein Migrationshintergrund,34.925705111136054,34.69848988423649,35.15292033803562,35.0,39.0,40.0,27.5,47.5,39.0,38.0,39.0,1546.0
-2019,18-29 J.,direkter Migrationshintergrund,34.2612195290771,33.856253408003205,34.666185650151,30.0,39.49691157036214,40.0,15.0,55.0,40.0,40.0,42.0,555.0
+2019,unter 18 J.,kein Migrationshintergrund,,,,,,,,,,,,
+2019,unter 18 J.,direkter Migrationshintergrund,,,,,,,,,,,,
+2019,unter 18 J.,indirekter Migrationshintergrund,,,,,,,,,,,,
+2019,18-29 J.,kein Migrationshintergrund,34.92570511113605,34.69848988423648,35.152920338035614,35.0,39.0,40.0,27.5,47.5,39.0,38.0,39.0,1546.0
+2019,18-29 J.,direkter Migrationshintergrund,34.2612195290771,33.856253408003205,34.666185650151,30.0,40.0,40.0,15.0,55.0,40.0,40.0,42.0,555.0
 2019,18-29 J.,indirekter Migrationshintergrund,34.188574198551116,33.663039128185005,34.71410926891723,32.0,38.0,40.0,20.0,52.0,38.0,37.0,38.0,348.0
-2019,30-45 J.,kein Migrationshintergrund,34.78696351730639,34.634139481439036,34.939787553173744,31.9560152912071,39.0,40.0,19.890038228017744,52.06597706318935,39.0,39.0,40.0,2966.0
-2019,30-45 J.,direkter Migrationshintergrund,33.14161156744225,32.909766211650364,33.37345692323413,30.0,38.0,40.0,15.0,55.0,38.0,38.0,39.0,1509.0
+2019,30-45 J.,kein Migrationshintergrund,34.78696351730638,34.63413948143903,34.93978755317374,32.0,39.0,40.0,20.0,52.0,39.0,39.0,40.0,2966.0
+2019,30-45 J.,direkter Migrationshintergrund,33.14161156744224,32.90976621165036,33.37345692323412,30.0,38.0,40.0,15.0,55.0,38.0,38.0,39.0,1509.0
 2019,30-45 J.,indirekter Migrationshintergrund,35.53607883795343,35.14669878525247,35.9254588906544,35.0,40.0,40.0,27.5,47.5,40.0,40.0,42.0,373.0
-2019,46-65 J.,kein Migrationshintergrund,33.80805706272036,33.686659463647096,33.92945466179362,30.0,38.0,40.0,15.0,55.0,38.0,38.0,38.0,5163.0
+2019,46-65 J.,kein Migrationshintergrund,33.80805706272035,33.68665946364709,33.92945466179361,30.0,38.0,40.0,15.0,55.0,38.0,38.0,38.0,5163.0
 2019,46-65 J.,direkter Migrationshintergrund,33.866799440264536,33.56167550579232,34.17192337473675,30.0,38.0,40.0,15.0,55.0,38.0,37.0,38.025,976.0
-2019,46-65 J.,indirekter Migrationshintergrund,34.800961503740005,34.19760635667173,35.40431665080828,30.0,38.0,40.0,15.0,50.0,38.0,37.0,40.025,169.0
-2019,66 und älter,kein Migrationshintergrund,14.918946981104353,14.11072186631182,15.727172095896886,8.0,10.0,18.0,2.0,33.0,10.0,8.0,11.0,167.0
+2019,46-65 J.,indirekter Migrationshintergrund,34.800961503740005,34.19760635667173,35.40431665080828,30.0,38.0,40.0,15.0,50.0,38.0,37.0,41.0,169.0
+2019,66 und älter,kein Migrationshintergrund,14.91894698110435,14.110721866311817,15.727172095896883,8.0,10.0,18.0,2.0,33.0,10.0,8.0,10.0,167.0
 2019,66 und älter,direkter Migrationshintergrund,,,,,,,,,,,,
 2019,66 und älter,indirekter Migrationshintergrund,,,,,,,,,,,,
-2019,5,kein Migrationshintergrund,,,,,,,,,,,,
-2019,5,direkter Migrationshintergrund,,,,,,,,,,,,
-2019,5,indirekter Migrationshintergrund,,,,,,,,,,,,
-2019,6,kein Migrationshintergrund,,,,,,,,,,,,
-2019,6,direkter Migrationshintergrund,,,,,,,,,,,,
-2019,6,indirekter Migrationshintergrund,,,,,,,,,,,,
-2019,7,kein Migrationshintergrund,,,,,,,,,,,,
-2019,7,direkter Migrationshintergrund,,,,,,,,,,,,
-2019,7,indirekter Migrationshintergrund,,,,,,,,,,,,
-2019,8,kein Migrationshintergrund,,,,,,,,,,,,
-2019,8,direkter Migrationshintergrund,,,,,,,,,,,,
-2019,8,indirekter Migrationshintergrund,,,,,,,,,,,,
-2019,9,kein Migrationshintergrund,,,,,,,,,,,,
-2019,9,direkter Migrationshintergrund,,,,,,,,,,,,
-2019,9,indirekter Migrationshintergrund,,,,,,,,,,,,
-2019,10,kein Migrationshintergrund,,,,,,,,,,,,
-2019,10,direkter Migrationshintergrund,,,,,,,,,,,,
-2019,10,indirekter Migrationshintergrund,,,,,,,,,,,,
-2019,11,kein Migrationshintergrund,,,,,,,,,,,,
-2019,11,direkter Migrationshintergrund,,,,,,,,,,,,
-2019,11,indirekter Migrationshintergrund,,,,,,,,,,,,
-2019,12,kein Migrationshintergrund,,,,,,,,,,,,
-2019,12,direkter Migrationshintergrund,,,,,,,,,,,,
-2019,12,indirekter Migrationshintergrund,,,,,,,,,,,,
-2019,13,kein Migrationshintergrund,,,,,,,,,,,,
-2019,13,direkter Migrationshintergrund,,,,,,,,,,,,
-2019,13,indirekter Migrationshintergrund,,,,,,,,,,,,
-2019,14,kein Migrationshintergrund,,,,,,,,,,,,
-2019,14,direkter Migrationshintergrund,,,,,,,,,,,,
-2019,14,indirekter Migrationshintergrund,,,,,,,,,,,,
-2019,15,kein Migrationshintergrund,,,,,,,,,,,,
-2019,15,direkter Migrationshintergrund,,,,,,,,,,,,
-2019,15,indirekter Migrationshintergrund,,,,,,,,,,,,
-2019,16,kein Migrationshintergrund,,,,,,,,,,,,
-2019,16,direkter Migrationshintergrund,,,,,,,,,,,,
-2019,16,indirekter Migrationshintergrund,,,,,,,,,,,,
-2019,17,kein Migrationshintergrund,,,,,,,,,,,,
-2019,17,direkter Migrationshintergrund,,,,,,,,,,,,
-2019,17,indirekter Migrationshintergrund,,,,,,,,,,,,
 2020,-1,kein Migrationshintergrund,,,,,,,,,,,,
 2020,-1,direkter Migrationshintergrund,,,,,,,,,,,,
 2020,-1,indirekter Migrationshintergrund,,,,,,,,,,,,
-2020,0,kein Migrationshintergrund,,,,,,,,,,,,
-2020,0,indirekter Migrationshintergrund,,,,,,,,,,,,
-2020,18-29 J.,kein Migrationshintergrund,34.9708690682334,34.731783038144755,35.20995509832204,35.0,39.0,40.0,27.5,47.5,39.0,38.5,39.0,1466.0
+2020,unter 18 J.,kein Migrationshintergrund,,,,,,,,,,,,
+2020,unter 18 J.,direkter Migrationshintergrund,,,,,,,,,,,,
+2020,unter 18 J.,indirekter Migrationshintergrund,,,,,,,,,,,,
+2020,18-29 J.,kein Migrationshintergrund,34.970869068233405,34.73178303814476,35.20995509832205,35.0,39.0,40.0,27.5,47.5,39.0,38.5,39.0,1466.0
 2020,18-29 J.,direkter Migrationshintergrund,35.15762644264505,34.86002781417925,35.45522507111086,35.0,40.0,40.0,27.5,47.5,40.0,40.0,41.0,980.0
-2020,18-29 J.,indirekter Migrationshintergrund,31.7364649623651,31.142205928405183,32.33072399632502,21.26057902562778,38.5,40.0,2.0,68.10913146155832,38.5,38.0,39.5,363.0
-2020,30-45 J.,kein Migrationshintergrund,34.57096321178047,34.42060873041879,34.721317693142154,30.0,38.5,40.0,15.0,55.0,38.5,38.0,38.5,2755.0
-2020,30-45 J.,direkter Migrationshintergrund,34.39126738396772,34.21116744622283,34.571367321712614,30.0,38.5,40.0,15.0,55.0,38.5,37.20000076293945,39.0125,2180.0
-2020,30-45 J.,indirekter Migrationshintergrund,35.89855360738425,35.550424602085926,36.24668261268258,35.0,39.0,40.0,27.5,47.5,39.0,38.0,39.5,378.0
+2020,18-29 J.,indirekter Migrationshintergrund,31.736464962365094,31.142205928405176,32.33072399632501,21.814652734232887,38.5,40.0,2.0,67.27802089865067,38.5,38.0,39.5,363.0
+2020,30-45 J.,kein Migrationshintergrund,34.57096321178047,34.42060873041879,34.721317693142154,30.0,38.5,40.0,15.0,55.0,38.5,38.0,38.5125,2755.0
+2020,30-45 J.,direkter Migrationshintergrund,34.39126738396772,34.21116744622283,34.571367321712614,30.0,38.5,40.0,15.0,55.0,38.5,38.0,39.0,2180.0
+2020,30-45 J.,indirekter Migrationshintergrund,35.89855360738426,35.55042460208593,36.246682612682584,35.0,39.0,40.0,27.5,47.5,39.0,38.0,39.5,378.0
 2020,46-65 J.,kein Migrationshintergrund,33.96591557911607,33.84166892655414,34.090162231678,30.0,38.5,40.0,15.0,55.0,38.5,38.5,38.5,4963.0
-2020,46-65 J.,direkter Migrationshintergrund,33.73139303909538,33.44741266439466,34.0153734137961,30.0,38.5,40.0,15.0,55.0,38.5,38.0,39.0,1178.0
-2020,46-65 J.,indirekter Migrationshintergrund,35.590344584518924,34.947444203011806,36.23324496602604,35.0,38.5,40.0,27.5,47.5,38.5,37.0,39.5,165.0
-2020,66 und älter,kein Migrationshintergrund,14.494040843411012,13.685851536106755,15.30223015071527,8.0,10.0,19.0,1.0,35.5,10.0,8.487499999999997,10.0,162.0
+2020,46-65 J.,direkter Migrationshintergrund,33.73139303909539,33.44741266439467,34.015373413796105,30.0,38.5,40.0,15.0,55.0,38.5,38.0,39.0,1178.0
+2020,46-65 J.,indirekter Migrationshintergrund,35.590344584518924,34.947444203011806,36.23324496602604,35.0,38.5,40.0,27.5,47.5,38.5,37.0,39.0,165.0
+2020,66 und älter,kein Migrationshintergrund,14.49404084341101,13.685851536106753,15.302230150715268,8.0,10.0,19.0,1.0,35.5,10.0,8.0,10.0,162.0
 2020,66 und älter,direkter Migrationshintergrund,,,,,,,,,,,,
 2020,66 und älter,indirekter Migrationshintergrund,,,,,,,,,,,,
-2020,5,kein Migrationshintergrund,,,,,,,,,,,,
-2020,5,direkter Migrationshintergrund,,,,,,,,,,,,
-2020,5,indirekter Migrationshintergrund,,,,,,,,,,,,
-2020,6,kein Migrationshintergrund,,,,,,,,,,,,
-2020,6,direkter Migrationshintergrund,,,,,,,,,,,,
-2020,6,indirekter Migrationshintergrund,,,,,,,,,,,,
-2020,7,kein Migrationshintergrund,,,,,,,,,,,,
-2020,7,direkter Migrationshintergrund,,,,,,,,,,,,
-2020,7,indirekter Migrationshintergrund,,,,,,,,,,,,
-2020,8,kein Migrationshintergrund,,,,,,,,,,,,
-2020,8,direkter Migrationshintergrund,,,,,,,,,,,,
-2020,8,indirekter Migrationshintergrund,,,,,,,,,,,,
-2020,9,kein Migrationshintergrund,,,,,,,,,,,,
-2020,9,direkter Migrationshintergrund,,,,,,,,,,,,
-2020,9,indirekter Migrationshintergrund,,,,,,,,,,,,
-2020,10,kein Migrationshintergrund,,,,,,,,,,,,
-2020,10,direkter Migrationshintergrund,,,,,,,,,,,,
-2020,10,indirekter Migrationshintergrund,,,,,,,,,,,,
-2020,11,kein Migrationshintergrund,,,,,,,,,,,,
-2020,11,direkter Migrationshintergrund,,,,,,,,,,,,
-2020,11,indirekter Migrationshintergrund,,,,,,,,,,,,
-2020,12,kein Migrationshintergrund,,,,,,,,,,,,
-2020,12,direkter Migrationshintergrund,,,,,,,,,,,,
-2020,12,indirekter Migrationshintergrund,,,,,,,,,,,,
-2020,13,kein Migrationshintergrund,,,,,,,,,,,,
-2020,13,direkter Migrationshintergrund,,,,,,,,,,,,
-2020,13,indirekter Migrationshintergrund,,,,,,,,,,,,
-2020,14,kein Migrationshintergrund,,,,,,,,,,,,
-2020,14,direkter Migrationshintergrund,,,,,,,,,,,,
-2020,14,indirekter Migrationshintergrund,,,,,,,,,,,,
-2020,15,kein Migrationshintergrund,,,,,,,,,,,,
-2020,15,direkter Migrationshintergrund,,,,,,,,,,,,
-2020,15,indirekter Migrationshintergrund,,,,,,,,,,,,
-2020,16,kein Migrationshintergrund,,,,,,,,,,,,
-2020,16,direkter Migrationshintergrund,,,,,,,,,,,,
-2020,16,indirekter Migrationshintergrund,,,,,,,,,,,,
-2020,17,kein Migrationshintergrund,,,,,,,,,,,,
-2020,17,direkter Migrationshintergrund,,,,,,,,,,,,
-2020,17,indirekter Migrationshintergrund,,,,,,,,,,,,
 2021,-1,kein Migrationshintergrund,,,,,,,,,,,,
 2021,-1,indirekter Migrationshintergrund,,,,,,,,,,,,
-2021,0,kein Migrationshintergrund,,,,,,,,,,,,
-2021,0,indirekter Migrationshintergrund,,,,,,,,,,,,
-2021,18-29 J.,kein Migrationshintergrund,33.537610601427915,33.21741837683863,33.8578028260172,32.0,39.0,40.0,20.0,49.0,39.0,39.0,39.5,1057.0
-2021,18-29 J.,direkter Migrationshintergrund,32.56824652357167,32.03840912194085,33.098083925202495,30.0,39.54946025548941,40.0,15.0,55.0,39.5,39.0,41.5,473.0
-2021,18-29 J.,indirekter Migrationshintergrund,32.118592384419216,31.40735723698965,32.82982753184878,30.0,38.0,40.0,15.0,45.0,38.0,37.0,41.0,214.0
-2021,30-45 J.,kein Migrationshintergrund,34.515810413890385,34.33446263310352,34.69715819467725,30.0,39.0,40.0,15.0,55.0,39.0,39.0,39.5,1978.0
-2021,30-45 J.,direkter Migrationshintergrund,33.55745140028897,33.30998081747323,33.804921983104705,28.0,39.0,40.0,10.0,58.0,39.0,38.0,40.5,1333.0
+2021,unter 18 J.,kein Migrationshintergrund,,,,,,,,,,,,
+2021,unter 18 J.,direkter Migrationshintergrund,,,,,,,,,,,,
+2021,unter 18 J.,indirekter Migrationshintergrund,,,,,,,,,,,,
+2021,18-29 J.,kein Migrationshintergrund,33.537610601427915,33.21741837683863,33.8578028260172,32.0,39.0,40.0,20.0,49.0,39.0,38.4875,39.5,1057.0
+2021,18-29 J.,direkter Migrationshintergrund,32.56824652357167,32.03840912194085,33.098083925202495,30.0,39.55125257156156,40.0,15.0,55.0,39.5,39.0,41.5,473.0
+2021,18-29 J.,indirekter Migrationshintergrund,32.11859238441921,31.407357236989643,32.82982753184877,30.0,38.0,40.0,15.0,45.0,38.0,37.0,41.0,214.0
+2021,30-45 J.,kein Migrationshintergrund,34.51581041389038,34.33446263310351,34.69715819467724,30.0,39.0,40.0,15.0,55.0,39.0,39.0,39.5,1978.0
+2021,30-45 J.,direkter Migrationshintergrund,33.55745140028896,33.309980817473225,33.8049219831047,28.0,39.0,40.0,10.0,58.0,39.0,38.0,40.5,1333.0
 2021,30-45 J.,indirekter Migrationshintergrund,34.86767649756405,34.32992372712768,35.40542926800042,35.0,39.0,40.0,27.5,47.5,39.0,38.0,40.0,226.0
 2021,46-65 J.,kein Migrationshintergrund,33.999015102229684,33.84820508594333,34.14982511851604,30.0,38.5,40.0,15.0,55.0,38.5,38.5,39.0,3547.0
-2021,46-65 J.,direkter Migrationshintergrund,33.835971596784795,33.5035914511433,34.16835174242629,30.0,38.5,40.0,15.0,55.0,38.5,38.0,39.30499925613403,781.0
-2021,46-65 J.,indirekter Migrationshintergrund,36.06615517012611,35.39996482404601,36.73234551620621,36.066709442721,38.61148726441207,40.0,30.166773606802497,45.8999358359185,38.5,37.0,39.0,131.0
-2021,66 und älter,kein Migrationshintergrund,15.523936931031935,14.668264407551646,16.379609454512224,8.0,10.0,20.0,1.0,38.0,10.0,6.0,10.0,142.0
+2021,46-65 J.,direkter Migrationshintergrund,33.835971596784795,33.5035914511433,34.16835174242629,30.0,38.5,40.0,15.0,55.0,38.5,38.0,39.29999923706055,781.0
+2021,46-65 J.,indirekter Migrationshintergrund,36.06615517012611,35.39996482404601,36.73234551620621,36.066709442721,38.5,40.0,30.166773606802497,45.8999358359185,38.5,37.0,39.0,131.0
+2021,66 und älter,kein Migrationshintergrund,15.523936931031933,14.668264407551645,16.379609454512224,8.0,10.0,20.0,1.0,38.0,10.0,8.0,10.0,142.0
 2021,66 und älter,direkter Migrationshintergrund,,,,,,,,,,,,
 2021,66 und älter,indirekter Migrationshintergrund,,,,,,,,,,,,
-2021,5,kein Migrationshintergrund,,,,,,,,,,,,
-2021,5,direkter Migrationshintergrund,,,,,,,,,,,,
-2021,5,indirekter Migrationshintergrund,,,,,,,,,,,,
-2021,6,kein Migrationshintergrund,,,,,,,,,,,,
-2021,6,direkter Migrationshintergrund,,,,,,,,,,,,
-2021,6,indirekter Migrationshintergrund,,,,,,,,,,,,
-2021,7,kein Migrationshintergrund,,,,,,,,,,,,
-2021,7,direkter Migrationshintergrund,,,,,,,,,,,,
-2021,7,indirekter Migrationshintergrund,,,,,,,,,,,,
-2021,8,kein Migrationshintergrund,,,,,,,,,,,,
-2021,8,direkter Migrationshintergrund,,,,,,,,,,,,
-2021,8,indirekter Migrationshintergrund,,,,,,,,,,,,
-2021,9,kein Migrationshintergrund,,,,,,,,,,,,
-2021,9,direkter Migrationshintergrund,,,,,,,,,,,,
-2021,9,indirekter Migrationshintergrund,,,,,,,,,,,,
-2021,10,kein Migrationshintergrund,,,,,,,,,,,,
-2021,10,direkter Migrationshintergrund,,,,,,,,,,,,
-2021,10,indirekter Migrationshintergrund,,,,,,,,,,,,
-2021,11,kein Migrationshintergrund,,,,,,,,,,,,
-2021,11,direkter Migrationshintergrund,,,,,,,,,,,,
-2021,11,indirekter Migrationshintergrund,,,,,,,,,,,,
-2021,12,kein Migrationshintergrund,,,,,,,,,,,,
-2021,12,direkter Migrationshintergrund,,,,,,,,,,,,
-2021,12,indirekter Migrationshintergrund,,,,,,,,,,,,
-2021,13,kein Migrationshintergrund,,,,,,,,,,,,
-2021,13,direkter Migrationshintergrund,,,,,,,,,,,,
-2021,13,indirekter Migrationshintergrund,,,,,,,,,,,,
-2021,14,kein Migrationshintergrund,,,,,,,,,,,,
-2021,14,direkter Migrationshintergrund,,,,,,,,,,,,
-2021,14,indirekter Migrationshintergrund,,,,,,,,,,,,
-2021,15,kein Migrationshintergrund,,,,,,,,,,,,
-2021,15,direkter Migrationshintergrund,,,,,,,,,,,,
-2021,15,indirekter Migrationshintergrund,,,,,,,,,,,,
-2021,16,kein Migrationshintergrund,,,,,,,,,,,,
-2021,16,direkter Migrationshintergrund,,,,,,,,,,,,
-2021,16,indirekter Migrationshintergrund,,,,,,,,,,,,
-2021,17,kein Migrationshintergrund,,,,,,,,,,,,
-2021,17,direkter Migrationshintergrund,,,,,,,,,,,,
-2021,17,indirekter Migrationshintergrund,,,,,,,,,,,,
