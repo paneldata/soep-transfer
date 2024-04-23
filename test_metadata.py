@@ -57,6 +57,7 @@ def find_missing_entities(labeled_variables, datasets, topics, concepts):
     missing_variables = set()
     missing_datasets = set()
     faulty_variable_concepts = {}
+    non_existent_concepts = {}
 
     with open("./metadata/variables.csv", "r", encoding="utf-8") as file:
         reader = DictReader(file)
@@ -70,6 +71,9 @@ def find_missing_entities(labeled_variables, datasets, topics, concepts):
                         "concept": line["concept"],
                         "topic": concepts[line["concept"]],
                     }
+            if line["concept"] != "" and line["concept"] not in concepts:
+                non_existent_concepts[line[_id]] = line["concept"]
+
             if line["dataset"] not in datasets:
                 missing_datasets.add(line["dataset"])
             if line["type"] in ["categorical", "group"]:
@@ -80,10 +84,17 @@ def find_missing_entities(labeled_variables, datasets, topics, concepts):
                 )
                 if missing_id not in labeled_variables:
                     missing_variables.add(missing_id)
-    return missing_variables, missing_datasets, faulty_variable_concepts
+    return (
+        missing_variables,
+        missing_datasets,
+        faulty_variable_concepts,
+        non_existent_concepts,
+    )
 
 
-def handle_errors(missing_variables, missing_datasets, faulty_variable_concepts):
+def handle_errors(
+    missing_variables, missing_datasets, faulty_variable_concepts, non_existent_concepts
+):
     error = False
 
     if missing_datasets:
@@ -108,12 +119,23 @@ def handle_errors(missing_variables, missing_datasets, faulty_variable_concepts)
             print("=" * 20)
 
     if faulty_variable_concepts:
+        error = True
         print("Faulty link in variable->concept->topic relation")
         print("Missing Links:")
         for variable, link in faulty_variable_concepts.items():
             print(f"Variable: {variable}")
             print(f"Concept: {link['concept']}")
             print(f"Topic: {link['topic']}")
+            print("=" * 20)
+            print("-" * 20)
+            print("=" * 20)
+
+    if non_existent_concepts:
+        error = True
+        print("Variable linked to non existent concept:")
+        for variable, concept in non_existent_concepts.items():
+            print(f"Variable: {variable}")
+            print(f"Concept: {concept}")
             print("=" * 20)
             print("-" * 20)
             print("=" * 20)
@@ -128,10 +150,18 @@ def main():
     labeled_variables = load_variable_variable_categories()
     datasets = load_datasets()
     topics, concepts = load_topics_and_concepts()
-    missing_variables, missing_datasets, faulty_variable_concepts = find_missing_entities(
-        labeled_variables, datasets, topics, concepts
+    (
+        missing_variables,
+        missing_datasets,
+        faulty_variable_concepts,
+        non_existent_concepts,
+    ) = find_missing_entities(labeled_variables, datasets, topics, concepts)
+    handle_errors(
+        missing_variables,
+        missing_datasets,
+        faulty_variable_concepts,
+        non_existent_concepts,
     )
-    handle_errors(missing_variables, missing_datasets, faulty_variable_concepts)
 
 
 if __name__ == "__main__":
