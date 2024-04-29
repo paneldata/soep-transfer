@@ -1,683 +1,569 @@
-year,migback,quintil_oecd,mean,mean_lower_confidence,mean_upper_confidence,lower_quartile,boxplot_median,upper_quartile,lower_whisker,upper_whisker,median,median_lower_confidence,median_upper_confidence,n
-1984,kein Migrationshintergrund,-6,,,,,,,,,,,,
-1984,kein Migrationshintergrund,1. Quintil,1.3915418907686619,1.337515403200884,1.4455683783364397,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,508.0
-1984,kein Migrationshintergrund,2. Quintil,1.3479805539022587,1.283233400430869,1.4127277073736484,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,219.0
-1984,kein Migrationshintergrund,3. Quintil,1.2201451717521623,1.1434058211784262,1.2968845223258985,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,90.0
-1984,kein Migrationshintergrund,4. Quintil,1.3556889307747273,1.254386197501374,1.4569916640480807,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,51.0
+year,migback,quintil_oecd,n,mean,mean_lower_confidence,mean_upper_confidence,lower_quartile,boxplot_median,upper_quartile,lower_whisker,upper_whisker,median,median_lower_confidence,median_upper_confidence
+1984,kein Migrationshintergrund,1. Quintil,508,1.3915418907686619,1.337515403200884,1.4455683783364397,1.0,4.790076959414479,1.0,1.0,1.0,1.0,1.0,1.0
+1984,kein Migrationshintergrund,2. Quintil,219,1.3479805539022591,1.2832334004308694,1.4127277073736488,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+1984,kein Migrationshintergrund,3. Quintil,90,1.2201451717521625,1.1434058211784264,1.2968845223258987,3.4179774585686555,1.3540694568121037,1.0,7.044943646421639,-2.6269661878529833,1.0,1.0,1.0
+1984,kein Migrationshintergrund,4. Quintil,51,1.3556889307747275,1.2543861975013741,1.456991664048081,1.0,1.1199316686581406,1.0,1.0,1.0,1.0,1.0,1.0
 1984,kein Migrationshintergrund,5. Quintil,,,,,,,,,,,,
-1984,direkter Migrationshintergrund,-6,,,,,,,,,,,,
-1984,direkter Migrationshintergrund,1. Quintil,1.2270670713227305,1.1919898898970454,1.2621442527484157,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,290.0
-1984,direkter Migrationshintergrund,2. Quintil,1.0924177654053258,1.0583691591388042,1.1264663716718473,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,70.0
+1984,direkter Migrationshintergrund,1. Quintil,290,1.2270670713227307,1.1919898898970456,1.262144252748416,1.463287565764142,2.6223448522301576,1.0,4.0,0.305068651353787,1.0,1.0,1.0
+1984,direkter Migrationshintergrund,2. Quintil,70,1.0924177654053258,1.0583691591388042,1.1264663716718473,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
 1984,direkter Migrationshintergrund,3. Quintil,,,,,,,,,,,,
 1984,direkter Migrationshintergrund,4. Quintil,,,,,,,,,,,,
 1984,direkter Migrationshintergrund,5. Quintil,,,,,,,,,,,,
-1984,indirekter Migrationshintergrund,-6,,,,,,,,,,,,
 1984,indirekter Migrationshintergrund,1. Quintil,,,,,,,,,,,,
 1984,indirekter Migrationshintergrund,2. Quintil,,,,,,,,,,,,
 1984,indirekter Migrationshintergrund,3. Quintil,,,,,,,,,,,,
 1984,indirekter Migrationshintergrund,4. Quintil,,,,,,,,,,,,
-1985,kein Migrationshintergrund,-6,,,,,,,,,,,,
-1985,kein Migrationshintergrund,1. Quintil,1.515707642048437,1.4386163275985437,1.5927989564983303,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,464.0
-1985,kein Migrationshintergrund,2. Quintil,1.3579519715626203,1.2680788742363702,1.4478250688888703,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,202.0
-1985,kein Migrationshintergrund,3. Quintil,1.4243629150074888,1.2887703772781873,1.5599554527367903,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,100.0
-1985,kein Migrationshintergrund,4. Quintil,1.2743580017051421,1.1788671355738713,1.369848867836413,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,39.0
+1985,kein Migrationshintergrund,1. Quintil,464,1.515707642048437,1.4386163275985437,1.5927989564983303,1.0,1.0,1.0,3.0,1.0,1.0,1.0,1.0
+1985,kein Migrationshintergrund,2. Quintil,202,1.3579519715626203,1.2680788742363702,1.4478250688888703,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+1985,kein Migrationshintergrund,3. Quintil,100,1.4243629150074895,1.288770377278188,1.559955452736791,1.0,1.0,1.090943940437121,12.0,1.2273598510928028,1.0,1.0,1.0
+1985,kein Migrationshintergrund,4. Quintil,39,1.274358001705142,1.1788671355738711,1.3698488678364127,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
 1985,kein Migrationshintergrund,5. Quintil,,,,,,,,,,,,
-1985,direkter Migrationshintergrund,-6,,,,,,,,,,,,
-1985,direkter Migrationshintergrund,1. Quintil,1.4628856148217788,1.3641267562299682,1.5616444734135895,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,241.0
-1985,direkter Migrationshintergrund,2. Quintil,1.6517659502679554,1.3547430803808624,1.9487888201550483,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,59.0
+1985,direkter Migrationshintergrund,1. Quintil,241,1.4628856148217788,1.3641267562299682,1.5616444734135895,1.0,1.4794805217628157,1.0,1.0,1.0,1.0,1.0,1.0
+1985,direkter Migrationshintergrund,2. Quintil,59,1.651765950267955,1.3547430803808622,1.9487888201550476,2.903393304872269,1.0,4.984745224660459,1.0,1.0,1.0,1.0,1.0
 1985,direkter Migrationshintergrund,3. Quintil,,,,,,,,,,,,
 1985,direkter Migrationshintergrund,4. Quintil,,,,,,,,,,,,
 1985,direkter Migrationshintergrund,5. Quintil,,,,,,,,,,,,
-1985,indirekter Migrationshintergrund,-6,,,,,,,,,,,,
 1985,indirekter Migrationshintergrund,1. Quintil,,,,,,,,,,,,
 1985,indirekter Migrationshintergrund,2. Quintil,,,,,,,,,,,,
 1985,indirekter Migrationshintergrund,3. Quintil,,,,,,,,,,,,
 1985,indirekter Migrationshintergrund,4. Quintil,,,,,,,,,,,,
-1986,kein Migrationshintergrund,-6,,,,,,,,,,,,
-1986,kein Migrationshintergrund,1. Quintil,1.7340578659569554,1.5507736463878397,1.9173420855260712,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,401.0
-1986,kein Migrationshintergrund,2. Quintil,1.3488643384786096,1.28477203264376,1.4129566443134594,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,223.0
-1986,kein Migrationshintergrund,3. Quintil,1.415570062016389,1.27213488542945,1.5590052386033277,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,112.0
-1986,kein Migrationshintergrund,4. Quintil,1.2842152502979265,1.2018396675967693,1.3665908329990837,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,46.0
+1986,kein Migrationshintergrund,1. Quintil,401,1.7340578659569557,1.5507736463878399,1.9173420855260714,1.0,1.0752941347417178,1.5320555361948742,1.0,1.0,1.0,1.0,1.0
+1986,kein Migrationshintergrund,2. Quintil,223,1.3488643384786096,1.28477203264376,1.4129566443134594,1.9588607222948484,1.0,1.8725117213083948,2.0883842237745287,1.0,1.0,1.0,1.0
+1986,kein Migrationshintergrund,3. Quintil,112,1.415570062016389,1.27213488542945,1.5590052386033277,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+1986,kein Migrationshintergrund,4. Quintil,46,1.2842152502979267,1.2018396675967695,1.366590832999084,1.0,1.7009154526915347,1.0,1.0,1.0,1.0,1.0,1.0
 1986,kein Migrationshintergrund,5. Quintil,,,,,,,,,,,,
-1986,direkter Migrationshintergrund,-6,,,,,,,,,,,,
-1986,direkter Migrationshintergrund,1. Quintil,2.302806429455155,1.9076355127411888,2.697977346169121,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,247.0
-1986,direkter Migrationshintergrund,2. Quintil,1.395987039193734,1.294906186116544,1.4970678922709237,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,82.0
+1986,direkter Migrationshintergrund,1. Quintil,247,2.302806429455155,1.9076355127411888,2.697977346169121,1.0,1.0,1.3725843353749183,1.0,1.0,1.0,1.0,1.0
+1986,direkter Migrationshintergrund,2. Quintil,82,1.3959870391937343,1.2949061861165445,1.4970678922709242,1.0,3.5627023950690493,3.26366275101053,1.0,1.0,1.0,1.0,1.0
 1986,direkter Migrationshintergrund,3. Quintil,,,,,,,,,,,,
 1986,direkter Migrationshintergrund,4. Quintil,,,,,,,,,,,,
 1986,direkter Migrationshintergrund,5. Quintil,,,,,,,,,,,,
-1986,indirekter Migrationshintergrund,-6,,,,,,,,,,,,
 1986,indirekter Migrationshintergrund,1. Quintil,,,,,,,,,,,,
 1986,indirekter Migrationshintergrund,2. Quintil,,,,,,,,,,,,
 1986,indirekter Migrationshintergrund,3. Quintil,,,,,,,,,,,,
 1986,indirekter Migrationshintergrund,4. Quintil,,,,,,,,,,,,
 1986,indirekter Migrationshintergrund,5. Quintil,,,,,,,,,,,,
-1987,kein Migrationshintergrund,-6,,,,,,,,,,,,
-1987,kein Migrationshintergrund,1. Quintil,1.4793731319787118,1.394127388302719,1.5646188756547046,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,418.0
-1987,kein Migrationshintergrund,2. Quintil,1.6368805083289275,1.4315007270133029,1.8422602896445521,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,195.0
-1987,kein Migrationshintergrund,3. Quintil,1.5386901600234255,1.3959849796168629,1.6813953404299882,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,130.0
-1987,kein Migrationshintergrund,4. Quintil,1.8993022342341312,1.3935517365741912,2.405052731894071,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,58.0
+1987,kein Migrationshintergrund,1. Quintil,418,1.4793731319787118,1.394127388302719,1.5646188756547046,1.8470134324567136,1.9464263018182677,1.0,3.117533581141784,-0.27052014868507035,1.0,1.0,1.0
+1987,kein Migrationshintergrund,2. Quintil,195,1.6368805083289275,1.4315007270133029,1.8422602896445521,1.0,1.0,2.362886607418195,1.0,1.0,1.0,1.0,1.0
+1987,kein Migrationshintergrund,3. Quintil,130,1.5386901600234255,1.3959849796168629,1.6813953404299882,1.4017385401300881,1.0,3.349899092014402,1.0,2.0,1.0,1.0,1.0
+1987,kein Migrationshintergrund,4. Quintil,58,1.899302234234131,1.393551736574191,2.405052731894071,1.4110919578703078,1.2860459827304047,1.0,2.02772989467577,0.38336206319453825,1.0,1.0,1.0
 1987,kein Migrationshintergrund,5. Quintil,,,,,,,,,,,,
-1987,direkter Migrationshintergrund,-6,,,,,,,,,,,,
-1987,direkter Migrationshintergrund,1. Quintil,1.567499569697248,1.4470883709971003,1.6879107683973957,1.0,1.0,2.0,1.0,3.5,1.0,1.0,1.0,190.0
-1987,direkter Migrationshintergrund,2. Quintil,1.329321513914046,1.210084516763325,1.448558511064767,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,69.0
+1987,direkter Migrationshintergrund,1. Quintil,190,1.567499569697248,1.4470883709971003,1.6879107683973957,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+1987,direkter Migrationshintergrund,2. Quintil,69,1.329321513914046,1.210084516763325,1.448558511064767,2.0,1.0,1.0,3.5,-0.5,1.0,1.0,1.0
 1987,direkter Migrationshintergrund,3. Quintil,,,,,,,,,,,,
 1987,direkter Migrationshintergrund,4. Quintil,,,,,,,,,,,,
 1987,direkter Migrationshintergrund,5. Quintil,,,,,,,,,,,,
-1987,indirekter Migrationshintergrund,-6,,,,,,,,,,,,
 1987,indirekter Migrationshintergrund,1. Quintil,,,,,,,,,,,,
 1987,indirekter Migrationshintergrund,2. Quintil,,,,,,,,,,,,
 1987,indirekter Migrationshintergrund,3. Quintil,,,,,,,,,,,,
 1987,indirekter Migrationshintergrund,4. Quintil,,,,,,,,,,,,
 1987,indirekter Migrationshintergrund,5. Quintil,,,,,,,,,,,,
-1988,kein Migrationshintergrund,-6,,,,,,,,,,,,
-1988,kein Migrationshintergrund,1. Quintil,1.684374843610481,1.5378579564756891,1.830891730745273,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,346.0
-1988,kein Migrationshintergrund,2. Quintil,1.505804758005147,1.3455977886680361,1.6660117273422579,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,231.0
-1988,kein Migrationshintergrund,3. Quintil,1.3730296151708705,1.2606415495743422,1.4854176807673989,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,119.0
-1988,kein Migrationshintergrund,4. Quintil,1.54845427490083,1.3708226617603139,1.7260858880413463,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,75.0
-1988,kein Migrationshintergrund,5. Quintil,1.491719998432728,1.2383433466661746,1.7450966501992815,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,31.0
-1988,direkter Migrationshintergrund,-6,,,,,,,,,,,,
-1988,direkter Migrationshintergrund,1. Quintil,1.6624436788526487,1.5022771939019812,1.822610163803316,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,173.0
-1988,direkter Migrationshintergrund,2. Quintil,1.695350260886811,1.475083479116709,1.915617042656913,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,70.0
-1988,direkter Migrationshintergrund,3. Quintil,1.1861621208401651,1.116521533297772,1.2558027083825583,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,31.0
+1988,kein Migrationshintergrund,1. Quintil,346,1.6843748436104813,1.5378579564756893,1.8308917307452732,1.0,1.0,1.0,4.0,1.0,1.0,1.0,1.0
+1988,kein Migrationshintergrund,2. Quintil,231,1.5058047580051475,1.3455977886680366,1.6660117273422583,1.0,1.8892640725116958,1.5614861024125055,1.0,1.0,1.0,1.0,1.0
+1988,kein Migrationshintergrund,3. Quintil,119,1.3730296151708705,1.2606415495743422,1.4854176807673989,1.0333093246465557,1.0,1.0,1.0832733116163893,0.9500360130301665,1.0,1.0,1.0
+1988,kein Migrationshintergrund,4. Quintil,75,1.54845427490083,1.3708226617603139,1.7260858880413463,1.8326960822438614,1.0,1.7667442941743143,2.0,1.0,1.0,1.0,1.0
+1988,kein Migrationshintergrund,5. Quintil,31,1.491719998432728,1.2383433466661746,1.7450966501992815,1.0,1.0,1.933455733674113,1.0,3.0,1.0,1.0,1.0
+1988,direkter Migrationshintergrund,1. Quintil,173,1.6624436788526487,1.5022771939019812,1.822610163803316,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+1988,direkter Migrationshintergrund,2. Quintil,70,1.6953502608868112,1.4750834791167091,1.9156170426569132,1.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0
+1988,direkter Migrationshintergrund,3. Quintil,31,1.1861621208401651,1.116521533297772,1.2558027083825583,1.0,1.3199354104965697,1.6310808381495885,1.0,1.0,1.0,1.0,1.0
 1988,direkter Migrationshintergrund,4. Quintil,,,,,,,,,,,,
 1988,direkter Migrationshintergrund,5. Quintil,,,,,,,,,,,,
-1988,indirekter Migrationshintergrund,-6,,,,,,,,,,,,
 1988,indirekter Migrationshintergrund,1. Quintil,,,,,,,,,,,,
 1988,indirekter Migrationshintergrund,2. Quintil,,,,,,,,,,,,
 1988,indirekter Migrationshintergrund,3. Quintil,,,,,,,,,,,,
 1988,indirekter Migrationshintergrund,4. Quintil,,,,,,,,,,,,
 1988,indirekter Migrationshintergrund,5. Quintil,,,,,,,,,,,,
-1989,kein Migrationshintergrund,-6,,,,,,,,,,,,
-1989,kein Migrationshintergrund,1. Quintil,1.4695236621809706,1.3665302736171152,1.572517050744826,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,293.0
-1989,kein Migrationshintergrund,2. Quintil,1.4357152317454536,1.2924441542510108,1.5789863092398964,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,244.0
-1989,kein Migrationshintergrund,3. Quintil,2.1269177413809985,1.600562675541365,2.653272807220632,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,131.0
-1989,kein Migrationshintergrund,4. Quintil,2.136294536923931,1.666833670802613,2.605755403045249,1.0,1.0,2.0,1.0,3.5,1.0,1.0,1.0,54.0
+1989,kein Migrationshintergrund,1. Quintil,293,1.469523662180971,1.3665302736171157,1.5725170507448265,1.9884547174447902,5.685191796788854,1.0,3.4711367936119757,-0.4826820761671853,1.0,1.0,1.0
+1989,kein Migrationshintergrund,2. Quintil,244,1.4357152317454533,1.2924441542510106,1.5789863092398961,1.0,1.6400837138814741,1.0,1.0,1.0,1.0,1.0,1.0
+1989,kein Migrationshintergrund,3. Quintil,131,2.1269177413809985,1.600562675541365,2.653272807220632,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+1989,kein Migrationshintergrund,4. Quintil,54,2.1362945369239315,1.6668336708026135,2.6057554030452494,1.0,2.0,2.6846061161762984,1.0,2.0,1.0,1.0,1.0
 1989,kein Migrationshintergrund,5. Quintil,,,,,,,,,,,,
-1989,direkter Migrationshintergrund,-6,,,,,,,,,,,,
-1989,direkter Migrationshintergrund,1. Quintil,1.5680535365259758,1.4143082757910734,1.7217987972608781,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,152.0
-1989,direkter Migrationshintergrund,2. Quintil,1.8677589698274166,1.5797478823360307,2.1557700573188026,1.0,1.0,2.0,1.0,3.5,1.0,1.0,1.0,81.0
-1989,direkter Migrationshintergrund,3. Quintil,1.1388014609468426,1.0798096920060327,1.1977932298876526,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,31.0
+1989,direkter Migrationshintergrund,1. Quintil,152,1.5680535365259758,1.4143082757910734,1.7217987972608781,1.6055700668497224,1.0,1.5065879460054359,3.0,1.0,1.0,1.0,1.0
+1989,direkter Migrationshintergrund,2. Quintil,81,1.8677589698274166,1.5797478823360307,2.1557700573188026,5.023602263904836,1.0,1.0,11.05900565976209,-5.035403395857254,1.0,1.0,1.0
+1989,direkter Migrationshintergrund,3. Quintil,31,1.1388014609468426,1.0798096920060327,1.1977932298876526,1.0,1.0,1.2585158370504992,1.0,1.0,1.0,1.0,1.0
 1989,direkter Migrationshintergrund,4. Quintil,,,,,,,,,,,,
 1989,direkter Migrationshintergrund,5. Quintil,,,,,,,,,,,,
-1989,indirekter Migrationshintergrund,-6,,,,,,,,,,,,
 1989,indirekter Migrationshintergrund,1. Quintil,,,,,,,,,,,,
 1989,indirekter Migrationshintergrund,2. Quintil,,,,,,,,,,,,
 1989,indirekter Migrationshintergrund,3. Quintil,,,,,,,,,,,,
 1989,indirekter Migrationshintergrund,4. Quintil,,,,,,,,,,,,
 1989,indirekter Migrationshintergrund,5. Quintil,,,,,,,,,,,,
-1990,kein Migrationshintergrund,-6,,,,,,,,,,,,
 1990,kein Migrationshintergrund,1. Quintil,,,,,,,,,,,,
 1990,kein Migrationshintergrund,2. Quintil,,,,,,,,,,,,
 1990,kein Migrationshintergrund,3. Quintil,,,,,,,,,,,,
 1990,kein Migrationshintergrund,4. Quintil,,,,,,,,,,,,
 1990,kein Migrationshintergrund,5. Quintil,,,,,,,,,,,,
-1990,direkter Migrationshintergrund,-6,,,,,,,,,,,,
 1990,direkter Migrationshintergrund,1. Quintil,,,,,,,,,,,,
 1990,direkter Migrationshintergrund,2. Quintil,,,,,,,,,,,,
 1990,direkter Migrationshintergrund,3. Quintil,,,,,,,,,,,,
 1990,direkter Migrationshintergrund,4. Quintil,,,,,,,,,,,,
 1990,direkter Migrationshintergrund,5. Quintil,,,,,,,,,,,,
-1990,indirekter Migrationshintergrund,-6,,,,,,,,,,,,
 1990,indirekter Migrationshintergrund,1. Quintil,,,,,,,,,,,,
 1990,indirekter Migrationshintergrund,2. Quintil,,,,,,,,,,,,
 1990,indirekter Migrationshintergrund,3. Quintil,,,,,,,,,,,,
 1990,indirekter Migrationshintergrund,4. Quintil,,,,,,,,,,,,
 1990,indirekter Migrationshintergrund,5. Quintil,,,,,,,,,,,,
-1991,kein Migrationshintergrund,-6,,,,,,,,,,,,
-1991,kein Migrationshintergrund,1. Quintil,1.4892671821127945,1.407742287902795,1.570792076322794,1.0,1.0,1.0504600953278322,1.0,1.1261502383195805,1.0,1.0,1.0,261.0
-1991,kein Migrationshintergrund,2. Quintil,1.5725883744182212,1.400884122089741,1.7442926267467014,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,211.0
-1991,kein Migrationshintergrund,3. Quintil,1.7994937502608037,1.5906365973162442,2.0083509032053635,1.0,1.0,2.0,1.0,3.5,1.0,1.0,1.0,168.0
-1991,kein Migrationshintergrund,4. Quintil,1.7521419540910446,1.5002928035222056,2.0039911046598835,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,101.0
-1991,kein Migrationshintergrund,5. Quintil,1.5158950183454292,1.314025827411327,1.7177642092795313,1.0,1.0,1.1680609067737242,1.0,1.4201522669343105,1.0,1.0,1.0,49.0
-1991,direkter Migrationshintergrund,-6,,,,,,,,,,,,
-1991,direkter Migrationshintergrund,1. Quintil,1.7455263603867874,1.617927044361959,1.8731256764116158,1.0,1.0,2.0,1.0,3.5,1.0,1.0,1.0,129.0
-1991,direkter Migrationshintergrund,2. Quintil,1.1716754748608522,1.1297462760426065,1.213604673679098,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,73.0
-1991,direkter Migrationshintergrund,3. Quintil,1.0563082522953342,1.01980988330611,1.0928066212845584,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,36.0
+1991,kein Migrationshintergrund,1. Quintil,261,1.4892671821127947,1.4077422879027952,1.5707920763227943,3.9721674512061975,1.632093534415269,1.0,8.430418628015495,-3.4582511768092967,1.0,1.0,1.0
+1991,kein Migrationshintergrund,2. Quintil,211,1.5725883744182214,1.400884122089741,1.7442926267467018,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+1991,kein Migrationshintergrund,3. Quintil,168,1.799493750260804,1.5906365973162444,2.0083509032053635,1.0,6.365117968297325,1.0,1.0,1.0,1.0,1.0,1.0
+1991,kein Migrationshintergrund,4. Quintil,101,1.7521419540910437,1.5002928035222047,2.0039911046598826,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+1991,kein Migrationshintergrund,5. Quintil,49,1.5158950183454292,1.314025827411327,1.7177642092795313,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+1991,direkter Migrationshintergrund,1. Quintil,129,1.7455263603867874,1.617927044361959,1.8731256764116158,4.272740181671873,1.0,1.7992485814226824,7.982977582045659,-1.9109888189511035,1.0,1.0,1.0
+1991,direkter Migrationshintergrund,2. Quintil,73,1.171675474860852,1.1297462760426062,1.2136046736790977,1.0,1.6980927027457682,1.3680797781394587,1.0,1.0,1.0,1.0,1.0
+1991,direkter Migrationshintergrund,3. Quintil,36,1.0563082522953342,1.01980988330611,1.0928066212845584,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
 1991,direkter Migrationshintergrund,4. Quintil,,,,,,,,,,,,
 1991,direkter Migrationshintergrund,5. Quintil,,,,,,,,,,,,
-1991,indirekter Migrationshintergrund,-6,,,,,,,,,,,,
 1991,indirekter Migrationshintergrund,1. Quintil,,,,,,,,,,,,
 1991,indirekter Migrationshintergrund,2. Quintil,,,,,,,,,,,,
 1991,indirekter Migrationshintergrund,3. Quintil,,,,,,,,,,,,
 1991,indirekter Migrationshintergrund,4. Quintil,,,,,,,,,,,,
 1991,indirekter Migrationshintergrund,5. Quintil,,,,,,,,,,,,
-1992,kein Migrationshintergrund,-6,,,,,,,,,,,,
-1992,kein Migrationshintergrund,1. Quintil,1.5720295599827363,1.4709775000880867,1.673081619877386,1.0,1.0,2.0,1.0,3.5,1.0,1.0,1.0,409.0
-1992,kein Migrationshintergrund,2. Quintil,1.472473644562675,1.399099032454704,1.545848256670646,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,276.0
-1992,kein Migrationshintergrund,3. Quintil,1.3693068206480703,1.301679045789409,1.4369345955067316,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,181.0
-1992,kein Migrationshintergrund,4. Quintil,1.526571434199196,1.3135934149099182,1.739549453488474,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,141.0
-1992,kein Migrationshintergrund,5. Quintil,1.502082902704963,1.1425283073116939,1.861637498098232,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,55.0
-1992,direkter Migrationshintergrund,-6,,,,,,,,,,,,
-1992,direkter Migrationshintergrund,1. Quintil,1.706705701792532,1.535060820142034,1.87835058344303,1.0,1.0,2.0,1.0,3.5,1.0,1.0,1.0,97.0
-1992,direkter Migrationshintergrund,2. Quintil,1.1764399659937395,1.1348344188137662,1.2180455131737127,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,83.0
-1992,direkter Migrationshintergrund,3. Quintil,1.1585182687405164,1.0826077671561565,1.2344287703248764,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,52.0
+1992,kein Migrationshintergrund,1. Quintil,409,1.5720295599827365,1.470977500088087,1.6730816198773861,1.0,1.0,6.1133442470758625,1.0,2.0,1.0,1.0,1.0
+1992,kein Migrationshintergrund,2. Quintil,276,1.472473644562675,1.399099032454704,1.545848256670646,1.5090742374491877,1.0,2.545845837676202,1.0,1.0,1.0,1.0,1.0
+1992,kein Migrationshintergrund,3. Quintil,181,1.3693068206480703,1.301679045789409,1.4369345955067316,1.0,1.0,1.3579238193024676,1.0,1.0,1.0,1.0,1.0
+1992,kein Migrationshintergrund,4. Quintil,141,1.526571434199196,1.3135934149099182,1.739549453488474,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+1992,kein Migrationshintergrund,5. Quintil,55,1.5020829027049631,1.142528307311694,1.8616374980982322,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+1992,direkter Migrationshintergrund,1. Quintil,97,1.7067057017925322,1.5350608201420342,1.8783505834430303,1.0,1.0,1.675991946949327,1.0,1.0,1.0,1.0,1.0
+1992,direkter Migrationshintergrund,2. Quintil,83,1.1764399659937395,1.1348344188137662,1.2180455131737127,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+1992,direkter Migrationshintergrund,3. Quintil,52,1.158518268740516,1.082607767156156,1.234428770324876,3.988618543743835,1.0,1.0,8.471546359359587,-3.482927815615753,1.0,1.0,1.0
 1992,direkter Migrationshintergrund,4. Quintil,,,,,,,,,,,,
 1992,direkter Migrationshintergrund,5. Quintil,,,,,,,,,,,,
-1992,indirekter Migrationshintergrund,-6,,,,,,,,,,,,
 1992,indirekter Migrationshintergrund,1. Quintil,,,,,,,,,,,,
 1992,indirekter Migrationshintergrund,2. Quintil,,,,,,,,,,,,
 1992,indirekter Migrationshintergrund,3. Quintil,,,,,,,,,,,,
 1992,indirekter Migrationshintergrund,4. Quintil,,,,,,,,,,,,
 1992,indirekter Migrationshintergrund,5. Quintil,,,,,,,,,,,,
-1993,kein Migrationshintergrund,-6,,,,,,,,,,,,
 1993,kein Migrationshintergrund,1. Quintil,,,,,,,,,,,,
 1993,kein Migrationshintergrund,2. Quintil,,,,,,,,,,,,
 1993,kein Migrationshintergrund,3. Quintil,,,,,,,,,,,,
 1993,kein Migrationshintergrund,4. Quintil,,,,,,,,,,,,
 1993,kein Migrationshintergrund,5. Quintil,,,,,,,,,,,,
-1993,direkter Migrationshintergrund,-6,,,,,,,,,,,,
 1993,direkter Migrationshintergrund,1. Quintil,,,,,,,,,,,,
 1993,direkter Migrationshintergrund,2. Quintil,,,,,,,,,,,,
 1993,direkter Migrationshintergrund,3. Quintil,,,,,,,,,,,,
 1993,direkter Migrationshintergrund,4. Quintil,,,,,,,,,,,,
 1993,direkter Migrationshintergrund,5. Quintil,,,,,,,,,,,,
-1993,indirekter Migrationshintergrund,-6,,,,,,,,,,,,
 1993,indirekter Migrationshintergrund,1. Quintil,,,,,,,,,,,,
 1993,indirekter Migrationshintergrund,2. Quintil,,,,,,,,,,,,
 1993,indirekter Migrationshintergrund,3. Quintil,,,,,,,,,,,,
 1993,indirekter Migrationshintergrund,4. Quintil,,,,,,,,,,,,
 1993,indirekter Migrationshintergrund,5. Quintil,,,,,,,,,,,,
-1994,kein Migrationshintergrund,-6,,,,,,,,,,,,
-1994,kein Migrationshintergrund,1. Quintil,1.4373798075076099,1.3765819409123843,1.4981776741028354,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,295.0
-1994,kein Migrationshintergrund,2. Quintil,1.6682960177254316,1.5002153759933585,1.8363766594575046,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,300.0
-1994,kein Migrationshintergrund,3. Quintil,1.4125974082537276,1.3221303816565981,1.503064434850857,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,242.0
-1994,kein Migrationshintergrund,4. Quintil,1.342822704851633,1.2440841839469663,1.4415612257562997,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,177.0
-1994,kein Migrationshintergrund,5. Quintil,1.5976975084876053,1.431225236457034,1.7641697805181766,1.0,1.0,1.8306353427467354,1.0,3.0765883568668384,1.0,1.0,1.0,85.0
-1994,direkter Migrationshintergrund,-6,,,,,,,,,,,,
-1994,direkter Migrationshintergrund,1. Quintil,1.2194080863887329,1.173491536908199,1.2653246358692667,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,94.0
-1994,direkter Migrationshintergrund,2. Quintil,1.4065122545413593,1.3099299769606756,1.503094532122043,1.0,1.0,1.9515811569109753,1.0,3.3789528922774386,1.0,1.0,1.0,64.0
-1994,direkter Migrationshintergrund,3. Quintil,1.443472615175412,1.1447009106998818,1.7422443196509423,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,48.0
+1994,kein Migrationshintergrund,1. Quintil,295,1.4373798075076099,1.3765819409123843,1.4981776741028354,1.0,1.7494742520641708,1.0,1.0,1.0,1.0,1.0,1.0
+1994,kein Migrationshintergrund,2. Quintil,300,1.6682960177254311,1.500215375993358,1.8363766594575042,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+1994,kein Migrationshintergrund,3. Quintil,242,1.4125974082537276,1.3221303816565981,1.503064434850857,1.6083307582142372,1.0,1.0,3.0,0.08750386267864418,1.0,1.0,1.0
+1994,kein Migrationshintergrund,4. Quintil,177,1.3428227048516328,1.244084183946966,1.4415612257562995,1.0,1.0,1.7208865499977315,1.0,1.0,1.0,1.0,1.0
+1994,kein Migrationshintergrund,5. Quintil,85,1.597697508487605,1.431225236457034,1.7641697805181762,1.0,1.8539619286936933,1.0,1.0,1.0,1.0,1.0,1.0
+1994,direkter Migrationshintergrund,1. Quintil,94,1.219408086388733,1.1734915369081993,1.265324635869267,1.313452780110443,1.0,1.0,1.7836319502761073,0.5298208298343355,1.0,1.0,1.0
+1994,direkter Migrationshintergrund,2. Quintil,64,1.406512254541359,1.3099299769606754,1.5030945321220428,1.0,1.0,1.0207411036293146,1.0,1.0,1.0,1.0,1.0
+1994,direkter Migrationshintergrund,3. Quintil,48,1.443472615175412,1.1447009106998818,1.7422443196509423,8.326516285299649,1.7314024703687856,1.0,19.316290713249124,-9.989774427949474,1.0,1.0,1.0
 1994,direkter Migrationshintergrund,4. Quintil,,,,,,,,,,,,
 1994,direkter Migrationshintergrund,5. Quintil,,,,,,,,,,,,
-1994,indirekter Migrationshintergrund,-6,,,,,,,,,,,,
 1994,indirekter Migrationshintergrund,1. Quintil,,,,,,,,,,,,
 1994,indirekter Migrationshintergrund,2. Quintil,,,,,,,,,,,,
 1994,indirekter Migrationshintergrund,3. Quintil,,,,,,,,,,,,
 1994,indirekter Migrationshintergrund,4. Quintil,,,,,,,,,,,,
 1994,indirekter Migrationshintergrund,5. Quintil,,,,,,,,,,,,
-1995,kein Migrationshintergrund,-6,,,,,,,,,,,,
-1995,kein Migrationshintergrund,1. Quintil,1.4618687062735645,1.4110996211477531,1.5126377913993758,1.0,1.0,2.0,0.0,3.5,1.0,1.0,1.0,303.0
-1995,kein Migrationshintergrund,2. Quintil,1.667611683560272,1.5549889371390244,1.7802344299815194,1.0,1.0,2.0,0.0,3.5,1.0,1.0,1.0,307.0
-1995,kein Migrationshintergrund,3. Quintil,1.4729749239307808,1.3623705294172352,1.5835793184443263,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,255.0
-1995,kein Migrationshintergrund,4. Quintil,1.3232129864581503,1.2568985234071492,1.3895274495091514,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,160.0
-1995,kein Migrationshintergrund,5. Quintil,1.3857035541986786,1.2790740188854324,1.492333089511925,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,83.0
-1995,direkter Migrationshintergrund,-6,,,,,,,,,,,,
-1995,direkter Migrationshintergrund,1. Quintil,1.8034344099471658,1.5372437770055825,2.0696250428887493,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,109.0
-1995,direkter Migrationshintergrund,2. Quintil,1.6106572811498436,1.4747526357465433,1.746561926553144,1.0,1.0,2.0,1.0,3.5,1.0,1.0,1.0,93.0
-1995,direkter Migrationshintergrund,3. Quintil,1.6026014311550096,1.438697136700094,1.7665057256099252,1.0,1.0,1.9575442613288527,1.0,3.3938606533221316,1.0,1.0,1.0,59.0
-1995,direkter Migrationshintergrund,4. Quintil,1.0586451953142482,1.018555232937809,1.0987351576906874,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,31.0
+1995,kein Migrationshintergrund,1. Quintil,303,1.4618687062735645,1.4110996211477531,1.5126377913993758,1.0,1.8311886524648417,1.0,1.0,1.0,1.0,1.0,1.0
+1995,kein Migrationshintergrund,2. Quintil,307,1.6676116835602717,1.5549889371390242,1.7802344299815192,1.0385221979296508,1.765062139223723,1.0,2.0,0.9422167031055237,1.0,1.0,1.0
+1995,kein Migrationshintergrund,3. Quintil,255,1.4729749239307808,1.3623705294172352,1.5835793184443263,1.0,1.6005947831723706,1.0,1.0,1.0,1.0,1.0,1.0
+1995,kein Migrationshintergrund,4. Quintil,160,1.32321298645815,1.256898523407149,1.3895274495091512,1.0,1.611245194510969,1.0,1.0,1.0,1.0,1.0,1.0
+1995,kein Migrationshintergrund,5. Quintil,83,1.3857035541986784,1.2790740188854324,1.4923330895119244,1.099857123641638,1.0,1.5403953667197703,1.0,1.0,1.0,1.0,1.0
+1995,direkter Migrationshintergrund,1. Quintil,109,1.803434409947166,1.5372437770055827,2.0696250428887493,1.0,1.0,1.0,2.0,1.0,1.0,1.0,1.0
+1995,direkter Migrationshintergrund,2. Quintil,93,1.6106572811498432,1.4747526357465428,1.7465619265531436,2.0,1.0,1.0,3.5,-0.5,1.0,1.0,1.0
+1995,direkter Migrationshintergrund,3. Quintil,59,1.6026014311550094,1.4386971367000938,1.766505725609925,3.014121864428347,1.0,1.5642744063324552,5.188893051572185,-0.6104967808113824,1.0,1.0,1.0
+1995,direkter Migrationshintergrund,4. Quintil,31,1.0586451953142484,1.0185552329378091,1.0987351576906876,1.0,1.0,1.0,2.0,1.0,1.0,1.0,1.0
 1995,direkter Migrationshintergrund,5. Quintil,,,,,,,,,,,,
-1995,indirekter Migrationshintergrund,-6,,,,,,,,,,,,
 1995,indirekter Migrationshintergrund,1. Quintil,,,,,,,,,,,,
 1995,indirekter Migrationshintergrund,2. Quintil,,,,,,,,,,,,
 1995,indirekter Migrationshintergrund,3. Quintil,,,,,,,,,,,,
 1995,indirekter Migrationshintergrund,4. Quintil,,,,,,,,,,,,
 1995,indirekter Migrationshintergrund,5. Quintil,,,,,,,,,,,,
-1996,kein Migrationshintergrund,-6,,,,,,,,,,,,
-1996,kein Migrationshintergrund,1. Quintil,1.8338083982503106,1.6624161048918515,2.0052006916087697,1.0,1.0,2.0,1.0,3.5,1.0,1.0,1.0,276.0
-1996,kein Migrationshintergrund,2. Quintil,1.6415950484631556,1.5230816878427966,1.7601084090835146,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,309.0
-1996,kein Migrationshintergrund,3. Quintil,1.7706668852201426,1.595746509737068,1.9455872607032172,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,253.0
-1996,kein Migrationshintergrund,4. Quintil,1.6091853097305164,1.4525786984468256,1.7657919210142072,1.0,1.0,2.0,1.0,3.5,1.0,1.0,1.0,189.0
-1996,kein Migrationshintergrund,5. Quintil,1.1749038522578739,1.1265115963507601,1.2232961081649876,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,104.0
-1996,direkter Migrationshintergrund,-6,,,,,,,,,,,,
-1996,direkter Migrationshintergrund,1. Quintil,1.575007908203684,1.405301418516535,1.7447143978908333,1.0,1.0,1.0875087803102854,1.0,1.2187719507757135,1.0,1.0,1.0,98.0
-1996,direkter Migrationshintergrund,2. Quintil,1.221851706883582,1.1755337384032056,1.2681696753639582,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,109.0
-1996,direkter Migrationshintergrund,3. Quintil,1.1865165779915814,1.1330374905255687,1.239995665457594,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,65.0
+1996,kein Migrationshintergrund,1. Quintil,276,1.8338083982503104,1.6624161048918513,2.0052006916087692,1.0,1.0,1.0,2.0,1.0,1.0,1.0,1.0
+1996,kein Migrationshintergrund,2. Quintil,309,1.6415950484631556,1.5230816878427966,1.7601084090835146,2.0863710886833773,1.29262943190518,1.0,3.715927721708443,-0.6295566330250659,1.0,1.0,1.0
+1996,kein Migrationshintergrund,3. Quintil,253,1.7706668852201426,1.5957465097370682,1.945587260703217,2.3199086785526823,1.0,1.0,4.299771696381706,-0.9798630178290235,1.0,1.0,1.0
+1996,kein Migrationshintergrund,4. Quintil,189,1.6091853097305164,1.4525786984468256,1.7657919210142072,1.7685052240241004,1.0,1.0,2.9212630600602507,-0.15275783603615056,1.0,1.0,1.0
+1996,kein Migrationshintergrund,5. Quintil,104,1.1749038522578739,1.1265115963507601,1.2232961081649876,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+1996,direkter Migrationshintergrund,1. Quintil,98,1.575007908203684,1.405301418516535,1.7447143978908333,1.5403223442428082,3.7029889787813994,1.4665250518148154,15.0,1.3558291131728262,1.0,1.0,1.0
+1996,direkter Migrationshintergrund,2. Quintil,109,1.2218517068835817,1.1755337384032054,1.268169675363958,1.5177343436328008,1.0,1.0,2.294335859082002,0.2233984845507988,1.0,1.0,1.0
+1996,direkter Migrationshintergrund,3. Quintil,65,1.1865165779915814,1.1330374905255687,1.239995665457594,1.0,1.0,1.0,3.0,1.0,1.0,1.0,1.0
 1996,direkter Migrationshintergrund,4. Quintil,,,,,,,,,,,,
 1996,direkter Migrationshintergrund,5. Quintil,,,,,,,,,,,,
-1996,indirekter Migrationshintergrund,-6,,,,,,,,,,,,
 1996,indirekter Migrationshintergrund,1. Quintil,,,,,,,,,,,,
 1996,indirekter Migrationshintergrund,2. Quintil,,,,,,,,,,,,
 1996,indirekter Migrationshintergrund,3. Quintil,,,,,,,,,,,,
 1996,indirekter Migrationshintergrund,4. Quintil,,,,,,,,,,,,
 1996,indirekter Migrationshintergrund,5. Quintil,,,,,,,,,,,,
-1997,kein Migrationshintergrund,-6,,,,,,,,,,,,
-1997,kein Migrationshintergrund,1. Quintil,1.5108063333513164,1.4207298224130822,1.6008828442895506,1.0,1.0,2.0,1.0,3.5,1.0,1.0,1.0,233.0
-1997,kein Migrationshintergrund,2. Quintil,1.9526249921168888,1.7589295794294437,2.146320404804334,1.0,1.0,2.0,1.0,3.5,1.0,1.0,1.0,326.0
-1997,kein Migrationshintergrund,3. Quintil,1.5983010398001767,1.4587146584057502,1.7378874211946032,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,274.0
-1997,kein Migrationshintergrund,4. Quintil,1.2832582025107333,1.22688106175035,1.3396353432711166,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,187.0
-1997,kein Migrationshintergrund,5. Quintil,1.5744541343221794,1.3747421893864686,1.7741660792578902,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,105.0
-1997,direkter Migrationshintergrund,-6,,,,,,,,,,,,
-1997,direkter Migrationshintergrund,1. Quintil,1.3108095423777113,1.2369238050684441,1.3846952796869785,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,102.0
-1997,direkter Migrationshintergrund,2. Quintil,1.6456603121846478,1.483114073515757,1.8082065508535385,1.0,1.0,2.0,1.0,3.5,1.0,1.0,1.0,81.0
-1997,direkter Migrationshintergrund,3. Quintil,1.0726810956445054,1.0380037323834144,1.1073584589055965,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,64.0
+1997,kein Migrationshintergrund,1. Quintil,233,1.5108063333513164,1.4207298224130822,1.6008828442895506,2.9787581073363016,1.6582513987056653,1.0,5.946895268340754,-1.9681371610044525,1.0,1.0,1.0
+1997,kein Migrationshintergrund,2. Quintil,326,1.9526249921168888,1.7589295794294437,2.146320404804334,2.9512399950481116,3.159405580428199,1.0,5.8780999876202795,-1.9268599925721674,1.0,1.0,1.0
+1997,kein Migrationshintergrund,3. Quintil,274,1.5983010398001767,1.4587146584057502,1.7378874211946032,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+1997,kein Migrationshintergrund,4. Quintil,187,1.283258202510733,1.2268810617503498,1.3396353432711163,1.2935754605234258,1.5055657817828394,1.0,1.7339386513085644,0.5596368092148614,1.0,1.0,1.0
+1997,kein Migrationshintergrund,5. Quintil,105,1.5744541343221792,1.3747421893864684,1.77416607925789,1.9939153070648348,1.2258843884606263,1.990921752222416,1.9984056393284628,1.0,1.0,1.0,1.0
+1997,direkter Migrationshintergrund,1. Quintil,102,1.3108095423777113,1.2369238050684441,1.3846952796869785,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+1997,direkter Migrationshintergrund,2. Quintil,81,1.6456603121846476,1.4831140735157569,1.8082065508535383,1.0,1.0,1.0,8.0,1.0,1.0,1.0,1.0
+1997,direkter Migrationshintergrund,3. Quintil,64,1.0726810956445054,1.0380037323834144,1.1073584589055965,1.0,1.4211963984827738,1.0,1.0,1.0,1.0,1.0,1.0
 1997,direkter Migrationshintergrund,4. Quintil,,,,,,,,,,,,
 1997,direkter Migrationshintergrund,5. Quintil,,,,,,,,,,,,
-1997,indirekter Migrationshintergrund,-6,,,,,,,,,,,,
 1997,indirekter Migrationshintergrund,1. Quintil,,,,,,,,,,,,
 1997,indirekter Migrationshintergrund,2. Quintil,,,,,,,,,,,,
 1997,indirekter Migrationshintergrund,3. Quintil,,,,,,,,,,,,
 1997,indirekter Migrationshintergrund,4. Quintil,,,,,,,,,,,,
 1997,indirekter Migrationshintergrund,5. Quintil,,,,,,,,,,,,
-1998,kein Migrationshintergrund,-6,,,,,,,,,,,,
-1998,kein Migrationshintergrund,1. Quintil,1.5410064766618299,1.4717151605929344,1.6102977927307254,1.0,1.0,2.0,1.0,3.5,1.0,1.0,1.0,252.0
-1998,kein Migrationshintergrund,2. Quintil,1.3905345610747486,1.3443704378443868,1.4366986843051104,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,353.0
-1998,kein Migrationshintergrund,3. Quintil,1.3396232804637531,1.293003559361385,1.3862430015661213,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,323.0
-1998,kein Migrationshintergrund,4. Quintil,1.7475858209628372,1.6045958494608454,1.890575792464829,1.0,1.0,2.0,1.0,3.5,1.0,1.0,1.0,254.0
-1998,kein Migrationshintergrund,5. Quintil,1.3029871626703562,1.2333397771473278,1.3726345481933846,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,124.0
-1998,direkter Migrationshintergrund,-6,,,,,,,,,,,,
-1998,direkter Migrationshintergrund,1. Quintil,2.614865058953147,1.6859724340382134,3.54375768386808,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,91.0
-1998,direkter Migrationshintergrund,2. Quintil,1.177100325918602,1.1224562886257212,1.2317443632114826,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,101.0
-1998,direkter Migrationshintergrund,3. Quintil,1.3610345023705444,1.1288951673326668,1.593173837408422,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,55.0
-1998,direkter Migrationshintergrund,4. Quintil,1.5317980784534162,1.313507848511181,1.7500883083956513,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,30.0
+1998,kein Migrationshintergrund,1. Quintil,252,1.5410064766618299,1.4717151605929344,1.6102977927307254,1.0428918171884016,1.0,1.1174943010722513,1.0,1.0,1.0,1.0,1.0
+1998,kein Migrationshintergrund,2. Quintil,353,1.3905345610747486,1.3443704378443868,1.4366986843051104,1.9624615452692997,2.0717377475386396,1.0,3.406153863173249,-0.4436923179039496,1.0,1.0,1.0
+1998,kein Migrationshintergrund,3. Quintil,323,1.339623280463753,1.2930035593613847,1.3862430015661211,1.714064819499615,1.0,2.0,1.2851620487490378,1.0,1.0,1.0,1.0
+1998,kein Migrationshintergrund,4. Quintil,254,1.7475858209628377,1.6045958494608459,1.8905757924648294,1.0,1.0,1.1032529389621781,2.0,1.0,1.0,1.0,1.0
+1998,kein Migrationshintergrund,5. Quintil,124,1.3029871626703557,1.2333397771473273,1.3726345481933842,1.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0
+1998,direkter Migrationshintergrund,1. Quintil,91,2.614865058953147,1.6859724340382132,3.5437576838680807,1.0,2.7246891288795,1.0,1.0,1.0,1.0,1.0,1.0
+1998,direkter Migrationshintergrund,2. Quintil,101,1.1771003259186024,1.1224562886257217,1.231744363211483,1.9274397315881182,1.8448633479193428,1.0,3.3185993289702953,-0.3911595973821773,1.0,1.0,1.0
+1998,direkter Migrationshintergrund,3. Quintil,55,1.3610345023705446,1.1288951673326673,1.593173837408422,11.01812713953693,1.0060258309512322,1.0,26.045317848842323,-14.027190709305394,1.0,1.0,1.0
+1998,direkter Migrationshintergrund,4. Quintil,30,1.5317980784534164,1.3135078485111813,1.7500883083956515,1.0,2.88552239447957,1.0,1.0,1.0,1.0,1.0,1.0
 1998,direkter Migrationshintergrund,5. Quintil,,,,,,,,,,,,
-1998,indirekter Migrationshintergrund,-6,,,,,,,,,,,,
 1998,indirekter Migrationshintergrund,1. Quintil,,,,,,,,,,,,
 1998,indirekter Migrationshintergrund,2. Quintil,,,,,,,,,,,,
 1998,indirekter Migrationshintergrund,3. Quintil,,,,,,,,,,,,
 1998,indirekter Migrationshintergrund,4. Quintil,,,,,,,,,,,,
 1998,indirekter Migrationshintergrund,5. Quintil,,,,,,,,,,,,
-1999,kein Migrationshintergrund,-6,,,,,,,,,,,,
-1999,kein Migrationshintergrund,1. Quintil,1.4662978924548726,1.3802605365829481,1.5523352483267971,1.0,1.0,1.9241186781232646,1.0,3.3102966953081614,1.0,1.0,1.0,221.0
-1999,kein Migrationshintergrund,2. Quintil,1.6258300157694643,1.5588424888925432,1.6928175426463854,1.0,1.0,2.0,1.0,3.5,1.0,1.0,1.0,375.0
-1999,kein Migrationshintergrund,3. Quintil,1.5399208976635401,1.4589480634908747,1.6208937318362056,1.0,1.0,2.0,1.0,3.5,1.0,1.0,1.0,317.0
-1999,kein Migrationshintergrund,4. Quintil,1.574306645057235,1.4776248762109254,1.6709884139035445,1.0,1.0,2.0,1.0,3.5,1.0,1.0,1.0,246.0
-1999,kein Migrationshintergrund,5. Quintil,1.3089497666090337,1.243018209580043,1.3748813236380244,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,122.0
-1999,direkter Migrationshintergrund,-6,,,,,,,,,,,,
-1999,direkter Migrationshintergrund,1. Quintil,1.6135745147359168,1.260165668671137,1.9669833608006966,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,74.0
-1999,direkter Migrationshintergrund,2. Quintil,1.464503807912249,1.3211611484228585,1.6078464674016395,1.0,1.0,1.5557117266395235,1.0,2.3892793165988087,1.0,1.0,1.0,91.0
-1999,direkter Migrationshintergrund,3. Quintil,1.2319657542924436,1.097981868654039,1.3659496399308482,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,58.0
-1999,direkter Migrationshintergrund,4. Quintil,1.2253971895884543,1.097862548878833,1.3529318302980757,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,33.0
+1999,kein Migrationshintergrund,1. Quintil,221,1.4662978924548726,1.3802605365829481,1.5523352483267971,1.0,1.073092953670607,1.0,3.0,1.0,1.0,1.0,1.0
+1999,kein Migrationshintergrund,2. Quintil,375,1.6258300157694647,1.5588424888925436,1.6928175426463858,3.991083660343242,1.0490734987419224,2.10112297406741,6.82602468975699,-0.733818055346338,1.0,1.0,1.0
+1999,kein Migrationshintergrund,3. Quintil,317,1.53992089766354,1.4589480634908745,1.6208937318362053,1.3082498161507519,1.0,1.0,1.7706245403768797,0.5376252757738722,1.0,1.0,1.0
+1999,kein Migrationshintergrund,4. Quintil,246,1.574306645057235,1.4776248762109254,1.6709884139035445,1.8830290446015157,2.80608298918026,1.0,3.207572611503789,-0.3245435669022734,1.0,1.0,1.0
+1999,kein Migrationshintergrund,5. Quintil,122,1.3089497666090335,1.2430182095800428,1.3748813236380242,1.0,1.0,1.0,2.0,1.0,1.0,1.0,1.0
+1999,direkter Migrationshintergrund,1. Quintil,74,1.6135745147359168,1.260165668671137,1.9669833608006966,1.4888719277756555,1.9066076173396076,1.0,2.2221798194391384,0.2666921083365168,1.0,1.0,1.0
+1999,direkter Migrationshintergrund,2. Quintil,91,1.464503807912249,1.3211611484228585,1.6078464674016395,1.0,1.1587094840489505,2.236794688188782,1.0,2.0,1.0,1.0,1.0
+1999,direkter Migrationshintergrund,3. Quintil,58,1.2319657542924436,1.097981868654039,1.3659496399308482,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+1999,direkter Migrationshintergrund,4. Quintil,33,1.2253971895884546,1.0978625488788332,1.352931830298076,1.2449353587743825,3.2126940074287793,1.0,1.6123383969359564,0.6325969618384262,1.0,1.0,1.0
 1999,direkter Migrationshintergrund,5. Quintil,,,,,,,,,,,,
-1999,indirekter Migrationshintergrund,-6,,,,,,,,,,,,
 1999,indirekter Migrationshintergrund,1. Quintil,,,,,,,,,,,,
 1999,indirekter Migrationshintergrund,2. Quintil,,,,,,,,,,,,
 1999,indirekter Migrationshintergrund,3. Quintil,,,,,,,,,,,,
 1999,indirekter Migrationshintergrund,4. Quintil,,,,,,,,,,,,
 1999,indirekter Migrationshintergrund,5. Quintil,,,,,,,,,,,,
-2000,kein Migrationshintergrund,-6,,,,,,,,,,,,
-2000,kein Migrationshintergrund,1. Quintil,1.7617460212535876,1.651343952191164,1.8721480903160113,1.0,1.0,2.0,1.0,3.5,1.0,1.0,1.0,393.0
-2000,kein Migrationshintergrund,2. Quintil,1.522434091013025,1.4763402406073665,1.5685279414186835,1.0,1.0,2.0,1.0,3.5,1.0,1.0,1.0,553.0
-2000,kein Migrationshintergrund,3. Quintil,1.6053272703619197,1.5285030293268715,1.6821515113969678,1.0,1.0,2.0,1.0,3.5,1.0,1.0,1.0,622.0
-2000,kein Migrationshintergrund,4. Quintil,1.5160826816706585,1.4592991899984198,1.5728661733428972,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,457.0
-2000,kein Migrationshintergrund,5. Quintil,1.6516737056346675,1.4999010554325263,1.8034463558368088,1.0,1.0,1.3127497131271688,1.0,1.7818742828179222,1.0,1.0,1.0,289.0
-2000,direkter Migrationshintergrund,-6,,,,,,,,,,,,
-2000,direkter Migrationshintergrund,1. Quintil,1.748056986606541,1.573951161224825,1.922162811988257,1.0,1.0,2.0,1.0,3.5,1.0,1.0,1.0,126.0
-2000,direkter Migrationshintergrund,2. Quintil,2.0984437729076557,1.735631264182626,2.4612562816326853,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,96.0
-2000,direkter Migrationshintergrund,3. Quintil,1.2730061424610146,1.1814687908016597,1.3645434941203696,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,83.0
-2000,direkter Migrationshintergrund,4. Quintil,1.5048273527155602,1.3454542097658813,1.6642004956652392,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,46.0
+2000,kein Migrationshintergrund,1. Quintil,393,1.7617460212535878,1.6513439521911641,1.8721480903160115,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+2000,kein Migrationshintergrund,2. Quintil,553,1.522434091013025,1.4763402406073665,1.5685279414186835,1.0,1.603035187225533,1.0,1.0,1.0,1.0,1.0,1.0
+2000,kein Migrationshintergrund,3. Quintil,622,1.6053272703619195,1.5285030293268713,1.6821515113969676,1.0,1.2969684933990084,1.7789970896001097,1.0,1.0,1.0,1.0,1.0
+2000,kein Migrationshintergrund,4. Quintil,457,1.5160826816706585,1.4592991899984198,1.5728661733428972,1.0,1.6205790692481616,1.0,2.0,1.0,1.0,1.0,1.0
+2000,kein Migrationshintergrund,5. Quintil,289,1.6516737056346675,1.4999010554325263,1.8034463558368088,12.562047193103144,1.261833852890935,1.0,29.90511798275786,-16.343070789654718,1.0,1.0,1.0
+2000,direkter Migrationshintergrund,1. Quintil,126,1.7480569866065405,1.5739511612248245,1.9221628119882566,1.4431684542378322,1.0,1.0,3.0,0.33524731864325163,1.0,1.0,1.0
+2000,direkter Migrationshintergrund,2. Quintil,96,2.0984437729076557,1.735631264182626,2.4612562816326853,1.0,1.0,10.063038423239043,1.0,1.0,1.0,1.0,1.0
+2000,direkter Migrationshintergrund,3. Quintil,83,1.2730061424610146,1.1814687908016597,1.3645434941203696,1.0,1.0,1.077802810822081,1.0,1.0,1.0,1.0,1.0
+2000,direkter Migrationshintergrund,4. Quintil,46,1.5048273527155605,1.3454542097658813,1.6642004956652396,2.8456208635360776,1.0,3.754192166555291,1.4827639090072573,1.0,1.0,1.0,1.0
 2000,direkter Migrationshintergrund,5. Quintil,,,,,,,,,,,,
-2000,indirekter Migrationshintergrund,-6,,,,,,,,,,,,
 2000,indirekter Migrationshintergrund,1. Quintil,,,,,,,,,,,,
 2000,indirekter Migrationshintergrund,2. Quintil,,,,,,,,,,,,
 2000,indirekter Migrationshintergrund,3. Quintil,,,,,,,,,,,,
 2000,indirekter Migrationshintergrund,4. Quintil,,,,,,,,,,,,
 2000,indirekter Migrationshintergrund,5. Quintil,,,,,,,,,,,,
-2001,kein Migrationshintergrund,-6,,,,,,,,,,,,
-2001,kein Migrationshintergrund,1. Quintil,1.4064085593263458,1.361875612900239,1.4509415057524526,1.0,1.0,2.0,1.0,3.5,1.0,1.0,1.0,316.0
-2001,kein Migrationshintergrund,2. Quintil,1.3590243731789007,1.3165554072030574,1.401493339154744,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,484.0
-2001,kein Migrationshintergrund,3. Quintil,1.4191470446625132,1.383268575959996,1.4550255133650303,1.0,1.0,2.0,1.0,3.5,1.0,1.0,1.0,598.0
-2001,kein Migrationshintergrund,4. Quintil,1.3386424321638917,1.297243764185801,1.3800411001419823,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,480.0
-2001,kein Migrationshintergrund,5. Quintil,1.3683385481555348,1.3092688928409753,1.4274082034700943,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,276.0
-2001,direkter Migrationshintergrund,-6,,,,,,,,,,,,
-2001,direkter Migrationshintergrund,1. Quintil,1.4898382587087666,1.4137935331944123,1.565882984223121,1.0,1.0,2.0,1.0,3.5,1.0,1.0,1.0,103.0
-2001,direkter Migrationshintergrund,2. Quintil,1.413016203657503,1.3349613218776082,1.4910710854373976,1.0,1.0,2.0,1.0,3.5,1.0,1.0,1.0,92.0
-2001,direkter Migrationshintergrund,3. Quintil,1.3628752573326883,1.3036796389720011,1.4220708756933755,1.0,1.0,2.0,1.0,3.0,1.0,1.0,1.0,80.0
-2001,direkter Migrationshintergrund,4. Quintil,1.1359705430542468,1.0844855924826498,1.187455493625844,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,40.0
+2001,kein Migrationshintergrund,1. Quintil,316,1.4064085593263458,1.361875612900239,1.4509415057524526,1.0,1.2065919980721242,1.0529960220213677,1.0,1.0,1.0,1.0,1.0
+2001,kein Migrationshintergrund,2. Quintil,484,1.359024373178901,1.3165554072030576,1.4014933391547442,1.0,1.0,1.8241203078515356,1.0,1.0,1.0,1.0,1.0
+2001,kein Migrationshintergrund,3. Quintil,598,1.4191470446625132,1.383268575959996,1.4550255133650303,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+2001,kein Migrationshintergrund,4. Quintil,480,1.3386424321638917,1.297243764185801,1.3800411001419823,1.0,1.4003769537819926,1.105911167760758,1.0,1.264777919401895,1.0,1.0,1.0
+2001,kein Migrationshintergrund,5. Quintil,276,1.3683385481555348,1.3092688928409753,1.4274082034700943,1.0,1.0,1.7921519041250544,1.0,2.980379760312636,1.0,1.0,1.0
+2001,direkter Migrationshintergrund,1. Quintil,103,1.4898382587087673,1.413793533194413,1.5658829842231217,1.603009444655478,1.1556850864010149,2.0,2.0,1.0,1.0,1.0,1.0
+2001,direkter Migrationshintergrund,2. Quintil,92,1.4130162036575031,1.3349613218776084,1.4910710854373979,1.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0
+2001,direkter Migrationshintergrund,3. Quintil,80,1.3628752573326879,1.3036796389720007,1.422070875693375,2.2974312880075205,1.8914783146584457,1.0,4.243578220018801,-0.9461469320112808,1.0,1.0,1.0
+2001,direkter Migrationshintergrund,4. Quintil,40,1.1359705430542468,1.0844855924826498,1.187455493625844,1.0,1.0,1.4157598099679376,1.0,1.0,1.0,1.0,1.0
 2001,direkter Migrationshintergrund,5. Quintil,,,,,,,,,,,,
-2001,indirekter Migrationshintergrund,-6,,,,,,,,,,,,
 2001,indirekter Migrationshintergrund,1. Quintil,,,,,,,,,,,,
 2001,indirekter Migrationshintergrund,2. Quintil,,,,,,,,,,,,
 2001,indirekter Migrationshintergrund,3. Quintil,,,,,,,,,,,,
 2001,indirekter Migrationshintergrund,4. Quintil,,,,,,,,,,,,
 2001,indirekter Migrationshintergrund,5. Quintil,,,,,,,,,,,,
-2002,kein Migrationshintergrund,-6,,,,,,,,,,,,
-2002,kein Migrationshintergrund,1. Quintil,1.3591169676636248,1.3167775437381104,1.4014563915891391,1.0,1.0,2.0,1.0,3.5,1.0,1.0,1.0,287.0
-2002,kein Migrationshintergrund,2. Quintil,1.4161335887129138,1.3762821662484734,1.4559850111773542,1.0,1.0,2.0,1.0,3.5,1.0,1.0,1.0,452.0
-2002,kein Migrationshintergrund,3. Quintil,1.412704616554406,1.3418375456476643,1.4835716874611475,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,514.0
-2002,kein Migrationshintergrund,4. Quintil,1.3006551521118943,1.2641085042481432,1.3372017999756454,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,476.0
-2002,kein Migrationshintergrund,5. Quintil,1.348909139068606,1.3035610112551292,1.394257266882083,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,515.0
-2002,direkter Migrationshintergrund,-6,,,,,,,,,,,,
-2002,direkter Migrationshintergrund,1. Quintil,1.6391348876703593,1.4324265849860236,1.845843190354695,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,71.0
-2002,direkter Migrationshintergrund,2. Quintil,1.2104953887126026,1.1626693817513964,1.2583213956738089,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,92.0
-2002,direkter Migrationshintergrund,3. Quintil,1.2286996915392039,1.1686368004707934,1.2887625826076143,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,85.0
-2002,direkter Migrationshintergrund,4. Quintil,1.3904269959256206,1.3095995819731403,1.4712544098781009,1.0,1.0,2.0,1.0,3.0,1.0,0.0,1.0,46.0
+2002,kein Migrationshintergrund,1. Quintil,287,1.3591169676636248,1.3167775437381104,1.4014563915891391,1.8228091664833002,1.0,1.8052318852576255,2.0,1.0,1.0,1.0,1.0
+2002,kein Migrationshintergrund,2. Quintil,452,1.4161335887129138,1.3762821662484734,1.4559850111773542,1.0,1.2391337192546996,1.0,1.0,1.0,1.0,1.0,1.0
+2002,kein Migrationshintergrund,3. Quintil,514,1.412704616554406,1.3418375456476643,1.4835716874611475,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+2002,kein Migrationshintergrund,4. Quintil,476,1.3006551521118943,1.2641085042481432,1.3372017999756454,1.976591257224389,1.0,1.0,3.441478143060973,-0.46488688583658355,1.0,1.0,1.0
+2002,kein Migrationshintergrund,5. Quintil,515,1.3489091390686063,1.3035610112551295,1.3942572668820832,1.0,1.0,1.0,2.0,1.0,1.0,1.0,1.0
+2002,direkter Migrationshintergrund,1. Quintil,71,1.6391348876703598,1.432426584986024,1.8458431903546955,1.0,1.3789136440574528,1.0,9.0,1.0,1.0,1.0,1.0
+2002,direkter Migrationshintergrund,2. Quintil,92,1.2104953887126026,1.1626693817513964,1.2583213956738089,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+2002,direkter Migrationshintergrund,3. Quintil,85,1.2286996915392039,1.1686368004707934,1.2887625826076143,2.0,1.0,1.0,3.5,-0.5,1.0,1.0,1.0
+2002,direkter Migrationshintergrund,4. Quintil,46,1.3904269959256204,1.30959958197314,1.4712544098781006,1.0,1.0,2.972699484906173,1.0,2.0,1.0,0.0,1.0
 2002,direkter Migrationshintergrund,5. Quintil,,,,,,,,,,,,
-2002,indirekter Migrationshintergrund,-6,,,,,,,,,,,,
 2002,indirekter Migrationshintergrund,1. Quintil,,,,,,,,,,,,
 2002,indirekter Migrationshintergrund,2. Quintil,,,,,,,,,,,,
 2002,indirekter Migrationshintergrund,3. Quintil,,,,,,,,,,,,
 2002,indirekter Migrationshintergrund,4. Quintil,,,,,,,,,,,,
 2002,indirekter Migrationshintergrund,5. Quintil,,,,,,,,,,,,
-2003,kein Migrationshintergrund,-6,,,,,,,,,,,,
-2003,kein Migrationshintergrund,1. Quintil,1.4547460406132469,1.4020241787519108,1.507467902474583,1.0,1.0,2.0,1.0,3.5,1.0,1.0,1.0,283.0
-2003,kein Migrationshintergrund,2. Quintil,1.4690984491562478,1.4164871330159707,1.5217097652965248,1.0,1.0,2.0,1.0,3.5,1.0,1.0,1.0,403.0
-2003,kein Migrationshintergrund,3. Quintil,1.4067048813409069,1.3677906858559756,1.4456190768258381,1.0,1.0,1.1447344936371915,1.0,1.3618362340929786,1.0,1.0,1.0,467.0
-2003,kein Migrationshintergrund,4. Quintil,1.3883803488729662,1.3444194664019864,1.432341231343946,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,481.0
-2003,kein Migrationshintergrund,5. Quintil,1.3227599766449303,1.2875943666301057,1.3579255866597548,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,551.0
-2003,direkter Migrationshintergrund,-6,,,,,,,,,,,,
-2003,direkter Migrationshintergrund,1. Quintil,1.2272881404573281,1.1724430305725109,1.2821332503421454,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,77.0
-2003,direkter Migrationshintergrund,2. Quintil,1.3328793391453344,1.2327203193400311,1.4330383589506377,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,72.0
-2003,direkter Migrationshintergrund,3. Quintil,1.6048260975959523,1.45887044591053,1.7507817492813746,1.0,1.0,2.0,1.0,3.5,1.0,1.0,1.0,69.0
-2003,direkter Migrationshintergrund,4. Quintil,1.3881465222355394,1.258873072242187,1.5174199722288917,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,47.0
-2003,direkter Migrationshintergrund,5. Quintil,1.47001130591459,1.3582644838135278,1.5817581280156523,1.0,1.0,2.0,1.0,3.5,1.0,0.0,1.0,33.0
-2003,indirekter Migrationshintergrund,-6,,,,,,,,,,,,
+2003,kein Migrationshintergrund,1. Quintil,283,1.4547460406132466,1.4020241787519105,1.5074679024745827,3.204270002234001,1.0,1.7139452502288113,5.4397571302417855,-0.5215418777789735,1.0,1.0,1.0
+2003,kein Migrationshintergrund,2. Quintil,403,1.4690984491562475,1.4164871330159705,1.5217097652965246,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+2003,kein Migrationshintergrund,3. Quintil,467,1.4067048813409069,1.3677906858559756,1.4456190768258381,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+2003,kein Migrationshintergrund,4. Quintil,481,1.3883803488729658,1.344419466401986,1.4323412313439456,2.956866168758535,1.0,5.744955777260763,1.0,3.0,1.0,1.0,1.0
+2003,kein Migrationshintergrund,5. Quintil,551,1.3227599766449305,1.287594366630106,1.357925586659755,1.0,2.774910190402233,1.0,1.0,1.0,1.0,1.0,1.0
+2003,direkter Migrationshintergrund,1. Quintil,77,1.2272881404573284,1.172443030572511,1.2821332503421456,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+2003,direkter Migrationshintergrund,2. Quintil,72,1.3328793391453344,1.2327203193400311,1.4330383589506377,1.0,2.962816756102279,1.0,1.0,1.0,1.0,1.0,1.0
+2003,direkter Migrationshintergrund,3. Quintil,69,1.604826097595952,1.4588704459105297,1.7507817492813744,1.0,1.5425124810747417,1.0,1.0,1.0,1.0,1.0,1.0
+2003,direkter Migrationshintergrund,4. Quintil,47,1.3881465222355396,1.2588730722421873,1.517419972228892,1.0,1.2085075394946487,1.747099449177265,1.0,1.0,1.0,0.9749999999999943,1.0
+2003,direkter Migrationshintergrund,5. Quintil,33,1.4700113059145898,1.3582644838135276,1.581758128015652,1.3683379642722389,2.028995473349067,1.0,2.0,0.4474930535916417,1.0,0.0,1.0
 2003,indirekter Migrationshintergrund,1. Quintil,,,,,,,,,,,,
 2003,indirekter Migrationshintergrund,2. Quintil,,,,,,,,,,,,
 2003,indirekter Migrationshintergrund,3. Quintil,,,,,,,,,,,,
 2003,indirekter Migrationshintergrund,4. Quintil,,,,,,,,,,,,
 2003,indirekter Migrationshintergrund,5. Quintil,,,,,,,,,,,,
-2004,kein Migrationshintergrund,-6,,,,,,,,,,,,
-2004,kein Migrationshintergrund,1. Quintil,1.5182950694379331,1.4428781131277704,1.593712025748096,1.0,1.0,2.0,1.0,3.5,1.0,1.0,1.0,268.0
-2004,kein Migrationshintergrund,2. Quintil,1.4369907393599268,1.3931572060454178,1.4808242726744358,1.0,1.0,2.0,1.0,3.5,1.0,1.0,1.0,393.0
-2004,kein Migrationshintergrund,3. Quintil,1.4910744613222977,1.4352423959643716,1.5469065266802238,1.0,1.0,2.0,1.0,3.5,1.0,1.0,1.0,485.0
-2004,kein Migrationshintergrund,4. Quintil,1.3701873897482597,1.3272030634645344,1.413171716031985,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,490.0
-2004,kein Migrationshintergrund,5. Quintil,1.3295976472002764,1.2969229363999042,1.3622723580006486,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,512.0
-2004,direkter Migrationshintergrund,-6,,,,,,,,,,,,
-2004,direkter Migrationshintergrund,1. Quintil,1.3815297767499808,1.3107316372738627,1.452327916226099,1.0,1.0,2.0,1.0,3.5,1.0,1.0,1.0,94.0
-2004,direkter Migrationshintergrund,2. Quintil,1.3271813462779742,1.2326102135767998,1.4217524789791487,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,67.0
-2004,direkter Migrationshintergrund,3. Quintil,1.3438085723582005,1.2573617355069084,1.4302554092094926,1.0,1.0,1.751842716458626,1.0,2.879606791146565,1.0,1.0,1.0,54.0
-2004,direkter Migrationshintergrund,4. Quintil,1.3059579118241533,1.2157764132009243,1.3961394104473823,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,44.0
-2004,direkter Migrationshintergrund,5. Quintil,1.4672405637462291,1.3648914288444551,1.5695896986480031,1.0,1.0,2.0,1.0,3.0,1.0,0.0,1.0,35.0
-2004,indirekter Migrationshintergrund,-6,,,,,,,,,,,,
+2004,kein Migrationshintergrund,1. Quintil,268,1.5182950694379331,1.4428781131277704,1.593712025748096,1.0,3.1174406910476624,1.0,1.0,1.0,1.0,1.0,1.0
+2004,kein Migrationshintergrund,2. Quintil,393,1.4369907393599275,1.3931572060454185,1.4808242726744365,1.0,1.0,1.5321960492067774,1.0,1.0,1.0,1.0,1.0
+2004,kein Migrationshintergrund,3. Quintil,485,1.4910744613222977,1.4352423959643716,1.5469065266802238,1.0,1.4079041143703717,1.0,2.0,1.0,1.0,1.0,1.0
+2004,kein Migrationshintergrund,4. Quintil,490,1.3701873897482595,1.3272030634645344,1.4131717160319845,1.7728353696876793,1.0,1.0719355453651087,2.824185106171535,0.020585808881252943,1.0,1.0,1.0
+2004,kein Migrationshintergrund,5. Quintil,512,1.3295976472002762,1.296922936399904,1.3622723580006484,1.0,1.0,1.9720756397787285,1.0,1.0,1.0,1.0,1.0
+2004,direkter Migrationshintergrund,1. Quintil,94,1.3815297767499808,1.3107316372738627,1.452327916226099,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+2004,direkter Migrationshintergrund,2. Quintil,67,1.3271813462779745,1.2326102135768,1.421752478979149,1.0,1.7966813091330462,1.335837171978242,1.0,1.839592929945605,1.0,1.0,1.0
+2004,direkter Migrationshintergrund,3. Quintil,54,1.3438085723582005,1.2573617355069084,1.4302554092094926,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+2004,direkter Migrationshintergrund,4. Quintil,44,1.3059579118241533,1.2157764132009243,1.3961394104473823,1.0,1.871086545588261,1.0,2.0,1.0,1.0,1.0,1.0
+2004,direkter Migrationshintergrund,5. Quintil,35,1.4672405637462294,1.3648914288444554,1.5695896986480034,1.8951603244242505,1.0,1.6324723646565622,2.289192264075783,1.0,1.0,0.0,1.0
 2004,indirekter Migrationshintergrund,1. Quintil,,,,,,,,,,,,
 2004,indirekter Migrationshintergrund,2. Quintil,,,,,,,,,,,,
 2004,indirekter Migrationshintergrund,3. Quintil,,,,,,,,,,,,
 2004,indirekter Migrationshintergrund,4. Quintil,,,,,,,,,,,,
 2004,indirekter Migrationshintergrund,5. Quintil,,,,,,,,,,,,
-2005,kein Migrationshintergrund,-6,,,,,,,,,,,,
-2005,kein Migrationshintergrund,1. Quintil,1.516573429029154,1.4534628934172207,1.5796839646410872,1.0,1.0,2.0,1.0,3.5,1.0,1.0,1.0,223.0
-2005,kein Migrationshintergrund,2. Quintil,1.4142688904074727,1.3694672804075496,1.4590705004073958,1.0,1.0,2.0,1.0,3.5,1.0,1.0,1.0,353.0
-2005,kein Migrationshintergrund,3. Quintil,1.4024032770211943,1.3570585896604632,1.4477479643819253,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,439.0
-2005,kein Migrationshintergrund,4. Quintil,1.4076358292432978,1.3648946772118224,1.450376981274773,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,428.0
-2005,kein Migrationshintergrund,5. Quintil,1.3177947920886135,1.280156381431452,1.355433202745775,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,463.0
-2005,direkter Migrationshintergrund,-6,,,,,,,,,,,,
-2005,direkter Migrationshintergrund,1. Quintil,1.4544654598849331,1.3873191764764814,1.5216117432933849,1.0,1.0,2.0,1.0,3.0,1.0,0.0,1.0,69.0
-2005,direkter Migrationshintergrund,2. Quintil,1.36775858470964,1.256581487787863,1.4789356816314172,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,70.0
-2005,direkter Migrationshintergrund,3. Quintil,1.3959385190475486,1.2755602689897425,1.5163167691053547,1.0,1.0,1.3505573661020627,1.0,1.8763934152551567,1.0,1.0,1.0,41.0
-2005,direkter Migrationshintergrund,4. Quintil,1.2390517848341898,1.1603812562474811,1.3177223134208984,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,39.0
-2005,direkter Migrationshintergrund,5. Quintil,1.7867348116541457,1.606237419206333,1.9672322041019585,1.0,1.0,2.0,1.0,3.5,1.0,0.0,1.0,31.0
-2005,indirekter Migrationshintergrund,-6,,,,,,,,,,,,
+2005,kein Migrationshintergrund,1. Quintil,223,1.516573429029154,1.4534628934172207,1.5796839646410872,1.128264281630425,2.9076897320824475,1.3988272305270146,1.0,1.0,1.0,1.0,1.0
+2005,kein Migrationshintergrund,2. Quintil,353,1.414268890407473,1.3694672804075498,1.459070500407396,1.896402094783894,1.8146077389003281,1.0,3.241005236959735,-0.3446031421758411,1.0,1.0,1.0
+2005,kein Migrationshintergrund,3. Quintil,439,1.4024032770211943,1.3570585896604632,1.4477479643819253,1.0832458655673358,1.0,1.0,2.0,0.8751312016489963,1.0,1.0,1.0
+2005,kein Migrationshintergrund,4. Quintil,428,1.4076358292432976,1.3648946772118222,1.4503769812747729,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+2005,kein Migrationshintergrund,5. Quintil,463,1.3177947920886135,1.280156381431452,1.355433202745775,1.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0
+2005,direkter Migrationshintergrund,1. Quintil,69,1.4544654598849338,1.387319176476482,1.5216117432933856,1.0,1.4622806052701756,2.3095755866749395,2.0,2.0,1.0,0.0,1.0
+2005,direkter Migrationshintergrund,2. Quintil,70,1.36775858470964,1.256581487787863,1.4789356816314172,1.7292362470022222,2.6504994339985313,1.0,2.8230906175055557,-0.09385437050333323,1.0,1.0,1.0
+2005,direkter Migrationshintergrund,3. Quintil,41,1.3959385190475482,1.275560268989742,1.5163167691053543,1.5097765186341898,1.3682369861300592,1.0,2.274441296585475,0.23533522204871526,1.0,1.0,1.0
+2005,direkter Migrationshintergrund,4. Quintil,39,1.2390517848341898,1.1603812562474811,1.3177223134208984,1.0,1.0,1.3742248660175687,1.0,1.0,1.0,1.0,1.0
+2005,direkter Migrationshintergrund,5. Quintil,31,1.786734811654145,1.6062374192063322,1.9672322041019579,2.9273877650034414,1.0,3.373016979972246,2.2589439425502347,1.0,1.0,0.0,1.0
 2005,indirekter Migrationshintergrund,1. Quintil,,,,,,,,,,,,
 2005,indirekter Migrationshintergrund,2. Quintil,,,,,,,,,,,,
 2005,indirekter Migrationshintergrund,3. Quintil,,,,,,,,,,,,
 2005,indirekter Migrationshintergrund,4. Quintil,,,,,,,,,,,,
 2005,indirekter Migrationshintergrund,5. Quintil,,,,,,,,,,,,
-2006,kein Migrationshintergrund,-6,,,,,,,,,,,,
-2006,kein Migrationshintergrund,1. Quintil,1.5214252491561173,1.434668588496727,1.6081819098155077,1.0,1.0,2.0,1.0,3.5,1.0,1.0,1.0,281.0
-2006,kein Migrationshintergrund,2. Quintil,1.531947989457621,1.4473413724039208,1.616554606511321,1.0,1.0,2.0,1.0,3.5,1.0,1.0,1.0,416.0
-2006,kein Migrationshintergrund,3. Quintil,1.3479899984915018,1.31761205644826,1.3783679405347435,1.0,1.0,2.0,1.0,3.5,1.0,1.0,1.0,471.0
-2006,kein Migrationshintergrund,4. Quintil,1.4155917432101148,1.3714825695256803,1.4597009168945494,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,509.0
-2006,kein Migrationshintergrund,5. Quintil,1.3396431406483926,1.3069849268157436,1.3723013544810416,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,504.0
-2006,direkter Migrationshintergrund,-6,,,,,,,,,,,,
-2006,direkter Migrationshintergrund,1. Quintil,1.4459754996576846,1.2986516773283576,1.5932993219870115,1.0,1.0,2.0,1.0,3.5,1.0,1.0,1.0,70.0
-2006,direkter Migrationshintergrund,2. Quintil,1.152789365559792,1.0949784940654887,1.2106002370540954,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,68.0
-2006,direkter Migrationshintergrund,3. Quintil,1.3767151591357933,1.2325095544977591,1.5209207637738276,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,51.0
-2006,direkter Migrationshintergrund,4. Quintil,1.1711222776615626,1.0785214765705056,1.2637230787526197,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,37.0
-2006,direkter Migrationshintergrund,5. Quintil,1.2170999417772448,1.145593363934259,1.2886065196202305,1.0,1.0,1.0814073202384604,1.0,1.203518300596151,1.0,0.9749999999999943,1.0,30.0
-2006,indirekter Migrationshintergrund,-6,,,,,,,,,,,,
+2006,kein Migrationshintergrund,1. Quintil,281,1.5214252491561173,1.434668588496727,1.6081819098155077,1.0,1.0,1.878095267402986,1.0,1.0,1.0,1.0,1.0
+2006,kein Migrationshintergrund,2. Quintil,416,1.5319479894576213,1.4473413724039212,1.6165546065113214,5.540556145251946,1.0,1.8089598339476578,11.137950612208378,-3.7884346330087744,1.0,1.0,1.0
+2006,kein Migrationshintergrund,3. Quintil,471,1.3479899984915018,1.31761205644826,1.3783679405347435,2.0,1.0,2.2432444771751596,1.6351332842372606,1.0,1.0,1.0,1.0
+2006,kein Migrationshintergrund,4. Quintil,509,1.4155917432101148,1.3714825695256803,1.4597009168945494,1.0,1.0,1.149475655845402,1.0,1.0,1.0,1.0,1.0
+2006,kein Migrationshintergrund,5. Quintil,504,1.3396431406483926,1.3069849268157436,1.3723013544810416,1.7889427384406709,1.0,3.449325422380842,1.0,1.0,1.0,1.0,1.0
+2006,direkter Migrationshintergrund,1. Quintil,70,1.4459754996576848,1.2986516773283578,1.5932993219870117,2.9275243613231074,1.0,1.0,5.818810903307769,-1.8912865419846612,1.0,1.0,1.0
+2006,direkter Migrationshintergrund,2. Quintil,68,1.1527893655597918,1.0949784940654885,1.2106002370540951,1.0,1.0,1.864958474604278,1.0,1.0,1.0,1.0,1.0
+2006,direkter Migrationshintergrund,3. Quintil,51,1.3767151591357938,1.2325095544977596,1.520920763773828,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+2006,direkter Migrationshintergrund,4. Quintil,37,1.1711222776615626,1.0785214765705056,1.2637230787526197,1.0,1.9530927121027342,1.0,1.0,1.0,1.0,1.0,1.0
+2006,direkter Migrationshintergrund,5. Quintil,30,1.2170999417772446,1.1455933639342588,1.2886065196202303,1.0,1.0,1.4213156605720596,1.0,1.0,1.0,1.0,1.0
 2006,indirekter Migrationshintergrund,1. Quintil,,,,,,,,,,,,
 2006,indirekter Migrationshintergrund,2. Quintil,,,,,,,,,,,,
 2006,indirekter Migrationshintergrund,3. Quintil,,,,,,,,,,,,
 2006,indirekter Migrationshintergrund,4. Quintil,,,,,,,,,,,,
 2006,indirekter Migrationshintergrund,5. Quintil,,,,,,,,,,,,
-2007,kein Migrationshintergrund,-6,,,,,,,,,,,,
-2007,kein Migrationshintergrund,1. Quintil,1.4640244189618863,1.4067879471306566,1.521260890793116,1.0,1.0,2.0,1.0,3.5,1.0,1.0,1.0,232.0
-2007,kein Migrationshintergrund,2. Quintil,1.5786876171197628,1.4997382697552188,1.6576369644843068,1.0,1.0,2.0,1.0,3.5,1.0,1.0,1.0,395.0
-2007,kein Migrationshintergrund,3. Quintil,1.4652087986737299,1.4130425846202028,1.517375012727257,1.0,1.0,2.0,1.0,3.5,1.0,1.0,1.0,464.0
-2007,kein Migrationshintergrund,4. Quintil,1.4081822557057861,1.375031507047236,1.4413330043643362,1.0,1.0,2.0,1.0,3.5,1.0,1.0,1.0,479.0
-2007,kein Migrationshintergrund,5. Quintil,1.440479139441779,1.3909685283962754,1.4899897504872828,1.0,1.0,2.0,1.0,3.5,1.0,1.0,1.0,537.0
-2007,direkter Migrationshintergrund,-6,,,,,,,,,,,,
-2007,direkter Migrationshintergrund,1. Quintil,1.4358271572168444,1.3049334832260526,1.5667208312076362,1.0,1.0,2.0,1.0,3.5,1.0,0.0,1.0,55.0
-2007,direkter Migrationshintergrund,2. Quintil,1.3529373216360885,1.2780667357439883,1.4278079075281886,1.0,1.0,2.0,1.0,3.0,1.0,1.0,1.0,54.0
-2007,direkter Migrationshintergrund,3. Quintil,1.3670603637877148,1.2556490048731144,1.4784717227023152,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,49.0
-2007,direkter Migrationshintergrund,4. Quintil,1.1810255699492207,1.1083823376727715,1.25366880222567,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,46.0
-2007,direkter Migrationshintergrund,5. Quintil,1.6042218403235757,1.2308314499022646,1.977612230744887,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,31.0
-2007,indirekter Migrationshintergrund,-6,,,,,,,,,,,,
+2007,kein Migrationshintergrund,1. Quintil,232,1.4640244189618863,1.4067879471306566,1.521260890793116,1.4522726204762675,1.9133381062948338,7.1997630797202214,1.0,1.0,1.0,1.0,1.0
+2007,kein Migrationshintergrund,2. Quintil,395,1.578687617119763,1.499738269755219,1.657636964484307,1.032158484554225,1.0,1.0,1.0803962113855627,0.9517622731686624,1.0,1.0,1.0
+2007,kein Migrationshintergrund,3. Quintil,464,1.4652087986737299,1.4130425846202028,1.517375012727257,1.0,3.22939897277607,1.0,4.0,1.0,1.0,1.0,1.0
+2007,kein Migrationshintergrund,4. Quintil,479,1.4081822557057864,1.3750315070472363,1.4413330043643364,1.5698411871650477,2.6591931953075814,1.2397569589133386,2.0649675295426113,0.7446306165357749,1.0,1.0,1.0
+2007,kein Migrationshintergrund,5. Quintil,537,1.4404791394417793,1.3909685283962756,1.489989750487283,1.0,5.785533131572872,1.0,1.0,1.0,1.0,1.0,1.0
+2007,direkter Migrationshintergrund,1. Quintil,55,1.4358271572168446,1.3049334832260528,1.5667208312076364,1.0,2.351386941843008,1.46978203466506,1.0,1.0,1.0,1.0,1.0
+2007,direkter Migrationshintergrund,2. Quintil,54,1.3529373216360885,1.2780667357439883,1.4278079075281886,1.2622869044309477,1.0,2.159230370609131,1.0,1.0,1.0,1.0,1.0
+2007,direkter Migrationshintergrund,3. Quintil,49,1.367060363787715,1.2556490048731144,1.4784717227023156,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+2007,direkter Migrationshintergrund,4. Quintil,46,1.1810255699492205,1.1083823376727713,1.2536688022256697,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+2007,direkter Migrationshintergrund,5. Quintil,31,1.6042218403235762,1.230831449902265,1.9776122307448873,1.0,1.0,2.911524769876956,1.0,1.0,1.0,1.0,1.0
 2007,indirekter Migrationshintergrund,1. Quintil,,,,,,,,,,,,
 2007,indirekter Migrationshintergrund,2. Quintil,,,,,,,,,,,,
 2007,indirekter Migrationshintergrund,3. Quintil,,,,,,,,,,,,
 2007,indirekter Migrationshintergrund,4. Quintil,,,,,,,,,,,,
 2007,indirekter Migrationshintergrund,5. Quintil,,,,,,,,,,,,
-2008,kein Migrationshintergrund,-6,,,,,,,,,,,,
-2008,kein Migrationshintergrund,1. Quintil,1.5101039571077397,1.4339383477728387,1.5862695664426407,1.0,1.0,2.0,1.0,3.5,1.0,1.0,1.0,218.0
-2008,kein Migrationshintergrund,2. Quintil,1.3735242084667796,1.3279942362065473,1.4190541807270118,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,326.0
-2008,kein Migrationshintergrund,3. Quintil,1.4832237891727094,1.4412465089637172,1.5252010693817015,1.0,1.0,2.0,1.0,3.5,1.0,1.0,1.0,398.0
-2008,kein Migrationshintergrund,4. Quintil,1.4356826064078163,1.3898585072632215,1.4815067055524112,1.0,1.0,2.0,1.0,3.5,1.0,1.0,1.0,446.0
-2008,kein Migrationshintergrund,5. Quintil,1.3576198319712527,1.324714635158043,1.3905250287844624,1.0,1.0,2.0,1.0,3.5,1.0,1.0,1.0,533.0
-2008,direkter Migrationshintergrund,-6,,,,,,,,,,,,
-2008,direkter Migrationshintergrund,1. Quintil,1.3997030064769038,1.3051913574439022,1.4942146555099054,1.0,1.0,2.0,1.0,3.5,1.0,1.0,1.0,50.0
-2008,direkter Migrationshintergrund,2. Quintil,1.4034449419267712,1.302124190879767,1.5047656929737754,1.0,1.0,2.0,1.0,3.5,1.0,1.0,1.0,48.0
-2008,direkter Migrationshintergrund,3. Quintil,1.248393343168649,1.18360532747224,1.3131813588650578,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,47.0
-2008,direkter Migrationshintergrund,4. Quintil,1.206793218393032,1.1258978264117672,1.287688610374297,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,34.0
+2008,kein Migrationshintergrund,1. Quintil,218,1.51010395710774,1.433938347772839,1.586269566442641,1.0,1.4072306979396751,3.345131374346867,8.0,2.0,1.0,1.0,1.0
+2008,kein Migrationshintergrund,2. Quintil,326,1.3735242084667798,1.3279942362065476,1.419054180727012,1.0,1.0,1.6697739149071331,1.0,2.674434787267833,1.0,1.0,1.0
+2008,kein Migrationshintergrund,3. Quintil,398,1.4832237891727094,1.4412465089637172,1.5252010693817015,1.431091634753425,1.4117345961934553,1.0,2.0777290868835627,0.35336254786986243,1.0,1.0,1.0
+2008,kein Migrationshintergrund,4. Quintil,446,1.435682606407816,1.3898585072632212,1.481506705552411,1.3271609843819399,2.0,2.4626726793254132,1.0,1.0,1.0,1.0,1.0
+2008,kein Migrationshintergrund,5. Quintil,533,1.3576198319712525,1.3247146351580428,1.3905250287844622,1.0,1.0,1.0345962478932484,3.0,1.0,1.0,1.0,1.0
+2008,direkter Migrationshintergrund,1. Quintil,50,1.3997030064769034,1.3051913574439018,1.494214655509905,1.822616178337015,1.0,1.0,3.056540445842537,-0.23392426750552242,1.0,1.0,1.0
+2008,direkter Migrationshintergrund,2. Quintil,48,1.4034449419267707,1.3021241908797665,1.504765692973775,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+2008,direkter Migrationshintergrund,3. Quintil,47,1.2483933431686491,1.1836053274722402,1.313181358865058,1.9979203666016145,1.0,1.0,3.4948009165040363,-0.4968805499024218,1.0,1.0,1.0
+2008,direkter Migrationshintergrund,4. Quintil,34,1.206793218393032,1.1258978264117672,1.287688610374297,1.4519822624666938,1.0,1.0,3.0,0.3220266062999593,1.0,1.0,1.0
 2008,direkter Migrationshintergrund,5. Quintil,,,,,,,,,,,,
-2008,indirekter Migrationshintergrund,-6,,,,,,,,,,,,
 2008,indirekter Migrationshintergrund,1. Quintil,,,,,,,,,,,,
 2008,indirekter Migrationshintergrund,2. Quintil,,,,,,,,,,,,
 2008,indirekter Migrationshintergrund,3. Quintil,,,,,,,,,,,,
 2008,indirekter Migrationshintergrund,4. Quintil,,,,,,,,,,,,
 2008,indirekter Migrationshintergrund,5. Quintil,,,,,,,,,,,,
-2009,kein Migrationshintergrund,-6,,,,,,,,,,,,
-2009,kein Migrationshintergrund,1. Quintil,1.4578500608004377,1.4029547139985263,1.512745407602349,1.0,1.0,2.0,1.0,3.5,1.0,1.0,1.0,214.0
-2009,kein Migrationshintergrund,2. Quintil,1.8506945955897522,1.6974494434976741,2.00393974768183,1.0,1.0,2.0,1.0,3.5,1.0,1.0,1.0,313.0
-2009,kein Migrationshintergrund,3. Quintil,1.3997387129382293,1.3615685582482482,1.4379088676282104,1.0,1.0,2.0,1.0,3.5,1.0,1.0,1.0,469.0
-2009,kein Migrationshintergrund,4. Quintil,1.4598569923867084,1.4107242946027883,1.5089896901706286,1.0,1.0,1.7298360100751178,1.0,2.8245900251877947,1.0,1.0,1.0,458.0
-2009,kein Migrationshintergrund,5. Quintil,1.3839658418790024,1.3421275337808576,1.4258041499771472,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,535.0
-2009,direkter Migrationshintergrund,-6,,,,,,,,,,,,
-2009,direkter Migrationshintergrund,1. Quintil,1.3901764903059686,1.3148706632076372,1.4654823174043,1.0,1.0,2.0,1.0,3.0,1.0,0.0,1.0,45.0
-2009,direkter Migrationshintergrund,2. Quintil,1.4372050315863696,1.3581731141263687,1.5162369490463705,1.0,1.0,2.0,1.0,3.5,1.0,0.0,1.0,41.0
-2009,direkter Migrationshintergrund,3. Quintil,1.48140413908082,1.3476030748899386,1.6152052032717013,1.0,1.0,2.0,1.0,3.5,1.0,0.0,1.0,35.0
-2009,direkter Migrationshintergrund,4. Quintil,1.3292594390560801,1.2245765773649158,1.4339423007472445,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,40.0
-2009,direkter Migrationshintergrund,5. Quintil,1.185700001755481,1.1139688780793155,1.2574311254316466,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,33.0
-2009,indirekter Migrationshintergrund,-6,,,,,,,,,,,,
+2009,kein Migrationshintergrund,1. Quintil,214,1.4578500608004377,1.4029547139985263,1.512745407602349,1.0,1.1904414398579488,1.0,2.0,1.0,1.0,1.0,1.0
+2009,kein Migrationshintergrund,2. Quintil,313,1.8506945955897527,1.6974494434976746,2.003939747681831,1.0,1.3153482180120137,1.0,2.0,1.0,1.0,1.0,1.0
+2009,kein Migrationshintergrund,3. Quintil,469,1.3997387129382295,1.3615685582482484,1.4379088676282106,1.0,1.0,1.833582571084115,1.0,3.0,1.0,1.0,1.0
+2009,kein Migrationshintergrund,4. Quintil,458,1.4598569923867082,1.410724294602788,1.5089896901706283,1.9274614180656127,1.779631782830681,1.8570706442122047,2.0330475788457245,1.0,1.0,1.0,1.0
+2009,kein Migrationshintergrund,5. Quintil,535,1.383965841879002,1.3421275337808571,1.4258041499771468,1.1143254944443308,1.5232212732294328,1.604146546791502,1.0,1.0,1.0,1.0,1.0
+2009,direkter Migrationshintergrund,1. Quintil,45,1.3901764903059688,1.3148706632076375,1.4654823174043001,1.8492913009324072,1.00885822827578,1.848981654805274,1.849755770123107,1.8485171856145741,1.0,0.0,1.0
+2009,direkter Migrationshintergrund,2. Quintil,41,1.4372050315863696,1.3581731141263687,1.5162369490463705,1.0,1.7461739864461945,1.4129751819400052,1.0,1.0,1.0,0.0,1.0
+2009,direkter Migrationshintergrund,3. Quintil,35,1.4814041390808197,1.3476030748899384,1.615205203271701,1.0,1.0,5.81309526842814,3.0,1.0,1.0,0.0,1.0
+2009,direkter Migrationshintergrund,4. Quintil,40,1.3292594390560801,1.2245765773649158,1.4339423007472445,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+2009,direkter Migrationshintergrund,5. Quintil,33,1.1857000017554808,1.1139688780793153,1.2574311254316464,1.813634301802682,1.0,1.908727591300872,1.6709943675553967,1.0,1.0,1.0,1.0
 2009,indirekter Migrationshintergrund,1. Quintil,,,,,,,,,,,,
 2009,indirekter Migrationshintergrund,2. Quintil,,,,,,,,,,,,
 2009,indirekter Migrationshintergrund,3. Quintil,,,,,,,,,,,,
 2009,indirekter Migrationshintergrund,4. Quintil,,,,,,,,,,,,
 2009,indirekter Migrationshintergrund,5. Quintil,,,,,,,,,,,,
-2010,kein Migrationshintergrund,-6,,,,,,,,,,,,
-2010,kein Migrationshintergrund,1. Quintil,1.6609538181631118,1.583864115227121,1.7380435210991028,1.0,1.0,2.0,1.0,3.5,1.0,1.0,1.0,341.0
-2010,kein Migrationshintergrund,2. Quintil,1.4561845961900555,1.4122575114997284,1.5001116808803825,1.0,1.0,2.0,1.0,3.5,1.0,1.0,1.0,498.0
-2010,kein Migrationshintergrund,3. Quintil,1.3412418909097312,1.3087343184091442,1.3737494634103182,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,585.0
-2010,kein Migrationshintergrund,4. Quintil,1.542574649191668,1.4788914316978539,1.6062578666854823,1.0,1.0,2.0,1.0,3.5,1.0,1.0,1.0,608.0
-2010,kein Migrationshintergrund,5. Quintil,1.2823431754102792,1.259081816258481,1.3056045345620775,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,622.0
-2010,direkter Migrationshintergrund,-6,,,,,,,,,,,,
-2010,direkter Migrationshintergrund,1. Quintil,1.421377623515108,1.2860806366327373,1.556674610397479,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,138.0
-2010,direkter Migrationshintergrund,2. Quintil,1.1846701394866663,1.146168809090839,1.2231714698824936,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,110.0
-2010,direkter Migrationshintergrund,3. Quintil,1.5981261126721897,1.482754457468256,1.7134977678761234,1.0,1.0,2.0,1.0,3.5,1.0,0.0,1.0,72.0
-2010,direkter Migrationshintergrund,4. Quintil,1.2301279459454826,1.1780694570526578,1.2821864348383074,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,59.0
-2010,direkter Migrationshintergrund,5. Quintil,2.2238596329987,1.761203326246588,2.6865159397508123,1.0,1.0,1.8071412666000164,1.0,3.017853166500041,1.0,1.0,1.0,44.0
-2010,indirekter Migrationshintergrund,-6,,,,,,,,,,,,
+2010,kein Migrationshintergrund,1. Quintil,341,1.6609538181631118,1.583864115227121,1.7380435210991028,2.0418355480194004,5.739129956483737,1.4542338587908303,2.923238081862255,0.5728313249479753,1.0,1.0,1.0
+2010,kein Migrationshintergrund,2. Quintil,498,1.4561845961900555,1.4122575114997284,1.5001116808803825,2.1348091734945154,1.0,1.0,3.8370229337362884,-0.7022137602417731,1.0,1.0,1.0
+2010,kein Migrationshintergrund,3. Quintil,585,1.3412418909097317,1.3087343184091447,1.3737494634103187,1.0,2.0,1.2233632207205163,4.0,1.0,1.0,1.0,1.0
+2010,kein Migrationshintergrund,4. Quintil,608,1.5425746491916688,1.4788914316978545,1.606257866685483,1.0,1.6525526398535428,1.0,1.0,1.0,1.0,1.0,1.0
+2010,kein Migrationshintergrund,5. Quintil,622,1.2823431754102792,1.259081816258481,1.3056045345620775,1.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0
+2010,direkter Migrationshintergrund,1. Quintil,138,1.4213776235151079,1.2860806366327373,1.5566746103974785,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+2010,direkter Migrationshintergrund,2. Quintil,110,1.1846701394866663,1.146168809090839,1.2231714698824936,1.0,1.0,1.0,2.0,1.0,1.0,1.0,1.0
+2010,direkter Migrationshintergrund,3. Quintil,72,1.59812611267219,1.4827544574682563,1.7134977678761236,2.423777263389909,1.0,1.1667006528585944,4.30939217918688,-0.7189142629383773,1.0,1.0,1.0
+2010,direkter Migrationshintergrund,4. Quintil,59,1.2301279459454821,1.1780694570526573,1.282186434838307,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+2010,direkter Migrationshintergrund,5. Quintil,44,2.2238596329986997,1.7612033262465876,2.686515939750812,1.0,1.1061492299978235,1.4881979461578692,3.0,1.0,1.0,1.0,1.0
 2010,indirekter Migrationshintergrund,1. Quintil,,,,,,,,,,,,
-2010,indirekter Migrationshintergrund,2. Quintil,1.6259228800192531,1.5043349830640758,1.7475107769744305,1.0,2.0,2.0,1.0,3.5,2.0,2.0,3.0,39.0
+2010,indirekter Migrationshintergrund,2. Quintil,39,1.6259228800192533,1.504334983064076,1.7475107769744307,1.0,1.414030001618486,1.4726846167011391,1.0,1.0,2.0,2.0,3.0
 2010,indirekter Migrationshintergrund,3. Quintil,,,,,,,,,,,,
-2010,indirekter Migrationshintergrund,4. Quintil,1.1752373063620105,1.0586429107515227,1.2918317019724983,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,31.0
+2010,indirekter Migrationshintergrund,4. Quintil,31,1.1752373063620105,1.0586429107515227,1.2918317019724983,1.046875350863388,1.0,1.3828833590029987,1.0,1.886895371212415,1.0,1.0,1.0
 2010,indirekter Migrationshintergrund,5. Quintil,,,,,,,,,,,,
-2011,kein Migrationshintergrund,-6,,,,,,,,,,,,
-2011,kein Migrationshintergrund,1. Quintil,1.4504365003907775,1.4080694082969867,1.4928035924845684,1.0,1.0,2.0,1.0,3.5,1.0,1.0,1.0,395.0
-2011,kein Migrationshintergrund,2. Quintil,1.582363084319614,1.5097020565505372,1.6550241120886906,1.0,1.0,2.0,1.0,3.5,1.0,1.0,1.0,572.0
-2011,kein Migrationshintergrund,3. Quintil,1.3503655154619896,1.32451947496143,1.3762115559625492,1.0,1.0,2.0,1.0,3.5,1.0,1.0,1.0,682.0
-2011,kein Migrationshintergrund,4. Quintil,1.4207416170557345,1.3877367879224425,1.4537464461890266,1.0,1.0,2.0,1.0,3.5,1.0,1.0,1.0,730.0
-2011,kein Migrationshintergrund,5. Quintil,1.3760472920784603,1.333432554708813,1.4186620294481076,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,831.0
-2011,direkter Migrationshintergrund,-6,,,,,,,,,,,,
-2011,direkter Migrationshintergrund,1. Quintil,1.1582289204418363,1.1156859980429752,1.2007718428406975,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,117.0
-2011,direkter Migrationshintergrund,2. Quintil,1.3943451160913654,1.3306664348422474,1.4580237973404833,1.0,1.0,2.0,1.0,3.5,1.0,1.0,1.0,122.0
-2011,direkter Migrationshintergrund,3. Quintil,1.600994291991702,1.511637362518874,1.69035122146453,1.0,1.0,2.0,1.0,3.5,1.0,0.0,1.0,108.0
-2011,direkter Migrationshintergrund,4. Quintil,1.3396282981218455,1.2513999036530699,1.427856692590621,1.0,1.0,2.0,1.0,3.5,1.0,1.0,1.0,77.0
-2011,direkter Migrationshintergrund,5. Quintil,1.3854152068716903,1.2870188763599997,1.483811537383381,1.0,1.0,1.5041029432846156,1.0,2.260257358211539,1.0,1.0,1.0,60.0
-2011,indirekter Migrationshintergrund,-6,,,,,,,,,,,,
+2011,kein Migrationshintergrund,1. Quintil,395,1.4504365003907778,1.4080694082969871,1.4928035924845684,1.0,1.0,2.628188259506983,1.0,1.0,1.0,1.0,1.0
+2011,kein Migrationshintergrund,2. Quintil,572,1.5823630843196137,1.509702056550537,1.6550241120886904,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+2011,kein Migrationshintergrund,3. Quintil,682,1.3503655154619896,1.32451947496143,1.3762115559625492,1.0,2.6580437916443533,1.9160560463833027,3.0,1.0,1.0,1.0,1.0
+2011,kein Migrationshintergrund,4. Quintil,730,1.4207416170557343,1.3877367879224423,1.4537464461890264,1.6844099727579898,1.0,2.9707486201393936,1.0,1.0,1.0,1.0,1.0
+2011,kein Migrationshintergrund,5. Quintil,831,1.3760472920784603,1.333432554708813,1.4186620294481076,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+2011,direkter Migrationshintergrund,1. Quintil,117,1.1582289204418363,1.1156859980429752,1.2007718428406975,2.3864432667846525,1.0604093719734866,2.7995636567011672,2.0,2.0,1.0,1.0,1.0
+2011,direkter Migrationshintergrund,2. Quintil,122,1.3943451160913654,1.3306664348422474,1.4580237973404833,1.2227844895444777,1.0,1.0,1.5569612238611943,0.6658232656832834,1.0,1.0,1.0
+2011,direkter Migrationshintergrund,3. Quintil,108,1.6009942919917017,1.5116373625188737,1.6903512214645298,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+2011,direkter Migrationshintergrund,4. Quintil,77,1.3396282981218457,1.25139990365307,1.4278566925906213,1.3651465815249975,1.1646632302226747,1.8854092446118424,1.0,2.66580323924211,1.0,1.0,1.0
+2011,direkter Migrationshintergrund,5. Quintil,60,1.3854152068716903,1.2870188763599997,1.483811537383381,1.0,1.0,1.0,2.0,1.0,1.0,1.0,1.0
 2011,indirekter Migrationshintergrund,1. Quintil,,,,,,,,,,,,
-2011,indirekter Migrationshintergrund,2. Quintil,1.6243627448532751,1.413630516529227,1.8350949731773232,1.0,1.0,2.0123924377696247,1.0,3.530981094424062,1.0,-1.0,1.0,30.0
+2011,indirekter Migrationshintergrund,2. Quintil,30,1.6243627448532756,1.4136305165292276,1.8350949731773236,1.1730244303929986,1.0,2.1476659885294245,1.0,1.0,1.0,-1.0,1.0
 2011,indirekter Migrationshintergrund,3. Quintil,,,,,,,,,,,,
 2011,indirekter Migrationshintergrund,4. Quintil,,,,,,,,,,,,
 2011,indirekter Migrationshintergrund,5. Quintil,,,,,,,,,,,,
-2012,kein Migrationshintergrund,-6,,,,,,,,,,,,
-2012,kein Migrationshintergrund,1. Quintil,1.4681681947504264,1.4167444843471493,1.5195919051537035,1.0,1.0,2.0,1.0,3.5,1.0,1.0,1.0,372.0
-2012,kein Migrationshintergrund,2. Quintil,1.5838995381241705,1.533384098547553,1.634414977700788,1.0,1.0,2.0,1.0,3.5,1.0,1.0,1.0,582.0
-2012,kein Migrationshintergrund,3. Quintil,1.3761087655617479,1.3438360179251303,1.4083815131983655,1.0,1.0,2.0,1.0,3.5,1.0,1.0,1.0,658.0
-2012,kein Migrationshintergrund,4. Quintil,1.479588556054975,1.4295867125293993,1.5295903995805509,1.0,1.0,2.0,1.0,3.5,1.0,1.0,1.0,717.0
-2012,kein Migrationshintergrund,5. Quintil,1.381222251195045,1.342776552327957,1.419667950062133,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,775.0
-2012,direkter Migrationshintergrund,-6,,,,,,,,,,,,
-2012,direkter Migrationshintergrund,1. Quintil,1.4210167204229536,1.3099121726398817,1.5321212682060255,1.0,1.0,2.0,1.0,3.5,1.0,1.0,1.0,74.0
-2012,direkter Migrationshintergrund,2. Quintil,1.4848150476234008,1.3952841491549755,1.574345946091826,1.0,1.0,2.0,1.0,3.5,1.0,1.0,1.0,121.0
-2012,direkter Migrationshintergrund,3. Quintil,1.345655473449515,1.262503670668069,1.428807276230961,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,83.0
-2012,direkter Migrationshintergrund,4. Quintil,1.455498639391823,1.3573069384850054,1.5536903402986406,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,78.0
-2012,direkter Migrationshintergrund,5. Quintil,1.1115947950583125,1.0610336649927838,1.1621559251238411,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,51.0
-2012,indirekter Migrationshintergrund,-6,,,,,,,,,,,,
+2012,kein Migrationshintergrund,1. Quintil,372,1.4681681947504264,1.4167444843471493,1.5195919051537035,1.0,1.0,1.3061167274845444,1.0,1.0,1.0,1.0,1.0
+2012,kein Migrationshintergrund,2. Quintil,582,1.5838995381241705,1.533384098547553,1.634414977700788,1.2984232330529168,2.358424944706403,1.0,2.0,0.5523651504206247,1.0,1.0,1.0
+2012,kein Migrationshintergrund,3. Quintil,658,1.376108765561748,1.3438360179251305,1.4083815131983657,6.874162460198091,1.0,1.0,15.685406150495227,-7.811243690297136,1.0,1.0,1.0
+2012,kein Migrationshintergrund,4. Quintil,717,1.479588556054975,1.4295867125293993,1.5295903995805509,5.733446836535065,1.0,1.0,12.833617091337661,-6.100170254802597,1.0,1.0,1.0
+2012,kein Migrationshintergrund,5. Quintil,775,1.381222251195045,1.342776552327957,1.419667950062133,1.681874123421695,1.0,1.0,2.7046853085542377,-0.022811185132542544,1.0,1.0,1.0
+2012,direkter Migrationshintergrund,1. Quintil,74,1.4210167204229533,1.3099121726398817,1.532121268206025,1.0,1.0,1.9576292329513088,1.0,1.0,1.0,1.0,1.0
+2012,direkter Migrationshintergrund,2. Quintil,121,1.484815047623401,1.3952841491549757,1.5743459460918263,1.0,1.203906131248234,1.5609731008123702,1.0,2.4024327520309257,1.0,1.0,1.0
+2012,direkter Migrationshintergrund,3. Quintil,83,1.3456554734495156,1.2625036706680697,1.4288072762309616,1.0,1.0,1.172085608029172,4.0,1.4302140200729299,1.0,1.0,1.0
+2012,direkter Migrationshintergrund,4. Quintil,78,1.4554986393918232,1.3573069384850056,1.5536903402986408,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+2012,direkter Migrationshintergrund,5. Quintil,51,1.1115947950583123,1.0610336649927836,1.162155925123841,1.0,1.0,1.0,2.0,1.0,1.0,1.0,1.0
 2012,indirekter Migrationshintergrund,1. Quintil,,,,,,,,,,,,
 2012,indirekter Migrationshintergrund,2. Quintil,,,,,,,,,,,,
-2012,indirekter Migrationshintergrund,3. Quintil,1.4507353435426447,1.3060393867726312,1.5954313003126581,1.0,1.0,2.0,1.0,3.5,1.0,0.9749999999999943,1.0,34.0
-2012,indirekter Migrationshintergrund,4. Quintil,1.3257232854573662,1.1893869472189733,1.462059623695759,1.0,1.0,1.1214407004039983,1.0,1.303601751009996,1.0,1.0,1.0,33.0
-2012,indirekter Migrationshintergrund,5. Quintil,1.23424622741926,1.148754463369552,1.3197379914689682,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,32.0
-2013,kein Migrationshintergrund,-6,,,,,,,,,,,,
-2013,kein Migrationshintergrund,1. Quintil,1.5052377099579528,1.4306712672308293,1.5798041526850763,1.0,1.0,2.0,1.0,3.5,1.0,1.0,1.0,326.0
-2013,kein Migrationshintergrund,2. Quintil,1.4373592558569692,1.3888228911146772,1.4858956205992613,1.0,1.0,1.0060260076246648,1.0,1.015065019061662,1.0,1.0,1.0,463.0
-2013,kein Migrationshintergrund,3. Quintil,1.449701981581027,1.4068593170778247,1.4925446460842293,1.0,1.0,2.0,1.0,3.5,1.0,1.0,1.0,630.0
-2013,kein Migrationshintergrund,4. Quintil,1.396045547083957,1.3678132378565402,1.4242778563113738,1.0,1.0,2.0,1.0,3.5,1.0,1.0,1.0,725.0
-2013,kein Migrationshintergrund,5. Quintil,1.3884382445577483,1.356549847784869,1.4203266413306277,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,773.0
-2013,direkter Migrationshintergrund,-6,,,,,,,,,,,,
-2013,direkter Migrationshintergrund,1. Quintil,1.6025745686843127,1.480366526119474,1.7247826112491513,1.0,1.0,2.0,1.0,3.5,1.0,1.0,1.0,73.0
-2013,direkter Migrationshintergrund,2. Quintil,1.4590461654370814,1.363317456246692,1.5547748746274708,1.0,1.0,1.8841705668015463,1.0,3.2104264170038657,1.0,1.0,1.0,95.0
-2013,direkter Migrationshintergrund,3. Quintil,1.3619952031099762,1.2918962365971702,1.4320941696227822,1.0,1.0,2.0,1.0,3.5,1.0,1.0,1.0,84.0
-2013,direkter Migrationshintergrund,4. Quintil,1.3967418616309295,1.2512844268273144,1.5421992964345446,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,53.0
-2013,direkter Migrationshintergrund,5. Quintil,1.1501817763919324,1.0882411159505354,1.2121224368333294,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,43.0
-2013,indirekter Migrationshintergrund,-6,,,,,,,,,,,,
+2012,indirekter Migrationshintergrund,3. Quintil,34,1.4507353435426444,1.306039386772631,1.595431300312658,1.9052961939750754,4.3638459459925505,1.6909340245068536,2.226839448177408,1.0,1.0,1.0,1.0
+2012,indirekter Migrationshintergrund,4. Quintil,33,1.3257232854573662,1.1893869472189733,1.462059623695759,1.0,3.6884051651581156,1.7377197760299743,1.0,1.0,1.0,1.0,1.0
+2012,indirekter Migrationshintergrund,5. Quintil,32,1.23424622741926,1.148754463369552,1.3197379914689682,1.0,1.4300012436461584,1.0,1.0,1.0,1.0,1.0,1.0
+2013,kein Migrationshintergrund,1. Quintil,326,1.5052377099579528,1.4306712672308293,1.5798041526850763,1.0,1.0,1.9367661354393326,1.0,1.0,1.0,1.0,1.0
+2013,kein Migrationshintergrund,2. Quintil,463,1.4373592558569694,1.3888228911146774,1.4858956205992615,1.0,1.0,1.0,8.0,1.0,1.0,1.0,1.0
+2013,kein Migrationshintergrund,3. Quintil,630,1.449701981581027,1.4068593170778247,1.4925446460842293,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+2013,kein Migrationshintergrund,4. Quintil,725,1.3960455470839568,1.36781323785654,1.4242778563113736,1.643309718619116,1.1742921594668796,1.0,2.6082742965477896,0.03503542207132615,1.0,1.0,1.0
+2013,kein Migrationshintergrund,5. Quintil,773,1.3884382445577488,1.3565498477848694,1.4203266413306281,1.0,1.2781804723860444,1.6787929583682923,2.0,1.0,1.0,1.0,1.0
+2013,direkter Migrationshintergrund,1. Quintil,73,1.6025745686843127,1.480366526119474,1.7247826112491513,2.1684834332674847,1.0,1.0,5.0,-0.7527251499012271,1.0,1.0,1.0
+2013,direkter Migrationshintergrund,2. Quintil,95,1.4590461654370819,1.3633174562466923,1.5547748746274714,1.0,1.0,1.8919068267014445,1.0,1.0,1.0,1.0,1.0
+2013,direkter Migrationshintergrund,3. Quintil,84,1.3619952031099767,1.2918962365971707,1.4320941696227827,1.0,1.0,1.1223518460079898,2.0,1.0,1.0,1.0,1.0
+2013,direkter Migrationshintergrund,4. Quintil,53,1.3967418616309297,1.2512844268273147,1.5421992964345448,1.0,1.0,2.348428811333217,1.0,1.0,1.0,1.0,1.0
+2013,direkter Migrationshintergrund,5. Quintil,43,1.1501817763919324,1.0882411159505354,1.2121224368333294,1.0,1.0,1.6228994112051573,1.0,1.0,1.0,1.0,1.0
 2013,indirekter Migrationshintergrund,1. Quintil,,,,,,,,,,,,
 2013,indirekter Migrationshintergrund,2. Quintil,,,,,,,,,,,,
-2013,indirekter Migrationshintergrund,3. Quintil,1.1392611524096588,1.0701437352943508,1.2083785695249667,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,32.0
+2013,indirekter Migrationshintergrund,3. Quintil,32,1.1392611524096583,1.0701437352943506,1.208378569524966,1.0,1.6756874279123404,1.0,1.0,1.0,1.0,1.0,1.0
 2013,indirekter Migrationshintergrund,4. Quintil,,,,,,,,,,,,
 2013,indirekter Migrationshintergrund,5. Quintil,,,,,,,,,,,,
-2014,kein Migrationshintergrund,-6,,,,,,,,,,,,
-2014,kein Migrationshintergrund,1. Quintil,1.4790908974784296,1.4214776957986375,1.5367040991582217,1.0,1.0,2.0,1.0,3.5,1.0,1.0,1.0,264.0
-2014,kein Migrationshintergrund,2. Quintil,1.5314724965458755,1.490451213808706,1.572493779283045,1.0,1.0,2.0,1.0,3.5,1.0,1.0,1.0,436.0
-2014,kein Migrationshintergrund,3. Quintil,1.4815298481318522,1.441985407748929,1.5210742885147754,1.0,1.0,2.0,1.0,3.5,1.0,1.0,1.0,506.0
-2014,kein Migrationshintergrund,4. Quintil,1.3635954892379527,1.3247156465937857,1.4024753318821197,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,636.0
-2014,kein Migrationshintergrund,5. Quintil,1.3219032462398892,1.2936885848379671,1.3501179076418113,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,684.0
-2014,direkter Migrationshintergrund,-6,,,,,,,,,,,,
-2014,direkter Migrationshintergrund,1. Quintil,1.373805625332523,1.2885890098377153,1.4590222408273308,1.0,1.0,2.0,1.0,3.5,1.0,1.0,1.0,51.0
-2014,direkter Migrationshintergrund,2. Quintil,1.1934109802457977,1.1186541372203416,1.2681678232712539,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,90.0
-2014,direkter Migrationshintergrund,3. Quintil,1.417673824152738,1.3323317726261616,1.5030158756793144,1.0,1.0,2.0,1.0,3.5,1.0,1.0,1.0,74.0
-2014,direkter Migrationshintergrund,4. Quintil,1.2921112085811,1.2052843562841693,1.3789380608780306,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,51.0
-2014,direkter Migrationshintergrund,5. Quintil,1.2832667902457788,1.208873096673161,1.3576604838183968,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,47.0
-2014,indirekter Migrationshintergrund,-6,,,,,,,,,,,,
+2014,kein Migrationshintergrund,1. Quintil,264,1.4790908974784294,1.4214776957986373,1.5367040991582215,1.0,1.4774032151105554,1.0,2.0,1.0,1.0,1.0,1.0
+2014,kein Migrationshintergrund,2. Quintil,436,1.5314724965458757,1.4904512138087063,1.5724937792830451,1.8381256859285133,1.163576554502805,1.7424609112799019,1.9816228479014306,1.0,1.0,1.0,1.0
+2014,kein Migrationshintergrund,3. Quintil,506,1.4815298481318524,1.4419854077489291,1.5210742885147757,1.0,1.3844710476355084,1.0,1.0,1.0,1.0,1.0,1.0
+2014,kein Migrationshintergrund,4. Quintil,636,1.3635954892379532,1.3247156465937862,1.4024753318821201,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+2014,kein Migrationshintergrund,5. Quintil,684,1.3219032462398892,1.2936885848379671,1.3501179076418113,1.4142335964139667,1.0,3.947882499386768,1.0,1.0,1.0,1.0,1.0
+2014,direkter Migrationshintergrund,1. Quintil,51,1.3738056253325233,1.2885890098377155,1.459022240827331,1.0,1.8570758630146378,1.0,1.0,1.0,1.0,0.0,1.0
+2014,direkter Migrationshintergrund,2. Quintil,90,1.193410980245798,1.1186541372203418,1.268167823271254,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+2014,direkter Migrationshintergrund,3. Quintil,74,1.4176738241527378,1.3323317726261614,1.5030158756793142,1.4538155870983986,1.0,1.0,2.1345389677459967,0.31927661935240204,1.0,1.0,1.0
+2014,direkter Migrationshintergrund,4. Quintil,51,1.2921112085811002,1.2052843562841695,1.3789380608780308,2.9619141953006984,1.7053100937981238,1.0,5.904785488251746,-1.9428712929510477,1.0,1.0,1.0
+2014,direkter Migrationshintergrund,5. Quintil,47,1.2832667902457793,1.2088730966731613,1.3576604838183972,1.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0
 2014,indirekter Migrationshintergrund,1. Quintil,,,,,,,,,,,,
 2014,indirekter Migrationshintergrund,2. Quintil,,,,,,,,,,,,
 2014,indirekter Migrationshintergrund,3. Quintil,,,,,,,,,,,,
 2014,indirekter Migrationshintergrund,4. Quintil,,,,,,,,,,,,
 2014,indirekter Migrationshintergrund,5. Quintil,,,,,,,,,,,,
-2015,kein Migrationshintergrund,-6,,,,,,,,,,,,
-2015,kein Migrationshintergrund,1. Quintil,1.5770023567244926,1.4701422655644822,1.683862447884503,1.0,1.0,2.0,1.0,3.5,1.0,1.0,1.0,248.0
-2015,kein Migrationshintergrund,2. Quintil,1.4620023029364546,1.4101827460431031,1.513821859829806,1.0,1.0,2.0,1.0,3.5,1.0,1.0,1.0,333.0
-2015,kein Migrationshintergrund,3. Quintil,1.5748479694968038,1.474347969888062,1.6753479691055457,1.0,1.0,2.0,1.0,3.5,1.0,1.0,1.0,512.0
-2015,kein Migrationshintergrund,4. Quintil,1.350139799685919,1.317861118306609,1.3824184810652291,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,663.0
-2015,kein Migrationshintergrund,5. Quintil,1.406974325440413,1.36383177145072,1.450116879430106,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,742.0
-2015,direkter Migrationshintergrund,-6,,,,,,,,,,,,
-2015,direkter Migrationshintergrund,1. Quintil,1.4129141660700975,1.3571096026040246,1.4687187295361703,1.0,1.0,2.0,1.0,3.5,1.0,1.0,1.0,122.0
-2015,direkter Migrationshintergrund,2. Quintil,1.4073631987185224,1.2805893389308265,1.5341370585062184,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,129.0
-2015,direkter Migrationshintergrund,3. Quintil,1.3352003868828481,1.2662310661116232,1.4041697076540731,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,126.0
-2015,direkter Migrationshintergrund,4. Quintil,1.119529769723698,1.082201941582813,1.1568575978645832,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,118.0
-2015,direkter Migrationshintergrund,5. Quintil,1.1447855483556644,1.1017827935204765,1.1877883031908523,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,97.0
-2015,indirekter Migrationshintergrund,-6,,,,,,,,,,,,
-2015,indirekter Migrationshintergrund,1. Quintil,1.2056459171877647,1.1047092581787534,1.306582576196776,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,33.0
-2015,indirekter Migrationshintergrund,2. Quintil,1.3083286668906557,1.2009318818644246,1.415725451916887,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,35.0
-2015,indirekter Migrationshintergrund,3. Quintil,1.186251548907199,1.075949398759642,1.296553699054756,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,35.0
-2015,indirekter Migrationshintergrund,4. Quintil,1.232761059801361,1.155207683567282,1.31031443603544,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,46.0
-2015,indirekter Migrationshintergrund,5. Quintil,1.2487255251043794,1.0751740214682317,1.422277028740527,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,33.0
-2016,kein Migrationshintergrund,-6,,,,,,,,,,,,
-2016,kein Migrationshintergrund,1. Quintil,1.5185740193148918,1.4458623981801977,1.5912856404495859,1.0,1.0,2.0,1.0,3.5,1.0,1.0,1.0,204.0
-2016,kein Migrationshintergrund,2. Quintil,1.5822725523499621,1.5071978078792885,1.6573472968206358,1.0,1.0,2.0,1.0,3.5,1.0,1.0,1.0,295.0
-2016,kein Migrationshintergrund,3. Quintil,1.4361995817103421,1.398840496135144,1.4735586672855403,1.0,1.0,2.0,1.0,3.5,1.0,1.0,1.0,465.0
-2016,kein Migrationshintergrund,4. Quintil,1.4068448739886,1.3722547471207225,1.4414350008564774,1.0,1.0,2.0,1.0,3.5,1.0,1.0,1.0,613.0
-2016,kein Migrationshintergrund,5. Quintil,1.6006698270778785,1.485485461819029,1.715854192336728,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,720.0
-2016,direkter Migrationshintergrund,-6,,,,,,,,,,,,
-2016,direkter Migrationshintergrund,1. Quintil,1.3403462324820694,1.286472489226498,1.3942199757376408,1.0,1.0,2.0,1.0,3.5,1.0,1.0,1.0,149.0
-2016,direkter Migrationshintergrund,2. Quintil,1.1927802322663477,1.1542204066040993,1.231340057928596,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,146.0
-2016,direkter Migrationshintergrund,3. Quintil,1.3410600263483716,1.2961506049843157,1.3859694477124276,1.0,1.0,2.0,1.0,3.5,1.0,1.0,1.0,141.0
-2016,direkter Migrationshintergrund,4. Quintil,1.3350323321744246,1.214000433555591,1.4560642307932583,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,108.0
-2016,direkter Migrationshintergrund,5. Quintil,1.1936025465950417,1.1472001336691726,1.2400049595209108,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,108.0
-2016,indirekter Migrationshintergrund,-6,,,,,,,,,,,,
-2016,indirekter Migrationshintergrund,1. Quintil,4.014547564253353,2.646346696200875,5.3827484323058306,1.0,1.0,2.0,1.0,3.5,1.0,0.0,1.0,32.0
-2016,indirekter Migrationshintergrund,2. Quintil,1.1098918265705737,1.0567514191956344,1.163032233945513,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,42.0
-2016,indirekter Migrationshintergrund,3. Quintil,1.5949913357212369,1.3381549472921903,1.8518277241502834,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,41.0
+2015,kein Migrationshintergrund,1. Quintil,248,1.5770023567244924,1.470142265564482,1.6838624478845028,1.0,4.955742012816293,1.0765346939501228,1.0,1.0,1.0,1.0,1.0
+2015,kein Migrationshintergrund,2. Quintil,333,1.4620023029364546,1.4101827460431031,1.513821859829806,1.0,4.225063598041957,2.474420181799749,1.0,1.0,1.0,1.0,1.0
+2015,kein Migrationshintergrund,3. Quintil,512,1.5748479694968038,1.474347969888062,1.6753479691055457,1.8481157193884226,1.865885808525256,1.0,3.1202892984710564,-0.27217357908263384,1.0,1.0,1.0
+2015,kein Migrationshintergrund,4. Quintil,663,1.350139799685919,1.317861118306609,1.3824184810652291,1.0910312921617982,2.325497302871768,1.0,1.2275782304044953,0.8634530617573027,1.0,1.0,1.0
+2015,kein Migrationshintergrund,5. Quintil,742,1.406974325440413,1.36383177145072,1.450116879430106,8.540129102661428,1.0,1.0,19.85032275665357,-10.310193653992142,1.0,1.0,1.0
+2015,direkter Migrationshintergrund,1. Quintil,122,1.412914166070097,1.3571096026040241,1.4687187295361699,1.068156814251201,1.3622874793862363,1.0,2.0,0.8977647786231985,1.0,1.0,1.0
+2015,direkter Migrationshintergrund,2. Quintil,129,1.4073631987185227,1.2805893389308267,1.5341370585062186,1.0,1.0,1.0,3.0,1.0,1.0,1.0,1.0
+2015,direkter Migrationshintergrund,3. Quintil,126,1.335200386882848,1.266231066111623,1.404169707654073,1.0,1.619504621149906,2.473294896275585,1.0,2.0,1.0,1.0,1.0
+2015,direkter Migrationshintergrund,4. Quintil,118,1.119529769723698,1.082201941582813,1.1568575978645832,1.0,1.0,1.63187611206321,1.0,1.0,1.0,1.0,1.0
+2015,direkter Migrationshintergrund,5. Quintil,97,1.1447855483556644,1.1017827935204765,1.1877883031908523,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+2015,indirekter Migrationshintergrund,1. Quintil,33,1.205645917187765,1.1047092581787537,1.3065825761967762,1.0,1.0,1.0,2.0,1.0,1.0,1.0,1.0
+2015,indirekter Migrationshintergrund,2. Quintil,35,1.308328666890656,1.2009318818644248,1.4157254519168871,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+2015,indirekter Migrationshintergrund,3. Quintil,35,1.186251548907199,1.075949398759642,1.296553699054756,1.0,1.3589898680794328,1.0,2.0,1.0,1.0,1.0,1.0
+2015,indirekter Migrationshintergrund,4. Quintil,46,1.2327610598013607,1.1552076835672818,1.3103144360354397,1.4238876304607677,1.0,1.0,2.0597190761519193,0.3641685543088484,1.0,1.0,1.0
+2015,indirekter Migrationshintergrund,5. Quintil,33,1.2487255251043796,1.075174021468232,1.4222770287405273,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+2016,kein Migrationshintergrund,1. Quintil,204,1.518574019314892,1.445862398180198,1.591285640449586,1.0,2.6388345602735837,1.0,2.0,1.0,1.0,1.0,1.0
+2016,kein Migrationshintergrund,2. Quintil,295,1.5822725523499621,1.5071978078792885,1.6573472968206358,1.0,1.2093814574620019,1.0593069136339612,1.0,1.0,1.0,1.0,1.0
+2016,kein Migrationshintergrund,3. Quintil,465,1.4361995817103423,1.3988404961351442,1.4735586672855405,1.0,1.785898591862757,1.817573280441097,1.0,2.0,1.0,1.0,1.0
+2016,kein Migrationshintergrund,4. Quintil,613,1.4068448739886,1.3722547471207225,1.4414350008564774,1.9638828697794257,1.0,2.1670856326105294,1.6590787255327701,1.0,1.0,1.0,1.0
+2016,kein Migrationshintergrund,5. Quintil,720,1.6006698270778785,1.485485461819029,1.715854192336728,1.0,1.0,1.7515726499943862,1.0,2.0,1.0,1.0,1.0
+2016,direkter Migrationshintergrund,1. Quintil,149,1.3403462324820699,1.2864724892264985,1.3942199757376412,1.0,1.0,1.5707780568456342,1.0,1.0,1.0,1.0,1.0
+2016,direkter Migrationshintergrund,2. Quintil,146,1.192780232266348,1.1542204066040997,1.2313400579285965,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+2016,direkter Migrationshintergrund,3. Quintil,141,1.3410600263483716,1.2961506049843157,1.3859694477124276,2.0,2.0,1.9554128406492928,2.066880739026061,1.0,1.0,1.0,1.0
+2016,direkter Migrationshintergrund,4. Quintil,108,1.335032332174425,1.2140004335555914,1.4560642307932588,1.0,1.0,1.864950855065096,1.0,1.0,1.0,1.0,1.0
+2016,direkter Migrationshintergrund,5. Quintil,108,1.1936025465950417,1.1472001336691726,1.2400049595209108,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+2016,indirekter Migrationshintergrund,1. Quintil,32,4.014547564253353,2.646346696200875,5.3827484323058306,1.3817911107111578,29.075963675490097,1.0,1.9544777767778945,0.4273133339332633,1.0,0.0,1.0
+2016,indirekter Migrationshintergrund,2. Quintil,42,1.1098918265705737,1.0567514191956344,1.163032233945513,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+2016,indirekter Migrationshintergrund,3. Quintil,41,1.5949913357212369,1.3381549472921903,1.8518277241502834,1.0,1.0,2.3548796708782067,1.0,1.0,1.0,1.0,1.0
 2016,indirekter Migrationshintergrund,4. Quintil,,,,,,,,,,,,
-2016,indirekter Migrationshintergrund,5. Quintil,1.0399397259216425,0.996549780693278,1.0833296711500071,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,32.0
-2017,kein Migrationshintergrund,-6,,,,,,,,,,,,
-2017,kein Migrationshintergrund,1. Quintil,1.625056952250286,1.5302834118217659,1.7198304926788062,1.0,1.0,2.0,1.0,3.5,1.0,1.0,1.0,195.0
-2017,kein Migrationshintergrund,2. Quintil,1.5465368586907033,1.4573154878702905,1.6357582295111162,1.0,1.0,2.0,1.0,3.5,1.0,1.0,1.0,325.0
-2017,kein Migrationshintergrund,3. Quintil,1.6064030879858504,1.557444034131578,1.6553621418401228,1.0,1.0,2.0,1.0,3.5,1.0,1.0,1.0,539.0
-2017,kein Migrationshintergrund,4. Quintil,1.3718396479703032,1.340313986114539,1.4033653098260674,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,690.0
-2017,kein Migrationshintergrund,5. Quintil,1.3641266422133884,1.3369645161051973,1.3912887683215795,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,922.0
-2017,direkter Migrationshintergrund,-6,,,,,,,,,,,,
-2017,direkter Migrationshintergrund,1. Quintil,1.4598306539035792,1.3612566269936721,1.5584046808134864,1.0,1.0,2.0,1.0,3.5,1.0,1.0,1.0,123.0
-2017,direkter Migrationshintergrund,2. Quintil,1.431042555787029,1.3734742707219683,1.4886108408520897,1.0,1.0,2.0,1.0,3.5,1.0,1.0,1.0,142.0
-2017,direkter Migrationshintergrund,3. Quintil,1.5490929960559192,1.4662335496119505,1.631952442499888,1.0,1.0,2.0,1.0,3.5,1.0,1.0,1.0,136.0
-2017,direkter Migrationshintergrund,4. Quintil,1.2455590008021955,1.1873536484247598,1.3037643531796312,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,111.0
-2017,direkter Migrationshintergrund,5. Quintil,1.1537357324464206,1.1199568335321513,1.18751463136069,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,109.0
-2017,indirekter Migrationshintergrund,-6,,,,,,,,,,,,
-2017,indirekter Migrationshintergrund,1. Quintil,1.8301345902823827,1.6642437762049636,1.9960254043598018,1.0,1.0,2.0,1.0,3.5,1.0,0.0,1.0,38.0
-2017,indirekter Migrationshintergrund,2. Quintil,1.11668149862209,1.0501370061343953,1.1832259911097849,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,33.0
-2017,indirekter Migrationshintergrund,3. Quintil,1.2239460053213929,1.1216961956984381,1.3261958149443476,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,35.0
-2017,indirekter Migrationshintergrund,4. Quintil,1.2310289181961167,1.1145426798683076,1.3475151565239258,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,39.0
-2017,indirekter Migrationshintergrund,5. Quintil,1.0499996172605097,1.0122155364951677,1.0877836980258517,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,46.0
-2018,kein Migrationshintergrund,-6,,,,,,,,,,,,
-2018,kein Migrationshintergrund,1. Quintil,1.392551906613456,1.3104629306197195,1.4746408826071924,1.0,1.0,2.0,1.0,3.5,1.0,1.0,1.0,174.0
-2018,kein Migrationshintergrund,2. Quintil,1.522933482601267,1.3571558349220016,1.6887111302805324,1.0,1.0,2.0,1.0,3.5,1.0,1.0,1.0,323.0
-2018,kein Migrationshintergrund,3. Quintil,1.533302155640933,1.4730272538884854,1.5935770573933805,1.0,1.0,2.0,1.0,3.5,1.0,1.0,1.0,478.0
-2018,kein Migrationshintergrund,4. Quintil,1.467352483587066,1.4335269844524643,1.5011779827216676,1.0,1.0,2.0,1.0,3.5,1.0,1.0,1.0,695.0
-2018,kein Migrationshintergrund,5. Quintil,1.3839776551589325,1.357282830160392,1.4106724801574728,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,913.0
-2018,direkter Migrationshintergrund,-6,,,,,,,,,,,,
-2018,direkter Migrationshintergrund,1. Quintil,1.4141989465730034,1.312651940141463,1.5157459530045438,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,114.0
-2018,direkter Migrationshintergrund,2. Quintil,1.2711941215896045,1.208855705852421,1.3335325373267881,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,127.0
-2018,direkter Migrationshintergrund,3. Quintil,1.2317743125168497,1.0986264675506312,1.364922157483068,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,118.0
-2018,direkter Migrationshintergrund,4. Quintil,1.104937023399077,1.0688210619486271,1.1410529848495268,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,138.0
-2018,direkter Migrationshintergrund,5. Quintil,1.1486522224016373,1.1060599161402687,1.191244528663006,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,90.0
-2018,indirekter Migrationshintergrund,-6,,,,,,,,,,,,
+2016,indirekter Migrationshintergrund,5. Quintil,32,1.0399397259216423,0.9965497806932778,1.083329671150007,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+2017,kein Migrationshintergrund,1. Quintil,195,1.625056952250286,1.5302834118217659,1.7198304926788062,1.6594537115804453,1.0,1.8711571094269037,1.3418986148107577,1.0,1.0,1.0,1.0
+2017,kein Migrationshintergrund,2. Quintil,325,1.5465368586907038,1.457315487870291,1.6357582295111166,1.0,1.839792024145393,1.0,1.0,1.0,1.0,1.0,1.0
+2017,kein Migrationshintergrund,3. Quintil,539,1.6064030879858502,1.5574440341315778,1.6553621418401225,1.0,1.0,1.8278104411389215,1.0,1.0,1.0,1.0,1.0
+2017,kein Migrationshintergrund,4. Quintil,690,1.3718396479703032,1.340313986114539,1.4033653098260674,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+2017,kein Migrationshintergrund,5. Quintil,922,1.3641266422133884,1.3369645161051973,1.3912887683215795,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+2017,direkter Migrationshintergrund,1. Quintil,123,1.4598306539035792,1.3612566269936721,1.5584046808134864,1.0,1.5915364456259127,2.8578742252613356,1.0,1.0,1.0,1.0,1.0
+2017,direkter Migrationshintergrund,2. Quintil,142,1.431042555787029,1.3734742707219683,1.4886108408520897,1.0,1.959574994124255,2.0,2.0,1.0,1.0,1.0,1.0
+2017,direkter Migrationshintergrund,3. Quintil,136,1.5490929960559192,1.4662335496119505,1.631952442499888,1.1323169047099149,1.0,1.0,2.0,0.8015246429351277,1.0,0.0,1.0
+2017,direkter Migrationshintergrund,4. Quintil,111,1.2455590008021957,1.18735364842476,1.3037643531796315,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+2017,direkter Migrationshintergrund,5. Quintil,109,1.1537357324464208,1.1199568335321515,1.1875146313606901,1.0,1.0996363867119254,1.5323834814352986,1.0,1.0,1.0,1.0,1.0
+2017,indirekter Migrationshintergrund,1. Quintil,38,1.8301345902823831,1.664243776204964,1.9960254043598022,1.0,1.0,1.0,4.0,1.0,1.0,0.0,1.0
+2017,indirekter Migrationshintergrund,2. Quintil,33,1.11668149862209,1.0501370061343953,1.1832259911097849,1.622553868431519,1.0,1.0,2.5563846710787974,0.06616919735272142,1.0,1.0,1.0
+2017,indirekter Migrationshintergrund,3. Quintil,35,1.2239460053213929,1.1216961956984381,1.3261958149443476,1.7248988753536434,1.0,1.490256894497844,2.0768618466373425,1.0,1.0,1.0,1.0
+2017,indirekter Migrationshintergrund,4. Quintil,39,1.2310289181961165,1.1145426798683076,1.3475151565239254,1.0,1.9258525331781056,1.0,1.0,1.0,1.0,1.0,1.0
+2017,indirekter Migrationshintergrund,5. Quintil,46,1.0499996172605097,1.0122155364951677,1.0877836980258517,1.0,1.0,1.7437579152141907,1.0,1.0,1.0,1.0,1.0
+2018,kein Migrationshintergrund,1. Quintil,174,1.392551906613456,1.3104629306197195,1.4746408826071924,1.613610190395697,2.0,1.9792992784972305,1.0650765582433968,1.0,1.0,1.0,1.0
+2018,kein Migrationshintergrund,2. Quintil,323,1.522933482601267,1.3571558349220016,1.6887111302805324,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+2018,kein Migrationshintergrund,3. Quintil,478,1.5333021556409334,1.4730272538884859,1.593577057393381,6.097314367831814,2.0062332720627336,1.0,13.743285919579534,-6.645971551747721,1.0,1.0,1.0
+2018,kein Migrationshintergrund,4. Quintil,695,1.4673524835870657,1.433526984452464,1.5011779827216674,1.9082464339537974,1.0,1.0,3.2706160848844936,-0.3623696509306962,1.0,1.0,1.0
+2018,kein Migrationshintergrund,5. Quintil,913,1.3839776551589325,1.357282830160392,1.4106724801574728,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+2018,direkter Migrationshintergrund,1. Quintil,114,1.4141989465730032,1.3126519401414627,1.5157459530045436,2.239819454178391,1.213692474012915,1.0,4.099548635445978,-0.8597291812675867,1.0,1.0,1.0
+2018,direkter Migrationshintergrund,2. Quintil,127,1.2711941215896043,1.2088557058524207,1.333532537326788,1.5788710289271801,1.0,1.0,3.0,0.13169345660922982,1.0,1.0,1.0
+2018,direkter Migrationshintergrund,3. Quintil,118,1.2317743125168499,1.0986264675506314,1.3649221574830683,1.0,1.0,1.6443732406477054,1.0,2.0,1.0,1.0,1.0
+2018,direkter Migrationshintergrund,4. Quintil,138,1.1049370233990767,1.068821061948627,1.1410529848495266,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+2018,direkter Migrationshintergrund,5. Quintil,90,1.1486522224016373,1.1060599161402687,1.191244528663006,1.0,1.0,1.0,2.0,1.0,1.0,1.0,1.0
 2018,indirekter Migrationshintergrund,1. Quintil,,,,,,,,,,,,
-2018,indirekter Migrationshintergrund,2. Quintil,1.432723034732223,1.270808106182999,1.5946379632814471,1.0,1.0,1.399409544137626,1.0,1.998523860344065,1.0,0.0,1.0,31.0
-2018,indirekter Migrationshintergrund,3. Quintil,1.3647951522720274,1.2609535104177871,1.4686367941262677,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,41.0
-2018,indirekter Migrationshintergrund,4. Quintil,1.1946515522890948,1.0754892736322161,1.3138138309459735,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,55.0
-2018,indirekter Migrationshintergrund,5. Quintil,1.0982960095421097,1.0454241234504351,1.1511678956337843,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,41.0
-2019,kein Migrationshintergrund,-6,,,,,,,,,,,,
-2019,kein Migrationshintergrund,1. Quintil,1.336457575258611,1.2478755047912795,1.4250396457259424,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,168.0
-2019,kein Migrationshintergrund,2. Quintil,1.56895179169843,1.512032753424842,1.625870829972018,1.0,1.0,2.0,1.0,3.5,1.0,1.0,1.0,265.0
-2019,kein Migrationshintergrund,3. Quintil,1.5416218139477362,1.4887523337484876,1.5944912941469849,1.0,1.0,2.0,1.0,3.5,1.0,1.0,1.0,419.0
-2019,kein Migrationshintergrund,4. Quintil,1.464968601420694,1.404675280696018,1.5252619221453698,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,641.0
-2019,kein Migrationshintergrund,5. Quintil,1.395737576773202,1.3663830305337248,1.4250921230126794,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1194.0
-2019,direkter Migrationshintergrund,-6,,,,,,,,,,,,
-2019,direkter Migrationshintergrund,1. Quintil,1.529824306946554,1.4383775603520492,1.6212710535410588,1.0,1.0,2.0,1.0,3.5,1.0,0.0,1.0,82.0
-2019,direkter Migrationshintergrund,2. Quintil,1.420281408506753,1.3054443955554949,1.5351184214580111,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,90.0
-2019,direkter Migrationshintergrund,3. Quintil,1.2083438722953972,1.1456798575361988,1.2710078870545956,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,108.0
-2019,direkter Migrationshintergrund,4. Quintil,1.205399385377285,1.150955712703627,1.2598430580509432,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,107.0
-2019,direkter Migrationshintergrund,5. Quintil,1.3530770914946957,1.2668283060713663,1.439325876918025,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,131.0
-2019,indirekter Migrationshintergrund,-6,,,,,,,,,,,,
+2018,indirekter Migrationshintergrund,2. Quintil,31,1.4327230347322226,1.2708081061829986,1.5946379632814467,3.5942084797024405,1.0,1.9014541308817647,6.133340002933454,-0.6376773923492487,1.0,1.0,1.0
+2018,indirekter Migrationshintergrund,3. Quintil,41,1.3647951522720274,1.2609535104177871,1.4686367941262677,1.0,1.0,1.6523564954681742,1.0,1.0,1.0,1.0,1.0
+2018,indirekter Migrationshintergrund,4. Quintil,55,1.1946515522890946,1.075489273632216,1.3138138309459733,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+2018,indirekter Migrationshintergrund,5. Quintil,41,1.0982960095421102,1.0454241234504356,1.1511678956337847,1.0,1.3708062320826064,1.0,2.0,1.0,1.0,1.0,1.0
+2019,kein Migrationshintergrund,1. Quintil,168,1.3364575752586112,1.2478755047912797,1.4250396457259427,1.0,1.0,1.7024808758074346,1.0,1.0,1.0,1.0,1.0
+2019,kein Migrationshintergrund,2. Quintil,265,1.5689517916984304,1.5120327534248423,1.6258708299720184,2.6820445353351343,2.0,1.0,5.2051113383378365,-1.5230668030027017,1.0,1.0,1.0
+2019,kein Migrationshintergrund,3. Quintil,419,1.5416218139477365,1.4887523337484878,1.594491294146985,1.0,1.5780514736713998,1.2575684011267136,1.0,1.0,1.0,1.0,1.0
+2019,kein Migrationshintergrund,4. Quintil,641,1.464968601420694,1.404675280696018,1.5252619221453698,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+2019,kein Migrationshintergrund,5. Quintil,1194,1.3957375767732019,1.3663830305337246,1.4250921230126792,2.0,1.0,1.0,3.5,-0.5,1.0,1.0,1.0
+2019,direkter Migrationshintergrund,1. Quintil,82,1.5298243069465542,1.4383775603520494,1.621271053541059,1.7029826417577407,1.8461471199385513,2.0,2.0,2.0,1.0,0.0,1.0
+2019,direkter Migrationshintergrund,2. Quintil,90,1.4202814085067528,1.3054443955554946,1.535118421458011,1.137820538453954,1.0380135172144853,2.6891416832206083,5.0,1.0,1.0,1.0,1.0
+2019,direkter Migrationshintergrund,3. Quintil,108,1.2083438722953972,1.1456798575361988,1.2710078870545956,1.0,1.4531953249048035,1.0,1.0,1.0,1.0,1.0,1.0
+2019,direkter Migrationshintergrund,4. Quintil,107,1.205399385377285,1.150955712703627,1.2598430580509432,1.0,1.0384336230160058,1.0,2.0,1.0,1.0,1.0,1.0
+2019,direkter Migrationshintergrund,5. Quintil,131,1.3530770914946957,1.2668283060713663,1.439325876918025,1.4576550468697795,1.0,1.4529323671043664,1.4647390665178994,1.0,1.0,1.0,1.0
 2019,indirekter Migrationshintergrund,1. Quintil,,,,,,,,,,,,
-2019,indirekter Migrationshintergrund,2. Quintil,1.2740167674499676,1.1965606022071635,1.3514729326927717,1.0,1.0,2.0,1.0,3.0,1.0,1.0,1.0,31.0
-2019,indirekter Migrationshintergrund,3. Quintil,1.04194927089062,1.009287433819148,1.074611107962092,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,34.0
-2019,indirekter Migrationshintergrund,4. Quintil,1.2806550433656607,1.187845457433949,1.3734646292973725,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,52.0
-2019,indirekter Migrationshintergrund,5. Quintil,1.4034348950414357,1.2695007123758186,1.5373690777070528,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,48.0
-2020,kein Migrationshintergrund,-6,,,,,,,,,,,,
-2020,kein Migrationshintergrund,1. Quintil,1.6202209819692088,1.4951192886391582,1.7453226752992594,1.0,1.0,2.0,1.0,3.5,1.0,1.0,1.0,158.0
-2020,kein Migrationshintergrund,2. Quintil,1.6078270727101818,1.5230143025140028,1.6926398429063607,1.0,1.0,2.0,1.0,3.5,1.0,1.0,1.0,186.0
-2020,kein Migrationshintergrund,3. Quintil,1.4853950782577523,1.4374697314591276,1.533320425056377,1.0,1.0,2.0,1.0,3.5,1.0,1.0,1.0,341.0
-2020,kein Migrationshintergrund,4. Quintil,1.4862353188367756,1.4272029324999151,1.545267705173636,1.0,1.0,2.0,1.0,3.5,1.0,1.0,1.0,658.0
-2020,kein Migrationshintergrund,5. Quintil,1.3604992736459078,1.335195207414941,1.3858033398768748,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1119.0
-2020,direkter Migrationshintergrund,-6,,,,,,,,,,,,
-2020,direkter Migrationshintergrund,1. Quintil,1.4929669942313657,1.4254350424603874,1.560498946002344,1.0,1.0,2.0,1.0,3.5,1.0,1.0,1.0,292.0
-2020,direkter Migrationshintergrund,2. Quintil,1.485338185447838,1.3807197718415345,1.5899565990541416,1.0,1.0,2.0,1.0,3.5,1.0,1.0,1.0,210.0
-2020,direkter Migrationshintergrund,3. Quintil,1.5367608822779377,1.4119184274635685,1.661603337092307,1.0,1.0,2.0,1.0,3.5,1.0,1.0,1.0,140.0
-2020,direkter Migrationshintergrund,4. Quintil,1.4948381463602929,1.4368857777268143,1.5527905149937715,1.0,1.0,2.0,1.0,3.5,1.0,0.0,1.0,140.0
-2020,direkter Migrationshintergrund,5. Quintil,1.50043224077068,1.427275587231226,1.5735888943101342,1.0,1.0,2.0,1.0,3.5,1.0,1.0,1.0,147.0
-2020,indirekter Migrationshintergrund,-6,,,,,,,,,,,,
+2019,indirekter Migrationshintergrund,2. Quintil,31,1.2740167674499676,1.1965606022071635,1.3514729326927717,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+2019,indirekter Migrationshintergrund,3. Quintil,34,1.04194927089062,1.0092874338191482,1.0746111079620917,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+2019,indirekter Migrationshintergrund,4. Quintil,52,1.2806550433656605,1.1878454574339488,1.3734646292973722,1.0,1.0,1.4889559500177687,1.0,2.0,1.0,1.0,1.0
+2019,indirekter Migrationshintergrund,5. Quintil,48,1.4034348950414357,1.2695007123758186,1.5373690777070528,1.0,2.4116251482799482,1.0,1.0,1.0,1.0,1.0,1.0
+2020,kein Migrationshintergrund,1. Quintil,158,1.620220981969209,1.4951192886391584,1.7453226752992597,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+2020,kein Migrationshintergrund,2. Quintil,186,1.6078270727101809,1.5230143025140022,1.6926398429063596,1.0,1.0,2.1254254137096895,2.0,1.0,1.0,1.0,1.0
+2020,kein Migrationshintergrund,3. Quintil,341,1.4853950782577523,1.4374697314591276,1.533320425056377,1.7871923104609484,1.058326157590277,1.8919199975248326,1.630100779865122,2.049011528120659,1.0,1.0,1.0
+2020,kein Migrationshintergrund,4. Quintil,658,1.4862353188367756,1.4272029324999151,1.545267705173636,1.9051605411764723,1.0,1.0,3.2629013529411806,-0.3577408117647085,1.0,1.0,1.0
+2020,kein Migrationshintergrund,5. Quintil,1119,1.3604992736459076,1.3351952074149407,1.3858033398768745,1.0,1.684371449384522,1.5082597754227547,1.0,1.0,1.0,1.0,1.0
+2020,direkter Migrationshintergrund,1. Quintil,292,1.4929669942313657,1.4254350424603874,1.560498946002344,1.8363735201740983,2.307934104056517,1.0,4.0,-0.2545602802611473,1.0,1.0,1.0
+2020,direkter Migrationshintergrund,2. Quintil,210,1.485338185447838,1.3807197718415345,1.5899565990541416,1.0,3.2494971624353477,1.0,40.0,1.0,1.0,1.0,1.0
+2020,direkter Migrationshintergrund,3. Quintil,140,1.5367608822779377,1.4119184274635685,1.661603337092307,1.0,2.0678465428162913,1.0,1.0,1.0,1.0,1.0,1.0
+2020,direkter Migrationshintergrund,4. Quintil,140,1.4948381463602927,1.436885777726814,1.5527905149937713,1.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0
+2020,direkter Migrationshintergrund,5. Quintil,147,1.50043224077068,1.427275587231226,1.5735888943101342,1.0,1.2723248161126832,1.1720696327165558,1.0,1.0,1.0,1.0,1.0
 2020,indirekter Migrationshintergrund,1. Quintil,,,,,,,,,,,,
 2020,indirekter Migrationshintergrund,2. Quintil,,,,,,,,,,,,
 2020,indirekter Migrationshintergrund,3. Quintil,,,,,,,,,,,,
-2020,indirekter Migrationshintergrund,4. Quintil,1.2142470153059683,1.146312748667734,1.2821812819442027,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,40.0
-2020,indirekter Migrationshintergrund,5. Quintil,1.226806088615325,1.1462999251727815,1.3073122520578684,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,42.0
-2021,kein Migrationshintergrund,-6,,,,,,,,,,,,
-2021,kein Migrationshintergrund,1. Quintil,2.021626780436924,1.850754745356326,2.1924988155175216,1.0,1.0837212682319037,2.0,1.0,3.5,1.0,0.0,1.0,83.0
-2021,kein Migrationshintergrund,2. Quintil,1.6584636483392905,1.510069666129809,1.806857630548772,1.0,1.0,2.0,1.0,3.5,1.0,1.0,1.0,100.0
-2021,kein Migrationshintergrund,3. Quintil,2.094065333217353,1.9054165311444053,2.2827141352903006,1.0,1.0,2.0,1.0,3.5,1.0,1.0,1.0,222.0
-2021,kein Migrationshintergrund,4. Quintil,1.382354063865549,1.338116745907578,1.4265913818235199,1.0,1.0,2.0,1.0,3.5,1.0,1.0,1.0,341.0
-2021,kein Migrationshintergrund,5. Quintil,1.4074119539833518,1.3670539656817362,1.4477699422849675,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,865.0
-2021,direkter Migrationshintergrund,-6,,,,,,,,,,,,
-2021,direkter Migrationshintergrund,1. Quintil,2.3218672548520916,1.4302490753371737,3.2134854343670094,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,47.0
-2021,direkter Migrationshintergrund,2. Quintil,1.3797384937925925,1.2731574493798907,1.4863195382052943,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,53.0
-2021,direkter Migrationshintergrund,3. Quintil,1.9485609069436869,1.7420780258967445,2.1550437879906292,1.0,1.0898512548484465,2.0,1.0,3.5,1.0,0.0,1.0,47.0
-2021,direkter Migrationshintergrund,4. Quintil,1.4240567238262154,1.0771200421894498,1.770993405462981,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,71.0
-2021,direkter Migrationshintergrund,5. Quintil,1.657302119229924,1.523884468160826,1.790719770299022,1.0,1.0,2.0,1.0,3.5,1.0,0.9749999999999943,1.0,105.0
-2021,indirekter Migrationshintergrund,-6,,,,,,,,,,,,
+2020,indirekter Migrationshintergrund,4. Quintil,40,1.2142470153059683,1.146312748667734,1.2821812819442027,1.0,1.0,1.0,2.0,1.0,1.0,1.0,1.0
+2020,indirekter Migrationshintergrund,5. Quintil,42,1.2268060886153251,1.1462999251727817,1.3073122520578686,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+2021,kein Migrationshintergrund,1. Quintil,83,2.021626780436924,1.850754745356326,2.1924988155175216,1.5297807096131337,1.9290380851133193,1.199635702571726,2.0249982201752452,0.7044181920096142,1.0,0.0,1.0
+2021,kein Migrationshintergrund,2. Quintil,100,1.6584636483392912,1.5100696661298096,1.8068576305487727,1.0,1.2631168244777624,1.0,1.0,1.0,1.0,1.0,1.0
+2021,kein Migrationshintergrund,3. Quintil,222,2.0940653332173533,1.9054165311444058,2.282714135290301,1.0,1.4555959748240077,3.0,1.0,2.0,1.0,1.0,1.0
+2021,kein Migrationshintergrund,4. Quintil,341,1.382354063865549,1.338116745907578,1.4265913818235199,1.0,1.0,1.3307245049886907,2.0,1.0,1.0,1.0,1.0
+2021,kein Migrationshintergrund,5. Quintil,865,1.4074119539833518,1.3670539656817362,1.4477699422849675,2.807359096372775,1.0,1.0,5.518397740931938,-1.7110386445591628,1.0,1.0,1.0
+2021,direkter Migrationshintergrund,1. Quintil,47,2.3218672548520916,1.4302490753371737,3.2134854343670094,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+2021,direkter Migrationshintergrund,2. Quintil,53,1.379738493792593,1.2731574493798912,1.4863195382052947,1.0,1.0,2.154256224099001,1.0,3.885640560247502,1.0,1.0,1.0
+2021,direkter Migrationshintergrund,3. Quintil,47,1.9485609069436869,1.7420780258967448,2.1550437879906292,2.0,1.057679870595174,1.0,3.5,-0.5,1.0,0.0,1.0
+2021,direkter Migrationshintergrund,4. Quintil,71,1.424056723826215,1.0771200421894493,1.7709934054629806,1.0,1.0,1.0,2.0,1.0,1.0,1.0,1.0
+2021,direkter Migrationshintergrund,5. Quintil,105,1.657302119229924,1.523884468160826,1.790719770299022,2.5422076541597374,1.0,1.0,4.855519135399343,-1.313311481239606,1.0,0.0,1.0
 2021,indirekter Migrationshintergrund,1. Quintil,,,,,,,,,,,,
 2021,indirekter Migrationshintergrund,2. Quintil,,,,,,,,,,,,
 2021,indirekter Migrationshintergrund,3. Quintil,,,,,,,,,,,,
 2021,indirekter Migrationshintergrund,4. Quintil,,,,,,,,,,,,
-2021,indirekter Migrationshintergrund,5. Quintil,1.2973987429278229,1.187420326984146,1.4073771588714998,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,35.0
+2021,indirekter Migrationshintergrund,5. Quintil,35,1.2973987429278226,1.1874203269841457,1.4073771588714996,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0

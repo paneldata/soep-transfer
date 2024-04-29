@@ -1,4 +1,4 @@
-year,age_gr,migback,mean,mean_lower_confidence,mean_upper_confidence,lower_quartile,boxplot_median,upper_quartile,lower_whisker,upper_whisker,median,median_lower_confidence,median_upper_confidence,n
+year,age_gr,migback,n,mean,mean_lower_confidence,mean_upper_confidence,lower_quartile,boxplot_median,upper_quartile,lower_whisker,upper_whisker,median,median_lower_confidence,median_upper_confidence
 1984,unter 18 J.,kein Migrationshintergrund,,,,,,,,,,,,
 1984,unter 18 J.,direkter Migrationshintergrund,,,,,,,,,,,,
 1984,unter 18 J.,indirekter Migrationshintergrund,,,,,,,,,,,,
@@ -209,7 +209,6 @@ year,age_gr,migback,mean,mean_lower_confidence,mean_upper_confidence,lower_quart
 1997,66 und älter,kein Migrationshintergrund,,,,,,,,,,,,
 1997,66 und älter,direkter Migrationshintergrund,,,,,,,,,,,,
 1997,66 und älter,indirekter Migrationshintergrund,,,,,,,,,,,,
-1998,-1,direkter Migrationshintergrund,,,,,,,,,,,,
 1998,unter 18 J.,kein Migrationshintergrund,,,,,,,,,,,,
 1998,unter 18 J.,direkter Migrationshintergrund,,,,,,,,,,,,
 1998,unter 18 J.,indirekter Migrationshintergrund,,,,,,,,,,,,
@@ -240,7 +239,6 @@ year,age_gr,migback,mean,mean_lower_confidence,mean_upper_confidence,lower_quart
 1999,66 und älter,kein Migrationshintergrund,,,,,,,,,,,,
 1999,66 und älter,direkter Migrationshintergrund,,,,,,,,,,,,
 1999,66 und älter,indirekter Migrationshintergrund,,,,,,,,,,,,
-2000,-1,kein Migrationshintergrund,,,,,,,,,,,,
 2000,unter 18 J.,kein Migrationshintergrund,,,,,,,,,,,,
 2000,unter 18 J.,direkter Migrationshintergrund,,,,,,,,,,,,
 2000,unter 18 J.,indirekter Migrationshintergrund,,,,,,,,,,,,
@@ -334,17 +332,17 @@ year,age_gr,migback,mean,mean_lower_confidence,mean_upper_confidence,lower_quart
 2006,unter 18 J.,kein Migrationshintergrund,,,,,,,,,,,,
 2006,unter 18 J.,direkter Migrationshintergrund,,,,,,,,,,,,
 2006,unter 18 J.,indirekter Migrationshintergrund,,,,,,,,,,,,
-2006,18-29 J.,kein Migrationshintergrund,7.865135940947168,7.832480819229817,7.897791062664519,7.0,8.0,9.0,4.0,10.0,8.0,8.0,8.0,2852.0
-2006,18-29 J.,direkter Migrationshintergrund,7.654469411606976,7.5467676070976415,7.76217121611631,7.0,8.0,9.0,4.0,10.0,8.0,8.0,8.0,320.0
-2006,18-29 J.,indirekter Migrationshintergrund,7.631738884284708,7.541148484608417,7.722329283960999,7.0,8.0,9.0,4.0,10.0,8.0,8.0,8.0,458.0
-2006,30-45 J.,kein Migrationshintergrund,7.372591742208258,7.347516977594547,7.397666506821969,6.0,8.0,9.0,1.5,10.0,8.0,8.0,8.0,5211.0
-2006,30-45 J.,direkter Migrationshintergrund,7.254157039140323,7.186589482441637,7.321724595839009,6.0,8.0,9.0,1.5,10.0,8.0,8.0,9.0,784.0
-2006,30-45 J.,indirekter Migrationshintergrund,7.537241172823203,7.433073794352671,7.641408551293734,7.0,8.0,9.0,4.0,10.0,8.0,8.0,8.0,274.0
-2006,46-65 J.,kein Migrationshintergrund,7.384150756532039,7.362128289444739,7.406173223619339,6.0,8.0,9.0,1.5,10.0,8.0,8.0,8.0,6606.0
-2006,46-65 J.,direkter Migrationshintergrund,7.076116380310287,7.01155345663222,7.140679303988354,6.0,7.0,8.0,3.0,10.0,7.0,6.0,7.0,874.0
-2006,46-65 J.,indirekter Migrationshintergrund,7.182878010515341,6.93664042034305,7.429115600687632,5.0,8.0,8.0,2.0,10.0,8.0,8.0,9.0,51.0
-2006,66 und älter,kein Migrationshintergrund,7.443498510409158,7.412769179551141,7.474227841267176,6.0,8.0,9.0,1.5,10.0,8.0,8.0,8.0,3985.0
-2006,66 und älter,direkter Migrationshintergrund,7.056050263889673,6.948491859174747,7.163608668604598,5.0,7.0,9.0,0.0,10.0,7.0,6.0,7.0,384.0
+2006,18-29 J.,kein Migrationshintergrund,2852,7.865135940947167,7.832480819229816,7.897791062664518,7.044234941488577,7.726677543641533,9.987331845388736,6.0,9.0,8.0,8.0,8.0
+2006,18-29 J.,direkter Migrationshintergrund,320,7.654469411606976,7.5467676070976415,7.76217121611631,1.0,8.23930654609503,8.858182587868574,8.0,8.0,8.0,8.0,8.0
+2006,18-29 J.,indirekter Migrationshintergrund,458,7.631738884284706,7.541148484608415,7.722329283960997,8.0,5.459185546946646,8.13681359692958,7.794779604605631,8.342033992323948,8.0,8.0,8.0
+2006,30-45 J.,kein Migrationshintergrund,5211,7.372591742208258,7.347516977594547,7.397666506821969,9.05676579410849,8.35412210685706,8.086937949810133,10.511507560556023,6.632196183362599,8.0,8.0,8.0
+2006,30-45 J.,direkter Migrationshintergrund,784,7.2541570391403205,7.186589482441635,7.321724595839006,7.046062031194089,8.260265566886254,8.974886105909267,6.0,5.0,8.0,8.0,9.0
+2006,30-45 J.,indirekter Migrationshintergrund,274,7.5372411728232,7.433073794352668,7.641408551293732,8.443240986380726,8.73332519918186,7.854671549022755,9.326095142417682,6.971817392985798,8.0,8.0,8.0
+2006,46-65 J.,kein Migrationshintergrund,6606,7.384150756532039,7.362128289444739,7.406173223619339,9.977294869386565,5.395538590600273,7.027587204291874,14.401856367028602,2.603025706649837,8.0,8.0,8.0
+2006,46-65 J.,direkter Migrationshintergrund,874,7.076116380310287,7.01155345663222,7.140679303988354,9.0,5.998526108439213,7.373013154958593,11.44048026756211,4.932532887396482,7.0,6.0,7.0
+2006,46-65 J.,indirekter Migrationshintergrund,51,7.182878010515342,6.936640420343051,7.429115600687633,7.319184977999001,7.383306634259516,5.681097932476952,9.776315546282074,3.2239673641938786,8.0,8.0,9.0
+2006,66 und älter,kein Migrationshintergrund,3985,7.443498510409158,7.412769179551141,7.474227841267176,7.794268284015453,5.568276730619755,8.166370669810513,7.236114705322862,8.724524248503105,8.0,8.0,8.0
+2006,66 und älter,direkter Migrationshintergrund,384,7.056050263889674,6.948491859174748,7.163608668604599,4.173731071887681,5.506369589557651,10.0,10.0,0.0,7.0,6.0,7.0
 2006,66 und älter,indirekter Migrationshintergrund,,,,,,,,,,,,
 2007,unter 18 J.,kein Migrationshintergrund,,,,,,,,,,,,
 2007,unter 18 J.,direkter Migrationshintergrund,,,,,,,,,,,,
@@ -376,7 +374,6 @@ year,age_gr,migback,mean,mean_lower_confidence,mean_upper_confidence,lower_quart
 2008,66 und älter,kein Migrationshintergrund,,,,,,,,,,,,
 2008,66 und älter,direkter Migrationshintergrund,,,,,,,,,,,,
 2008,66 und älter,indirekter Migrationshintergrund,,,,,,,,,,,,
-2009,-1,kein Migrationshintergrund,,,,,,,,,,,,
 2009,unter 18 J.,kein Migrationshintergrund,,,,,,,,,,,,
 2009,unter 18 J.,direkter Migrationshintergrund,,,,,,,,,,,,
 2009,unter 18 J.,indirekter Migrationshintergrund,,,,,,,,,,,,
@@ -410,17 +407,17 @@ year,age_gr,migback,mean,mean_lower_confidence,mean_upper_confidence,lower_quart
 2011,unter 18 J.,kein Migrationshintergrund,,,,,,,,,,,,
 2011,unter 18 J.,direkter Migrationshintergrund,,,,,,,,,,,,
 2011,unter 18 J.,indirekter Migrationshintergrund,,,,,,,,,,,,
-2011,18-29 J.,kein Migrationshintergrund,8.023771991663882,7.993226115122606,8.054317868205157,7.0,8.0,9.0,4.0,10.0,8.0,8.0,8.0,2932.0
-2011,18-29 J.,direkter Migrationshintergrund,8.140895881003141,8.055041184490358,8.226750577515924,7.0,9.0,9.0,4.0,10.0,9.0,9.0,10.0,385.0
-2011,18-29 J.,indirekter Migrationshintergrund,8.213326987645273,8.144979213494572,8.281674761795973,7.0,8.0,10.0,2.5,10.0,8.0,7.0,8.0,479.0
-2011,30-45 J.,kein Migrationshintergrund,7.71356323561046,7.693989298538727,7.733137172682192,7.0,8.0,9.0,4.0,10.0,8.0,8.0,8.0,7373.0
-2011,30-45 J.,direkter Migrationshintergrund,7.649057414487945,7.598217238008877,7.699897590967014,7.0,8.0,9.0,4.0,10.0,8.0,8.0,8.0,1380.0
-2011,30-45 J.,indirekter Migrationshintergrund,7.559893267277381,7.481083465783953,7.63870306877081,7.0,8.0,9.0,4.0,10.0,8.0,8.0,8.0,579.0
-2011,46-65 J.,kein Migrationshintergrund,7.389885210588318,7.368350208196118,7.411420212980518,6.0,8.0,9.0,1.5,10.0,8.0,8.0,8.0,7221.0
-2011,46-65 J.,direkter Migrationshintergrund,7.2477779933124715,7.1829806412827555,7.312575345342188,6.0,8.0,8.182610223531663,2.7260846647025057,10.0,8.0,8.0,9.0,820.0
-2011,46-65 J.,indirekter Migrationshintergrund,7.6868171702899755,7.496661603558509,7.8769727370214415,7.0,8.0,9.0,4.0,10.0,8.0,7.0,9.0,100.0
-2011,66 und älter,kein Migrationshintergrund,7.441199713821137,7.410006066654883,7.472393360987392,6.0,8.0,9.0,1.5,10.0,8.0,8.0,8.0,4045.0
-2011,66 und älter,direkter Migrationshintergrund,7.095246179472579,6.982452383568307,7.208039975376852,6.0,8.0,9.0,1.5,10.0,8.0,8.0,9.0,357.0
+2011,18-29 J.,kein Migrationshintergrund,2932,8.023771991663882,7.993226115122606,8.054317868205157,5.707414747934532,8.37077190577976,4.720048200023817,10.0,3.238998378157745,8.0,8.0,8.0
+2011,18-29 J.,direkter Migrationshintergrund,385,8.140895881003141,8.055041184490358,8.226750577515924,8.0,5.836721654791001,9.26355500749136,10.0,9.0,9.0,9.0,10.0
+2011,18-29 J.,indirekter Migrationshintergrund,479,8.213326987645273,8.144979213494572,8.281674761795973,10.0,5.702410019049976,8.5934299149263,12.10985512761055,6.483574787315751,8.0,7.0,8.0
+2011,30-45 J.,kein Migrationshintergrund,7373,7.7135632356104615,7.693989298538729,7.733137172682194,8.219308937198054,7.310218970607621,6.1666386977863485,11.298314296315613,3.08763333866879,8.0,8.0,8.0
+2011,30-45 J.,direkter Migrationshintergrund,1380,7.649057414487945,7.598217238008877,7.699897590967014,7.173233282228832,4.071497430249809,9.742224173838308,7.0,8.0,8.0,8.0,8.0
+2011,30-45 J.,indirekter Migrationshintergrund,579,7.55989326727738,7.481083465783952,7.638703068770809,8.602913825950576,7.314491756025683,5.0668266573797025,13.907044578806888,-0.2373040954766088,8.0,8.0,8.0
+2011,46-65 J.,kein Migrationshintergrund,7221,7.389885210588317,7.368350208196117,7.411420212980517,8.091551000438024,6.196228810160225,7.849493151756939,10.0,7.486406378735312,8.0,8.0,8.0
+2011,46-65 J.,direkter Migrationshintergrund,820,7.247777993312473,7.182980641282757,7.312575345342189,7.071217598988703,5.635052201908767,8.0,5.678043997471757,7.0,8.0,8.0,9.0
+2011,46-65 J.,indirekter Migrationshintergrund,100,7.686817170289975,7.496661603558509,7.87697273702144,6.954354429152446,5.720252067300022,7.415533882770412,6.262585248725498,8.10730306319736,8.0,7.0,9.0
+2011,66 und älter,kein Migrationshintergrund,4045,7.441199713821136,7.410006066654881,7.4723933609873905,8.0,7.6330694424292895,8.283864773961307,7.57420283905804,8.709661934903266,8.0,8.0,8.0
+2011,66 und älter,direkter Migrationshintergrund,357,7.095246179472579,6.982452383568307,7.208039975376852,6.240643108309881,7.218947029385621,6.51362579665681,5.831169075789486,6.923099829177204,8.0,8.0,9.0
 2011,66 und älter,indirekter Migrationshintergrund,,,,,,,,,,,,
 2012,unter 18 J.,kein Migrationshintergrund,,,,,,,,,,,,
 2012,unter 18 J.,direkter Migrationshintergrund,,,,,,,,,,,,
@@ -452,7 +449,6 @@ year,age_gr,migback,mean,mean_lower_confidence,mean_upper_confidence,lower_quart
 2013,66 und älter,kein Migrationshintergrund,,,,,,,,,,,,
 2013,66 und älter,direkter Migrationshintergrund,,,,,,,,,,,,
 2013,66 und älter,indirekter Migrationshintergrund,,,,,,,,,,,,
-2014,-1,kein Migrationshintergrund,,,,,,,,,,,,
 2014,unter 18 J.,kein Migrationshintergrund,,,,,,,,,,,,
 2014,unter 18 J.,direkter Migrationshintergrund,,,,,,,,,,,,
 2014,unter 18 J.,indirekter Migrationshintergrund,,,,,,,,,,,,
@@ -468,8 +464,6 @@ year,age_gr,migback,mean,mean_lower_confidence,mean_upper_confidence,lower_quart
 2014,66 und älter,kein Migrationshintergrund,,,,,,,,,,,,
 2014,66 und älter,direkter Migrationshintergrund,,,,,,,,,,,,
 2014,66 und älter,indirekter Migrationshintergrund,,,,,,,,,,,,
-2015,-1,kein Migrationshintergrund,,,,,,,,,,,,
-2015,-1,direkter Migrationshintergrund,,,,,,,,,,,,
 2015,unter 18 J.,kein Migrationshintergrund,,,,,,,,,,,,
 2015,unter 18 J.,direkter Migrationshintergrund,,,,,,,,,,,,
 2015,unter 18 J.,indirekter Migrationshintergrund,,,,,,,,,,,,
@@ -485,24 +479,21 @@ year,age_gr,migback,mean,mean_lower_confidence,mean_upper_confidence,lower_quart
 2015,66 und älter,kein Migrationshintergrund,,,,,,,,,,,,
 2015,66 und älter,direkter Migrationshintergrund,,,,,,,,,,,,
 2015,66 und älter,indirekter Migrationshintergrund,,,,,,,,,,,,
-2016,-1,kein Migrationshintergrund,,,,,,,,,,,,
-2016,-1,direkter Migrationshintergrund,,,,,,,,,,,,
 2016,unter 18 J.,kein Migrationshintergrund,,,,,,,,,,,,
 2016,unter 18 J.,direkter Migrationshintergrund,,,,,,,,,,,,
 2016,unter 18 J.,indirekter Migrationshintergrund,,,,,,,,,,,,
-2016,18-29 J.,kein Migrationshintergrund,8.03804082575668,8.004457105303668,8.07162454620969,7.0,8.0,9.0,4.0,10.0,8.0,8.0,8.0,2357.0
-2016,18-29 J.,direkter Migrationshintergrund,8.085736698557293,8.026841921121976,8.14463147599261,7.0,8.0,9.0,4.0,10.0,8.0,7.0,8.0,718.0
-2016,18-29 J.,indirekter Migrationshintergrund,8.180738147358943,8.125393041372451,8.236083253345434,7.0,8.0,9.0,4.0,10.0,8.0,7.0,8.0,713.0
-2016,30-45 J.,kein Migrationshintergrund,7.715106227691125,7.692049999548491,7.738162455833759,7.0,8.0,9.0,4.0,10.0,8.0,8.0,8.0,4234.0
-2016,30-45 J.,direkter Migrationshintergrund,7.672529544612885,7.633914592041861,7.71114449718391,7.0,8.0,9.0,4.0,10.0,8.0,8.0,8.0,2217.0
-2016,30-45 J.,indirekter Migrationshintergrund,7.5855134971111235,7.502882174423295,7.668144819798952,7.0,8.0,9.0,4.0,10.0,8.0,8.0,8.0,569.0
-2016,46-65 J.,kein Migrationshintergrund,7.45710242350015,7.4352310151045105,7.47897383189579,7.0,8.0,9.0,4.0,10.0,8.0,8.0,8.0,6853.0
-2016,46-65 J.,direkter Migrationshintergrund,7.545977057347727,7.496262277109536,7.595691837585918,7.0,8.0,9.0,4.0,10.0,8.0,8.0,8.0,1518.0
-2016,46-65 J.,indirekter Migrationshintergrund,7.618974337109342,7.512963795720615,7.724984878498069,7.0,8.0,9.0,4.0,10.0,8.0,8.0,8.024999999999999,183.0
-2016,66 und älter,kein Migrationshintergrund,7.511751446867141,7.484527691232261,7.538975202502021,7.0,8.0,9.0,4.0,10.0,8.0,8.0,8.0,4250.0
-2016,66 und älter,direkter Migrationshintergrund,7.195314898876801,7.1071617244555965,7.283468073298006,6.0,8.0,8.0,3.0,10.0,8.0,8.0,9.0,401.0
+2016,18-29 J.,kein Migrationshintergrund,2357,8.03804082575668,8.004457105303668,8.07162454620969,9.0,8.191790544662512,9.952863872167242,9.0,7.0,8.0,8.0,8.0
+2016,18-29 J.,direkter Migrationshintergrund,718,8.085736698557293,8.026841921121976,8.14463147599261,9.80081912615783,8.289641889086925,5.180841624652441,16.730785378415913,-1.7491246276056422,8.0,7.0,8.0
+2016,18-29 J.,indirekter Migrationshintergrund,713,8.180738147358943,8.125393041372451,8.236083253345434,6.716767331330542,8.117266440486933,7.028813740206775,6.2486977180161904,7.496883353521126,8.0,7.974999999999994,8.0
+2016,30-45 J.,kein Migrationshintergrund,4234,7.715106227691123,7.692049999548489,7.738162455833757,7.85426640647045,8.024892048931699,8.962151453210623,6.192438836360191,10.0,8.0,8.0,8.0
+2016,30-45 J.,direkter Migrationshintergrund,2217,7.672529544612885,7.633914592041861,7.71114449718391,8.0,8.291120075328147,8.377437563685438,7.4338436544718425,8.943593909213597,8.0,8.0,8.0
+2016,30-45 J.,indirekter Migrationshintergrund,569,7.585513497111123,7.502882174423294,7.668144819798951,7.951236108147003,9.9893970067494,8.816114291609358,6.653918832953471,7.0,8.0,8.0,8.0
+2016,46-65 J.,kein Migrationshintergrund,6853,7.457102423500152,7.435231015104512,7.478973831895792,7.9938094256025405,7.429202696672104,7.56881301078893,8.631304047822956,6.931318388568515,8.0,8.0,8.0
+2016,46-65 J.,direkter Migrationshintergrund,1518,7.545977057347727,7.496262277109536,7.595691837585918,8.0,8.0,5.816755968436224,11.274866047345665,2.5418899210905606,8.0,8.0,8.0
+2016,46-65 J.,indirekter Migrationshintergrund,183,7.61897433710934,7.512963795720613,7.724984878498067,7.975076643865728,5.082091613353159,8.446184200265202,7.268415309266517,8.0,8.0,8.0,8.0
+2016,66 und älter,kein Migrationshintergrund,4250,7.511751446867141,7.484527691232261,7.538975202502021,10.0,8.112609876468115,6.129278235778292,15.806082646332563,0.32319558944573057,8.0,8.0,8.0
+2016,66 und älter,direkter Migrationshintergrund,401,7.195314898876801,7.1071617244555965,7.283468073298006,7.567163071143978,5.5741008051100245,7.031120802615953,8.371226473936016,6.227057399823916,8.0,8.0,9.0
 2016,66 und älter,indirekter Migrationshintergrund,,,,,,,,,,,,
-2017,-1,indirekter Migrationshintergrund,,,,,,,,,,,,
 2017,unter 18 J.,kein Migrationshintergrund,,,,,,,,,,,,
 2017,unter 18 J.,direkter Migrationshintergrund,,,,,,,,,,,,
 2017,unter 18 J.,indirekter Migrationshintergrund,,,,,,,,,,,,
@@ -518,7 +509,6 @@ year,age_gr,migback,mean,mean_lower_confidence,mean_upper_confidence,lower_quart
 2017,66 und älter,kein Migrationshintergrund,,,,,,,,,,,,
 2017,66 und älter,direkter Migrationshintergrund,,,,,,,,,,,,
 2017,66 und älter,indirekter Migrationshintergrund,,,,,,,,,,,,
-2018,-1,indirekter Migrationshintergrund,,,,,,,,,,,,
 2018,unter 18 J.,kein Migrationshintergrund,,,,,,,,,,,,
 2018,unter 18 J.,direkter Migrationshintergrund,,,,,,,,,,,,
 2018,unter 18 J.,indirekter Migrationshintergrund,,,,,,,,,,,,
@@ -534,7 +524,6 @@ year,age_gr,migback,mean,mean_lower_confidence,mean_upper_confidence,lower_quart
 2018,66 und älter,kein Migrationshintergrund,,,,,,,,,,,,
 2018,66 und älter,direkter Migrationshintergrund,,,,,,,,,,,,
 2018,66 und älter,indirekter Migrationshintergrund,,,,,,,,,,,,
-2019,-1,kein Migrationshintergrund,,,,,,,,,,,,
 2019,unter 18 J.,kein Migrationshintergrund,,,,,,,,,,,,
 2019,unter 18 J.,direkter Migrationshintergrund,,,,,,,,,,,,
 2019,unter 18 J.,indirekter Migrationshintergrund,,,,,,,,,,,,
@@ -550,9 +539,6 @@ year,age_gr,migback,mean,mean_lower_confidence,mean_upper_confidence,lower_quart
 2019,66 und älter,kein Migrationshintergrund,,,,,,,,,,,,
 2019,66 und älter,direkter Migrationshintergrund,,,,,,,,,,,,
 2019,66 und älter,indirekter Migrationshintergrund,,,,,,,,,,,,
-2020,-1,kein Migrationshintergrund,,,,,,,,,,,,
-2020,-1,direkter Migrationshintergrund,,,,,,,,,,,,
-2020,-1,indirekter Migrationshintergrund,,,,,,,,,,,,
 2020,unter 18 J.,kein Migrationshintergrund,,,,,,,,,,,,
 2020,unter 18 J.,direkter Migrationshintergrund,,,,,,,,,,,,
 2020,unter 18 J.,indirekter Migrationshintergrund,,,,,,,,,,,,
@@ -568,8 +554,6 @@ year,age_gr,migback,mean,mean_lower_confidence,mean_upper_confidence,lower_quart
 2020,66 und älter,kein Migrationshintergrund,,,,,,,,,,,,
 2020,66 und älter,direkter Migrationshintergrund,,,,,,,,,,,,
 2020,66 und älter,indirekter Migrationshintergrund,,,,,,,,,,,,
-2021,-1,kein Migrationshintergrund,,,,,,,,,,,,
-2021,-1,indirekter Migrationshintergrund,,,,,,,,,,,,
 2021,unter 18 J.,kein Migrationshintergrund,,,,,,,,,,,,
 2021,unter 18 J.,direkter Migrationshintergrund,,,,,,,,,,,,
 2021,unter 18 J.,indirekter Migrationshintergrund,,,,,,,,,,,,

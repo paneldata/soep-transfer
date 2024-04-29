@@ -1,7 +1,4 @@
 year,migback,regtyp,germborn,proportion,n,lower_confidence,upper_confidence
-1984,kein Migrationshintergrund,-1,in Deutschland geboren oder immigr.<1950,0.7138891225708758,16099,0.7069077761579458,0.7208704689838058
-1984,direkter Migrationshintergrund,-1,nicht in Deutschland geboren,0.27719357281063345,16099,0.2702790979479563,0.2841080476733106
-1984,indirekter Migrationshintergrund,-1,in Deutschland geboren oder immigr.<1950,0.008917304618490789,16099,0.0074650981426258875,0.010369511094355691
 1985,kein Migrationshintergrund,Staedtischer Raum,in Deutschland geboren oder immigr.<1950,0.5443814480899711,14443,0.5362591350465871,0.5525037611333552
 1985,direkter Migrationshintergrund,Staedtischer Raum,nicht in Deutschland geboren,0.23273538432939864,14443,0.22584360823511476,0.2396271604236825
 1985,kein Migrationshintergrund,Laendlicher Raum,in Deutschland geboren oder immigr.<1950,0.18050004647272053,14443,0.17422754905202983,0.18677254389341122
@@ -32,30 +29,24 @@ year,migback,regtyp,germborn,proportion,n,lower_confidence,upper_confidence
 1989,direkter Migrationshintergrund,Laendlicher Raum,nicht in Deutschland geboren,0.033540765742010335,12393,0.03037086179073838,0.03671066969328229
 1989,indirekter Migrationshintergrund,Staedtischer Raum,in Deutschland geboren oder immigr.<1950,0.019723657841999788,12393,0.017275520167813408,0.022171795516186168
 1989,indirekter Migrationshintergrund,Laendlicher Raum,in Deutschland geboren oder immigr.<1950,0.00284780086488767,12393,0.0019095836853119962,0.0037860180444633435
-1990,kein Migrationshintergrund,Staedtischer Raum,in Deutschland geboren oder immigr.<1950,0.46714044984980585,18165,0.4598849308374397,0.474395968862172
-1990,kein Migrationshintergrund,Laendlicher Raum,in Deutschland geboren oder immigr.<1950,0.31548098761814053,18165,0.30872299483495586,0.3222389804013252
-1990,direkter Migrationshintergrund,Staedtischer Raum,nicht in Deutschland geboren,0.16286907465748407,18165,0.1574993208118676,0.16823882850310054
-1990,direkter Migrationshintergrund,Laendlicher Raum,nicht in Deutschland geboren,0.03025862700564144,18165,0.027767528268510647,0.03274972574277223
-1990,indirekter Migrationshintergrund,Staedtischer Raum,in Deutschland geboren oder immigr.<1950,0.015459007985933035,18165,0.013664910314537699,0.017253105657328374
-1990,kein Migrationshintergrund,-1,in Deutschland geboren oder immigr.<1950,0.00622756245878819,18165,0.005083523300198033,0.0073716016173783466
-1990,indirekter Migrationshintergrund,Laendlicher Raum,in Deutschland geboren oder immigr.<1950,0.002491024983515276,18165,0.0017661121007838875,0.003215937866246664
-1990,direkter Migrationshintergrund,-1,nicht in Deutschland geboren,7.326544069162575e-05,18165,-5.1206666961256525e-05,0.00019773754834450803
-1991,kein Migrationshintergrund,Staedtischer Raum,in Deutschland geboren oder immigr.<1950,0.4627178221524194,17756,0.45538378958395764,0.4700518547208812
-1991,kein Migrationshintergrund,Laendlicher Raum,in Deutschland geboren oder immigr.<1950,0.31426220925884374,17756,0.3074339716578703,0.3210904468598172
-1991,direkter Migrationshintergrund,Staedtischer Raum,nicht in Deutschland geboren,0.16393687831874953,17756,0.15849133311672736,0.1693824235207717
-1991,direkter Migrationshintergrund,Laendlicher Raum,nicht in Deutschland geboren,0.030663375962904794,17756,0.02812748370354275,0.033199268222266834
-1991,indirekter Migrationshintergrund,Staedtischer Raum,in Deutschland geboren oder immigr.<1950,0.018846757908907337,17756,0.016846572518577043,0.02084694329923763
-1991,kein Migrationshintergrund,-1,in Deutschland geboren oder immigr.<1950,0.0065814075237454195,17756,0.0053920592768056975,0.007770755770685141
-1991,indirekter Migrationshintergrund,Laendlicher Raum,in Deutschland geboren oder immigr.<1950,0.0029167601525689926,17756,0.0021235293498351507,0.0037099909553028345
-1991,direkter Migrationshintergrund,-1,nicht in Deutschland geboren,7.47887218607434e-05,17756,-5.241075290063705e-05,0.00020198819662212386
-1992,kein Migrationshintergrund,Staedtischer Raum,in Deutschland geboren oder immigr.<1950,0.4657754010695187,17350,0.458352792701837,0.4731980094372004
-1992,kein Migrationshintergrund,Laendlicher Raum,in Deutschland geboren oder immigr.<1950,0.30710466004583653,17350,0.3002405639436137,0.31396875614805936
-1992,direkter Migrationshintergrund,Staedtischer Raum,nicht in Deutschland geboren,0.16210847975553858,17350,0.1566244084129448,0.16759255109813234
-1992,direkter Migrationshintergrund,Laendlicher Raum,nicht in Deutschland geboren,0.030863254392666156,17350,0.02828978076936204,0.03343672801597027
-1992,indirekter Migrationshintergrund,Staedtischer Raum,in Deutschland geboren oder immigr.<1950,0.021772345301757066,17350,0.019600749933698716,0.023943940669815415
-1992,kein Migrationshintergrund,-1,in Deutschland geboren oder immigr.<1950,0.008708938120702827,17350,0.007326360479267069,0.010091515762138585
-1992,indirekter Migrationshintergrund,Laendlicher Raum,in Deutschland geboren oder immigr.<1950,0.003590527119938885,17350,0.0027004977023456977,0.004480556537532072
-1992,direkter Migrationshintergrund,-1,nicht in Deutschland geboren,7.639419404125286e-05,17350,-5.365866951134218e-05,0.0002064470575938479
+1990,kein Migrationshintergrund,Staedtischer Raum,in Deutschland geboren oder immigr.<1950,0.47010248470102484,18165,0.46284425705672594,0.47736071234532373
+1990,kein Migrationshintergrund,Laendlicher Raum,in Deutschland geboren oder immigr.<1950,0.31748138317481384,18165,0.31071191184712654,0.32425085450250113
+1990,direkter Migrationshintergrund,Staedtischer Raum,nicht in Deutschland geboren,0.1639017916390179,18165,0.15851836415813159,0.16928521911990424
+1990,direkter Migrationshintergrund,Laendlicher Raum,nicht in Deutschland geboren,0.030450490304504904,18165,0.027951753516897465,0.03294922709211234
+1990,indirekter Migrationshintergrund,Staedtischer Raum,in Deutschland geboren oder immigr.<1950,0.015557030155570301,18165,0.013757343079173116,0.017356717231967488
+1990,indirekter Migrationshintergrund,Laendlicher Raum,in Deutschland geboren oder immigr.<1950,0.0025068200250682004,18165,0.0017796182749408875,0.0032340217751955134
+1991,kein Migrationshintergrund,Staedtischer Raum,in Deutschland geboren oder immigr.<1950,0.4658184008432465,17756,0.4584811006952753,0.4731557009912177
+1991,kein Migrationshintergrund,Laendlicher Raum,in Deutschland geboren oder immigr.<1950,0.31636801686493,17756,0.3095274675907906,0.3232085661390694
+1991,direkter Migrationshintergrund,Staedtischer Raum,nicht in Deutschland geboren,0.1650353862370125,17756,0.15957521735880512,0.17049555511521988
+1991,direkter Migrationshintergrund,Laendlicher Raum,nicht in Deutschland geboren,0.030868845053455805,17756,0.028324740406778088,0.03341294970013352
+1991,indirekter Migrationshintergrund,Staedtischer Raum,in Deutschland geboren oder immigr.<1950,0.018973046227977713,17756,0.01696629976801695,0.020979792687938478
+1991,indirekter Migrationshintergrund,Laendlicher Raum,in Deutschland geboren oder immigr.<1950,0.0029363047733775034,17756,0.0021404285685649445,0.0037321809781900622
+1992,kein Migrationshintergrund,Staedtischer Raum,in Deutschland geboren oder immigr.<1950,0.46990366088631985,17350,0.46247709311574087,0.47733022865689884
+1992,kein Migrationshintergrund,Laendlicher Raum,in Deutschland geboren oder immigr.<1950,0.30982658959537573,17350,0.30294569687389455,0.3167074823168569
+1992,direkter Migrationshintergrund,Staedtischer Raum,nicht in Deutschland geboren,0.16354527938342966,17350,0.15804168325388224,0.1690488755129771
+1992,direkter Migrationshintergrund,Laendlicher Raum,nicht in Deutschland geboren,0.03113680154142582,17350,0.02855231329754782,0.033721289785303823
+1992,indirekter Migrationshintergrund,Staedtischer Raum,in Deutschland geboren oder immigr.<1950,0.021965317919075144,17350,0.01978433529116818,0.024146300546982108
+1992,indirekter Migrationshintergrund,Laendlicher Raum,in Deutschland geboren oder immigr.<1950,0.003622350674373796,17350,0.002728399980201017,0.004516301368546575
 1993,kein Migrationshintergrund,Staedtischer Raum,in Deutschland geboren oder immigr.<1950,0.4700038804811797,16993,0.46249961639046455,0.47750814457189483
 1993,kein Migrationshintergrund,Laendlicher Raum,in Deutschland geboren oder immigr.<1950,0.30818781528909583,16993,0.3012452035521922,0.31513042702599947
 1993,direkter Migrationshintergrund,Staedtischer Raum,nicht in Deutschland geboren,0.15948777648428406,16993,0.15398278360962617,0.16499276935894194
@@ -80,13 +71,12 @@ year,migback,regtyp,germborn,proportion,n,lower_confidence,upper_confidence
 1996,direkter Migrationshintergrund,Laendlicher Raum,nicht in Deutschland geboren,0.03562519488618647,16862,0.03282748240003383,0.03842290737233911
 1996,indirekter Migrationshintergrund,Staedtischer Raum,in Deutschland geboren oder immigr.<1950,0.03211724352977861,16862,0.029456015815442764,0.03477847124411445
 1996,indirekter Migrationshintergrund,Laendlicher Raum,in Deutschland geboren oder immigr.<1950,0.005924540068599937,16862,0.004766193475193359,0.007082886662006516
-1997,kein Migrationshintergrund,Staedtischer Raum,in Deutschland geboren oder immigr.<1950,0.45833664310112004,16487,0.45073088916886234,0.46594239703337775
-1997,kein Migrationshintergrund,Laendlicher Raum,in Deutschland geboren oder immigr.<1950,0.30701405989355784,16487,0.2999731855051994,0.3140549342819163
-1997,direkter Migrationshintergrund,Staedtischer Raum,nicht in Deutschland geboren,0.16109301771387718,16487,0.15548149770922384,0.16670453771853053
-1997,direkter Migrationshintergrund,Laendlicher Raum,nicht in Deutschland geboren,0.03375963142425927,16487,0.03100269539143976,0.036516567457078784
-1997,indirekter Migrationshintergrund,Staedtischer Raum,in Deutschland geboren oder immigr.<1950,0.03352132814361744,16487,0.03077380095753696,0.03626885532969792
-1997,indirekter Migrationshintergrund,Laendlicher Raum,in Deutschland geboren oder immigr.<1950,0.006195885296687584,16487,0.0049980769577750075,0.007393693635600161
-1997,kein Migrationshintergrund,-1,in Deutschland geboren oder immigr.<1950,7.943442688061006e-05,16487,-5.66073782614995e-05,0.0002154762320227196
+1997,kein Migrationshintergrund,Staedtischer Raum,in Deutschland geboren oder immigr.<1950,0.45837305370193837,16487,0.45076725331609946,0.4659788540877773
+1997,kein Migrationshintergrund,Laendlicher Raum,in Deutschland geboren oder immigr.<1950,0.3070384493168097,16487,0.29999741917457584,0.3140794794590435
+1997,direkter Migrationshintergrund,Staedtischer Raum,nicht in Deutschland geboren,0.16110581506196378,16487,0.15549411497323096,0.1667175151506966
+1997,direkter Migrationshintergrund,Laendlicher Raum,nicht in Deutschland geboren,0.03376231331426756,16487,0.031005271603328142,0.03651935502520697
+1997,indirekter Migrationshintergrund,Staedtischer Raum,in Deutschland geboren oder immigr.<1950,0.03352399110263743,16487,0.03077635857124436,0.0362716236340305
+1997,indirekter Migrationshintergrund,Laendlicher Raum,in Deutschland geboren oder immigr.<1950,0.006196377502383222,16487,0.0049985218836604605,0.007394233121105984
 1998,kein Migrationshintergrund,Staedtischer Raum,in Deutschland geboren oder immigr.<1950,0.478,18147,0.47073220194215004,0.4852677980578499
 1998,kein Migrationshintergrund,Laendlicher Raum,in Deutschland geboren oder immigr.<1950,0.3127857142857143,18147,0.30604007372877734,0.3195313548426512
 1998,direkter Migrationshintergrund,Staedtischer Raum,nicht in Deutschland geboren,0.14092857142857143,18147,0.1358660390463202,0.14599110381082267
@@ -213,25 +203,21 @@ year,migback,regtyp,germborn,proportion,n,lower_confidence,upper_confidence
 2018,direkter Migrationshintergrund,Laendlicher Raum,nicht in Deutschland geboren,0.07476219804283857,43121,0.07227975453477478,0.07724464155090235
 2018,indirekter Migrationshintergrund,Staedtischer Raum,in Deutschland geboren oder immigr.<1950,0.045507424895640865,43121,0.04354026769387069,0.04747458209741104
 2018,indirekter Migrationshintergrund,Laendlicher Raum,in Deutschland geboren oder immigr.<1950,0.010299048792171354,43121,0.00934611613380478,0.01125198145053793
-2019,kein Migrationshintergrund,Staedtischer Raum,in Deutschland geboren oder immigr.<1950,0.4193082582685828,42417,0.4146122848535679,0.42400423168359774
-2019,kein Migrationshintergrund,Laendlicher Raum,in Deutschland geboren oder immigr.<1950,0.2579247748057485,42417,0.2537612937487649,0.2620882558627321
-2019,direkter Migrationshintergrund,Staedtischer Raum,nicht in Deutschland geboren,0.18397167021934951,42417,0.18028432167905004,0.187659018759649
-2019,direkter Migrationshintergrund,Laendlicher Raum,nicht in Deutschland geboren,0.06673313621673657,42417,0.06435815714128595,0.06910811529218719
-2019,indirekter Migrationshintergrund,Staedtischer Raum,in Deutschland geboren oder immigr.<1950,0.04301038300213161,42417,0.04107963157447283,0.044941134429790384
-2019,kein Migrationshintergrund,-1,in Deutschland geboren oder immigr.<1950,0.01667468885374407,42417,0.015456082115343618,0.017893295592144517
-2019,indirekter Migrationshintergrund,Laendlicher Raum,in Deutschland geboren oder immigr.<1950,0.010004813312246442,42417,0.009057688677226991,0.010951937947265893
-2019,indirekter Migrationshintergrund,-1,in Deutschland geboren oder immigr.<1950,0.0012720896651309908,42417,0.0009328797390157584,0.001611299591246223
-2019,direkter Migrationshintergrund,-1,nicht in Deutschland geboren,0.0011001856563295056,42417,0.0007846996850487805,0.0014156716276102306
+2019,kein Migrationshintergrund,Staedtischer Raum,in Deutschland geboren oder immigr.<1950,0.4274498808355531,42417,0.42274189170369997,0.4321578699674062
+2019,kein Migrationshintergrund,Laendlicher Raum,in Deutschland geboren oder immigr.<1950,0.26293284732931443,42417,0.2587433487483199,0.267122345910309
+2019,direkter Migrationshintergrund,Staedtischer Raum,nicht in Deutschland geboren,0.18754381045843263,42417,0.18382899332115352,0.19125862759571174
+2019,direkter Migrationshintergrund,Laendlicher Raum,nicht in Deutschland geboren,0.0680288798541988,42417,0.06563261960126993,0.07042514010712767
+2019,indirekter Migrationshintergrund,Staedtischer Raum,in Deutschland geboren oder immigr.<1950,0.04384550679938315,42417,0.04189695175304803,0.04579406184571827
+2019,indirekter Migrationshintergrund,Laendlicher Raum,in Deutschland geboren oder immigr.<1950,0.010199074723117903,42417,0.0092428930590858,0.011155256387150005
 2020,kein Migrationshintergrund,Staedtischer Raum,in Deutschland geboren oder immigr.<1950,0.39463575483563923,42741,0.39000192234387837,0.3992695873274001
 2020,direkter Migrationshintergrund,Staedtischer Raum,nicht in Deutschland geboren,0.24043920182207568,42741,0.23638768504402682,0.24449071860012453
 2020,kein Migrationshintergrund,Laendlicher Raum,in Deutschland geboren oder immigr.<1950,0.2370058129652922,42741,0.23297424630163518,0.2410373796289492
 2020,direkter Migrationshintergrund,Laendlicher Raum,nicht in Deutschland geboren,0.0755685487983139,42741,0.07306277635247921,0.07807432124414859
 2020,indirekter Migrationshintergrund,Staedtischer Raum,in Deutschland geboren oder immigr.<1950,0.04239045449909916,42741,0.04048032856293551,0.04430058043526281
 2020,indirekter Migrationshintergrund,Laendlicher Raum,in Deutschland geboren oder immigr.<1950,0.009960227079579834,42741,0.009018782687705998,0.010901671471453671
-2021,kein Migrationshintergrund,Staedtischer Raum,in Deutschland geboren oder immigr.<1950,0.4258720187937286,27598,0.4200380892992668,0.4317059482881904
-2021,kein Migrationshintergrund,Laendlicher Raum,in Deutschland geboren oder immigr.<1950,0.24957867320361574,27598,0.2444727581403442,0.2546845882668873
-2021,direkter Migrationshintergrund,Staedtischer Raum,nicht in Deutschland geboren,0.21592359940758898,27598,0.21106907696633928,0.2207781218488387
-2021,direkter Migrationshintergrund,Laendlicher Raum,nicht in Deutschland geboren,0.06056891884990552,27598,0.05775459131748554,0.06338324638232551
-2021,indirekter Migrationshintergrund,Staedtischer Raum,in Deutschland geboren oder immigr.<1950,0.03820029620550534,27598,0.03593881516603558,0.04046177724497509
-2021,indirekter Migrationshintergrund,Laendlicher Raum,in Deutschland geboren oder immigr.<1950,0.009805423624942546,27598,0.008642876093105942,0.01096797115677915
-2021,kein Migrationshintergrund,-1,in Deutschland geboren oder immigr.<1950,5.106991471324243e-05,27598,-3.324195929590908e-05,0.00013538178872239394
+2021,kein Migrationshintergrund,Staedtischer Raum,in Deutschland geboren oder immigr.<1950,0.4258937691521961,27598,0.4200598011935261,0.43172773711086615
+2021,kein Migrationshintergrund,Laendlicher Raum,in Deutschland geboren oder immigr.<1950,0.24959141981613892,27598,0.2444854177342279,0.25469742189804995
+2021,direkter Migrationshintergrund,Staedtischer Raum,nicht in Deutschland geboren,0.21593462717058223,27598,0.21108001490414097,0.2207892394370235
+2021,direkter Migrationshintergrund,Laendlicher Raum,nicht in Deutschland geboren,0.060572012257405515,27598,0.05775761749220347,0.06338640702260756
+2021,indirekter Migrationshintergrund,Staedtischer Raum,in Deutschland geboren oder immigr.<1950,0.038202247191011236,27598,0.035940710696244896,0.04046378368577758
+2021,indirekter Migrationshintergrund,Laendlicher Raum,in Deutschland geboren oder immigr.<1950,0.009805924412665985,27598,0.008643347488075534,0.010968501337256437

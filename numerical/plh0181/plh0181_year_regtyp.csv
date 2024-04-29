@@ -1,5 +1,4 @@
-year,regtyp,mean,mean_lower_confidence,mean_upper_confidence,lower_quartile,boxplot_median,upper_quartile,lower_whisker,upper_whisker,median,median_lower_confidence,median_upper_confidence,n
-1984,-1,,,,,,,,,,,,
+year,regtyp,n,mean,mean_lower_confidence,mean_upper_confidence,lower_quartile,boxplot_median,upper_quartile,lower_whisker,upper_whisker,median,median_lower_confidence,median_upper_confidence
 1985,Staedtischer Raum,,,,,,,,,,,,
 1985,Laendlicher Raum,,,,,,,,,,,,
 1986,Staedtischer Raum,,,,,,,,,,,,
@@ -10,13 +9,10 @@ year,regtyp,mean,mean_lower_confidence,mean_upper_confidence,lower_quartile,boxp
 1988,Laendlicher Raum,,,,,,,,,,,,
 1989,Staedtischer Raum,,,,,,,,,,,,
 1989,Laendlicher Raum,,,,,,,,,,,,
-1990,-1,,,,,,,,,,,,
 1990,Staedtischer Raum,,,,,,,,,,,,
 1990,Laendlicher Raum,,,,,,,,,,,,
-1991,-1,,,,,,,,,,,,
 1991,Staedtischer Raum,,,,,,,,,,,,
 1991,Laendlicher Raum,,,,,,,,,,,,
-1992,-1,,,,,,,,,,,,
 1992,Staedtischer Raum,,,,,,,,,,,,
 1992,Laendlicher Raum,,,,,,,,,,,,
 1993,Staedtischer Raum,,,,,,,,,,,,
@@ -27,7 +23,6 @@ year,regtyp,mean,mean_lower_confidence,mean_upper_confidence,lower_quartile,boxp
 1995,Laendlicher Raum,,,,,,,,,,,,
 1996,Staedtischer Raum,,,,,,,,,,,,
 1996,Laendlicher Raum,,,,,,,,,,,,
-1997,-1,,,,,,,,,,,,
 1997,Staedtischer Raum,,,,,,,,,,,,
 1997,Laendlicher Raum,,,,,,,,,,,,
 1998,Staedtischer Raum,,,,,,,,,,,,
@@ -46,8 +41,8 @@ year,regtyp,mean,mean_lower_confidence,mean_upper_confidence,lower_quartile,boxp
 2004,Laendlicher Raum,,,,,,,,,,,,
 2005,Staedtischer Raum,,,,,,,,,,,,
 2005,Laendlicher Raum,,,,,,,,,,,,
-2006,Staedtischer Raum,7.436998341026109,7.421529713877634,7.452466968174583,6.0,8.0,9.0,1.5,10.0,8.0,8.0,8.0,14354.0
-2006,Laendlicher Raum,7.445455445801247,7.424017118343298,7.466893773259197,6.0,8.0,9.0,1.5,10.0,8.0,8.0,8.0,7457.0
+2006,Staedtischer Raum,14354,7.436998341026107,7.421529713877632,7.452466968174582,7.785370913245876,10.0,5.823660462438082,10.727936589457567,2.881094786226391,8.0,8.0,8.0
+2006,Laendlicher Raum,7457,7.445455445801247,7.424017118343298,7.466893773259197,9.0,5.403461898742021,9.0,9.0,9.0,8.0,8.0,8.0
 2007,Staedtischer Raum,,,,,,,,,,,,
 2007,Laendlicher Raum,,,,,,,,,,,,
 2008,Staedtischer Raum,,,,,,,,,,,,
@@ -56,8 +51,8 @@ year,regtyp,mean,mean_lower_confidence,mean_upper_confidence,lower_quartile,boxp
 2009,Laendlicher Raum,,,,,,,,,,,,
 2010,Staedtischer Raum,,,,,,,,,,,,
 2010,Laendlicher Raum,,,,,,,,,,,,
-2011,Staedtischer Raum,7.581184288219019,7.566834750983191,7.595533825454846,7.0,8.0,9.0,4.0,10.0,8.0,8.0,8.0,16477.0
-2011,Laendlicher Raum,7.559558551034112,7.540542392254002,7.578574709814221,7.0,8.0,9.0,4.0,10.0,8.0,8.0,8.0,9199.0
+2011,Staedtischer Raum,16477,7.581184288219017,7.5668347509831895,7.595533825454845,8.35134140598699,7.080592771369098,9.276426017779793,10.0,9.0,8.0,8.0,8.0
+2011,Laendlicher Raum,9199,7.559558551034112,7.540542392254002,7.578574709814221,9.579290016533465,7.173455137021333,8.448517888041707,11.2754482092711,6.75235969530407,8.0,8.0,8.0
 2012,Staedtischer Raum,,,,,,,,,,,,
 2012,Laendlicher Raum,,,,,,,,,,,,
 2013,Staedtischer Raum,,,,,,,,,,,,
@@ -66,17 +61,15 @@ year,regtyp,mean,mean_lower_confidence,mean_upper_confidence,lower_quartile,boxp
 2014,Laendlicher Raum,,,,,,,,,,,,
 2015,Staedtischer Raum,,,,,,,,,,,,
 2015,Laendlicher Raum,,,,,,,,,,,,
-2016,Staedtischer Raum,7.625864739478437,7.611774759324677,7.639954719632196,7.0,8.0,9.0,4.0,10.0,8.0,8.0,8.0,15578.0
-2016,Laendlicher Raum,7.618951772737369,7.60038324092049,7.637520304554249,7.0,8.0,9.0,4.0,10.0,8.0,8.0,8.0,8439.0
+2016,Staedtischer Raum,15578,7.625864739478435,7.611774759324676,7.639954719632194,7.855328795280541,8.419208501254454,8.0,10.0,8.217006807079189,8.0,8.0,8.0
+2016,Laendlicher Raum,8439,7.6189517727373675,7.600383240920488,7.637520304554247,7.155829363297352,8.81256662492013,8.154724819498956,10.0,9.0,8.0,8.0,8.0
 2017,Staedtischer Raum,,,,,,,,,,,,
 2017,Laendlicher Raum,,,,,,,,,,,,
 2018,Staedtischer Raum,,,,,,,,,,,,
 2018,Laendlicher Raum,,,,,,,,,,,,
-2019,-1,,,,,,,,,,,,
 2019,Staedtischer Raum,,,,,,,,,,,,
 2019,Laendlicher Raum,,,,,,,,,,,,
 2020,Staedtischer Raum,,,,,,,,,,,,
 2020,Laendlicher Raum,,,,,,,,,,,,
-2021,-1,,,,,,,,,,,,
 2021,Staedtischer Raum,,,,,,,,,,,,
 2021,Laendlicher Raum,,,,,,,,,,,,

@@ -1,7 +1,4 @@
-year,migback,regtyp,mean,mean_lower_confidence,mean_upper_confidence,lower_quartile,boxplot_median,upper_quartile,lower_whisker,upper_whisker,median,median_lower_confidence,median_upper_confidence,n
-1984,kein Migrationshintergrund,-1,,,,,,,,,,,,
-1984,direkter Migrationshintergrund,-1,,,,,,,,,,,,
-1984,indirekter Migrationshintergrund,-1,,,,,,,,,,,,
+year,migback,regtyp,n,mean,mean_lower_confidence,mean_upper_confidence,lower_quartile,boxplot_median,upper_quartile,lower_whisker,upper_whisker,median,median_lower_confidence,median_upper_confidence
 1985,kein Migrationshintergrund,Staedtischer Raum,,,,,,,,,,,,
 1985,kein Migrationshintergrund,Laendlicher Raum,,,,,,,,,,,,
 1985,direkter Migrationshintergrund,Staedtischer Raum,,,,,,,,,,,,
@@ -32,26 +29,20 @@ year,migback,regtyp,mean,mean_lower_confidence,mean_upper_confidence,lower_quart
 1989,direkter Migrationshintergrund,Laendlicher Raum,,,,,,,,,,,,
 1989,indirekter Migrationshintergrund,Staedtischer Raum,,,,,,,,,,,,
 1989,indirekter Migrationshintergrund,Laendlicher Raum,,,,,,,,,,,,
-1990,kein Migrationshintergrund,-1,,,,,,,,,,,,
 1990,kein Migrationshintergrund,Staedtischer Raum,,,,,,,,,,,,
 1990,kein Migrationshintergrund,Laendlicher Raum,,,,,,,,,,,,
-1990,direkter Migrationshintergrund,-1,,,,,,,,,,,,
 1990,direkter Migrationshintergrund,Staedtischer Raum,,,,,,,,,,,,
 1990,direkter Migrationshintergrund,Laendlicher Raum,,,,,,,,,,,,
 1990,indirekter Migrationshintergrund,Staedtischer Raum,,,,,,,,,,,,
 1990,indirekter Migrationshintergrund,Laendlicher Raum,,,,,,,,,,,,
-1991,kein Migrationshintergrund,-1,,,,,,,,,,,,
 1991,kein Migrationshintergrund,Staedtischer Raum,,,,,,,,,,,,
 1991,kein Migrationshintergrund,Laendlicher Raum,,,,,,,,,,,,
-1991,direkter Migrationshintergrund,-1,,,,,,,,,,,,
 1991,direkter Migrationshintergrund,Staedtischer Raum,,,,,,,,,,,,
 1991,direkter Migrationshintergrund,Laendlicher Raum,,,,,,,,,,,,
 1991,indirekter Migrationshintergrund,Staedtischer Raum,,,,,,,,,,,,
 1991,indirekter Migrationshintergrund,Laendlicher Raum,,,,,,,,,,,,
-1992,kein Migrationshintergrund,-1,,,,,,,,,,,,
 1992,kein Migrationshintergrund,Staedtischer Raum,,,,,,,,,,,,
 1992,kein Migrationshintergrund,Laendlicher Raum,,,,,,,,,,,,
-1992,direkter Migrationshintergrund,-1,,,,,,,,,,,,
 1992,direkter Migrationshintergrund,Staedtischer Raum,,,,,,,,,,,,
 1992,direkter Migrationshintergrund,Laendlicher Raum,,,,,,,,,,,,
 1992,indirekter Migrationshintergrund,Staedtischer Raum,,,,,,,,,,,,
@@ -80,7 +71,6 @@ year,migback,regtyp,mean,mean_lower_confidence,mean_upper_confidence,lower_quart
 1996,direkter Migrationshintergrund,Laendlicher Raum,,,,,,,,,,,,
 1996,indirekter Migrationshintergrund,Staedtischer Raum,,,,,,,,,,,,
 1996,indirekter Migrationshintergrund,Laendlicher Raum,,,,,,,,,,,,
-1997,kein Migrationshintergrund,-1,,,,,,,,,,,,
 1997,kein Migrationshintergrund,Staedtischer Raum,,,,,,,,,,,,
 1997,kein Migrationshintergrund,Laendlicher Raum,,,,,,,,,,,,
 1997,direkter Migrationshintergrund,Staedtischer Raum,,,,,,,,,,,,
@@ -129,12 +119,12 @@ year,migback,regtyp,mean,mean_lower_confidence,mean_upper_confidence,lower_quart
 2004,direkter Migrationshintergrund,Laendlicher Raum,,,,,,,,,,,,
 2004,indirekter Migrationshintergrund,Staedtischer Raum,,,,,,,,,,,,
 2004,indirekter Migrationshintergrund,Laendlicher Raum,,,,,,,,,,,,
-2005,kein Migrationshintergrund,Staedtischer Raum,6.466103997566896,6.458210939700376,6.473997055433416,6.0,7.0,7.0,4.5,7.0,7.0,7.0,7.0,10886.0
-2005,kein Migrationshintergrund,Laendlicher Raum,6.46874796788106,6.458208209417473,6.479287726344648,6.0,7.0,7.0,4.5,7.0,7.0,7.0,7.0,6287.0
-2005,direkter Migrationshintergrund,Staedtischer Raum,6.386403760067278,6.364428868166482,6.408378651968074,6.0,7.0,7.0,4.5,7.0,7.0,7.0,7.0,1934.0
-2005,direkter Migrationshintergrund,Laendlicher Raum,6.550648254371014,6.510183331334165,6.591113177407863,6.0,7.0,7.0,4.5,7.0,7.0,7.0,7.0,400.0
-2005,indirekter Migrationshintergrund,Staedtischer Raum,6.4339471870332465,6.400568245044718,6.467326129021775,6.0,7.0,7.0,4.5,7.0,7.0,7.0,7.0,655.0
-2005,indirekter Migrationshintergrund,Laendlicher Raum,6.381204038990429,6.299499796072143,6.462908281908715,6.0,7.0,7.0,4.5,7.0,7.0,7.0,8.0,98.0
+2005,kein Migrationshintergrund,Staedtischer Raum,10886,6.466103997566896,6.458210939700376,6.473997055433416,7.0,7.0,7.0,7.0,7.0,7.0,7.0,7.0
+2005,kein Migrationshintergrund,Laendlicher Raum,6287,6.46874796788106,6.458208209417473,6.479287726344648,6.765493603312392,6.606320898542288,7.0,7.0,3.0,7.0,7.0,7.0
+2005,direkter Migrationshintergrund,Staedtischer Raum,1934,6.386403760067278,6.364428868166482,6.408378651968074,6.944915609917167,7.0,6.488591920501218,7.629401144041092,5.804106386377294,7.0,7.0,7.0
+2005,direkter Migrationshintergrund,Laendlicher Raum,400,6.550648254371012,6.510183331334163,6.591113177407861,6.36097799029824,7.0,7.0,5.4024449757456,7.0,7.0,7.0,7.0
+2005,indirekter Migrationshintergrund,Staedtischer Raum,655,6.4339471870332465,6.400568245044718,6.467326129021775,6.90877423077058,6.405172576031519,6.801325747410288,7.069946955811018,6.0,7.0,7.0,7.0
+2005,indirekter Migrationshintergrund,Laendlicher Raum,98,6.381204038990427,6.2994997960721415,6.462908281908713,5.070822892334817,6.203031115879835,6.367210240864854,5.0,6.0,7.0,7.0,8.0
 2006,kein Migrationshintergrund,Staedtischer Raum,,,,,,,,,,,,
 2006,kein Migrationshintergrund,Laendlicher Raum,,,,,,,,,,,,
 2006,direkter Migrationshintergrund,Staedtischer Raum,,,,,,,,,,,,
@@ -159,12 +149,12 @@ year,migback,regtyp,mean,mean_lower_confidence,mean_upper_confidence,lower_quart
 2009,direkter Migrationshintergrund,Laendlicher Raum,,,,,,,,,,,,
 2009,indirekter Migrationshintergrund,Staedtischer Raum,,,,,,,,,,,,
 2009,indirekter Migrationshintergrund,Laendlicher Raum,,,,,,,,,,,,
-2010,kein Migrationshintergrund,Staedtischer Raum,6.410937889114754,6.401960833017058,6.41991494521245,6.0,7.0,7.0,4.5,7.0,7.0,7.0,7.0,9129.0
-2010,kein Migrationshintergrund,Laendlicher Raum,6.383099126077597,6.370868382805738,6.395329869349456,6.0,7.0,7.0,4.5,7.0,7.0,7.0,7.0,5349.0
-2010,direkter Migrationshintergrund,Staedtischer Raum,6.412970630402516,6.388170300270941,6.43777096053409,6.0,7.0,7.0,4.5,7.0,7.0,7.0,7.0,1176.0
-2010,direkter Migrationshintergrund,Laendlicher Raum,6.294936840319157,6.2317642924512775,6.358109388187037,6.0,7.0,7.0,4.5,7.0,7.0,7.0,7.0,282.0
-2010,indirekter Migrationshintergrund,Staedtischer Raum,6.435906075484986,6.398214151147224,6.473597999822749,6.0,7.0,7.0,4.5,7.0,7.0,7.0,7.0,550.0
-2010,indirekter Migrationshintergrund,Laendlicher Raum,6.15057069061218,6.057284605784374,6.243856775439986,6.0,6.0,7.0,4.5,7.0,6.0,5.0,6.0,102.0
+2010,kein Migrationshintergrund,Staedtischer Raum,9129,6.410937889114753,6.401960833017057,6.419914945212449,7.0,6.648773378814755,7.0,7.0,6.0,7.0,7.0,7.0
+2010,kein Migrationshintergrund,Laendlicher Raum,5349,6.383099126077595,6.370868382805736,6.395329869349454,7.0,7.0,6.845590500169333,7.231614249746,6.0,7.0,7.0,7.0
+2010,direkter Migrationshintergrund,Staedtischer Raum,1176,6.412970630402517,6.388170300270943,6.437770960534092,7.0,6.710038831616974,7.0,7.0,7.0,7.0,7.0,7.0
+2010,direkter Migrationshintergrund,Laendlicher Raum,282,6.294936840319157,6.2317642924512775,6.358109388187037,6.704932703735627,7.0,6.984352252369021,7.0,7.0,7.0,7.0,7.0
+2010,indirekter Migrationshintergrund,Staedtischer Raum,550,6.435906075484986,6.398214151147224,6.473597999822749,5.622855970026238,6.801149447867642,7.0,7.0,7.0,7.0,7.0,7.0
+2010,indirekter Migrationshintergrund,Laendlicher Raum,102,6.150570690612179,6.057284605784373,6.243856775439985,6.344606690041885,6.556576591048361,6.616529909259712,5.936721861215144,7.0,6.0,5.0,6.0
 2011,kein Migrationshintergrund,Staedtischer Raum,,,,,,,,,,,,
 2011,kein Migrationshintergrund,Laendlicher Raum,,,,,,,,,,,,
 2011,direkter Migrationshintergrund,Staedtischer Raum,,,,,,,,,,,,
@@ -189,12 +179,12 @@ year,migback,regtyp,mean,mean_lower_confidence,mean_upper_confidence,lower_quart
 2014,direkter Migrationshintergrund,Laendlicher Raum,,,,,,,,,,,,
 2014,indirekter Migrationshintergrund,Staedtischer Raum,,,,,,,,,,,,
 2014,indirekter Migrationshintergrund,Laendlicher Raum,,,,,,,,,,,,
-2015,kein Migrationshintergrund,Staedtischer Raum,6.41659575057414,6.408878751987819,6.42431274916046,6.0,7.0,7.0,4.5,7.0,7.0,7.0,7.0,11668.0
-2015,kein Migrationshintergrund,Laendlicher Raum,6.366616982118353,6.356344305049312,6.376889659187395,6.0,7.0,7.0,4.5,7.0,7.0,7.0,7.0,7458.0
-2015,direkter Migrationshintergrund,Staedtischer Raum,6.320613561583447,6.304348289623816,6.336878833543079,6.0,7.0,7.0,4.5,7.0,7.0,7.0,7.0,4355.0
-2015,direkter Migrationshintergrund,Laendlicher Raum,6.458444374190806,6.43532527866428,6.481563469717333,6.0,7.0,7.0,4.5,7.0,7.0,7.0,7.0,1501.0
-2015,indirekter Migrationshintergrund,Staedtischer Raum,6.455105494107598,6.429815963944683,6.480395024270513,6.0,7.0,7.0,4.5,7.0,7.0,7.0,7.0,1309.0
-2015,indirekter Migrationshintergrund,Laendlicher Raum,6.274452620356818,6.21755160455302,6.331353636160615,6.0,7.0,7.0,4.5,7.0,7.0,7.0,8.0,304.0
+2015,kein Migrationshintergrund,Staedtischer Raum,11668,6.41659575057414,6.408878751987819,6.42431274916046,7.0,6.306724673663583,7.0,7.0,7.0,7.0,7.0,7.0
+2015,kein Migrationshintergrund,Laendlicher Raum,7458,6.366616982118355,6.356344305049314,6.3768896591873965,5.613452360130739,6.391286221486724,6.904655825354955,6.0,7.0,7.0,7.0,7.0
+2015,direkter Migrationshintergrund,Staedtischer Raum,4355,6.320613561583449,6.304348289623817,6.33687883354308,6.215113117295602,6.981888974952882,7.0,6.0,7.0,7.0,7.0,7.0
+2015,direkter Migrationshintergrund,Laendlicher Raum,1501,6.458444374190809,6.4353252786642825,6.481563469717336,7.0,7.0,7.0,7.0,7.0,7.0,7.0,7.0
+2015,indirekter Migrationshintergrund,Staedtischer Raum,1309,6.455105494107598,6.429815963944683,6.480395024270513,3.9029707474951594,7.0,6.366690779297475,7.0,7.0,7.0,7.0,7.0
+2015,indirekter Migrationshintergrund,Laendlicher Raum,304,6.274452620356818,6.21755160455302,6.331353636160615,7.0,5.587197980880687,4.708549300867756,10.437176048698365,1.2713732521693903,7.0,7.0,8.0
 2016,kein Migrationshintergrund,Staedtischer Raum,,,,,,,,,,,,
 2016,kein Migrationshintergrund,Laendlicher Raum,,,,,,,,,,,,
 2016,direkter Migrationshintergrund,Staedtischer Raum,,,,,,,,,,,,
@@ -213,22 +203,18 @@ year,migback,regtyp,mean,mean_lower_confidence,mean_upper_confidence,lower_quart
 2018,direkter Migrationshintergrund,Laendlicher Raum,,,,,,,,,,,,
 2018,indirekter Migrationshintergrund,Staedtischer Raum,,,,,,,,,,,,
 2018,indirekter Migrationshintergrund,Laendlicher Raum,,,,,,,,,,,,
-2019,kein Migrationshintergrund,-1,,,,,,,,,,,,
 2019,kein Migrationshintergrund,Staedtischer Raum,,,,,,,,,,,,
 2019,kein Migrationshintergrund,Laendlicher Raum,,,,,,,,,,,,
-2019,direkter Migrationshintergrund,-1,,,,,,,,,,,,
 2019,direkter Migrationshintergrund,Staedtischer Raum,,,,,,,,,,,,
 2019,direkter Migrationshintergrund,Laendlicher Raum,,,,,,,,,,,,
-2019,indirekter Migrationshintergrund,-1,,,,,,,,,,,,
 2019,indirekter Migrationshintergrund,Staedtischer Raum,,,,,,,,,,,,
 2019,indirekter Migrationshintergrund,Laendlicher Raum,,,,,,,,,,,,
-2020,kein Migrationshintergrund,Staedtischer Raum,6.405030424167937,6.39723310790494,6.412827740430934,6.0,7.0,7.0,4.5,7.0,7.0,7.0,7.0,11578.0
-2020,kein Migrationshintergrund,Laendlicher Raum,6.414772979634502,6.404788113730853,6.42475784553815,6.0,7.0,7.0,4.5,7.0,7.0,7.0,7.0,6966.0
-2020,direkter Migrationshintergrund,Staedtischer Raum,6.2168809102418985,6.203617541646266,6.230144278837531,6.0,7.0,7.0,4.5,7.0,7.0,7.0,7.0,7025.0
-2020,direkter Migrationshintergrund,Laendlicher Raum,6.308849455926457,6.287884105607978,6.3298148062449355,6.0,7.0,7.0,4.5,7.0,7.0,7.0,7.0,2198.0
-2020,indirekter Migrationshintergrund,Staedtischer Raum,6.4363612626660505,6.413394818908181,6.45932770642392,6.0,7.0,7.0,4.5,7.0,7.0,7.0,7.0,1243.0
-2020,indirekter Migrationshintergrund,Laendlicher Raum,6.03743823884051,5.955092392928272,6.119784084752748,6.0,7.0,7.0,4.5,7.0,7.0,7.0,8.0,293.0
-2021,kein Migrationshintergrund,-1,,,,,,,,,,,,
+2020,kein Migrationshintergrund,Staedtischer Raum,11578,6.405030424167939,6.397233107904942,6.412827740430936,7.0,5.755007911992643,6.210130624847327,8.18480406272901,5.025326562118318,7.0,7.0,7.0
+2020,kein Migrationshintergrund,Laendlicher Raum,6966,6.414772979634502,6.404788113730853,6.42475784553815,6.0,6.816314267638498,7.0,5.0,7.0,7.0,7.0,7.0
+2020,direkter Migrationshintergrund,Staedtischer Raum,7025,6.2168809102418985,6.203617541646266,6.230144278837531,7.0,2.5793437591238844,7.0,7.0,7.0,7.0,7.0,7.0
+2020,direkter Migrationshintergrund,Laendlicher Raum,2198,6.308849455926456,6.2878841056079775,6.329814806244935,7.0,6.109440815939594,6.084468636489216,8.373297045266176,4.7111715912230405,7.0,7.0,7.0
+2020,indirekter Migrationshintergrund,Staedtischer Raum,1243,6.436361262666048,6.413394818908178,6.459327706423918,7.0,7.0,6.125089360791444,8.312365958812833,4.81272340197861,7.0,7.0,7.0
+2020,indirekter Migrationshintergrund,Laendlicher Raum,293,6.037438238840509,5.95509239292827,6.119784084752748,7.0,6.576819668539405,7.0,7.0,7.0,7.0,7.0,8.0
 2021,kein Migrationshintergrund,Staedtischer Raum,,,,,,,,,,,,
 2021,kein Migrationshintergrund,Laendlicher Raum,,,,,,,,,,,,
 2021,direkter Migrationshintergrund,Staedtischer Raum,,,,,,,,,,,,

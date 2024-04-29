@@ -1,4 +1,4 @@
-year,migback,mean,mean_lower_confidence,mean_upper_confidence,lower_quartile,boxplot_median,upper_quartile,lower_whisker,upper_whisker,median,median_lower_confidence,median_upper_confidence,n
+year,migback,n,mean,mean_lower_confidence,mean_upper_confidence,lower_quartile,boxplot_median,upper_quartile,lower_whisker,upper_whisker,median,median_lower_confidence,median_upper_confidence
 1984,kein Migrationshintergrund,,,,,,,,,,,,
 1984,direkter Migrationshintergrund,,,,,,,,,,,,
 1984,indirekter Migrationshintergrund,,,,,,,,,,,,
@@ -62,9 +62,9 @@ year,migback,mean,mean_lower_confidence,mean_upper_confidence,lower_quartile,box
 2004,kein Migrationshintergrund,,,,,,,,,,,,
 2004,direkter Migrationshintergrund,,,,,,,,,,,,
 2004,indirekter Migrationshintergrund,,,,,,,,,,,,
-2005,kein Migrationshintergrund,3.234241921831394,3.2215872234518828,3.246896620210905,2.0,3.0,4.0,1.0,7.0,3.0,3.0,3.0,17121.0
-2005,direkter Migrationshintergrund,3.260951257597232,3.2251680573463855,3.2967344578480784,2.0,3.0,5.0,1.0,7.0,3.0,3.0,3.0,2323.0
-2005,indirekter Migrationshintergrund,3.635916386170428,3.5739956382474305,3.6978371340934255,2.0,4.0,5.0,1.0,7.0,4.0,4.0,5.0,751.0
+2005,kein Migrationshintergrund,17121,3.2342419218313943,3.221587223451883,3.2468966202109053,3.510657776900967,2.0,1.0,7.276644442252417,-2.76598666535145,3.0,3.0,3.0
+2005,direkter Migrationshintergrund,2323,3.260951257597232,3.2251680573463855,3.2967344578480784,1.7994976066992217,3.222659797383418,3.068959865603895,1.0,4.973153253960906,3.0,3.0,3.0
+2005,indirekter Migrationshintergrund,751,3.635916386170428,3.5739956382474305,3.6978371340934255,1.0,2.0,6.94521715385074,5.0,2.0,4.0,4.0,5.0
 2006,kein Migrationshintergrund,,,,,,,,,,,,
 2006,direkter Migrationshintergrund,,,,,,,,,,,,
 2006,indirekter Migrationshintergrund,,,,,,,,,,,,
@@ -77,9 +77,9 @@ year,migback,mean,mean_lower_confidence,mean_upper_confidence,lower_quartile,box
 2009,kein Migrationshintergrund,,,,,,,,,,,,
 2009,direkter Migrationshintergrund,,,,,,,,,,,,
 2009,indirekter Migrationshintergrund,,,,,,,,,,,,
-2010,kein Migrationshintergrund,3.1449877094440923,3.131399167921746,3.158576250966439,2.0,3.0,4.0,1.0,7.0,3.0,3.0,3.0,14457.0
-2010,direkter Migrationshintergrund,3.267947973562768,3.2227014683325748,3.3131944787929615,2.0,3.0,5.0,1.0,7.0,3.0,3.0,3.0,1450.0
-2010,indirekter Migrationshintergrund,3.4687738920907316,3.404833386298733,3.5327143978827302,2.0,3.0,5.0,1.0,7.0,3.0,2.0,3.0,648.0
+2010,kein Migrationshintergrund,14457,3.144987709444091,3.1313991679217446,3.1585762509664375,2.976010991954495,2.3649416371357277,2.3409802127302277,4.0,1.3884340438938267,3.0,3.0,3.0
+2010,direkter Migrationshintergrund,1450,3.267947973562768,3.2227014683325748,3.3131944787929615,2.031487339534269,4.0,4.842385940848277,1.0,4.0,3.0,3.0,3.0
+2010,indirekter Migrationshintergrund,648,3.468773892090731,3.4048333862987326,3.53271439788273,2.8519056571524923,3.817312662795071,4.194838718180226,6.0,4.0,3.0,2.0,3.0
 2011,kein Migrationshintergrund,,,,,,,,,,,,
 2011,direkter Migrationshintergrund,,,,,,,,,,,,
 2011,indirekter Migrationshintergrund,,,,,,,,,,,,
@@ -92,9 +92,9 @@ year,migback,mean,mean_lower_confidence,mean_upper_confidence,lower_quartile,box
 2014,kein Migrationshintergrund,,,,,,,,,,,,
 2014,direkter Migrationshintergrund,,,,,,,,,,,,
 2014,indirekter Migrationshintergrund,,,,,,,,,,,,
-2015,kein Migrationshintergrund,2.924965732111739,2.913437917887888,2.93649354633559,2.0,3.0,4.0,1.0,7.0,3.0,3.0,3.0249999999999995,19110.0
-2015,direkter Migrationshintergrund,2.8188469727771164,2.7965849785221537,2.841108967032079,1.0,2.0,4.0,1.0,7.0,2.0,2.0,2.0,5829.0
-2015,indirekter Migrationshintergrund,2.9819458696006076,2.9408483698087227,3.0230433693924925,2.0,3.0,4.0,1.0,7.0,3.0,3.0,4.0,1611.0
+2015,kein Migrationshintergrund,19110,2.9249657321117395,2.9134379178878884,2.9364935463355906,1.254051777048543,1.3189749511569206,2.9320730237187402,4.0,2.0,3.0,3.0,3.0249999999999995
+2015,direkter Migrationshintergrund,5829,2.8188469727771164,2.7965849785221537,2.841108967032079,2.2771642322641483,1.1474986054757428,1.0,4.192910580660371,-0.9157463483962225,2.0,2.0,2.0
+2015,indirekter Migrationshintergrund,1611,2.9819458696006076,2.9408483698087227,3.0230433693924925,2.7053647042752695,1.114480021123611,1.0,5.263411760688173,-1.5580470564129043,3.0,3.0,4.0
 2016,kein Migrationshintergrund,,,,,,,,,,,,
 2016,direkter Migrationshintergrund,,,,,,,,,,,,
 2016,indirekter Migrationshintergrund,,,,,,,,,,,,
@@ -107,9 +107,9 @@ year,migback,mean,mean_lower_confidence,mean_upper_confidence,lower_quartile,box
 2019,kein Migrationshintergrund,,,,,,,,,,,,
 2019,direkter Migrationshintergrund,,,,,,,,,,,,
 2019,indirekter Migrationshintergrund,,,,,,,,,,,,
-2020,kein Migrationshintergrund,2.852089091660856,2.8407590599658925,2.8634191233558197,2.0,2.0,4.0,1.0,7.0,2.0,1.0,2.0,18527.0
-2020,direkter Migrationshintergrund,2.8677569805232714,2.850182474008013,2.88533148703853,1.0,2.0,4.0,1.0,7.0,2.0,1.0,2.0,9185.0
-2020,indirekter Migrationshintergrund,3.042387695943777,3.000411027806875,3.084364364080679,2.0,3.0,4.0,1.0,7.0,3.0,3.0,3.0,1535.0
+2020,kein Migrationshintergrund,18527,2.852089091660857,2.8407590599658934,2.8634191233558206,4.477151795581658,1.1144869093011116,2.0,8.192879488954146,-1.7157276933724876,2.0,1.0,2.0
+2020,direkter Migrationshintergrund,9185,2.8677569805232705,2.850182474008012,2.885331487038529,1.2765623188872075,3.0,5.226552264682621,1.0,2.0,2.0,1.0,2.0
+2020,indirekter Migrationshintergrund,1535,3.042387695943777,3.000411027806875,3.084364364080679,3.3452340356735197,2.1744438914148163,3.338789459270539,3.3549009002779906,1.0,3.0,3.0,3.0249999999999995
 2021,kein Migrationshintergrund,,,,,,,,,,,,
 2021,direkter Migrationshintergrund,,,,,,,,,,,,
 2021,indirekter Migrationshintergrund,,,,,,,,,,,,

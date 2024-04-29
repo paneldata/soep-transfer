@@ -1,6 +1,4 @@
-year,regtyp,sex,mean,mean_lower_confidence,mean_upper_confidence,lower_quartile,boxplot_median,upper_quartile,lower_whisker,upper_whisker,median,median_lower_confidence,median_upper_confidence,n
-1984,-1,maennlich,,,,,,,,,,,,
-1984,-1,weiblich,,,,,,,,,,,,
+year,regtyp,sex,n,mean,mean_lower_confidence,mean_upper_confidence,lower_quartile,boxplot_median,upper_quartile,lower_whisker,upper_whisker,median,median_lower_confidence,median_upper_confidence
 1985,Staedtischer Raum,maennlich,,,,,,,,,,,,
 1985,Staedtischer Raum,weiblich,,,,,,,,,,,,
 1985,Laendlicher Raum,maennlich,,,,,,,,,,,,
@@ -21,21 +19,14 @@ year,regtyp,sex,mean,mean_lower_confidence,mean_upper_confidence,lower_quartile,
 1989,Staedtischer Raum,weiblich,,,,,,,,,,,,
 1989,Laendlicher Raum,maennlich,,,,,,,,,,,,
 1989,Laendlicher Raum,weiblich,,,,,,,,,,,,
-1990,-1,maennlich,,,,,,,,,,,,
-1990,-1,weiblich,,,,,,,,,,,,
-1990,Staedtischer Raum,-1,,,,,,,,,,,,
 1990,Staedtischer Raum,maennlich,,,,,,,,,,,,
 1990,Staedtischer Raum,weiblich,,,,,,,,,,,,
 1990,Laendlicher Raum,maennlich,,,,,,,,,,,,
 1990,Laendlicher Raum,weiblich,,,,,,,,,,,,
-1991,-1,maennlich,,,,,,,,,,,,
-1991,-1,weiblich,,,,,,,,,,,,
 1991,Staedtischer Raum,maennlich,,,,,,,,,,,,
 1991,Staedtischer Raum,weiblich,,,,,,,,,,,,
 1991,Laendlicher Raum,maennlich,,,,,,,,,,,,
 1991,Laendlicher Raum,weiblich,,,,,,,,,,,,
-1992,-1,maennlich,,,,,,,,,,,,
-1992,-1,weiblich,,,,,,,,,,,,
 1992,Staedtischer Raum,maennlich,,,,,,,,,,,,
 1992,Staedtischer Raum,weiblich,,,,,,,,,,,,
 1992,Laendlicher Raum,maennlich,,,,,,,,,,,,
@@ -56,7 +47,6 @@ year,regtyp,sex,mean,mean_lower_confidence,mean_upper_confidence,lower_quartile,
 1996,Staedtischer Raum,weiblich,,,,,,,,,,,,
 1996,Laendlicher Raum,maennlich,,,,,,,,,,,,
 1996,Laendlicher Raum,weiblich,,,,,,,,,,,,
-1997,-1,weiblich,,,,,,,,,,,,
 1997,Staedtischer Raum,maennlich,,,,,,,,,,,,
 1997,Staedtischer Raum,weiblich,,,,,,,,,,,,
 1997,Laendlicher Raum,maennlich,,,,,,,,,,,,
@@ -89,10 +79,10 @@ year,regtyp,sex,mean,mean_lower_confidence,mean_upper_confidence,lower_quartile,
 2004,Staedtischer Raum,weiblich,,,,,,,,,,,,
 2004,Laendlicher Raum,maennlich,,,,,,,,,,,,
 2004,Laendlicher Raum,weiblich,,,,,,,,,,,,
-2005,Staedtischer Raum,maennlich,4.899487974983549,4.878155856050347,4.920820093916751,4.0,5.0,6.0,1.0,9.0,5.0,5.0,5.0,6254.0
-2005,Staedtischer Raum,weiblich,4.70007374950498,4.680816783653853,4.719330715356106,4.0,5.0,5.0,2.5,6.5,5.0,5.0,5.0,6741.0
-2005,Laendlicher Raum,maennlich,4.992110512513594,4.9620731796415205,5.022147845385667,4.0,5.0,6.0,1.0,9.0,5.0,5.0,5.0,3206.0
-2005,Laendlicher Raum,weiblich,4.791327790226552,4.765463830417645,4.817191750035458,4.0,5.0,5.0,2.5,6.5,5.0,5.0,5.0,3365.0
+2005,Staedtischer Raum,maennlich,6254,4.89948797498355,4.8781558560503475,4.920820093916752,2.089532838125716,5.955941159331758,7.0,6.0,8.0,5.0,5.0,5.0
+2005,Staedtischer Raum,weiblich,6741,4.70007374950498,4.680816783653853,4.719330715356106,5.171505385467428,7.598819673775687,4.0,6.928763463668571,2.2427419217988573,5.0,5.0,5.0
+2005,Laendlicher Raum,maennlich,3206,4.992110512513594,4.9620731796415205,5.022147845385667,3.19161675936272,5.0,4.351665324163138,2.0,5.0,5.0,5.0,5.0
+2005,Laendlicher Raum,weiblich,3365,4.791327790226552,4.765463830417645,4.817191750035458,4.334527101453029,5.0,5.903759827190369,3.0,8.0,5.0,5.0,5.0
 2006,Staedtischer Raum,maennlich,,,,,,,,,,,,
 2006,Staedtischer Raum,weiblich,,,,,,,,,,,,
 2006,Laendlicher Raum,maennlich,,,,,,,,,,,,
@@ -105,84 +95,55 @@ year,regtyp,sex,mean,mean_lower_confidence,mean_upper_confidence,lower_quartile,
 2008,Staedtischer Raum,weiblich,,,,,,,,,,,,
 2008,Laendlicher Raum,maennlich,,,,,,,,,,,,
 2008,Laendlicher Raum,weiblich,,,,,,,,,,,,
-2009,Staedtischer Raum,maennlich,4.839342279560872,4.8169689497732495,4.861715609348494,4.0,5.0,6.0,1.0,9.0,5.0,5.0,5.0,5397.0
-2009,Staedtischer Raum,weiblich,4.722034094296008,4.702254665478646,4.74181352311337,4.0,5.0,5.0,2.5,6.5,5.0,5.0,5.0,5896.0
-2009,Laendlicher Raum,maennlich,4.888294108033455,4.858348741404013,4.918239474662897,4.0,5.0,6.0,1.0,9.0,5.0,5.0,5.0,2996.0
-2009,Laendlicher Raum,weiblich,4.6503452600377795,4.623746511203837,4.676944008871722,4.0,5.0,5.0,2.5,6.5,5.0,5.0,5.0,3128.0
+2009,Staedtischer Raum,maennlich,5397,4.839342279560871,4.816968949773249,4.861715609348493,4.8855185628534095,6.572530935237795,4.391718813547112,5.626218186812855,3.6510191895876667,5.0,5.0,5.0
+2009,Staedtischer Raum,weiblich,5896,4.722034094296007,4.7022546654786455,4.741813523113369,7.144907323941817,4.895791110408887,5.0,10.362268309854542,1.782639014087274,5.0,5.0,5.0
+2009,Laendlicher Raum,maennlich,2996,4.888294108033455,4.858348741404013,4.918239474662897,6.765146273967853,5.30997764106832,3.751128463045233,11.286172990351783,-0.769898253338698,5.0,5.0,5.0
+2009,Laendlicher Raum,weiblich,3128,4.65034526003778,4.623746511203838,4.676944008871723,5.0,3.6633039813050905,3.7020116014471376,6.946982597829294,1.755029003617844,5.0,5.0,5.0
 2010,Staedtischer Raum,maennlich,,,,,,,,,,,,
 2010,Staedtischer Raum,weiblich,,,,,,,,,,,,
 2010,Laendlicher Raum,maennlich,,,,,,,,,,,,
 2010,Laendlicher Raum,weiblich,,,,,,,,,,,,
-2011,Staedtischer Raum,-3,,,,,,,,,,,,
-2011,Staedtischer Raum,-1,,,,,,,,,,,,
 2011,Staedtischer Raum,maennlich,,,,,,,,,,,,
 2011,Staedtischer Raum,weiblich,,,,,,,,,,,,
 2011,Laendlicher Raum,maennlich,,,,,,,,,,,,
 2011,Laendlicher Raum,weiblich,,,,,,,,,,,,
-2012,Staedtischer Raum,-3,,,,,,,,,,,,
 2012,Staedtischer Raum,maennlich,,,,,,,,,,,,
 2012,Staedtischer Raum,weiblich,,,,,,,,,,,,
 2012,Laendlicher Raum,maennlich,,,,,,,,,,,,
 2012,Laendlicher Raum,weiblich,,,,,,,,,,,,
-2013,Staedtischer Raum,-3,,,,,,,,,,,,
 2013,Staedtischer Raum,maennlich,,,,,,,,,,,,
 2013,Staedtischer Raum,weiblich,,,,,,,,,,,,
 2013,Laendlicher Raum,maennlich,,,,,,,,,,,,
 2013,Laendlicher Raum,weiblich,,,,,,,,,,,,
-2014,Staedtischer Raum,-3,,,,,,,,,,,,
-2014,Staedtischer Raum,maennlich,4.764322927872882,4.745987822605586,4.782658033140177,4.0,5.0,6.0,1.0,9.0,5.0,5.0,5.0,7697.0
-2014,Staedtischer Raum,weiblich,4.7251627494012585,4.710153089366911,4.740172409435606,4.0,5.0,5.0,2.5,6.5,5.0,5.0,5.0,8919.0
-2014,Laendlicher Raum,-1,,,,,,,,,,,,
-2014,Laendlicher Raum,maennlich,4.893864484519328,4.869830076505955,4.917898892532702,4.0,5.0,6.0,1.0,9.0,5.0,5.0,5.0,4182.0
-2014,Laendlicher Raum,weiblich,4.661731537138269,4.641138539804511,4.682324534472026,4.0,5.0,5.0,2.5,6.5,5.0,5.0,5.0,4754.0
-2015,Staedtischer Raum,-3,,,,,,,,,,,,
-2015,Staedtischer Raum,-1,,,,,,,,,,,,
+2014,Staedtischer Raum,maennlich,7697,4.764322927872882,4.745987822605586,4.782658033140177,3.7313580628135394,5.0,5.99003164039005,5.0,6.0,5.0,5.0,5.0
+2014,Staedtischer Raum,weiblich,8919,4.725162749401259,4.710153089366912,4.740172409435607,5.0,5.0,4.314265213970737,6.028602179043895,3.2856630349268423,5.0,5.0,5.0
+2014,Laendlicher Raum,maennlich,4182,4.893864484519328,4.869830076505955,4.917898892532702,3.9181262905522853,6.655157723307528,3.7948181637146883,5.0,3.6098559734582927,5.0,5.0,5.0
+2014,Laendlicher Raum,weiblich,4754,4.661731537138269,4.641138539804511,4.682324534472026,4.5989754485078365,5.0,4.358110979018091,5.0,3.996814274783474,5.0,5.0,5.0
 2015,Staedtischer Raum,maennlich,,,,,,,,,,,,
 2015,Staedtischer Raum,weiblich,,,,,,,,,,,,
 2015,Laendlicher Raum,maennlich,,,,,,,,,,,,
 2015,Laendlicher Raum,weiblich,,,,,,,,,,,,
-2016,Staedtischer Raum,-3,,,,,,,,,,,,
-2016,Staedtischer Raum,-1,,,,,,,,,,,,
 2016,Staedtischer Raum,maennlich,,,,,,,,,,,,
 2016,Staedtischer Raum,weiblich,,,,,,,,,,,,
-2016,Laendlicher Raum,-1,,,,,,,,,,,,
 2016,Laendlicher Raum,maennlich,,,,,,,,,,,,
 2016,Laendlicher Raum,weiblich,,,,,,,,,,,,
-2017,Staedtischer Raum,-3,,,,,,,,,,,,
-2017,Staedtischer Raum,-1,,,,,,,,,,,,
 2017,Staedtischer Raum,maennlich,,,,,,,,,,,,
 2017,Staedtischer Raum,weiblich,,,,,,,,,,,,
 2017,Laendlicher Raum,maennlich,,,,,,,,,,,,
 2017,Laendlicher Raum,weiblich,,,,,,,,,,,,
-2018,Staedtischer Raum,-3,,,,,,,,,,,,
-2018,Staedtischer Raum,-1,,,,,,,,,,,,
 2018,Staedtischer Raum,maennlich,,,,,,,,,,,,
 2018,Staedtischer Raum,weiblich,,,,,,,,,,,,
 2018,Laendlicher Raum,maennlich,,,,,,,,,,,,
 2018,Laendlicher Raum,weiblich,,,,,,,,,,,,
-2019,-1,-3,,,,,,,,,,,,
-2019,-1,maennlich,3.7489838437085288,3.643152574121845,3.8548151132952126,2.0,3.0,5.0,0.0,9.5,3.0,2.0,3.0,291.0
-2019,-1,weiblich,3.435708374273371,3.3308431062808053,3.5405736422659366,2.0,3.0,5.0,0.0,9.0,3.0,2.0,3.0,250.0
-2019,Staedtischer Raum,-3,,,,,,,,,,,,
-2019,Staedtischer Raum,-1,,,,,,,,,,,,
-2019,Staedtischer Raum,maennlich,4.72400197361386,4.705386993530052,4.742616953697668,4.0,5.0,5.0,2.5,6.5,5.0,5.0,5.0,7469.0
-2019,Staedtischer Raum,weiblich,4.494825910048331,4.478832046442051,4.510819773654612,4.0,5.0,5.0,2.5,6.5,5.0,5.0,5.0,8083.0
-2019,Laendlicher Raum,-1,,,,,,,,,,,,
-2019,Laendlicher Raum,maennlich,4.939253636200517,4.914777281417159,4.963729990983875,4.0,5.0,6.0,1.0,9.0,5.0,5.0,5.0,4077.0
-2019,Laendlicher Raum,weiblich,4.629825412937491,4.6081694749600866,4.651481350914895,4.0,5.0,5.0,2.5,6.5,5.0,5.0,5.0,4344.0
-2020,Staedtischer Raum,-3,,,,,,,,,,,,
-2020,Staedtischer Raum,-1,,,,,,,,,,,,
+2019,Staedtischer Raum,maennlich,7469,4.72400197361386,4.705386993530052,4.742616953697668,5.0,4.0,4.682295902432914,6.0,4.205739756082285,5.0,5.0,5.0
+2019,Staedtischer Raum,weiblich,8083,4.494825910048331,4.478832046442051,4.510819773654612,5.0,5.647096820564894,5.0,5.0,0.0,5.0,5.0,5.0
+2019,Laendlicher Raum,maennlich,4077,4.939253636200516,4.914777281417158,4.963729990983874,5.0,4.862084745340486,4.368311011367451,9.0,3.420777528418628,5.0,5.0,5.0
+2019,Laendlicher Raum,weiblich,4344,4.629825412937491,4.6081694749600866,4.651481350914895,5.0,5.0,5.601304002582069,4.098043996126897,6.0,5.0,5.0,5.0
 2020,Staedtischer Raum,maennlich,,,,,,,,,,,,
 2020,Staedtischer Raum,weiblich,,,,,,,,,,,,
-2020,Laendlicher Raum,-3,,,,,,,,,,,,
-2020,Laendlicher Raum,-1,,,,,,,,,,,,
 2020,Laendlicher Raum,maennlich,,,,,,,,,,,,
 2020,Laendlicher Raum,weiblich,,,,,,,,,,,,
-2021,-1,weiblich,,,,,,,,,,,,
-2021,Staedtischer Raum,-3,,,,,,,,,,,,
-2021,Staedtischer Raum,-1,,,,,,,,,,,,
 2021,Staedtischer Raum,maennlich,,,,,,,,,,,,
 2021,Staedtischer Raum,weiblich,,,,,,,,,,,,
-2021,Laendlicher Raum,-1,,,,,,,,,,,,
 2021,Laendlicher Raum,maennlich,,,,,,,,,,,,
 2021,Laendlicher Raum,weiblich,,,,,,,,,,,,

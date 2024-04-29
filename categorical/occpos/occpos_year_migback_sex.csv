@@ -47,8 +47,8 @@ year,migback,sex,occpos,proportion,n,lower_confidence,upper_confidence
 1984,indirekter Migrationshintergrund,maennlich,Nicht erwerbstätig: Rentner*innen,0.00016861984655593964,16099,-3.195402043497386e-05,0.00036919371354685314
 1984,indirekter Migrationshintergrund,maennlich,Beamte,8.430992327796982e-05,16099,-5.752319780006909e-05,0.0002261430443560087
 1984,indirekter Migrationshintergrund,maennlich,Nicht erwerbstätig: arbeitslos gemeldet,8.430992327796982e-05,16099,-5.752319780006909e-05,0.0002261430443560087
-1984,indirekter Migrationshintergrund,maennlich,Nicht erwerbstätig: keine weitere Angaben,8.430992327796982e-05,16099,-5.752319780006909e-05,0.0002261430443560087
 1984,kein Migrationshintergrund,weiblich,Nicht erwerbstätig: Wehr-/Zivildienst,8.430992327796982e-05,16099,-5.752319780006909e-05,0.0002261430443560087
+1984,indirekter Migrationshintergrund,maennlich,Nicht erwerbstätig: keine weitere Angaben,8.430992327796982e-05,16099,-5.752319780006909e-05,0.0002261430443560087
 1985,kein Migrationshintergrund,weiblich,Nicht erwerbstätig: keine weitere Angaben,0.10466523884905485,14443,0.09967270149130474,0.10965777620680496
 1985,direkter Migrationshintergrund,maennlich,Arbeiter*innen,0.09516714777912283,14443,0.09038134196889858,0.09995295358934708
 1985,kein Migrationshintergrund,maennlich,Arbeiter*innen,0.09330477698109693,14443,0.08856115613283878,0.09804839782935508
@@ -68,8 +68,8 @@ year,migback,sex,occpos,proportion,n,lower_confidence,upper_confidence
 1985,kein Migrationshintergrund,weiblich,Nicht erwerbstätig: arbeitslos gemeldet,0.01219852872706956,14443,0.010408269475527318,0.0139887879786118
 1985,direkter Migrationshintergrund,weiblich,Angestellte,0.011453580407859204,14443,0.009718192631746864,0.013188968183971545
 1985,direkter Migrationshintergrund,maennlich,Nicht erwerbstätig: arbeitslos gemeldet,0.010522395008846261,14443,0.008858263472304466,0.012186526545388056
-1985,direkter Migrationshintergrund,maennlich,Angestellte,0.009125616910326846,14443,0.007574774093609758,0.010676459727043935
 1985,direkter Migrationshintergrund,maennlich,Auszubildende/ Praktikant*innen,0.009125616910326846,14443,0.007574774093609758,0.010676459727043935
+1985,direkter Migrationshintergrund,maennlich,Angestellte,0.009125616910326846,14443,0.007574774093609758,0.010676459727043935
 1985,kein Migrationshintergrund,weiblich,Beamte,0.008753142750721669,14443,0.007233994062204502,0.010272291439238837
 1985,direkter Migrationshintergrund,weiblich,Nicht erwerbstätig: arbeitslos gemeldet,0.007728838811807431,14443,0.006300603799096291,0.009157073824518571
 1985,direkter Migrationshintergrund,maennlich,Nicht erwerbstätig: Rentner*innen,0.00577334947388025,14443,0.004537732147724368,0.007008966800036131
@@ -89,11 +89,11 @@ year,migback,sex,occpos,proportion,n,lower_confidence,upper_confidence
 1985,indirekter Migrationshintergrund,weiblich,Arbeiter*innen,0.0008380668591116492,14443,0.000366129194540059,0.0013100045236832394
 1985,indirekter Migrationshintergrund,maennlich,Angestellte,0.0005587112394077661,14443,0.00017332188567656528,0.000944100593138967
 1985,indirekter Migrationshintergrund,weiblich,Nicht erwerbstätig: arbeitslos gemeldet,0.0003724741596051774,14443,5.7775753416938194e-05,0.0006871725657934167
-1985,direkter Migrationshintergrund,weiblich,Beamte,0.00027935561970388306,14443,6.8061118667617736e-06,0.0005519051275410043
 1985,indirekter Migrationshintergrund,weiblich,Nicht erwerbstätig: Rentner*innen,0.00027935561970388306,14443,6.8061118667617736e-06,0.0005519051275410043
+1985,direkter Migrationshintergrund,weiblich,Beamte,0.00027935561970388306,14443,6.8061118667617736e-06,0.0005519051275410043
 1985,direkter Migrationshintergrund,maennlich,Nicht erwerbstätig: Wehr-/Zivildienst,0.0001862370798025887,14443,-3.630902523552189e-05,0.0004087831848406993
-1985,indirekter Migrationshintergrund,maennlich,Nicht erwerbstätig: keine weitere Angaben,0.0001862370798025887,14443,-3.630902523552189e-05,0.0004087831848406993
 1985,indirekter Migrationshintergrund,maennlich,Selbständige,0.0001862370798025887,14443,-3.630902523552189e-05,0.0004087831848406993
+1985,indirekter Migrationshintergrund,maennlich,Nicht erwerbstätig: keine weitere Angaben,0.0001862370798025887,14443,-3.630902523552189e-05,0.0004087831848406993
 1985,indirekter Migrationshintergrund,weiblich,Selbständige,0.0001862370798025887,14443,-3.630902523552189e-05,0.0004087831848406993
 1985,indirekter Migrationshintergrund,maennlich,Beamte,9.311853990129435e-05,14443,-6.425264803839196e-05,0.00025048972784098063
 1985,indirekter Migrationshintergrund,maennlich,Nicht erwerbstätig: Rentner*innen,9.311853990129435e-05,14443,-6.425264803839196e-05,0.00025048972784098063
@@ -143,10 +143,10 @@ year,migback,sex,occpos,proportion,n,lower_confidence,upper_confidence
 1986,direkter Migrationshintergrund,maennlich,Nicht erwerbstätig: Wehr-/Zivildienst,0.00019411821799475881,13742,-3.880999286389619e-05,0.0004270464288534138
 1986,indirekter Migrationshintergrund,weiblich,Nicht erwerbstätig: arbeitslos gemeldet,0.00019411821799475881,13742,-3.880999286389619e-05,0.0004270464288534138
 1986,indirekter Migrationshintergrund,maennlich,Nicht erwerbstätig: arbeitslos gemeldet,0.00019411821799475881,13742,-3.880999286389619e-05,0.0004270464288534138
-1986,indirekter Migrationshintergrund,maennlich,Selbständige,0.00019411821799475881,13742,-3.880999286389619e-05,0.0004270464288534138
 1986,indirekter Migrationshintergrund,maennlich,Beamte,0.00019411821799475881,13742,-3.880999286389619e-05,0.0004270464288534138
-1986,indirekter Migrationshintergrund,maennlich,Nicht erwerbstätig: Rentner*innen,9.705910899737941e-05,13742,-6.765400285428311e-05,0.0002617722208490419
+1986,indirekter Migrationshintergrund,maennlich,Selbständige,0.00019411821799475881,13742,-3.880999286389619e-05,0.0004270464288534138
 1986,indirekter Migrationshintergrund,maennlich,Nicht erwerbstätig: keine weitere Angaben,9.705910899737941e-05,13742,-6.765400285428311e-05,0.0002617722208490419
+1986,indirekter Migrationshintergrund,maennlich,Nicht erwerbstätig: Rentner*innen,9.705910899737941e-05,13742,-6.765400285428311e-05,0.0002617722208490419
 1987,kein Migrationshintergrund,weiblich,Nicht erwerbstätig: keine weitere Angaben,0.0979199372056515,13496,0.09290562187077926,0.10293425254052373
 1987,kein Migrationshintergrund,maennlich,Arbeiter*innen,0.09585949764521193,13496,0.09089255582211112,0.10082643946831274
 1987,direkter Migrationshintergrund,maennlich,Arbeiter*innen,0.09478021978021978,13496,0.08983837147802541,0.09972206808241414
@@ -188,15 +188,15 @@ year,migback,sex,occpos,proportion,n,lower_confidence,upper_confidence
 1987,indirekter Migrationshintergrund,maennlich,Angestellte,0.0007849293563579278,13496,0.0003124331669101962,0.0012574255458056595
 1987,indirekter Migrationshintergrund,maennlich,Nicht erwerbstätig: arbeitslos gemeldet,0.0004905808477237048,13496,0.00011698479686432907,0.0008641768985830806
 1987,direkter Migrationshintergrund,weiblich,Beamte,0.0004905808477237048,13496,0.00011698479686432907,0.0008641768985830806
-1987,indirekter Migrationshintergrund,weiblich,Nicht erwerbstätig: arbeitslos gemeldet,0.0003924646781789639,13496,5.8293811218464804e-05,0.0007266355451394631
 1987,indirekter Migrationshintergrund,weiblich,Selbständige,0.0003924646781789639,13496,5.8293811218464804e-05,0.0007266355451394631
+1987,indirekter Migrationshintergrund,weiblich,Nicht erwerbstätig: arbeitslos gemeldet,0.0003924646781789639,13496,5.8293811218464804e-05,0.0007266355451394631
 1987,indirekter Migrationshintergrund,weiblich,Nicht erwerbstätig: Rentner*innen,0.0002943485086342229,13496,4.933845983788653e-06,0.0005837631712846572
 1987,direkter Migrationshintergrund,maennlich,Nicht erwerbstätig: Wehr-/Zivildienst,0.00019623233908948196,13496,-4.008533928757127e-05,0.0004325500174665352
 1987,indirekter Migrationshintergrund,maennlich,Beamte,0.00019623233908948196,13496,-4.008533928757127e-05,0.0004325500174665352
-1987,indirekter Migrationshintergrund,maennlich,Nicht erwerbstätig: keine weitere Angaben,9.811616954474098e-05,13496,-6.899386245363678e-05,0.00026522620154311875
-1987,indirekter Migrationshintergrund,maennlich,Nicht erwerbstätig: Wehr-/Zivildienst,9.811616954474098e-05,13496,-6.899386245363678e-05,0.00026522620154311875
 1987,indirekter Migrationshintergrund,maennlich,Nicht erwerbstätig: Rentner*innen,9.811616954474098e-05,13496,-6.899386245363678e-05,0.00026522620154311875
 1987,indirekter Migrationshintergrund,maennlich,Selbständige,9.811616954474098e-05,13496,-6.899386245363678e-05,0.00026522620154311875
+1987,indirekter Migrationshintergrund,maennlich,Nicht erwerbstätig: Wehr-/Zivildienst,9.811616954474098e-05,13496,-6.899386245363678e-05,0.00026522620154311875
+1987,indirekter Migrationshintergrund,maennlich,Nicht erwerbstätig: keine weitere Angaben,9.811616954474098e-05,13496,-6.899386245363678e-05,0.00026522620154311875
 1988,kein Migrationshintergrund,weiblich,Nicht erwerbstätig: keine weitere Angaben,0.09610843002361638,12817,0.09100570942927315,0.10121115061795961
 1988,kein Migrationshintergrund,weiblich,Angestellte,0.09395215114488141,12817,0.08890098318110008,0.09900331910866274
 1988,kein Migrationshintergrund,maennlich,Arbeiter*innen,0.09241195194578498,12817,0.08739810196816168,0.09742580192340829
@@ -234,18 +234,18 @@ year,migback,sex,occpos,proportion,n,lower_confidence,upper_confidence
 1988,indirekter Migrationshintergrund,weiblich,Arbeiter*innen,0.002156278878734983,12817,0.0013532214422838373,0.002959336315186129
 1988,indirekter Migrationshintergrund,weiblich,Nicht erwerbstätig: keine weitere Angaben,0.002053598932128555,12817,0.0012698548000724726,0.0028373430641846376
 1988,indirekter Migrationshintergrund,weiblich,Angestellte,0.0014375192524899887,12817,0.0007815894915776393,0.002093449013402338
-1988,indirekter Migrationshintergrund,maennlich,Angestellte,0.0010267994660642776,12817,0.0004723236419729497,0.0015812752901556053
 1988,direkter Migrationshintergrund,maennlich,Beamte,0.0010267994660642776,12817,0.0004723236419729497,0.0015812752901556053
+1988,indirekter Migrationshintergrund,maennlich,Angestellte,0.0010267994660642776,12817,0.0004723236419729497,0.0015812752901556053
 1988,indirekter Migrationshintergrund,weiblich,Selbständige,0.0005133997330321388,12817,0.00012122538206082003,0.0009055740840034575
-1988,indirekter Migrationshintergrund,maennlich,Nicht erwerbstätig: keine weitere Angaben,0.00041071978642571105,12817,5.993036592212244e-05,0.0007615092069292997
 1988,direkter Migrationshintergrund,maennlich,Nicht erwerbstätig: Wehr-/Zivildienst,0.00041071978642571105,12817,5.993036592212244e-05,0.0007615092069292997
+1988,indirekter Migrationshintergrund,maennlich,Nicht erwerbstätig: keine weitere Angaben,0.00041071978642571105,12817,5.993036592212244e-05,0.0007615092069292997
 1988,indirekter Migrationshintergrund,maennlich,Nicht erwerbstätig: arbeitslos gemeldet,0.0003080398398192833,12817,4.231687575140589e-06,0.000611847992063426
 1988,indirekter Migrationshintergrund,weiblich,Nicht erwerbstätig: Rentner*innen,0.0003080398398192833,12817,4.231687575140589e-06,0.000611847992063426
-1988,indirekter Migrationshintergrund,weiblich,Nicht erwerbstätig: arbeitslos gemeldet,0.00020535989321285552,12817,-4.2711163256949536e-05,0.0004534309496826606
 1988,indirekter Migrationshintergrund,maennlich,Selbständige,0.00020535989321285552,12817,-4.2711163256949536e-05,0.0004534309496826606
 1988,direkter Migrationshintergrund,weiblich,Beamte,0.00020535989321285552,12817,-4.2711163256949536e-05,0.0004534309496826606
-1988,indirekter Migrationshintergrund,maennlich,Beamte,0.00010267994660642776,12817,-7.274178694269224e-05,0.00027810168015554777
+1988,indirekter Migrationshintergrund,weiblich,Nicht erwerbstätig: arbeitslos gemeldet,0.00020535989321285552,12817,-4.2711163256949536e-05,0.0004534309496826606
 1988,direkter Migrationshintergrund,weiblich,Nicht erwerbstätig: Wehr-/Zivildienst,0.00010267994660642776,12817,-7.274178694269224e-05,0.00027810168015554777
+1988,indirekter Migrationshintergrund,maennlich,Beamte,0.00010267994660642776,12817,-7.274178694269224e-05,0.00027810168015554777
 1988,indirekter Migrationshintergrund,maennlich,Nicht erwerbstätig: Rentner*innen,0.00010267994660642776,12817,-7.274178694269224e-05,0.00027810168015554777
 1989,kein Migrationshintergrund,weiblich,Angestellte,0.10063424947145877,12393,0.09533750618360372,0.10593099275931382
 1989,direkter Migrationshintergrund,maennlich,Arbeiter*innen,0.0927061310782241,12393,0.0875999517504551,0.09781231040599311
@@ -288,13 +288,13 @@ year,migback,sex,occpos,proportion,n,lower_confidence,upper_confidence
 1989,direkter Migrationshintergrund,maennlich,Beamte,0.0008456659619450317,12393,0.0003338856671984212,0.0013574462566916421
 1989,indirekter Migrationshintergrund,weiblich,Selbständige,0.0006342494714587737,12393,0.00019098784642588104,0.0010775110964916664
 1989,indirekter Migrationshintergrund,maennlich,Nicht erwerbstätig: keine weitere Angaben,0.0005285412262156448,12393,0.00012387917477013784,0.0009332032776611518
-1989,indirekter Migrationshintergrund,maennlich,Nicht erwerbstätig: arbeitslos gemeldet,0.00042283298097251583,12393,6.0873099323176174e-05,0.0007847928626218555
 1989,indirekter Migrationshintergrund,weiblich,Nicht erwerbstätig: arbeitslos gemeldet,0.00042283298097251583,12393,6.0873099323176174e-05,0.0007847928626218555
+1989,indirekter Migrationshintergrund,maennlich,Nicht erwerbstätig: arbeitslos gemeldet,0.00042283298097251583,12393,6.0873099323176174e-05,0.0007847928626218555
 1989,indirekter Migrationshintergrund,weiblich,Nicht erwerbstätig: Rentner*innen,0.0003171247357293869,12393,3.6417085056561363e-06,0.0006306077629531176
 1989,indirekter Migrationshintergrund,maennlich,Selbständige,0.00021141649048625792,12393,-4.455486178062579e-05,0.0004673878427531416
-1989,direkter Migrationshintergrund,weiblich,Beamte,0.00010570824524312896,12393,-7.530040205183398e-05,0.0002867168925380919
-1989,indirekter Migrationshintergrund,maennlich,Beamte,0.00010570824524312896,12393,-7.530040205183398e-05,0.0002867168925380919
 1989,direkter Migrationshintergrund,maennlich,Nicht erwerbstätig: Wehr-/Zivildienst,0.00010570824524312896,12393,-7.530040205183398e-05,0.0002867168925380919
+1989,indirekter Migrationshintergrund,maennlich,Beamte,0.00010570824524312896,12393,-7.530040205183398e-05,0.0002867168925380919
+1989,direkter Migrationshintergrund,weiblich,Beamte,0.00010570824524312896,12393,-7.530040205183398e-05,0.0002867168925380919
 1989,indirekter Migrationshintergrund,maennlich,Nicht erwerbstätig: Rentner*innen,0.00010570824524312896,12393,-7.530040205183398e-05,0.0002867168925380919
 1990,kein Migrationshintergrund,weiblich,Angestellte,0.14335098558399528,18165,0.13825485941507354,0.14844711175291703
 1990,kein Migrationshintergrund,maennlich,Arbeiter*innen,0.13871726978523094,18165,0.1336906445629495,0.1437438950075124
@@ -331,19 +331,19 @@ year,migback,sex,occpos,proportion,n,lower_confidence,upper_confidence
 1990,direkter Migrationshintergrund,maennlich,Nicht erwerbstätig: keine weitere Angaben,0.002721388643718741,18165,0.0019637852581903883,0.0034789920292470937
 1990,indirekter Migrationshintergrund,weiblich,Angestellte,0.0019123271550456017,18165,0.0012769906463450536,0.0025476636637461495
 1990,indirekter Migrationshintergrund,weiblich,Arbeiter*innen,0.0018387761106207709,18165,0.001215754453050851,0.0024617977681906907
-1990,direkter Migrationshintergrund,weiblich,Selbständige,0.0016916740217711092,18165,0.0010940486086744392,0.0022892994348677792
 1990,indirekter Migrationshintergrund,weiblich,Nicht erwerbstätig: keine weitere Angaben,0.0016916740217711092,18165,0.0010940486086744392,0.0022892994348677792
+1990,direkter Migrationshintergrund,weiblich,Selbständige,0.0016916740217711092,18165,0.0010940486086744392,0.0022892994348677792
 1990,indirekter Migrationshintergrund,maennlich,Angestellte,0.0009561635775228008,18165,0.0005066976852805738,0.001405629469765028
 1990,direkter Migrationshintergrund,maennlich,Beamte,0.0005148573109738158,18165,0.00018496667841188586,0.0008447479435357457
 1990,indirekter Migrationshintergrund,maennlich,Nicht erwerbstätig: keine weitere Angaben,0.000441306266548985,18165,0.0001358756506602379,0.0007467368824377321
 1990,indirekter Migrationshintergrund,maennlich,Nicht erwerbstätig: arbeitslos gemeldet,0.0002942041776993233,18165,4.480277430837277e-05,0.0005436055810902738
 1990,indirekter Migrationshintergrund,weiblich,Selbständige,0.0002942041776993233,18165,4.480277430837277e-05,0.0005436055810902738
-1990,indirekter Migrationshintergrund,weiblich,Nicht erwerbstätig: arbeitslos gemeldet,0.0002206531332744925,18165,4.657236937310327e-06,0.00043664902961167466
-1990,indirekter Migrationshintergrund,weiblich,Nicht erwerbstätig: Rentner*innen,0.0002206531332744925,18165,4.657236937310327e-06,0.00043664902961167466
 1990,indirekter Migrationshintergrund,maennlich,Selbständige,0.0002206531332744925,18165,4.657236937310327e-06,0.00043664902961167466
+1990,indirekter Migrationshintergrund,weiblich,Nicht erwerbstätig: Rentner*innen,0.0002206531332744925,18165,4.657236937310327e-06,0.00043664902961167466
+1990,indirekter Migrationshintergrund,weiblich,Nicht erwerbstätig: arbeitslos gemeldet,0.0002206531332744925,18165,4.657236937310327e-06,0.00043664902961167466
 1990,direkter Migrationshintergrund,maennlich,Nicht erwerbstätig: Wehr-/Zivildienst,0.00014710208884966165,18165,-2.926430904399185e-05,0.0003234684867433152
-1990,indirekter Migrationshintergrund,maennlich,Nicht erwerbstätig: Wehr-/Zivildienst,7.355104442483083e-05,18165,-5.1163418360424846e-05,0.0001982655072100865
 1990,indirekter Migrationshintergrund,maennlich,Nicht erwerbstätig: Rentner*innen,7.355104442483083e-05,18165,-5.1163418360424846e-05,0.0001982655072100865
+1990,indirekter Migrationshintergrund,maennlich,Nicht erwerbstätig: Wehr-/Zivildienst,7.355104442483083e-05,18165,-5.1163418360424846e-05,0.0001982655072100865
 1991,kein Migrationshintergrund,weiblich,Angestellte,0.13297354021437674,17756,0.12797915202918603,0.13796792839956745
 1991,kein Migrationshintergrund,maennlich,Arbeiter*innen,0.12877595382654974,17756,0.12384914378780242,0.1337027638652971
 1991,kein Migrationshintergrund,maennlich,Angestellte,0.09114759013567199,17756,0.08691405878591901,0.09538112148542496
@@ -374,22 +374,22 @@ year,migback,sex,occpos,proportion,n,lower_confidence,upper_confidence
 1991,indirekter Migrationshintergrund,weiblich,Auszubildende/ Praktikant*innen,0.004272543287609625,17756,0.003313149326871087,0.005231937248348162
 1991,kein Migrationshintergrund,maennlich,Nicht erwerbstätig: keine weitere Angaben,0.0038228018889138746,17756,0.0029151011321330643,0.004730502645694685
 1991,direkter Migrationshintergrund,weiblich,Nicht erwerbstätig: arbeitslos gemeldet,0.0037478449891312497,17756,0.0028490535023766826,0.004646636475885817
-1991,indirekter Migrationshintergrund,maennlich,Arbeiter*innen,0.0035229742897833747,17756,0.002651465272111267,0.004394483307455482
 1991,direkter Migrationshintergrund,weiblich,Auszubildende/ Praktikant*innen,0.0035229742897833747,17756,0.002651465272111267,0.004394483307455482
+1991,indirekter Migrationshintergrund,maennlich,Arbeiter*innen,0.0035229742897833747,17756,0.002651465272111267,0.004394483307455482
 1991,indirekter Migrationshintergrund,weiblich,Arbeiter*innen,0.002473577692826625,17756,0.001742929212991546,0.0032042261726617036
-1991,indirekter Migrationshintergrund,weiblich,Angestellte,0.0021737500936961245,17756,0.0014887103438338272,0.002858789843558422
 1991,direkter Migrationshintergrund,maennlich,Nicht erwerbstätig: keine weitere Angaben,0.0021737500936961245,17756,0.0014887103438338272,0.002858789843558422
+1991,indirekter Migrationshintergrund,weiblich,Angestellte,0.0021737500936961245,17756,0.0014887103438338272,0.002858789843558422
 1991,direkter Migrationshintergrund,weiblich,Selbständige,0.0016490517952177498,17756,0.001052233306102535,0.002245870284332965
-1991,indirekter Migrationshintergrund,maennlich,Angestellte,0.0014241810958698748,17756,0.0008694830522603064,0.001978879139479443
 1991,indirekter Migrationshintergrund,weiblich,Nicht erwerbstätig: keine weitere Angaben,0.0014241810958698748,17756,0.0008694830522603064,0.001978879139479443
+1991,indirekter Migrationshintergrund,maennlich,Angestellte,0.0014241810958698748,17756,0.0008694830522603064,0.001978879139479443
 1991,direkter Migrationshintergrund,maennlich,Beamte,0.0006746120980436249,17756,0.00029269946336001913,0.0010565247327272305
 1991,indirekter Migrationshintergrund,weiblich,Nicht erwerbstätig: arbeitslos gemeldet,0.00044974139869574995,17756,0.00013787595581296933,0.0007616068415785306
 1991,indirekter Migrationshintergrund,maennlich,Nicht erwerbstätig: arbeitslos gemeldet,0.000374784498913125,17756,9.00809278418868e-05,0.0006594880699843631
-1991,indirekter Migrationshintergrund,weiblich,Selbständige,0.00022487069934787497,17756,4.323725619339929e-06,0.00044541767307641
 1991,indirekter Migrationshintergrund,maennlich,Selbständige,0.00022487069934787497,17756,4.323725619339929e-06,0.00044541767307641
 1991,indirekter Migrationshintergrund,maennlich,Nicht erwerbstätig: keine weitere Angaben,0.00022487069934787497,17756,4.323725619339929e-06,0.00044541767307641
-1991,indirekter Migrationshintergrund,maennlich,Nicht erwerbstätig: Wehr-/Zivildienst,0.00014991379956524997,17756,-3.0168800773239154e-05,0.0003299963999037391
+1991,indirekter Migrationshintergrund,weiblich,Selbständige,0.00022487069934787497,17756,4.323725619339929e-06,0.00044541767307641
 1991,indirekter Migrationshintergrund,weiblich,Nicht erwerbstätig: Rentner*innen,0.00014991379956524997,17756,-3.0168800773239154e-05,0.0003299963999037391
+1991,indirekter Migrationshintergrund,maennlich,Nicht erwerbstätig: Wehr-/Zivildienst,0.00014991379956524997,17756,-3.0168800773239154e-05,0.0003299963999037391
 1991,indirekter Migrationshintergrund,maennlich,Nicht erwerbstätig: Rentner*innen,7.495689978262499e-05,17756,-5.2385501133436635e-05,0.00020229930069868662
 1991,direkter Migrationshintergrund,maennlich,Nicht erwerbstätig: Wehr-/Zivildienst,7.495689978262499e-05,17756,-5.2385501133436635e-05,0.00020229930069868662
 1992,kein Migrationshintergrund,weiblich,Angestellte,0.13090046668196773,17350,0.12588153033672608,0.13591940302720937
@@ -476,12 +476,12 @@ year,migback,sex,occpos,proportion,n,lower_confidence,upper_confidence
 1993,indirekter Migrationshintergrund,maennlich,Angestellte,0.0019428038545228473,16993,0.0012807196361566125,0.0026048880728890824
 1993,indirekter Migrationshintergrund,weiblich,Arbeiter*innen,0.0018650917003419335,16993,0.001216359044843999,0.002513824355839868
 1993,direkter Migrationshintergrund,weiblich,Selbständige,0.001554243083618278,16993,0.0009619416930928433,0.0021465444741437124
-1993,indirekter Migrationshintergrund,maennlich,Nicht erwerbstätig: arbeitslos gemeldet,0.000777121541809139,16993,0.0003581382532881734,0.0011961048303301045
 1993,indirekter Migrationshintergrund,weiblich,Nicht erwerbstätig: arbeitslos gemeldet,0.000777121541809139,16993,0.0003581382532881734,0.0011961048303301045
+1993,indirekter Migrationshintergrund,maennlich,Nicht erwerbstätig: arbeitslos gemeldet,0.000777121541809139,16993,0.0003581382532881734,0.0011961048303301045
 1993,direkter Migrationshintergrund,maennlich,Beamte,0.0005439850792663972,16993,0.00019339761798672076,0.0008945725405460738
 1993,indirekter Migrationshintergrund,maennlich,Nicht erwerbstätig: keine weitere Angaben,0.00046627292508548337,16993,0.0001416793881441816,0.0007908664620267852
-1993,indirekter Migrationshintergrund,weiblich,Selbständige,0.0003885607709045695,16993,9.223724856355353e-05,0.0006848842932455854
 1993,indirekter Migrationshintergrund,maennlich,Selbständige,0.0003885607709045695,16993,9.223724856355353e-05,0.0006848842932455854
+1993,indirekter Migrationshintergrund,weiblich,Selbständige,0.0003885607709045695,16993,9.223724856355353e-05,0.0006848842932455854
 1993,direkter Migrationshintergrund,weiblich,Beamte,0.00015542430836182778,16993,-3.2008996053567624e-05,0.0003428576127772232
 1993,indirekter Migrationshintergrund,weiblich,Nicht erwerbstätig: Rentner*innen,0.00015542430836182778,16993,-3.2008996053567624e-05,0.0003428576127772232
 1993,indirekter Migrationshintergrund,weiblich,Beamte,7.771215418091389e-05,16993,-5.482835689605364e-05,0.0002102526652578814
@@ -515,8 +515,8 @@ year,migback,sex,occpos,proportion,n,lower_confidence,upper_confidence
 1994,direkter Migrationshintergrund,maennlich,Selbständige,0.004811484461271494,16642,0.0037601387822391143,0.005862830140303873
 1994,kein Migrationshintergrund,maennlich,Nicht erwerbstätig: Wehr-/Zivildienst,0.004338223694589052,16642,0.0033396843057138716,0.005336763083464232
 1994,indirekter Migrationshintergrund,weiblich,Angestellte,0.004259346900141978,16642,0.0032698875930718217,0.0052488062072121346
-1994,kein Migrationshintergrund,maennlich,Nicht erwerbstätig: keine weitere Angaben,0.003312825366777094,16642,0.002439789635120125,0.004185861098434064
 1994,direkter Migrationshintergrund,maennlich,Auszubildende/ Praktikant*innen,0.003312825366777094,16642,0.002439789635120125,0.004185861098434064
+1994,kein Migrationshintergrund,maennlich,Nicht erwerbstätig: keine weitere Angaben,0.003312825366777094,16642,0.002439789635120125,0.004185861098434064
 1994,direkter Migrationshintergrund,weiblich,Auszubildende/ Praktikant*innen,0.002602934216753431,16642,0.001828795208324315,0.003377073225182547
 1994,indirekter Migrationshintergrund,weiblich,Nicht erwerbstätig: keine weitere Angaben,0.002602934216753431,16642,0.001828795208324315,0.003377073225182547
 1994,indirekter Migrationshintergrund,maennlich,Angestellte,0.00236630383341221,16642,0.0016281036973529064,0.0031045039694715137
@@ -530,8 +530,8 @@ year,migback,sex,occpos,proportion,n,lower_confidence,upper_confidence
 1994,direkter Migrationshintergrund,maennlich,Beamte,0.0003943839722353684,16642,9.2717333213836e-05,0.0006960506112569007
 1994,indirekter Migrationshintergrund,weiblich,Selbständige,0.0003155071777882947,16642,4.567768801872006e-05,0.0005853366675578693
 1994,direkter Migrationshintergrund,maennlich,Nicht erwerbstätig: Wehr-/Zivildienst,0.0003155071777882947,16642,4.567768801872006e-05,0.0005853366675578693
-1994,direkter Migrationshintergrund,weiblich,Beamte,0.000236630383341221,16642,2.9419718509740838e-06,0.00047031879483146796
 1994,indirekter Migrationshintergrund,weiblich,Beamte,0.000236630383341221,16642,2.9419718509740838e-06,0.00047031879483146796
+1994,direkter Migrationshintergrund,weiblich,Beamte,0.000236630383341221,16642,2.9419718509740838e-06,0.00047031879483146796
 1994,indirekter Migrationshintergrund,weiblich,Nicht erwerbstätig: Rentner*innen,0.00015775358889414735,16642,-3.305972679719919e-05,0.0003485669045854939
 1994,indirekter Migrationshintergrund,maennlich,Nicht erwerbstätig: Wehr-/Zivildienst,7.887679444707367e-05,16642,-5.6053916994689966e-05,0.00021380750588883733
 1994,indirekter Migrationshintergrund,maennlich,Beamte,7.887679444707367e-05,16642,-5.6053916994689966e-05,0.00021380750588883733
@@ -546,8 +546,8 @@ year,migback,sex,occpos,proportion,n,lower_confidence,upper_confidence
 1995,direkter Migrationshintergrund,weiblich,Nicht erwerbstätig: keine weitere Angaben,0.031113495286995172,17246,0.028522165214331735,0.03370482535965861
 1995,kein Migrationshintergrund,weiblich,Nicht erwerbstätig: arbeitslos gemeldet,0.029887347689478122,17246,0.02734598498145869,0.032428710397497555
 1995,kein Migrationshintergrund,maennlich,Selbständige,0.026592076021151045,17246,0.02419083673055703,0.028993315311745062
-1995,kein Migrationshintergrund,weiblich,Auszubildende/ Praktikant*innen,0.02559583109816844,17246,0.02323879591621927,0.027952866280117613
 1995,kein Migrationshintergrund,maennlich,Auszubildende/ Praktikant*innen,0.02559583109816844,17246,0.02323879591621927,0.027952866280117613
+1995,kein Migrationshintergrund,weiblich,Auszubildende/ Praktikant*innen,0.02559583109816844,17246,0.02323879591621927,0.027952866280117613
 1995,direkter Migrationshintergrund,weiblich,Arbeiter*innen,0.025059391524254734,17246,0.022726544713255782,0.027392238335253685
 1995,kein Migrationshintergrund,maennlich,Beamte,0.022147290980151734,17246,0.019950903760770217,0.02434367819953325
 1995,kein Migrationshintergrund,maennlich,Nicht erwerbstätig: arbeitslos gemeldet,0.021840754080772472,17246,0.019659277891152103,0.024022230270392842
@@ -568,22 +568,22 @@ year,migback,sex,occpos,proportion,n,lower_confidence,upper_confidence
 1995,direkter Migrationshintergrund,weiblich,Auszubildende/ Praktikant*innen,0.004214882366464863,17246,0.003247969308551449,0.005181795424378278
 1995,kein Migrationshintergrund,maennlich,Nicht erwerbstätig: Wehr-/Zivildienst,0.0033719058931718907,17246,0.002506706580304874,0.004237105206038907
 1995,kein Migrationshintergrund,maennlich,Nicht erwerbstätig: keine weitere Angaben,0.0028354663192581807,17246,0.0020418555753204167,0.0036290770631959447
-1995,indirekter Migrationshintergrund,weiblich,Nicht erwerbstätig: keine weitere Angaben,0.0026055636447237336,17246,0.0018447186391971405,0.0033664086502503267
 1995,direkter Migrationshintergrund,maennlich,Nicht erwerbstätig: keine weitere Angaben,0.0026055636447237336,17246,0.0018447186391971405,0.0033664086502503267
+1995,indirekter Migrationshintergrund,weiblich,Nicht erwerbstätig: keine weitere Angaben,0.0026055636447237336,17246,0.0018447186391971405,0.0033664086502503267
 1995,indirekter Migrationshintergrund,maennlich,Angestellte,0.0023756609701892865,17246,0.0016490739591308538,0.003102247981247719
 1995,direkter Migrationshintergrund,weiblich,Selbständige,0.0021457582956548394,17246,0.0014551435698448194,0.002836373021464859
 1995,indirekter Migrationshintergrund,weiblich,Arbeiter*innen,0.0016859529465859454,17246,0.00107364739604148,0.0022982584971304107
-1995,indirekter Migrationshintergrund,weiblich,Nicht erwerbstätig: arbeitslos gemeldet,0.0013794160472066824,17246,0.0008254798129467533,0.0019333522814666115
 1995,indirekter Migrationshintergrund,maennlich,Nicht erwerbstätig: arbeitslos gemeldet,0.0013794160472066824,17246,0.0008254798129467533,0.0019333522814666115
+1995,indirekter Migrationshintergrund,weiblich,Nicht erwerbstätig: arbeitslos gemeldet,0.0013794160472066824,17246,0.0008254798129467533,0.0019333522814666115
 1995,indirekter Migrationshintergrund,maennlich,Selbständige,0.0009196106981377883,17246,0.0004672195431627049,0.0013720018531128717
 1995,direkter Migrationshintergrund,maennlich,Beamte,0.0008429764732929727,17246,0.0004098283069024453,0.0012761246396835002
 1995,indirekter Migrationshintergrund,maennlich,Nicht erwerbstätig: keine weitere Angaben,0.00045980534906889416,17246,0.0001398428931083035,0.0007797678050294848
 1995,direkter Migrationshintergrund,maennlich,Nicht erwerbstätig: Wehr-/Zivildienst,0.0003831711242240785,17246,9.107550298457817e-05,0.0006752667454635788
 1995,indirekter Migrationshintergrund,weiblich,Nicht erwerbstätig: Rentner*innen,0.00022990267453444708,17246,3.629034264997173e-06,0.000456176314803897
 1995,indirekter Migrationshintergrund,weiblich,Selbständige,0.00022990267453444708,17246,3.629034264997173e-06,0.000456176314803897
-1995,indirekter Migrationshintergrund,maennlich,Beamte,0.0001532684496896314,17246,-3.1490284586533496e-05,0.0003380271839657963
 1995,indirekter Migrationshintergrund,weiblich,Beamte,0.0001532684496896314,17246,-3.1490284586533496e-05,0.0003380271839657963
 1995,direkter Migrationshintergrund,weiblich,Beamte,0.0001532684496896314,17246,-3.1490284586533496e-05,0.0003380271839657963
+1995,indirekter Migrationshintergrund,maennlich,Beamte,0.0001532684496896314,17246,-3.1490284586533496e-05,0.0003380271839657963
 1995,indirekter Migrationshintergrund,maennlich,Nicht erwerbstätig: Wehr-/Zivildienst,7.66342248448157e-05,17246,-5.4014935623469354e-05,0.00020728338531310076
 1996,kein Migrationshintergrund,weiblich,Angestellte,0.12663960024984386,16862,0.12161983922310543,0.1316593612765823
 1996,kein Migrationshintergrund,maennlich,Arbeiter*innen,0.10493441599000625,16862,0.10030860447349388,0.10956022750651861
@@ -614,8 +614,8 @@ year,migback,sex,occpos,proportion,n,lower_confidence,upper_confidence
 1996,indirekter Migrationshintergrund,weiblich,Angestellte,0.005309181761399126,16862,0.0042123010984539,0.006406062424344351
 1996,indirekter Migrationshintergrund,weiblich,Auszubildende/ Praktikant*innen,0.005074953154278576,16862,0.004002415051386928,0.006147491257170224
 1996,direkter Migrationshintergrund,maennlich,Auszubildende/ Praktikant*innen,0.004996876951905059,16862,0.003932579362843432,0.006061174540966686
-1996,direkter Migrationshintergrund,weiblich,Auszubildende/ Praktikant*innen,0.004450343535290444,16862,0.003445658899869599,0.005455028170711289
 1996,direkter Migrationshintergrund,maennlich,Selbständige,0.004450343535290444,16862,0.003445658899869599,0.005455028170711289
+1996,direkter Migrationshintergrund,weiblich,Auszubildende/ Praktikant*innen,0.004450343535290444,16862,0.003445658899869599,0.005455028170711289
 1996,kein Migrationshintergrund,maennlich,Nicht erwerbstätig: keine weitere Angaben,0.004138038725796377,16862,0.003169095398563271,0.005106982053029483
 1996,indirekter Migrationshintergrund,weiblich,Nicht erwerbstätig: keine weitere Angaben,0.0035915053091817614,16862,0.0026885661338176604,0.004494444484545863
 1996,indirekter Migrationshintergrund,maennlich,Angestellte,0.003123048094940662,16862,0.0022808550654114675,0.003965241124469857
@@ -626,9 +626,9 @@ year,migback,sex,occpos,proportion,n,lower_confidence,upper_confidence
 1996,direkter Migrationshintergrund,weiblich,Selbständige,0.0016396002498438476,16862,0.0010289195566194308,0.0022502809430682644
 1996,indirekter Migrationshintergrund,maennlich,Nicht erwerbstätig: arbeitslos gemeldet,0.0014053716427232979,16862,0.0008399248634008263,0.0019708184220457695
 1996,indirekter Migrationshintergrund,maennlich,Selbständige,0.0007807620237351655,16862,0.0003591710899734958,0.0012023529574968351
-1996,direkter Migrationshintergrund,maennlich,Nicht erwerbstätig: Wehr-/Zivildienst,0.0005465334166146158,16862,0.00019376379540433388,0.0008993030378248978
-1996,indirekter Migrationshintergrund,maennlich,Nicht erwerbstätig: keine weitere Angaben,0.0005465334166146158,16862,0.00019376379540433388,0.0008993030378248978
 1996,direkter Migrationshintergrund,maennlich,Beamte,0.0005465334166146158,16862,0.00019376379540433388,0.0008993030378248978
+1996,indirekter Migrationshintergrund,maennlich,Nicht erwerbstätig: keine weitere Angaben,0.0005465334166146158,16862,0.00019376379540433388,0.0008993030378248978
+1996,direkter Migrationshintergrund,maennlich,Nicht erwerbstätig: Wehr-/Zivildienst,0.0005465334166146158,16862,0.00019376379540433388,0.0008993030378248978
 1996,indirekter Migrationshintergrund,maennlich,Nicht erwerbstätig: Wehr-/Zivildienst,0.00046845721424109934,16862,0.00014184325172162342,0.0007950711767605752
 1996,indirekter Migrationshintergrund,weiblich,Selbständige,0.00046845721424109934,16862,0.00014184325172162342,0.0007950711767605752
 1996,indirekter Migrationshintergrund,weiblich,Nicht erwerbstätig: Rentner*innen,0.00023422860712054967,16862,3.2506006419431898e-06,0.00046520661359915615
@@ -680,8 +680,8 @@ year,migback,sex,occpos,proportion,n,lower_confidence,upper_confidence
 1997,indirekter Migrationshintergrund,maennlich,Nicht erwerbstätig: Wehr-/Zivildienst,0.0006364865940011138,16487,0.0002515035275083506,0.0010214696604938771
 1997,direkter Migrationshintergrund,maennlich,Beamte,0.0006364865940011138,16487,0.0002515035275083506,0.0010214696604938771
 1997,indirekter Migrationshintergrund,weiblich,Selbständige,0.00039780412125069614,16487,9.341194040698607e-05,0.0007021963020944062
-1997,indirekter Migrationshintergrund,weiblich,Nicht erwerbstätig: Rentner*innen,0.0003182432970005569,16487,4.597581915016433e-05,0.0005905107748509495
 1997,direkter Migrationshintergrund,maennlich,Nicht erwerbstätig: Wehr-/Zivildienst,0.0003182432970005569,16487,4.597581915016433e-05,0.0005905107748509495
+1997,indirekter Migrationshintergrund,weiblich,Nicht erwerbstätig: Rentner*innen,0.0003182432970005569,16487,4.597581915016433e-05,0.0005905107748509495
 1997,indirekter Migrationshintergrund,maennlich,Nicht erwerbstätig: keine weitere Angaben,0.00023868247275041769,16487,2.88253766296461e-06,0.00047448240783787076
 1997,indirekter Migrationshintergrund,weiblich,Beamte,0.00023868247275041769,16487,2.88253766296461e-06,0.00047448240783787076
 1997,direkter Migrationshintergrund,weiblich,Beamte,0.00015912164850027846,16487,-3.341585287410084e-05,0.00035165914987465776
@@ -698,8 +698,8 @@ year,migback,sex,occpos,proportion,n,lower_confidence,upper_confidence
 1998,kein Migrationshintergrund,maennlich,Selbständige,0.02931712549159814,18147,0.02686268205260333,0.03177156893059295
 1998,kein Migrationshintergrund,weiblich,Nicht erwerbstätig: arbeitslos gemeldet,0.0285305684662138,18147,0.026108293538132904,0.030952843394294695
 1998,kein Migrationshintergrund,maennlich,Nicht erwerbstätig: arbeitslos gemeldet,0.028316052913836254,18147,0.02590263504826019,0.030729470779412318
-1998,kein Migrationshintergrund,weiblich,Auszubildende/ Praktikant*innen,0.027028959599570967,18147,0.02466946888083022,0.029388450318311714
 1998,kein Migrationshintergrund,maennlich,Auszubildende/ Praktikant*innen,0.027028959599570967,18147,0.02466946888083022,0.029388450318311714
+1998,kein Migrationshintergrund,weiblich,Auszubildende/ Praktikant*innen,0.027028959599570967,18147,0.02466946888083022,0.029388450318311714
 1998,direkter Migrationshintergrund,weiblich,Nicht erwerbstätig: keine weitere Angaben,0.025741866285305684,18147,0.02343771661062707,0.028046015959984297
 1998,kein Migrationshintergrund,maennlich,Beamte,0.02202359671076153,18147,0.019888281652366085,0.024158911769156972
 1998,direkter Migrationshintergrund,weiblich,Arbeiter*innen,0.01873435824097247,18147,0.016761634103955217,0.020707082377989725
@@ -720,8 +720,8 @@ year,migback,sex,occpos,proportion,n,lower_confidence,upper_confidence
 1998,indirekter Migrationshintergrund,maennlich,Angestellte,0.003432248838040758,18147,0.002581313715277067,0.0042831839608044485
 1998,direkter Migrationshintergrund,weiblich,Auszubildende/ Praktikant*innen,0.0032892384697890595,18147,0.0024561600090513896,0.0041223169305267295
 1998,indirekter Migrationshintergrund,weiblich,Arbeiter*innen,0.0030032177332856634,18147,0.002207069492281697,0.0037993659742896297
-1998,kein Migrationshintergrund,maennlich,Nicht erwerbstätig: Wehr-/Zivildienst,0.002931712549159814,18147,0.0021450711539240707,0.003718353944395557
 1998,kein Migrationshintergrund,maennlich,Nicht erwerbstätig: keine weitere Angaben,0.002931712549159814,18147,0.0021450711539240707,0.003718353944395557
+1998,kein Migrationshintergrund,maennlich,Nicht erwerbstätig: Wehr-/Zivildienst,0.002931712549159814,18147,0.0021450711539240707,0.003718353944395557
 1998,indirekter Migrationshintergrund,weiblich,Nicht erwerbstätig: keine weitere Angaben,0.002860207365033965,18147,0.002083190516458474,0.0036372242136094557
 1998,indirekter Migrationshintergrund,maennlich,Nicht erwerbstätig: arbeitslos gemeldet,0.0021451555237754737,18147,0.0014719979618525456,0.0028183130856984017
 1998,direkter Migrationshintergrund,maennlich,Nicht erwerbstätig: keine weitere Angaben,0.001787629603146228,18147,0.0011730135569113917,0.0024022456493810644
@@ -731,10 +731,10 @@ year,migback,sex,occpos,proportion,n,lower_confidence,upper_confidence
 1998,direkter Migrationshintergrund,maennlich,Beamte,0.0007865570253843404,18147,0.00037866248434897324,0.0011944515664197076
 1998,indirekter Migrationshintergrund,weiblich,Selbständige,0.00042903110475509475,18147,0.00012772713151699283,0.0007303350779931967
 1998,indirekter Migrationshintergrund,maennlich,Nicht erwerbstätig: Wehr-/Zivildienst,0.0003575259206292456,18147,8.246444476128252e-05,0.0006325873964972088
-1998,indirekter Migrationshintergrund,maennlich,Beamte,0.0002860207365033965,18147,3.998947436120178e-05,0.0005320519986455913
 1998,indirekter Migrationshintergrund,maennlich,Nicht erwerbstätig: keine weitere Angaben,0.0002860207365033965,18147,3.998947436120178e-05,0.0005320519986455913
-1998,direkter Migrationshintergrund,maennlich,Nicht erwerbstätig: Wehr-/Zivildienst,0.0002860207365033965,18147,3.998947436120178e-05,0.0005320519986455913
+1998,indirekter Migrationshintergrund,maennlich,Beamte,0.0002860207365033965,18147,3.998947436120178e-05,0.0005320519986455913
 1998,direkter Migrationshintergrund,weiblich,Beamte,0.0002860207365033965,18147,3.998947436120178e-05,0.0005320519986455913
+1998,direkter Migrationshintergrund,maennlich,Nicht erwerbstätig: Wehr-/Zivildienst,0.0002860207365033965,18147,3.998947436120178e-05,0.0005320519986455913
 1998,indirekter Migrationshintergrund,weiblich,Nicht erwerbstätig: Rentner*innen,0.00021451555237754738,18147,1.438609413450864e-06,0.00042759249534164386
 1998,indirekter Migrationshintergrund,weiblich,Beamte,0.00014301036825169826,18147,-3.097244849062383e-05,0.0003169931849940203
 1998,indirekter Migrationshintergrund,maennlich,Nicht erwerbstätig: Rentner*innen,0.00014301036825169826,18147,-3.097244849062383e-05,0.0003169931849940203
@@ -782,12 +782,12 @@ year,migback,sex,occpos,proportion,n,lower_confidence,upper_confidence
 1999,direkter Migrationshintergrund,maennlich,Beamte,0.000669244497323022,17396,0.00028493740168438175,0.0010535515929616622
 1999,indirekter Migrationshintergrund,weiblich,Nicht erwerbstätig: Rentner*innen,0.00037180249851279,17396,8.531427598520839e-05,0.0006582907210403716
 1999,indirekter Migrationshintergrund,maennlich,Nicht erwerbstätig: keine weitere Angaben,0.00037180249851279,17396,8.531427598520839e-05,0.0006582907210403716
-1999,indirekter Migrationshintergrund,maennlich,Nicht erwerbstätig: Wehr-/Zivildienst,0.000297441998810232,17396,4.1189612140607045e-05,0.000553694385479857
 1999,direkter Migrationshintergrund,maennlich,Nicht erwerbstätig: Wehr-/Zivildienst,0.000297441998810232,17396,4.1189612140607045e-05,0.000553694385479857
+1999,indirekter Migrationshintergrund,maennlich,Nicht erwerbstätig: Wehr-/Zivildienst,0.000297441998810232,17396,4.1189612140607045e-05,0.000553694385479857
 1999,direkter Migrationshintergrund,weiblich,Beamte,0.000223081499107674,17396,1.152169088835278e-06,0.0004450108291265127
 1999,indirekter Migrationshintergrund,weiblich,Selbständige,0.000223081499107674,17396,1.152169088835278e-06,0.0004450108291265127
-1999,indirekter Migrationshintergrund,maennlich,Nicht erwerbstätig: Rentner*innen,0.000148720999405116,17396,-3.249027837087676e-05,0.0003299322771811088
 1999,indirekter Migrationshintergrund,weiblich,Beamte,0.000148720999405116,17396,-3.249027837087676e-05,0.0003299322771811088
+1999,indirekter Migrationshintergrund,maennlich,Nicht erwerbstätig: Rentner*innen,0.000148720999405116,17396,-3.249027837087676e-05,0.0003299322771811088
 1999,indirekter Migrationshintergrund,maennlich,Beamte,7.4360499702558e-05,17396,-5.377998837857556e-05,0.00020250098778369158
 2000,kein Migrationshintergrund,weiblich,Angestellte,0.13741973639743157,30607,0.1335625555321279,0.14127691726273525
 2000,kein Migrationshintergrund,weiblich,Nicht erwerbstätig: Rentner*innen,0.10936971949983103,30607,0.10587314354228518,0.11286629545737688
@@ -839,8 +839,8 @@ year,migback,sex,occpos,proportion,n,lower_confidence,upper_confidence
 2000,indirekter Migrationshintergrund,weiblich,Selbständige,0.0003801960121662724,30607,0.00016178884092015713,0.0005986031834123877
 2000,direkter Migrationshintergrund,maennlich,Nicht erwerbstätig: Wehr-/Zivildienst,0.0003379520108144643,30607,0.00013203140404569874,0.0005438726175832299
 2000,indirekter Migrationshintergrund,maennlich,Beamte,0.00016897600540723216,30607,2.3355842219004576e-05,0.00031459616859545974
-2000,indirekter Migrationshintergrund,weiblich,Beamte,0.00012673200405542413,30607,6.185792975732898e-07,0.00025284542881327495
 2000,kein Migrationshintergrund,weiblich,Nicht erwerbstätig: Wehr-/Zivildienst,0.00012673200405542413,30607,6.185792975732898e-07,0.00025284542881327495
+2000,indirekter Migrationshintergrund,weiblich,Beamte,0.00012673200405542413,30607,6.185792975732898e-07,0.00025284542881327495
 2001,kein Migrationshintergrund,weiblich,Angestellte,0.13914132047477745,27798,0.13507273646768686,0.14320990448186804
 2001,kein Migrationshintergrund,weiblich,Nicht erwerbstätig: Rentner*innen,0.11122959940652818,27798,0.10753340952427197,0.1149257892887844
 2001,kein Migrationshintergrund,maennlich,Angestellte,0.10177114243323442,27798,0.0982168339121877,0.10532545095428113
@@ -879,21 +879,21 @@ year,migback,sex,occpos,proportion,n,lower_confidence,upper_confidence
 2001,indirekter Migrationshintergrund,weiblich,Arbeiter*innen,0.0022718842729970326,27798,0.0017121930402216362,0.002831575505772429
 2001,direkter Migrationshintergrund,maennlich,Nicht erwerbstätig: keine weitere Angaben,0.0015300445103857566,27798,0.0010705621650227144,0.001989526855748799
 2001,direkter Migrationshintergrund,weiblich,Selbständige,0.0014373145400593472,27798,0.0009919528338098007,0.0018826762463088936
-2001,indirekter Migrationshintergrund,maennlich,Nicht erwerbstätig: arbeitslos gemeldet,0.0011591246290801186,27798,0.0007591223035182997,0.0015591269546419376
 2001,indirekter Migrationshintergrund,weiblich,Nicht erwerbstätig: arbeitslos gemeldet,0.0011591246290801186,27798,0.0007591223035182997,0.0015591269546419376
+2001,indirekter Migrationshintergrund,maennlich,Nicht erwerbstätig: arbeitslos gemeldet,0.0011591246290801186,27798,0.0007591223035182997,0.0015591269546419376
 2001,indirekter Migrationshintergrund,maennlich,Selbständige,0.0008345697329376854,27798,0.0004951013661120333,0.0011740380997633374
 2001,direkter Migrationshintergrund,maennlich,Beamte,0.0005100148367952523,27798,0.00024459711038674064,0.000775432563203764
-2001,indirekter Migrationshintergrund,weiblich,Nicht erwerbstätig: Rentner*innen,0.0004636498516320475,27798,0.00021057810935563485,0.0007167215939084602
 2001,indirekter Migrationshintergrund,maennlich,Nicht erwerbstätig: Rentner*innen,0.0004636498516320475,27798,0.00021057810935563485,0.0007167215939084602
-2001,indirekter Migrationshintergrund,maennlich,Nicht erwerbstätig: keine weitere Angaben,0.000370919881305638,27798,0.00014455513420385304,0.0005972846284074229
+2001,indirekter Migrationshintergrund,weiblich,Nicht erwerbstätig: Rentner*innen,0.0004636498516320475,27798,0.00021057810935563485,0.0007167215939084602
 2001,direkter Migrationshintergrund,weiblich,Beamte,0.000370919881305638,27798,0.00014455513420385304,0.0005972846284074229
 2001,indirekter Migrationshintergrund,maennlich,Nicht erwerbstätig: Wehr-/Zivildienst,0.000370919881305638,27798,0.00014455513420385304,0.0005972846284074229
+2001,indirekter Migrationshintergrund,maennlich,Nicht erwerbstätig: keine weitere Angaben,0.000370919881305638,27798,0.00014455513420385304,0.0005972846284074229
 2001,direkter Migrationshintergrund,maennlich,Nicht erwerbstätig: Wehr-/Zivildienst,0.0002781899109792285,27798,8.214319702464268e-05,0.0004742366249338143
 2001,indirekter Migrationshintergrund,weiblich,Selbständige,0.00023182492581602375,27798,5.28554299173601e-05,0.0004107944217146874
-2001,indirekter Migrationshintergrund,weiblich,Beamte,0.00023182492581602375,27798,5.28554299173601e-05,0.0004107944217146874
 2001,indirekter Migrationshintergrund,maennlich,Beamte,0.00023182492581602375,27798,5.28554299173601e-05,0.0004107944217146874
-2001,kein Migrationshintergrund,weiblich,Nicht erwerbstätig: Wehr-/Zivildienst,4.636498516320475e-05,27798,-3.368002984269253e-05,0.00012641000016910201
+2001,indirekter Migrationshintergrund,weiblich,Beamte,0.00023182492581602375,27798,5.28554299173601e-05,0.0004107944217146874
 2001,direkter Migrationshintergrund,weiblich,Nicht erwerbstätig: Wehr-/Zivildienst,4.636498516320475e-05,27798,-3.368002984269253e-05,0.00012641000016910201
+2001,kein Migrationshintergrund,weiblich,Nicht erwerbstätig: Wehr-/Zivildienst,4.636498516320475e-05,27798,-3.368002984269253e-05,0.00012641000016910201
 2002,kein Migrationshintergrund,weiblich,Angestellte,0.14526967285587974,28961,0.14121130573710677,0.14932803997465272
 2002,kein Migrationshintergrund,maennlich,Angestellte,0.11127320954907162,28961,0.10765137390867285,0.11489504518947039
 2002,kein Migrationshintergrund,weiblich,Nicht erwerbstätig: Rentner*innen,0.10729442970822281,28961,0.1037299839950143,0.11085887542143132
@@ -942,8 +942,8 @@ year,migback,sex,occpos,proportion,n,lower_confidence,upper_confidence
 2002,indirekter Migrationshintergrund,maennlich,Nicht erwerbstätig: Wehr-/Zivildienst,0.0003978779840848806,28961,0.00016819023397613865,0.0006275657341936226
 2002,indirekter Migrationshintergrund,maennlich,Nicht erwerbstätig: Rentner*innen,0.00035366931918656057,28961,0.00013711284306055515,0.000570225795312566
 2002,indirekter Migrationshintergrund,weiblich,Selbständige,0.0002652519893899204,28961,7.770028591707337e-05,0.0004528036928627674
-2002,direkter Migrationshintergrund,maennlich,Nicht erwerbstätig: Wehr-/Zivildienst,0.00022104332449160034,28961,4.982904121791118e-05,0.0003922576077652895
 2002,indirekter Migrationshintergrund,weiblich,Beamte,0.00022104332449160034,28961,4.982904121791118e-05,0.0003922576077652895
+2002,direkter Migrationshintergrund,maennlich,Nicht erwerbstätig: Wehr-/Zivildienst,0.00022104332449160034,28961,4.982904121791118e-05,0.0003922576077652895
 2002,indirekter Migrationshintergrund,maennlich,Beamte,0.00017683465959328028,28961,2.3692563405788213e-05,0.00032997675578077233
 2002,kein Migrationshintergrund,weiblich,Nicht erwerbstätig: Wehr-/Zivildienst,8.841732979664014e-05,28961,-1.9875272903221907e-05,0.0001967099324965022
 2003,kein Migrationshintergrund,weiblich,Angestellte,0.14583428964884096,27727,0.14167991631460095,0.14998866298308097
@@ -988,18 +988,18 @@ year,migback,sex,occpos,proportion,n,lower_confidence,upper_confidence
 2003,indirekter Migrationshintergrund,weiblich,Nicht erwerbstätig: arbeitslos gemeldet,0.0010098691760385586,27727,0.0006360016128607886,0.0013837367392163286
 2003,indirekter Migrationshintergrund,maennlich,Selbständige,0.0008262565985770026,27727,0.0004880495869393622,0.0011644636102146428
 2003,direkter Migrationshintergrund,maennlich,Beamte,0.0006885471654808355,27727,0.0003797865415070312,0.00099730778945464
+2003,indirekter Migrationshintergrund,maennlich,Nicht erwerbstätig: Rentner*innen,0.0004131282992885013,27727,0.00017393039267311222,0.0006523262059038903
 2003,direkter Migrationshintergrund,weiblich,Beamte,0.0004131282992885013,27727,0.00017393039267311222,0.0006523262059038903
 2003,indirekter Migrationshintergrund,weiblich,Nicht erwerbstätig: Rentner*innen,0.0004131282992885013,27727,0.00017393039267311222,0.0006523262059038903
-2003,indirekter Migrationshintergrund,maennlich,Nicht erwerbstätig: Rentner*innen,0.0004131282992885013,27727,0.00017393039267311222,0.0006523262059038903
 2003,indirekter Migrationshintergrund,maennlich,Nicht erwerbstätig: Wehr-/Zivildienst,0.00036722515492311226,27727,0.00014170202776734849,0.000592748282078876
 2003,indirekter Migrationshintergrund,weiblich,Selbständige,0.00036722515492311226,27727,0.00014170202776734849,0.000592748282078876
-2003,indirekter Migrationshintergrund,maennlich,Nicht erwerbstätig: keine weitere Angaben,0.0003213220105577232,27727,0.00011035959837409445,0.000532284422741352
 2003,kein Migrationshintergrund,weiblich,Nicht erwerbstätig: Wehr-/Zivildienst,0.0003213220105577232,27727,0.00011035959837409445,0.000532284422741352
+2003,indirekter Migrationshintergrund,maennlich,Nicht erwerbstätig: keine weitere Angaben,0.0003213220105577232,27727,0.00011035959837409445,0.000532284422741352
 2003,direkter Migrationshintergrund,maennlich,Nicht erwerbstätig: Wehr-/Zivildienst,0.00027541886619233415,27727,8.010114056087545e-05,0.00047073659182379285
 2003,indirekter Migrationshintergrund,weiblich,Beamte,0.00022951572182694515,27727,5.121175480252263e-05,0.0004078196888513677
 2003,indirekter Migrationshintergrund,maennlich,Beamte,0.00022951572182694515,27727,5.121175480252263e-05,0.0004078196888513677
-2003,indirekter Migrationshintergrund,weiblich,Nicht erwerbstätig: Wehr-/Zivildienst,4.590314436538903e-05,27727,-3.384413579355536e-05,0.00012565042452433343
 2003,direkter Migrationshintergrund,weiblich,Nicht erwerbstätig: Wehr-/Zivildienst,4.590314436538903e-05,27727,-3.384413579355536e-05,0.00012565042452433343
+2003,indirekter Migrationshintergrund,weiblich,Nicht erwerbstätig: Wehr-/Zivildienst,4.590314436538903e-05,27727,-3.384413579355536e-05,0.00012565042452433343
 2004,kein Migrationshintergrund,weiblich,Angestellte,0.14625641992178298,26790,0.14202495339932708,0.15048788644423888
 2004,kein Migrationshintergrund,weiblich,Nicht erwerbstätig: Rentner*innen,0.11308486076426519,26790,0.10929247085397734,0.11687725067455304
 2004,kein Migrationshintergrund,maennlich,Angestellte,0.10564010743061773,26790,0.10195932379694927,0.10932089106428619
@@ -1047,13 +1047,13 @@ year,migback,sex,occpos,proportion,n,lower_confidence,upper_confidence
 2004,indirekter Migrationshintergrund,maennlich,Nicht erwerbstätig: keine weitere Angaben,0.00032983084389577344,26790,0.0001123887037713223,0.0005472729840202246
 2004,indirekter Migrationshintergrund,maennlich,Nicht erwerbstätig: Rentner*innen,0.00032983084389577344,26790,0.0001123887037713223,0.0005472729840202246
 2004,direkter Migrationshintergrund,weiblich,Beamte,0.00028271215191066294,26790,8.139510375073788e-05,0.000484029200070588
-2004,indirekter Migrationshintergrund,weiblich,Beamte,0.00023559345992555246,26790,5.181264828591861e-05,0.00041937427156518627
 2004,indirekter Migrationshintergrund,maennlich,Beamte,0.00023559345992555246,26790,5.181264828591861e-05,0.00041937427156518627
+2004,indirekter Migrationshintergrund,weiblich,Beamte,0.00023559345992555246,26790,5.181264828591861e-05,0.00041937427156518627
 2004,direkter Migrationshintergrund,maennlich,Nicht erwerbstätig: Wehr-/Zivildienst,0.00018847476794044198,26790,2.409233930771864e-05,0.00035285719657316534
-2004,kein Migrationshintergrund,weiblich,Nicht erwerbstätig: Wehr-/Zivildienst,9.423738397022099e-05,26790,-2.2004023812249198e-05,0.0002104787917526912
-2004,direkter Migrationshintergrund,weiblich,Nicht erwerbstätig: Wehr-/Zivildienst,9.423738397022099e-05,26790,-2.2004023812249198e-05,0.0002104787917526912
-2004,indirekter Migrationshintergrund,weiblich,Nicht erwerbstätig: Wehr-/Zivildienst,9.423738397022099e-05,26790,-2.2004023812249198e-05,0.0002104787917526912
 2004,indirekter Migrationshintergrund,maennlich,Nicht erwerbstätig: Wehr-/Zivildienst,9.423738397022099e-05,26790,-2.2004023812249198e-05,0.0002104787917526912
+2004,indirekter Migrationshintergrund,weiblich,Nicht erwerbstätig: Wehr-/Zivildienst,9.423738397022099e-05,26790,-2.2004023812249198e-05,0.0002104787917526912
+2004,direkter Migrationshintergrund,weiblich,Nicht erwerbstätig: Wehr-/Zivildienst,9.423738397022099e-05,26790,-2.2004023812249198e-05,0.0002104787917526912
+2004,kein Migrationshintergrund,weiblich,Nicht erwerbstätig: Wehr-/Zivildienst,9.423738397022099e-05,26790,-2.2004023812249198e-05,0.0002104787917526912
 2005,kein Migrationshintergrund,weiblich,Angestellte,0.144684409898165,25520,0.14036832678572012,0.14900049301060989
 2005,kein Migrationshintergrund,weiblich,Nicht erwerbstätig: Rentner*innen,0.11738082353519949,25520,0.11343169752190077,0.12132994954849821
 2005,kein Migrationshintergrund,maennlich,Angestellte,0.1040488020858956,25520,0.10030272719181146,0.10779487697997975
@@ -1079,8 +1079,8 @@ year,migback,sex,occpos,proportion,n,lower_confidence,upper_confidence
 2005,direkter Migrationshintergrund,maennlich,Angestellte,0.0063954346435775074,25520,0.00541739252425406,0.0073734767629009546
 2005,indirekter Migrationshintergrund,weiblich,Angestellte,0.005657499877010873,25520,0.004737270667941218,0.006577729086080527
 2005,indirekter Migrationshintergrund,maennlich,Auszubildende/ Praktikant*innen,0.004624391203817583,25520,0.003791982683807463,0.005456799723827703
-2005,indirekter Migrationshintergrund,weiblich,Auszubildende/ Praktikant*innen,0.004624391203817583,25520,0.003791982683807463,0.005456799723827703
 2005,indirekter Migrationshintergrund,maennlich,Arbeiter*innen,0.004624391203817583,25520,0.003791982683807463,0.005456799723827703
+2005,indirekter Migrationshintergrund,weiblich,Auszubildende/ Praktikant*innen,0.004624391203817583,25520,0.003791982683807463,0.005456799723827703
 2005,indirekter Migrationshintergrund,maennlich,Angestellte,0.004525999901608698,25520,0.003702453702390903,0.005349546100826492
 2005,direkter Migrationshintergrund,weiblich,Nicht erwerbstätig: arbeitslos gemeldet,0.004181630343877601,25520,0.0033898975712840437,0.004973363116471159
 2005,kein Migrationshintergrund,maennlich,Nicht erwerbstätig: keine weitere Angaben,0.0036404781817287353,25520,0.002901548706729578,0.004379407656727893
@@ -1098,12 +1098,12 @@ year,migback,sex,occpos,proportion,n,lower_confidence,upper_confidence
 2005,indirekter Migrationshintergrund,weiblich,Nicht erwerbstätig: Rentner*innen,0.0006395434643577507,25520,0.00032936485155170715,0.0009497220771637943
 2005,indirekter Migrationshintergrund,weiblich,Selbständige,0.0005903478132533084,25520,0.0002923305065444444,0.0008883651199621725
 2005,direkter Migrationshintergrund,maennlich,Beamte,0.0005903478132533084,25520,0.0002923305065444444,0.0008883651199621725
-2005,kein Migrationshintergrund,weiblich,Nicht erwerbstätig: Wehr-/Zivildienst,0.00039356520883553894,25520,0.0001502111423207736,0.0006369192753503043
 2005,indirekter Migrationshintergrund,maennlich,Nicht erwerbstätig: keine weitere Angaben,0.00039356520883553894,25520,0.0001502111423207736,0.0006369192753503043
+2005,kein Migrationshintergrund,weiblich,Nicht erwerbstätig: Wehr-/Zivildienst,0.00039356520883553894,25520,0.0001502111423207736,0.0006369192753503043
 2005,indirekter Migrationshintergrund,maennlich,Nicht erwerbstätig: Rentner*innen,0.00034436955773109657,25520,0.00011672707107892729,0.0005720120443832658
+2005,indirekter Migrationshintergrund,weiblich,Beamte,0.0002951739066266542,25520,8.441273106072928e-05,0.0005059350821925791
 2005,indirekter Migrationshintergrund,maennlich,Beamte,0.0002951739066266542,25520,8.441273106072928e-05,0.0005059350821925791
 2005,direkter Migrationshintergrund,weiblich,Beamte,0.0002951739066266542,25520,8.441273106072928e-05,0.0005059350821925791
-2005,indirekter Migrationshintergrund,weiblich,Beamte,0.0002951739066266542,25520,8.441273106072928e-05,0.0005059350821925791
 2005,direkter Migrationshintergrund,maennlich,Nicht erwerbstätig: Wehr-/Zivildienst,0.00019678260441776947,25520,2.4688357012640376e-05,0.00036887685182289854
 2005,indirekter Migrationshintergrund,maennlich,Nicht erwerbstätig: Wehr-/Zivildienst,0.0001475869533133271,25520,-1.4547034716044988e-06,0.0002966286100982587
 2005,indirekter Migrationshintergrund,weiblich,Nicht erwerbstätig: Wehr-/Zivildienst,4.919565110444237e-05,25520,-3.685782332993739e-05,0.00013524912553882211
@@ -1149,8 +1149,8 @@ year,migback,sex,occpos,proportion,n,lower_confidence,upper_confidence
 2006,direkter Migrationshintergrund,maennlich,Nicht erwerbstätig: keine weitere Angaben,0.001369988126769568,27321,0.0009313882712838142,0.001808587982255322
 2006,indirekter Migrationshintergrund,maennlich,Selbständige,0.0012786555849849301,27321,0.0008549084923729822,0.0017024026775968781
 2006,direkter Migrationshintergrund,maennlich,Beamte,0.000684994063384784,27321,0.00037475078287748477,0.0009952373438920834
-2006,indirekter Migrationshintergrund,maennlich,Nicht erwerbstätig: keine weitere Angaben,0.000684994063384784,27321,0.00037475078287748477,0.0009952373438920834
 2006,indirekter Migrationshintergrund,weiblich,Nicht erwerbstätig: Rentner*innen,0.000684994063384784,27321,0.00037475078287748477,0.0009952373438920834
+2006,indirekter Migrationshintergrund,maennlich,Nicht erwerbstätig: keine weitere Angaben,0.000684994063384784,27321,0.00037475078287748477,0.0009952373438920834
 2006,indirekter Migrationshintergrund,weiblich,Selbständige,0.0005023289798155083,27321,0.0002366282264457838,0.0007680297331852327
 2006,indirekter Migrationshintergrund,maennlich,Beamte,0.00036533016713855145,27321,0.00013872427474592345,0.0005919360595311794
 2006,indirekter Migrationshintergrund,weiblich,Beamte,0.00031966389624623254,27321,0.00010768865179443989,0.0005316391406980252
@@ -1199,16 +1199,16 @@ year,migback,sex,occpos,proportion,n,lower_confidence,upper_confidence
 2007,indirekter Migrationshintergrund,maennlich,Nicht erwerbstätig: arbeitslos gemeldet,0.0015133024164022456,25385,0.0010351113130218435,0.001991493519782648
 2007,direkter Migrationshintergrund,maennlich,Nicht erwerbstätig: keine weitere Angaben,0.001464486209421528,25385,0.0009940595901608042,0.0019349128286822517
 2007,direkter Migrationshintergrund,weiblich,Selbständige,0.0013180375884793752,25385,0.0008717189861245405,0.0017643561908342099
-2007,indirekter Migrationshintergrund,maennlich,Selbständige,0.0011227727605565047,25385,0.0007107990744159318,0.0015347464466970776
 2007,indirekter Migrationshintergrund,weiblich,Nicht erwerbstätig: arbeitslos gemeldet,0.0011227727605565047,25385,0.0007107990744159318,0.0015347464466970776
+2007,indirekter Migrationshintergrund,maennlich,Selbständige,0.0011227727605565047,25385,0.0007107990744159318,0.0015347464466970776
 2007,direkter Migrationshintergrund,maennlich,Beamte,0.000732243104710764,25385,0.00039947930856367407,0.0010650069008578539
 2007,indirekter Migrationshintergrund,weiblich,Nicht erwerbstätig: Rentner*innen,0.000732243104710764,25385,0.00039947930856367407,0.0010650069008578539
 2007,indirekter Migrationshintergrund,weiblich,Selbständige,0.0006834268977300463,25385,0.0003619386761859267,0.001004915119274166
 2007,indirekter Migrationshintergrund,maennlich,Nicht erwerbstätig: keine weitere Angaben,0.0005369782767878936,25385,0.0002519885458923497,0.0008219680076834376
 2007,direkter Migrationshintergrund,weiblich,Beamte,0.0003905296558457408,25385,0.00014747179137208644,0.0006335875203193951
-2007,indirekter Migrationshintergrund,maennlich,Nicht erwerbstätig: Wehr-/Zivildienst,0.0002928972418843056,25385,8.239267736445197e-05,0.0005034018064041592
 2007,indirekter Migrationshintergrund,maennlich,Beamte,0.0002928972418843056,25385,8.239267736445197e-05,0.0005034018064041592
 2007,indirekter Migrationshintergrund,maennlich,Nicht erwerbstätig: Rentner*innen,0.0002928972418843056,25385,8.239267736445197e-05,0.0005034018064041592
+2007,indirekter Migrationshintergrund,maennlich,Nicht erwerbstätig: Wehr-/Zivildienst,0.0002928972418843056,25385,8.239267736445197e-05,0.0005034018064041592
 2007,indirekter Migrationshintergrund,weiblich,Beamte,0.000244081034903588,25385,5.191284583126168e-05,0.0004362492239759143
 2007,kein Migrationshintergrund,weiblich,Nicht erwerbstätig: Wehr-/Zivildienst,0.0001952648279228704,25385,2.3380178122456438e-05,0.00036714947772328437
 2007,direkter Migrationshintergrund,maennlich,Nicht erwerbstätig: Wehr-/Zivildienst,9.76324139614352e-05,25385,-2.391432166913015e-05,0.00021917914959200055
@@ -1233,8 +1233,8 @@ year,migback,sex,occpos,proportion,n,lower_confidence,upper_confidence
 2008,direkter Migrationshintergrund,maennlich,Nicht erwerbstätig: Rentner*innen,0.01187759336099585,23673,0.010497530011495827,0.013257656710495874
 2008,direkter Migrationshintergrund,weiblich,Nicht erwerbstätig: Rentner*innen,0.011307053941908713,23673,0.00996015543294484,0.012653952450872587
 2008,direkter Migrationshintergrund,weiblich,Arbeiter*innen,0.011203319502074689,23673,0.009862543330626054,0.012544095673523324
-2008,direkter Migrationshintergrund,weiblich,Nicht erwerbstätig: keine weitere Angaben,0.011151452282157677,23673,0.00981374827660204,0.012489156287713313
 2008,direkter Migrationshintergrund,weiblich,Angestellte,0.011151452282157677,23673,0.00981374827660204,0.012489156287713313
+2008,direkter Migrationshintergrund,weiblich,Nicht erwerbstätig: keine weitere Angaben,0.011151452282157677,23673,0.00981374827660204,0.012489156287713313
 2008,indirekter Migrationshintergrund,weiblich,Angestellte,0.007313278008298755,23673,0.00622787362704415,0.00839868238955336
 2008,direkter Migrationshintergrund,maennlich,Angestellte,0.0062759336099585065,23673,0.005269925465717461,0.007281941754199552
 2008,indirekter Migrationshintergrund,maennlich,Arbeiter*innen,0.005446058091286307,23673,0.0045085290519620205,0.006383587130610593
@@ -1251,14 +1251,14 @@ year,migback,sex,occpos,proportion,n,lower_confidence,upper_confidence
 2008,direkter Migrationshintergrund,weiblich,Selbständige,0.0020228215767634857,23673,0.0014504625769992652,0.002595180576527706
 2008,direkter Migrationshintergrund,maennlich,Auszubildende/ Praktikant*innen,0.0018153526970954357,23673,0.0012730829543113743,0.002357622439879497
 2008,indirekter Migrationshintergrund,weiblich,Nicht erwerbstätig: arbeitslos gemeldet,0.0014522821576763486,23673,0.0009671731543815227,0.0019373911609711744
-2008,indirekter Migrationshintergrund,maennlich,Nicht erwerbstätig: arbeitslos gemeldet,0.0014004149377593361,23673,0.0009240349814706981,0.001876794894047974
 2008,direkter Migrationshintergrund,maennlich,Nicht erwerbstätig: keine weitere Angaben,0.0014004149377593361,23673,0.0009240349814706981,0.001876794894047974
+2008,indirekter Migrationshintergrund,maennlich,Nicht erwerbstätig: arbeitslos gemeldet,0.0014004149377593361,23673,0.0009240349814706981,0.001876794894047974
 2008,kein Migrationshintergrund,maennlich,Nicht erwerbstätig: Wehr-/Zivildienst,0.0013485477178423236,23673,0.0008810607048593621,0.001816034730825285
 2008,indirekter Migrationshintergrund,maennlich,Selbständige,0.0008817427385892116,23673,0.0005036408768921085,0.0012598446002863148
-2008,direkter Migrationshintergrund,maennlich,Beamte,0.000570539419087137,23673,0.000266347044073477,0.000874731794100797
 2008,indirekter Migrationshintergrund,weiblich,Nicht erwerbstätig: Rentner*innen,0.000570539419087137,23673,0.000266347044073477,0.000874731794100797
-2008,indirekter Migrationshintergrund,maennlich,Nicht erwerbstätig: keine weitere Angaben,0.00046680497925311206,23673,0.00019163834408681145,0.0007419716144194126
+2008,direkter Migrationshintergrund,maennlich,Beamte,0.000570539419087137,23673,0.000266347044073477,0.000874731794100797
 2008,indirekter Migrationshintergrund,weiblich,Selbständige,0.00046680497925311206,23673,0.00019163834408681145,0.0007419716144194126
+2008,indirekter Migrationshintergrund,maennlich,Nicht erwerbstätig: keine weitere Angaben,0.00046680497925311206,23673,0.00019163834408681145,0.0007419716144194126
 2008,direkter Migrationshintergrund,weiblich,Beamte,0.0004149377593360996,23673,0.00015550143675897258,0.0006743740819132266
 2008,indirekter Migrationshintergrund,maennlich,Beamte,0.00031120331950207467,23673,8.65132155044873e-05,0.0005358934234996621
 2008,indirekter Migrationshintergrund,maennlich,Nicht erwerbstätig: Rentner*innen,0.00025933609958506224,23673,5.421771466320528e-05,0.00046445448450691917
@@ -1311,11 +1311,11 @@ year,migback,sex,occpos,proportion,n,lower_confidence,upper_confidence
 2009,indirekter Migrationshintergrund,weiblich,Selbständige,0.0005006675567423231,21983,0.00020494900499584278,0.0007963861084888035
 2009,indirekter Migrationshintergrund,maennlich,Nicht erwerbstätig: keine weitere Angaben,0.0005006675567423231,21983,0.00020494900499584278,0.0007963861084888035
 2009,direkter Migrationshintergrund,maennlich,Beamte,0.0004450378282153983,21983,0.00016622394513411633,0.0007238517112966803
-2009,indirekter Migrationshintergrund,maennlich,Beamte,0.0003894080996884735,21983,0.00012859433597045225,0.0006502218634064948
 2009,direkter Migrationshintergrund,weiblich,Beamte,0.0003894080996884735,21983,0.00012859433597045225,0.0006502218634064948
+2009,indirekter Migrationshintergrund,maennlich,Beamte,0.0003894080996884735,21983,0.00012859433597045225,0.0006502218634064948
 2009,kein Migrationshintergrund,weiblich,Nicht erwerbstätig: Wehr-/Zivildienst,0.0003337783711615487,21983,9.230502752973724e-05,0.0005752517147933602
-2009,indirekter Migrationshintergrund,weiblich,Nicht erwerbstätig: Wehr-/Zivildienst,0.00027814864263462394,21983,5.77085137588586e-05,0.0004985887715103893
 2009,indirekter Migrationshintergrund,weiblich,Beamte,0.00027814864263462394,21983,5.77085137588586e-05,0.0004985887715103893
+2009,indirekter Migrationshintergrund,weiblich,Nicht erwerbstätig: Wehr-/Zivildienst,0.00027814864263462394,21983,5.77085137588586e-05,0.0004985887715103893
 2009,direkter Migrationshintergrund,maennlich,Nicht erwerbstätig: Wehr-/Zivildienst,0.00022251891410769915,21983,2.5345783212865625e-05,0.00041969204500253267
 2009,indirekter Migrationshintergrund,maennlich,Nicht erwerbstätig: Wehr-/Zivildienst,0.00011125945705384957,21983,-2.8170758413586052e-05,0.0002506896725212852
 2009,indirekter Migrationshintergrund,maennlich,Nicht erwerbstätig: Rentner*innen,0.00011125945705384957,21983,-2.8170758413586052e-05,0.0002506896725212852
@@ -1341,8 +1341,8 @@ year,migback,sex,occpos,proportion,n,lower_confidence,upper_confidence
 2010,direkter Migrationshintergrund,maennlich,Angestellte,0.011220431232991417,35837,0.010129883286773592,0.012310979179209243
 2010,direkter Migrationshintergrund,weiblich,Arbeiter*innen,0.009085199916265439,35837,0.008102828653457734,0.010067571179073144
 2010,direkter Migrationshintergrund,weiblich,Nicht erwerbstätig: Rentner*innen,0.008331588863303329,35837,0.007390485331906716,0.009272692394699942
-2010,direkter Migrationshintergrund,weiblich,Nicht erwerbstätig: arbeitslos gemeldet,0.00828972158258321,35837,0.007350965794938121,0.009228477370228302
 2010,direkter Migrationshintergrund,maennlich,Nicht erwerbstätig: Rentner*innen,0.00828972158258321,35837,0.007350965794938121,0.009228477370228302
+2010,direkter Migrationshintergrund,weiblich,Nicht erwerbstätig: arbeitslos gemeldet,0.00828972158258321,35837,0.007350965794938121,0.009228477370228302
 2010,indirekter Migrationshintergrund,weiblich,Angestellte,0.008080385178982625,35837,0.007153460342792984,0.009007310015172265
 2010,indirekter Migrationshintergrund,weiblich,Nicht erwerbstätig: keine weitere Angaben,0.006866234038099226,35837,0.006011259023729704,0.007721209052468748
 2010,indirekter Migrationshintergrund,maennlich,Angestellte,0.006531295792338287,35837,0.00569729393132324,0.007365297653353335
@@ -1353,10 +1353,10 @@ year,migback,sex,occpos,proportion,n,lower_confidence,upper_confidence
 2010,indirekter Migrationshintergrund,maennlich,Auszubildende/ Praktikant*innen,0.004479799037052544,35837,0.003788374874121599,0.005171223199983489
 2010,direkter Migrationshintergrund,maennlich,Selbständige,0.0035168515804898473,35837,0.00290393376139507,0.004129769399584625
 2010,direkter Migrationshintergrund,weiblich,Auszubildende/ Praktikant*innen,0.0031819133347289093,35837,0.00259881422809397,0.0037650124413638486
-2010,indirekter Migrationshintergrund,weiblich,Nicht erwerbstätig: arbeitslos gemeldet,0.0026376386853673855,35837,0.002106602167537633,0.003168675203197138
 2010,direkter Migrationshintergrund,weiblich,Selbständige,0.0026376386853673855,35837,0.002106602167537633,0.003168675203197138
-2010,direkter Migrationshintergrund,maennlich,Auszubildende/ Praktikant*innen,0.0019677621938455096,35837,0.0015089353283049933,0.002426589059386026
+2010,indirekter Migrationshintergrund,weiblich,Nicht erwerbstätig: arbeitslos gemeldet,0.0026376386853673855,35837,0.002106602167537633,0.003168675203197138
 2010,direkter Migrationshintergrund,maennlich,Nicht erwerbstätig: keine weitere Angaben,0.0019677621938455096,35837,0.0015089353283049933,0.002426589059386026
+2010,direkter Migrationshintergrund,maennlich,Auszubildende/ Praktikant*innen,0.0019677621938455096,35837,0.0015089353283049933,0.002426589059386026
 2010,indirekter Migrationshintergrund,maennlich,Nicht erwerbstätig: arbeitslos gemeldet,0.0019258949131253924,35837,0.00147196590705993,0.002379823919190855
 2010,indirekter Migrationshintergrund,weiblich,Arbeiter*innen,0.0018002930709650408,35837,0.001361388026851434,0.0022391981150786475
 2010,kein Migrationshintergrund,maennlich,Nicht erwerbstätig: Wehr-/Zivildienst,0.0016328239480845718,35837,0.0012147962335603392,0.0020508516626088044
@@ -1371,8 +1371,8 @@ year,migback,sex,occpos,proportion,n,lower_confidence,upper_confidence
 2010,indirekter Migrationshintergrund,weiblich,Beamte,0.0002512036843207034,35837,8.712631082507673e-05,0.00041528105781633005
 2010,indirekter Migrationshintergrund,maennlich,Nicht erwerbstätig: Rentner*innen,0.0001674691228804689,35837,3.349489822023676e-05,0.00030144334754070106
 2010,indirekter Migrationshintergrund,maennlich,Nicht erwerbstätig: Wehr-/Zivildienst,8.373456144023445e-05,35837,-1.1003488160946944e-05,0.00017847261104141587
-2010,direkter Migrationshintergrund,weiblich,Nicht erwerbstätig: Wehr-/Zivildienst,4.186728072011723e-05,35837,-2.5124039034856516e-05,0.00010885860047509096
 2010,direkter Migrationshintergrund,maennlich,Nicht erwerbstätig: Wehr-/Zivildienst,4.186728072011723e-05,35837,-2.5124039034856516e-05,0.00010885860047509096
+2010,direkter Migrationshintergrund,weiblich,Nicht erwerbstätig: Wehr-/Zivildienst,4.186728072011723e-05,35837,-2.5124039034856516e-05,0.00010885860047509096
 2011,kein Migrationshintergrund,weiblich,Angestellte,0.1701005380911923,41903,0.16650305221038916,0.17369802397199544
 2011,kein Migrationshintergrund,maennlich,Angestellte,0.11420277541772869,41903,0.11115741288877934,0.11724813794667804
 2011,kein Migrationshintergrund,weiblich,Nicht erwerbstätig: Rentner*innen,0.10506938544321721,41903,0.10213331621462775,0.10800545467180668
@@ -1394,8 +1394,8 @@ year,migback,sex,occpos,proportion,n,lower_confidence,upper_confidence
 2011,direkter Migrationshintergrund,maennlich,Angestellte,0.011151231945624469,41903,0.01014578334056342,0.012156680550685518
 2011,direkter Migrationshintergrund,weiblich,Arbeiter*innen,0.009487397337864627,41903,0.008559206963285547,0.010415587712443707
 2011,direkter Migrationshintergrund,maennlich,Nicht erwerbstätig: Rentner*innen,0.00913338997451147,41903,0.008222518481257473,0.010044261467765467
-2011,indirekter Migrationshintergrund,weiblich,Angestellte,0.009062588501840838,41903,0.008155221971184418,0.009969955032497257
 2011,direkter Migrationshintergrund,weiblich,Nicht erwerbstätig: Rentner*innen,0.009062588501840838,41903,0.008155221971184418,0.009969955032497257
+2011,indirekter Migrationshintergrund,weiblich,Angestellte,0.009062588501840838,41903,0.008155221971184418,0.009969955032497257
 2011,indirekter Migrationshintergrund,maennlich,Angestellte,0.00661993769470405,41903,0.005843479311107301,0.0073963960783007985
 2011,direkter Migrationshintergrund,weiblich,Nicht erwerbstätig: arbeitslos gemeldet,0.006372132540356839,41903,0.005610250397137332,0.007134014683576346
 2011,indirekter Migrationshintergrund,maennlich,Arbeiter*innen,0.005097706032285472,41903,0.004415821054624895,0.005779591009946048
@@ -1445,8 +1445,8 @@ year,migback,sex,occpos,proportion,n,lower_confidence,upper_confidence
 2012,direkter Migrationshintergrund,weiblich,Nicht erwerbstätig: keine weitere Angaben,0.01453952139231327,40229,0.013369803551083102,0.015709239233543438
 2012,direkter Migrationshintergrund,maennlich,Angestellte,0.012400290065264684,40229,0.011318873913650263,0.013481706216879105
 2012,direkter Migrationshintergrund,weiblich,Arbeiter*innen,0.009970993473531545,40229,0.009000082011185292,0.010941904935877798
-2012,indirekter Migrationshintergrund,weiblich,Angestellte,0.00917331399564902,40229,0.008241673345199273,0.010104954646098768
 2012,direkter Migrationshintergrund,weiblich,Nicht erwerbstätig: Rentner*innen,0.00917331399564902,40229,0.008241673345199273,0.010104954646098768
+2012,indirekter Migrationshintergrund,weiblich,Angestellte,0.00917331399564902,40229,0.008241673345199273,0.010104954646098768
 2012,direkter Migrationshintergrund,maennlich,Nicht erwerbstätig: Rentner*innen,0.008919506889050036,40229,0.00800072729813558,0.009838286479964492
 2012,indirekter Migrationshintergrund,maennlich,Angestellte,0.006707759245830312,40229,0.005910106788381503,0.00750541170327912
 2012,direkter Migrationshintergrund,weiblich,Nicht erwerbstätig: arbeitslos gemeldet,0.005692530819434373,40229,0.0049573409755114825,0.006427720663357264
@@ -1471,20 +1471,20 @@ year,migback,sex,occpos,proportion,n,lower_confidence,upper_confidence
 2012,indirekter Migrationshintergrund,maennlich,Nicht erwerbstätig: keine weitere Angaben,0.0007614213197969543,40229,0.0004918749012728409,0.0010309677383210677
 2012,indirekter Migrationshintergrund,weiblich,Nicht erwerbstätig: Rentner*innen,0.0005438723712835388,40229,0.0003160392715601373,0.0007717054710069403
 2012,indirekter Migrationshintergrund,weiblich,Beamte,0.0005076142131979696,40229,0.0002875025351568637,0.0007277258912390754
-2012,indirekter Migrationshintergrund,maennlich,Beamte,0.0004713560551124003,40229,0.0002592472877092957,0.0006834648225155049
 2012,direkter Migrationshintergrund,maennlich,Beamte,0.0004713560551124003,40229,0.0002592472877092957,0.0006834648225155049
+2012,indirekter Migrationshintergrund,maennlich,Beamte,0.0004713560551124003,40229,0.0002592472877092957,0.0006834648225155049
 2012,direkter Migrationshintergrund,weiblich,Beamte,0.00039883973894126176,40229,0.00020372097315043768,0.0005939585047320859
 2012,indirekter Migrationshintergrund,maennlich,Nicht erwerbstätig: Rentner*innen,0.000145032632342277,40229,2.7356652876343225e-05,0.00026270861180821076
 2012,indirekter Migrationshintergrund,maennlich,Nicht erwerbstätig: Wehr-/Zivildienst,7.25163161711385e-05,40229,-1.0696184297503779e-05,0.00015572881663978078
-2012,indirekter Migrationshintergrund,weiblich,Nicht erwerbstätig: Wehr-/Zivildienst,3.625815808556925e-05,40229,-2.2583032060233256e-05,9.509934823137176e-05
 2012,direkter Migrationshintergrund,weiblich,Nicht erwerbstätig: Wehr-/Zivildienst,3.625815808556925e-05,40229,-2.2583032060233256e-05,9.509934823137176e-05
+2012,indirekter Migrationshintergrund,weiblich,Nicht erwerbstätig: Wehr-/Zivildienst,3.625815808556925e-05,40229,-2.2583032060233256e-05,9.509934823137176e-05
 2013,kein Migrationshintergrund,weiblich,Angestellte,0.15486218085280717,44486,0.1515003113902844,0.15822405031532996
 2013,kein Migrationshintergrund,maennlich,Angestellte,0.10497853233260136,44486,0.10213006418694091,0.10782700047826181
 2013,kein Migrationshintergrund,weiblich,Nicht erwerbstätig: Rentner*innen,0.09239290747599227,44486,0.08970191396757413,0.09508390098441041
 2013,kein Migrationshintergrund,maennlich,Nicht erwerbstätig: Rentner*innen,0.08380584051653502,44486,0.0812308520087151,0.08638082902435493
 2013,kein Migrationshintergrund,maennlich,Arbeiter*innen,0.05427550719412671,44486,0.05217013609861706,0.05638087828963636
-2013,kein Migrationshintergrund,weiblich,Nicht erwerbstätig: keine weitere Angaben,0.03562649536232834,44486,0.03390401777874211,0.03734897294591458
 2013,direkter Migrationshintergrund,weiblich,Angestellte,0.03562649536232834,44486,0.03390401777874211,0.03734897294591458
+2013,kein Migrationshintergrund,weiblich,Nicht erwerbstätig: keine weitere Angaben,0.03562649536232834,44486,0.03390401777874211,0.03734897294591458
 2013,direkter Migrationshintergrund,maennlich,Arbeiter*innen,0.03346334109009865,44486,0.03179210345143995,0.03513457872875735
 2013,kein Migrationshintergrund,weiblich,Arbeiter*innen,0.02812100553898594,44486,0.026584741327572273,0.029657269750399607
 2013,kein Migrationshintergrund,maennlich,Selbständige,0.02707220346760185,44486,0.02556404665235762,0.02858036028284608
@@ -1508,8 +1508,8 @@ year,migback,sex,occpos,proportion,n,lower_confidence,upper_confidence
 2013,direkter Migrationshintergrund,weiblich,Auszubildende/ Praktikant*innen,0.007243289305496378,44486,0.006455275684917699,0.008031302926075057
 2013,indirekter Migrationshintergrund,weiblich,Auszubildende/ Praktikant*innen,0.0068499885287273445,44486,0.006083515740858629,0.00761646131659606
 2013,indirekter Migrationshintergrund,weiblich,Nicht erwerbstätig: keine weitere Angaben,0.006325587493035299,44486,0.0055888430318774595,0.007062331954193138
-2013,direkter Migrationshintergrund,maennlich,Selbständige,0.005965061780997018,44486,0.005249490849092898,0.006680632712901137
 2013,indirekter Migrationshintergrund,maennlich,Arbeiter*innen,0.005965061780997018,44486,0.005249490849092898,0.006680632712901137
+2013,direkter Migrationshintergrund,maennlich,Selbständige,0.005965061780997018,44486,0.005249490849092898,0.006680632712901137
 2013,direkter Migrationshintergrund,weiblich,Selbständige,0.005014584903805185,44486,0.004358182376653109,0.005670987430957261
 2013,direkter Migrationshintergrund,maennlich,Auszubildende/ Praktikant*innen,0.004785159450689915,44486,0.004143874539786759,0.0054264443615930705
 2013,kein Migrationshintergrund,maennlich,Nicht erwerbstätig: keine weitere Angaben,0.004457408803382387,44486,0.0038383733135833433,0.005076444293181431
@@ -1527,8 +1527,8 @@ year,migback,sex,occpos,proportion,n,lower_confidence,upper_confidence
 2013,direkter Migrationshintergrund,weiblich,Beamte,0.0004916259709612927,44486,0.0002856317580532909,0.0006976201838692945
 2013,kein Migrationshintergrund,weiblich,Nicht erwerbstätig: Wehr-/Zivildienst,0.0004588509062305398,44486,0.0002598383269292514,0.0006578634855318281
 2013,indirekter Migrationshintergrund,maennlich,Nicht erwerbstätig: Rentner*innen,0.0002294254531152699,44486,8.868615953044678e-05,0.000370164746700093
-2013,kein Migrationshintergrund,maennlich,Nicht erwerbstätig: Wehr-/Zivildienst,0.00019665038838451705,44486,6.634898579994833e-05,0.00032695179096908577
 2013,indirekter Migrationshintergrund,weiblich,Nicht erwerbstätig: Wehr-/Zivildienst,0.00019665038838451705,44486,6.634898579994833e-05,0.00032695179096908577
+2013,kein Migrationshintergrund,maennlich,Nicht erwerbstätig: Wehr-/Zivildienst,0.00019665038838451705,44486,6.634898579994833e-05,0.00032695179096908577
 2013,indirekter Migrationshintergrund,maennlich,Nicht erwerbstätig: Wehr-/Zivildienst,6.555012946150569e-05,44486,-9.684352511470627e-06,0.000140784611434482
 2013,direkter Migrationshintergrund,maennlich,Nicht erwerbstätig: Wehr-/Zivildienst,3.2775064730752846e-05,44486,-2.0424619498661536e-05,8.597474896016723e-05
 2014,kein Migrationshintergrund,weiblich,Angestellte,0.15798045602605862,38694,0.1543463547578225,0.16161455729429475
@@ -1576,15 +1576,15 @@ year,migback,sex,occpos,proportion,n,lower_confidence,upper_confidence
 2014,kein Migrationshintergrund,weiblich,Nicht erwerbstätig: Wehr-/Zivildienst,0.0008143322475570033,38694,0.000530109932697284,0.0010985545624167226
 2014,indirekter Migrationshintergrund,weiblich,Beamte,0.0007403020432336393,38694,0.0004692966600765471,0.0010113074263907315
 2014,kein Migrationshintergrund,maennlich,Nicht erwerbstätig: Wehr-/Zivildienst,0.0007032869410719574,38694,0.00043913867525169266,0.0009674352068922221
-2014,indirekter Migrationshintergrund,maennlich,Beamte,0.0006292567367485935,38694,0.0003793882364471916,0.0008791252370499953
 2014,direkter Migrationshintergrund,weiblich,Beamte,0.0006292567367485935,38694,0.0003793882364471916,0.0008791252370499953
+2014,indirekter Migrationshintergrund,maennlich,Beamte,0.0006292567367485935,38694,0.0003793882364471916,0.0008791252370499953
 2014,direkter Migrationshintergrund,maennlich,Beamte,0.0005552265324252295,38694,0.0003205072525809175,0.0007899458122695415
 2014,indirekter Migrationshintergrund,weiblich,Nicht erwerbstätig: Rentner*innen,0.0005182114302635475,38694,0.0002914468636040026,0.0007449759969230924
 2014,indirekter Migrationshintergrund,maennlich,Nicht erwerbstätig: Rentner*innen,0.0002961208172934557,38694,0.0001246838734594589,0.0004675577611274525
 2014,indirekter Migrationshintergrund,maennlich,Nicht erwerbstätig: Wehr-/Zivildienst,0.0002220906129700918,38694,7.361636735071764e-05,0.00037056485858946595
 2014,indirekter Migrationshintergrund,weiblich,Nicht erwerbstätig: Wehr-/Zivildienst,0.00018507551080840982,38694,4.953517924406972e-05,0.0003206158423727499
-2014,direkter Migrationshintergrund,weiblich,Nicht erwerbstätig: Wehr-/Zivildienst,7.403020432336393e-05,38694,-1.1697788518366317e-05,0.00015975819716509417
 2014,direkter Migrationshintergrund,maennlich,Nicht erwerbstätig: Wehr-/Zivildienst,7.403020432336393e-05,38694,-1.1697788518366317e-05,0.00015975819716509417
+2014,direkter Migrationshintergrund,weiblich,Nicht erwerbstätig: Wehr-/Zivildienst,7.403020432336393e-05,38694,-1.1697788518366317e-05,0.00015975819716509417
 2015,kein Migrationshintergrund,weiblich,Angestellte,0.15446575753034616,38036,0.15083380334555813,0.1580977117151342
 2015,kein Migrationshintergrund,maennlich,Angestellte,0.10347669713771916,38036,0.10041571551485516,0.10653767876058316
 2015,kein Migrationshintergrund,weiblich,Nicht erwerbstätig: Rentner*innen,0.09800689345122134,38036,0.09501883854853801,0.10099494835390466
@@ -1741,8 +1741,8 @@ year,migback,sex,occpos,proportion,n,lower_confidence,upper_confidence
 2017,indirekter Migrationshintergrund,weiblich,Beamte,0.000691175986571438,45410,0.00044944935396792733,0.0009329026191749486
 2017,direkter Migrationshintergrund,maennlich,Beamte,0.0005266102754830004,45410,0.00031559659968944835,0.0007376239512765525
 2017,kein Migrationshintergrund,maennlich,Nicht erwerbstätig: Wehr-/Zivildienst,0.0004936971332653128,45410,0.00028938065618557354,0.0006980136103450521
-2017,indirekter Migrationshintergrund,maennlich,Nicht erwerbstätig: Rentner*innen,0.0004607839910476253,45410,0.0002633922714780602,0.0006581757106171904
 2017,direkter Migrationshintergrund,weiblich,Beamte,0.0004607839910476253,45410,0.0002633922714780602,0.0006581757106171904
+2017,indirekter Migrationshintergrund,maennlich,Nicht erwerbstätig: Rentner*innen,0.0004607839910476253,45410,0.0002633922714780602,0.0006581757106171904
 2017,indirekter Migrationshintergrund,weiblich,Nicht erwerbstätig: Wehr-/Zivildienst,0.00019747885330612512,45410,6.82386202325238e-05,0.00032671908637972645
 2017,direkter Migrationshintergrund,weiblich,Nicht erwerbstätig: Wehr-/Zivildienst,0.0001316525688707501,45410,2.6124886685743677e-05,0.0002371802510557565
 2017,indirekter Migrationshintergrund,maennlich,Nicht erwerbstätig: Wehr-/Zivildienst,9.873942665306256e-05,45410,7.348268932375567e-06,0.00019013058437374956
@@ -1789,8 +1789,8 @@ year,migback,sex,occpos,proportion,n,lower_confidence,upper_confidence
 2018,indirekter Migrationshintergrund,maennlich,Selbständige,0.0012742802038848327,43121,0.0009375614971345729,0.0016109989106350923
 2018,indirekter Migrationshintergrund,weiblich,Nicht erwerbstätig: Rentner*innen,0.0009987601598016255,43121,0.0007006167060311275,0.0012969036135721235
 2018,indirekter Migrationshintergrund,weiblich,Selbständige,0.0009298801487808238,43121,0.0006421912308096639,0.0012175690667519837
-2018,kein Migrationshintergrund,weiblich,Nicht erwerbstätig: Wehr-/Zivildienst,0.000861000137760022,43121,0.0005841618046765137,0.0011378384708435304
 2018,indirekter Migrationshintergrund,weiblich,Beamte,0.000861000137760022,43121,0.0005841618046765137,0.0011378384708435304
+2018,kein Migrationshintergrund,weiblich,Nicht erwerbstätig: Wehr-/Zivildienst,0.000861000137760022,43121,0.0005841618046765137,0.0011378384708435304
 2018,indirekter Migrationshintergrund,maennlich,Beamte,0.0007576801212288194,43121,0.0004979693179626063,0.0010173909244950324
 2018,direkter Migrationshintergrund,weiblich,Beamte,0.0005510400881664141,43121,0.0003295350712560999,0.0007725451050767283
 2018,direkter Migrationshintergrund,maennlich,Beamte,0.0005510400881664141,43121,0.0003295350712560999,0.0007725451050767283
@@ -1799,180 +1799,164 @@ year,migback,sex,occpos,proportion,n,lower_confidence,upper_confidence
 2018,indirekter Migrationshintergrund,maennlich,Nicht erwerbstätig: keine weitere Angaben,0.00044772007163521146,43121,0.000248047827617748,0.0006473923156526749
 2018,indirekter Migrationshintergrund,weiblich,Nicht erwerbstätig: Wehr-/Zivildienst,0.00020664003306240529,43121,7.097309764705659e-05,0.00034230696847775395
 2018,indirekter Migrationshintergrund,maennlich,Nicht erwerbstätig: Wehr-/Zivildienst,0.00013776002204160352,43121,2.698461743312562e-05,0.0002485354266500814
-2019,kein Migrationshintergrund,weiblich,Angestellte,0.1567976770714508,42417,0.1533373129046285,0.16025804123827309
-2019,kein Migrationshintergrund,maennlich,Angestellte,0.11137612776107021,42417,0.10838220120761287,0.11437005431452756
-2019,kein Migrationshintergrund,weiblich,Nicht erwerbstätig: Rentner*innen,0.08707525320612534,42417,0.08439206609175676,0.08975844032049393
-2019,kein Migrationshintergrund,maennlich,Nicht erwerbstätig: Rentner*innen,0.08265062739811262,42417,0.08003017329070188,0.08527108150552336
-2019,kein Migrationshintergrund,maennlich,Selbständige,0.05302637491790245,42417,0.050893816152894365,0.055158933682910534
-2019,kein Migrationshintergrund,maennlich,Arbeiter*innen,0.039890767050364685,42417,0.03802832566523688,0.04175320843549249
-2019,direkter Migrationshintergrund,maennlich,Angestellte,0.03404887828822289,42417,0.03232298048151204,0.035774776094933736
-2019,direkter Migrationshintergrund,weiblich,Angestellte,0.03242421099934322,42417,0.030738576925657263,0.03410984507302918
-2019,direkter Migrationshintergrund,weiblich,Nicht erwerbstätig: keine weitere Angaben,0.03204396971896713,42417,0.030367919342295803,0.03372002009563845
-2019,direkter Migrationshintergrund,maennlich,Arbeiter*innen,0.028690932973832486,42417,0.027102250320248565,0.030279615627416406
-2019,direkter Migrationshintergrund,weiblich,Nicht erwerbstätig: arbeitslos gemeldet,0.026547754848076324,42417,0.025017875008657743,0.028077634687494905
-2019,direkter Migrationshintergrund,maennlich,Nicht erwerbstätig: arbeitslos gemeldet,0.025960109232949634,42417,0.024446799845324486,0.027473418620574782
-2019,kein Migrationshintergrund,weiblich,Selbständige,0.02450827888969546,42417,0.023036799113566764,0.02597975866582416
-2019,kein Migrationshintergrund,weiblich,Nicht erwerbstätig: keine weitere Angaben,0.023678661550693075,42417,0.022231686434949084,0.025125636666437065
-2019,kein Migrationshintergrund,weiblich,Auszubildende/ Praktikant*innen,0.01956514224480625,42417,0.01824707680334892,0.020883207686263578
-2019,kein Migrationshintergrund,maennlich,Auszubildende/ Praktikant*innen,0.018908361851429363,42417,0.01761217432948119,0.020204549373377536
-2019,kein Migrationshintergrund,weiblich,Arbeiter*innen,0.018908361851429363,42417,0.01761217432948119,0.020204549373377536
-2019,direkter Migrationshintergrund,maennlich,Nicht erwerbstätig: keine weitere Angaben,0.015486190328044522,42417,0.014311105282976612,0.016661275373112433
-2019,kein Migrationshintergrund,weiblich,Beamte,0.015244218604168826,42417,0.014078206791141419,0.016410230417196234
-2019,kein Migrationshintergrund,maennlich,Beamte,0.014829409934667635,42417,0.013679129450965055,0.015979690418370215
-2019,indirekter Migrationshintergrund,weiblich,Angestellte,0.013273877424038162,42417,0.012184738420153335,0.01436301642792299
-2019,kein Migrationshintergrund,weiblich,Nicht erwerbstätig: arbeitslos gemeldet,0.01223685575028518,42417,0.011190576949772425,0.013283134550797937
-2019,direkter Migrationshintergrund,weiblich,Arbeiter*innen,0.012064018804659684,42417,0.011025064370416313,0.013102973238903054
-2019,indirekter Migrationshintergrund,maennlich,Angestellte,0.009989975457153721,42417,0.009043546317212313,0.010936404597095129
-2019,kein Migrationshintergrund,maennlich,Nicht erwerbstätig: arbeitslos gemeldet,0.009782571122403124,42417,0.00884591993755634,0.010719222307249908
-2019,direkter Migrationshintergrund,weiblich,Nicht erwerbstätig: Rentner*innen,0.009298627674651734,42417,0.00838521526361765,0.010212040085685818
-2019,direkter Migrationshintergrund,maennlich,Auszubildende/ Praktikant*innen,0.009056655950776038,42417,0.008155096346729234,0.009958215554822842
-2019,direkter Migrationshintergrund,maennlich,Nicht erwerbstätig: Rentner*innen,0.008157903833523454,42417,0.0073018587133882994,0.00901394895365861
-2019,direkter Migrationshintergrund,maennlich,Selbständige,0.0060492930968923915,42417,0.005311353467434935,0.006787232726349848
-2019,direkter Migrationshintergrund,weiblich,Auszubildende/ Praktikant*innen,0.005288810536140206,42417,0.0045985491120824305,0.005979071960197981
-2019,indirekter Migrationshintergrund,maennlich,Auszubildende/ Praktikant*innen,0.005288810536140206,42417,0.0045985491120824305,0.005979071960197981
-2019,kein Migrationshintergrund,maennlich,Nicht erwerbstätig: keine weitere Angaben,0.004977704034014311,42417,0.004307947378128659,0.005647460689899963
-2019,indirekter Migrationshintergrund,weiblich,Auszubildende/ Praktikant*innen,0.004943136644889211,42417,0.0042756979912173376,0.005610575298561085
-2019,direkter Migrationshintergrund,weiblich,Selbständige,0.0045628953645131184,42417,0.003921518538551099,0.005204272190475138
-2019,indirekter Migrationshintergrund,maennlich,Arbeiter*innen,0.0037678454146358327,42417,0.003184785865467809,0.004350904963803857
-2019,indirekter Migrationshintergrund,weiblich,Nicht erwerbstätig: keine weitere Angaben,0.0033184693560095405,42417,0.0027711595771883106,0.0038657791348307704
-2019,indirekter Migrationshintergrund,maennlich,Selbständige,0.0026616889626326526,42417,0.0021713617468051946,0.0031520161784601105
-2019,indirekter Migrationshintergrund,weiblich,Nicht erwerbstätig: arbeitslos gemeldet,0.0018666390127553667,42417,0.0014558578199656232,0.00227742020554511
-2019,indirekter Migrationshintergrund,weiblich,Selbständige,0.0017629368453800684,42417,0.0013637085454528063,0.00216216514530733
-2019,indirekter Migrationshintergrund,weiblich,Arbeiter*innen,0.0016938020671298697,42417,0.0013024665103371432,0.0020851376239225962
-2019,indirekter Migrationshintergrund,maennlich,Nicht erwerbstätig: arbeitslos gemeldet,0.0016246672888796708,42417,0.00124138810238231,0.0020079464753770316
-2019,indirekter Migrationshintergrund,weiblich,Nicht erwerbstätig: Rentner*innen,0.001002454284627882,42417,0.0007012919912978545,0.0013036165779579097
-2019,kein Migrationshintergrund,weiblich,Nicht erwerbstätig: Wehr-/Zivildienst,0.0008641847281274846,42417,0.0005845432082513514,0.0011438262480036178
-2019,indirekter Migrationshintergrund,weiblich,Beamte,0.0007604825607521864,42417,0.0004981419490159157,0.001022823172488457
-2019,indirekter Migrationshintergrund,maennlich,Beamte,0.000725915171627087,42417,0.0004696017515124906,0.0009822285917416836
-2019,indirekter Migrationshintergrund,maennlich,Nicht erwerbstätig: Rentner*innen,0.0006222130042517888,42417,0.0003849005751811644,0.0008595254333224133
-2019,indirekter Migrationshintergrund,maennlich,Nicht erwerbstätig: keine weitere Angaben,0.0006222130042517888,42417,0.0003849005751811644,0.0008595254333224133
-2019,kein Migrationshintergrund,maennlich,Nicht erwerbstätig: Wehr-/Zivildienst,0.0005876456151266895,42417,0.0003570154002795777,0.0008182758299738013
-2019,direkter Migrationshintergrund,maennlich,Beamte,0.0005185108368764908,42417,0.00030186397975243167,0.0007351576940005499
-2019,direkter Migrationshintergrund,weiblich,Beamte,0.00041480866950119257,42417,0.0002210237772576575,0.0006085935617447276
-2019,indirekter Migrationshintergrund,weiblich,Nicht erwerbstätig: Wehr-/Zivildienst,0.0001728369456254969,42417,4.773419636142914e-05,0.00029793969488956467
-2019,indirekter Migrationshintergrund,maennlich,Nicht erwerbstätig: Wehr-/Zivildienst,0.00010370216737529814,42417,6.794644237004011e-06,0.00020060969051359227
-2019,kein Migrationshintergrund,-3,Nicht erwerbstätig: Rentner*innen,6.913477825019876e-05,42417,-9.99125075488507e-06,0.00014826080725528258
-2019,kein Migrationshintergrund,-3,Angestellte,6.913477825019876e-05,42417,-9.99125075488507e-06,0.00014826080725528258
-2019,direkter Migrationshintergrund,weiblich,Nicht erwerbstätig: Wehr-/Zivildienst,3.456738912509938e-05,42417,-2.1384129643506885e-05,9.051890789370565e-05
-2019,kein Migrationshintergrund,-3,Selbständige,3.456738912509938e-05,42417,-2.1384129643506885e-05,9.051890789370565e-05
-2019,kein Migrationshintergrund,-3,Beamte,3.456738912509938e-05,42417,-2.1384129643506885e-05,9.051890789370565e-05
-2019,kein Migrationshintergrund,-3,Auszubildende/ Praktikant*innen,3.456738912509938e-05,42417,-2.1384129643506885e-05,9.051890789370565e-05
-2020,kein Migrationshintergrund,weiblich,Angestellte,0.1452447001609644,42741,0.14190425166414555,0.14858514865778327
-2020,kein Migrationshintergrund,maennlich,Angestellte,0.10466111853145656,42741,0.10175896662958794,0.10756327043332517
-2020,kein Migrationshintergrund,weiblich,Nicht erwerbstätig: Rentner*innen,0.08291379841775404,42741,0.0802995177155906,0.08552807911991747
-2020,kein Migrationshintergrund,maennlich,Nicht erwerbstätig: Rentner*innen,0.07716017671838077,42741,0.07463033411282535,0.07969001932393618
-2020,direkter Migrationshintergrund,maennlich,Angestellte,0.05616630706531046,42741,0.05398347962239573,0.05834913450822518
-2020,direkter Migrationshintergrund,weiblich,Angestellte,0.04339189698277338,42741,0.04146035088271365,0.04532344308283311
-2020,direkter Migrationshintergrund,weiblich,Nicht erwerbstätig: keine weitere Angaben,0.040960306859823964,42741,0.03908127725002908,0.04283933646961885
-2020,direkter Migrationshintergrund,maennlich,Arbeiter*innen,0.03931641494571732,42741,0.03747390062572344,0.04115892926571119
-2020,kein Migrationshintergrund,maennlich,Selbständige,0.03822048700297955,42741,0.03640279791089013,0.040038176095068975
-2020,kein Migrationshintergrund,maennlich,Arbeiter*innen,0.03609712661392513,42741,0.03432870145168288,0.037865551776167385
-2020,direkter Migrationshintergrund,maennlich,Nicht erwerbstätig: keine weitere Angaben,0.02510359943833693,42741,0.023620463482840658,0.026586735393833202
-2020,kein Migrationshintergrund,weiblich,Nicht erwerbstätig: keine weitere Angaben,0.021850063358334188,42741,0.020464064738768648,0.02323606197789973
-2020,direkter Migrationshintergrund,weiblich,Nicht erwerbstätig: arbeitslos gemeldet,0.021850063358334188,42741,0.020464064738768648,0.02323606197789973
-2020,direkter Migrationshintergrund,maennlich,Nicht erwerbstätig: arbeitslos gemeldet,0.021541833624439195,42741,0.020165428766827725,0.022918238482050664
-2020,kein Migrationshintergrund,weiblich,Selbständige,0.019966437206753656,42741,0.018640251036455176,0.021292623377052136
-2020,kein Migrationshintergrund,weiblich,Auszubildende/ Praktikant*innen,0.01866502277475256,42741,0.017381934213760386,0.019948111335744735
-2020,kein Migrationshintergrund,maennlich,Auszubildende/ Praktikant*innen,0.017226617349909244,42741,0.015993056924375953,0.018460177775442534
-2020,kein Migrationshintergrund,weiblich,Arbeiter*innen,0.016370423644645363,42741,0.015167385270511697,0.017573462018779032
-2020,kein Migrationshintergrund,weiblich,Beamte,0.015240247953697045,42741,0.01407881299641783,0.01640168291097626
-2020,direkter Migrationshintergrund,weiblich,Arbeiter*innen,0.014829274975170382,42741,0.013683367796863397,0.015975182153477367
-2020,kein Migrationshintergrund,maennlich,Beamte,0.013973081269906503,42741,0.012860263095057643,0.015085899444755364
-2020,direkter Migrationshintergrund,maennlich,Auszubildende/ Praktikant*innen,0.013459365046748176,42741,0.012366910171513644,0.014551819921982708
-2020,indirekter Migrationshintergrund,weiblich,Angestellte,0.013048392068221514,42741,0.01197252117029959,0.014124262966143438
-2020,kein Migrationshintergrund,weiblich,Nicht erwerbstätig: arbeitslos gemeldet,0.01181547313264153,42741,0.010791052504487898,0.012839893760795161
-2020,indirekter Migrationshintergrund,maennlich,Angestellte,0.009931846981060996,42741,0.008991731320530758,0.010871962641591234
-2020,direkter Migrationshintergrund,weiblich,Nicht erwerbstätig: Rentner*innen,0.009041405527586562,42741,0.008144019174958318,0.009938791880214806
-2020,kein Migrationshintergrund,maennlich,Nicht erwerbstätig: arbeitslos gemeldet,0.008938662282954896,42741,0.00804634302997094,0.009830981535938851
-2020,direkter Migrationshintergrund,weiblich,Auszubildende/ Praktikant*innen,0.00856193705263879,42741,0.007688457905829628,0.00943541619944795
-2020,direkter Migrationshintergrund,maennlich,Nicht erwerbstätig: Rentner*innen,0.008116716325901573,42741,0.007266059871950354,0.008967372779852791
-2020,direkter Migrationshintergrund,maennlich,Selbständige,0.00558238295832049,42741,0.004876019946232389,0.006288745970408591
-2020,indirekter Migrationshintergrund,weiblich,Auszubildende/ Praktikant*innen,0.005171409979793829,42741,0.004491404605083989,0.005851415354503668
-2020,indirekter Migrationshintergrund,maennlich,Auszubildende/ Praktikant*innen,0.004657693756635501,42741,0.004012180108689788,0.005303207404581214
-2020,kein Migrationshintergrund,maennlich,Nicht erwerbstätig: keine weitere Angaben,0.0045549505120038355,42741,0.00391656325578485,0.0051933377682228206
-2020,indirekter Migrationshintergrund,maennlich,Arbeiter*innen,0.004006986540634953,42741,0.00340806377731022,0.0046059093039596865
-2020,direkter Migrationshintergrund,weiblich,Selbständige,0.0035617658138977363,42741,0.0029969698244681655,0.004126561803327307
-2020,indirekter Migrationshintergrund,weiblich,Nicht erwerbstätig: keine weitere Angaben,0.002637076612212747,42741,0.0021508690435515275,0.0031232841808739665
-2020,indirekter Migrationshintergrund,weiblich,Nicht erwerbstätig: arbeitslos gemeldet,0.001952121648001644,42741,0.0015336530648962542,0.0023705902311070334
-2020,indirekter Migrationshintergrund,maennlich,Nicht erwerbstätig: arbeitslos gemeldet,0.0018151306551594233,42741,0.0014115845418429728,0.002218676768475874
-2020,indirekter Migrationshintergrund,maennlich,Selbständige,0.0018151306551594233,42741,0.0014115845418429728,0.002218676768475874
-2020,indirekter Migrationshintergrund,weiblich,Arbeiter*innen,0.0015069009212644268,42741,0.0011391543646845734,0.00187464747784428
-2020,indirekter Migrationshintergrund,weiblich,Selbständige,0.0012329189355799856,42741,0.0009002340251398443,0.0015656038460201268
-2020,indirekter Migrationshintergrund,weiblich,Nicht erwerbstätig: Rentner*innen,0.0009931846981060994,42741,0.0006945550192286014,0.0012918143769835976
-2020,direkter Migrationshintergrund,maennlich,Beamte,0.0008904414534744341,42741,0.0006076651755423122,0.0011732177314065558
-2020,indirekter Migrationshintergrund,maennlich,Beamte,0.0008561937052638789,42741,0.0005789039991961671,0.0011334834113315905
-2020,indirekter Migrationshintergrund,weiblich,Beamte,0.0007876982088427686,42741,0.0005217221497346387,0.0010536742679508986
-2020,kein Migrationshintergrund,weiblich,Nicht erwerbstätig: Wehr-/Zivildienst,0.0007534504606322134,42741,0.0004933162852221159,0.001013584636042311
-2020,indirekter Migrationshintergrund,maennlich,Nicht erwerbstätig: keine weitere Angaben,0.0007192027124216583,42741,0.0004650450771443232,0.0009733603476989934
-2020,direkter Migrationshintergrund,weiblich,Beamte,0.0007192027124216583,42741,0.0004650450771443232,0.0009733603476989934
-2020,indirekter Migrationshintergrund,maennlich,Nicht erwerbstätig: Rentner*innen,0.0006849549642111031,42741,0.0004369182591065603,0.0009329916693156459
-2020,kein Migrationshintergrund,maennlich,Nicht erwerbstätig: Wehr-/Zivildienst,0.00044522072673721703,42741,0.0002452231567292541,0.00064521829674518
-2020,direkter Migrationshintergrund,weiblich,Nicht erwerbstätig: Wehr-/Zivildienst,0.0002397342374738861,42741,9.296105911573151e-05,0.0003865074158320407
-2020,indirekter Migrationshintergrund,weiblich,Nicht erwerbstätig: Wehr-/Zivildienst,0.0002397342374738861,42741,9.296105911573151e-05,0.0003865074158320407
-2020,indirekter Migrationshintergrund,maennlich,Nicht erwerbstätig: Wehr-/Zivildienst,0.00020548648926333094,42741,6.959860320661463e-05,0.00034137437532004726
-2020,kein Migrationshintergrund,-3,Angestellte,0.00010274324463166547,42741,6.6510618744730214e-06,0.00019883542738885794
-2020,kein Migrationshintergrund,-3,Nicht erwerbstätig: Rentner*innen,6.849549642111031e-05,42741,-9.964785901554394e-06,0.00014695577874377502
-2020,kein Migrationshintergrund,-3,Auszubildende/ Praktikant*innen,3.424774821055516e-05,42741,-2.123299955962509e-05,8.97284959807354e-05
-2020,direkter Migrationshintergrund,maennlich,Nicht erwerbstätig: Wehr-/Zivildienst,3.424774821055516e-05,42741,-2.123299955962509e-05,8.97284959807354e-05
-2020,kein Migrationshintergrund,-3,Nicht erwerbstätig: keine weitere Angaben,3.424774821055516e-05,42741,-2.123299955962509e-05,8.97284959807354e-05
-2020,kein Migrationshintergrund,-3,Beamte,3.424774821055516e-05,42741,-2.123299955962509e-05,8.97284959807354e-05
-2021,kein Migrationshintergrund,weiblich,Angestellte,0.16161720608003308,27598,0.1572742819546384,0.16596013020542774
-2021,kein Migrationshintergrund,maennlich,Angestellte,0.11968772619170717,27598,0.11585806412615524,0.12351738825725911
-2021,kein Migrationshintergrund,weiblich,Nicht erwerbstätig: Rentner*innen,0.08990797228828457,27598,0.08653308694633395,0.09328285763023518
-2021,kein Migrationshintergrund,maennlich,Nicht erwerbstätig: Rentner*innen,0.08339365112191087,27598,0.0801317169611123,0.08665558528270943
-2021,direkter Migrationshintergrund,maennlich,Angestellte,0.04978802605728466,27598,0.04722182919460358,0.05235422291996574
-2021,direkter Migrationshintergrund,weiblich,Angestellte,0.04068865680901665,27598,0.03835770264955891,0.04301961096847439
-2021,direkter Migrationshintergrund,weiblich,Nicht erwerbstätig: keine weitere Angaben,0.040171647192637785,27598,0.037854925456128105,0.042488368929147466
-2021,kein Migrationshintergrund,maennlich,Selbständige,0.037638300072381344,27598,0.03539286019210531,0.03988373995265738
-2021,kein Migrationshintergrund,maennlich,Arbeiter*innen,0.029883155826698378,27598,0.02787432891162929,0.031891982741767466
-2021,direkter Migrationshintergrund,maennlich,Arbeiter*innen,0.029728052941784718,27598,0.02772428586496379,0.031731820018605646
-2021,kein Migrationshintergrund,weiblich,Nicht erwerbstätig: keine weitere Angaben,0.024247751008168752,27598,0.02243297604710659,0.026062525969230914
-2021,direkter Migrationshintergrund,weiblich,Nicht erwerbstätig: arbeitslos gemeldet,0.019077654844380107,27598,0.01746367883970682,0.020691630849053393
-2021,kein Migrationshintergrund,weiblich,Selbständige,0.018974252921104332,27598,0.01736457194407069,0.020583933898137976
-2021,direkter Migrationshintergrund,maennlich,Nicht erwerbstätig: keine weitere Angaben,0.0187157481129149,27598,0.017116859253247796,0.020314636972582005
-2021,kein Migrationshintergrund,weiblich,Beamte,0.0187157481129149,27598,0.017116859253247796,0.020314636972582005
-2021,kein Migrationshintergrund,maennlich,Auszubildende/ Praktikant*innen,0.018353841381449694,27598,0.016770194904480736,0.019937487858418652
-2021,kein Migrationshintergrund,weiblich,Auszubildende/ Praktikant*innen,0.01742322407196774,27598,0.0158795174232775,0.018966930720657978
-2021,direkter Migrationshintergrund,maennlich,Nicht erwerbstätig: arbeitslos gemeldet,0.016285802915934237,27598,0.014792471081957385,0.017779134749911087
-2021,kein Migrationshintergrund,maennlich,Beamte,0.015458587529728052,27598,0.014003064219325928,0.016914110840130177
-2021,kein Migrationshintergrund,weiblich,Arbeiter*innen,0.013907558680591459,27598,0.012525897576694417,0.0152892197844885
-2021,indirekter Migrationshintergrund,weiblich,Angestellte,0.013080343294385276,27598,0.011739840459342423,0.014420846129428129
-2021,kein Migrationshintergrund,weiblich,Nicht erwerbstätig: arbeitslos gemeldet,0.011632716368524455,27598,0.010367639204359957,0.012897793532688953
-2021,direkter Migrationshintergrund,maennlich,Auszubildende/ Praktikant*innen,0.011581015406886568,27598,0.010318719642205732,0.012843311171567404
-2021,direkter Migrationshintergrund,weiblich,Arbeiter*innen,0.010650398097404612,27598,0.009439311832996775,0.01186148436181245
-2021,indirekter Migrationshintergrund,maennlich,Angestellte,0.010081687519387861,27598,0.008903041044695791,0.011260333994079932
-2021,kein Migrationshintergrund,maennlich,Nicht erwerbstätig: arbeitslos gemeldet,0.009409575018095336,27598,0.008270507851417579,0.010548642184773093
-2021,direkter Migrationshintergrund,weiblich,Auszubildende/ Praktikant*innen,0.008685761555164926,27598,0.007590981467613922,0.009780541642715931
-2021,direkter Migrationshintergrund,weiblich,Nicht erwerbstätig: Rentner*innen,0.00847895770861338,27598,0.007397176412118526,0.009560739005108235
-2021,direkter Migrationshintergrund,maennlich,Nicht erwerbstätig: Rentner*innen,0.008272153862061834,27598,0.007203535033686258,0.00934077269043741
-2021,kein Migrationshintergrund,maennlich,Nicht erwerbstätig: keine weitere Angaben,0.006617723089649467,27598,0.0056611244360893305,0.007574321743209604
-2021,direkter Migrationshintergrund,maennlich,Selbständige,0.0050666942405128736,27598,0.004229017225128063,0.005904371255897684
-2021,indirekter Migrationshintergrund,maennlich,Auszubildende/ Praktikant*innen,0.003877572122841485,27598,0.0031443195970658412,0.004610824648617128
-2021,indirekter Migrationshintergrund,weiblich,Auszubildende/ Praktikant*innen,0.003774170199565712,27598,0.0030507228903403107,0.004497617508791113
-2021,direkter Migrationshintergrund,weiblich,Selbständige,0.0034639644297383932,27598,0.002770777313888707,0.0041571515455880795
-2021,indirekter Migrationshintergrund,weiblich,Nicht erwerbstätig: keine weitere Angaben,0.00263674904353221,27598,0.002031717042391067,0.0032417810446733527
-2021,indirekter Migrationshintergrund,maennlich,Arbeiter*innen,0.0023782442353427772,27598,0.0018035611055467913,0.002952927365138763
-2021,indirekter Migrationshintergrund,weiblich,Nicht erwerbstätig: arbeitslos gemeldet,0.0018095336573260262,27598,0.001308107128045364,0.0023109601866066884
-2021,direkter Migrationshintergrund,maennlich,Beamte,0.001551028849136594,27598,0.0010867379819448216,0.002015319716328366
-2021,indirekter Migrationshintergrund,weiblich,Selbständige,0.001447626925860821,27598,0.0009990561083428047,0.0018961977433788373
-2021,indirekter Migrationshintergrund,maennlich,Selbständige,0.001447626925860821,27598,0.0009990561083428047,0.0018961977433788373
-2021,indirekter Migrationshintergrund,maennlich,Nicht erwerbstätig: arbeitslos gemeldet,0.0013442250025850482,27598,0.000911948967289227,0.0017765010378808692
-2021,indirekter Migrationshintergrund,maennlich,Nicht erwerbstätig: keine weitere Angaben,0.0011891221176713886,27598,0.0007825176684913393,0.001595726566851438
-2021,indirekter Migrationshintergrund,maennlich,Beamte,0.0010857201943956158,27598,0.0006971760798689616,0.00147426430892227
-2021,indirekter Migrationshintergrund,weiblich,Arbeiter*innen,0.0010857201943956158,27598,0.0006971760798689616,0.00147426430892227
-2021,direkter Migrationshintergrund,weiblich,Beamte,0.0010340192327577293,27598,0.0006548291905293677,0.0014132092749860909
-2021,indirekter Migrationshintergrund,maennlich,Nicht erwerbstätig: Rentner*innen,0.0009306173094819563,27598,0.000570867432411462,0.0012903671865524507
-2021,indirekter Migrationshintergrund,weiblich,Nicht erwerbstätig: Rentner*innen,0.0008789163478440699,27598,0.0005292932639558918,0.001228539431732248
-2021,indirekter Migrationshintergrund,weiblich,Beamte,0.0008272153862061834,27598,0.00048802239781974265,0.0011664083745926241
-2021,kein Migrationshintergrund,weiblich,Nicht erwerbstätig: Wehr-/Zivildienst,0.0005170096163788646,27598,0.00024881239105282966,0.0007852068417048997
-2021,direkter Migrationshintergrund,weiblich,Nicht erwerbstätig: Wehr-/Zivildienst,0.0004136076931030917,27598,0.00017371239395017187,0.0006535029922560115
-2021,indirekter Migrationshintergrund,weiblich,Nicht erwerbstätig: Wehr-/Zivildienst,0.0002585048081894323,27598,6.88362084192156e-05,0.00044817340795964903
-2021,direkter Migrationshintergrund,maennlich,Nicht erwerbstätig: Wehr-/Zivildienst,0.00020680384655154586,27598,3.7154707162522866e-05,0.00037645298594056887
-2021,kein Migrationshintergrund,maennlich,Nicht erwerbstätig: Wehr-/Zivildienst,0.00020680384655154586,27598,3.7154707162522866e-05,0.00037645298594056887
-2021,kein Migrationshintergrund,-3,Angestellte,0.00010340192327577293,27598,-1.6564336781455235e-05,0.0002233681833330011
-2021,kein Migrationshintergrund,-3,Nicht erwerbstätig: Rentner*innen,5.1700961637886464e-05,27598,-3.313018742989027e-05,0.0001365321107056632
-2021,indirekter Migrationshintergrund,maennlich,Nicht erwerbstätig: Wehr-/Zivildienst,5.1700961637886464e-05,27598,-3.313018742989027e-05,0.0001365321107056632
-2021,kein Migrationshintergrund,-3,Nicht erwerbstätig: arbeitslos gemeldet,5.1700961637886464e-05,27598,-3.313018742989027e-05,0.0001365321107056632
-2021,kein Migrationshintergrund,-3,Auszubildende/ Praktikant*innen,5.1700961637886464e-05,27598,-3.313018742989027e-05,0.0001365321107056632
-2021,kein Migrationshintergrund,-3,Selbständige,5.1700961637886464e-05,27598,-3.313018742989027e-05,0.0001365321107056632
-2021,kein Migrationshintergrund,-3,Nicht erwerbstätig: keine weitere Angaben,5.1700961637886464e-05,27598,-3.313018742989027e-05,0.0001365321107056632
+2019,kein Migrationshintergrund,weiblich,Angestellte,0.15683562685844685,42417,0.15337492184064372,0.16029633187624998
+2019,kein Migrationshintergrund,maennlich,Angestellte,0.11140308415738884,42417,0.10840884073160337,0.11439732758317431
+2019,kein Migrationshintergrund,weiblich,Nicht erwerbstätig: Rentner*innen,0.087096328054768,42417,0.0844128472283543,0.08977980888118169
+2019,kein Migrationshintergrund,maennlich,Nicht erwerbstätig: Rentner*innen,0.08267063135329507,42417,0.08004988872519776,0.08529137398139237
+2019,kein Migrationshintergrund,maennlich,Selbständige,0.05303920890671461,42417,0.05090640653810747,0.05517201127532175
+2019,kein Migrationshintergrund,maennlich,Arbeiter*innen,0.03990042182421686,42417,0.038037764434542,0.04176307921389172
+2019,direkter Migrationshintergrund,maennlich,Angestellte,0.034057119148053386,42417,0.03233101985722589,0.03578321843888088
+2019,direkter Migrationshintergrund,weiblich,Angestellte,0.03243205864048129,42417,0.030746227428497298,0.03411788985246529
+2019,direkter Migrationshintergrund,weiblich,Nicht erwerbstätig: keine weitere Angaben,0.03205172533019846,42417,0.030375478853704906,0.033727971806692014
+2019,direkter Migrationshintergrund,maennlich,Arbeiter*innen,0.028697877048613513,42417,0.02710900783159648,0.030286746265630545
+2019,direkter Migrationshintergrund,weiblich,Nicht erwerbstätig: arbeitslos gemeldet,0.026554180208837562,42417,0.025024120291665924,0.0280842401260092
+2019,direkter Migrationshintergrund,maennlich,Nicht erwerbstätig: arbeitslos gemeldet,0.02596639236567319,42417,0.024452904737242195,0.027479879994104187
+2019,kein Migrationshintergrund,weiblich,Selbständige,0.024514210635502385,42417,0.023042557273226776,0.025985863997777994
+2019,kein Migrationshintergrund,weiblich,Nicht erwerbstätig: keine weitere Angaben,0.023684392503976213,42417,0.022237246540276756,0.02513153846767567
+2019,kein Migrationshintergrund,weiblich,Auszubildende/ Praktikant*innen,0.0195698776018256,42417,0.01825165584755968,0.020888099356091518
+2019,kein Migrationshintergrund,weiblich,Arbeiter*innen,0.01891293824770071,42417,0.01761659690038765,0.02020927959501377
+2019,kein Migrationshintergrund,maennlich,Auszubildende/ Praktikant*innen,0.01891293824770071,42417,0.01761659690038765,0.02020927959501377
+2019,direkter Migrationshintergrund,maennlich,Nicht erwerbstätig: keine weitere Angaben,0.015489938455155245,42417,0.014314713452701244,0.016665163457609246
+2019,kein Migrationshintergrund,weiblich,Beamte,0.015247908166793445,42417,0.014081757441816917,0.016414058891769973
+2019,kein Migrationshintergrund,maennlich,Beamte,0.014832999101030357,42417,0.013682581519993138,0.015983416682067576
+2019,indirekter Migrationshintergrund,weiblich,Angestellte,0.013277090104418781,42417,0.012187821079473615,0.014366359129363947
+2019,kein Migrationshintergrund,weiblich,Nicht erwerbstätig: arbeitslos gemeldet,0.012239817440011064,42417,0.011193413600340634,0.013286221279681494
+2019,direkter Migrationshintergrund,weiblich,Arbeiter*innen,0.012066938662609779,42417,0.011027860042261153,0.013106017282958404
+2019,indirekter Migrationshintergrund,maennlich,Angestellte,0.009992393333794343,42417,0.009045850824383965,0.010938935843204722
+2019,kein Migrationshintergrund,maennlich,Nicht erwerbstätig: arbeitslos gemeldet,0.0097849388009128,42417,0.008848175393880605,0.010721702207944994
+2019,direkter Migrationshintergrund,weiblich,Nicht erwerbstätig: Rentner*innen,0.009300878224189199,42417,0.008387356320721276,0.010214400127657121
+2019,direkter Migrationshintergrund,maennlich,Auszubildende/ Praktikant*innen,0.009058847935827398,42417,0.008157180233270337,0.00996051563838446
+2019,direkter Migrationshintergrund,maennlich,Nicht erwerbstätig: Rentner*innen,0.00815987829334071,42417,0.007303730437217341,0.00901602614946408
+2019,direkter Migrationshintergrund,maennlich,Selbständige,0.006050757209045018,42417,0.005312728826686646,0.006788785591403389
+2019,direkter Migrationshintergrund,weiblich,Auszubildende/ Praktikant*innen,0.005290090588479358,42417,0.004599746081577744,0.005980435095380972
+2019,indirekter Migrationshintergrund,maennlich,Auszubildende/ Praktikant*innen,0.005290090588479358,42417,0.004599746081577744,0.005980435095380972
+2019,kein Migrationshintergrund,maennlich,Nicht erwerbstätig: keine weitere Angaben,0.004978908789157043,42417,0.004309071492990559,0.005648746085323527
+2019,indirekter Migrationshintergrund,weiblich,Auszubildende/ Praktikant*innen,0.004944333033676786,42417,0.0042768140159967485,0.005611852051356823
+2019,direkter Migrationshintergrund,weiblich,Selbständige,0.004563999723393956,42417,0.003922545641640302,0.00520545380514761
+2019,indirekter Migrationshintergrund,maennlich,Arbeiter*innen,0.0037687573473480394,42417,0.003185627510306829,0.00435188718438925
+2019,indirekter Migrationshintergrund,weiblich,Nicht erwerbstätig: keine weitere Angaben,0.0033192725261046952,42417,0.0027718967390687214,0.003866648313140669
+2019,indirekter Migrationshintergrund,maennlich,Selbständige,0.002662333171979808,42417,0.0021719467811009115,0.003152719562858704
+2019,indirekter Migrationshintergrund,weiblich,Nicht erwerbstätig: arbeitslos gemeldet,0.0018670907959338911,42417,0.0014562599883831977,0.002277921603484585
+2019,indirekter Migrationshintergrund,weiblich,Selbständige,0.0017633635294931195,42417,0.001364087005151448,0.0021626400538347908
+2019,indirekter Migrationshintergrund,weiblich,Arbeiter*innen,0.001694212018532605,42417,0.0013028291874363014,0.0020855948496289085
+2019,indirekter Migrationshintergrund,maennlich,Nicht erwerbstätig: arbeitslos gemeldet,0.0016250605075720905,42417,0.0012417350167829118,0.002008385998361269
+2019,indirekter Migrationshintergrund,weiblich,Nicht erwerbstätig: Rentner*innen,0.00100269690892746,42417,0.0007014982091797608,0.0013038956086751591
+2019,kein Migrationshintergrund,weiblich,Nicht erwerbstätig: Wehr-/Zivildienst,0.0008643938870064311,42417,0.0005847185575924231,0.001144069216420439
+2019,indirekter Migrationshintergrund,weiblich,Beamte,0.0007606666205656593,42417,0.000498294287727629,0.0010230389534036897
+2019,indirekter Migrationshintergrund,maennlich,Beamte,0.0007260908650854022,42417,0.00046974645157728,0.0009824352785935244
+2019,indirekter Migrationshintergrund,maennlich,Nicht erwerbstätig: Rentner*innen,0.0006223635986446304,42417,0.00038502247079590644,0.0008597047264933544
+2019,indirekter Migrationshintergrund,maennlich,Nicht erwerbstätig: keine weitere Angaben,0.0006223635986446304,42417,0.00038502247079590644,0.0008597047264933544
+2019,kein Migrationshintergrund,maennlich,Nicht erwerbstätig: Wehr-/Zivildienst,0.0005877878431643732,42417,0.00035712973666977745,0.0008184459496589689
+2019,direkter Migrationshintergrund,maennlich,Beamte,0.0005186363322038587,42417,0.00030196327271809955,0.0007353093916896178
+2019,direkter Migrationshintergrund,weiblich,Beamte,0.0004149090657630869,42417,0.0002211007337645167,0.0006087173977616571
+2019,indirekter Migrationshintergrund,weiblich,Nicht erwerbstätig: Wehr-/Zivildienst,0.00017287877740128623,42417,4.7760892343316064e-05,0.0002979966624592564
+2019,indirekter Migrationshintergrund,maennlich,Nicht erwerbstätig: Wehr-/Zivildienst,0.00010372726644077173,42417,6.808017950513519e-06,0.00020064651493102993
+2019,direkter Migrationshintergrund,weiblich,Nicht erwerbstätig: Wehr-/Zivildienst,3.4575755480257244e-05,42417,-2.1382533625722338e-05,9.053404458623683e-05
+2020,kein Migrationshintergrund,weiblich,Angestellte,0.14528450549827002,42741,0.1419436770887414,0.14862533390779864
+2020,kein Migrationshintergrund,maennlich,Angestellte,0.10468980165119386,42741,0.10178729859242251,0.10759230470996521
+2020,kein Migrationshintergrund,weiblich,Nicht erwerbstätig: Rentner*innen,0.08293652153060875,42741,0.08032191501425004,0.08555112804696746
+2020,kein Migrationshintergrund,maennlich,Nicht erwerbstätig: Rentner*innen,0.07718132301051694,42741,0.07465116275709134,0.07971148326394255
+2020,direkter Migrationshintergrund,maennlich,Angestellte,0.05618169983899147,42741,0.053998591109052946,0.05836480856892999
+2020,direkter Migrationshintergrund,weiblich,Angestellte,0.04340378883902573,42741,0.04147199008763353,0.045335587590417926
+2020,direkter Migrationshintergrund,weiblich,Nicht erwerbstätig: keine weitere Angaben,0.040971532321605976,42741,0.039092256247236806,0.042850808395975146
+2020,direkter Migrationshintergrund,maennlich,Arbeiter*innen,0.03932718988729403,42741,0.03748443344173894,0.041169946332849115
+2020,kein Migrationshintergrund,maennlich,Selbständige,0.03823096159775273,42741,0.0364130333469219,0.04004888984858356
+2020,kein Migrationshintergrund,maennlich,Arbeiter*innen,0.03610701928676647,42741,0.03433836089247999,0.03787567768105295
+2020,direkter Migrationshintergrund,maennlich,Nicht erwerbstätig: keine weitere Angaben,0.025110479257305335,42741,0.023627145317735028,0.02659381319687564
+2020,direkter Migrationshintergrund,weiblich,Nicht erwerbstätig: arbeitslos gemeldet,0.021856051522729607,42741,0.020469867237892923,0.02324223580756629
+2020,kein Migrationshintergrund,weiblich,Nicht erwerbstätig: keine weitere Angaben,0.021856051522729607,42741,0.020469867237892923,0.02324223580756629
+2020,direkter Migrationshintergrund,maennlich,Nicht erwerbstätig: arbeitslos gemeldet,0.02154773731629612,42741,0.02017114801782257,0.022924326614769668
+2020,kein Migrationshintergrund,weiblich,Selbständige,0.019971909150080503,42741,0.018645544969724044,0.021298273330436962
+2020,kein Migrationshintergrund,weiblich,Auszubildende/ Praktikant*innen,0.018670138056250216,42741,0.01738687703211504,0.019953399080385393
+2020,kein Migrationshintergrund,maennlich,Auszubildende/ Praktikant*innen,0.01723133842622726,42741,0.015997611942610998,0.018465064909843523
+2020,kein Migrationshintergrund,weiblich,Arbeiter*innen,0.016374910075023123,42741,0.015171709605561834,0.017578110544484413
+2020,kein Migrationshintergrund,weiblich,Beamte,0.015244424651433662,42741,0.014082833018683382,0.01640601628418394
+2020,direkter Migrationshintergrund,weiblich,Arbeiter*innen,0.014833339042855675,42741,0.013687277217220729,0.01597940086849062
+2020,kein Migrationshintergrund,maennlich,Beamte,0.013976910691651537,42741,0.01286394220062124,0.015089879182681834
+2020,direkter Migrationshintergrund,maennlich,Auszubildende/ Praktikant*innen,0.013463053680929054,42741,0.012370451161060416,0.014555656200797691
+2020,indirekter Migrationshintergrund,weiblich,Angestellte,0.013051968072351067,42741,0.011975951708874931,0.014127984435827202
+2020,kein Migrationshintergrund,weiblich,Nicht erwerbstätig: arbeitslos gemeldet,0.011818711246617108,42741,0.010794151931878852,0.012843270561355364
+2020,indirekter Migrationshintergrund,maennlich,Angestellte,0.009934568873968003,42741,0.008994325692049707,0.0108748120558863
+2020,direkter Migrationshintergrund,weiblich,Nicht erwerbstätig: Rentner*innen,0.0090438833887157,42741,0.008146375199070785,0.009941391578360614
+2020,kein Migrationshintergrund,maennlich,Nicht erwerbstätig: arbeitslos gemeldet,0.008941111986571203,42741,0.00804867157173085,0.009833552401411556
+2020,direkter Migrationshintergrund,weiblich,Auszubildende/ Praktikant*innen,0.008564283512041382,42741,0.0076906857156466895,0.009437881308436074
+2020,direkter Migrationshintergrund,maennlich,Nicht erwerbstätig: Rentner*innen,0.008118940769415231,42741,0.007268168713232607,0.008969712825597855
+2020,direkter Migrationshintergrund,maennlich,Selbständige,0.005583912849850981,42741,0.0048774535959413435,0.006290372103760619
+2020,indirekter Migrationshintergrund,weiblich,Auszubildende/ Praktikant*innen,0.005172827241272995,42741,0.004492729177249519,0.005852925305296471
+2020,indirekter Migrationshintergrund,maennlich,Auszubildende/ Praktikant*innen,0.004658970230550512,42741,0.004013368548849465,0.005304571912251559
+2020,kein Migrationshintergrund,maennlich,Nicht erwerbstätig: keine weitere Angaben,0.004556198828406016,42741,0.0039177245012412655,0.005194673155570766
+2020,indirekter Migrationshintergrund,maennlich,Arbeiter*innen,0.004008084683635367,42741,0.003409080186643001,0.004607089180627733
+2020,direkter Migrationshintergrund,weiblich,Selbständige,0.0035627419410092153,42741,0.0029978688403934197,0.004127615041625011
+2020,indirekter Migrationshintergrund,weiblich,Nicht erwerbstätig: keine weitere Angaben,0.0026377993217087457,42741,0.0021515253094823218,0.0031240733339351697
+2020,indirekter Migrationshintergrund,weiblich,Nicht erwerbstätig: arbeitslos gemeldet,0.0019526566407454353,42741,0.0015341308316040325,0.002371182449886838
+2020,indirekter Migrationshintergrund,maennlich,Nicht erwerbstätig: arbeitslos gemeldet,0.001815628104552773,42741,0.0014120267982594605,0.0022192294108460855
+2020,indirekter Migrationshintergrund,maennlich,Selbständige,0.001815628104552773,42741,0.0014120267982594605,0.0022192294108460855
+2020,indirekter Migrationshintergrund,weiblich,Arbeiter*innen,0.0015073138981192833,42741,0.0011395170292796105,0.0018751107669589561
+2020,indirekter Migrationshintergrund,weiblich,Selbständige,0.0012332568257339591,42741,0.0009005263873730568,0.0015659872640948615
+2020,indirekter Migrationshintergrund,weiblich,Nicht erwerbstätig: Rentner*innen,0.0009934568873968003,42741,0.0006947863312226979,0.0012921274435709028
+2020,direkter Migrationshintergrund,maennlich,Beamte,0.0008906854852523038,42741,0.0006078704960938861,0.0011735004744107217
+2020,indirekter Migrationshintergrund,maennlich,Beamte,0.0008564283512041383,42741,0.0005791006837016486,0.001133756018706628
+2020,indirekter Migrationshintergrund,weiblich,Beamte,0.0007879140831078072,42741,0.0005219016089216487,0.0010539265572939657
+2020,kein Migrationshintergrund,weiblich,Nicht erwerbstätig: Wehr-/Zivildienst,0.0007536569490596416,42741,0.0004934871571674692,0.001013826740951814
+2020,indirekter Migrationshintergrund,maennlich,Nicht erwerbstätig: keine weitere Angaben,0.0007193998150114762,42741,0.00046520738034025303,0.0009735922496826993
+2020,direkter Migrationshintergrund,weiblich,Beamte,0.0007193998150114762,42741,0.00046520738034025303,0.0009735922496826993
+2020,indirekter Migrationshintergrund,maennlich,Nicht erwerbstätig: Rentner*innen,0.0006851426809633106,42741,0.00043707201337996895,0.0009332133485466523
+2020,kein Migrationshintergrund,maennlich,Nicht erwerbstätig: Wehr-/Zivildienst,0.0004453427426261519,42741,0.00024531778132987894,0.0006453677039224249
+2020,indirekter Migrationshintergrund,weiblich,Nicht erwerbstätig: Wehr-/Zivildienst,0.00023979993833715872,42741,9.300665406637864e-05,0.00038659322260793877
+2020,direkter Migrationshintergrund,weiblich,Nicht erwerbstätig: Wehr-/Zivildienst,0.00023979993833715872,42741,9.300665406637864e-05,0.00038659322260793877
+2020,indirekter Migrationshintergrund,maennlich,Nicht erwerbstätig: Wehr-/Zivildienst,0.00020554280428899317,42741,6.963630281733632e-05,0.00034144930576065005
+2020,direkter Migrationshintergrund,maennlich,Nicht erwerbstätig: Wehr-/Zivildienst,3.425713404816553e-05,42741,-2.1231215386452672e-05,8.974548348278375e-05
+2021,kein Migrationshintergrund,weiblich,Angestellte,0.1616757176105508,27598,0.15733215898351902,0.16601927623758259
+2021,kein Migrationshintergrund,maennlich,Angestellte,0.11973105766744246,27598,0.11590079669514881,0.12356131863973611
+2021,kein Migrationshintergrund,weiblich,Nicht erwerbstätig: Rentner*innen,0.08994052236876131,27598,0.08656508652817345,0.09331595820934917
+2021,kein Migrationshintergrund,maennlich,Nicht erwerbstätig: Rentner*innen,0.08342384277217481,27598,0.0801613719249458,0.08668631361940382
+2021,direkter Migrationshintergrund,maennlich,Angestellte,0.04980605120248254,27598,0.04723941419615283,0.05237268820881225
+2021,direkter Migrationshintergrund,weiblich,Angestellte,0.04070338763899664,27598,0.03837202947095906,0.04303474580703422
+2021,direkter Migrationshintergrund,weiblich,Nicht erwerbstätig: keine weitere Angaben,0.040186190845616754,27598,0.03786906733181866,0.042503314359414845
+2021,kein Migrationshintergrund,maennlich,Selbständige,0.03765192655805534,27598,0.03540609614755412,0.03989775696855656
+2021,kein Migrationshintergrund,maennlich,Arbeiter*innen,0.029893974657357124,27598,0.027884795342969195,0.031903153971745056
+2021,direkter Migrationshintergrund,maennlich,Arbeiter*innen,0.02973881561934316,27598,0.027734696971047874,0.03174293426763845
+2021,kein Migrationshintergrund,weiblich,Nicht erwerbstätig: keine weitere Angaben,0.024256529609516422,27598,0.022441434334691746,0.0260716248843411
+2021,direkter Migrationshintergrund,weiblich,Nicht erwerbstätig: arbeitslos gemeldet,0.01908456167571761,27598,0.01747029922052807,0.02069882413090715
+2021,kein Migrationshintergrund,weiblich,Selbständige,0.018981122317041636,27598,0.017371155620463354,0.020591089013619918
+2021,direkter Migrationshintergrund,maennlich,Nicht erwerbstätig: keine weitere Angaben,0.018722523920351695,27598,0.01712335117901381,0.020321696661689582
+2021,kein Migrationshintergrund,weiblich,Beamte,0.018722523920351695,27598,0.01712335117901381,0.020321696661689582
+2021,kein Migrationshintergrund,maennlich,Auszubildende/ Praktikant*innen,0.018360486164985777,27598,0.01677655840489796,0.019944413925073595
+2021,kein Migrationshintergrund,weiblich,Auszubildende/ Praktikant*innen,0.01742953193690199,27598,0.015885550829438943,0.01897351304436504
+2021,direkter Migrationshintergrund,maennlich,Nicht erwerbstätig: arbeitslos gemeldet,0.016291698991466253,27598,0.014798101336797957,0.01778529664613455
+2021,kein Migrationshintergrund,maennlich,Beamte,0.015464184122058444,27598,0.014008401495994255,0.016919966748122635
+2021,kein Migrationshintergrund,weiblich,Arbeiter*innen,0.0139125937419188,27598,0.012530686081987461,0.015294501401850139
+2021,indirekter Migrationshintergrund,weiblich,Angestellte,0.01308507887251099,27598,0.011744336619789684,0.014425821125232297
+2021,kein Migrationshintergrund,weiblich,Nicht erwerbstätig: arbeitslos gemeldet,0.011636927851047323,27598,0.010371624400526872,0.012902231301567774
+2021,direkter Migrationshintergrund,maennlich,Auszubildende/ Praktikant*innen,0.011585208171709336,27598,0.010322686606090939,0.012847729737327732
+2021,direkter Migrationshintergrund,weiblich,Arbeiter*innen,0.01065425394362555,27598,0.009442950830025878,0.011865557057225222
+2021,indirekter Migrationshintergrund,maennlich,Angestellte,0.01008533747090768,27598,0.008906479831564056,0.011264195110251306
+2021,kein Migrationshintergrund,maennlich,Nicht erwerbstätig: arbeitslos gemeldet,0.009412981639513835,27598,0.008273710257806202,0.010552253021221468
+2021,direkter Migrationshintergrund,weiblich,Auszubildende/ Praktikant*innen,0.008688906128782002,27598,0.007593929620007609,0.009783882637556396
+2021,direkter Migrationshintergrund,weiblich,Nicht erwerbstätig: Rentner*innen,0.00848202741143005,27598,0.0074000519846961835,0.009564002838163915
+2021,direkter Migrationshintergrund,maennlich,Nicht erwerbstätig: Rentner*innen,0.008275148694078097,27598,0.007206338056833977,0.009343959331322215
+2021,kein Migrationshintergrund,maennlich,Nicht erwerbstätig: keine weitere Angaben,0.006620118955262477,27598,0.005663348308742122,0.007576889601782833
+2021,direkter Migrationshintergrund,maennlich,Selbständige,0.005068528575122834,27598,0.004230700710449395,0.005906356439796273
+2021,indirekter Migrationshintergrund,maennlich,Auszubildende/ Praktikant*innen,0.003878975950349108,27598,0.003145591220812778,0.004612360679885437
+2021,indirekter Migrationshintergrund,weiblich,Auszubildende/ Praktikant*innen,0.003775536591673132,27598,0.0030519588328972993,0.004499114350448964
+2021,direkter Migrationshintergrund,weiblich,Selbständige,0.003465218515645203,27598,0.002771906367444902,0.004158530663845504
+2021,indirekter Migrationshintergrund,weiblich,Nicht erwerbstätig: keine weitere Angaben,0.0026377036462373934,27598,0.002032562422391973,0.003242844870082814
+2021,indirekter Migrationshintergrund,maennlich,Arbeiter*innen,0.002379105249547453,27598,0.0018043183487100475,0.0029538921503848583
+2021,indirekter Migrationshintergrund,weiblich,Nicht erwerbstätig: arbeitslos gemeldet,0.0018101887768295836,27598,0.0013086716526699035,0.002311705900989264
+2021,direkter Migrationshintergrund,maennlich,Beamte,0.0015515903801396431,27598,0.001087215605724709,0.0020159651545545772
+2021,indirekter Migrationshintergrund,weiblich,Selbständige,0.001448151021463667,27598,0.000999499129246449,0.0018968029136808848
+2021,indirekter Migrationshintergrund,maennlich,Selbständige,0.001448151021463667,27598,0.000999499129246449,0.0018968029136808848
+2021,indirekter Migrationshintergrund,maennlich,Nicht erwerbstätig: arbeitslos gemeldet,0.0013447116627876908,27598,0.0009123574897966366,0.001777065835778745
+2021,indirekter Migrationshintergrund,maennlich,Nicht erwerbstätig: keine weitere Angaben,0.0011895526247737264,27598,0.0007828746668163149,0.001596230582731138
+2021,indirekter Migrationshintergrund,maennlich,Beamte,0.0010861132660977503,27598,0.000697498900575968,0.0014747276316195326
+2021,indirekter Migrationshintergrund,weiblich,Arbeiter*innen,0.0010861132660977503,27598,0.000697498900575968,0.0014747276316195326
+2021,direkter Migrationshintergrund,weiblich,Beamte,0.001034393586759762,27598,0.0006551349812490094,0.0014136521922705147
+2021,indirekter Migrationshintergrund,maennlich,Nicht erwerbstätig: Rentner*innen,0.0009309542280837859,27598,0.0005711392960579915,0.0012907691601095803
+2021,indirekter Migrationshintergrund,weiblich,Nicht erwerbstätig: Rentner*innen,0.0008792345487457978,27598,0.0005295482378907258,0.0012289208596008698
+2021,indirekter Migrationshintergrund,weiblich,Beamte,0.0008275148694078096,27598,0.00048826053708615324,0.001166769201729466
+2021,kein Migrationshintergrund,weiblich,Nicht erwerbstätig: Wehr-/Zivildienst,0.000517196793379881,27598,0.00024895104880415237,0.0007854425379556097
+2021,direkter Migrationshintergrund,weiblich,Nicht erwerbstätig: Wehr-/Zivildienst,0.0004137574347039048,27598,0.00017381873187472237,0.0006536961375330873
+2021,indirekter Migrationshintergrund,weiblich,Nicht erwerbstätig: Wehr-/Zivildienst,0.0002585983966899405,27598,6.889547530891587e-05,0.0004483013180709652
+2021,kein Migrationshintergrund,maennlich,Nicht erwerbstätig: Wehr-/Zivildienst,0.0002068787173519524,27598,3.719887739847872e-05,0.00037655855730542613
+2021,direkter Migrationshintergrund,maennlich,Nicht erwerbstätig: Wehr-/Zivildienst,0.0002068787173519524,27598,3.719887739847872e-05,0.00037655855730542613
+2021,indirekter Migrationshintergrund,maennlich,Nicht erwerbstätig: Wehr-/Zivildienst,5.17196793379881e-05,27598,-3.312682358546369e-05,0.0001365661822614399

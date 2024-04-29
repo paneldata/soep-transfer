@@ -1,5 +1,4 @@
-year,regtyp,sampreg,mean,mean_lower_confidence,mean_upper_confidence,lower_quartile,boxplot_median,upper_quartile,lower_whisker,upper_whisker,median,median_lower_confidence,median_upper_confidence,n
-1984,-1,Westdeutschland,,,,,,,,,,,,
+year,regtyp,sampreg,n,mean,mean_lower_confidence,mean_upper_confidence,lower_quartile,boxplot_median,upper_quartile,lower_whisker,upper_whisker,median,median_lower_confidence,median_upper_confidence
 1985,Staedtischer Raum,Westdeutschland,,,,,,,,,,,,
 1985,Laendlicher Raum,Westdeutschland,,,,,,,,,,,,
 1986,Staedtischer Raum,Westdeutschland,,,,,,,,,,,,
@@ -10,19 +9,14 @@ year,regtyp,sampreg,mean,mean_lower_confidence,mean_upper_confidence,lower_quart
 1988,Laendlicher Raum,Westdeutschland,,,,,,,,,,,,
 1989,Staedtischer Raum,Westdeutschland,,,,,,,,,,,,
 1989,Laendlicher Raum,Westdeutschland,,,,,,,,,,,,
-1990,-1,Ostdeutschland,,,,,,,,,,,,
 1990,Staedtischer Raum,Westdeutschland,,,,,,,,,,,,
 1990,Staedtischer Raum,Ostdeutschland,,,,,,,,,,,,
 1990,Laendlicher Raum,Westdeutschland,,,,,,,,,,,,
 1990,Laendlicher Raum,Ostdeutschland,,,,,,,,,,,,
-1991,-1,Westdeutschland,,,,,,,,,,,,
-1991,-1,Ostdeutschland,,,,,,,,,,,,
 1991,Staedtischer Raum,Westdeutschland,,,,,,,,,,,,
 1991,Staedtischer Raum,Ostdeutschland,,,,,,,,,,,,
 1991,Laendlicher Raum,Westdeutschland,,,,,,,,,,,,
 1991,Laendlicher Raum,Ostdeutschland,,,,,,,,,,,,
-1992,-1,Westdeutschland,,,,,,,,,,,,
-1992,-1,Ostdeutschland,,,,,,,,,,,,
 1992,Staedtischer Raum,Westdeutschland,,,,,,,,,,,,
 1992,Staedtischer Raum,Ostdeutschland,,,,,,,,,,,,
 1992,Laendlicher Raum,Westdeutschland,,,,,,,,,,,,
@@ -43,7 +37,6 @@ year,regtyp,sampreg,mean,mean_lower_confidence,mean_upper_confidence,lower_quart
 1996,Staedtischer Raum,Ostdeutschland,,,,,,,,,,,,
 1996,Laendlicher Raum,Westdeutschland,,,,,,,,,,,,
 1996,Laendlicher Raum,Ostdeutschland,,,,,,,,,,,,
-1997,-1,Westdeutschland,,,,,,,,,,,,
 1997,Staedtischer Raum,Westdeutschland,,,,,,,,,,,,
 1997,Staedtischer Raum,Ostdeutschland,,,,,,,,,,,,
 1997,Laendlicher Raum,Westdeutschland,,,,,,,,,,,,
@@ -76,10 +69,10 @@ year,regtyp,sampreg,mean,mean_lower_confidence,mean_upper_confidence,lower_quart
 2004,Staedtischer Raum,Ostdeutschland,,,,,,,,,,,,
 2004,Laendlicher Raum,Westdeutschland,,,,,,,,,,,,
 2004,Laendlicher Raum,Ostdeutschland,,,,,,,,,,,,
-2005,Staedtischer Raum,Westdeutschland,3.172901749107219,3.157479228390977,3.1883242698234606,2.0,3.0,4.0,1.0,7.0,3.0,3.0,3.0,11749.0
-2005,Staedtischer Raum,Ostdeutschland,3.1172091594338305,3.077625661259632,3.1567926576080287,2.0,3.0,4.0,1.0,7.0,3.0,3.0,3.0,1680.0
-2005,Laendlicher Raum,Westdeutschland,3.1872898165068357,3.158713135330339,3.2158664976833324,2.0,3.0,4.0,1.0,7.0,3.0,3.0,3.0,3501.0
-2005,Laendlicher Raum,Ostdeutschland,3.353016240695321,3.3239570590196434,3.382075422370998,2.0,3.0,4.0,1.0,7.0,3.0,3.0,3.0,3260.0
+2005,Staedtischer Raum,Westdeutschland,11749,3.1729017491072184,3.1574792283909767,3.18832426982346,2.6784297685771308,2.7318782491140308,3.0,2.1960744214428267,3.4823553471343036,3.0,3.0,3.0
+2005,Staedtischer Raum,Ostdeutschland,1680,3.1172091594338305,3.077625661259632,3.1567926576080287,3.4384331166790476,6.842151602275521,2.8151158862417915,7.0,1.0,3.0,3.0,3.0
+2005,Laendlicher Raum,Westdeutschland,3501,3.187289816506835,3.158713135330338,3.2158664976833315,1.1228683857028798,3.0,3.749560095329043,1.0,5.0,3.0,3.0,3.0
+2005,Laendlicher Raum,Ostdeutschland,3260,3.3530162406953203,3.323957059019643,3.3820754223709977,2.2170318619818947,4.760775513762264,3.5083498350918845,7.0,1.0,3.0,3.0,3.0
 2006,Staedtischer Raum,Westdeutschland,,,,,,,,,,,,
 2006,Staedtischer Raum,Ostdeutschland,,,,,,,,,,,,
 2006,Laendlicher Raum,Westdeutschland,,,,,,,,,,,,
@@ -96,10 +89,10 @@ year,regtyp,sampreg,mean,mean_lower_confidence,mean_upper_confidence,lower_quart
 2009,Staedtischer Raum,Ostdeutschland,,,,,,,,,,,,
 2009,Laendlicher Raum,Westdeutschland,,,,,,,,,,,,
 2009,Laendlicher Raum,Ostdeutschland,,,,,,,,,,,,
-2010,Staedtischer Raum,Westdeutschland,3.1998735572632,3.1831960018422567,3.2165511126841437,2.0,3.0,4.0,1.0,7.0,3.0,3.0,3.0,9444.0
-2010,Staedtischer Raum,Ostdeutschland,3.0517919107316436,3.008571751679459,3.095012069783828,2.0,3.0,4.0,1.0,7.0,3.0,3.0,3.0,1398.0
-2010,Laendlicher Raum,Westdeutschland,3.283006110680844,3.253575567417125,3.312436653944563,2.0,3.0,4.0,1.0,7.0,3.0,3.0,3.0,3008.0
-2010,Laendlicher Raum,Ostdeutschland,3.4066978313635308,3.3745943922434694,3.438801270483592,2.0,3.0,5.0,1.0,7.0,3.0,3.0,3.0,2716.0
+2010,Staedtischer Raum,Westdeutschland,9444,3.1998735572631998,3.1831960018422563,3.2165511126841433,3.655672780893899,2.9458440436673876,2.0387927847026273,7.0,-0.3865272095842802,3.0,3.0,3.0
+2010,Staedtischer Raum,Ostdeutschland,1398,3.0517919107316436,3.008571751679459,3.095012069783828,3.0,4.332193861458021,2.5320075856122504,3.7019886215816245,1.0,3.0,3.0,3.0
+2010,Laendlicher Raum,Westdeutschland,3008,3.283006110680844,3.253575567417125,3.312436653944563,3.596860743977567,2.1274913632947765,4.896673440646772,4.0,2.0,3.0,3.0,3.0
+2010,Laendlicher Raum,Ostdeutschland,2716,3.4066978313635317,3.3745943922434702,3.438801270483593,5.219193941836044,1.0,3.0,8.547984854590108,-0.32879091275406536,3.0,3.0,3.0
 2011,Staedtischer Raum,Westdeutschland,,,,,,,,,,,,
 2011,Staedtischer Raum,Ostdeutschland,,,,,,,,,,,,
 2011,Laendlicher Raum,Westdeutschland,,,,,,,,,,,,
@@ -116,10 +109,10 @@ year,regtyp,sampreg,mean,mean_lower_confidence,mean_upper_confidence,lower_quart
 2014,Staedtischer Raum,Ostdeutschland,,,,,,,,,,,,
 2014,Laendlicher Raum,Westdeutschland,,,,,,,,,,,,
 2014,Laendlicher Raum,Ostdeutschland,,,,,,,,,,,,
-2015,Staedtischer Raum,Westdeutschland,2.7940234054570237,2.7813937800337585,2.806653030880289,1.0,2.0,4.0,1.0,7.0,2.0,2.0,2.0,15375.0
-2015,Staedtischer Raum,Ostdeutschland,2.8833775666360637,2.847780473706822,2.9189746595653054,2.0,2.0,4.0,1.0,7.0,2.0,1.0,2.0,1914.0
-2015,Laendlicher Raum,Westdeutschland,2.8587514415337187,2.8379634778841876,2.87953940518325,1.0,3.0,4.0,1.0,7.0,3.0,3.0,4.0,5771.0
-2015,Laendlicher Raum,Ostdeutschland,3.018430596012169,2.990601240593566,3.046259951430772,2.0,3.0,4.0,1.0,7.0,3.0,3.0,3.0,3471.0
+2015,Staedtischer Raum,Westdeutschland,15375,2.794023405457023,2.781393780033758,2.8066530308802884,2.316244932658025,4.012837817567162,4.10859037696186,5.0,3.0,2.0,2.0,2.0
+2015,Staedtischer Raum,Ostdeutschland,1914,2.8833775666360637,2.847780473706822,2.9189746595653054,4.3102483922753825,2.0,1.0,9.275620980688455,-3.9653725884130733,2.0,1.0,2.0
+2015,Laendlicher Raum,Westdeutschland,5771,2.8587514415337187,2.8379634778841876,2.87953940518325,7.0,1.0,2.8535527845336457,13.219670823199532,-3.3661180386658858,3.0,3.0,4.0
+2015,Laendlicher Raum,Ostdeutschland,3471,3.0184305960121693,2.9906012405935662,3.0462599514307724,2.49257525478355,4.193238166793055,1.8873673338544794,3.400387136177155,0.9795554524608738,3.0,3.0,3.0
 2016,Staedtischer Raum,Westdeutschland,,,,,,,,,,,,
 2016,Staedtischer Raum,Ostdeutschland,,,,,,,,,,,,
 2016,Laendlicher Raum,Westdeutschland,,,,,,,,,,,,
@@ -132,18 +125,14 @@ year,regtyp,sampreg,mean,mean_lower_confidence,mean_upper_confidence,lower_quart
 2018,Staedtischer Raum,Ostdeutschland,,,,,,,,,,,,
 2018,Laendlicher Raum,Westdeutschland,,,,,,,,,,,,
 2018,Laendlicher Raum,Ostdeutschland,,,,,,,,,,,,
-2019,-1,-2,,,,,,,,,,,,
-2019,-1,Westdeutschland,,,,,,,,,,,,
-2019,-1,Ostdeutschland,,,,,,,,,,,,
 2019,Staedtischer Raum,Westdeutschland,,,,,,,,,,,,
 2019,Staedtischer Raum,Ostdeutschland,,,,,,,,,,,,
 2019,Laendlicher Raum,Westdeutschland,,,,,,,,,,,,
 2019,Laendlicher Raum,Ostdeutschland,,,,,,,,,,,,
-2020,Staedtischer Raum,Westdeutschland,2.6898537761147554,2.678662636221565,2.701044916007946,1.0,2.0,4.0,1.0,7.0,2.0,2.0,2.0,17606.0
-2020,Staedtischer Raum,Ostdeutschland,2.793374101973125,2.7599840592028873,2.826764144743363,1.0,2.0,4.0,1.0,7.0,2.0,1.0,2.0,2191.0
-2020,Laendlicher Raum,Westdeutschland,2.7620109309856513,2.7422036941849988,2.781818167786304,1.0,2.0,4.0,1.0,7.0,2.0,2.0,2.0,5810.0
-2020,Laendlicher Raum,Ostdeutschland,2.8762474977880412,2.850378098062729,2.9021168975133533,2.0,2.0,4.0,1.0,7.0,2.0,1.0,2.0,3613.0
-2021,-1,Westdeutschland,,,,,,,,,,,,
+2020,Staedtischer Raum,Westdeutschland,17606,2.689853776114756,2.6786626362215653,2.7010449160079464,4.709457790214935,2.2217577962415245,1.284317159595651,9.84716873614386,-3.8533937863332746,2.0,2.0,2.0
+2020,Staedtischer Raum,Ostdeutschland,2191,2.793374101973125,2.7599840592028873,2.826764144743363,2.539334026935866,2.061521423791918,2.0581223590313757,3.2611515287926016,1.0,2.0,1.0,2.0
+2020,Laendlicher Raum,Westdeutschland,5810,2.7620109309856513,2.7422036941849988,2.781818167786304,1.5346725620059312,1.0,2.110597191236154,1.0,2.0,2.0,1.9749999999999943,2.0
+2020,Laendlicher Raum,Ostdeutschland,3613,2.8762474977880412,2.850378098062729,2.9021168975133533,3.0,1.1090866522297786,1.3272301733031477,5.509154740045279,-1.1819245667421308,2.0,1.0,2.0
 2021,Staedtischer Raum,Westdeutschland,,,,,,,,,,,,
 2021,Staedtischer Raum,Ostdeutschland,,,,,,,,,,,,
 2021,Laendlicher Raum,Westdeutschland,,,,,,,,,,,,
