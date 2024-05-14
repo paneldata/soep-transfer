@@ -15,6 +15,36 @@ def load_variable_variable_categories():
     return labeled_variables
 
 
+def find_mismatched_labels():
+    errors = []
+    entities = {}
+    with open("./metadata/variable_categories.csv", "r", encoding="utf-8") as file:
+        reader = DictReader(file)
+        for index, line in enumerate(reader):
+            _id = (
+                line["study"],
+                line["version"],
+                line["variable"],
+                line["value"],
+            )
+            if _id in entities:
+                if (line["label"], line["label_de"]) != (
+                    entities[_id]["line"]["label"],
+                    entities[_id]["line"]["label_de"],
+                ):
+                    errors.append(
+                        (
+                            f"Entity in line {index+2} mismatched to entity "
+                            f"defined in {entities[_id]['line_number']}.\n"
+                            f"First occurence: {entities[_id]['line']}\n"
+                            f"Duplicate: {line}"
+                        )
+                    )
+                continue
+            entities[_id] = {"line": line, "line_number": index + 2}
+    return errors
+
+
 def load_datasets():
     datasets = set()
 
@@ -93,7 +123,11 @@ def find_missing_entities(labeled_variables, datasets, topics, concepts):
 
 
 def handle_errors(
-    missing_variables, missing_datasets, faulty_variable_concepts, non_existent_concepts
+    missing_variables,
+    missing_datasets,
+    faulty_variable_concepts,
+    non_existent_concepts,
+    mismatched_label_errors,
 ):
     error = False
 
@@ -140,6 +174,15 @@ def handle_errors(
             print("-" * 20)
             print("=" * 20)
 
+    if mismatched_label_errors:
+        error = True
+        print("Mismatched labels in variable_categories.csv")
+        for error in mismatched_label_errors:
+            print(error)
+            print("=" * 20)
+            print("-" * 20)
+            print("=" * 20)
+
     if error:
         exit(1)
 
@@ -156,11 +199,13 @@ def main():
         faulty_variable_concepts,
         non_existent_concepts,
     ) = find_missing_entities(labeled_variables, datasets, topics, concepts)
+    mismatched_label_errors = find_mismatched_labels()
     handle_errors(
         missing_variables,
         missing_datasets,
         faulty_variable_concepts,
         non_existent_concepts,
+        mismatched_label_errors,
     )
 
 
