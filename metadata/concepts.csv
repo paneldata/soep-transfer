@@ -2,6 +2,7 @@ study,name,topic_old,topic,label_de,label
 soep-core,_hgen_hgeqpinsul,,hoa,Ausstattung: Wärmedämmung,Equipment: Thermal Insulation
 soep-core,_hgen_hgeqpmglass,,hoa,Ausstattung: Mindestens Doppelverglasung,Equipment: At Least Double Glazing
 soep-core,_hgen_hgeqpnrj2,,hoa,Ausstattung: Alternative Energiequelle,dwelling has alternative energy source
+soep-core,_pgen_pgfamstd,,hhs,Familienstand,Marital status
 soep-core,agre,,bfi,Verträglichkeit (Big5),Agreeableness (Big5)
 soep-core,childr,,hhs,Anzahl Kinder im Haushalt,Number of children in household
 soep-core,conc,,bfi,Gewissenhaftigkeit (Big5),Conscientiousness (Big5)
@@ -9,15 +10,18 @@ soep-core,extr,,bfi,Extraversion (Big5),Extraversion (Big5)
 soep-core,hlf0613,,ltm,Monatlich Freizeitbeschaeftigung im Haushalt,Monthly household leisure activity
 soep-core,hlf0632_v1,,hoc,"Belastung durch Wohnkosten (Tilgung/Zinsen, Nebenkosten)","Financial burden through housing expenses (amortization, add. costs)"
 soep-core,hlf0633_v1,,hoc,"Belastung durch Wohnkosten (Miete, Nebenkosten)","Financial burden through housing expenses (rent, additional costs)"
+soep-core,hpfleg,,hhs,"hilfe-,pflegebeduerft. person im hh",person requiring help present in hh
 soep-core,htier10,,hop,Haustiere: Pferd,Pets: Horse
 soep-core,htier8,,hop,Haustiere: Hamster Meerschweinchen Mäuse,Pets: Hamster Guinea pig Mouse
 soep-core,htier9,,hop,Haustiere: Hase,Pets: Rabbit
 soep-core,neur,,bfi,Neurotizismus (Big5),Neuroticism (Big5)
 soep-core,open,,bfi,Offenheit (Big5),Openness (Big5)
-soep-core,pgfamstd_hhs,,hhs,Familienstand,Marital status
 soep-core,pld0298_h,,gender,Sexuelle Orientierung,Sexual orientation
 soep-core,ple0187,,idd,Burnout,Burnout
 soep-core,poor,,inc,Armutsrisikoquote,At-risk-of-poverty rate
 soep-core,profdev,,fut,Derzeit in Weiterbildung,Currently receiving continuing professional development course / retraining
+soep-core,psor08,,wry,sorgen zuwanderung,worried about immigration to germany
+soep-core,psor09,,wry,sorgen auslaenderfeindlichkeit,worried about hostility to foreigners
+soep-core,pzuf04,,sat,zufriedenheit hh-einkommen,satisfaction with household income
 soep-core,quintil_oecd,,inc,Einkommen in Quintilen (OECD Nettoäquivalenzeinkommen),Income in quintiles (OECD Net equivalence income)
 soep-core,years_injob,,cce,Jahre in aktueller Beschäftigung,Years in current job
