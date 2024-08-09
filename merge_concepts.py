@@ -10,7 +10,6 @@ if statistics_path.name != "statistics":
     core_path = Path("./").absolute()
 
 statistics_concepts = pandas.read_csv(statistics_path.joinpath("metadata/concepts.csv"))
-statistics_datasets: set[str] = set(statistics_concepts["dataset"].unique())
 
 # %%
 core_path = core_path.joinpath("metadata")
