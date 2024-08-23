@@ -12,7 +12,7 @@ if statistics_path.name != "statistics":
 statistics_concepts = pandas.read_csv(statistics_path.joinpath("metadata/concepts.csv"))
 
 # %%
-core_path = core_path.joinpath("metadata")
+core_path = core_path.joinpath("ddionrails")
 core_concepts = pandas.read_csv(core_path.joinpath("concepts.csv"))
 core_columns = list(core_concepts.columns)
 
@@ -23,7 +23,7 @@ filtered_concepts = statistics_concepts.loc[
 ].drop("filter", axis=1)
 
 core_concepts_complete = pandas.concat(
-    [core_concepts, filtered_concepts], axis=0, ignore_index=True
+    [core_concepts, statistics_concepts], axis=0, ignore_index=True
 )[core_columns]
 
 core_concepts_complete.to_csv(
