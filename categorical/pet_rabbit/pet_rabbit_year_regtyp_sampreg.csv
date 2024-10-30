@@ -1,16 +1,16 @@
-year,regtyp,sampreg,pet_rabbit,proportion,n,N,proportion_lower_confidence,proportion_upper_confidence
-2016,Urban regions,West,Yes,0.02495,327,14302,0.02489,0.02501
-2016,Urban regions,West,No,0.97505,7916,14302,0.97499,0.97511
-2016,Urban regions,East,Yes,0.04255,64,14302,0.04230,0.04279
-2016,Urban regions,East,No,0.95745,1058,14302,0.95721,0.95770
-2016,Rural regions,West,Yes,0.03655,167,14302,0.03642,0.03668
-2016,Rural regions,West,No,0.96345,2818,14302,0.96332,0.96358
-2016,Rural regions,East,Yes,0.07462,151,14302,0.07439,0.07486
-2016,Rural regions,East,No,0.92538,1801,14302,0.92514,0.92561
-2021,Urban regions,West,Yes,0.02030,154,11026,0.02025,0.02036
-2021,Urban regions,West,No,0.97970,6348,11026,0.97964,0.97975
-2021,Urban regions,East,No,1.00000,869,11026,1.00000,1.00000
-2021,Rural regions,West,Yes,0.02747,95,11026,0.02736,0.02758
-2021,Rural regions,West,No,0.97253,2067,11026,0.97242,0.97264
-2021,Rural regions,East,Yes,0.05163,100,11026,0.05143,0.05183
-2021,Rural regions,East,No,0.94837,1393,11026,0.94817,0.94857
+year,regtyp,sampreg,pet_rabbit,proportion,n,N,proportion_lower_confidence,proportion_lower_confidence,proportion_upper_confidence,proportion_upper_confidence
+2016,Urban regions,West,Yes,0.02495,327,14302,0,0.02147,0,0.02812
+2016,Urban regions,West,No,0.97505,7916,14302,0,0.94993,0,0.99722
+2016,Urban regions,East,Yes,0.04255,64,14302,0,0.02815,0,0.06067
+2016,Urban regions,East,No,0.95745,1058,14302,0,0.89965,0,1.02654
+2016,Rural regions,West,Yes,0.03655,167,14302,0,0.02974,0,0.04570
+2016,Rural regions,West,No,0.96345,2818,14302,0,0.92639,0,1.00076
+2016,Rural regions,East,Yes,0.07462,151,14302,0,0.06252,0,0.08872
+2016,Rural regions,East,No,0.92538,1801,14302,0,0.88556,0,0.96919
+2021,Urban regions,West,Yes,0.02030,154,11026,0,0.01661,0,0.02462
+2021,Urban regions,West,No,0.97970,6348,11026,0,0.95322,0,1.00591
+2021,Urban regions,East,No,1.00000,869,11026,0,0.91394,0,1.07905
+2021,Rural regions,West,Yes,0.02747,95,11026,0,0.02064,0,0.03521
+2021,Rural regions,West,No,0.97253,2067,11026,0,0.93074,0,1.01781
+2021,Rural regions,East,Yes,0.05163,100,11026,0,0.03927,0,0.06349
+2021,Rural regions,East,No,0.94837,1393,11026,0,0.89517,0,1.00267

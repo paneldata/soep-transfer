@@ -1,17 +1,17 @@
-year,regtyp,rentown,pet_rabbit,proportion,n,N,proportion_lower_confidence,proportion_upper_confidence
-2016,Urban regions,Owner,Yes,0.03121,211,14301,0.03111,0.03131
-2016,Urban regions,Owner,No,0.96879,3554,14301,0.96869,0.96889
-2016,Urban regions,Tenant,Yes,0.02316,180,14301,0.02309,0.02323
-2016,Urban regions,Tenant,No,0.97684,5419,14301,0.97677,0.97691
-2016,Rural regions,Owner,Yes,0.07247,231,14301,0.07227,0.07266
-2016,Rural regions,Owner,No,0.92753,2306,14301,0.92734,0.92773
-2016,Rural regions,Tenant,Yes,0.02570,87,14301,0.02558,0.02583
-2016,Rural regions,Tenant,No,0.97430,2313,14301,0.97417,0.97442
-2021,Urban regions,Owner,Yes,0.02920,113,11050,0.02910,0.02929
-2021,Urban regions,Owner,No,0.97080,3008,11050,0.97071,0.97090
-2021,Urban regions,Tenant,Yes,0.01317,70,11050,0.01312,0.01323
-2021,Urban regions,Tenant,No,0.98683,4205,11050,0.98677,0.98688
-2021,Rural regions,Owner,Yes,0.05096,148,11050,0.05080,0.05113
-2021,Rural regions,Owner,No,0.94904,1811,11050,0.94887,0.94920
-2021,Rural regions,Tenant,Yes,0.01918,47,11050,0.01907,0.01929
-2021,Rural regions,Tenant,No,0.98082,1648,11050,0.98071,0.98093
+year,regtyp,rentown,pet_rabbit,proportion,n,N,proportion_lower_confidence,proportion_lower_confidence,proportion_upper_confidence,proportion_upper_confidence
+2016,Urban regions,Owner,Yes,0.03121,211,14301,0,0.02641,0,0.03646
+2016,Urban regions,Owner,No,0.96879,3554,14301,0,0.93367,0,0.99987
+2016,Urban regions,Tenant,Yes,0.02316,180,14301,0,0.01910,0,0.02796
+2016,Urban regions,Tenant,No,0.97684,5419,14301,0,0.94568,0,1.00241
+2016,Rural regions,Owner,Yes,0.07247,231,14301,0,0.06168,0,0.08596
+2016,Rural regions,Owner,No,0.92753,2306,14301,0,0.88259,0,0.96723
+2016,Rural regions,Tenant,Yes,0.02570,87,14301,0,0.01831,0,0.03356
+2016,Rural regions,Tenant,No,0.97430,2313,14301,0,0.92855,0,1.01605
+2021,Urban regions,Owner,Yes,0.02920,113,11050,0,0.02289,0,0.03593
+2021,Urban regions,Owner,No,0.97080,3008,11050,0,0.92927,0,1.01398
+2021,Urban regions,Tenant,Yes,0.01317,70,11050,0,0.00919,0,0.01736
+2021,Urban regions,Tenant,No,0.98683,4205,11050,0,0.94980,0,1.02647
+2021,Rural regions,Owner,Yes,0.05096,148,11050,0,0.03946,0,0.06112
+2021,Rural regions,Owner,No,0.94904,1811,11050,0,0.90071,0,0.99667
+2021,Rural regions,Tenant,Yes,0.01918,47,11050,0,0.01339,0,0.02567
+2021,Rural regions,Tenant,No,0.98082,1648,11050,0,0.93679,0,1.04479
