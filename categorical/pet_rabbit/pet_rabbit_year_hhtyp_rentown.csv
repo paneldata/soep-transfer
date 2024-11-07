@@ -1,35 +1,35 @@
-,Unnamed: 0,year,hhtyp,rentown,pet_rabbit,proportion,n,N,proportion_lower_confidence,proportion_upper_confidence
-0,0,2016,Single-person household,Owner,No,1.0,916,14252,0.95901,1.04016
-1,1,2016,Single-person household,Tenant,No,1.0,2435,14252,0.97372,1.03478
-2,2,2016,Couple without children,Owner,Yes,0.0276,59,14252,0.01995,0.03538
-3,3,2016,Couple without children,Owner,No,0.9724,2163,14252,0.93571,1.00968
-4,4,2016,Couple without children,Tenant,Yes,0.02567,46,14252,0.0196,0.03148
-5,5,2016,Couple without children,Tenant,No,0.97433,1829,14252,0.92002,1.02553
-6,6,2016,Single parent,Owner,Yes,0.05438,32,14252,0.04383,0.06525
-7,7,2016,Single parent,Owner,No,0.94562,350,14252,0.84911,1.05669
-8,8,2016,Single parent,Tenant,Yes,0.05848,60,14252,0.03954,0.08483
-9,9,2016,Single parent,Tenant,No,0.94152,1082,14252,0.87289,1.00351
-10,10,2016,Couple with children,Owner,Yes,0.10504,328,14252,0.09153,0.11929
-11,11,2016,Couple with children,Owner,No,0.89496,2334,14252,0.84047,0.94476
-12,12,2016,Couple with children,Tenant,Yes,0.05751,135,14252,0.04405,0.07462
-13,13,2016,Couple with children,Tenant,No,0.94249,2193,14252,0.8906,0.99618
-14,14,2016,Multi-generational household,Owner,No,1.0,47,14252,0.70225,1.41009
-15,15,2016,Multi-generational household,Tenant,No,1.0,52,14252,0.68102,1.42439
-16,16,2016,Other Combinations,Owner,No,1.0,50,14252,0.74455,1.28785
-17,17,2016,Other Combinations,Tenant,No,1.0,141,14252,0.82199,1.18386
-18,18,2021,Single-person household,Owner,No,1.0,852,10888,0.93735,1.06951
-19,19,2021,Single-person household,Tenant,No,1.0,2321,10888,0.95845,1.0458
-20,20,2021,Couple without children,Owner,Yes,0.02651,44,10888,0.01879,0.03542
-21,21,2021,Couple without children,Owner,No,0.97349,1873,10888,0.92432,1.02067
-22,22,2021,Couple without children,Tenant,No,1.0,1467,10888,0.94601,1.06392
-23,23,2021,Single parent,Owner,No,1.0,232,10888,0.82814,1.14064
-24,24,2021,Single parent,Tenant,Yes,0.07029,33,10888,0.04694,0.10093
-25,25,2021,Single parent,Tenant,No,0.92971,613,10888,0.83771,1.03115
-26,26,2021,Couple with children,Owner,Yes,0.08174,177,10888,0.06518,0.10135
-27,27,2021,Couple with children,Owner,No,0.91826,1695,10888,0.86351,0.98309
-28,28,2021,Couple with children,Tenant,Yes,0.03423,57,10888,0.02507,0.0445
-29,29,2021,Couple with children,Tenant,No,0.96577,1208,10888,0.90477,1.0327
-30,30,2021,Multi-generational household,Owner,No,1.0,38,10888,0.62765,1.42851
-31,31,2021,Multi-generational household,Tenant,No,1.0,31,10888,0.53889,1.57524
-32,32,2021,Other Combinations,Owner,No,1.0,103,10888,0.79848,1.24795
-33,33,2021,Other Combinations,Tenant,No,1.0,144,10888,0.81935,1.20663
+year,hhtyp,rentown,pet_rabbit,proportion,n,group_size,proportion_lower_confidence,proportion_upper_confidence
+2016,Single-person household,Owner,No,0.98819,916,916,0.98119,0.99519
+2016,Single-person household,Tenant,No,0.99288,2435,2435,0.98954,0.99622
+2016,Couple without children,Owner,Yes,0.02777,59,2222,0.02093,0.03460
+2016,Couple without children,Owner,No,0.97223,2163,2222,0.96540,0.97907
+2016,Couple without children,Tenant,Yes,0.02557,46,1875,0.01843,0.03272
+2016,Couple without children,Tenant,No,0.97443,1829,1875,0.96728,0.98157
+2016,Single parent,Owner,Yes,0.05441,32,382,0.03164,0.07719
+2016,Single parent,Owner,No,0.94559,350,382,0.92281,0.96836
+2016,Single parent,Tenant,Yes,0.05914,60,1142,0.04545,0.07282
+2016,Single parent,Tenant,No,0.94086,1082,1142,0.92718,0.95455
+2016,Couple with children,Owner,Yes,0.10432,328,2662,0.09271,0.11594
+2016,Couple with children,Owner,No,0.89568,2334,2662,0.88406,0.90729
+2016,Couple with children,Tenant,Yes,0.05796,135,2328,0.04847,0.06746
+2016,Couple with children,Tenant,No,0.94204,2193,2328,0.93254,0.95153
+2016,Multi-generational household,Owner,No,0.92323,47,47,0.84629,1.00017
+2016,Multi-generational household,Tenant,No,0.91628,52,52,0.84027,0.99230
+2016,Other Combinations,Owner,No,0.96619,50,50,0.91558,1.01680
+2016,Other Combinations,Tenant,No,0.98685,141,141,0.96798,1.00572
+2021,Single-person household,Owner,No,0.99084,850,850,0.98443,0.99725
+2021,Single-person household,Tenant,No,0.98169,2317,2317,0.97623,0.98715
+2021,Couple without children,Owner,Yes,0.02575,44,1924,0.01867,0.03283
+2021,Couple without children,Owner,No,0.97424,1880,1924,0.96716,0.98132
+2021,Couple without children,Tenant,No,0.98259,1476,1476,0.97591,0.98926
+2021,Single parent,Owner,No,0.95563,233,233,0.92913,0.98212
+2021,Single parent,Tenant,Yes,0.06806,33,647,0.04863,0.08748
+2021,Single parent,Tenant,No,0.90962,614,647,0.88751,0.93174
+2021,Couple with children,Owner,Yes,0.08283,180,1881,0.07037,0.09529
+2021,Couple with children,Owner,No,0.91367,1701,1881,0.90098,0.92637
+2021,Couple with children,Tenant,Yes,0.03243,57,1278,0.02271,0.04215
+2021,Couple with children,Tenant,No,0.91468,1221,1278,0.89935,0.93000
+2021,Multi-generational household,Owner,No,0.88668,38,38,0.78454,0.98882
+2021,Multi-generational household,Tenant,No,0.95043,31,31,0.87275,1.02810
+2021,Other Combinations,Owner,No,0.99445,104,104,0.98011,1.00880
+2021,Other Combinations,Tenant,No,0.93880,154,154,0.90082,0.97678

@@ -1,28 +1,31 @@
-,Unnamed: 0,year,age_gr,bula_h,region_secnat,proportion,n,N,proportion_lower_confidence,proportion_upper_confidence
-0,0,2010,30-45 y.,North Rhine-Westphalia,Eastern Europe,1.0,33,33,0.71582,1.30099
-1,1,2012,30-45 y.,North Rhine-Westphalia,Eastern Europe,1.0,31,31,0.74395,1.32245
-2,2,2013,17-29 y.,North Rhine-Westphalia,Eastern Europe,1.0,32,257,0.58523,1.44757
-3,3,2013,30-45 y.,North Rhine-Westphalia,Eastern Europe,1.0,62,257,0.79392,1.25194
-4,4,2013,30-45 y.,Baden-Wuerttemberg,Eastern Europe,1.0,50,257,0.62976,1.46486
-5,5,2013,30-45 y.,Bavaria,Eastern Europe,1.0,33,257,0.63225,1.40985
-6,6,2013,46-65 y.,North Rhine-Westphalia,Eastern Europe,1.0,41,257,0.66883,1.47619
-7,7,2013,46-65 y.,Bavaria,Eastern Europe,1.0,39,257,0.71622,1.33946
-8,8,2014,30-45 y.,North Rhine-Westphalia,Eastern Europe,1.0,56,168,0.81383,1.23314
-9,9,2014,30-45 y.,Baden-Wuerttemberg,Eastern Europe,1.0,44,168,0.55545,1.54125
-10,10,2014,46-65 y.,North Rhine-Westphalia,Eastern Europe,1.0,37,168,0.63218,1.50968
-11,11,2014,46-65 y.,Bavaria,Eastern Europe,1.0,31,168,0.572,1.52014
-12,12,2015,30-45 y.,North Rhine-Westphalia,Eastern Europe,1.0,56,119,0.76918,1.24807
-13,13,2015,30-45 y.,Bavaria,Eastern Europe,1.0,32,119,0.55008,1.6454
-14,14,2015,46-65 y.,North Rhine-Westphalia,Eastern Europe,1.0,31,119,0.658,1.46075
-15,15,2016,30-45 y.,North Rhine-Westphalia,Eastern Europe,1.0,50,50,0.52638,2.02013
-16,16,2017,30-45 y.,North Rhine-Westphalia,Eastern Europe,1.0,46,78,0.57262,1.61383
-17,17,2017,46-65 y.,North Rhine-Westphalia,Eastern Europe,1.0,32,78,0.6625,1.40401
-18,18,2018,30-45 y.,North Rhine-Westphalia,Eastern Europe,1.0,48,126,0.55935,1.60509
-19,19,2018,30-45 y.,Bavaria,Eastern Europe,1.0,37,126,0.7222,1.33586
-20,20,2018,46-65 y.,North Rhine-Westphalia,Eastern Europe,1.0,41,126,0.66708,1.36532
-21,21,2019,30-45 y.,North Rhine-Westphalia,Eastern Europe,1.0,40,119,0.53651,1.56604
-22,22,2019,46-65 y.,North Rhine-Westphalia,Eastern Europe,1.0,46,119,0.72395,1.39879
-23,23,2019,46-65 y.,Bavaria,Eastern Europe,1.0,33,119,0.62356,1.48817
-24,24,2020,30-45 y.,North Rhine-Westphalia,Eastern Europe,1.0,39,119,0.56815,1.55601
-25,25,2020,30-45 y.,Bavaria,Eastern Europe,1.0,34,119,0.46044,1.74441
-26,26,2020,46-65 y.,North Rhine-Westphalia,Eastern Europe,1.0,46,119,0.67697,1.34524
+year,age_gr,bula_h,region_secnat,proportion,n,group_size,proportion_lower_confidence,proportion_upper_confidence
+2010,30-45 y.,North Rhine-Westphalia,Eastern Europe,0.01857,33,33,-0.02820,0.06534
+2012,30-45 y.,North Rhine-Westphalia,Eastern Europe,0.01482,31,31,-0.02842,0.05805
+2013,17-29 y.,North Rhine-Westphalia,Eastern Europe,0.01367,32,32,-0.02721,0.05456
+2013,30-45 y.,North Rhine-Westphalia,Eastern Europe,0.01354,62,62,-0.01546,0.04254
+2013,30-45 y.,Baden-Wuerttemberg,Eastern Europe,0.02160,50,50,-0.01910,0.06231
+2013,30-45 y.,Bavaria,Eastern Europe,0.00804,33,33,-0.02290,0.03898
+2013,46-65 y.,North Rhine-Westphalia,Eastern Europe,0.01263,41,41,-0.02198,0.04723
+2013,46-65 y.,Bavaria,Eastern Europe,0.01243,39,39,-0.02280,0.04767
+2014,30-45 y.,North Rhine-Westphalia,Eastern Europe,0.01094,56,56,-0.01655,0.03843
+2014,30-45 y.,Baden-Wuerttemberg,Eastern Europe,0.02194,44,44,-0.02184,0.06573
+2014,46-65 y.,North Rhine-Westphalia,Eastern Europe,0.01239,37,37,-0.02375,0.04854
+2014,46-65 y.,Bavaria,Eastern Europe,0.01185,31,31,-0.02687,0.05058
+2015,30-45 y.,North Rhine-Westphalia,Eastern Europe,0.00953,56,56,-0.01615,0.03521
+2015,30-45 y.,Bavaria,Eastern Europe,0.00985,32,32,-0.02492,0.04463
+2015,46-65 y.,North Rhine-Westphalia,Eastern Europe,0.00974,31,31,-0.02540,0.04488
+2016,30-45 y.,North Rhine-Westphalia,Eastern Europe,0.01791,50,50,-0.01922,0.05505
+2017,30-45 y.,North Rhine-Westphalia,Eastern Europe,0.01895,46,46,-0.02089,0.05878
+2017,46-65 y.,North Rhine-Westphalia,Eastern Europe,0.01141,32,32,-0.02598,0.04881
+2018,30-45 y.,North Rhine-Westphalia,Eastern Europe,0.02166,48,48,-0.01996,0.06328
+2018,30-45 y.,Bavaria,Eastern Europe,0.01119,37,37,-0.02317,0.04554
+2018,46-65 y.,North Rhine-Westphalia,Eastern Europe,0.01546,41,41,-0.02277,0.05369
+2019,30-45 y.,North Rhine-Westphalia,Eastern Europe,0.02515,40,40,-0.02399,0.07429
+2019,46-65 y.,North Rhine-Westphalia,Eastern Europe,0.01123,46,46,-0.01956,0.04203
+2019,46-65 y.,Bavaria,Eastern Europe,0.01397,33,33,-0.02669,0.05463
+2020,30-45 y.,North Rhine-Westphalia,Eastern Europe,0.00928,39,39,-0.02121,0.03978
+2020,30-45 y.,Bavaria,Eastern Europe,0.00862,34,34,-0.02292,0.04016
+2020,46-65 y.,North Rhine-Westphalia,Eastern Europe,0.00485,46,46,-0.01545,0.02516
+2022,30-45 y.,North Rhine-Westphalia,Eastern Europe,0.01042,38,38,-0.02230,0.04314
+2022,46-65 y.,North Rhine-Westphalia,Eastern Europe,0.00770,31,31,-0.02358,0.03899
+2022,46-65 y.,Bavaria,Eastern Europe,0.01409,33,33,-0.02675,0.05493

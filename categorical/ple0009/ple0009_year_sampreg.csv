@@ -1,31 +1,36 @@
-,Unnamed: 0,year,sampreg,ple0009,proportion,n,N,proportion_lower_confidence,proportion_upper_confidence
-0,0,2012,West,"Yes, strongly limited",0.10383,1856,27024,0.09981,0.10793
-1,1,2012,West,"Yes, somewhat limited",0.26146,5019,27024,0.25502,0.26925
-2,2,2012,West,"No, not limited at all",0.63471,14147,27024,0.62294,0.6475
-3,3,2012,East,"Yes, strongly limited",0.12659,649,27024,0.11812,0.13675
-4,4,2012,East,"Yes, somewhat limited",0.29396,1654,27024,0.2816,0.30883
-5,5,2012,East,"No, not limited at all",0.57944,3699,27024,0.55866,0.60171
-6,6,2013,West,"Yes, strongly limited",0.10334,1963,30334,0.09873,0.10744
-7,7,2013,West,"Yes, somewhat limited",0.23718,5160,30334,0.23002,0.24536
-8,8,2013,West,"No, not limited at all",0.65948,17184,30334,0.64744,0.67091
-9,9,2013,East,"Yes, strongly limited",0.11565,604,30334,0.10837,0.12421
-10,10,2013,East,"Yes, somewhat limited",0.26931,1551,30334,0.25636,0.28253
-11,11,2013,East,"No, not limited at all",0.61504,3872,30334,0.59089,0.64271
-12,12,2015,West,"Yes, strongly limited",0.10689,1743,26346,0.10148,0.11114
-13,13,2015,West,"Yes, somewhat limited",0.24353,4664,26346,0.2347,0.25063
-14,14,2015,West,"No, not limited at all",0.64958,14650,26346,0.63724,0.66288
-15,15,2015,East,"Yes, strongly limited",0.11784,555,26346,0.10937,0.12709
-16,16,2015,East,"Yes, somewhat limited",0.28534,1431,26346,0.27017,0.3009
-17,17,2015,East,"No, not limited at all",0.59683,3303,26346,0.56616,0.62459
-18,18,2019,West,"Yes, strongly limited",0.1037,1881,28851,0.09852,0.10867
-19,19,2019,West,"Yes, somewhat limited",0.25567,5224,28851,0.24698,0.26325
-20,20,2019,West,"No, not limited at all",0.64064,15779,28851,0.62591,0.65681
-21,21,2019,East,"Yes, strongly limited",0.10725,560,28851,0.09795,0.11742
-22,22,2019,East,"Yes, somewhat limited",0.30972,1683,28851,0.29152,0.32754
-23,23,2019,East,"No, not limited at all",0.58302,3724,28851,0.55955,0.6076
-24,24,2021,West,"Yes, strongly limited",0.09399,1146,19521,0.0876,0.10276
-25,25,2021,West,"Yes, somewhat limited",0.24331,3385,19521,0.23431,0.25432
-26,26,2021,West,"No, not limited at all",0.66271,11094,19521,0.6426,0.68107
-27,27,2021,East,"Yes, strongly limited",0.09811,310,19521,0.08562,0.11128
-28,28,2021,East,"Yes, somewhat limited",0.27754,1028,19521,0.2535,0.29883
-29,29,2021,East,"No, not limited at all",0.62435,2558,19521,0.58786,0.66126
+year,sampreg,ple0009,proportion,n,group_size,proportion_lower_confidence,proportion_upper_confidence
+2012,West,"Yes, strongly limited",0.08396,1856,21022,0.08021,0.08771
+2012,West,"Yes, somewhat limited",0.21140,5019,21022,0.20588,0.21692
+2012,West,"No, not limited at all",0.51369,14147,21022,0.50694,0.52045
+2012,East,"Yes, strongly limited",0.10605,649,6002,0.09825,0.11384
+2012,East,"Yes, somewhat limited",0.24611,1654,6002,0.23521,0.25701
+2012,East,"No, not limited at all",0.48473,3699,6002,0.47208,0.49737
+2013,West,"Yes, strongly limited",0.08483,1963,24307,0.08133,0.08833
+2013,West,"Yes, somewhat limited",0.19482,5160,24307,0.18984,0.19980
+2013,West,"No, not limited at all",0.54367,17184,24307,0.53741,0.54993
+2013,East,"Yes, strongly limited",0.09883,604,6027,0.09130,0.10637
+2013,East,"Yes, somewhat limited",0.22962,1551,6027,0.21900,0.24023
+2013,East,"No, not limited at all",0.52328,3872,6027,0.51067,0.53589
+2015,West,"Yes, strongly limited",0.08780,1743,21057,0.08397,0.09162
+2015,West,"Yes, somewhat limited",0.20014,4664,21057,0.19474,0.20555
+2015,West,"No, not limited at all",0.53441,14650,21057,0.52768,0.54115
+2015,East,"Yes, strongly limited",0.09783,555,5289,0.08983,0.10584
+2015,East,"Yes, somewhat limited",0.23764,1431,5289,0.22617,0.24911
+2015,East,"No, not limited at all",0.49621,3303,5289,0.48273,0.50968
+2019,West,"Yes, strongly limited",0.08614,1881,22885,0.08251,0.08978
+2019,West,"Yes, somewhat limited",0.21237,5224,22885,0.20707,0.21767
+2019,West,"No, not limited at all",0.53234,15780,22885,0.52588,0.53881
+2019,East,"Yes, strongly limited",0.08994,560,5967,0.08268,0.09720
+2019,East,"Yes, somewhat limited",0.26124,1683,5967,0.25009,0.27238
+2019,East,"No, not limited at all",0.48936,3724,5967,0.47668,0.50205
+2021,West,"Yes, strongly limited",0.07810,1146,15625,0.07389,0.08230
+2021,West,"Yes, somewhat limited",0.20112,3385,15625,0.19484,0.20741
+2021,West,"No, not limited at all",0.55008,11094,15625,0.54228,0.55788
+2021,East,"Yes, strongly limited",0.08197,310,3896,0.07335,0.09058
+2021,East,"Yes, somewhat limited",0.23233,1028,3896,0.21907,0.24559
+2021,East,"No, not limited at all",0.51971,2558,3896,0.50402,0.53540
+2022,West,"Yes, strongly limited",0.00035,86,1522,-0.00059,0.00130
+2022,West,"Yes, somewhat limited",0.00107,236,1522,-0.00057,0.00271
+2022,West,"No, not limited at all",0.00719,1200,1522,0.00294,0.01143
+2022,East,"Yes, somewhat limited",0.00061,32,240,-0.00253,0.00375
+2022,East,"No, not limited at all",0.00507,208,240,-0.00393,0.01408

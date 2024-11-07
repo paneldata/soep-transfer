@@ -1,42 +1,57 @@
-,Unnamed: 0,year,regtyp,sex,plj0587,proportion,n,N,proportion_lower_confidence,proportion_upper_confidence
-0,0,2013,Urban regions,male,Very often,0.0142,95,25454,0.0113,0.01799
-1,1,2013,Urban regions,male,Often,0.07313,503,25454,0.06602,0.08008
-2,2,2013,Urban regions,male,Sometimes,0.33929,2334,25454,0.32485,0.3551
-3,3,2013,Urban regions,male,Seldom,0.39603,2901,25454,0.38241,0.41601
-4,4,2013,Urban regions,male,Never,0.17735,1422,25454,0.16678,0.18734
-5,5,2013,Urban regions,female,Very often,0.0233,196,25454,0.02011,0.02712
-6,6,2013,Urban regions,female,Often,0.08986,823,25454,0.08193,0.09805
-7,7,2013,Urban regions,female,Sometimes,0.3538,3058,25454,0.34233,0.36973
-8,8,2013,Urban regions,female,Seldom,0.36243,3223,25454,0.34917,0.3738
-9,9,2013,Urban regions,female,Never,0.1706,1595,25454,0.1622,0.17977
-10,10,2013,Rural regions,male,Very often,0.01749,58,25454,0.01352,0.02247
-11,11,2013,Rural regions,male,Often,0.06974,310,25454,0.06226,0.07791
-12,12,2013,Rural regions,male,Sometimes,0.34922,1395,25454,0.3304,0.37011
-13,13,2013,Rural regions,male,Seldom,0.39605,1735,25454,0.37459,0.41763
-14,14,2013,Rural regions,male,Never,0.1675,760,25454,0.15613,0.18182
-15,15,2013,Rural regions,female,Very often,0.02623,127,25454,0.02172,0.03137
-16,16,2013,Rural regions,female,Often,0.10803,473,25454,0.09338,0.11958
-17,17,2013,Rural regions,female,Sometimes,0.3568,1802,25454,0.33878,0.37361
-18,18,2013,Rural regions,female,Seldom,0.35585,1834,25454,0.33792,0.37415
-19,19,2013,Rural regions,female,Never,0.15309,810,25454,0.14219,0.16511
-20,20,2019,Rural regions,female,Sometimes,1.0,31,31,0.56388,1.52105
-21,21,2021,Urban regions,male,Very often,0.03865,426,19266,0.03169,0.04556
-22,22,2021,Urban regions,male,Often,0.14325,957,19266,0.1292,0.15702
-23,23,2021,Urban regions,male,Sometimes,0.34852,2256,19266,0.33003,0.36947
-24,24,2021,Urban regions,male,Seldom,0.35813,1926,19266,0.33977,0.37882
-25,25,2021,Urban regions,male,Never,0.11145,791,19266,0.10195,0.12533
-26,26,2021,Urban regions,female,Very often,0.05731,539,19266,0.05033,0.06567
-27,27,2021,Urban regions,female,Often,0.16422,1154,19266,0.1494,0.17792
-28,28,2021,Urban regions,female,Sometimes,0.37957,2452,19266,0.36051,0.40199
-29,29,2021,Urban regions,female,Seldom,0.29979,1815,19266,0.28321,0.31836
-30,30,2021,Urban regions,female,Never,0.09912,742,19266,0.08786,0.1084
-31,31,2021,Rural regions,male,Very often,0.03655,140,19266,0.0275,0.04775
-32,32,2021,Rural regions,male,Often,0.13638,443,19266,0.11993,0.15049
-33,33,2021,Rural regions,male,Sometimes,0.34552,990,19266,0.3138,0.38346
-34,34,2021,Rural regions,male,Seldom,0.36823,1044,19266,0.34374,0.39801
-35,35,2021,Rural regions,male,Never,0.11332,373,19266,0.09815,0.13031
-36,36,2021,Rural regions,female,Very often,0.05375,207,19266,0.04401,0.06298
-37,37,2021,Rural regions,female,Often,0.17371,532,19266,0.15646,0.19138
-38,38,2021,Rural regions,female,Sometimes,0.36868,1204,19266,0.34232,0.39386
-39,39,2021,Rural regions,female,Seldom,0.2972,922,19266,0.2722,0.31963
-40,40,2021,Rural regions,female,Never,0.10666,353,19266,0.09129,0.12169
+year,regtyp,sex,plj0587,proportion,n,group_size,proportion_lower_confidence,proportion_upper_confidence
+2013,Urban regions,male,Very often,0.01046,95,7272,0.00812,0.01279
+2013,Urban regions,male,Often,0.05352,503,7272,0.04835,0.05870
+2013,Urban regions,male,Sometimes,0.24857,2341,7272,0.23863,0.25850
+2013,Urban regions,male,Seldom,0.29152,2907,7272,0.28108,0.30197
+2013,Urban regions,male,Never,0.12969,1426,7272,0.12197,0.13741
+2013,Urban regions,female,Very often,0.01754,196,8916,0.01481,0.02026
+2013,Urban regions,female,Often,0.06775,826,8916,0.06253,0.07297
+2013,Urban regions,female,Sometimes,0.26730,3066,8916,0.25812,0.27649
+2013,Urban regions,female,Seldom,0.27441,3230,8916,0.26515,0.28368
+2013,Urban regions,female,Never,0.12907,1598,8916,0.12211,0.13603
+2013,Rural regions,male,Very often,0.01387,58,4241,0.01035,0.01739
+2013,Rural regions,male,Often,0.05520,310,4241,0.04832,0.06207
+2013,Rural regions,male,Sometimes,0.27517,1388,4241,0.26173,0.28862
+2013,Rural regions,male,Seldom,0.31142,1729,4241,0.29748,0.32536
+2013,Rural regions,male,Never,0.13201,756,4241,0.12182,0.14220
+2013,Rural regions,female,Very often,0.02114,127,5025,0.01716,0.02512
+2013,Rural regions,female,Often,0.08690,470,5025,0.07911,0.09468
+2013,Rural regions,female,Sometimes,0.28962,1794,5025,0.27707,0.30216
+2013,Rural regions,female,Seldom,0.28747,1827,5025,0.27496,0.29999
+2013,Rural regions,female,Never,0.12430,807,5025,0.11518,0.13342
+2019,Rural regions,female,Sometimes,0.00044,31,31,-0.00705,0.00793
+2021,Urban regions,male,Very often,0.03138,426,6363,0.02710,0.03566
+2021,Urban regions,male,Often,0.11621,958,6363,0.10833,0.12409
+2021,Urban regions,male,Sometimes,0.28629,2260,6363,0.27518,0.29740
+2021,Urban regions,male,Seldom,0.29278,1926,6363,0.28159,0.30396
+2021,Urban regions,male,Never,0.09178,793,6363,0.08469,0.09887
+2021,Urban regions,female,Very often,0.04804,539,6711,0.04292,0.05315
+2021,Urban regions,female,Often,0.13716,1155,6711,0.12893,0.14539
+2021,Urban regions,female,Sometimes,0.31731,2455,6711,0.30617,0.32845
+2021,Urban regions,female,Seldom,0.25114,1819,6711,0.24076,0.26152
+2021,Urban regions,female,Never,0.08315,743,6711,0.07654,0.08975
+2021,Rural regions,male,Very often,0.03084,140,2981,0.02463,0.03705
+2021,Rural regions,male,Often,0.11308,442,2981,0.10171,0.12445
+2021,Rural regions,male,Sometimes,0.28778,987,2981,0.27152,0.30403
+2021,Rural regions,male,Seldom,0.31003,1042,2981,0.29343,0.32664
+2021,Rural regions,male,Never,0.09401,370,2981,0.08353,0.10449
+2021,Rural regions,female,Very often,0.04589,207,3211,0.03865,0.05313
+2021,Rural regions,female,Often,0.14608,531,3211,0.13386,0.15830
+2021,Rural regions,female,Sometimes,0.30702,1200,3211,0.29106,0.32298
+2021,Rural regions,female,Seldom,0.24660,920,3211,0.23169,0.26151
+2021,Rural regions,female,Never,0.09027,353,3211,0.08036,0.10018
+2022,Urban regions,male,Very often,0.00239,124,826,-0.00094,0.00572
+2022,Urban regions,male,Often,0.00228,138,826,-0.00097,0.00554
+2022,Urban regions,male,Sometimes,0.00488,324,826,0.00013,0.00964
+2022,Urban regions,male,Seldom,0.00160,89,826,-0.00113,0.00432
+2022,Urban regions,male,Never,0.00195,151,826,-0.00106,0.00496
+2022,Urban regions,female,Very often,0.00095,93,580,-0.00156,0.00347
+2022,Urban regions,female,Often,0.00121,100,580,-0.00162,0.00404
+2022,Urban regions,female,Sometimes,0.00262,241,580,-0.00154,0.00678
+2022,Urban regions,female,Seldom,0.00087,54,580,-0.00153,0.00328
+2022,Urban regions,female,Never,0.00073,92,580,-0.00147,0.00294
+2022,Rural regions,male,Often,0.00111,38,177,-0.00380,0.00602
+2022,Rural regions,male,Sometimes,0.00198,75,177,-0.00458,0.00854
+2022,Rural regions,male,Seldom,0.00099,33,177,-0.00366,0.00564
+2022,Rural regions,male,Never,0.00089,31,177,-0.00351,0.00529
+2022,Rural regions,female,Sometimes,0.00148,72,72,-0.00747,0.01043

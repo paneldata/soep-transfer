@@ -1,45 +1,57 @@
-,Unnamed: 0,year,regtyp,sampreg,plj0587,proportion,n,N,proportion_lower_confidence,proportion_upper_confidence
-0,0,2013,Urban regions,West,Very often,0.01891,256,25454,0.0166,0.0211
-1,1,2013,Urban regions,West,Often,0.08055,1128,25454,0.07487,0.08534
-2,2,2013,Urban regions,West,Sometimes,0.34149,4664,25454,0.33071,0.35152
-3,3,2013,Urban regions,West,Seldom,0.37844,5388,25454,0.3665,0.39045
-4,4,2013,Urban regions,West,Never,0.1806,2764,25454,0.17237,0.18847
-5,5,2013,Urban regions,East,Very often,0.01904,35,25454,0.01386,0.0259
-6,6,2013,Urban regions,East,Often,0.09349,198,25454,0.08012,0.10488
-7,7,2013,Urban regions,East,Sometimes,0.39579,728,25454,0.36433,0.42151
-8,8,2013,Urban regions,East,Seldom,0.37975,736,25454,0.35271,0.41249
-9,9,2013,Urban regions,East,Never,0.11194,253,25454,0.09909,0.1295
-10,10,2013,Rural regions,West,Very often,0.02331,105,25454,0.01892,0.02903
-11,11,2013,Rural regions,West,Often,0.07891,427,25454,0.07124,0.08805
-12,12,2013,Rural regions,West,Sometimes,0.33716,1823,25454,0.31806,0.35547
-13,13,2013,Rural regions,West,Seldom,0.38551,2203,25454,0.36756,0.40269
-14,14,2013,Rural regions,West,Never,0.17511,995,25454,0.16383,0.18641
-15,15,2013,Rural regions,East,Very often,0.01964,80,25454,0.0159,0.02446
-16,16,2013,Rural regions,East,Often,0.10659,356,25454,0.09174,0.12165
-17,17,2013,Rural regions,East,Sometimes,0.37981,1374,25454,0.35976,0.40444
-18,18,2013,Rural regions,East,Seldom,0.35889,1366,25454,0.34304,0.38109
-19,19,2013,Rural regions,East,Never,0.13507,575,25454,0.12567,0.14495
-20,20,2019,Urban regions,West,Often,0.36464,37,152,0.20888,0.53753
-21,21,2019,Urban regions,West,Sometimes,0.34236,40,152,0.18047,0.51083
-22,22,2019,Urban regions,West,Never,0.29299,34,152,0.17686,0.41906
-23,23,2019,Rural regions,West,Sometimes,1.0,41,152,0.62295,1.38111
-24,24,2021,Urban regions,West,Very often,0.04924,873,19273,0.04418,0.0546
-25,25,2021,Urban regions,West,Often,0.15698,1900,19273,0.14631,0.17021
-26,26,2021,Urban regions,West,Sometimes,0.36252,4160,19273,0.3487,0.3769
-27,27,2021,Urban regions,West,Seldom,0.32666,3275,19273,0.30985,0.34313
-28,28,2021,Urban regions,West,Never,0.10459,1348,19273,0.09667,0.11243
-29,29,2021,Urban regions,East,Very often,0.03794,93,19273,0.02737,0.0488
-30,30,2021,Urban regions,East,Often,0.1253,215,19273,0.10518,0.14704
-31,31,2021,Urban regions,East,Sometimes,0.38472,549,19273,0.34713,0.43482
-32,32,2021,Urban regions,East,Seldom,0.34209,467,19273,0.29141,0.39897
-33,33,2021,Urban regions,East,Never,0.10996,185,19273,0.08245,0.13321
-34,34,2021,Rural regions,West,Very often,0.04763,235,19273,0.03937,0.05555
-35,35,2021,Rural regions,West,Often,0.16536,656,19273,0.15075,0.182
-36,36,2021,Rural regions,West,Sometimes,0.34717,1331,19273,0.32014,0.37518
-37,37,2021,Rural regions,West,Seldom,0.32755,1173,19273,0.30108,0.35322
-38,38,2021,Rural regions,West,Never,0.1123,447,19273,0.09658,0.12873
-39,39,2021,Rural regions,East,Very often,0.04025,112,19273,0.02944,0.0493
-40,40,2021,Rural regions,East,Often,0.13505,319,19273,0.11662,0.1526
-41,41,2021,Rural regions,East,Sometimes,0.37569,863,19273,0.34593,0.41042
-42,42,2021,Rural regions,East,Seldom,0.34332,793,19273,0.31429,0.37314
-43,43,2021,Rural regions,East,Never,0.10568,279,19273,0.08959,0.12423
+year,regtyp,sampreg,plj0587,proportion,n,group_size,proportion_lower_confidence,proportion_upper_confidence
+2013,Urban regions,West,Very often,0.01393,256,14238,0.01201,0.01586
+2013,Urban regions,West,Often,0.05915,1131,14238,0.05527,0.06302
+2013,Urban regions,West,Sometimes,0.25138,4679,14238,0.24425,0.25851
+2013,Urban regions,West,Seldom,0.27959,5401,14238,0.27222,0.28696
+2013,Urban regions,West,Never,0.13288,2771,14238,0.12730,0.13845
+2013,Urban regions,East,Very often,0.01560,35,1950,0.01010,0.02110
+2013,Urban regions,East,Often,0.07795,198,1950,0.06604,0.08985
+2013,Urban regions,East,Sometimes,0.32816,728,1950,0.30732,0.34901
+2013,Urban regions,East,Seldom,0.31548,736,1950,0.29485,0.33611
+2013,Urban regions,East,Never,0.09314,253,1950,0.08024,0.10605
+2013,Rural regions,West,Very often,0.01811,105,5515,0.01459,0.02163
+2013,Rural regions,West,Often,0.06102,424,5515,0.05470,0.06734
+2013,Rural regions,West,Sometimes,0.26162,1808,5515,0.25002,0.27322
+2013,Rural regions,West,Seldom,0.29744,2190,5515,0.28538,0.30951
+2013,Rural regions,West,Never,0.13604,988,5515,0.12699,0.14509
+2013,Rural regions,East,Very often,0.01647,80,3751,0.01240,0.02054
+2013,Rural regions,East,Often,0.08957,356,3751,0.08043,0.09871
+2013,Rural regions,East,Sometimes,0.32033,1374,3751,0.30540,0.33527
+2013,Rural regions,East,Seldom,0.30287,1366,3751,0.28816,0.31758
+2013,Rural regions,East,Never,0.11374,575,3751,0.10358,0.12390
+2019,Urban regions,West,Often,0.00016,37,111,-0.00219,0.00251
+2019,Urban regions,West,Sometimes,0.00015,40,111,-0.00213,0.00243
+2019,Urban regions,West,Never,0.00013,34,111,-0.00198,0.00224
+2019,Rural regions,West,Sometimes,0.00038,41,41,-0.00568,0.00644
+2021,Urban regions,West,Very often,0.04075,873,11572,0.03715,0.04435
+2021,Urban regions,West,Often,0.12904,1902,11572,0.12293,0.13515
+2021,Urban regions,West,Sometimes,0.30055,4167,11572,0.29220,0.30890
+2021,Urban regions,West,Seldom,0.27041,3279,11572,0.26231,0.27850
+2021,Urban regions,West,Never,0.08694,1351,11572,0.08181,0.09207
+2021,Urban regions,East,Very often,0.03055,93,1509,0.02186,0.03924
+2021,Urban regions,East,Often,0.10575,215,1509,0.09023,0.12127
+2021,Urban regions,East,Sometimes,0.31784,549,1509,0.29433,0.34134
+2021,Urban regions,East,Seldom,0.28326,467,1509,0.26051,0.30600
+2021,Urban regions,East,Never,0.09169,185,1509,0.07712,0.10626
+2021,Rural regions,West,Very often,0.04050,235,3826,0.03425,0.04674
+2021,Rural regions,West,Often,0.13812,654,3826,0.12718,0.14905
+2021,Rural regions,West,Sometimes,0.28884,1324,3826,0.27447,0.30320
+2021,Rural regions,West,Seldom,0.27246,1169,3826,0.25835,0.28657
+2021,Rural regions,West,Never,0.09353,444,3826,0.08430,0.10275
+2021,Rural regions,East,Very often,0.03415,112,2366,0.02683,0.04147
+2021,Rural regions,East,Often,0.11296,319,2366,0.10021,0.12572
+2021,Rural regions,East,Sometimes,0.31346,863,2366,0.29476,0.33215
+2021,Rural regions,East,Seldom,0.29003,793,2366,0.27174,0.30832
+2021,Rural regions,East,Never,0.08951,279,2366,0.07801,0.10102
+2022,Urban regions,West,Very often,0.00172,200,1249,-0.00058,0.00402
+2022,Urban regions,West,Often,0.00175,213,1249,-0.00057,0.00407
+2022,Urban regions,West,Sometimes,0.00374,495,1249,0.00035,0.00713
+2022,Urban regions,West,Seldom,0.00121,128,1249,-0.00072,0.00313
+2022,Urban regions,West,Never,0.00131,213,1249,-0.00070,0.00332
+2022,Urban regions,East,Sometimes,0.00373,70,70,-0.01065,0.01811
+2022,Rural regions,West,Very often,0.00109,44,277,-0.00280,0.00498
+2022,Rural regions,West,Often,0.00110,48,277,-0.00281,0.00501
+2022,Rural regions,West,Sometimes,0.00196,106,277,-0.00326,0.00718
+2022,Rural regions,West,Seldom,0.00085,42,277,-0.00259,0.00430
+2022,Rural regions,West,Never,0.00053,37,277,-0.00218,0.00323
+2022,Rural regions,East,Sometimes,0.00123,41,41,-0.00963,0.01210
