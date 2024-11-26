@@ -1,8 +1,8 @@
 year,hhtyp,pet_other,proportion,n,group_size,proportion_lower_confidence,proportion_upper_confidence
 1996,Single-person household,Yes,0.02095,33,1433,0.01353,0.02837
 1996,Single-person household,No,0.97905,1400,1433,0.97163,0.98647
-1996,Couple without children,Yes,0.05859,114,1840,0.04786,0.06933
-1996,Couple without children,No,0.94087,1726,1840,0.93009,0.95165
+1996,Couple without children,Yes,0.05863,114,1840,0.04789,0.06936
+1996,Couple without children,No,0.94137,1726,1840,0.93064,0.95211
 1996,Single parent,Yes,0.09989,36,387,0.06997,0.12980
 1996,Single parent,No,0.90011,351,387,0.87020,0.93003
 1996,Couple with children,Yes,0.14174,363,2686,0.12855,0.15493
@@ -29,33 +29,34 @@ year,hhtyp,pet_other,proportion,n,group_size,proportion_lower_confidence,proport
 2006,Couple with children,No,0.81511,3142,3837,0.80282,0.82739
 2006,Multi-generational household,No,0.86196,91,91,0.79070,0.93323
 2006,Other Combinations,No,0.93448,98,98,0.88523,0.98372
-2011,Single-person household,Yes,0.02852,107,3510,0.02301,0.03403
-2011,Single-person household,No,0.96966,3403,3510,0.96399,0.97534
-2011,Couple without children,Yes,0.05050,227,4371,0.04400,0.05699
-2011,Couple without children,No,0.94922,4144,4371,0.94271,0.95573
-2011,Single parent,Yes,0.05652,99,784,0.04034,0.07269
-2011,Single parent,No,0.46833,685,784,0.43338,0.50328
-2011,Couple with children,Yes,0.13126,587,3240,0.11963,0.14289
-2011,Couple with children,No,0.66312,2653,3240,0.64684,0.67940
-2011,Multi-generational household,No,0.80191,75,75,0.71110,0.89272
-2011,Other Combinations,No,0.89160,88,88,0.82627,0.95692
-2016,Single-person household,Yes,0.01059,47,3388,0.00714,0.01404
-2016,Single-person household,No,0.98320,3341,3388,0.97887,0.98752
-2016,Couple without children,Yes,0.02034,83,4096,0.01602,0.02467
-2016,Couple without children,No,0.97861,4013,4096,0.97418,0.98304
-2016,Single parent,Yes,0.05003,67,1524,0.03908,0.06098
-2016,Single parent,No,0.94359,1457,1524,0.93201,0.95518
-2016,Couple with children,Yes,0.04552,237,4990,0.03974,0.05131
-2016,Couple with children,No,0.94691,4753,4990,0.94068,0.95313
-2016,Multi-generational household,No,0.93689,103,103,0.88969,0.98408
-2016,Other Combinations,No,0.95096,193,193,0.92041,0.98150
-2021,Single-person household,Yes,0.01125,43,3188,0.00758,0.01491
-2021,Single-person household,No,0.97834,3145,3188,0.97328,0.98339
-2021,Couple without children,Yes,0.02482,92,3414,0.01960,0.03004
-2021,Couple without children,No,0.97313,3322,3414,0.96771,0.97856
-2021,Single parent,Yes,0.05245,53,896,0.03784,0.06705
-2021,Single parent,No,0.93186,843,896,0.91536,0.94837
-2021,Couple with children,Yes,0.05764,196,3162,0.04952,0.06577
-2021,Couple with children,No,0.91950,2966,3162,0.91002,0.92899
-2021,Multi-generational household,No,0.88498,71,71,0.81024,0.95972
-2021,Other Combinations,No,0.93065,254,254,0.89935,0.96196
+2011,Single-person household,Yes,0.02857,107,3510,0.02306,0.03408
+2011,Single-person household,No,0.97143,3403,3510,0.96592,0.97694
+2011,Couple without children,Yes,0.05051,227,4371,0.04402,0.05700
+2011,Couple without children,No,0.94949,4144,4371,0.94300,0.95598
+2011,Single parent,Yes,0.10768,99,784,0.08597,0.12940
+2011,Single parent,No,0.89232,685,784,0.87060,0.91403
+2011,Couple with children,Yes,0.16523,587,3240,0.15244,0.17802
+2011,Couple with children,No,0.83477,2653,3240,0.82198,0.84756
+2011,Multi-generational household,No,0.91207,75,75,0.84754,0.97659
+2011,Other Combinations,No,0.92892,88,88,0.87492,0.98291
+2016,Single-person household,Yes,0.01066,47,3388,0.00720,0.01412
+2016,Single-person household,No,0.98934,3341,3388,0.98588,0.99280
+2016,Couple without children,Yes,0.02037,83,4096,0.01604,0.02469
+2016,Couple without children,No,0.97963,4013,4096,0.97531,0.98396
+2016,Single parent,Yes,0.05035,67,1524,0.03937,0.06134
+2016,Single parent,No,0.94965,1457,1524,0.93866,0.96063
+2016,Couple with children,Yes,0.04587,237,4990,0.04007,0.05168
+2016,Couple with children,No,0.95413,4753,4990,0.94832,0.95993
+2016,Multi-generational household,No,0.94453,103,103,0.90011,0.98895
+2016,Other Combinations,No,0.98850,193,193,0.97341,1.00358
+2021,No answer / don't know,No,0.99188,57,57,0.96836,1.01539
+2021,Single-person household,Yes,0.01136,43,3188,0.00768,0.01504
+2021,Single-person household,No,0.98864,3145,3188,0.98496,0.99232
+2021,Couple without children,Yes,0.02487,92,3414,0.01965,0.03010
+2021,Couple without children,No,0.97513,3322,3414,0.96990,0.98035
+2021,Single parent,Yes,0.05328,53,896,0.03857,0.06800
+2021,Single parent,No,0.94672,843,896,0.93200,0.96143
+2021,Couple with children,Yes,0.05899,196,3162,0.05078,0.06721
+2021,Couple with children,No,0.94101,2966,3162,0.93279,0.94922
+2021,Multi-generational household,No,0.90045,71,71,0.83031,0.97059
+2021,Other Combinations,No,0.95596,254,254,0.93068,0.98124

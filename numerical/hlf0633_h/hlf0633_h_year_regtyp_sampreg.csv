@@ -1,4 +1,5 @@
 year,regtyp,sampreg,n,mean,mean_lower_confidence,mean_upper_confidence,lower_quartile,boxplot_median,upper_quartile,lower_whisker,upper_whisker,median,median_lower_confidence,median_upper_confidence
+1984,No answer / don't know,West,,,,,,,,,,,,
 1985,Urban regions,West,,,,,,,,,,,,
 1985,Rural regions,West,,,,,,,,,,,,
 1986,Urban regions,West,,,,,,,,,,,,
@@ -9,14 +10,19 @@ year,regtyp,sampreg,n,mean,mean_lower_confidence,mean_upper_confidence,lower_qua
 1988,Rural regions,West,,,,,,,,,,,,
 1989,Urban regions,West,,,,,,,,,,,,
 1989,Rural regions,West,,,,,,,,,,,,
+1990,No answer / don't know,East,,,,,,,,,,,,
 1990,Urban regions,West,,,,,,,,,,,,
 1990,Urban regions,East,,,,,,,,,,,,
 1990,Rural regions,West,,,,,,,,,,,,
 1990,Rural regions,East,,,,,,,,,,,,
+1991,No answer / don't know,West,,,,,,,,,,,,
+1991,No answer / don't know,East,,,,,,,,,,,,
 1991,Urban regions,West,,,,,,,,,,,,
 1991,Urban regions,East,,,,,,,,,,,,
 1991,Rural regions,West,,,,,,,,,,,,
 1991,Rural regions,East,,,,,,,,,,,,
+1992,No answer / don't know,West,,,,,,,,,,,,
+1992,No answer / don't know,East,,,,,,,,,,,,
 1992,Urban regions,West,,,,,,,,,,,,
 1992,Urban regions,East,,,,,,,,,,,,
 1992,Rural regions,West,,,,,,,,,,,,
@@ -37,6 +43,7 @@ year,regtyp,sampreg,n,mean,mean_lower_confidence,mean_upper_confidence,lower_qua
 1996,Urban regions,East,,,,,,,,,,,,
 1996,Rural regions,West,,,,,,,,,,,,
 1996,Rural regions,East,,,,,,,,,,,,
+1997,No answer / don't know,West,,,,,,,,,,,,
 1997,Urban regions,West,,,,,,,,,,,,
 1997,Urban regions,East,,,,,,,,,,,,
 1997,Rural regions,West,,,,,,,,,,,,
@@ -117,27 +124,31 @@ year,regtyp,sampreg,n,mean,mean_lower_confidence,mean_upper_confidence,lower_qua
 2016,Urban regions,East,,,,,,,,,,,,
 2016,Rural regions,West,,,,,,,,,,,,
 2016,Rural regions,East,,,,,,,,,,,,
-2017,Urban regions,West,4874,3.42175,3.34019,3.50330,0.00000,3.00000,5.00000,0.00000,10.00000,3.00000,3.00000,3.00000
-2017,Urban regions,East,922,3.31641,3.14420,3.48863,1.00000,3.00000,5.00000,0.00000,10.00000,3.00000,3.00000,4.00000
-2017,Rural regions,West,1401,3.23973,3.09495,3.38450,0.00000,3.00000,5.00000,0.00000,10.00000,3.00000,2.00000,3.00000
-2017,Rural regions,East,1124,3.79295,3.62997,3.95594,1.00000,4.00000,6.00000,0.00000,10.00000,4.00000,3.00000,4.00000
-2018,Urban regions,West,6164,3.53800,3.46680,3.60920,1.00000,3.00000,5.00000,0.00000,10.00000,3.00000,3.00000,4.00000
-2018,Urban regions,East,1032,3.76083,3.58938,3.93227,1.00000,4.00000,6.00000,0.00000,10.00000,4.00000,3.00000,5.00000
-2018,Rural regions,West,1671,3.33325,3.20099,3.46550,0.00000,3.00000,5.00000,0.00000,10.00000,3.00000,3.00000,4.00000
-2018,Rural regions,East,1201,3.66569,3.51191,3.81946,1.00000,4.00000,5.00000,0.00000,10.00000,4.00000,3.00000,4.00000
+2017,Urban regions,West,4874,3.42175,3.34019,3.50330,0.00000,3.00000,5.00000,0,10,,,
+2017,Urban regions,East,922,3.31641,3.14420,3.48863,1.00000,3.00000,5.00000,0,10,,,
+2017,Rural regions,West,1401,3.23973,3.09495,3.38450,0.00000,3.00000,5.00000,0,10,,,
+2017,Rural regions,East,1124,3.79295,3.62997,3.95594,1.00000,4.00000,6.00000,0,10,,,
+2018,Urban regions,West,6164,3.53800,3.46680,3.60920,1.00000,3.00000,5.00000,0,10,,,
+2018,Urban regions,East,1032,3.76083,3.58938,3.93227,1.00000,4.00000,6.00000,0,10,,,
+2018,Rural regions,West,1671,3.33325,3.20099,3.46550,0.00000,3.00000,5.00000,0,10,,,
+2018,Rural regions,East,1201,3.66569,3.51191,3.81946,1.00000,4.00000,5.00000,0,10,,,
+2019,No answer / don't know,Does not apply,,,,,,,,,,,,
+2019,No answer / don't know,West,,,,,,,,,,,,
+2019,No answer / don't know,East,,,,,,,,,,,,
 2019,Urban regions,West,,,,,,,,,,,,
 2019,Urban regions,East,,,,,,,,,,,,
 2019,Rural regions,West,,,,,,,,,,,,
 2019,Rural regions,East,,,,,,,,,,,,
-2020,Urban regions,West,5556,3.56789,3.49496,3.64082,1.00000,3.00000,5.00000,0.00000,10.00000,3.00000,3.00000,4.00000
-2020,Urban regions,East,962,3.71094,3.53714,3.88475,1.00000,4.00000,6.00000,0.00000,10.00000,4.00000,3.00000,4.00000
-2020,Rural regions,West,1462,3.58501,3.44053,3.72950,1.00000,4.00000,5.00000,0.00000,10.00000,4.00000,3.00000,4.00000
-2020,Rural regions,East,1051,3.36866,3.19796,3.53936,0.00000,3.00000,5.00000,0.00000,10.00000,3.00000,3.00000,4.00000
+2020,Urban regions,West,5556,3.56789,3.49496,3.64082,1.00000,3.00000,5.00000,0,10,,,
+2020,Urban regions,East,962,3.71094,3.53714,3.88475,1.00000,4.00000,6.00000,0,10,,,
+2020,Rural regions,West,1462,3.58501,3.44053,3.72950,1.00000,4.00000,5.00000,0,10,,,
+2020,Rural regions,East,1051,3.36866,3.19796,3.53936,0.00000,3.00000,5.00000,0,10,,,
+2021,No answer / don't know,West,,,,,,,,,,,,
 2021,Urban regions,West,,,,,,,,,,,,
 2021,Urban regions,East,,,,,,,,,,,,
 2021,Rural regions,West,,,,,,,,,,,,
 2021,Rural regions,East,,,,,,,,,,,,
-2022,Urban regions,West,6735,4.19476,4.12817,4.26135,2.00000,4.00000,6.00000,0.00000,10.00000,4.00000,4.00000,5.00000
-2022,Urban regions,East,1226,3.81618,3.66672,3.96564,2.00000,4.00000,5.00000,0.00000,9.50000,4.00000,4.00000,4.02500
-2022,Rural regions,West,1410,4.01146,3.86194,4.16099,2.00000,4.00000,6.00000,0.00000,10.00000,4.00000,4.00000,5.00000
-2022,Rural regions,East,1251,4.40892,4.25284,4.56499,2.00000,5.00000,6.00000,0.00000,10.00000,5.00000,5.00000,5.00000
+2022,Urban regions,West,6735,4.19476,4.12817,4.26135,2.00000,4.00000,6.00000,0,10,,,
+2022,Urban regions,East,1226,3.81618,3.66672,3.96564,2.00000,4.00000,5.00000,0,9.50000,,,
+2022,Rural regions,West,1410,4.01146,3.86194,4.16099,2.00000,4.00000,6.00000,0,10,,,
+2022,Rural regions,East,1251,4.40892,4.25284,4.56499,2.00000,5.00000,6.00000,0,10,,,
