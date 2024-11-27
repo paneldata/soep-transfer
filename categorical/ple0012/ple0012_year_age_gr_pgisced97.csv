@@ -1,7 +1,7 @@
 year,age_gr,pgisced97,ple0012,proportion,n,group_size,proportion_lower_confidence,proportion_upper_confidence
-2009,17-29 y.,Pre-primary Level,No,0.63001,313,313,0.57644,0.68358
-2009,17-29 y.,Lower Secondary Level,No,0.90049,472,472,0.87346,0.92753
-2009,17-29 y.,Upper Secondary Level,No,0.99243,1257,1257,0.98764,0.99723
+2009,17-29 y.,No answer / don't know,No,0.99868,309,309,0.99463,1.00273
+2009,17-29 y.,Lower Secondary Level,No,0.98228,472,472,0.97036,0.99419
+2009,17-29 y.,Upper Secondary Level,No,0.99308,1257,1257,0.98849,0.99766
 2009,17-29 y.,Second Stage of Tertiary Education,No,0.99474,244,244,0.98564,1.00383
 2009,30-45 y.,Lower Secondary Level,No,0.97060,263,263,0.95015,0.99106
 2009,30-45 y.,Upper Secondary Level,Yes,0.01525,49,2331,0.01028,0.02023
@@ -29,210 +29,213 @@ year,age_gr,pgisced97,ple0012,proportion,n,group_size,proportion_lower_confidenc
 2009,66 and older,First Stage of Tertiary Education,No,0.84421,263,315,0.80409,0.88432
 2009,66 and older,Second Stage of Tertiary Education,Yes,0.14560,133,881,0.12230,0.16891
 2009,66 and older,Second Stage of Tertiary Education,No,0.85440,748,881,0.83109,0.87770
-2011,17-29 y.,Pre-primary Level,No,0.47038,313,313,0.41500,0.52577
-2011,17-29 y.,Primary Level,No,0.73213,37,37,0.58746,0.87679
-2011,17-29 y.,Lower Secondary Level,No,0.76413,469,469,0.72567,0.80259
-2011,17-29 y.,Upper Secondary Level,No,0.91471,1341,1341,0.89976,0.92967
-2011,17-29 y.,Post-secondary Non-tertiary Level,No,0.95026,214,214,0.92106,0.97946
-2011,17-29 y.,First Stage of Tertiary Education,No,0.94121,50,50,0.87535,1.00708
-2011,17-29 y.,Second Stage of Tertiary Education,No,0.94874,286,286,0.92313,0.97434
-2011,30-45 y.,Primary Level,No,0.66333,61,61,0.54375,0.78290
-2011,30-45 y.,Lower Secondary Level,No,0.70682,324,324,0.65717,0.75646
-2011,30-45 y.,Upper Secondary Level,Yes,0.01773,50,2376,0.01243,0.02304
-2011,30-45 y.,Upper Secondary Level,No,0.77302,2326,2376,0.75617,0.78986
-2011,30-45 y.,Post-secondary Non-tertiary Level,No,0.76192,467,467,0.72325,0.80059
-2011,30-45 y.,First Stage of Tertiary Education,No,0.82862,355,355,0.78936,0.86787
-2011,30-45 y.,Second Stage of Tertiary Education,No,0.79745,1214,1214,0.77483,0.82007
-2011,46-65 y.,Primary Level,No,0.72683,59,59,0.61215,0.84151
-2011,46-65 y.,Lower Secondary Level,Yes,0.10545,61,536,0.07943,0.13148
-2011,46-65 y.,Lower Secondary Level,No,0.84947,475,536,0.81917,0.87977
-2011,46-65 y.,Upper Secondary Level,Yes,0.09148,369,4121,0.08268,0.10028
-2011,46-65 y.,Upper Secondary Level,No,0.87370,3752,4121,0.86356,0.88384
-2011,46-65 y.,Post-secondary Non-tertiary Level,No,0.89050,372,372,0.85872,0.92227
-2011,46-65 y.,First Stage of Tertiary Education,Yes,0.05815,41,651,0.04015,0.07614
-2011,46-65 y.,First Stage of Tertiary Education,No,0.90193,610,651,0.87907,0.92479
-2011,46-65 y.,Second Stage of Tertiary Education,Yes,0.04898,117,1988,0.03949,0.05847
-2011,46-65 y.,Second Stage of Tertiary Education,No,0.90478,1871,1988,0.89188,0.91769
+2011,17-29 y.,No answer / don't know,No,0.99718,262,262,0.99074,1.00361
+2011,17-29 y.,Lower Secondary Level,No,0.98543,469,469,0.97457,0.99628
+2011,17-29 y.,Upper Secondary Level,No,0.99097,1341,1341,0.98590,0.99603
+2011,17-29 y.,Post-secondary Non-tertiary Level,No,0.99624,214,214,0.98803,1.00446
+2011,17-29 y.,Second Stage of Tertiary Education,No,0.99647,286,286,0.98959,1.00336
+2011,30-45 y.,Lower Secondary Level,No,0.95150,324,324,0.92807,0.97493
+2011,30-45 y.,Upper Secondary Level,Yes,0.02243,50,2376,0.01647,0.02838
+2011,30-45 y.,Upper Secondary Level,No,0.97757,2326,2376,0.97162,0.98353
+2011,30-45 y.,Post-secondary Non-tertiary Level,No,0.98647,467,467,0.97598,0.99696
+2011,30-45 y.,First Stage of Tertiary Education,No,0.96597,355,355,0.94709,0.98486
+2011,30-45 y.,Second Stage of Tertiary Education,No,0.99255,1214,1214,0.98771,0.99739
+2011,46-65 y.,Primary Level,No,0.76655,59,59,0.65767,0.87542
+2011,46-65 y.,Lower Secondary Level,Yes,0.11043,61,536,0.08387,0.13699
+2011,46-65 y.,Lower Secondary Level,No,0.88957,475,536,0.86301,0.91613
+2011,46-65 y.,Upper Secondary Level,Yes,0.09478,369,4121,0.08584,0.10372
+2011,46-65 y.,Upper Secondary Level,No,0.90522,3752,4121,0.89628,0.91416
+2011,46-65 y.,Post-secondary Non-tertiary Level,No,0.96495,372,372,0.94624,0.98367
+2011,46-65 y.,First Stage of Tertiary Education,Yes,0.06056,41,651,0.04223,0.07890
+2011,46-65 y.,First Stage of Tertiary Education,No,0.93944,610,651,0.92110,0.95777
+2011,46-65 y.,Second Stage of Tertiary Education,Yes,0.05136,117,1988,0.04165,0.06106
+2011,46-65 y.,Second Stage of Tertiary Education,No,0.94864,1871,1988,0.93894,0.95835
 2011,66 and older,Primary Level,No,0.85160,49,49,0.75103,0.95217
-2011,66 and older,Lower Secondary Level,Yes,0.21287,160,819,0.18482,0.24092
-2011,66 and older,Lower Secondary Level,No,0.78548,659,819,0.75735,0.81361
-2011,66 and older,Upper Secondary Level,Yes,0.18383,497,2641,0.16905,0.19860
-2011,66 and older,Upper Secondary Level,No,0.81565,2144,2641,0.80086,0.83044
+2011,66 and older,Lower Secondary Level,Yes,0.21322,160,819,0.18515,0.24129
+2011,66 and older,Lower Secondary Level,No,0.78678,659,819,0.75871,0.81485
+2011,66 and older,Upper Secondary Level,Yes,0.18392,497,2641,0.16914,0.19870
+2011,66 and older,Upper Secondary Level,No,0.81608,2144,2641,0.80130,0.83086
 2011,66 and older,Post-secondary Non-tertiary Level,No,0.86598,106,106,0.80082,0.93114
-2011,66 and older,First Stage of Tertiary Education,Yes,0.18201,71,377,0.14301,0.22101
-2011,66 and older,First Stage of Tertiary Education,No,0.81710,306,377,0.77802,0.85617
-2011,66 and older,Second Stage of Tertiary Education,Yes,0.13878,168,1087,0.11822,0.15934
-2011,66 and older,Second Stage of Tertiary Education,No,0.86039,919,1087,0.83978,0.88101
-2013,17-29 y.,Pre-primary Level,No,0.37809,260,260,0.31903,0.43715
-2013,17-29 y.,Primary Level,No,0.51998,33,33,0.34688,0.69309
-2013,17-29 y.,Lower Secondary Level,No,0.56814,377,377,0.51807,0.61821
-2013,17-29 y.,Upper Secondary Level,No,0.77376,1114,1114,0.74917,0.79834
-2013,17-29 y.,Post-secondary Non-tertiary Level,No,0.82006,164,164,0.76109,0.87904
-2013,17-29 y.,First Stage of Tertiary Education,No,0.92530,45,45,0.84761,1.00298
-2013,17-29 y.,Second Stage of Tertiary Education,No,0.82137,304,304,0.77824,0.86450
-2013,30-45 y.,Primary Level,No,0.38198,50,50,0.24593,0.51802
-2013,30-45 y.,Lower Secondary Level,No,0.49970,269,269,0.43983,0.55956
-2013,30-45 y.,Upper Secondary Level,Yes,0.01128,40,1894,0.00652,0.01604
-2013,30-45 y.,Upper Secondary Level,No,0.67883,1854,1894,0.65779,0.69986
-2013,30-45 y.,Post-secondary Non-tertiary Level,No,0.64329,406,406,0.59664,0.68995
-2013,30-45 y.,First Stage of Tertiary Education,No,0.83346,291,291,0.79058,0.87634
-2013,30-45 y.,Second Stage of Tertiary Education,No,0.71334,1111,1111,0.68674,0.73995
-2013,46-65 y.,Primary Level,No,0.51344,51,51,0.37490,0.65199
-2013,46-65 y.,Lower Secondary Level,Yes,0.09714,59,464,0.07017,0.12412
-2013,46-65 y.,Lower Secondary Level,No,0.71199,405,464,0.67074,0.75324
-2013,46-65 y.,Upper Secondary Level,Yes,0.09622,381,3856,0.08691,0.10553
-2013,46-65 y.,Upper Secondary Level,No,0.83682,3475,3856,0.82515,0.84848
-2013,46-65 y.,Post-secondary Non-tertiary Level,No,0.76058,382,382,0.71773,0.80343
-2013,46-65 y.,First Stage of Tertiary Education,Yes,0.06884,51,634,0.04912,0.08856
-2013,46-65 y.,First Stage of Tertiary Education,No,0.86556,583,634,0.83899,0.89214
-2013,46-65 y.,Second Stage of Tertiary Education,Yes,0.05082,120,1894,0.04092,0.06071
-2013,46-65 y.,Second Stage of Tertiary Education,No,0.85673,1774,1894,0.84095,0.87252
-2013,66 and older,Primary Level,No,0.79012,40,40,0.66231,0.91792
-2013,66 and older,Lower Secondary Level,Yes,0.20607,147,726,0.17663,0.23552
-2013,66 and older,Lower Secondary Level,No,0.78404,579,726,0.75409,0.81399
-2013,66 and older,Upper Secondary Level,Yes,0.18718,509,2536,0.17199,0.20236
-2013,66 and older,Upper Secondary Level,No,0.80944,2027,2536,0.79415,0.82473
-2013,66 and older,Post-secondary Non-tertiary Level,No,0.80492,96,96,0.72523,0.88460
-2013,66 and older,First Stage of Tertiary Education,Yes,0.19768,69,345,0.15560,0.23977
-2013,66 and older,First Stage of Tertiary Education,No,0.80182,276,345,0.75969,0.84395
-2013,66 and older,Second Stage of Tertiary Education,Yes,0.16585,201,1149,0.14433,0.18737
-2013,66 and older,Second Stage of Tertiary Education,No,0.82560,948,1149,0.80365,0.84755
-2015,17-29 y.,Pre-primary Level,No,0.52023,350,350,0.46781,0.57264
-2015,17-29 y.,Primary Level,No,0.84896,79,79,0.76949,0.92843
-2015,17-29 y.,Lower Secondary Level,No,0.85494,774,774,0.83012,0.87977
-2015,17-29 y.,Upper Secondary Level,No,0.94869,1571,1571,0.93778,0.95961
-2015,17-29 y.,Post-secondary Non-tertiary Level,No,0.92231,217,217,0.88662,0.95801
-2015,17-29 y.,First Stage of Tertiary Education,No,0.99645,60,60,0.98127,1.01163
-2015,17-29 y.,Second Stage of Tertiary Education,No,0.89123,364,364,0.85921,0.92326
-2015,30-45 y.,Primary Level,No,0.83267,152,152,0.77313,0.89221
-2015,30-45 y.,Lower Secondary Level,No,0.88728,607,607,0.86210,0.91246
-2015,30-45 y.,Upper Secondary Level,Yes,0.01845,75,3217,0.01380,0.02310
-2015,30-45 y.,Upper Secondary Level,No,0.95547,3142,3217,0.94834,0.96260
-2015,30-45 y.,Post-secondary Non-tertiary Level,No,0.95754,888,888,0.94427,0.97081
-2015,30-45 y.,First Stage of Tertiary Education,No,0.96651,372,372,0.94820,0.98481
-2015,30-45 y.,Second Stage of Tertiary Education,No,0.92089,1974,1974,0.90899,0.93280
-2015,46-65 y.,Primary Level,No,0.73160,110,110,0.64841,0.81479
-2015,46-65 y.,Lower Secondary Level,Yes,0.10404,58,612,0.07983,0.12825
-2015,46-65 y.,Lower Secondary Level,No,0.88060,554,612,0.85488,0.90631
-2015,46-65 y.,Upper Secondary Level,Yes,0.10048,392,4327,0.09152,0.10944
-2015,46-65 y.,Upper Secondary Level,No,0.89262,3935,4327,0.88339,0.90184
-2015,46-65 y.,Post-secondary Non-tertiary Level,Yes,0.05779,41,692,0.04039,0.07518
-2015,46-65 y.,Post-secondary Non-tertiary Level,No,0.92360,651,692,0.90380,0.94341
-2015,46-65 y.,First Stage of Tertiary Education,Yes,0.07655,56,738,0.05735,0.09575
-2015,46-65 y.,First Stage of Tertiary Education,No,0.92244,682,738,0.90313,0.94175
-2015,46-65 y.,Second Stage of Tertiary Education,Yes,0.06626,136,2333,0.05616,0.07635
-2015,46-65 y.,Second Stage of Tertiary Education,No,0.92713,2197,2333,0.91658,0.93768
+2011,66 and older,First Stage of Tertiary Education,Yes,0.18217,71,377,0.14316,0.22119
+2011,66 and older,First Stage of Tertiary Education,No,0.81783,306,377,0.77881,0.85684
+2011,66 and older,Second Stage of Tertiary Education,Yes,0.13889,168,1087,0.11832,0.15946
+2011,66 and older,Second Stage of Tertiary Education,No,0.86111,919,1087,0.84054,0.88168
+2013,17-29 y.,No answer / don't know,No,0.99580,226,226,0.98734,1.00425
+2013,17-29 y.,Lower Secondary Level,No,0.99532,377,377,0.98842,1.00222
+2013,17-29 y.,Upper Secondary Level,No,0.99587,1114,1114,0.99210,0.99964
+2013,17-29 y.,Second Stage of Tertiary Education,No,0.99977,304,304,0.99806,1.00148
+2013,30-45 y.,Primary Level,No,0.97439,50,50,0.93015,1.01862
+2013,30-45 y.,Lower Secondary Level,No,0.96476,269,269,0.94269,0.98684
+2013,30-45 y.,Upper Secondary Level,Yes,0.01635,40,1894,0.01063,0.02206
+2013,30-45 y.,Upper Secondary Level,No,0.98365,1854,1894,0.97794,0.98937
+2013,30-45 y.,Post-secondary Non-tertiary Level,No,0.98269,406,406,0.96998,0.99539
+2013,30-45 y.,First Stage of Tertiary Education,No,0.98806,291,291,0.97556,1.00056
+2013,30-45 y.,Second Stage of Tertiary Education,No,0.99304,1111,1111,0.98815,0.99793
+2013,46-65 y.,Primary Level,No,0.80438,51,51,0.69443,0.91433
+2013,46-65 y.,Lower Secondary Level,Yes,0.12006,59,464,0.09045,0.14966
+2013,46-65 y.,Lower Secondary Level,No,0.87994,405,464,0.85034,0.90955
+2013,46-65 y.,Upper Secondary Level,Yes,0.10313,381,3856,0.09353,0.11273
+2013,46-65 y.,Upper Secondary Level,No,0.89687,3475,3856,0.88727,0.90647
+2013,46-65 y.,Post-secondary Non-tertiary Level,No,0.95473,382,382,0.93386,0.97561
+2013,46-65 y.,First Stage of Tertiary Education,Yes,0.07367,51,634,0.05332,0.09402
+2013,46-65 y.,First Stage of Tertiary Education,No,0.92633,583,634,0.90598,0.94668
+2013,46-65 y.,Second Stage of Tertiary Education,Yes,0.05599,120,1894,0.04564,0.06635
+2013,46-65 y.,Second Stage of Tertiary Education,No,0.94401,1774,1894,0.93365,0.95436
+2013,66 and older,Primary Level,No,0.84744,40,40,0.73459,0.96029
+2013,66 and older,Lower Secondary Level,Yes,0.20813,147,726,0.17858,0.23768
+2013,66 and older,Lower Secondary Level,No,0.79187,579,726,0.76232,0.82142
+2013,66 and older,Upper Secondary Level,Yes,0.18781,509,2536,0.17261,0.20302
+2013,66 and older,Upper Secondary Level,No,0.81219,2027,2536,0.79698,0.82739
+2013,66 and older,Post-secondary Non-tertiary Level,No,0.82449,96,96,0.74799,0.90098
+2013,66 and older,First Stage of Tertiary Education,Yes,0.19778,69,345,0.15569,0.23987
+2013,66 and older,First Stage of Tertiary Education,No,0.80222,276,345,0.76013,0.84431
+2013,66 and older,Second Stage of Tertiary Education,Yes,0.16728,201,1149,0.14569,0.18887
+2013,66 and older,Second Stage of Tertiary Education,No,0.83272,948,1149,0.81113,0.85431
+2015,17-29 y.,No answer / don't know,No,0.99675,478,478,0.99165,1.00186
+2015,17-29 y.,Primary Level,No,0.98036,79,79,0.94956,1.01115
+2015,17-29 y.,Lower Secondary Level,No,0.99055,774,774,0.98373,0.99737
+2015,17-29 y.,Upper Secondary Level,No,0.99682,1571,1571,0.99404,0.99961
+2015,17-29 y.,Post-secondary Non-tertiary Level,No,0.99831,217,217,0.99284,1.00379
+2015,17-29 y.,First Stage of Tertiary Education,No,0.99770,60,60,0.98546,1.00993
+2015,17-29 y.,Second Stage of Tertiary Education,No,0.99747,364,364,0.99231,1.00264
+2015,30-45 y.,No answer / don't know,No,0.99075,66,66,0.96747,1.01402
+2015,30-45 y.,Primary Level,No,0.97791,152,152,0.95446,1.00135
+2015,30-45 y.,Lower Secondary Level,No,0.96347,607,607,0.94854,0.97841
+2015,30-45 y.,Upper Secondary Level,Yes,0.01895,75,3217,0.01423,0.02366
+2015,30-45 y.,Upper Secondary Level,No,0.98105,3142,3217,0.97634,0.98577
+2015,30-45 y.,Post-secondary Non-tertiary Level,No,0.98853,888,888,0.98152,0.99554
+2015,30-45 y.,First Stage of Tertiary Education,No,0.98264,372,372,0.96935,0.99593
+2015,30-45 y.,Second Stage of Tertiary Education,No,0.98947,1974,1974,0.98496,0.99397
+2015,46-65 y.,No answer / don't know,No,0.94862,42,42,0.88104,1.01620
+2015,46-65 y.,Primary Level,No,0.76216,110,110,0.68223,0.84209
+2015,46-65 y.,Lower Secondary Level,Yes,0.10567,58,612,0.08129,0.13004
+2015,46-65 y.,Lower Secondary Level,No,0.89433,554,612,0.86996,0.91871
+2015,46-65 y.,Upper Secondary Level,Yes,0.10118,392,4327,0.09219,0.11016
+2015,46-65 y.,Upper Secondary Level,No,0.89882,3935,4327,0.88984,0.90781
+2015,46-65 y.,Post-secondary Non-tertiary Level,Yes,0.05888,41,692,0.04133,0.07643
+2015,46-65 y.,Post-secondary Non-tertiary Level,No,0.94112,651,692,0.92357,0.95867
+2015,46-65 y.,First Stage of Tertiary Education,Yes,0.07663,56,738,0.05742,0.09583
+2015,46-65 y.,First Stage of Tertiary Education,No,0.92337,682,738,0.90417,0.94258
+2015,46-65 y.,Second Stage of Tertiary Education,Yes,0.06670,136,2333,0.05657,0.07683
+2015,46-65 y.,Second Stage of Tertiary Education,No,0.93330,2197,2333,0.92317,0.94343
 2015,66 and older,Primary Level,No,0.85147,31,31,0.72421,0.97873
-2015,66 and older,Lower Secondary Level,Yes,0.20213,135,648,0.17118,0.23307
-2015,66 and older,Lower Secondary Level,No,0.79745,513,648,0.76648,0.82841
-2015,66 and older,Upper Secondary Level,Yes,0.17805,493,2524,0.16312,0.19298
-2015,66 and older,Upper Secondary Level,No,0.82171,2031,2524,0.80677,0.83664
+2015,66 and older,Lower Secondary Level,Yes,0.20221,135,648,0.17126,0.23316
+2015,66 and older,Lower Secondary Level,No,0.79779,513,648,0.76684,0.82874
+2015,66 and older,Upper Secondary Level,Yes,0.17809,493,2524,0.16316,0.19302
+2015,66 and older,Upper Secondary Level,No,0.82191,2031,2524,0.80698,0.83684
 2015,66 and older,Post-secondary Non-tertiary Level,No,0.83582,108,108,0.76563,0.90601
 2015,66 and older,First Stage of Tertiary Education,Yes,0.22631,71,339,0.18170,0.27092
 2015,66 and older,First Stage of Tertiary Education,No,0.77369,268,339,0.72908,0.81830
-2015,66 and older,Second Stage of Tertiary Education,Yes,0.17304,198,1178,0.15143,0.19466
-2015,66 and older,Second Stage of Tertiary Education,No,0.82441,980,1178,0.80267,0.84614
-2017,17-29 y.,Pre-primary Level,No,0.54179,408,408,0.49338,0.59020
-2017,17-29 y.,Primary Level,No,0.65402,76,76,0.54637,0.76168
-2017,17-29 y.,Lower Secondary Level,No,0.87669,769,769,0.85344,0.89995
-2017,17-29 y.,Upper Secondary Level,No,0.98148,1774,1774,0.97520,0.98776
-2017,17-29 y.,Post-secondary Non-tertiary Level,No,0.97671,309,309,0.95987,0.99356
+2015,66 and older,Second Stage of Tertiary Education,Yes,0.17349,198,1178,0.15185,0.19512
+2015,66 and older,Second Stage of Tertiary Education,No,0.82651,980,1178,0.80488,0.84815
+2017,17-29 y.,No answer / don't know,No,0.99916,457,457,0.99649,1.00182
+2017,17-29 y.,Pre-primary Level,No,0.99337,408,408,0.98548,1.00125
+2017,17-29 y.,Primary Level,No,0.99360,76,76,0.97554,1.01165
+2017,17-29 y.,Lower Secondary Level,No,0.98778,769,769,0.98001,0.99555
+2017,17-29 y.,Upper Secondary Level,No,0.99427,1774,1774,0.99076,0.99779
+2017,17-29 y.,Post-secondary Non-tertiary Level,No,0.98423,309,309,0.97032,0.99815
 2017,17-29 y.,First Stage of Tertiary Education,No,0.99230,60,60,0.96999,1.01461
-2017,17-29 y.,Second Stage of Tertiary Education,No,0.97026,470,470,0.95488,0.98563
-2017,30-45 y.,Primary Level,No,0.86288,171,171,0.81117,0.91458
-2017,30-45 y.,Lower Secondary Level,No,0.94882,632,632,0.93163,0.96601
-2017,30-45 y.,Upper Secondary Level,Yes,0.02211,74,2933,0.01679,0.02743
-2017,30-45 y.,Upper Secondary Level,No,0.97298,2859,2933,0.96711,0.97885
-2017,30-45 y.,Post-secondary Non-tertiary Level,No,0.97780,894,894,0.96813,0.98746
+2017,17-29 y.,Second Stage of Tertiary Education,No,0.99580,470,470,0.98995,1.00165
+2017,30-45 y.,No answer / don't know,No,0.98258,70,70,0.95172,1.01345
+2017,30-45 y.,Primary Level,No,0.96895,171,171,0.94288,0.99502
+2017,30-45 y.,Lower Secondary Level,No,0.97178,632,632,0.95886,0.98470
+2017,30-45 y.,Upper Secondary Level,Yes,0.02222,74,2933,0.01688,0.02755
+2017,30-45 y.,Upper Secondary Level,No,0.97778,2859,2933,0.97245,0.98312
+2017,30-45 y.,Post-secondary Non-tertiary Level,No,0.98029,894,894,0.97117,0.98941
 2017,30-45 y.,First Stage of Tertiary Education,No,0.99323,337,337,0.98446,1.00200
-2017,30-45 y.,Second Stage of Tertiary Education,No,0.98075,2140,2140,0.97493,0.98657
-2017,46-65 y.,Primary Level,No,0.80507,128,128,0.73618,0.87397
-2017,46-65 y.,Lower Secondary Level,Yes,0.13147,86,701,0.10644,0.15651
-2017,46-65 y.,Lower Secondary Level,No,0.86506,615,701,0.83975,0.89037
-2017,46-65 y.,Upper Secondary Level,Yes,0.10197,432,4802,0.09341,0.11053
-2017,46-65 y.,Upper Secondary Level,No,0.89731,4370,4802,0.88872,0.90590
-2017,46-65 y.,Post-secondary Non-tertiary Level,Yes,0.08013,54,851,0.06188,0.09838
-2017,46-65 y.,Post-secondary Non-tertiary Level,No,0.91858,797,851,0.90019,0.93696
+2017,30-45 y.,Second Stage of Tertiary Education,No,0.98834,2140,2140,0.98379,0.99289
+2017,46-65 y.,No answer / don't know,No,0.90333,46,46,0.81699,0.98967
+2017,46-65 y.,Primary Level,No,0.84402,128,128,0.78092,0.90713
+2017,46-65 y.,Lower Secondary Level,Yes,0.13193,86,701,0.10686,0.15700
+2017,46-65 y.,Lower Secondary Level,No,0.86807,615,701,0.84300,0.89314
+2017,46-65 y.,Upper Secondary Level,Yes,0.10204,432,4802,0.09348,0.11061
+2017,46-65 y.,Upper Secondary Level,No,0.89796,4370,4802,0.88939,0.90652
+2017,46-65 y.,Post-secondary Non-tertiary Level,Yes,0.08023,54,851,0.06197,0.09850
+2017,46-65 y.,Post-secondary Non-tertiary Level,No,0.91977,797,851,0.90150,0.93803
 2017,46-65 y.,First Stage of Tertiary Education,Yes,0.07613,61,784,0.05756,0.09471
 2017,46-65 y.,First Stage of Tertiary Education,No,0.92387,723,784,0.90529,0.94244
-2017,46-65 y.,Second Stage of Tertiary Education,Yes,0.06538,147,2629,0.05593,0.07483
-2017,46-65 y.,Second Stage of Tertiary Education,No,0.93225,2482,2629,0.92264,0.94186
-2017,66 and older,Lower Secondary Level,Yes,0.23063,135,607,0.19709,0.26417
-2017,66 and older,Lower Secondary Level,No,0.76899,472,607,0.73544,0.80255
+2017,46-65 y.,Second Stage of Tertiary Education,Yes,0.06554,147,2629,0.05608,0.07500
+2017,46-65 y.,Second Stage of Tertiary Education,No,0.93446,2482,2629,0.92500,0.94392
+2017,66 and older,Lower Secondary Level,Yes,0.23072,135,607,0.19717,0.26426
+2017,66 and older,Lower Secondary Level,No,0.76928,472,607,0.73574,0.80283
 2017,66 and older,Upper Secondary Level,Yes,0.17992,486,2550,0.16501,0.19483
-2017,66 and older,Upper Secondary Level,No,0.82007,2064,2550,0.80516,0.83498
+2017,66 and older,Upper Secondary Level,No,0.82008,2064,2550,0.80517,0.83499
 2017,66 and older,Post-secondary Non-tertiary Level,No,0.78421,112,112,0.70768,0.86074
 2017,66 and older,First Stage of Tertiary Education,Yes,0.15069,63,339,0.11255,0.18882
 2017,66 and older,First Stage of Tertiary Education,No,0.84931,276,339,0.81118,0.88745
-2017,66 and older,Second Stage of Tertiary Education,Yes,0.16654,212,1255,0.14592,0.18716
-2017,66 and older,Second Stage of Tertiary Education,No,0.83310,1043,1255,0.81246,0.85374
-2019,17-29 y.,Pre-primary Level,No,0.59603,328,328,0.54285,0.64922
-2019,17-29 y.,Primary Level,No,0.63011,73,73,0.51860,0.74163
-2019,17-29 y.,Lower Secondary Level,No,0.84319,687,687,0.81597,0.87040
-2019,17-29 y.,Upper Secondary Level,No,0.97639,1540,1540,0.96880,0.98398
-2019,17-29 y.,Post-secondary Non-tertiary Level,No,0.97706,283,283,0.95959,0.99453
+2017,66 and older,Second Stage of Tertiary Education,Yes,0.16660,212,1255,0.14598,0.18722
+2017,66 and older,Second Stage of Tertiary Education,No,0.83340,1043,1255,0.81278,0.85402
+2019,17-29 y.,No answer / don't know,No,0.99590,392,392,0.98956,1.00223
+2019,17-29 y.,Pre-primary Level,No,0.99443,328,328,0.98637,1.00250
+2019,17-29 y.,Primary Level,No,0.97923,73,73,0.94629,1.01217
+2019,17-29 y.,Lower Secondary Level,No,0.98703,687,687,0.97856,0.99549
+2019,17-29 y.,Upper Secondary Level,No,0.98811,1540,1540,0.98270,0.99353
+2019,17-29 y.,Post-secondary Non-tertiary Level,No,0.98482,283,283,0.97054,0.99909
 2019,17-29 y.,First Stage of Tertiary Education,No,0.99866,62,62,0.98946,1.00785
-2019,17-29 y.,Second Stage of Tertiary Education,No,0.97432,443,443,0.95957,0.98907
-2019,30-45 y.,Primary Level,No,0.78160,136,136,0.71190,0.85130
-2019,30-45 y.,Lower Secondary Level,No,0.93857,505,505,0.91761,0.95954
-2019,30-45 y.,Upper Secondary Level,Yes,0.02815,74,2372,0.02149,0.03480
-2019,30-45 y.,Upper Secondary Level,No,0.96500,2298,2372,0.95761,0.97240
-2019,30-45 y.,Post-secondary Non-tertiary Level,No,0.98128,776,776,0.97174,0.99082
+2019,17-29 y.,Second Stage of Tertiary Education,No,0.99711,443,443,0.99210,1.00211
+2019,30-45 y.,No answer / don't know,No,0.97830,77,77,0.94555,1.01106
+2019,30-45 y.,Primary Level,No,0.91536,136,136,0.86840,0.96231
+2019,30-45 y.,Lower Secondary Level,No,0.97263,505,505,0.95838,0.98687
+2019,30-45 y.,Upper Secondary Level,Yes,0.02834,74,2372,0.02166,0.03502
+2019,30-45 y.,Upper Secondary Level,No,0.97166,2298,2372,0.96498,0.97834
+2019,30-45 y.,Post-secondary Non-tertiary Level,No,0.98484,776,776,0.97623,0.99344
 2019,30-45 y.,First Stage of Tertiary Education,No,0.99827,344,344,0.99387,1.00267
-2019,30-45 y.,Second Stage of Tertiary Education,No,0.97855,2002,2002,0.97220,0.98490
-2019,46-65 y.,Primary Level,No,0.77970,107,107,0.70080,0.85860
-2019,46-65 y.,Lower Secondary Level,Yes,0.14559,74,653,0.11852,0.17266
-2019,46-65 y.,Lower Secondary Level,No,0.84912,579,653,0.82164,0.87659
-2019,46-65 y.,Upper Secondary Level,Yes,0.10181,411,4655,0.09312,0.11050
-2019,46-65 y.,Upper Secondary Level,No,0.89719,4244,4655,0.88846,0.90591
-2019,46-65 y.,Post-secondary Non-tertiary Level,Yes,0.07201,48,936,0.05544,0.08858
-2019,46-65 y.,Post-secondary Non-tertiary Level,No,0.92682,888,936,0.91012,0.94351
+2019,30-45 y.,Second Stage of Tertiary Education,No,0.98767,2002,2002,0.98283,0.99250
+2019,46-65 y.,No answer / don't know,No,0.83725,63,63,0.74537,0.92914
+2019,46-65 y.,Primary Level,No,0.82445,107,107,0.75202,0.89687
+2019,46-65 y.,Lower Secondary Level,Yes,0.14637,74,653,0.11923,0.17350
+2019,46-65 y.,Lower Secondary Level,No,0.85363,579,653,0.82650,0.88077
+2019,46-65 y.,Upper Secondary Level,Yes,0.10191,411,4655,0.09322,0.11060
+2019,46-65 y.,Upper Secondary Level,No,0.89809,4244,4655,0.88940,0.90678
+2019,46-65 y.,Post-secondary Non-tertiary Level,Yes,0.07210,48,936,0.05552,0.08868
+2019,46-65 y.,Post-secondary Non-tertiary Level,No,0.92790,888,936,0.91132,0.94448
 2019,46-65 y.,First Stage of Tertiary Education,Yes,0.07863,62,867,0.06070,0.09656
 2019,46-65 y.,First Stage of Tertiary Education,No,0.92137,805,867,0.90344,0.93930
-2019,46-65 y.,Second Stage of Tertiary Education,Yes,0.05731,156,3101,0.04913,0.06549
-2019,46-65 y.,Second Stage of Tertiary Education,No,0.94060,2945,3101,0.93228,0.94892
-2019,66 and older,Lower Secondary Level,Yes,0.22327,120,551,0.18847,0.25807
-2019,66 and older,Lower Secondary Level,No,0.77663,431,551,0.74182,0.81144
-2019,66 and older,Upper Secondary Level,Yes,0.18098,489,2571,0.16610,0.19587
-2019,66 and older,Upper Secondary Level,No,0.81893,2082,2571,0.80404,0.83382
-2019,66 and older,Post-secondary Non-tertiary Level,Yes,0.17592,34,164,0.11746,0.23437
-2019,66 and older,Post-secondary Non-tertiary Level,No,0.82397,130,164,0.76550,0.88243
+2019,46-65 y.,Second Stage of Tertiary Education,Yes,0.05743,156,3101,0.04924,0.06562
+2019,46-65 y.,Second Stage of Tertiary Education,No,0.94257,2945,3101,0.93438,0.95076
+2019,66 and older,Lower Secondary Level,Yes,0.22329,120,551,0.18849,0.25810
+2019,66 and older,Lower Secondary Level,No,0.77671,431,551,0.74190,0.81151
+2019,66 and older,Upper Secondary Level,Yes,0.18100,489,2571,0.16611,0.19588
+2019,66 and older,Upper Secondary Level,No,0.81900,2082,2571,0.80412,0.83389
+2019,66 and older,Post-secondary Non-tertiary Level,Yes,0.17594,34,164,0.11748,0.23439
+2019,66 and older,Post-secondary Non-tertiary Level,No,0.82406,130,164,0.76561,0.88252
 2019,66 and older,First Stage of Tertiary Education,Yes,0.14881,59,379,0.11293,0.18469
 2019,66 and older,First Stage of Tertiary Education,No,0.85119,320,379,0.81531,0.88707
-2019,66 and older,Second Stage of Tertiary Education,Yes,0.16406,238,1447,0.14497,0.18315
-2019,66 and older,Second Stage of Tertiary Education,No,0.83576,1209,1447,0.81666,0.85485
-2021,17-29 y.,Pre-primary Level,No,0.50806,189,189,0.43659,0.57952
-2021,17-29 y.,Primary Level,No,0.90138,212,212,0.86115,0.94161
-2021,17-29 y.,Lower Secondary Level,No,0.85305,533,533,0.82296,0.88313
-2021,17-29 y.,Upper Secondary Level,No,0.95683,1166,1166,0.94515,0.96850
-2021,17-29 y.,Post-secondary Non-tertiary Level,No,0.99247,237,237,0.98144,1.00350
-2021,17-29 y.,Second Stage of Tertiary Education,No,0.99122,518,518,0.98317,0.99926
-2021,30-45 y.,Primary Level,No,0.83691,441,441,0.80238,0.87143
-2021,30-45 y.,Lower Secondary Level,No,0.94131,453,453,0.91964,0.96298
-2021,30-45 y.,Upper Secondary Level,Yes,0.02941,53,1531,0.02094,0.03787
-2021,30-45 y.,Upper Secondary Level,No,0.95151,1478,1531,0.94075,0.96228
-2021,30-45 y.,Post-secondary Non-tertiary Level,No,0.97589,533,533,0.96285,0.98892
-2021,30-45 y.,First Stage of Tertiary Education,No,0.99900,191,191,0.99450,1.00350
-2021,30-45 y.,Second Stage of Tertiary Education,Yes,0.01083,33,1740,0.00597,0.01570
-2021,30-45 y.,Second Stage of Tertiary Education,No,0.97951,1707,1740,0.97285,0.98617
-2021,46-65 y.,Primary Level,Yes,0.11680,52,225,0.07474,0.15886
-2021,46-65 y.,Primary Level,No,0.85461,173,225,0.80845,0.90077
-2021,46-65 y.,Lower Secondary Level,Yes,0.14702,62,418,0.11303,0.18101
-2021,46-65 y.,Lower Secondary Level,No,0.84748,356,418,0.81297,0.88199
-2021,46-65 y.,Upper Secondary Level,Yes,0.10190,278,2881,0.09085,0.11295
-2021,46-65 y.,Upper Secondary Level,No,0.88796,2603,2881,0.87644,0.89948
-2021,46-65 y.,Post-secondary Non-tertiary Level,Yes,0.04912,44,687,0.03295,0.06530
-2021,46-65 y.,Post-secondary Non-tertiary Level,No,0.94623,643,687,0.92934,0.96311
-2021,46-65 y.,First Stage of Tertiary Education,Yes,0.10092,44,506,0.07465,0.12719
-2021,46-65 y.,First Stage of Tertiary Education,No,0.89259,462,506,0.86558,0.91960
-2021,46-65 y.,Second Stage of Tertiary Education,Yes,0.04879,124,2275,0.03993,0.05764
-2021,46-65 y.,Second Stage of Tertiary Education,No,0.94104,2151,2275,0.93136,0.95072
-2021,66 and older,Lower Secondary Level,Yes,0.24054,73,307,0.19265,0.28843
-2021,66 and older,Lower Secondary Level,No,0.75601,234,307,0.70789,0.80413
-2021,66 and older,Upper Secondary Level,Yes,0.18300,335,1709,0.16466,0.20133
-2021,66 and older,Upper Secondary Level,No,0.80969,1374,1709,0.79107,0.82831
+2019,66 and older,Second Stage of Tertiary Education,Yes,0.16409,238,1447,0.14500,0.18318
+2019,66 and older,Second Stage of Tertiary Education,No,0.83591,1209,1447,0.81682,0.85500
+2021,17-29 y.,No answer / don't know,No,0.99167,261,261,0.98062,1.00272
+2021,17-29 y.,Primary Level,No,0.98365,212,212,0.96654,1.00076
+2021,17-29 y.,Lower Secondary Level,No,0.95397,533,533,0.93616,0.97178
+2021,17-29 y.,Upper Secondary Level,No,0.98466,1166,1166,0.97761,0.99172
+2021,17-29 y.,Post-secondary Non-tertiary Level,No,0.99995,237,237,0.99908,1.00083
+2021,30-45 y.,No answer / don't know,No,0.99256,256,256,0.98201,1.00311
+2021,30-45 y.,Primary Level,No,0.98712,441,441,0.97658,0.99765
+2021,30-45 y.,Lower Secondary Level,No,0.96295,453,453,0.94553,0.98036
+2021,30-45 y.,Upper Secondary Level,Yes,0.02998,53,1531,0.02143,0.03852
+2021,30-45 y.,Upper Secondary Level,No,0.97002,1478,1531,0.96148,0.97857
+2021,30-45 y.,Post-secondary Non-tertiary Level,No,0.97981,533,533,0.96786,0.99176
+2021,30-45 y.,Second Stage of Tertiary Education,Yes,0.01094,33,1740,0.00605,0.01583
+2021,30-45 y.,Second Stage of Tertiary Education,No,0.98906,1707,1740,0.98417,0.99395
+2021,46-65 y.,No answer / don't know,No,0.88802,196,196,0.84376,0.93228
+2021,46-65 y.,Primary Level,Yes,0.12023,52,225,0.07764,0.16283
+2021,46-65 y.,Primary Level,No,0.87977,173,225,0.83717,0.92236
+2021,46-65 y.,Lower Secondary Level,Yes,0.14783,62,418,0.11377,0.18190
+2021,46-65 y.,Lower Secondary Level,No,0.85217,356,418,0.81810,0.88623
+2021,46-65 y.,Upper Secondary Level,Yes,0.10294,278,2881,0.09184,0.11404
+2021,46-65 y.,Upper Secondary Level,No,0.89706,2603,2881,0.88596,0.90816
+2021,46-65 y.,Post-secondary Non-tertiary Level,Yes,0.04935,44,687,0.03314,0.06556
+2021,46-65 y.,Post-secondary Non-tertiary Level,No,0.95065,643,687,0.93444,0.96686
+2021,46-65 y.,First Stage of Tertiary Education,Yes,0.10158,44,506,0.07523,0.12793
+2021,46-65 y.,First Stage of Tertiary Education,No,0.89842,462,506,0.87207,0.92477
+2021,46-65 y.,Second Stage of Tertiary Education,Yes,0.04929,124,2275,0.04039,0.05818
+2021,46-65 y.,Second Stage of Tertiary Education,No,0.95071,2151,2275,0.94182,0.95961
+2021,66 and older,No answer / don't know,No,0.82529,34,34,0.69574,0.95485
+2021,66 and older,Lower Secondary Level,Yes,0.24138,73,307,0.19343,0.28932
+2021,66 and older,Lower Secondary Level,No,0.75862,234,307,0.71068,0.80657
+2021,66 and older,Upper Secondary Level,Yes,0.18434,335,1709,0.16595,0.20273
+2021,66 and older,Upper Secondary Level,No,0.81566,1374,1709,0.79727,0.83405
 2021,66 and older,Post-secondary Non-tertiary Level,No,0.86476,100,100,0.79740,0.93213
-2021,66 and older,First Stage of Tertiary Education,Yes,0.15350,50,259,0.10952,0.19749
-2021,66 and older,First Stage of Tertiary Education,No,0.83218,209,259,0.78658,0.87778
-2021,66 and older,Second Stage of Tertiary Education,Yes,0.14834,176,1102,0.12735,0.16934
-2021,66 and older,Second Stage of Tertiary Education,No,0.83894,926,1102,0.81722,0.86065
+2021,66 and older,First Stage of Tertiary Education,Yes,0.15573,50,259,0.11149,0.19998
+2021,66 and older,First Stage of Tertiary Education,No,0.84427,209,259,0.80002,0.88851
+2021,66 and older,Second Stage of Tertiary Education,Yes,0.15025,176,1102,0.12915,0.17136
+2021,66 and older,Second Stage of Tertiary Education,No,0.84975,926,1102,0.82864,0.87085

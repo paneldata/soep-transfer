@@ -1,7 +1,5 @@
 year,age_gr,migback,ple0016,proportion,n,group_size,proportion_lower_confidence,proportion_upper_confidence
-2009,17-29 y.,No migration background,No,0.93676,2290,2290,0.92679,0.94673
-2009,17-29 y.,Direct migration background,No,0.94491,174,174,0.91091,0.97891
-2009,17-29 y.,Indirect migration background,No,0.91253,388,388,0.88438,0.94068
+2009,17-29 y.,No migration background,No,0.99868,2290,2290,0.99719,1.00017
 2009,30-45 y.,No migration background,No,0.99820,3869,3869,0.99687,0.99954
 2009,30-45 y.,Direct migration background,No,0.99507,529,529,0.98909,1.00104
 2009,30-45 y.,Indirect migration background,No,0.99758,268,268,0.99169,1.00347
@@ -12,82 +10,71 @@ year,age_gr,migback,ple0016,proportion,n,group_size,proportion_lower_confidence,
 2009,66 and older,No migration background,Yes,0.04868,172,3821,0.04185,0.05550
 2009,66 and older,No migration background,No,0.95132,3649,3821,0.94450,0.95815
 2009,66 and older,Direct migration background,No,0.96534,324,324,0.94539,0.98529
-2011,17-29 y.,No migration background,No,0.84966,2389,2389,0.83533,0.86400
-2011,17-29 y.,Direct migration background,No,0.75594,215,215,0.69839,0.81349
-2011,17-29 y.,Indirect migration background,No,0.81442,389,389,0.77573,0.85310
-2011,30-45 y.,No migration background,No,0.80482,3947,3947,0.79245,0.81719
-2011,30-45 y.,Direct migration background,No,0.69294,588,588,0.65563,0.73026
-2011,30-45 y.,Indirect migration background,No,0.81215,312,312,0.76874,0.85556
-2011,46-65 y.,No migration background,Yes,0.01878,129,6892,0.01558,0.02199
-2011,46-65 y.,No migration background,No,0.94045,6763,6892,0.93486,0.94604
-2011,46-65 y.,Direct migration background,No,0.92883,779,779,0.91077,0.94690
-2011,46-65 y.,Indirect migration background,No,0.90676,86,86,0.84495,0.96858
-2011,66 and older,No migration background,Yes,0.05981,242,4696,0.05303,0.06660
-2011,66 and older,No migration background,No,0.93938,4454,4696,0.93255,0.94620
-2011,66 and older,Direct migration background,No,0.95208,395,395,0.93099,0.97317
-2013,17-29 y.,No migration background,No,0.82253,2044,2044,0.80597,0.83910
-2013,17-29 y.,Direct migration background,No,0.31846,176,176,0.24943,0.38749
-2013,17-29 y.,Indirect migration background,No,0.39558,314,314,0.34141,0.44975
-2013,30-45 y.,No migration background,No,0.80121,3295,3295,0.78758,0.81484
-2013,30-45 y.,Direct migration background,No,0.32868,490,490,0.28705,0.37032
-2013,30-45 y.,Indirect migration background,No,0.50048,277,277,0.44149,0.55947
-2013,46-65 y.,No migration background,Yes,0.01892,135,6522,0.01561,0.02223
-2013,46-65 y.,No migration background,No,0.92825,6387,6522,0.92199,0.93452
-2013,46-65 y.,Direct migration background,No,0.62739,685,685,0.59115,0.66362
-2013,46-65 y.,Indirect migration background,No,0.84556,100,100,0.77438,0.91675
-2013,66 and older,No migration background,Yes,0.05502,232,4550,0.04840,0.06165
-2013,66 and older,No migration background,No,0.94319,4318,4550,0.93647,0.94992
-2013,66 and older,Direct migration background,No,0.89497,367,367,0.86356,0.92638
-2015,17-29 y.,No migration background,No,0.92079,2550,2550,0.91030,0.93127
-2015,17-29 y.,Direct migration background,No,0.66350,594,594,0.62547,0.70154
-2015,17-29 y.,Indirect migration background,No,0.91580,777,777,0.89626,0.93534
-2015,30-45 y.,No migration background,No,0.99085,4749,4749,0.98814,0.99356
-2015,30-45 y.,Direct migration background,No,0.81665,1983,1983,0.79962,0.83369
-2015,30-45 y.,Indirect migration background,No,0.96893,590,590,0.95492,0.98294
-2015,46-65 y.,No migration background,Yes,0.02266,150,7257,0.01923,0.02608
-2015,46-65 y.,No migration background,No,0.97590,7107,7257,0.97238,0.97943
-2015,46-65 y.,Direct migration background,No,0.93338,1425,1425,0.92043,0.94633
-2015,46-65 y.,Indirect migration background,No,0.93598,163,163,0.89829,0.97368
-2015,66 and older,No migration background,Yes,0.05690,251,4446,0.05009,0.06371
-2015,66 and older,No migration background,No,0.94271,4195,4446,0.93587,0.94954
-2015,66 and older,Direct migration background,No,0.94990,413,413,0.92884,0.97097
-2017,17-29 y.,No migration background,No,0.93153,2923,2923,0.92237,0.94069
-2017,17-29 y.,Direct migration background,No,0.79024,623,623,0.75824,0.82223
-2017,17-29 y.,Indirect migration background,No,0.91885,811,811,0.90004,0.93766
+2011,17-29 y.,No migration background,No,0.99971,2389,2389,0.99903,1.00039
+2011,30-45 y.,No migration background,No,0.99857,3947,3947,0.99740,0.99975
+2011,30-45 y.,Indirect migration background,No,0.99765,312,312,0.99227,1.00303
+2011,46-65 y.,No migration background,Yes,0.01958,129,6892,0.01631,0.02285
+2011,46-65 y.,No migration background,No,0.98042,6763,6892,0.97715,0.98369
+2011,46-65 y.,Direct migration background,No,0.97485,779,779,0.96385,0.98585
+2011,46-65 y.,Indirect migration background,No,0.96932,86,86,0.93266,1.00598
+2011,66 and older,No migration background,Yes,0.05986,242,4696,0.05308,0.06665
+2011,66 and older,No migration background,No,0.94014,4454,4696,0.93335,0.94692
+2011,66 and older,Direct migration background,No,0.95280,395,395,0.93186,0.97374
+2013,17-29 y.,No migration background,No,0.99967,2044,2044,0.99888,1.00046
+2013,30-45 y.,No migration background,No,0.99772,3295,3295,0.99610,0.99935
+2013,30-45 y.,Direct migration background,No,0.99917,490,490,0.99662,1.00172
+2013,30-45 y.,Indirect migration background,No,0.99469,277,277,0.98611,1.00326
+2013,46-65 y.,No migration background,Yes,0.01997,135,6522,0.01658,0.02337
+2013,46-65 y.,No migration background,No,0.98003,6387,6522,0.97663,0.98342
+2013,46-65 y.,Direct migration background,No,0.98972,685,685,0.98217,0.99728
+2013,46-65 y.,Indirect migration background,No,0.97362,100,100,0.94205,1.00519
+2013,66 and older,No migration background,Yes,0.05512,232,4550,0.04849,0.06175
+2013,66 and older,No migration background,No,0.94488,4318,4550,0.93825,0.95151
+2013,66 and older,Direct migration background,No,0.95355,367,367,0.93198,0.97511
+2015,17-29 y.,Indirect migration background,No,0.99890,777,777,0.99657,1.00123
+2015,30-45 y.,No migration background,No,0.99739,4749,4749,0.99593,0.99884
+2015,30-45 y.,Direct migration background,No,0.99461,1983,1983,0.99139,0.99783
+2015,46-65 y.,No migration background,Yes,0.02269,150,7257,0.01926,0.02611
+2015,46-65 y.,No migration background,No,0.97731,7107,7257,0.97389,0.98074
+2015,46-65 y.,Direct migration background,No,0.98258,1425,1425,0.97579,0.98938
+2015,46-65 y.,Indirect migration background,No,0.93781,163,163,0.90063,0.97500
+2015,66 and older,No migration background,Yes,0.05692,251,4446,0.05011,0.06373
+2015,66 and older,No migration background,No,0.94308,4195,4446,0.93627,0.94989
+2015,66 and older,Direct migration background,No,0.95725,413,413,0.93771,0.97678
+2017,17-29 y.,No migration background,No,0.99972,2923,2923,0.99911,1.00033
+2017,17-29 y.,Indirect migration background,No,0.99967,811,811,0.99843,1.00092
 2017,30-45 y.,No migration background,No,0.99743,4538,4538,0.99595,0.99890
-2017,30-45 y.,Direct migration background,No,0.95134,2114,2114,0.94217,0.96052
+2017,30-45 y.,Direct migration background,No,0.99707,2114,2114,0.99476,0.99937
 2017,30-45 y.,Indirect migration background,No,0.99725,575,575,0.99297,1.00153
 2017,46-65 y.,No migration background,Yes,0.02144,154,8130,0.01829,0.02459
 2017,46-65 y.,No migration background,No,0.97856,7976,8130,0.97541,0.98171
-2017,46-65 y.,Direct migration background,Yes,0.02401,33,1626,0.01657,0.03146
-2017,46-65 y.,Direct migration background,No,0.96206,1593,1626,0.95277,0.97135
+2017,46-65 y.,Direct migration background,Yes,0.02435,33,1626,0.01686,0.03185
+2017,46-65 y.,Direct migration background,No,0.97565,1593,1626,0.96815,0.98314
 2017,46-65 y.,Indirect migration background,No,0.96523,211,211,0.94046,0.99001
 2017,66 and older,No migration background,Yes,0.05722,260,4499,0.05043,0.06401
 2017,66 and older,No migration background,No,0.94278,4239,4499,0.93599,0.94957
-2017,66 and older,Direct migration background,No,0.94631,422,422,0.92478,0.96784
-2019,17-29 y.,No migration background,No,0.92314,2690,2690,0.91307,0.93321
-2019,17-29 y.,Direct migration background,No,0.77070,423,423,0.73059,0.81081
-2019,17-29 y.,Indirect migration background,No,0.92178,726,726,0.90223,0.94132
+2017,66 and older,Direct migration background,No,0.94992,422,422,0.92908,0.97075
+2019,17-29 y.,No migration background,No,0.99968,2690,2690,0.99901,1.00036
+2019,17-29 y.,Indirect migration background,No,0.99920,726,726,0.99715,1.00126
 2019,30-45 y.,No migration background,No,0.99724,4114,4114,0.99564,0.99884
-2019,30-45 y.,Direct migration background,No,0.93728,1612,1612,0.92544,0.94912
+2019,30-45 y.,Direct migration background,No,0.99906,1612,1612,0.99757,1.00056
 2019,30-45 y.,Indirect migration background,No,0.99861,537,537,0.99545,1.00176
 2019,46-65 y.,No migration background,Yes,0.02102,161,8597,0.01798,0.02405
 2019,46-65 y.,No migration background,No,0.97898,8436,8597,0.97595,0.98202
-2019,46-65 y.,Direct migration background,No,0.95945,1518,1518,0.94953,0.96938
+2019,46-65 y.,Direct migration background,No,0.97571,1518,1518,0.96796,0.98346
 2019,46-65 y.,Indirect migration background,No,0.97993,277,277,0.96338,0.99647
 2019,66 and older,No migration background,Yes,0.06096,290,4700,0.05412,0.06781
 2019,66 and older,No migration background,No,0.93904,4410,4700,0.93219,0.94588
-2019,66 and older,Direct migration background,No,0.94293,424,424,0.92082,0.96504
-2021,17-29 y.,No migration background,No,0.91912,1739,1739,0.90630,0.93194
-2021,17-29 y.,Direct migration background,No,0.91561,1019,1019,0.89853,0.93268
-2021,17-29 y.,Indirect migration background,No,0.93866,418,418,0.91563,0.96169
-2021,30-45 y.,No migration background,No,0.98161,2577,2577,0.97642,0.98680
-2021,30-45 y.,Direct migration background,No,0.97294,2314,2314,0.96633,0.97956
-2021,30-45 y.,Indirect migration background,No,0.99435,299,299,0.98585,1.00286
-2021,46-65 y.,No migration background,Yes,0.02235,116,5525,0.01845,0.02625
-2021,46-65 y.,No migration background,No,0.96835,5409,5525,0.96374,0.97297
-2021,46-65 y.,Direct migration background,No,0.97700,1485,1485,0.96938,0.98463
+2019,66 and older,Direct migration background,No,0.94619,424,424,0.92469,0.96769
+2021,17-29 y.,No migration background,No,0.99912,1739,1739,0.99773,1.00051
+2021,17-29 y.,Indirect migration background,No,0.99898,418,418,0.99591,1.00204
+2021,30-45 y.,No migration background,No,0.99590,2577,2577,0.99343,0.99837
+2021,30-45 y.,Direct migration background,No,0.99928,2314,2314,0.99819,1.00037
+2021,30-45 y.,Indirect migration background,No,0.99876,299,299,0.99476,1.00276
+2021,46-65 y.,No migration background,Yes,0.02256,116,5525,0.01865,0.02648
+2021,46-65 y.,No migration background,No,0.97744,5409,5525,0.97352,0.98135
+2021,46-65 y.,Direct migration background,No,0.98657,1485,1485,0.98072,0.99243
 2021,46-65 y.,Indirect migration background,No,0.98206,180,180,0.96262,1.00151
-2021,66 and older,No migration background,Yes,0.06396,190,3200,0.05548,0.07244
-2021,66 and older,No migration background,No,0.92687,3010,3200,0.91785,0.93589
-2021,66 and older,Direct migration background,No,0.92030,323,323,0.89072,0.94988
+2021,66 and older,No migration background,Yes,0.06455,190,3200,0.05604,0.07307
+2021,66 and older,No migration background,No,0.93545,3010,3200,0.92693,0.94396
+2021,66 and older,Direct migration background,No,0.92299,323,323,0.89387,0.95211

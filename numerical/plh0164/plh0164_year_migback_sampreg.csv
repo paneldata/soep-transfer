@@ -14,9 +14,9 @@ year,migback,sampreg,n,mean,mean_lower_confidence,mean_upper_confidence,lower_qu
 1988,No migration background,West,,,,,,,,,,,,
 1988,Direct migration background,West,,,,,,,,,,,,
 1988,Indirect migration background,West,,,,,,,,,,,,
-1989,No migration background,West,6149,7.07237,7.01867,7.12607,5.00000,7.00000,9.00000,0.00000,10.00000,7.00000,7.00000,8.00000
-1989,Direct migration background,West,2227,6.20145,6.09611,6.30678,5.00000,6.00000,8.00000,0.50000,10.00000,6.00000,6.00000,7.00000
-1989,Indirect migration background,West,233,7.53104,7.24540,7.81667,6.00000,8.00000,9.00000,1.50000,10.00000,8.00000,8.00000,8.00000
+1989,No migration background,West,6149,7.07237,7.01867,7.12607,5.00000,7.00000,9.00000,0,10,,,
+1989,Direct migration background,West,2227,6.20145,6.09611,6.30678,5.00000,6.00000,8.00000,0.50000,10,,,
+1989,Indirect migration background,West,233,7.53104,7.24540,7.81667,6.00000,8.00000,9.00000,1.50000,10,,,
 1990,No migration background,West,,,,,,,,,,,,
 1990,No migration background,East,,,,,,,,,,,,
 1990,Direct migration background,West,,,,,,,,,,,,
@@ -35,11 +35,11 @@ year,migback,sampreg,n,mean,mean_lower_confidence,mean_upper_confidence,lower_qu
 1992,Direct migration background,East,,,,,,,,,,,,
 1992,Indirect migration background,West,,,,,,,,,,,,
 1992,Indirect migration background,East,,,,,,,,,,,,
-1993,No migration background,West,5692,7.07099,7.01574,7.12624,6.00000,7.00000,9.00000,1.50000,10.00000,7.00000,7.00000,7.00000
-1993,No migration background,East,2953,6.80495,6.72852,6.88139,5.00000,7.00000,8.00000,0.50000,10.00000,7.00000,7.00000,7.00000
-1993,Direct migration background,West,1925,6.07049,5.95343,6.18756,4.00000,6.00000,8.00000,0.00000,10.00000,6.00000,6.00000,6.00000
-1993,Direct migration background,East,96,6.50619,6.05535,6.95704,5.00000,6.00000,8.00000,0.50000,10.00000,6.00000,6.00000,7.00000
-1993,Indirect migration background,West,414,6.95480,6.73355,7.17605,6.00000,7.00000,9.00000,1.50000,10.00000,7.00000,7.00000,8.00000
+1993,No migration background,West,5692,7.07099,7.01574,7.12624,6.00000,7.00000,9.00000,1.50000,10,,,
+1993,No migration background,East,2953,6.80495,6.72852,6.88139,5.00000,7.00000,8.00000,0.50000,10,,,
+1993,Direct migration background,West,1925,6.07049,5.95343,6.18756,4.00000,6.00000,8.00000,0,10,,,
+1993,Direct migration background,East,96,6.50619,6.05535,6.95704,5.00000,6.00000,8.00000,0.50000,10,,,
+1993,Indirect migration background,West,414,6.95480,6.73355,7.17605,6.00000,7.00000,9.00000,1.50000,10,,,
 1993,Indirect migration background,East,,,,,,,,,,,,
 1994,No migration background,West,,,,,,,,,,,,
 1994,No migration background,East,,,,,,,,,,,,
@@ -77,11 +77,11 @@ year,migback,sampreg,n,mean,mean_lower_confidence,mean_upper_confidence,lower_qu
 1999,Direct migration background,East,,,,,,,,,,,,
 1999,Indirect migration background,West,,,,,,,,,,,,
 1999,Indirect migration background,East,,,,,,,,,,,,
-2000,No migration background,West,13535,7.12399,7.08843,7.15954,6.00000,8.00000,9.00000,1.50000,10.00000,8.00000,7.00000,8.00000
-2000,No migration background,East,4872,7.19429,7.13955,7.24903,6.00000,8.00000,8.00000,3.00000,10.00000,8.00000,7.00000,8.00000
-2000,Direct migration background,West,2898,6.41551,6.32517,6.50585,5.00000,7.00000,8.00000,0.50000,10.00000,7.00000,7.00000,7.00000
-2000,Direct migration background,East,114,6.97200,6.65869,7.28530,6.00000,7.00000,8.00000,3.00000,10.00000,7.00000,6.00000,8.00000
-2000,Indirect migration background,West,769,7.12064,6.96257,7.27870,6.00000,8.00000,9.00000,1.50000,10.00000,8.00000,7.00000,8.00000
+2000,No migration background,West,13535,7.12399,7.08843,7.15954,6.00000,8.00000,9.00000,1.50000,10,,,
+2000,No migration background,East,4872,7.19429,7.13955,7.24903,6.00000,8.00000,8.00000,3.00000,10,,,
+2000,Direct migration background,West,2898,6.41551,6.32517,6.50585,5.00000,7.00000,8.00000,0.50000,10,,,
+2000,Direct migration background,East,114,6.97200,6.65869,7.28530,6.00000,7.00000,8.00000,3.00000,10,,,
+2000,Indirect migration background,West,769,7.12064,6.96257,7.27870,6.00000,8.00000,9.00000,1.50000,10,,,
 2000,Indirect migration background,East,,,,,,,,,,,,
 2001,No migration background,West,,,,,,,,,,,,
 2001,No migration background,East,,,,,,,,,,,,
@@ -101,12 +101,12 @@ year,migback,sampreg,n,mean,mean_lower_confidence,mean_upper_confidence,lower_qu
 2003,Direct migration background,East,,,,,,,,,,,,
 2003,Indirect migration background,West,,,,,,,,,,,,
 2003,Indirect migration background,East,,,,,,,,,,,,
-2004,No migration background,West,12477,6.97396,6.93797,7.00994,6.00000,7.00000,8.00000,3.00000,10.00000,7.00000,7.00000,7.00000
-2004,No migration background,East,4466,7.07232,7.01527,7.12936,6.00000,7.00000,8.00000,3.00000,10.00000,7.00000,7.00000,7.00000
-2004,Direct migration background,West,2272,5.95338,5.85083,6.05594,5.00000,6.00000,8.00000,0.50000,10.00000,6.00000,6.00000,6.00000
-2004,Direct migration background,East,77,6.64241,6.15395,7.13087,5.00000,7.00000,8.00000,0.50000,10.00000,7.00000,6.00000,7.00000
-2004,Indirect migration background,West,738,6.56348,6.40828,6.71867,5.00000,7.00000,8.00000,0.50000,10.00000,7.00000,7.00000,7.00000
-2004,Indirect migration background,East,34,7.06770,6.29951,7.83590,6.85482,7.00000,8.11349,4.96680,10.00000,7.00000,7.00000,8.00000
+2004,No migration background,West,12477,6.97396,6.93797,7.00994,6.00000,7.00000,8.00000,3.00000,10,,,
+2004,No migration background,East,4466,7.07232,7.01527,7.12936,6.00000,7.00000,8.00000,3.00000,10,,,
+2004,Direct migration background,West,2272,5.95338,5.85083,6.05594,5.00000,6.00000,8.00000,0.50000,10,,,
+2004,Direct migration background,East,77,6.64241,6.15395,7.13087,5.00000,7.00000,8.00000,0.50000,10,,,
+2004,Indirect migration background,West,738,6.56348,6.40828,6.71867,5.00000,7.00000,8.00000,0.50000,10,,,
+2004,Indirect migration background,East,34,7.06770,6.29951,7.83590,6.83307,7.05030,8.66647,4.08297,10,,,
 2005,No migration background,West,,,,,,,,,,,,
 2005,No migration background,East,,,,,,,,,,,,
 2005,Direct migration background,West,,,,,,,,,,,,
@@ -125,12 +125,12 @@ year,migback,sampreg,n,mean,mean_lower_confidence,mean_upper_confidence,lower_qu
 2007,Direct migration background,East,,,,,,,,,,,,
 2007,Indirect migration background,West,,,,,,,,,,,,
 2007,Indirect migration background,East,,,,,,,,,,,,
-2008,No migration background,West,11254,7.23230,7.19542,7.26917,6.00000,8.00000,9.00000,1.50000,10.00000,8.00000,8.00000,8.00000
-2008,No migration background,East,4096,7.36176,7.30528,7.41824,6.00000,8.00000,9.00000,1.50000,10.00000,8.00000,8.00000,8.00000
-2008,Direct migration background,West,1672,6.13697,6.01467,6.25927,5.00000,7.00000,8.00000,0.50000,10.00000,7.00000,6.00000,7.00000
-2008,Direct migration background,East,57,7.06951,6.47012,7.66889,5.00000,7.00000,9.00000,0.00000,10.00000,7.00000,6.00000,8.00000
-2008,Indirect migration background,West,700,6.90720,6.73715,7.07726,6.00000,7.00000,8.31228,2.53158,10.00000,7.00000,7.00000,8.00000
-2008,Indirect migration background,East,39,7.13348,6.38408,7.88288,5.00000,7.26524,9.00000,0.00000,10.00000,7.00000,5.00000,9.00000
+2008,No migration background,West,11254,7.23230,7.19542,7.26917,6.00000,8.00000,9.00000,1.50000,10,,,
+2008,No migration background,East,4096,7.36176,7.30528,7.41824,6.00000,8.00000,9.00000,1.50000,10,,,
+2008,Direct migration background,West,1672,6.13697,6.01467,6.25927,5.00000,7.00000,8.00000,0.50000,10,,,
+2008,Direct migration background,East,57,7.06951,6.47012,7.66889,5.00000,7.00000,9.00000,0,10,,,
+2008,Indirect migration background,West,700,6.90720,6.73715,7.07726,6.00000,7.00000,8.16193,2.75710,10,,,
+2008,Indirect migration background,East,39,7.13348,6.38408,7.88288,5.00000,7.23739,9.00000,0,10,,,
 2009,No migration background,West,,,,,,,,,,,,
 2009,No migration background,East,,,,,,,,,,,,
 2009,Direct migration background,West,,,,,,,,,,,,
@@ -161,12 +161,12 @@ year,migback,sampreg,n,mean,mean_lower_confidence,mean_upper_confidence,lower_qu
 2013,Direct migration background,East,,,,,,,,,,,,
 2013,Indirect migration background,West,,,,,,,,,,,,
 2013,Indirect migration background,East,,,,,,,,,,,,
-2014,No migration background,West,14032,7.55691,7.52455,7.58927,7.00000,8.00000,9.00000,4.00000,10.00000,8.00000,8.00000,8.00000
-2014,No migration background,East,4386,7.60916,7.55243,7.66589,7.00000,8.00000,9.00000,4.00000,10.00000,8.00000,8.00000,8.00000
-2014,Direct migration background,West,4652,6.85918,6.78660,6.93176,5.00000,7.00000,9.00000,0.00000,10.00000,7.00000,7.00000,8.00000
-2014,Direct migration background,East,347,7.60494,7.35894,7.85094,7.00000,8.00000,9.00000,4.00000,10.00000,8.00000,8.00000,8.00000
-2014,Indirect migration background,West,1564,7.32648,7.21269,7.44027,6.00000,8.00000,9.00000,1.50000,10.00000,8.00000,8.00000,8.00000
-2014,Indirect migration background,East,83,8.05207,7.61978,8.48437,8.00000,8.78809,9.00000,6.50000,10.00000,9.00000,8.00000,9.00000
+2014,No migration background,West,14032,7.55691,7.52455,7.58927,7.00000,8.00000,9.00000,4.00000,10,,,
+2014,No migration background,East,4386,7.60916,7.55243,7.66589,7.00000,8.00000,9.00000,4.00000,10,,,
+2014,Direct migration background,West,4652,6.85918,6.78660,6.93176,5.00000,7.00000,9.00000,0,10,,,
+2014,Direct migration background,East,347,7.60494,7.35894,7.85094,7.00000,8.00000,9.00000,4.00000,10,,,
+2014,Indirect migration background,West,1564,7.32648,7.21269,7.44027,6.00000,8.00000,9.00000,1.50000,10,,,
+2014,Indirect migration background,East,83,8.05207,7.61978,8.48437,8.00000,8.88894,9.00000,6.50000,10,,,
 2015,No migration background,West,,,,,,,,,,,,
 2015,No migration background,East,,,,,,,,,,,,
 2015,Direct migration background,West,,,,,,,,,,,,
@@ -191,12 +191,15 @@ year,migback,sampreg,n,mean,mean_lower_confidence,mean_upper_confidence,lower_qu
 2018,Direct migration background,East,,,,,,,,,,,,
 2018,Indirect migration background,West,,,,,,,,,,,,
 2018,Indirect migration background,East,,,,,,,,,,,,
-2019,No migration background,West,14107,7.73401,7.70354,7.76448,7.00000,8.00000,9.00000,4.00000,10.00000,8.00000,8.00000,8.00000
-2019,No migration background,East,4588,7.90783,7.85973,7.95592,7.00000,8.00000,9.00000,4.00000,10.00000,8.00000,8.00000,8.00000
-2019,Direct migration background,West,3476,7.01623,6.93571,7.09676,6.00000,8.00000,9.00000,1.50000,10.00000,8.00000,7.00000,8.00000
-2019,Direct migration background,East,291,7.84091,7.61892,8.06291,7.00000,8.00000,9.56535,3.15198,10.00000,8.00000,8.00000,9.00000
-2019,Indirect migration background,West,1404,7.48087,7.36298,7.59876,7.00000,8.00000,9.00000,4.00000,10.00000,8.00000,8.00000,8.00000
-2019,Indirect migration background,East,108,7.74557,7.39060,8.10053,7.00000,8.00000,9.00000,4.00000,10.00000,8.00000,8.00000,8.00000
+2019,No migration background,Does not apply,67,7.64198,7.07746,8.20650,7.00000,8.00000,9.00000,4.00000,10,,,
+2019,No migration background,West,14107,7.73401,7.70354,7.76448,7.00000,8.00000,9.00000,4.00000,10,,,
+2019,No migration background,East,4588,7.90783,7.85973,7.95592,7.00000,8.00000,9.00000,4.00000,10,,,
+2019,Direct migration background,Does not apply,,,,,,,,,,,,
+2019,Direct migration background,West,3476,7.01623,6.93571,7.09676,6.00000,8.00000,9.00000,1.50000,10,,,
+2019,Direct migration background,East,291,7.84091,7.61892,8.06291,7.00000,8.00000,9.87112,2.69333,10,,,
+2019,Indirect migration background,Does not apply,,,,,,,,,,,,
+2019,Indirect migration background,West,1404,7.48087,7.36298,7.59876,7.00000,8.00000,9.00000,4.00000,10,,,
+2019,Indirect migration background,East,108,7.74557,7.39060,8.10053,7.00000,8.00000,9.00000,4.00000,10,,,
 2020,No migration background,West,,,,,,,,,,,,
 2020,No migration background,East,,,,,,,,,,,,
 2020,Direct migration background,West,,,,,,,,,,,,
@@ -209,6 +212,8 @@ year,migback,sampreg,n,mean,mean_lower_confidence,mean_upper_confidence,lower_qu
 2021,Direct migration background,East,,,,,,,,,,,,
 2021,Indirect migration background,West,,,,,,,,,,,,
 2021,Indirect migration background,East,,,,,,,,,,,,
+2022,No answer / don't know,West,,,,,,,,,,,,
+2022,No answer / don't know,East,,,,,,,,,,,,
 2022,No migration background,West,,,,,,,,,,,,
 2022,No migration background,East,,,,,,,,,,,,
 2022,Direct migration background,West,,,,,,,,,,,,

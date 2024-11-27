@@ -1,562 +1,638 @@
 year,pgisced97,pli0091_h,proportion,n,group_size,proportion_lower_confidence,proportion_upper_confidence
-1985,Pre-primary Level,At least once per week,0.33585,65,173,0.26527,0.40643
-1985,Pre-primary Level,At least once per month,0.38488,65,173,0.31216,0.45760
-1985,Pre-primary Level,Seldom,0.21305,43,173,0.15186,0.27424
-1985,Primary Level,At least once per month,0.07060,51,798,0.05282,0.08838
-1985,Primary Level,Seldom,0.22659,150,798,0.19753,0.25566
-1985,Primary Level,Never,0.61023,597,798,0.57637,0.64409
-1985,Lower Secondary Level,At least once per week,0.08711,302,3028,0.07707,0.09716
-1985,Lower Secondary Level,At least once per month,0.10755,363,3028,0.09651,0.11858
-1985,Lower Secondary Level,Seldom,0.22035,741,3028,0.20559,0.23512
-1985,Lower Secondary Level,Never,0.57484,1622,3028,0.55723,0.59245
-1985,Upper Secondary Level,At least once per week,0.08517,493,5129,0.07753,0.09281
-1985,Upper Secondary Level,At least once per month,0.12666,705,5129,0.11756,0.13576
-1985,Upper Secondary Level,Seldom,0.34135,1846,5129,0.32837,0.35432
-1985,Upper Secondary Level,Never,0.43625,2085,5129,0.42268,0.44982
-1985,Post-secondary Non-tertiary Level,At least once per month,0.19728,54,242,0.14703,0.24752
-1985,Post-secondary Non-tertiary Level,Seldom,0.31947,91,242,0.26060,0.37834
-1985,Post-secondary Non-tertiary Level,Never,0.34304,97,242,0.28310,0.40297
-1985,First Stage of Tertiary Education,At least once per week,0.06972,44,610,0.04949,0.08995
-1985,First Stage of Tertiary Education,At least once per month,0.11768,78,610,0.09209,0.14328
-1985,First Stage of Tertiary Education,Seldom,0.36630,243,610,0.32803,0.40456
-1985,First Stage of Tertiary Education,Never,0.43383,245,610,0.39446,0.47319
-1985,Second Stage of Tertiary Education,At least once per week,0.08187,68,747,0.06219,0.10154
-1985,Second Stage of Tertiary Education,At least once per month,0.16608,129,747,0.13937,0.19278
-1985,Second Stage of Tertiary Education,Seldom,0.39730,318,747,0.36219,0.43242
-1985,Second Stage of Tertiary Education,Never,0.34575,232,747,0.31162,0.37988
-1986,Pre-primary Level,At least once per week,0.32384,62,177,0.25470,0.39297
-1986,Pre-primary Level,At least once per month,0.38584,70,177,0.31393,0.45776
-1986,Pre-primary Level,Seldom,0.23212,45,177,0.16975,0.29450
-1986,Primary Level,At least once per week,0.08172,32,772,0.06238,0.10106
-1986,Primary Level,At least once per month,0.07733,51,772,0.05847,0.09618
-1986,Primary Level,Seldom,0.21005,143,772,0.18129,0.23880
-1986,Primary Level,Never,0.62532,546,772,0.59116,0.65949
-1986,Lower Secondary Level,At least once per week,0.08738,291,2878,0.07706,0.09770
-1986,Lower Secondary Level,At least once per month,0.10729,351,2878,0.09598,0.11860
-1986,Lower Secondary Level,Seldom,0.21622,710,2878,0.20117,0.23126
-1986,Lower Secondary Level,Never,0.57797,1526,2878,0.55992,0.59602
-1986,Upper Secondary Level,At least once per week,0.08466,450,4961,0.07691,0.09241
-1986,Upper Secondary Level,At least once per month,0.13814,748,4961,0.12854,0.14774
-1986,Upper Secondary Level,Seldom,0.33567,1735,4961,0.32252,0.34881
-1986,Upper Secondary Level,Never,0.43436,2028,4961,0.42057,0.44816
+1985,No answer / don't know,Never,0.36549,60,60,0.24261,0.48838
+1985,Pre-primary Level,At least once per week,0.33881,65,173,0.26807,0.40954
+1985,Pre-primary Level,At least once per month,0.38827,65,173,0.31544,0.46110
+1985,Pre-primary Level,Seldom,0.21493,43,173,0.15354,0.27632
+1985,Primary Level,At least once per month,0.07196,51,798,0.05401,0.08990
+1985,Primary Level,Seldom,0.23095,150,798,0.20169,0.26021
+1985,Primary Level,Never,0.62196,597,798,0.58829,0.65562
+1985,Lower Secondary Level,At least once per week,0.08801,302,3028,0.07791,0.09810
+1985,Lower Secondary Level,At least once per month,0.10865,363,3028,0.09756,0.11974
+1985,Lower Secondary Level,Seldom,0.22261,741,3028,0.20779,0.23743
+1985,Lower Secondary Level,Never,0.58073,1622,3028,0.56315,0.59831
+1985,Upper Secondary Level,At least once per week,0.08608,493,5129,0.07840,0.09376
+1985,Upper Secondary Level,At least once per month,0.12801,705,5129,0.11887,0.13716
+1985,Upper Secondary Level,Seldom,0.34499,1846,5129,0.33198,0.35800
+1985,Upper Secondary Level,Never,0.44091,2085,5129,0.42732,0.45450
+1985,Post-secondary Non-tertiary Level,At least once per month,0.20302,54,242,0.15224,0.25381
+1985,Post-secondary Non-tertiary Level,Seldom,0.32878,91,242,0.26947,0.38809
+1985,Post-secondary Non-tertiary Level,Never,0.35303,97,242,0.29269,0.41337
+1985,First Stage of Tertiary Education,At least once per week,0.07060,44,610,0.05026,0.09095
+1985,First Stage of Tertiary Education,At least once per month,0.11917,78,610,0.09344,0.14490
+1985,First Stage of Tertiary Education,Seldom,0.37092,243,610,0.33256,0.40929
+1985,First Stage of Tertiary Education,Never,0.43930,245,610,0.39989,0.47872
+1985,Second Stage of Tertiary Education,At least once per week,0.08261,68,747,0.06286,0.10237
+1985,Second Stage of Tertiary Education,At least once per month,0.16759,129,747,0.14078,0.19439
+1985,Second Stage of Tertiary Education,Seldom,0.40091,318,747,0.36575,0.43608
+1985,Second Stage of Tertiary Education,Never,0.34889,232,747,0.31468,0.38309
+1986,No answer / don't know,Seldom,0.27773,34,80,0.17897,0.37650
+1986,No answer / don't know,Never,0.27865,46,80,0.17978,0.37751
+1986,Pre-primary Level,At least once per week,0.32609,62,177,0.25683,0.39535
+1986,Pre-primary Level,At least once per month,0.38853,70,177,0.31651,0.46054
+1986,Pre-primary Level,Seldom,0.23373,45,177,0.17121,0.29626
+1986,Primary Level,At least once per week,0.08218,32,772,0.06279,0.10157
+1986,Primary Level,At least once per month,0.07776,51,772,0.05886,0.09666
+1986,Primary Level,Seldom,0.21123,143,772,0.18241,0.24004
+1986,Primary Level,Never,0.62883,546,772,0.59473,0.66294
+1986,Lower Secondary Level,At least once per week,0.08837,291,2878,0.07799,0.09874
+1986,Lower Secondary Level,At least once per month,0.10850,351,2878,0.09713,0.11986
+1986,Lower Secondary Level,Seldom,0.21865,710,2878,0.20355,0.23376
+1986,Lower Secondary Level,Never,0.58448,1526,2878,0.56648,0.60249
+1986,Upper Secondary Level,At least once per week,0.08527,450,4961,0.07750,0.09304
+1986,Upper Secondary Level,At least once per month,0.13914,748,4961,0.12951,0.14877
+1986,Upper Secondary Level,Seldom,0.33809,1735,4961,0.32492,0.35126
+1986,Upper Secondary Level,Never,0.43750,2028,4961,0.42370,0.45131
 1986,Post-secondary Non-tertiary Level,At least once per month,0.18958,52,251,0.14100,0.23817
 1986,Post-secondary Non-tertiary Level,Seldom,0.37493,100,251,0.31492,0.43494
 1986,Post-secondary Non-tertiary Level,Never,0.35053,99,251,0.29138,0.40968
-1986,First Stage of Tertiary Education,At least once per week,0.04707,31,573,0.02971,0.06442
-1986,First Stage of Tertiary Education,At least once per month,0.15639,85,573,0.12663,0.18616
-1986,First Stage of Tertiary Education,Seldom,0.35817,237,573,0.31887,0.39746
-1986,First Stage of Tertiary Education,Never,0.42087,220,573,0.38041,0.46133
-1986,Second Stage of Tertiary Education,At least once per week,0.08008,61,742,0.06053,0.09962
-1986,Second Stage of Tertiary Education,At least once per month,0.16586,139,742,0.13907,0.19264
-1986,Second Stage of Tertiary Education,Seldom,0.39635,311,742,0.36113,0.43157
-1986,Second Stage of Tertiary Education,Never,0.35041,231,742,0.31606,0.38476
-1988,Pre-primary Level,At least once per week,0.36713,59,152,0.29025,0.44402
-1988,Pre-primary Level,At least once per month,0.38316,59,152,0.30562,0.46071
-1988,Pre-primary Level,Seldom,0.19652,34,152,0.13314,0.25991
+1986,First Stage of Tertiary Education,At least once per week,0.04791,31,573,0.03040,0.06541
+1986,First Stage of Tertiary Education,At least once per month,0.15918,85,573,0.12920,0.18916
+1986,First Stage of Tertiary Education,Seldom,0.36454,237,573,0.32510,0.40399
+1986,First Stage of Tertiary Education,Never,0.42837,220,573,0.38782,0.46892
+1986,Second Stage of Tertiary Education,At least once per week,0.08066,61,742,0.06106,0.10027
+1986,Second Stage of Tertiary Education,At least once per month,0.16708,139,742,0.14022,0.19394
+1986,Second Stage of Tertiary Education,Seldom,0.39927,311,742,0.36401,0.43453
+1986,Second Stage of Tertiary Education,Never,0.35299,231,742,0.31858,0.38740
+1988,No answer / don't know,At least once per month,0.29632,31,125,0.21595,0.37669
+1988,No answer / don't know,Seldom,0.28545,36,125,0.20596,0.36494
+1988,No answer / don't know,Never,0.26362,58,125,0.18607,0.34117
+1988,Pre-primary Level,At least once per week,0.37314,59,152,0.29600,0.45028
+1988,Pre-primary Level,At least once per month,0.38943,59,152,0.31165,0.46721
+1988,Pre-primary Level,Seldom,0.19974,34,152,0.13597,0.26351
 1988,Primary Level,At least once per month,0.09952,48,666,0.07677,0.12228
 1988,Primary Level,Seldom,0.20880,113,666,0.17791,0.23969
 1988,Primary Level,Never,0.62058,505,666,0.58370,0.65746
-1988,Lower Secondary Level,At least once per week,0.07874,278,2696,0.06857,0.08891
-1988,Lower Secondary Level,At least once per month,0.10581,349,2696,0.09419,0.11742
-1988,Lower Secondary Level,Seldom,0.21058,637,2696,0.19519,0.22598
-1988,Lower Secondary Level,Never,0.59332,1432,2696,0.57477,0.61186
-1988,Upper Secondary Level,At least once per week,0.07698,384,4692,0.06935,0.08460
-1988,Upper Secondary Level,At least once per month,0.14773,758,4692,0.13758,0.15788
-1988,Upper Secondary Level,Seldom,0.34590,1652,4692,0.33229,0.35951
-1988,Upper Secondary Level,Never,0.41755,1898,4692,0.40344,0.43167
-1988,Post-secondary Non-tertiary Level,At least once per month,0.23975,59,243,0.18596,0.29354
-1988,Post-secondary Non-tertiary Level,Seldom,0.33380,82,243,0.27438,0.39321
-1988,Post-secondary Non-tertiary Level,Never,0.32034,102,243,0.26155,0.37913
-1988,First Stage of Tertiary Education,At least once per month,0.14113,76,508,0.11082,0.17143
-1988,First Stage of Tertiary Education,Seldom,0.40436,238,508,0.36164,0.44708
-1988,First Stage of Tertiary Education,Never,0.39699,194,508,0.35440,0.43958
-1988,Second Stage of Tertiary Education,At least once per week,0.06826,50,699,0.04955,0.08697
-1988,Second Stage of Tertiary Education,At least once per month,0.19805,141,699,0.16849,0.22762
-1988,Second Stage of Tertiary Education,Seldom,0.40864,295,699,0.37217,0.44511
-1988,Second Stage of Tertiary Education,Never,0.32149,213,699,0.28684,0.35614
-1990,Pre-primary Level,At least once per week,0.31562,60,178,0.24715,0.38409
-1990,Pre-primary Level,At least once per month,0.46900,80,178,0.39548,0.54252
-1990,Pre-primary Level,Seldom,0.15679,38,178,0.10322,0.21035
-1990,Primary Level,At least once per month,0.10653,36,621,0.08225,0.13082
-1990,Primary Level,Seldom,0.14429,79,621,0.11663,0.17195
-1990,Primary Level,Never,0.67727,506,621,0.64047,0.71407
-1990,Lower Secondary Level,At least once per week,0.06953,278,2958,0.06036,0.07869
-1990,Lower Secondary Level,At least once per month,0.09799,359,2958,0.08727,0.10871
-1990,Lower Secondary Level,Seldom,0.19282,598,2958,0.17860,0.20704
-1990,Lower Secondary Level,Never,0.63405,1723,2958,0.61669,0.65141
-1990,Upper Secondary Level,At least once per week,0.05300,434,7021,0.04776,0.05825
-1990,Upper Secondary Level,At least once per month,0.13147,978,7021,0.12357,0.13938
-1990,Upper Secondary Level,Seldom,0.36283,2752,7021,0.35159,0.37408
-1990,Upper Secondary Level,Never,0.44725,2857,7021,0.43562,0.45888
+1988,Lower Secondary Level,At least once per week,0.07966,278,2696,0.06944,0.08988
+1988,Lower Secondary Level,At least once per month,0.10704,349,2696,0.09537,0.11872
+1988,Lower Secondary Level,Seldom,0.21305,637,2696,0.19759,0.22850
+1988,Lower Secondary Level,Never,0.60025,1432,2696,0.58176,0.61874
+1988,Upper Secondary Level,At least once per week,0.07790,384,4692,0.07023,0.08557
+1988,Upper Secondary Level,At least once per month,0.14950,758,4692,0.13930,0.15971
+1988,Upper Secondary Level,Seldom,0.35004,1652,4692,0.33639,0.36369
+1988,Upper Secondary Level,Never,0.42256,1898,4692,0.40842,0.43669
+1988,Post-secondary Non-tertiary Level,At least once per month,0.23998,59,243,0.18617,0.29379
+1988,Post-secondary Non-tertiary Level,Seldom,0.33413,82,243,0.27470,0.39356
+1988,Post-secondary Non-tertiary Level,Never,0.32065,102,243,0.26185,0.37946
+1988,First Stage of Tertiary Education,At least once per month,0.14308,76,508,0.11260,0.17356
+1988,First Stage of Tertiary Education,Seldom,0.40996,238,508,0.36715,0.45277
+1988,First Stage of Tertiary Education,Never,0.40249,194,508,0.35980,0.44517
+1988,Second Stage of Tertiary Education,At least once per week,0.06851,50,699,0.04976,0.08725
+1988,Second Stage of Tertiary Education,At least once per month,0.19876,141,699,0.16916,0.22837
+1988,Second Stage of Tertiary Education,Seldom,0.41010,295,699,0.37361,0.44659
+1988,Second Stage of Tertiary Education,Never,0.32264,213,699,0.28795,0.35732
+1990,No answer / don't know,At least once per month,0.18212,32,142,0.11841,0.24582
+1990,No answer / don't know,Seldom,0.37987,42,142,0.29976,0.45999
+1990,No answer / don't know,Never,0.31342,68,142,0.23685,0.38999
+1990,Pre-primary Level,At least once per week,0.31635,60,178,0.24783,0.38486
+1990,Pre-primary Level,At least once per month,0.47008,80,178,0.39655,0.54361
+1990,Pre-primary Level,Seldom,0.15715,38,178,0.10353,0.21077
+1990,Primary Level,At least once per month,0.10846,36,621,0.08398,0.13294
+1990,Primary Level,Seldom,0.14690,79,621,0.11903,0.17477
+1990,Primary Level,Never,0.68953,506,621,0.65311,0.72595
+1990,Lower Secondary Level,At least once per week,0.06992,278,2958,0.06073,0.07911
+1990,Lower Secondary Level,At least once per month,0.09854,359,2958,0.08780,0.10929
+1990,Lower Secondary Level,Seldom,0.19391,598,2958,0.17966,0.20816
+1990,Lower Secondary Level,Never,0.63763,1723,2958,0.62030,0.65495
+1990,Upper Secondary Level,At least once per week,0.05329,434,7021,0.04804,0.05855
+1990,Upper Secondary Level,At least once per month,0.13219,978,7021,0.12427,0.14012
+1990,Upper Secondary Level,Seldom,0.36482,2752,7021,0.35356,0.37608
+1990,Upper Secondary Level,Never,0.44969,2857,7021,0.43806,0.46133
 1990,Post-secondary Non-tertiary Level,At least once per week,0.10678,38,372,0.07535,0.13820
 1990,Post-secondary Non-tertiary Level,At least once per month,0.24272,82,372,0.19909,0.28635
 1990,Post-secondary Non-tertiary Level,Seldom,0.39995,146,372,0.35010,0.44980
 1990,Post-secondary Non-tertiary Level,Never,0.25056,106,372,0.20646,0.29465
-1990,First Stage of Tertiary Education,At least once per month,0.12269,94,745,0.09911,0.14626
-1990,First Stage of Tertiary Education,Seldom,0.41566,358,745,0.38024,0.45107
-1990,First Stage of Tertiary Education,Never,0.43724,293,745,0.40160,0.47289
-1990,Second Stage of Tertiary Education,At least once per week,0.03204,57,1679,0.02361,0.04046
-1990,Second Stage of Tertiary Education,At least once per month,0.16775,270,1679,0.14988,0.18563
-1990,Second Stage of Tertiary Education,Seldom,0.50867,956,1679,0.48475,0.53259
-1990,Second Stage of Tertiary Education,Never,0.28538,396,1679,0.26378,0.30699
-1992,Pre-primary Level,At least once per week,0.36230,64,175,0.29088,0.43372
-1992,Pre-primary Level,At least once per month,0.33995,65,175,0.26957,0.41034
-1992,Pre-primary Level,Seldom,0.22505,46,175,0.16299,0.28710
-1992,Primary Level,At least once per month,0.08951,39,598,0.06661,0.11241
-1992,Primary Level,Seldom,0.21645,126,598,0.18341,0.24948
-1992,Primary Level,Never,0.64484,433,598,0.60645,0.68323
-1992,Lower Secondary Level,At least once per week,0.07814,289,2746,0.06810,0.08818
-1992,Lower Secondary Level,At least once per month,0.09931,341,2746,0.08812,0.11050
-1992,Lower Secondary Level,Seldom,0.22745,683,2746,0.21177,0.24313
-1992,Lower Secondary Level,Never,0.57665,1433,2746,0.55816,0.59513
-1992,Upper Secondary Level,At least once per week,0.07381,520,6626,0.06751,0.08010
-1992,Upper Secondary Level,At least once per month,0.12933,914,6626,0.12125,0.13741
-1992,Upper Secondary Level,Seldom,0.38095,2679,6626,0.36925,0.39264
-1992,Upper Secondary Level,Never,0.39461,2513,6626,0.38284,0.40638
-1992,Post-secondary Non-tertiary Level,At least once per week,0.14767,54,382,0.11205,0.18330
-1992,Post-secondary Non-tertiary Level,At least once per month,0.24249,81,382,0.19945,0.28552
-1992,Post-secondary Non-tertiary Level,Seldom,0.37846,156,382,0.32975,0.42716
-1992,Post-secondary Non-tertiary Level,Never,0.22951,91,382,0.18728,0.27174
-1992,First Stage of Tertiary Education,At least once per month,0.14675,109,727,0.12101,0.17249
-1992,First Stage of Tertiary Education,Seldom,0.41553,357,727,0.37968,0.45138
-1992,First Stage of Tertiary Education,Never,0.38033,261,727,0.34502,0.41564
-1992,Second Stage of Tertiary Education,At least once per week,0.04337,64,1645,0.03352,0.05321
-1992,Second Stage of Tertiary Education,At least once per month,0.17241,242,1645,0.15415,0.19067
-1992,Second Stage of Tertiary Education,Seldom,0.47305,871,1645,0.44891,0.49718
-1992,Second Stage of Tertiary Education,Never,0.30505,468,1645,0.28280,0.32731
-1994,Pre-primary Level,At least once per week,0.45389,103,231,0.38955,0.51824
-1994,Pre-primary Level,At least once per month,0.34163,82,231,0.28034,0.40292
-1994,Pre-primary Level,Seldom,0.17508,46,231,0.12597,0.22420
-1994,Primary Level,Seldom,0.23326,119,509,0.19649,0.27004
-1994,Primary Level,Never,0.65258,390,509,0.61117,0.69399
-1994,Lower Secondary Level,At least once per week,0.08581,275,2451,0.07472,0.09690
-1994,Lower Secondary Level,At least once per month,0.08975,275,2451,0.07843,0.10107
-1994,Lower Secondary Level,Seldom,0.21953,599,2451,0.20314,0.23592
-1994,Lower Secondary Level,Never,0.58024,1302,2451,0.56070,0.59979
-1994,Upper Secondary Level,At least once per week,0.07585,537,6506,0.06942,0.08228
-1994,Upper Secondary Level,At least once per month,0.13340,940,6506,0.12514,0.14166
-1994,Upper Secondary Level,Seldom,0.39582,2671,6506,0.38393,0.40770
-1994,Upper Secondary Level,Never,0.38181,2358,6506,0.37000,0.39362
-1994,Post-secondary Non-tertiary Level,At least once per week,0.11730,48,389,0.08529,0.14932
-1994,Post-secondary Non-tertiary Level,At least once per month,0.27983,99,389,0.23516,0.32450
-1994,Post-secondary Non-tertiary Level,Seldom,0.39426,158,389,0.34563,0.44288
-1994,Post-secondary Non-tertiary Level,Never,0.20202,84,389,0.16206,0.24197
-1994,First Stage of Tertiary Education,At least once per week,0.05531,40,745,0.03888,0.07174
-1994,First Stage of Tertiary Education,At least once per month,0.12685,110,745,0.10293,0.15076
-1994,First Stage of Tertiary Education,Seldom,0.48325,370,745,0.44734,0.51916
-1994,First Stage of Tertiary Education,Never,0.32580,225,745,0.29213,0.35948
-1994,Second Stage of Tertiary Education,At least once per week,0.04356,65,1645,0.03369,0.05343
-1994,Second Stage of Tertiary Education,At least once per month,0.17930,265,1645,0.16076,0.19785
-1994,Second Stage of Tertiary Education,Seldom,0.49301,881,1645,0.46885,0.51718
-1994,Second Stage of Tertiary Education,Never,0.27970,434,1645,0.25800,0.30140
-1995,Pre-primary Level,At least once per week,0.43491,120,274,0.37611,0.49372
-1995,Pre-primary Level,At least once per month,0.35914,100,274,0.30223,0.41605
-1995,Pre-primary Level,Seldom,0.16453,54,274,0.12055,0.20851
-1995,Primary Level,Seldom,0.15044,71,492,0.11882,0.18207
-1995,Primary Level,Never,0.73526,421,492,0.69623,0.77428
-1995,Lower Secondary Level,At least once per week,0.07606,249,2482,0.06563,0.08649
-1995,Lower Secondary Level,At least once per month,0.08545,281,2482,0.07445,0.09645
-1995,Lower Secondary Level,Seldom,0.20506,545,2482,0.18917,0.22095
-1995,Lower Secondary Level,Never,0.62932,1407,2482,0.61032,0.64833
-1995,Upper Secondary Level,At least once per week,0.05169,407,6690,0.04638,0.05699
-1995,Upper Secondary Level,At least once per month,0.12868,959,6690,0.12066,0.13671
-1995,Upper Secondary Level,Seldom,0.36072,2569,6690,0.34921,0.37223
-1995,Upper Secondary Level,Never,0.45047,2755,6690,0.43855,0.46240
-1995,Post-secondary Non-tertiary Level,At least once per month,0.29317,123,443,0.25073,0.33560
-1995,Post-secondary Non-tertiary Level,Seldom,0.39039,181,443,0.34491,0.43587
-1995,Post-secondary Non-tertiary Level,Never,0.25808,139,443,0.21729,0.29888
-1995,First Stage of Tertiary Education,At least once per month,0.14847,115,729,0.12264,0.17430
-1995,First Stage of Tertiary Education,Seldom,0.35295,313,729,0.31824,0.38767
-1995,First Stage of Tertiary Education,Never,0.47200,301,729,0.43574,0.50827
-1995,Second Stage of Tertiary Education,At least once per week,0.03152,51,1747,0.02333,0.03972
-1995,Second Stage of Tertiary Education,At least once per month,0.15931,265,1747,0.14214,0.17648
-1995,Second Stage of Tertiary Education,Seldom,0.45986,874,1747,0.43648,0.48323
-1995,Second Stage of Tertiary Education,Never,0.34114,557,1747,0.31890,0.36338
-1996,Pre-primary Level,At least once per week,0.42764,114,284,0.37000,0.48528
-1996,Pre-primary Level,At least once per month,0.40583,119,284,0.34861,0.46304
-1996,Pre-primary Level,Seldom,0.14453,51,284,0.10356,0.18549
-1996,Primary Level,Seldom,0.25933,112,450,0.21879,0.29987
-1996,Primary Level,Never,0.62721,338,450,0.58248,0.67194
-1996,Lower Secondary Level,At least once per week,0.08019,242,2367,0.06925,0.09114
-1996,Lower Secondary Level,At least once per month,0.10467,306,2367,0.09233,0.11700
-1996,Lower Secondary Level,Seldom,0.25768,661,2367,0.24005,0.27530
-1996,Lower Secondary Level,Never,0.54344,1158,2367,0.52337,0.56352
-1996,Upper Secondary Level,At least once per week,0.08064,565,6589,0.07406,0.08721
-1996,Upper Secondary Level,At least once per month,0.16133,1170,6589,0.15245,0.17021
-1996,Upper Secondary Level,Seldom,0.39963,2777,6589,0.38780,0.41146
-1996,Upper Secondary Level,Never,0.35020,2077,6589,0.33868,0.36172
+1990,First Stage of Tertiary Education,At least once per month,0.12328,94,745,0.09965,0.14690
+1990,First Stage of Tertiary Education,Seldom,0.41767,358,745,0.38223,0.45310
+1990,First Stage of Tertiary Education,Never,0.43936,293,745,0.40369,0.47502
+1990,Second Stage of Tertiary Education,At least once per week,0.03224,57,1679,0.02379,0.04069
+1990,Second Stage of Tertiary Education,At least once per month,0.16879,270,1679,0.15087,0.18671
+1990,Second Stage of Tertiary Education,Seldom,0.51182,956,1679,0.48790,0.53574
+1990,Second Stage of Tertiary Education,Never,0.28715,396,1679,0.26550,0.30880
+1992,No answer / don't know,At least once per month,0.32178,55,171,0.25156,0.39201
+1992,No answer / don't know,Seldom,0.34277,54,171,0.27142,0.41412
+1992,No answer / don't know,Never,0.22666,62,171,0.16373,0.28960
+1992,Pre-primary Level,At least once per week,0.36518,64,175,0.29364,0.43673
+1992,Pre-primary Level,At least once per month,0.34266,65,175,0.27214,0.41318
+1992,Pre-primary Level,Seldom,0.22684,46,175,0.16461,0.28906
+1992,Primary Level,At least once per month,0.09027,39,598,0.06728,0.11326
+1992,Primary Level,Seldom,0.21829,126,598,0.18515,0.25143
+1992,Primary Level,Never,0.65033,433,598,0.61208,0.68858
+1992,Lower Secondary Level,At least once per week,0.07961,289,2746,0.06948,0.08974
+1992,Lower Secondary Level,At least once per month,0.10118,341,2746,0.08990,0.11246
+1992,Lower Secondary Level,Seldom,0.23173,683,2746,0.21594,0.24751
+1992,Lower Secondary Level,Never,0.58749,1433,2746,0.56907,0.60590
+1992,Upper Secondary Level,At least once per week,0.07541,520,6626,0.06905,0.08177
+1992,Upper Secondary Level,At least once per month,0.13215,914,6626,0.12399,0.14030
+1992,Upper Secondary Level,Seldom,0.38924,2679,6626,0.37750,0.40098
+1992,Upper Secondary Level,Never,0.40320,2513,6626,0.39139,0.41501
+1992,Post-secondary Non-tertiary Level,At least once per week,0.14795,54,382,0.11230,0.18360
+1992,Post-secondary Non-tertiary Level,At least once per month,0.24294,81,382,0.19988,0.28601
+1992,Post-secondary Non-tertiary Level,Seldom,0.37917,156,382,0.33045,0.42789
+1992,Post-secondary Non-tertiary Level,Never,0.22994,91,382,0.18769,0.27219
+1992,First Stage of Tertiary Education,At least once per month,0.14904,109,727,0.12314,0.17495
+1992,First Stage of Tertiary Education,Seldom,0.42202,357,727,0.38610,0.45795
+1992,First Stage of Tertiary Education,Never,0.38627,261,727,0.35085,0.42169
+1992,Second Stage of Tertiary Education,At least once per week,0.04363,64,1645,0.03376,0.05351
+1992,Second Stage of Tertiary Education,At least once per month,0.17347,242,1645,0.15516,0.19177
+1992,Second Stage of Tertiary Education,Seldom,0.47596,871,1645,0.45182,0.50011
+1992,Second Stage of Tertiary Education,Never,0.30693,468,1645,0.28464,0.32923
+1994,No answer / don't know,At least once per week,0.13641,32,219,0.09084,0.18197
+1994,No answer / don't know,At least once per month,0.25600,48,219,0.19806,0.31393
+1994,No answer / don't know,Seldom,0.32401,69,219,0.26188,0.38614
+1994,No answer / don't know,Never,0.28359,70,219,0.22375,0.34342
+1994,Pre-primary Level,At least once per week,0.45988,103,231,0.39547,0.52430
+1994,Pre-primary Level,At least once per month,0.34614,82,231,0.28465,0.40762
+1994,Pre-primary Level,Seldom,0.17739,46,231,0.12802,0.22676
+1994,Primary Level,Seldom,0.23516,119,509,0.19828,0.27204
+1994,Primary Level,Never,0.65788,390,509,0.61662,0.69913
+1994,Lower Secondary Level,At least once per week,0.08798,275,2451,0.07676,0.09920
+1994,Lower Secondary Level,At least once per month,0.09202,275,2451,0.08057,0.10347
+1994,Lower Secondary Level,Seldom,0.22508,599,2451,0.20854,0.24162
+1994,Lower Secondary Level,Never,0.59492,1302,2451,0.57548,0.61436
+1994,Upper Secondary Level,At least once per week,0.07686,537,6506,0.07039,0.08333
+1994,Upper Secondary Level,At least once per month,0.13518,940,6506,0.12687,0.14348
+1994,Upper Secondary Level,Seldom,0.40108,2671,6506,0.38917,0.41299
+1994,Upper Secondary Level,Never,0.38689,2358,6506,0.37505,0.39872
+1994,Post-secondary Non-tertiary Level,At least once per week,0.11808,48,389,0.08597,0.15019
+1994,Post-secondary Non-tertiary Level,At least once per month,0.28169,99,389,0.23693,0.32645
+1994,Post-secondary Non-tertiary Level,Seldom,0.39687,158,389,0.34819,0.44556
+1994,Post-secondary Non-tertiary Level,Never,0.20336,84,389,0.16331,0.24341
+1994,First Stage of Tertiary Education,At least once per week,0.05580,40,745,0.03931,0.07229
+1994,First Stage of Tertiary Education,At least once per month,0.12797,110,745,0.10397,0.15198
+1994,First Stage of Tertiary Education,Seldom,0.48753,370,745,0.45162,0.52345
+1994,First Stage of Tertiary Education,Never,0.32869,225,745,0.29494,0.36245
+1994,Second Stage of Tertiary Education,At least once per week,0.04375,65,1645,0.03387,0.05364
+1994,Second Stage of Tertiary Education,At least once per month,0.18010,265,1645,0.16152,0.19867
+1994,Second Stage of Tertiary Education,Seldom,0.49520,881,1645,0.47104,0.51937
+1994,Second Stage of Tertiary Education,Never,0.28094,434,1645,0.25922,0.30267
+1995,No answer / don't know,At least once per week,0.19324,40,262,0.14534,0.24114
+1995,No answer / don't know,At least once per month,0.21589,51,262,0.16597,0.26580
+1995,No answer / don't know,Seldom,0.23441,67,262,0.18302,0.28581
+1995,No answer / don't know,Never,0.35646,104,262,0.29835,0.41457
+1995,Pre-primary Level,At least once per week,0.43563,120,274,0.37681,0.49445
+1995,Pre-primary Level,At least once per month,0.35973,100,274,0.30280,0.41666
+1995,Pre-primary Level,Seldom,0.16480,54,274,0.12079,0.20881
+1995,Primary Level,Seldom,0.15315,71,492,0.12130,0.18501
+1995,Primary Level,Never,0.74849,421,492,0.71011,0.78686
+1995,Lower Secondary Level,At least once per week,0.07637,249,2482,0.06592,0.08682
+1995,Lower Secondary Level,At least once per month,0.08580,281,2482,0.07478,0.09682
+1995,Lower Secondary Level,Seldom,0.20591,545,2482,0.19000,0.22182
+1995,Lower Secondary Level,Never,0.63192,1407,2482,0.61294,0.65090
+1995,Upper Secondary Level,At least once per week,0.05212,407,6690,0.04680,0.05745
+1995,Upper Secondary Level,At least once per month,0.12978,959,6690,0.12173,0.13783
+1995,Upper Secondary Level,Seldom,0.36379,2569,6690,0.35226,0.37532
+1995,Upper Secondary Level,Never,0.45431,2755,6690,0.44237,0.46624
+1995,Post-secondary Non-tertiary Level,At least once per month,0.29355,123,443,0.25110,0.33601
+1995,Post-secondary Non-tertiary Level,Seldom,0.39091,181,443,0.34542,0.43640
+1995,Post-secondary Non-tertiary Level,Never,0.25842,139,443,0.21761,0.29923
+1995,First Stage of Tertiary Education,At least once per month,0.14873,115,729,0.12288,0.17458
+1995,First Stage of Tertiary Education,Seldom,0.35356,313,729,0.31883,0.38829
+1995,First Stage of Tertiary Education,Never,0.47282,301,729,0.43655,0.50909
+1995,Second Stage of Tertiary Education,At least once per week,0.03178,51,1747,0.02356,0.04001
+1995,Second Stage of Tertiary Education,At least once per month,0.16062,265,1747,0.14340,0.17785
+1995,Second Stage of Tertiary Education,Seldom,0.46364,874,1747,0.44025,0.48704
+1995,Second Stage of Tertiary Education,Never,0.34395,557,1747,0.32167,0.36623
+1996,No answer / don't know,At least once per week,0.14847,37,260,0.10516,0.19177
+1996,No answer / don't know,At least once per month,0.24785,64,260,0.19527,0.30044
+1996,No answer / don't know,Seldom,0.38425,93,260,0.32501,0.44349
+1996,No answer / don't know,Never,0.21943,66,260,0.16903,0.26983
+1996,Pre-primary Level,At least once per week,0.42927,114,284,0.37160,0.48693
+1996,Pre-primary Level,At least once per month,0.40737,119,284,0.35012,0.46461
+1996,Pre-primary Level,Seldom,0.14507,51,284,0.10404,0.18611
+1996,Primary Level,Seldom,0.26038,112,450,0.21978,0.30097
+1996,Primary Level,Never,0.62973,338,450,0.58506,0.67439
+1996,Lower Secondary Level,At least once per week,0.08133,242,2367,0.07032,0.09235
+1996,Lower Secondary Level,At least once per month,0.10616,306,2367,0.09374,0.11857
+1996,Lower Secondary Level,Seldom,0.26134,661,2367,0.24364,0.27904
+1996,Lower Secondary Level,Never,0.55117,1158,2367,0.53113,0.57121
+1996,Upper Secondary Level,At least once per week,0.08130,565,6589,0.07470,0.08790
+1996,Upper Secondary Level,At least once per month,0.16266,1170,6589,0.15375,0.17157
+1996,Upper Secondary Level,Seldom,0.40293,2777,6589,0.39109,0.41478
+1996,Upper Secondary Level,Never,0.35310,2077,6589,0.34156,0.36464
 1996,Post-secondary Non-tertiary Level,At least once per week,0.10235,45,471,0.07495,0.12976
 1996,Post-secondary Non-tertiary Level,At least once per month,0.30367,131,471,0.26210,0.34525
 1996,Post-secondary Non-tertiary Level,Seldom,0.38515,196,471,0.34115,0.42914
 1996,Post-secondary Non-tertiary Level,Never,0.20883,99,471,0.17208,0.24557
-1996,First Stage of Tertiary Education,At least once per week,0.05684,41,757,0.04034,0.07335
-1996,First Stage of Tertiary Education,At least once per month,0.19401,156,757,0.16583,0.22220
-1996,First Stage of Tertiary Education,Seldom,0.45892,376,757,0.42340,0.49444
-1996,First Stage of Tertiary Education,Never,0.28226,184,757,0.25018,0.31435
-1996,Second Stage of Tertiary Education,At least once per week,0.04691,84,1758,0.03702,0.05680
-1996,Second Stage of Tertiary Education,At least once per month,0.20338,357,1758,0.18456,0.22220
-1996,Second Stage of Tertiary Education,Seldom,0.49513,932,1758,0.47175,0.51851
-1996,Second Stage of Tertiary Education,Never,0.24799,385,1758,0.22780,0.26819
+1996,First Stage of Tertiary Education,At least once per week,0.05730,41,757,0.04073,0.07387
+1996,First Stage of Tertiary Education,At least once per month,0.19557,156,757,0.16730,0.22385
+1996,First Stage of Tertiary Education,Seldom,0.46260,376,757,0.42706,0.49815
+1996,First Stage of Tertiary Education,Never,0.28453,184,757,0.25236,0.31669
+1996,Second Stage of Tertiary Education,At least once per week,0.04722,84,1758,0.03730,0.05714
+1996,Second Stage of Tertiary Education,At least once per month,0.20473,357,1758,0.18586,0.22360
+1996,Second Stage of Tertiary Education,Seldom,0.49841,932,1758,0.47503,0.52179
+1996,Second Stage of Tertiary Education,Never,0.24964,385,1758,0.22940,0.26987
+1997,No answer / don't know,At least once per week,0.12517,31,263,0.08510,0.16524
+1997,No answer / don't know,At least once per month,0.26833,69,263,0.21468,0.32198
+1997,No answer / don't know,Seldom,0.37950,94,263,0.32074,0.43826
+1997,No answer / don't know,Never,0.22701,69,263,0.17628,0.27773
 1997,Pre-primary Level,At least once per week,0.36875,112,304,0.31443,0.42308
 1997,Pre-primary Level,At least once per month,0.38102,118,304,0.32634,0.43570
 1997,Pre-primary Level,Seldom,0.21918,74,304,0.17260,0.26576
-1997,Primary Level,Seldom,0.21114,94,422,0.17215,0.25013
-1997,Primary Level,Never,0.69658,328,422,0.65266,0.74049
-1997,Lower Secondary Level,At least once per week,0.07333,220,2307,0.06269,0.08397
-1997,Lower Secondary Level,At least once per month,0.11264,322,2307,0.09974,0.12555
-1997,Lower Secondary Level,Seldom,0.24152,622,2307,0.22405,0.25899
-1997,Lower Secondary Level,Never,0.55113,1143,2307,0.53083,0.57143
-1997,Upper Secondary Level,At least once per week,0.07177,509,6426,0.06546,0.07808
-1997,Upper Secondary Level,At least once per month,0.15217,1079,6426,0.14339,0.16095
-1997,Upper Secondary Level,Seldom,0.40079,2700,6426,0.38881,0.41278
-1997,Upper Secondary Level,Never,0.36121,2138,6426,0.34946,0.37295
-1997,Post-secondary Non-tertiary Level,At least once per week,0.11233,49,449,0.08309,0.14157
-1997,Post-secondary Non-tertiary Level,At least once per month,0.29183,115,449,0.24973,0.33393
-1997,Post-secondary Non-tertiary Level,Seldom,0.41421,192,449,0.36859,0.45982
-1997,Post-secondary Non-tertiary Level,Never,0.17457,93,449,0.13942,0.20972
-1997,First Stage of Tertiary Education,At least once per week,0.04311,36,748,0.02854,0.05767
-1997,First Stage of Tertiary Education,At least once per month,0.16652,132,748,0.13980,0.19324
-1997,First Stage of Tertiary Education,Seldom,0.45788,376,748,0.42215,0.49361
-1997,First Stage of Tertiary Education,Never,0.31316,204,748,0.27990,0.34642
-1997,Second Stage of Tertiary Education,At least once per week,0.06636,101,1760,0.05473,0.07800
-1997,Second Stage of Tertiary Education,At least once per month,0.20028,359,1760,0.18158,0.21899
-1997,Second Stage of Tertiary Education,Seldom,0.45938,888,1760,0.43609,0.48266
-1997,Second Stage of Tertiary Education,Never,0.26640,412,1760,0.24575,0.28706
-1998,Pre-primary Level,At least once per week,0.29101,97,321,0.24124,0.34078
-1998,Pre-primary Level,At least once per month,0.44169,148,321,0.38728,0.49610
-1998,Pre-primary Level,Seldom,0.23137,76,321,0.18517,0.27758
-1998,Primary Level,Seldom,0.21196,80,413,0.17250,0.25143
-1998,Primary Level,Never,0.69968,333,413,0.65542,0.74394
-1998,Lower Secondary Level,At least once per week,0.06450,203,2522,0.05491,0.07409
-1998,Lower Secondary Level,At least once per month,0.11299,334,2522,0.10063,0.12535
-1998,Lower Secondary Level,Seldom,0.23673,654,2522,0.22014,0.25333
-1998,Lower Secondary Level,Never,0.57661,1331,2522,0.55732,0.59590
-1998,Upper Secondary Level,At least once per week,0.04139,342,6988,0.03672,0.04606
-1998,Upper Secondary Level,At least once per month,0.15454,1132,6988,0.14607,0.16302
-1998,Upper Secondary Level,Seldom,0.39013,2901,6988,0.37870,0.40157
-1998,Upper Secondary Level,Never,0.40572,2613,6988,0.39421,0.41724
-1998,Post-secondary Non-tertiary Level,At least once per week,0.06573,34,502,0.04403,0.08743
-1998,Post-secondary Non-tertiary Level,At least once per month,0.26801,132,502,0.22923,0.30680
-1998,Post-secondary Non-tertiary Level,Seldom,0.45107,225,502,0.40750,0.49465
-1998,Post-secondary Non-tertiary Level,Never,0.21049,111,502,0.17479,0.24619
-1998,First Stage of Tertiary Education,At least once per month,0.17212,149,790,0.14578,0.19846
-1998,First Stage of Tertiary Education,Seldom,0.46802,404,790,0.43321,0.50284
-1998,First Stage of Tertiary Education,Never,0.32573,237,790,0.29303,0.35843
-1998,Second Stage of Tertiary Education,At least once per week,0.03487,71,1966,0.02675,0.04298
-1998,Second Stage of Tertiary Education,At least once per month,0.20365,390,1966,0.18585,0.22146
-1998,Second Stage of Tertiary Education,Seldom,0.46439,966,1966,0.44234,0.48645
-1998,Second Stage of Tertiary Education,Never,0.29550,539,1966,0.27533,0.31567
-1999,Pre-primary Level,At least once per week,0.33464,101,306,0.28168,0.38759
-1999,Pre-primary Level,At least once per month,0.40929,130,306,0.35411,0.46448
-1999,Pre-primary Level,Seldom,0.22398,75,306,0.17719,0.27077
-1999,Primary Level,Seldom,0.26451,104,399,0.22118,0.30785
-1999,Primary Level,Never,0.65524,295,399,0.60854,0.70193
-1999,Lower Secondary Level,At least once per week,0.07573,232,2424,0.06520,0.08627
-1999,Lower Secondary Level,At least once per month,0.11373,348,2424,0.10109,0.12637
-1999,Lower Secondary Level,Seldom,0.27582,704,2424,0.25802,0.29361
-1999,Lower Secondary Level,Never,0.52725,1140,2424,0.50737,0.54713
-1999,Upper Secondary Level,At least once per week,0.06969,522,6888,0.06367,0.07570
-1999,Upper Secondary Level,At least once per month,0.16582,1219,6888,0.15703,0.17460
-1999,Upper Secondary Level,Seldom,0.42562,3092,6888,0.41394,0.43730
-1999,Upper Secondary Level,Never,0.33100,2055,6888,0.31988,0.34211
-1999,Post-secondary Non-tertiary Level,At least once per week,0.10152,48,500,0.07502,0.12801
-1999,Post-secondary Non-tertiary Level,At least once per month,0.27421,138,500,0.23507,0.31335
-1999,Post-secondary Non-tertiary Level,Seldom,0.41827,218,500,0.37499,0.46155
-1999,Post-secondary Non-tertiary Level,Never,0.19634,96,500,0.16148,0.23119
-1999,First Stage of Tertiary Education,At least once per week,0.03813,38,809,0.02493,0.05134
-1999,First Stage of Tertiary Education,At least once per month,0.15322,137,809,0.12838,0.17805
-1999,First Stage of Tertiary Education,Seldom,0.51262,454,809,0.47816,0.54709
-1999,First Stage of Tertiary Education,Never,0.28823,180,809,0.25700,0.31946
-1999,Second Stage of Tertiary Education,At least once per week,0.04517,98,1948,0.03595,0.05440
-1999,Second Stage of Tertiary Education,At least once per month,0.21586,440,1948,0.19758,0.23413
-1999,Second Stage of Tertiary Education,Seldom,0.50780,1047,1948,0.48559,0.53001
-1999,Second Stage of Tertiary Education,Never,0.22420,363,1948,0.20568,0.24273
-2001,Pre-primary Level,At least once per week,0.32011,184,522,0.28005,0.36017
-2001,Pre-primary Level,At least once per month,0.46809,251,522,0.42524,0.51094
-2001,Pre-primary Level,Seldom,0.17341,87,522,0.14090,0.20592
-2001,Primary Level,Seldom,0.22109,62,280,0.17239,0.26978
-2001,Primary Level,Never,0.65676,218,280,0.60105,0.71247
-2001,Lower Secondary Level,At least once per week,0.07767,291,3050,0.06817,0.08717
-2001,Lower Secondary Level,At least once per month,0.10973,406,3050,0.09863,0.12082
-2001,Lower Secondary Level,Seldom,0.23686,773,3050,0.22177,0.25195
-2001,Lower Secondary Level,Never,0.56229,1580,3050,0.54468,0.57990
-2001,Upper Secondary Level,At least once per week,0.06645,814,11500,0.06190,0.07100
-2001,Upper Secondary Level,At least once per month,0.15685,1878,11500,0.15021,0.16350
-2001,Upper Secondary Level,Seldom,0.38980,4717,11500,0.38089,0.39872
-2001,Upper Secondary Level,Never,0.37830,4091,11500,0.36943,0.38716
-2001,Post-secondary Non-tertiary Level,At least once per week,0.09369,92,1061,0.07614,0.11123
-2001,Post-secondary Non-tertiary Level,At least once per month,0.25205,273,1061,0.22591,0.27819
-2001,Post-secondary Non-tertiary Level,Seldom,0.40274,451,1061,0.37322,0.43227
-2001,Post-secondary Non-tertiary Level,Never,0.24519,245,1061,0.21929,0.27108
-2001,First Stage of Tertiary Education,At least once per week,0.04344,68,1662,0.03364,0.05324
-2001,First Stage of Tertiary Education,At least once per month,0.17034,298,1662,0.15227,0.18842
-2001,First Stage of Tertiary Education,Seldom,0.45207,813,1662,0.42814,0.47601
-2001,First Stage of Tertiary Education,Never,0.32281,483,1662,0.30032,0.34529
-2001,Second Stage of Tertiary Education,At least once per week,0.06078,194,3527,0.05289,0.06867
-2001,Second Stage of Tertiary Education,At least once per month,0.21514,774,3527,0.20158,0.22871
-2001,Second Stage of Tertiary Education,Seldom,0.48227,1778,3527,0.46578,0.49876
-2001,Second Stage of Tertiary Education,Never,0.23450,781,3527,0.22051,0.24848
-2003,Pre-primary Level,At least once per week,0.22554,158,593,0.19187,0.25920
-2003,Pre-primary Level,At least once per month,0.49330,299,593,0.45303,0.53358
-2003,Pre-primary Level,Seldom,0.23310,136,593,0.19904,0.26715
-2003,Primary Level,Seldom,0.17431,47,245,0.12671,0.22191
-2003,Primary Level,Never,0.70911,198,245,0.65212,0.76610
-2003,Lower Secondary Level,At least once per week,0.06406,187,2720,0.05486,0.07326
-2003,Lower Secondary Level,At least once per month,0.12492,407,2720,0.11249,0.13735
-2003,Lower Secondary Level,Seldom,0.21680,636,2720,0.20131,0.23229
-2003,Lower Secondary Level,Never,0.58868,1490,2720,0.57018,0.60717
-2003,Upper Secondary Level,At least once per week,0.03622,468,11064,0.03274,0.03970
-2003,Upper Secondary Level,At least once per month,0.13696,1638,11064,0.13055,0.14337
-2003,Upper Secondary Level,Seldom,0.38507,4502,11064,0.37600,0.39414
-2003,Upper Secondary Level,Never,0.43686,4456,11064,0.42762,0.44610
-2003,Post-secondary Non-tertiary Level,At least once per week,0.03988,55,1149,0.02856,0.05120
-2003,Post-secondary Non-tertiary Level,At least once per month,0.23549,278,1149,0.21095,0.26004
-2003,Post-secondary Non-tertiary Level,Seldom,0.44200,537,1149,0.41327,0.47073
-2003,Post-secondary Non-tertiary Level,Never,0.27899,279,1149,0.25304,0.30493
-2003,First Stage of Tertiary Education,At least once per week,0.02551,42,1679,0.01796,0.03305
-2003,First Stage of Tertiary Education,At least once per month,0.13965,240,1679,0.12307,0.15624
-2003,First Stage of Tertiary Education,Seldom,0.45666,837,1679,0.43282,0.48049
-2003,First Stage of Tertiary Education,Never,0.36942,560,1679,0.34633,0.39252
-2003,Second Stage of Tertiary Education,At least once per week,0.03247,124,4339,0.02719,0.03774
-2003,Second Stage of Tertiary Education,At least once per month,0.22345,932,4339,0.21106,0.23585
-2003,Second Stage of Tertiary Education,Seldom,0.47326,2232,4339,0.45840,0.48812
-2003,Second Stage of Tertiary Education,Never,0.26569,1051,4339,0.25255,0.27884
-2005,Pre-primary Level,At least once per week,0.26757,208,627,0.23290,0.30225
-2005,Pre-primary Level,At least once per month,0.47128,292,627,0.43218,0.51038
-2005,Pre-primary Level,Seldom,0.21447,127,627,0.18232,0.24663
-2005,Primary Level,Seldom,0.18180,43,210,0.12951,0.23409
-2005,Primary Level,Never,0.61587,167,210,0.54993,0.68181
-2005,Lower Secondary Level,At least once per week,0.06948,181,2381,0.05926,0.07969
-2005,Lower Secondary Level,At least once per month,0.13745,352,2381,0.12362,0.15129
-2005,Lower Secondary Level,Seldom,0.26442,639,2381,0.24670,0.28214
-2005,Lower Secondary Level,Never,0.52399,1209,2381,0.50393,0.54406
-2005,Upper Secondary Level,At least once per week,0.05154,560,10196,0.04725,0.05583
-2005,Upper Secondary Level,At least once per month,0.14827,1602,10196,0.14137,0.15517
-2005,Upper Secondary Level,Seldom,0.43827,4597,10196,0.42864,0.44790
-2005,Upper Secondary Level,Never,0.35431,3437,10196,0.34502,0.36359
-2005,Post-secondary Non-tertiary Level,At least once per week,0.06578,72,1124,0.05128,0.08028
-2005,Post-secondary Non-tertiary Level,At least once per month,0.24338,280,1124,0.21829,0.26848
-2005,Post-secondary Non-tertiary Level,Seldom,0.47997,566,1124,0.45075,0.50919
-2005,Post-secondary Non-tertiary Level,Never,0.20449,206,1124,0.18090,0.22808
-2005,First Stage of Tertiary Education,At least once per week,0.03801,59,1549,0.02849,0.04754
-2005,First Stage of Tertiary Education,At least once per month,0.14621,222,1549,0.12861,0.16381
-2005,First Stage of Tertiary Education,Seldom,0.50035,833,1549,0.47544,0.52526
-2005,First Stage of Tertiary Education,Never,0.30289,435,1549,0.28000,0.32578
-2005,Second Stage of Tertiary Education,At least once per week,0.05245,196,4144,0.04566,0.05924
-2005,Second Stage of Tertiary Education,At least once per month,0.23583,934,4144,0.22290,0.24876
-2005,Second Stage of Tertiary Education,Seldom,0.48936,2190,4144,0.47414,0.50459
-2005,Second Stage of Tertiary Education,Never,0.21702,824,4144,0.20447,0.22957
-2007,Pre-primary Level,At least once per week,0.13137,107,333,0.09503,0.16771
-2007,Pre-primary Level,At least once per month,0.23013,144,333,0.18485,0.27540
-2007,Pre-primary Level,Seldom,0.15086,82,333,0.11236,0.18936
+1997,Primary Level,Seldom,0.21179,94,422,0.17276,0.25082
+1997,Primary Level,Never,0.69872,328,422,0.65489,0.74255
+1997,Lower Secondary Level,At least once per week,0.07494,220,2307,0.06419,0.08568
+1997,Lower Secondary Level,At least once per month,0.11510,322,2307,0.10208,0.12813
+1997,Lower Secondary Level,Seldom,0.24679,622,2307,0.22919,0.26439
+1997,Lower Secondary Level,Never,0.56317,1143,2307,0.54292,0.58341
+1997,Upper Secondary Level,At least once per week,0.07280,509,6426,0.06644,0.07915
+1997,Upper Secondary Level,At least once per month,0.15434,1079,6426,0.14550,0.16317
+1997,Upper Secondary Level,Seldom,0.40651,2700,6426,0.39450,0.41852
+1997,Upper Secondary Level,Never,0.36636,2138,6426,0.35458,0.37814
+1997,Post-secondary Non-tertiary Level,At least once per week,0.11313,49,449,0.08380,0.14246
+1997,Post-secondary Non-tertiary Level,At least once per month,0.29391,115,449,0.25172,0.33609
+1997,Post-secondary Non-tertiary Level,Seldom,0.41715,192,449,0.37149,0.46281
+1997,Post-secondary Non-tertiary Level,Never,0.17581,93,449,0.14056,0.21106
+1997,First Stage of Tertiary Education,At least once per week,0.04396,36,748,0.02926,0.05866
+1997,First Stage of Tertiary Education,At least once per month,0.16980,132,748,0.14288,0.19673
+1997,First Stage of Tertiary Education,Seldom,0.46691,376,748,0.43113,0.50269
+1997,First Stage of Tertiary Education,Never,0.31933,204,748,0.28590,0.35277
+1997,Second Stage of Tertiary Education,At least once per week,0.06687,101,1760,0.05520,0.07854
+1997,Second Stage of Tertiary Education,At least once per month,0.20181,359,1760,0.18306,0.22057
+1997,Second Stage of Tertiary Education,Seldom,0.46288,888,1760,0.43958,0.48618
+1997,Second Stage of Tertiary Education,Never,0.26844,412,1760,0.24773,0.28915
+1998,No answer / don't know,At least once per week,0.05859,41,598,0.03975,0.07743
+1998,No answer / don't know,At least once per month,0.20756,123,598,0.17502,0.24009
+1998,No answer / don't know,Seldom,0.30161,182,598,0.26480,0.33843
+1998,No answer / don't know,Never,0.43224,252,598,0.39250,0.47198
+1998,Pre-primary Level,At least once per week,0.29191,97,321,0.24210,0.34172
+1998,Pre-primary Level,At least once per month,0.44306,148,321,0.38863,0.49749
+1998,Pre-primary Level,Seldom,0.23209,76,321,0.18583,0.27835
+1998,Primary Level,Seldom,0.21318,80,413,0.17363,0.25273
+1998,Primary Level,Never,0.70369,333,413,0.65959,0.74778
+1998,Lower Secondary Level,At least once per week,0.06510,203,2522,0.05547,0.07473
+1998,Lower Secondary Level,At least once per month,0.11403,334,2522,0.10162,0.12644
+1998,Lower Secondary Level,Seldom,0.23892,654,2522,0.22228,0.25557
+1998,Lower Secondary Level,Never,0.58195,1331,2522,0.56269,0.60120
+1998,Upper Secondary Level,At least once per week,0.04173,342,6988,0.03704,0.04642
+1998,Upper Secondary Level,At least once per month,0.15582,1132,6988,0.14732,0.16433
+1998,Upper Secondary Level,Seldom,0.39336,2901,6988,0.38191,0.40482
+1998,Upper Secondary Level,Never,0.40908,2613,6988,0.39755,0.42061
+1998,Post-secondary Non-tertiary Level,At least once per week,0.06604,34,502,0.04430,0.08779
+1998,Post-secondary Non-tertiary Level,At least once per month,0.26927,132,502,0.23043,0.30812
+1998,Post-secondary Non-tertiary Level,Seldom,0.45320,225,502,0.40961,0.49679
+1998,Post-secondary Non-tertiary Level,Never,0.21148,111,502,0.17572,0.24724
+1998,First Stage of Tertiary Education,At least once per month,0.17327,149,790,0.14686,0.19968
+1998,First Stage of Tertiary Education,Seldom,0.47117,404,790,0.43634,0.50600
+1998,First Stage of Tertiary Education,Never,0.32792,237,790,0.29517,0.36068
+1998,Second Stage of Tertiary Education,At least once per week,0.03492,71,1966,0.02680,0.04304
+1998,Second Stage of Tertiary Education,At least once per month,0.20398,390,1966,0.18616,0.22179
+1998,Second Stage of Tertiary Education,Seldom,0.46513,966,1966,0.44308,0.48719
+1998,Second Stage of Tertiary Education,Never,0.29597,539,1966,0.27579,0.31615
+1999,No answer / don't know,At least once per week,0.13183,41,283,0.09235,0.17132
+1999,No answer / don't know,At least once per month,0.22337,67,283,0.17476,0.27199
+1999,No answer / don't know,Seldom,0.38403,102,283,0.32726,0.44080
+1999,No answer / don't know,Never,0.26076,73,283,0.20952,0.31201
+1999,Pre-primary Level,At least once per week,0.33599,101,306,0.28298,0.38900
+1999,Pre-primary Level,At least once per month,0.41095,130,306,0.35573,0.46616
+1999,Pre-primary Level,Seldom,0.22489,75,306,0.17803,0.27174
+1999,Primary Level,Seldom,0.26679,104,399,0.22334,0.31024
+1999,Primary Level,Never,0.66087,295,399,0.61436,0.70738
+1999,Lower Secondary Level,At least once per week,0.07630,232,2424,0.06573,0.08688
+1999,Lower Secondary Level,At least once per month,0.11459,348,2424,0.10190,0.12727
+1999,Lower Secondary Level,Seldom,0.27789,704,2424,0.26006,0.29573
+1999,Lower Secondary Level,Never,0.53122,1140,2424,0.51135,0.55109
+1999,Upper Secondary Level,At least once per week,0.07024,522,6888,0.06420,0.07628
+1999,Upper Secondary Level,At least once per month,0.16713,1219,6888,0.15832,0.17594
+1999,Upper Secondary Level,Seldom,0.42900,3092,6888,0.41731,0.44069
+1999,Upper Secondary Level,Never,0.33363,2055,6888,0.32249,0.34476
+1999,Post-secondary Non-tertiary Level,At least once per week,0.10251,48,500,0.07589,0.12912
+1999,Post-secondary Non-tertiary Level,At least once per month,0.27688,138,500,0.23762,0.31615
+1999,Post-secondary Non-tertiary Level,Seldom,0.42236,218,500,0.37902,0.46569
+1999,Post-secondary Non-tertiary Level,Never,0.19825,96,500,0.16327,0.23323
+1999,First Stage of Tertiary Education,At least once per week,0.03843,38,809,0.02518,0.05169
+1999,First Stage of Tertiary Education,At least once per month,0.15442,137,809,0.12951,0.17934
+1999,First Stage of Tertiary Education,Seldom,0.51665,454,809,0.48220,0.55111
+1999,First Stage of Tertiary Education,Never,0.29049,180,809,0.25919,0.32180
+1999,Second Stage of Tertiary Education,At least once per week,0.04549,98,1948,0.03623,0.05475
+1999,Second Stage of Tertiary Education,At least once per month,0.21737,440,1948,0.19905,0.23569
+1999,Second Stage of Tertiary Education,Seldom,0.51136,1047,1948,0.48916,0.53357
+1999,Second Stage of Tertiary Education,Never,0.22577,363,1948,0.20720,0.24435
+2001,No answer / don't know,At least once per month,0.37975,46,46,0.23795,0.52155
+2001,Pre-primary Level,At least once per week,0.32477,184,522,0.28456,0.36498
+2001,Pre-primary Level,At least once per month,0.47490,251,522,0.43202,0.51778
+2001,Pre-primary Level,Seldom,0.17594,87,522,0.14324,0.20863
+2001,Primary Level,Seldom,0.22275,62,280,0.17393,0.27158
+2001,Primary Level,Never,0.66171,218,280,0.60619,0.71723
+2001,Lower Secondary Level,At least once per week,0.07873,291,3050,0.06917,0.08829
+2001,Lower Secondary Level,At least once per month,0.11122,406,3050,0.10006,0.12238
+2001,Lower Secondary Level,Seldom,0.24009,773,3050,0.22493,0.25525
+2001,Lower Secondary Level,Never,0.56996,1580,3050,0.55239,0.58753
+2001,Upper Secondary Level,At least once per week,0.06703,814,11500,0.06246,0.07160
+2001,Upper Secondary Level,At least once per month,0.15821,1878,11500,0.15154,0.16488
+2001,Upper Secondary Level,Seldom,0.39318,4717,11500,0.38425,0.40211
+2001,Upper Secondary Level,Never,0.38158,4091,11500,0.37270,0.39046
+2001,Post-secondary Non-tertiary Level,At least once per week,0.09428,92,1061,0.07669,0.11188
+2001,Post-secondary Non-tertiary Level,At least once per month,0.25366,273,1061,0.22746,0.27985
+2001,Post-secondary Non-tertiary Level,Seldom,0.40531,451,1061,0.37576,0.43487
+2001,Post-secondary Non-tertiary Level,Never,0.24675,245,1061,0.22079,0.27270
+2001,First Stage of Tertiary Education,At least once per week,0.04394,68,1662,0.03408,0.05379
+2001,First Stage of Tertiary Education,At least once per month,0.17230,298,1662,0.15414,0.19046
+2001,First Stage of Tertiary Education,Seldom,0.45726,813,1662,0.43330,0.48121
+2001,First Stage of Tertiary Education,Never,0.32651,483,1662,0.30396,0.34906
+2001,Second Stage of Tertiary Education,At least once per week,0.06123,194,3527,0.05331,0.06914
+2001,Second Stage of Tertiary Education,At least once per month,0.21673,774,3527,0.20313,0.23033
+2001,Second Stage of Tertiary Education,Seldom,0.48582,1778,3527,0.46932,0.50232
+2001,Second Stage of Tertiary Education,Never,0.23622,781,3527,0.22220,0.25024
+2003,No answer / don't know,At least once per week,0.15046,44,213,0.10233,0.19858
+2003,No answer / don't know,At least once per month,0.40535,98,213,0.33926,0.47143
+2003,No answer / don't know,Seldom,0.32028,71,213,0.25748,0.38309
+2003,Pre-primary Level,At least once per week,0.22927,158,593,0.19541,0.26313
+2003,Pre-primary Level,At least once per month,0.50147,299,593,0.46119,0.54175
+2003,Pre-primary Level,Seldom,0.23695,136,593,0.20270,0.27121
+2003,Primary Level,Seldom,0.17687,47,245,0.12899,0.22474
+2003,Primary Level,Never,0.71951,198,245,0.66314,0.77588
+2003,Lower Secondary Level,At least once per week,0.06442,187,2720,0.05519,0.07364
+2003,Lower Secondary Level,At least once per month,0.12562,407,2720,0.11316,0.13807
+2003,Lower Secondary Level,Seldom,0.21801,636,2720,0.20249,0.23353
+2003,Lower Secondary Level,Never,0.59196,1490,2720,0.57349,0.61043
+2003,Upper Secondary Level,At least once per week,0.03640,468,11064,0.03291,0.03989
+2003,Upper Secondary Level,At least once per month,0.13763,1638,11064,0.13121,0.14405
+2003,Upper Secondary Level,Seldom,0.38696,4502,11064,0.37789,0.39604
+2003,Upper Secondary Level,Never,0.43901,4456,11064,0.42976,0.44825
+2003,Post-secondary Non-tertiary Level,At least once per week,0.04003,55,1149,0.02869,0.05137
+2003,Post-secondary Non-tertiary Level,At least once per month,0.23635,278,1149,0.21177,0.26093
+2003,Post-secondary Non-tertiary Level,Seldom,0.44361,537,1149,0.41488,0.47235
+2003,Post-secondary Non-tertiary Level,Never,0.28001,279,1149,0.25403,0.30598
+2003,First Stage of Tertiary Education,At least once per week,0.02573,42,1679,0.01816,0.03331
+2003,First Stage of Tertiary Education,At least once per month,0.14089,240,1679,0.12424,0.15753
+2003,First Stage of Tertiary Education,Seldom,0.46069,837,1679,0.43684,0.48454
+2003,First Stage of Tertiary Education,Never,0.37269,560,1679,0.34955,0.39582
+2003,Second Stage of Tertiary Education,At least once per week,0.03264,124,4339,0.02735,0.03792
+2003,Second Stage of Tertiary Education,At least once per month,0.22460,932,4339,0.21219,0.23702
+2003,Second Stage of Tertiary Education,Seldom,0.47570,2232,4339,0.46084,0.49056
+2003,Second Stage of Tertiary Education,Never,0.26706,1051,4339,0.25389,0.28023
+2005,No answer / don't know,At least once per week,0.19112,62,308,0.14714,0.23510
+2005,No answer / don't know,At least once per month,0.32503,111,308,0.27263,0.37743
+2005,No answer / don't know,Seldom,0.32074,99,308,0.26853,0.37295
+2005,No answer / don't know,Never,0.16311,36,308,0.12178,0.20444
+2005,Pre-primary Level,At least once per week,0.27063,208,627,0.23582,0.30543
+2005,Pre-primary Level,At least once per month,0.47666,292,627,0.43753,0.51579
+2005,Pre-primary Level,Seldom,0.21692,127,627,0.18464,0.24921
+2005,Primary Level,Seldom,0.18204,43,210,0.12973,0.23436
+2005,Primary Level,Never,0.61668,167,210,0.55076,0.68259
+2005,Lower Secondary Level,At least once per week,0.06980,181,2381,0.05957,0.08004
+2005,Lower Secondary Level,At least once per month,0.13809,352,2381,0.12423,0.15196
+2005,Lower Secondary Level,Seldom,0.26566,639,2381,0.24791,0.28341
+2005,Lower Secondary Level,Never,0.52644,1209,2381,0.50638,0.54650
+2005,Upper Secondary Level,At least once per week,0.05194,560,10196,0.04763,0.05624
+2005,Upper Secondary Level,At least once per month,0.14941,1602,10196,0.14249,0.15633
+2005,Upper Secondary Level,Seldom,0.44163,4597,10196,0.43199,0.45127
+2005,Upper Secondary Level,Never,0.35702,3437,10196,0.34772,0.36632
+2005,Post-secondary Non-tertiary Level,At least once per week,0.06620,72,1124,0.05166,0.08074
+2005,Post-secondary Non-tertiary Level,At least once per month,0.24495,280,1124,0.21979,0.27010
+2005,Post-secondary Non-tertiary Level,Seldom,0.48305,566,1124,0.45383,0.51228
+2005,Post-secondary Non-tertiary Level,Never,0.20580,206,1124,0.18215,0.22944
+2005,First Stage of Tertiary Education,At least once per week,0.03849,59,1549,0.02891,0.04808
+2005,First Stage of Tertiary Education,At least once per month,0.14807,222,1549,0.13037,0.16576
+2005,First Stage of Tertiary Education,Seldom,0.50670,833,1549,0.48180,0.53161
+2005,First Stage of Tertiary Education,Never,0.30673,435,1549,0.28376,0.32971
+2005,Second Stage of Tertiary Education,At least once per week,0.05273,196,4144,0.04593,0.05954
+2005,Second Stage of Tertiary Education,At least once per month,0.23709,934,4144,0.22414,0.25005
+2005,Second Stage of Tertiary Education,Seldom,0.49199,2190,4144,0.47676,0.50721
+2005,Second Stage of Tertiary Education,Never,0.21819,824,4144,0.20561,0.23076
+2007,No answer / don't know,At least once per week,0.17914,73,333,0.13789,0.22039
+2007,No answer / don't know,At least once per month,0.31146,121,333,0.26164,0.36127
+2007,No answer / don't know,Seldom,0.35827,100,333,0.30669,0.40984
+2007,No answer / don't know,Never,0.15113,39,333,0.11260,0.18966
+2007,Pre-primary Level,At least once per week,0.25135,107,333,0.20469,0.29801
+2007,Pre-primary Level,At least once per month,0.44030,144,333,0.38690,0.49370
+2007,Pre-primary Level,Seldom,0.28865,82,333,0.23990,0.33739
 2007,Primary Level,Seldom,0.17864,39,188,0.12374,0.23355
 2007,Primary Level,Never,0.68995,149,188,0.62366,0.75625
-2007,Lower Secondary Level,At least once per week,0.05759,146,2189,0.04783,0.06735
-2007,Lower Secondary Level,At least once per month,0.12257,301,2189,0.10883,0.13631
-2007,Lower Secondary Level,Seldom,0.26016,584,2189,0.24178,0.27855
-2007,Lower Secondary Level,Never,0.52643,1158,2189,0.50551,0.54735
-2007,Upper Secondary Level,At least once per week,0.05329,534,10262,0.04894,0.05763
-2007,Upper Secondary Level,At least once per month,0.14882,1618,10262,0.14193,0.15571
-2007,Upper Secondary Level,Seldom,0.43546,4625,10262,0.42587,0.44506
-2007,Upper Secondary Level,Never,0.35380,3485,10262,0.34455,0.36305
-2007,Post-secondary Non-tertiary Level,At least once per week,0.06855,79,1165,0.05403,0.08306
-2007,Post-secondary Non-tertiary Level,At least once per month,0.21942,260,1165,0.19564,0.24319
-2007,Post-secondary Non-tertiary Level,Seldom,0.50638,604,1165,0.47766,0.53511
-2007,Post-secondary Non-tertiary Level,Never,0.20358,222,1165,0.18045,0.22671
-2007,First Stage of Tertiary Education,At least once per week,0.03627,56,1527,0.02689,0.04565
-2007,First Stage of Tertiary Education,At least once per month,0.15036,233,1527,0.13243,0.16829
-2007,First Stage of Tertiary Education,Seldom,0.53238,822,1527,0.50734,0.55741
-2007,First Stage of Tertiary Education,Never,0.27195,416,1527,0.24962,0.29427
-2007,Second Stage of Tertiary Education,At least once per week,0.04807,195,4367,0.04172,0.05441
-2007,Second Stage of Tertiary Education,At least once per month,0.22984,963,4367,0.21736,0.24232
-2007,Second Stage of Tertiary Education,Seldom,0.51190,2317,4367,0.49708,0.52673
-2007,Second Stage of Tertiary Education,Never,0.20488,892,4367,0.19291,0.21685
-2008,Pre-primary Level,At least once per week,0.12624,73,336,0.09067,0.16181
-2008,Pre-primary Level,At least once per month,0.27626,163,336,0.22838,0.32414
-2008,Pre-primary Level,Seldom,0.16079,100,336,0.12145,0.20012
+2007,Lower Secondary Level,At least once per week,0.05957,146,2189,0.04965,0.06949
+2007,Lower Secondary Level,At least once per month,0.12679,301,2189,0.11284,0.14073
+2007,Lower Secondary Level,Seldom,0.26911,584,2189,0.25053,0.28770
+2007,Lower Secondary Level,Never,0.54453,1158,2189,0.52367,0.56540
+2007,Upper Secondary Level,At least once per week,0.05375,534,10262,0.04939,0.05812
+2007,Upper Secondary Level,At least once per month,0.15012,1618,10262,0.14320,0.15703
+2007,Upper Secondary Level,Seldom,0.43925,4625,10262,0.42965,0.44885
+2007,Upper Secondary Level,Never,0.35688,3485,10262,0.34761,0.36615
+2007,Post-secondary Non-tertiary Level,At least once per week,0.06869,79,1165,0.05416,0.08322
+2007,Post-secondary Non-tertiary Level,At least once per month,0.21987,260,1165,0.19608,0.24366
+2007,Post-secondary Non-tertiary Level,Seldom,0.50744,604,1165,0.47871,0.53616
+2007,Post-secondary Non-tertiary Level,Never,0.20400,222,1165,0.18085,0.22715
+2007,First Stage of Tertiary Education,At least once per week,0.03660,56,1527,0.02718,0.04603
+2007,First Stage of Tertiary Education,At least once per month,0.15173,233,1527,0.13373,0.16973
+2007,First Stage of Tertiary Education,Seldom,0.53724,822,1527,0.51222,0.56225
+2007,First Stage of Tertiary Education,Never,0.27443,416,1527,0.25204,0.29682
+2007,Second Stage of Tertiary Education,At least once per week,0.04832,195,4367,0.04196,0.05468
+2007,Second Stage of Tertiary Education,At least once per month,0.23106,963,4367,0.21856,0.24357
+2007,Second Stage of Tertiary Education,Seldom,0.51464,2317,4367,0.49981,0.52946
+2007,Second Stage of Tertiary Education,Never,0.20598,892,4367,0.19398,0.21797
+2008,No answer / don't know,At least once per week,0.15659,60,334,0.11756,0.19562
+2008,No answer / don't know,At least once per month,0.34822,124,334,0.29705,0.39939
+2008,No answer / don't know,Seldom,0.33110,105,334,0.28055,0.38165
+2008,No answer / don't know,Never,0.16409,45,334,0.12431,0.20386
+2008,Pre-primary Level,At least once per week,0.21438,73,336,0.17044,0.25833
+2008,Pre-primary Level,At least once per month,0.46915,163,336,0.41571,0.52259
+2008,Pre-primary Level,Seldom,0.27305,100,336,0.22534,0.32076
 2008,Primary Level,Seldom,0.24195,38,164,0.17621,0.30770
 2008,Primary Level,Never,0.63390,126,164,0.55994,0.70785
-2008,Lower Secondary Level,At least once per week,0.03734,82,2006,0.02904,0.04564
-2008,Lower Secondary Level,At least once per month,0.12924,282,2006,0.11456,0.14392
-2008,Lower Secondary Level,Seldom,0.24004,488,2006,0.22134,0.25874
-2008,Lower Secondary Level,Never,0.56432,1154,2006,0.54262,0.58602
-2008,Upper Secondary Level,At least once per week,0.02936,270,9699,0.02600,0.03272
-2008,Upper Secondary Level,At least once per month,0.13349,1299,9699,0.12672,0.14026
-2008,Upper Secondary Level,Seldom,0.40804,4061,9699,0.39825,0.41782
-2008,Upper Secondary Level,Never,0.42415,4069,9699,0.41432,0.43399
-2008,Post-secondary Non-tertiary Level,At least once per week,0.04490,46,1087,0.03258,0.05721
-2008,Post-secondary Non-tertiary Level,At least once per month,0.19981,208,1087,0.17603,0.22359
-2008,Post-secondary Non-tertiary Level,Seldom,0.49520,562,1087,0.46546,0.52493
-2008,Post-secondary Non-tertiary Level,Never,0.25764,271,1087,0.23163,0.28365
-2008,First Stage of Tertiary Education,At least once per month,0.12762,178,1400,0.11014,0.14511
-2008,First Stage of Tertiary Education,Seldom,0.52073,726,1400,0.49455,0.54691
-2008,First Stage of Tertiary Education,Never,0.34090,496,1400,0.31606,0.36574
-2008,Second Stage of Tertiary Education,At least once per week,0.02724,94,4178,0.02230,0.03217
-2008,Second Stage of Tertiary Education,At least once per month,0.21289,808,4178,0.20047,0.22530
-2008,Second Stage of Tertiary Education,Seldom,0.48936,2185,4178,0.47420,0.50452
-2008,Second Stage of Tertiary Education,Never,0.26586,1091,4178,0.25246,0.27926
-2009,Pre-primary Level,At least once per week,0.14245,78,307,0.10329,0.18161
-2009,Pre-primary Level,At least once per month,0.34434,158,307,0.29110,0.39758
-2009,Pre-primary Level,Seldom,0.13362,71,307,0.09550,0.17174
+2008,Lower Secondary Level,At least once per week,0.03846,82,2006,0.03004,0.04688
+2008,Lower Secondary Level,At least once per month,0.13311,282,2006,0.11824,0.14798
+2008,Lower Secondary Level,Seldom,0.24722,488,2006,0.22834,0.26611
+2008,Lower Secondary Level,Never,0.58121,1154,2006,0.55961,0.60280
+2008,Upper Secondary Level,At least once per week,0.02951,270,9699,0.02614,0.03288
+2008,Upper Secondary Level,At least once per month,0.13415,1299,9699,0.12737,0.14094
+2008,Upper Secondary Level,Seldom,0.41007,4061,9699,0.40028,0.41986
+2008,Upper Secondary Level,Never,0.42627,4069,9699,0.41642,0.43611
+2008,Post-secondary Non-tertiary Level,At least once per week,0.04501,46,1087,0.03268,0.05734
+2008,Post-secondary Non-tertiary Level,At least once per month,0.20030,208,1087,0.17650,0.22411
+2008,Post-secondary Non-tertiary Level,Seldom,0.49642,562,1087,0.46668,0.52616
+2008,Post-secondary Non-tertiary Level,Never,0.25827,271,1087,0.23224,0.28430
+2008,First Stage of Tertiary Education,At least once per month,0.12773,178,1400,0.11024,0.14522
+2008,First Stage of Tertiary Education,Seldom,0.52116,726,1400,0.49498,0.54733
+2008,First Stage of Tertiary Education,Never,0.34118,496,1400,0.31634,0.36602
+2008,Second Stage of Tertiary Education,At least once per week,0.02736,94,4178,0.02242,0.03231
+2008,Second Stage of Tertiary Education,At least once per month,0.21388,808,4178,0.20145,0.22632
+2008,Second Stage of Tertiary Education,Seldom,0.49165,2185,4178,0.47649,0.50681
+2008,Second Stage of Tertiary Education,Never,0.26710,1091,4178,0.25369,0.28052
+2009,No answer / don't know,At least once per week,0.21026,65,299,0.16399,0.25653
+2009,No answer / don't know,At least once per month,0.38780,125,299,0.33248,0.44312
+2009,No answer / don't know,Seldom,0.30542,109,299,0.25312,0.35771
+2009,Pre-primary Level,At least once per week,0.22671,78,307,0.17980,0.27363
+2009,Pre-primary Level,At least once per month,0.54805,158,307,0.49229,0.60381
+2009,Pre-primary Level,Seldom,0.21267,71,307,0.16682,0.25852
 2009,Primary Level,Seldom,0.28257,47,155,0.21146,0.35368
 2009,Primary Level,Never,0.62529,108,155,0.54884,0.70174
-2009,Lower Secondary Level,At least once per week,0.05361,105,1772,0.04312,0.06410
-2009,Lower Secondary Level,At least once per month,0.12916,245,1772,0.11354,0.14478
-2009,Lower Secondary Level,Seldom,0.26649,504,1772,0.24590,0.28708
-2009,Lower Secondary Level,Never,0.51571,918,1772,0.49243,0.53898
-2009,Upper Secondary Level,At least once per week,0.05003,451,9018,0.04553,0.05453
-2009,Upper Secondary Level,At least once per month,0.14875,1310,9018,0.14140,0.15609
-2009,Upper Secondary Level,Seldom,0.46787,4322,9018,0.45758,0.47817
-2009,Upper Secondary Level,Never,0.32664,2935,9018,0.31696,0.33632
-2009,Post-secondary Non-tertiary Level,At least once per week,0.06155,46,992,0.04659,0.07652
-2009,Post-secondary Non-tertiary Level,At least once per month,0.25254,239,992,0.22549,0.27959
-2009,Post-secondary Non-tertiary Level,Seldom,0.48990,517,992,0.45878,0.52103
-2009,Post-secondary Non-tertiary Level,Never,0.19266,190,992,0.16811,0.21722
-2009,First Stage of Tertiary Education,At least once per week,0.03640,44,1326,0.02631,0.04648
-2009,First Stage of Tertiary Education,At least once per month,0.14749,187,1326,0.12839,0.16658
-2009,First Stage of Tertiary Education,Seldom,0.55069,745,1326,0.52391,0.57747
-2009,First Stage of Tertiary Education,Never,0.25775,350,1326,0.23420,0.28130
-2009,Second Stage of Tertiary Education,At least once per week,0.04849,183,4020,0.04185,0.05513
-2009,Second Stage of Tertiary Education,At least once per month,0.23567,903,4020,0.22255,0.24879
-2009,Second Stage of Tertiary Education,Seldom,0.53124,2168,4020,0.51581,0.54667
-2009,Second Stage of Tertiary Education,Never,0.18110,766,4020,0.16920,0.19301
-2011,Pre-primary Level,At least once per week,0.18035,133,456,0.14502,0.21568
-2011,Pre-primary Level,At least once per month,0.23241,201,456,0.19360,0.27122
-2011,Pre-primary Level,Seldom,0.13434,122,456,0.10300,0.16567
+2009,Lower Secondary Level,At least once per week,0.05555,105,1772,0.04489,0.06622
+2009,Lower Secondary Level,At least once per month,0.13385,245,1772,0.11799,0.14971
+2009,Lower Secondary Level,Seldom,0.27617,504,1772,0.25534,0.29699
+2009,Lower Secondary Level,Never,0.53443,918,1772,0.51120,0.55766
+2009,Upper Secondary Level,At least once per week,0.05037,451,9018,0.04586,0.05489
+2009,Upper Secondary Level,At least once per month,0.14975,1310,9018,0.14239,0.15712
+2009,Upper Secondary Level,Seldom,0.47103,4322,9018,0.46073,0.48133
+2009,Upper Secondary Level,Never,0.32885,2935,9018,0.31915,0.33854
+2009,Post-secondary Non-tertiary Level,At least once per week,0.06176,46,992,0.04677,0.07675
+2009,Post-secondary Non-tertiary Level,At least once per month,0.25338,239,992,0.22630,0.28046
+2009,Post-secondary Non-tertiary Level,Seldom,0.49155,517,992,0.46042,0.52267
+2009,Post-secondary Non-tertiary Level,Never,0.19331,190,992,0.16872,0.21790
+2009,First Stage of Tertiary Education,At least once per week,0.03668,44,1326,0.02656,0.04680
+2009,First Stage of Tertiary Education,At least once per month,0.14863,187,1326,0.12947,0.16778
+2009,First Stage of Tertiary Education,Seldom,0.55495,745,1326,0.52819,0.58171
+2009,First Stage of Tertiary Education,Never,0.25974,350,1326,0.23613,0.28336
+2009,Second Stage of Tertiary Education,At least once per week,0.04866,183,4020,0.04201,0.05531
+2009,Second Stage of Tertiary Education,At least once per month,0.23650,903,4020,0.22336,0.24963
+2009,Second Stage of Tertiary Education,Seldom,0.53311,2168,4020,0.51768,0.54853
+2009,Second Stage of Tertiary Education,Never,0.18174,766,4020,0.16981,0.19366
+2011,No answer / don't know,At least once per week,0.14361,70,575,0.11492,0.17230
+2011,No answer / don't know,At least once per month,0.34811,180,575,0.30914,0.38708
+2011,No answer / don't know,Seldom,0.34240,213,575,0.30358,0.38122
+2011,No answer / don't know,Never,0.16588,112,575,0.13545,0.19631
+2011,Pre-primary Level,At least once per week,0.31679,133,456,0.27405,0.35954
+2011,Pre-primary Level,At least once per month,0.40823,201,456,0.36307,0.45340
+2011,Pre-primary Level,Seldom,0.23597,122,456,0.19696,0.27499
 2011,Primary Level,Seldom,0.25147,114,365,0.20690,0.29604
 2011,Primary Level,Never,0.66635,251,365,0.61791,0.71479
-2011,Lower Secondary Level,At least once per week,0.04918,148,2935,0.04136,0.05701
-2011,Lower Secondary Level,At least once per month,0.12293,379,2935,0.11104,0.13481
-2011,Lower Secondary Level,Seldom,0.27322,935,2935,0.25709,0.28934
-2011,Lower Secondary Level,Never,0.52050,1473,2935,0.50242,0.53858
-2011,Upper Secondary Level,At least once per week,0.04746,589,13858,0.04392,0.05100
-2011,Upper Secondary Level,At least once per month,0.15737,2013,13858,0.15131,0.16344
-2011,Upper Secondary Level,Seldom,0.44659,6673,13858,0.43831,0.45487
-2011,Upper Secondary Level,Never,0.34313,4583,13858,0.33523,0.35104
-2011,Post-secondary Non-tertiary Level,At least once per week,0.07111,101,1999,0.05984,0.08238
-2011,Post-secondary Non-tertiary Level,At least once per month,0.25431,412,1999,0.23521,0.27340
-2011,Post-secondary Non-tertiary Level,Seldom,0.48889,1084,1999,0.46697,0.51081
-2011,Post-secondary Non-tertiary Level,Never,0.17921,402,1999,0.16240,0.19603
-2011,First Stage of Tertiary Education,At least once per week,0.04529,75,1839,0.03578,0.05480
-2011,First Stage of Tertiary Education,At least once per month,0.18430,306,1839,0.16657,0.20203
-2011,First Stage of Tertiary Education,Seldom,0.51175,1005,1839,0.48890,0.53461
-2011,First Stage of Tertiary Education,Never,0.24421,453,1839,0.22457,0.26385
-2011,Second Stage of Tertiary Education,At least once per week,0.04689,245,6196,0.04163,0.05216
-2011,Second Stage of Tertiary Education,At least once per month,0.23906,1343,6196,0.22844,0.24969
-2011,Second Stage of Tertiary Education,Seldom,0.51106,3395,6196,0.49861,0.52351
-2011,Second Stage of Tertiary Education,Never,0.20040,1213,6196,0.19043,0.21037
-2013,Pre-primary Level,At least once per week,0.06343,61,428,0.04031,0.08655
-2013,Pre-primary Level,At least once per month,0.21486,235,428,0.17590,0.25382
-2013,Pre-primary Level,Seldom,0.14087,132,428,0.10787,0.17387
-2013,Primary Level,At least once per month,0.08112,31,319,0.05111,0.11113
-2013,Primary Level,Seldom,0.17982,93,319,0.13761,0.22203
-2013,Primary Level,Never,0.40356,195,319,0.34963,0.45748
-2013,Lower Secondary Level,At least once per week,0.02642,96,2581,0.02023,0.03261
-2013,Lower Secondary Level,At least once per month,0.11454,396,2581,0.10225,0.12683
-2013,Lower Secondary Level,Seldom,0.22272,823,2581,0.20667,0.23878
-2013,Lower Secondary Level,Never,0.44971,1266,2581,0.43051,0.46890
-2013,Upper Secondary Level,At least once per week,0.02363,239,12364,0.02095,0.02631
-2013,Upper Secondary Level,At least once per month,0.14193,1886,12364,0.13578,0.14808
-2013,Upper Secondary Level,Seldom,0.39478,5748,12364,0.38616,0.40340
-2013,Upper Secondary Level,Never,0.36773,4491,12364,0.35923,0.37623
-2013,Post-secondary Non-tertiary Level,At least once per week,0.02989,36,1769,0.02195,0.03783
-2013,Post-secondary Non-tertiary Level,At least once per month,0.19131,375,1769,0.17298,0.20965
-2013,Post-secondary Non-tertiary Level,Seldom,0.44363,991,1769,0.42047,0.46679
-2013,Post-secondary Non-tertiary Level,Never,0.17804,367,1769,0.16021,0.19588
-2013,First Stage of Tertiary Education,At least once per month,0.14647,254,1647,0.12939,0.16356
-2013,First Stage of Tertiary Education,Seldom,0.53570,922,1647,0.51161,0.55980
-2013,First Stage of Tertiary Education,Never,0.28433,471,1647,0.26254,0.30612
-2013,Second Stage of Tertiary Education,At least once per week,0.01909,96,5812,0.01557,0.02261
-2013,Second Stage of Tertiary Education,At least once per month,0.23518,1347,5812,0.22428,0.24609
-2013,Second Stage of Tertiary Education,Seldom,0.47245,3203,5812,0.45961,0.48528
-2013,Second Stage of Tertiary Education,Never,0.18644,1166,5812,0.17643,0.19645
-2015,Pre-primary Level,At least once per week,0.06467,53,356,0.03909,0.09026
-2015,Pre-primary Level,At least once per month,0.26331,180,356,0.21749,0.30913
-2015,Pre-primary Level,Seldom,0.16787,123,356,0.12899,0.20674
+2011,Lower Secondary Level,At least once per week,0.05092,148,2935,0.04297,0.05888
+2011,Lower Secondary Level,At least once per month,0.12728,379,2935,0.11522,0.13934
+2011,Lower Secondary Level,Seldom,0.28288,935,2935,0.26659,0.29918
+2011,Lower Secondary Level,Never,0.53892,1473,2935,0.52088,0.55695
+2011,Upper Secondary Level,At least once per week,0.04772,589,13858,0.04417,0.05127
+2011,Upper Secondary Level,At least once per month,0.15824,2013,13858,0.15216,0.16431
+2011,Upper Secondary Level,Seldom,0.44903,6673,13858,0.44075,0.45732
+2011,Upper Secondary Level,Never,0.34501,4583,13858,0.33709,0.35293
+2011,Post-secondary Non-tertiary Level,At least once per week,0.07158,101,1999,0.06027,0.08288
+2011,Post-secondary Non-tertiary Level,At least once per month,0.25596,412,1999,0.23683,0.27510
+2011,Post-secondary Non-tertiary Level,Seldom,0.49208,1084,1999,0.47016,0.51400
+2011,Post-secondary Non-tertiary Level,Never,0.18038,402,1999,0.16352,0.19724
+2011,First Stage of Tertiary Education,At least once per week,0.04595,75,1839,0.03638,0.05553
+2011,First Stage of Tertiary Education,At least once per month,0.18700,306,1839,0.16918,0.20483
+2011,First Stage of Tertiary Education,Seldom,0.51925,1005,1839,0.49641,0.54209
+2011,First Stage of Tertiary Education,Never,0.24779,453,1839,0.22805,0.26753
+2011,Second Stage of Tertiary Education,At least once per week,0.04701,245,6196,0.04174,0.05228
+2011,Second Stage of Tertiary Education,At least once per month,0.23968,1343,6196,0.22905,0.25031
+2011,Second Stage of Tertiary Education,Seldom,0.51238,3395,6196,0.49994,0.52483
+2011,Second Stage of Tertiary Education,Never,0.20092,1213,6196,0.19094,0.21090
+2013,No answer / don't know,At least once per week,0.09709,50,460,0.07000,0.12418
+2013,No answer / don't know,At least once per month,0.37766,172,460,0.33331,0.42202
+2013,No answer / don't know,Seldom,0.31088,147,460,0.26854,0.35322
+2013,No answer / don't know,Never,0.21437,91,460,0.17682,0.25191
+2013,Pre-primary Level,At least once per week,0.14612,61,428,0.11262,0.17963
+2013,Pre-primary Level,At least once per month,0.49495,235,428,0.44752,0.54237
+2013,Pre-primary Level,Seldom,0.32450,132,428,0.28010,0.36891
+2013,Primary Level,At least once per month,0.12001,31,319,0.08429,0.15572
+2013,Primary Level,Seldom,0.26601,93,319,0.21744,0.31458
+2013,Primary Level,Never,0.59699,195,319,0.54308,0.65090
+2013,Lower Secondary Level,At least once per week,0.03248,96,2581,0.02564,0.03932
+2013,Lower Secondary Level,At least once per month,0.14081,396,2581,0.12739,0.15424
+2013,Lower Secondary Level,Seldom,0.27382,823,2581,0.25662,0.29103
+2013,Lower Secondary Level,Never,0.55288,1266,2581,0.53370,0.57207
+2013,Upper Secondary Level,At least once per week,0.02546,239,12364,0.02268,0.02824
+2013,Upper Secondary Level,At least once per month,0.15293,1886,12364,0.14658,0.15927
+2013,Upper Secondary Level,Seldom,0.42538,5748,12364,0.41666,0.43409
+2013,Upper Secondary Level,Never,0.39623,4491,12364,0.38761,0.40485
+2013,Post-secondary Non-tertiary Level,At least once per week,0.03546,36,1769,0.02684,0.04408
+2013,Post-secondary Non-tertiary Level,At least once per month,0.22698,375,1769,0.20745,0.24650
+2013,Post-secondary Non-tertiary Level,Seldom,0.52633,991,1769,0.50305,0.54960
+2013,Post-secondary Non-tertiary Level,Never,0.21123,367,1769,0.19221,0.23026
+2013,First Stage of Tertiary Education,At least once per month,0.14943,254,1647,0.13221,0.16666
+2013,First Stage of Tertiary Education,Seldom,0.54653,922,1647,0.52248,0.57058
+2013,First Stage of Tertiary Education,Never,0.29008,471,1647,0.26816,0.31200
+2013,Second Stage of Tertiary Education,At least once per week,0.02091,96,5812,0.01723,0.02459
+2013,Second Stage of Tertiary Education,At least once per month,0.25755,1347,5812,0.24630,0.26879
+2013,Second Stage of Tertiary Education,Seldom,0.51738,3203,5812,0.50453,0.53022
+2013,Second Stage of Tertiary Education,Never,0.20417,1166,5812,0.19381,0.21453
+2015,No answer / don't know,At least once per week,0.09668,55,641,0.07379,0.11958
+2015,No answer / don't know,At least once per month,0.36061,213,641,0.32341,0.39781
+2015,No answer / don't know,Seldom,0.32814,233,641,0.29176,0.36452
+2015,No answer / don't know,Never,0.21456,140,641,0.18276,0.24637
+2015,Pre-primary Level,At least once per week,0.12196,53,356,0.08792,0.15601
+2015,Pre-primary Level,At least once per month,0.49657,180,356,0.44456,0.54858
+2015,Pre-primary Level,Seldom,0.31657,123,356,0.26819,0.36496
 2015,Primary Level,At least once per month,0.08067,37,524,0.05733,0.10401
 2015,Primary Level,Seldom,0.31244,182,524,0.27272,0.35217
 2015,Primary Level,Never,0.58365,305,524,0.54141,0.62590
-2015,Lower Secondary Level,At least once per week,0.02996,122,2960,0.02381,0.03610
-2015,Lower Secondary Level,At least once per month,0.13871,437,2960,0.12626,0.15116
-2015,Lower Secondary Level,Seldom,0.31773,1052,2960,0.30095,0.33451
-2015,Lower Secondary Level,Never,0.48830,1349,2960,0.47029,0.50631
-2015,Upper Secondary Level,At least once per week,0.03536,408,12123,0.03207,0.03865
-2015,Upper Secondary Level,At least once per month,0.16039,1969,12123,0.15386,0.16692
-2015,Upper Secondary Level,Seldom,0.46304,5949,12123,0.45416,0.47191
-2015,Upper Secondary Level,Never,0.33549,3797,12123,0.32709,0.34390
-2015,Post-secondary Non-tertiary Level,At least once per week,0.06633,87,2150,0.05581,0.07685
-2015,Post-secondary Non-tertiary Level,At least once per month,0.22961,430,2150,0.21182,0.24739
-2015,Post-secondary Non-tertiary Level,Seldom,0.48276,1149,2150,0.46163,0.50389
-2015,Post-secondary Non-tertiary Level,Never,0.21795,484,2150,0.20049,0.23540
-2015,First Stage of Tertiary Education,At least once per week,0.02432,33,1524,0.01658,0.03205
-2015,First Stage of Tertiary Education,At least once per month,0.15719,254,1524,0.13891,0.17547
-2015,First Stage of Tertiary Education,Seldom,0.56657,875,1524,0.54169,0.59146
-2015,First Stage of Tertiary Education,Never,0.24976,362,1524,0.22802,0.27151
-2015,Second Stage of Tertiary Education,At least once per week,0.03913,235,6410,0.03438,0.04387
-2015,Second Stage of Tertiary Education,At least once per month,0.25877,1475,6410,0.24805,0.26949
-2015,Second Stage of Tertiary Education,Seldom,0.51772,3492,6410,0.50549,0.52996
-2015,Second Stage of Tertiary Education,Never,0.18362,1208,6410,0.17414,0.19310
-2017,Pre-primary Level,At least once per week,0.06557,53,401,0.04131,0.08982
-2017,Pre-primary Level,At least once per month,0.28162,194,401,0.23754,0.32569
-2017,Pre-primary Level,Seldom,0.17977,154,401,0.14214,0.21740
-2017,Primary Level,At least once per week,0.01291,32,1870,0.00779,0.01803
-2017,Primary Level,At least once per month,0.11479,142,1870,0.10034,0.12924
-2017,Primary Level,Seldom,0.28905,333,1870,0.26850,0.30961
-2017,Primary Level,Never,0.58013,1363,1870,0.55775,0.60250
-2017,Lower Secondary Level,At least once per week,0.03126,112,3541,0.02552,0.03699
-2017,Lower Secondary Level,At least once per month,0.14473,514,3541,0.13314,0.15632
-2017,Lower Secondary Level,Seldom,0.35783,1225,3541,0.34204,0.37362
-2017,Lower Secondary Level,Never,0.43690,1690,3541,0.42056,0.45324
-2017,Upper Secondary Level,At least once per week,0.04103,499,12722,0.03758,0.04447
-2017,Upper Secondary Level,At least once per month,0.19133,2396,12722,0.18449,0.19816
-2017,Upper Secondary Level,Seldom,0.44821,5945,12722,0.43957,0.45686
-2017,Upper Secondary Level,Never,0.31642,3882,12722,0.30834,0.32450
-2017,Post-secondary Non-tertiary Level,At least once per week,0.05924,104,2309,0.04961,0.06887
-2017,Post-secondary Non-tertiary Level,At least once per month,0.26855,551,2309,0.25047,0.28663
-2017,Post-secondary Non-tertiary Level,Seldom,0.47128,1163,2309,0.45092,0.49165
-2017,Post-secondary Non-tertiary Level,Never,0.19966,491,2309,0.18335,0.21597
-2017,First Stage of Tertiary Education,At least once per week,0.03328,63,1524,0.02427,0.04229
-2017,First Stage of Tertiary Education,At least once per month,0.18628,317,1524,0.16672,0.20583
-2017,First Stage of Tertiary Education,Seldom,0.57817,848,1524,0.55337,0.60298
-2017,First Stage of Tertiary Education,Never,0.19850,296,1524,0.17846,0.21853
-2017,Second Stage of Tertiary Education,At least once per week,0.04439,271,7238,0.03965,0.04914
-2017,Second Stage of Tertiary Education,At least once per month,0.28346,1787,7238,0.27308,0.29384
-2017,Second Stage of Tertiary Education,Seldom,0.50126,3619,7238,0.48975,0.51278
-2017,Second Stage of Tertiary Education,Never,0.16730,1561,7238,0.15870,0.17590
-2018,Primary Level,At least once per month,0.01259,93,1102,0.00600,0.01917
-2018,Primary Level,Seldom,0.02035,188,1102,0.01201,0.02868
-2018,Primary Level,Never,0.07052,821,1102,0.05540,0.08565
-2018,Lower Secondary Level,At least once per month,0.00193,51,611,-0.00155,0.00542
-2018,Lower Secondary Level,Seldom,0.00325,133,611,-0.00127,0.00777
-2018,Lower Secondary Level,Never,0.00717,427,611,0.00047,0.01386
-2018,Upper Secondary Level,At least once per month,0.00034,52,527,-0.00124,0.00192
-2018,Upper Secondary Level,Seldom,0.00054,111,527,-0.00144,0.00252
-2018,Upper Secondary Level,Never,0.00158,364,527,-0.00181,0.00497
-2018,Post-secondary Non-tertiary Level,Never,0.00168,56,56,-0.00915,0.01251
-2018,Second Stage of Tertiary Education,At least once per month,0.00069,53,554,-0.00150,0.00287
-2018,Second Stage of Tertiary Education,Seldom,0.00131,145,554,-0.00170,0.00432
-2018,Second Stage of Tertiary Education,Never,0.00319,356,554,-0.00151,0.00789
-2019,Pre-primary Level,At least once per month,0.27593,132,286,0.22404,0.32783
-2019,Pre-primary Level,Seldom,0.26258,154,286,0.21149,0.31366
-2019,Primary Level,At least once per month,0.10422,116,1504,0.08877,0.11967
-2019,Primary Level,Seldom,0.21388,265,1504,0.19315,0.23461
-2019,Primary Level,Never,0.64495,1123,1504,0.62076,0.66914
-2019,Lower Secondary Level,At least once per week,0.02546,79,3039,0.01986,0.03106
-2019,Lower Secondary Level,At least once per month,0.15880,494,3039,0.14581,0.17180
-2019,Lower Secondary Level,Seldom,0.31663,944,3039,0.30009,0.33317
-2019,Lower Secondary Level,Never,0.46582,1522,3039,0.44808,0.48356
-2019,Upper Secondary Level,At least once per week,0.01649,207,11638,0.01417,0.01880
-2019,Upper Secondary Level,At least once per month,0.18589,2164,11638,0.17883,0.19296
-2019,Upper Secondary Level,Seldom,0.43704,5297,11638,0.42803,0.44605
-2019,Upper Secondary Level,Never,0.35856,3970,11638,0.34985,0.36727
-2019,Post-secondary Non-tertiary Level,At least once per week,0.02605,49,2254,0.01948,0.03263
-2019,Post-secondary Non-tertiary Level,At least once per month,0.24394,517,2254,0.22621,0.26168
-2019,Post-secondary Non-tertiary Level,Seldom,0.51419,1184,2254,0.49355,0.53483
-2019,Post-secondary Non-tertiary Level,Never,0.21531,504,2254,0.19834,0.23229
-2019,First Stage of Tertiary Education,At least once per month,0.17451,282,1635,0.15610,0.19291
-2019,First Stage of Tertiary Education,Seldom,0.55635,954,1635,0.53226,0.58044
-2019,First Stage of Tertiary Education,Never,0.25196,399,1635,0.23091,0.27301
-2019,Second Stage of Tertiary Education,At least once per week,0.02431,172,7545,0.02084,0.02779
-2019,Second Stage of Tertiary Education,At least once per month,0.25540,1821,7545,0.24556,0.26524
-2019,Second Stage of Tertiary Education,Seldom,0.51364,3955,7545,0.50236,0.52492
-2019,Second Stage of Tertiary Education,Never,0.20536,1597,7545,0.19625,0.21448
+2015,Lower Secondary Level,At least once per week,0.03073,122,2960,0.02452,0.03695
+2015,Lower Secondary Level,At least once per month,0.14231,437,2960,0.12972,0.15490
+2015,Lower Secondary Level,Seldom,0.32598,1052,2960,0.30909,0.34287
+2015,Lower Secondary Level,Never,0.50098,1349,2960,0.48296,0.51899
+2015,Upper Secondary Level,At least once per week,0.03556,408,12123,0.03227,0.03886
+2015,Upper Secondary Level,At least once per month,0.16131,1969,12123,0.15476,0.16786
+2015,Upper Secondary Level,Seldom,0.46570,5949,12123,0.45682,0.47458
+2015,Upper Secondary Level,Never,0.33742,3797,12123,0.32901,0.34584
+2015,Post-secondary Non-tertiary Level,At least once per week,0.06655,87,2150,0.05602,0.07709
+2015,Post-secondary Non-tertiary Level,At least once per month,0.23038,430,2150,0.21258,0.24818
+2015,Post-secondary Non-tertiary Level,Seldom,0.48438,1149,2150,0.46325,0.50551
+2015,Post-secondary Non-tertiary Level,Never,0.21868,484,2150,0.20120,0.23616
+2015,First Stage of Tertiary Education,At least once per week,0.02437,33,1524,0.01663,0.03211
+2015,First Stage of Tertiary Education,At least once per month,0.15753,254,1524,0.13923,0.17582
+2015,First Stage of Tertiary Education,Seldom,0.56780,875,1524,0.54292,0.59268
+2015,First Stage of Tertiary Education,Never,0.25030,362,1524,0.22855,0.27206
+2015,Second Stage of Tertiary Education,At least once per week,0.03916,235,6410,0.03441,0.04391
+2015,Second Stage of Tertiary Education,At least once per month,0.25897,1475,6410,0.24824,0.26969
+2015,Second Stage of Tertiary Education,Seldom,0.51812,3492,6410,0.50588,0.53035
+2015,Second Stage of Tertiary Education,Never,0.18376,1208,6410,0.17427,0.19324
+2017,No answer / don't know,At least once per week,0.09909,65,837,0.07884,0.11934
+2017,No answer / don't know,At least once per month,0.34494,214,837,0.31272,0.37716
+2017,No answer / don't know,Seldom,0.33383,263,837,0.30186,0.36580
+2017,No answer / don't know,Never,0.22214,295,837,0.19396,0.25032
+2017,Pre-primary Level,At least once per week,0.11986,53,401,0.08803,0.15169
+2017,Pre-primary Level,At least once per month,0.51479,194,401,0.46581,0.56377
+2017,Pre-primary Level,Seldom,0.32861,154,401,0.28258,0.37464
+2017,Primary Level,At least once per week,0.01295,32,1870,0.00782,0.01808
+2017,Primary Level,At least once per month,0.11515,142,1870,0.10068,0.12962
+2017,Primary Level,Seldom,0.28996,333,1870,0.26939,0.31053
+2017,Primary Level,Never,0.58194,1363,1870,0.55958,0.60431
+2017,Lower Secondary Level,At least once per week,0.03220,112,3541,0.02638,0.03801
+2017,Lower Secondary Level,At least once per month,0.14910,514,3541,0.13736,0.16083
+2017,Lower Secondary Level,Seldom,0.36862,1225,3541,0.35273,0.38451
+2017,Lower Secondary Level,Never,0.45008,1690,3541,0.43369,0.46647
+2017,Upper Secondary Level,At least once per week,0.04115,499,12722,0.03770,0.04460
+2017,Upper Secondary Level,At least once per month,0.19191,2396,12722,0.18506,0.19875
+2017,Upper Secondary Level,Seldom,0.44957,5945,12722,0.44092,0.45821
+2017,Upper Secondary Level,Never,0.31737,3882,12722,0.30929,0.32546
+2017,Post-secondary Non-tertiary Level,At least once per week,0.05932,104,2309,0.04968,0.06895
+2017,Post-secondary Non-tertiary Level,At least once per month,0.26889,551,2309,0.25080,0.28698
+2017,Post-secondary Non-tertiary Level,Seldom,0.47188,1163,2309,0.45151,0.49225
+2017,Post-secondary Non-tertiary Level,Never,0.19991,491,2309,0.18359,0.21623
+2017,First Stage of Tertiary Education,At least once per week,0.03340,63,1524,0.02438,0.04243
+2017,First Stage of Tertiary Education,At least once per month,0.18698,317,1524,0.16740,0.20656
+2017,First Stage of Tertiary Education,Seldom,0.58036,848,1524,0.55558,0.60515
+2017,First Stage of Tertiary Education,Never,0.19925,296,1524,0.17919,0.21931
+2017,Second Stage of Tertiary Education,At least once per week,0.04455,271,7238,0.03980,0.04931
+2017,Second Stage of Tertiary Education,At least once per month,0.28448,1787,7238,0.27409,0.29488
+2017,Second Stage of Tertiary Education,Seldom,0.50307,3619,7238,0.49155,0.51459
+2017,Second Stage of Tertiary Education,Never,0.16790,1561,7238,0.15929,0.17651
+2018,No answer / don't know,Seldom,0.21227,49,189,0.15382,0.27073
+2018,No answer / don't know,Never,0.59758,140,189,0.52748,0.66768
+2018,Primary Level,At least once per month,0.11953,93,1102,0.10037,0.13870
+2018,Primary Level,Seldom,0.19324,188,1102,0.16992,0.21656
+2018,Primary Level,Never,0.66984,821,1102,0.64206,0.69762
+2018,Lower Secondary Level,At least once per month,0.15263,51,611,0.12409,0.18117
+2018,Lower Secondary Level,Seldom,0.25639,133,611,0.22174,0.29105
+2018,Lower Secondary Level,Never,0.56558,427,611,0.52625,0.60492
+2018,Upper Secondary Level,At least once per month,0.13548,52,527,0.10623,0.16472
+2018,Upper Secondary Level,Seldom,0.21271,111,527,0.17774,0.24768
+2018,Upper Secondary Level,Never,0.62454,364,527,0.58315,0.66592
+2018,Post-secondary Non-tertiary Level,Never,0.70090,56,56,0.57990,0.82191
+2018,Second Stage of Tertiary Education,At least once per month,0.12888,53,554,0.10095,0.15681
+2018,Second Stage of Tertiary Education,Seldom,0.24514,145,554,0.20928,0.28099
+2018,Second Stage of Tertiary Education,Never,0.59749,356,554,0.55661,0.63836
+2019,No answer / don't know,At least once per month,0.35816,205,761,0.32407,0.39225
+2019,No answer / don't know,Seldom,0.35313,247,761,0.31915,0.38711
+2019,No answer / don't know,Never,0.26300,309,761,0.23170,0.29430
+2019,Pre-primary Level,At least once per month,0.46033,132,286,0.40247,0.51820
+2019,Pre-primary Level,Seldom,0.43805,154,286,0.38045,0.49566
+2019,Primary Level,At least once per month,0.10597,116,1504,0.09041,0.12153
+2019,Primary Level,Seldom,0.21747,265,1504,0.19661,0.23832
+2019,Primary Level,Never,0.65577,1123,1504,0.63175,0.67979
+2019,Lower Secondary Level,At least once per week,0.02633,79,3039,0.02064,0.03203
+2019,Lower Secondary Level,At least once per month,0.16427,494,3039,0.15110,0.17745
+2019,Lower Secondary Level,Seldom,0.32753,944,3039,0.31084,0.34422
+2019,Lower Secondary Level,Never,0.48186,1522,3039,0.46409,0.49963
+2019,Upper Secondary Level,At least once per week,0.01652,207,11638,0.01420,0.01884
+2019,Upper Secondary Level,At least once per month,0.18627,2164,11638,0.17920,0.19334
+2019,Upper Secondary Level,Seldom,0.43792,5297,11638,0.42891,0.44694
+2019,Upper Secondary Level,Never,0.35929,3970,11638,0.35057,0.36800
+2019,Post-secondary Non-tertiary Level,At least once per week,0.02607,49,2254,0.01949,0.03265
+2019,Post-secondary Non-tertiary Level,At least once per month,0.24407,517,2254,0.22633,0.26180
+2019,Post-secondary Non-tertiary Level,Seldom,0.51445,1184,2254,0.49381,0.53509
+2019,Post-secondary Non-tertiary Level,Never,0.21542,504,2254,0.19844,0.23240
+2019,First Stage of Tertiary Education,At least once per month,0.17539,282,1635,0.15695,0.19383
+2019,First Stage of Tertiary Education,Seldom,0.55916,954,1635,0.53509,0.58324
+2019,First Stage of Tertiary Education,Never,0.25323,399,1635,0.23215,0.27432
+2019,Second Stage of Tertiary Education,At least once per week,0.02434,172,7545,0.02087,0.02782
+2019,Second Stage of Tertiary Education,At least once per month,0.25573,1821,7545,0.24588,0.26557
+2019,Second Stage of Tertiary Education,Seldom,0.51430,3955,7545,0.50302,0.52558
+2019,Second Stage of Tertiary Education,Never,0.20563,1597,7545,0.19651,0.21475

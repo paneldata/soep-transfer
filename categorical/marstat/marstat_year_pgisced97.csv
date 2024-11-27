@@ -1,14 +1,14 @@
 year,pgisced97,marstat,proportion,n,group_size,proportion_lower_confidence,proportion_upper_confidence
-1984,Pre-primary Level,Single,0.96435,187,187,0.93770,0.99099
-1984,Primary Level,Married,0.59049,782,971,0.55955,0.62144
-1984,Primary Level,"Married, living apart",0.03610,36,971,0.02436,0.04784
-1984,Primary Level,Single,0.24747,118,971,0.22031,0.27463
-1984,Primary Level,Widowed,0.07014,35,971,0.05406,0.08621
-1984,Lower Secondary Level,Married,0.52051,2027,3447,0.50383,0.53719
-1984,Lower Secondary Level,"Married, living apart",0.01341,57,3447,0.00957,0.01725
-1984,Lower Secondary Level,Single,0.23225,856,3447,0.21815,0.24635
-1984,Lower Secondary Level,Divorced,0.03791,109,3447,0.03154,0.04429
-1984,Lower Secondary Level,Widowed,0.19467,398,3447,0.18145,0.20789
+1984,No answer / don't know,Married,0.74648,54,54,0.62936,0.86360
+1984,Primary Level,Married,0.59144,782,971,0.56050,0.62237
+1984,Primary Level,"Married, living apart",0.03616,36,971,0.02441,0.04791
+1984,Primary Level,Single,0.24786,118,971,0.22069,0.27504
+1984,Primary Level,Widowed,0.07025,35,971,0.05416,0.08633
+1984,Lower Secondary Level,Married,0.52116,2027,3447,0.50448,0.53784
+1984,Lower Secondary Level,"Married, living apart",0.01342,57,3447,0.00958,0.01727
+1984,Lower Secondary Level,Single,0.23254,856,3447,0.21844,0.24665
+1984,Lower Secondary Level,Divorced,0.03796,109,3447,0.03158,0.04434
+1984,Lower Secondary Level,Widowed,0.19492,398,3447,0.18169,0.20814
 1984,Upper Secondary Level,Married,0.64198,3858,5706,0.62954,0.65442
 1984,Upper Secondary Level,"Married, living apart",0.01385,94,5706,0.01081,0.01688
 1984,Upper Secondary Level,Single,0.20413,1196,5706,0.19367,0.21459
@@ -16,24 +16,25 @@ year,pgisced97,marstat,proportion,n,group_size,proportion_lower_confidence,propo
 1984,Upper Secondary Level,Widowed,0.09152,324,5706,0.08404,0.09900
 1984,Post-secondary Non-tertiary Level,Married,0.51916,194,285,0.46105,0.57727
 1984,Post-secondary Non-tertiary Level,Single,0.37724,91,285,0.32087,0.43362
-1984,First Stage of Tertiary Education,Married,0.69248,482,622,0.65619,0.72878
-1984,First Stage of Tertiary Education,Single,0.16278,100,622,0.13375,0.19182
-1984,First Stage of Tertiary Education,Widowed,0.08251,40,622,0.06087,0.10415
+1984,First Stage of Tertiary Education,Married,0.69367,482,622,0.65742,0.72993
+1984,First Stage of Tertiary Education,Single,0.16306,100,622,0.13401,0.19212
+1984,First Stage of Tertiary Education,Widowed,0.08265,40,622,0.06099,0.10431
 1984,Second Stage of Tertiary Education,Married,0.68551,568,719,0.65154,0.71947
 1984,Second Stage of Tertiary Education,Single,0.19548,151,719,0.16648,0.22449
-1985,Pre-primary Level,Single,0.99798,187,187,0.99152,1.00443
+1985,No answer / don't know,Married,0.35042,61,106,0.25916,0.44168
+1985,No answer / don't know,Single,0.53715,45,106,0.44177,0.63252
 1985,Primary Level,Married,0.56036,660,758,0.52500,0.59572
 1985,Primary Level,Single,0.29754,98,758,0.26497,0.33011
-1985,Lower Secondary Level,Married,0.50432,1770,3061,0.48660,0.52203
+1985,Lower Secondary Level,Married,0.50434,1770,3061,0.48663,0.52206
 1985,Lower Secondary Level,"Married, living apart",0.01090,40,3061,0.00722,0.01458
-1985,Lower Secondary Level,Single,0.24654,797,3061,0.23127,0.26181
+1985,Lower Secondary Level,Single,0.24655,797,3061,0.23128,0.26182
 1985,Lower Secondary Level,Divorced,0.04239,104,3061,0.03525,0.04953
-1985,Lower Secondary Level,Widowed,0.19580,350,3061,0.18174,0.20986
-1985,Upper Secondary Level,Married,0.63164,3484,5180,0.61851,0.64478
-1985,Upper Secondary Level,"Married, living apart",0.01602,85,5180,0.01260,0.01944
-1985,Upper Secondary Level,Single,0.20858,1115,5180,0.19751,0.21964
+1985,Lower Secondary Level,Widowed,0.19581,350,3061,0.18175,0.20987
+1985,Upper Secondary Level,Married,0.63174,3484,5180,0.61860,0.64487
+1985,Upper Secondary Level,"Married, living apart",0.01603,85,5180,0.01261,0.01945
+1985,Upper Secondary Level,Single,0.20861,1115,5180,0.19754,0.21967
 1985,Upper Secondary Level,Divorced,0.05114,211,5180,0.04514,0.05714
-1985,Upper Secondary Level,Widowed,0.09247,285,5180,0.08458,0.10036
+1985,Upper Secondary Level,Widowed,0.09248,285,5180,0.08459,0.10037
 1985,Post-secondary Non-tertiary Level,Married,0.51572,167,254,0.45414,0.57730
 1985,Post-secondary Non-tertiary Level,Single,0.37898,87,254,0.31920,0.43876
 1985,First Stage of Tertiary Education,Married,0.68077,456,614,0.64386,0.71767
@@ -42,35 +43,39 @@ year,pgisced97,marstat,proportion,n,group_size,proportion_lower_confidence,propo
 1985,First Stage of Tertiary Education,Widowed,0.08170,36,614,0.06002,0.10339
 1985,Second Stage of Tertiary Education,Married,0.67815,545,691,0.64329,0.71301
 1985,Second Stage of Tertiary Education,Single,0.20500,146,691,0.17488,0.23512
+1986,No answer / don't know,Married,0.36702,60,103,0.27348,0.46056
+1986,No answer / don't know,Single,0.54677,43,103,0.45016,0.64338
 1986,Primary Level,Married,0.55046,598,735,0.51448,0.58645
 1986,Primary Level,"Married, living apart",0.03728,31,735,0.02357,0.05099
 1986,Primary Level,Single,0.29767,106,735,0.26459,0.33075
-1986,Lower Secondary Level,Married,0.50693,1658,2904,0.48874,0.52512
-1986,Lower Secondary Level,"Married, living apart",0.01265,49,2904,0.00858,0.01671
-1986,Lower Secondary Level,Single,0.24796,794,2904,0.23225,0.26367
-1986,Lower Secondary Level,Divorced,0.03925,92,2904,0.03218,0.04631
-1986,Lower Secondary Level,Widowed,0.19204,311,2904,0.17771,0.20636
-1986,Upper Secondary Level,Married,0.61628,3290,4992,0.60279,0.62977
+1986,Lower Secondary Level,Married,0.50753,1658,2904,0.48934,0.52572
+1986,Lower Secondary Level,"Married, living apart",0.01266,49,2904,0.00859,0.01673
+1986,Lower Secondary Level,Single,0.24825,794,2904,0.23254,0.26397
+1986,Lower Secondary Level,Divorced,0.03930,92,2904,0.03223,0.04636
+1986,Lower Secondary Level,Widowed,0.19226,311,2904,0.17793,0.20660
+1986,Upper Secondary Level,Married,0.61633,3290,4992,0.60284,0.62982
 1986,Upper Secondary Level,"Married, living apart",0.02048,110,4992,0.01655,0.02441
-1986,Upper Secondary Level,Single,0.21600,1112,4992,0.20458,0.22742
-1986,Upper Secondary Level,Divorced,0.05280,211,4992,0.04660,0.05901
-1986,Upper Secondary Level,Widowed,0.09436,269,4992,0.08625,0.10247
+1986,Upper Secondary Level,Single,0.21602,1112,4992,0.20460,0.22743
+1986,Upper Secondary Level,Divorced,0.05281,211,4992,0.04660,0.05901
+1986,Upper Secondary Level,Widowed,0.09437,269,4992,0.08626,0.10248
 1986,Post-secondary Non-tertiary Level,Married,0.51950,162,252,0.45769,0.58131
 1986,Post-secondary Non-tertiary Level,Single,0.38519,90,252,0.32498,0.44539
 1986,First Stage of Tertiary Education,Married,0.69120,430,546,0.65241,0.72999
 1986,First Stage of Tertiary Education,Single,0.15716,85,546,0.12660,0.18772
 1986,First Stage of Tertiary Education,Widowed,0.07926,31,546,0.05658,0.10194
-1986,Second Stage of Tertiary Education,Married,0.67139,541,681,0.63608,0.70669
-1986,Second Stage of Tertiary Education,Single,0.20723,140,681,0.17676,0.23769
-1987,Pre-primary Level,Single,0.99771,190,190,0.99090,1.00452
+1986,Second Stage of Tertiary Education,Married,0.67245,541,681,0.63717,0.70772
+1986,Second Stage of Tertiary Education,Single,0.20755,140,681,0.17707,0.23804
+1987,No answer / don't know,Married,0.37861,62,113,0.28878,0.46844
+1987,No answer / don't know,Single,0.53639,51,113,0.44404,0.62875
+1987,Pre-primary Level,Single,0.99878,190,190,0.99379,1.00376
 1987,Primary Level,Married,0.60571,583,705,0.56961,0.64181
 1987,Primary Level,"Married, living apart",0.04959,33,705,0.03355,0.06562
 1987,Primary Level,Single,0.23397,89,705,0.20269,0.26524
-1987,Lower Secondary Level,Married,0.51496,1600,2836,0.49656,0.53335
+1987,Lower Secondary Level,Married,0.51498,1600,2836,0.49658,0.53338
 1987,Lower Secondary Level,"Married, living apart",0.01636,60,2836,0.01169,0.02103
-1987,Lower Secondary Level,Single,0.22656,771,2836,0.21115,0.24197
-1987,Lower Secondary Level,Divorced,0.04253,93,2836,0.03510,0.04996
-1987,Lower Secondary Level,Widowed,0.19955,312,2836,0.18484,0.21426
+1987,Lower Secondary Level,Single,0.22657,771,2836,0.21116,0.24198
+1987,Lower Secondary Level,Divorced,0.04253,93,2836,0.03511,0.04996
+1987,Lower Secondary Level,Widowed,0.19956,312,2836,0.18485,0.21427
 1987,Upper Secondary Level,Married,0.61458,3271,4970,0.60105,0.62812
 1987,Upper Secondary Level,"Married, living apart",0.01509,91,4970,0.01170,0.01848
 1987,Upper Secondary Level,Single,0.21938,1110,4970,0.20787,0.23088
@@ -84,14 +89,15 @@ year,pgisced97,marstat,proportion,n,group_size,proportion_lower_confidence,propo
 1987,Second Stage of Tertiary Education,Married,0.64971,524,701,0.61437,0.68505
 1987,Second Stage of Tertiary Education,Single,0.21658,143,701,0.18607,0.24710
 1987,Second Stage of Tertiary Education,Divorced,0.05565,34,701,0.03867,0.07263
-1988,Pre-primary Level,Single,0.99094,163,163,0.97636,1.00553
+1988,No answer / don't know,Married,0.41500,73,135,0.33157,0.49843
+1988,No answer / don't know,Single,0.52383,62,135,0.43927,0.60839
 1988,Primary Level,Married,0.60949,540,618,0.57100,0.64799
 1988,Primary Level,Single,0.23754,78,618,0.20396,0.27112
-1988,Lower Secondary Level,Married,0.51474,1530,2717,0.49595,0.53354
-1988,Lower Secondary Level,"Married, living apart",0.01990,64,2717,0.01465,0.02515
-1988,Lower Secondary Level,Single,0.22694,750,2717,0.21119,0.24269
-1988,Lower Secondary Level,Divorced,0.04277,88,2717,0.03516,0.05038
-1988,Lower Secondary Level,Widowed,0.19468,285,2717,0.17979,0.20957
+1988,Lower Secondary Level,Married,0.51524,1530,2717,0.49645,0.53404
+1988,Lower Secondary Level,"Married, living apart",0.01992,64,2717,0.01466,0.02517
+1988,Lower Secondary Level,Single,0.22716,750,2717,0.21140,0.24292
+1988,Lower Secondary Level,Divorced,0.04281,88,2717,0.03520,0.05042
+1988,Lower Secondary Level,Widowed,0.19487,285,2717,0.17997,0.20976
 1988,Upper Secondary Level,Married,0.61201,3132,4743,0.59814,0.62587
 1988,Upper Secondary Level,"Married, living apart",0.01987,108,4743,0.01590,0.02384
 1988,Upper Secondary Level,Single,0.21774,1031,4743,0.20599,0.22948
@@ -105,61 +111,67 @@ year,pgisced97,marstat,proportion,n,group_size,proportion_lower_confidence,propo
 1988,Second Stage of Tertiary Education,Married,0.62574,484,659,0.58877,0.66272
 1988,Second Stage of Tertiary Education,Single,0.22553,138,659,0.19360,0.25747
 1988,Second Stage of Tertiary Education,Divorced,0.06301,37,659,0.04445,0.08158
+1989,No answer / don't know,Married,0.36085,71,134,0.27923,0.44247
+1989,No answer / don't know,Single,0.56843,63,134,0.48425,0.65260
 1989,Pre-primary Level,Single,0.99428,174,174,0.98304,1.00552
 1989,Primary Level,Married,0.60963,505,583,0.56999,0.64926
 1989,Primary Level,Single,0.23907,78,583,0.20442,0.27372
-1989,Lower Secondary Level,Married,0.50864,1454,2569,0.48930,0.52797
-1989,Lower Secondary Level,"Married, living apart",0.01717,53,2569,0.01215,0.02220
-1989,Lower Secondary Level,Single,0.22731,692,2569,0.21110,0.24352
-1989,Lower Secondary Level,Divorced,0.05009,95,2569,0.04165,0.05852
-1989,Lower Secondary Level,Widowed,0.19661,275,2569,0.18124,0.21198
-1989,Upper Secondary Level,Married,0.60991,3005,4621,0.59585,0.62398
-1989,Upper Secondary Level,"Married, living apart",0.02240,106,4621,0.01813,0.02667
-1989,Upper Secondary Level,Single,0.21292,1031,4621,0.20112,0.22473
-1989,Upper Secondary Level,Divorced,0.05903,209,4621,0.05224,0.06583
-1989,Upper Secondary Level,Widowed,0.09553,270,4621,0.08705,0.10400
+1989,Lower Secondary Level,Married,0.50873,1454,2569,0.48939,0.52806
+1989,Lower Secondary Level,"Married, living apart",0.01718,53,2569,0.01215,0.02220
+1989,Lower Secondary Level,Single,0.22735,692,2569,0.21114,0.24356
+1989,Lower Secondary Level,Divorced,0.05010,95,2569,0.04166,0.05853
+1989,Lower Secondary Level,Widowed,0.19665,275,2569,0.18127,0.21202
+1989,Upper Secondary Level,Married,0.61004,3005,4621,0.59597,0.62410
+1989,Upper Secondary Level,"Married, living apart",0.02241,106,4621,0.01814,0.02667
+1989,Upper Secondary Level,Single,0.21296,1031,4621,0.20116,0.22477
+1989,Upper Secondary Level,Divorced,0.05905,209,4621,0.05225,0.06584
+1989,Upper Secondary Level,Widowed,0.09555,270,4621,0.08707,0.10402
 1989,Post-secondary Non-tertiary Level,Married,0.46633,158,266,0.40627,0.52640
 1989,Post-secondary Non-tertiary Level,Single,0.44323,108,266,0.38341,0.50304
 1989,First Stage of Tertiary Education,Married,0.71246,388,455,0.67083,0.75410
 1989,First Stage of Tertiary Education,Single,0.13770,67,455,0.10601,0.16940
-1989,Second Stage of Tertiary Education,Married,0.62581,477,653,0.58867,0.66296
-1989,Second Stage of Tertiary Education,Single,0.21831,135,653,0.18660,0.25002
-1989,Second Stage of Tertiary Education,Divorced,0.07051,41,653,0.05086,0.09017
-1990,Pre-primary Level,Single,0.98823,192,192,0.97294,1.00353
-1990,Primary Level,Married,0.57645,487,566,0.53571,0.61720
-1990,Primary Level,Single,0.24542,79,566,0.20994,0.28091
-1990,Lower Secondary Level,Married,0.48536,1599,2984,0.46743,0.50330
-1990,Lower Secondary Level,"Married, living apart",0.01712,57,2984,0.01246,0.02177
-1990,Lower Secondary Level,Single,0.23733,834,2984,0.22206,0.25259
-1990,Lower Secondary Level,Divorced,0.05579,123,2984,0.04755,0.06402
-1990,Lower Secondary Level,Widowed,0.20400,371,2984,0.18953,0.21846
-1990,Upper Secondary Level,Married,0.61536,4720,7067,0.60402,0.62671
+1989,Second Stage of Tertiary Education,Married,0.62736,477,653,0.59024,0.66447
+1989,Second Stage of Tertiary Education,Single,0.21885,135,653,0.18711,0.25059
+1989,Second Stage of Tertiary Education,Divorced,0.07069,41,653,0.05102,0.09036
+1990,No answer / don't know,Married,0.43112,83,153,0.35239,0.50985
+1990,No answer / don't know,Single,0.48586,70,153,0.40640,0.56531
+1990,Pre-primary Level,Single,0.99051,192,192,0.97676,1.00426
+1990,Primary Level,Married,0.57834,487,566,0.53762,0.61906
+1990,Primary Level,Single,0.24622,79,566,0.21070,0.28175
+1990,Lower Secondary Level,Married,0.48556,1599,2984,0.46763,0.50350
+1990,Lower Secondary Level,"Married, living apart",0.01712,57,2984,0.01247,0.02178
+1990,Lower Secondary Level,Single,0.23742,834,2984,0.22215,0.25269
+1990,Lower Secondary Level,Divorced,0.05581,123,2984,0.04757,0.06405
+1990,Lower Secondary Level,Widowed,0.20408,371,2984,0.18962,0.21854
+1990,Upper Secondary Level,Married,0.61549,4720,7067,0.60415,0.62683
 1990,Upper Secondary Level,"Married, living apart",0.01541,105,7067,0.01254,0.01828
-1990,Upper Secondary Level,Single,0.21327,1457,7067,0.20372,0.22282
-1990,Upper Secondary Level,Divorced,0.06810,393,7067,0.06223,0.07397
-1990,Upper Secondary Level,Widowed,0.08765,392,7067,0.08106,0.09424
+1990,Upper Secondary Level,Single,0.21332,1457,7067,0.20376,0.22287
+1990,Upper Secondary Level,Divorced,0.06811,393,7067,0.06224,0.07399
+1990,Upper Secondary Level,Widowed,0.08767,392,7067,0.08108,0.09426
 1990,Post-secondary Non-tertiary Level,Married,0.44202,207,347,0.38969,0.49434
 1990,Post-secondary Non-tertiary Level,Single,0.48135,140,347,0.42870,0.53400
 1990,First Stage of Tertiary Education,Married,0.70565,603,759,0.67320,0.73809
 1990,First Stage of Tertiary Education,Single,0.13165,83,759,0.10758,0.15572
 1990,First Stage of Tertiary Education,Divorced,0.06052,32,759,0.04355,0.07750
 1990,First Stage of Tertiary Education,Widowed,0.08743,41,759,0.06732,0.10754
-1990,Second Stage of Tertiary Education,Married,0.68400,1311,1666,0.66167,0.70633
-1990,Second Stage of Tertiary Education,Single,0.17460,206,1666,0.15637,0.19284
-1990,Second Stage of Tertiary Education,Divorced,0.08379,110,1666,0.07048,0.09710
-1990,Second Stage of Tertiary Education,Widowed,0.03446,39,1666,0.02570,0.04322
+1990,Second Stage of Tertiary Education,Married,0.68469,1311,1666,0.66237,0.70701
+1990,Second Stage of Tertiary Education,Single,0.17478,206,1666,0.15654,0.19302
+1990,Second Stage of Tertiary Education,Divorced,0.08388,110,1666,0.07056,0.09719
+1990,Second Stage of Tertiary Education,Widowed,0.03449,39,1666,0.02573,0.04326
+1991,No answer / don't know,Married,0.45824,92,172,0.38355,0.53292
+1991,No answer / don't know,Single,0.47321,80,172,0.39837,0.54804
 1991,Primary Level,Married,0.56446,482,588,0.52435,0.60457
 1991,Primary Level,Single,0.28417,106,588,0.24769,0.32066
-1991,Lower Secondary Level,Married,0.48840,1556,2857,0.47007,0.50674
-1991,Lower Secondary Level,"Married, living apart",0.01997,59,2857,0.01484,0.02510
-1991,Lower Secondary Level,Single,0.22638,786,2857,0.21103,0.24173
-1991,Lower Secondary Level,Divorced,0.05357,114,2857,0.04531,0.06183
-1991,Lower Secondary Level,Widowed,0.21097,342,2857,0.19600,0.22593
-1991,Upper Secondary Level,Married,0.60607,4582,6909,0.59455,0.61760
-1991,Upper Secondary Level,"Married, living apart",0.01831,108,6909,0.01515,0.02147
-1991,Upper Secondary Level,Single,0.21347,1454,6909,0.20381,0.22314
-1991,Upper Secondary Level,Divorced,0.06903,381,6909,0.06305,0.07501
-1991,Upper Secondary Level,Widowed,0.09266,384,6909,0.08582,0.09949
+1991,Lower Secondary Level,Married,0.48875,1556,2857,0.47042,0.50708
+1991,Lower Secondary Level,"Married, living apart",0.01998,59,2857,0.01485,0.02512
+1991,Lower Secondary Level,Single,0.22654,786,2857,0.21119,0.24189
+1991,Lower Secondary Level,Divorced,0.05361,114,2857,0.04535,0.06187
+1991,Lower Secondary Level,Widowed,0.21112,342,2857,0.19615,0.22608
+1991,Upper Secondary Level,Married,0.60635,4582,6909,0.59483,0.61787
+1991,Upper Secondary Level,"Married, living apart",0.01832,108,6909,0.01516,0.02148
+1991,Upper Secondary Level,Single,0.21357,1454,6909,0.20391,0.22324
+1991,Upper Secondary Level,Divorced,0.06906,381,6909,0.06308,0.07504
+1991,Upper Secondary Level,Widowed,0.09270,384,6909,0.08586,0.09954
 1991,Post-secondary Non-tertiary Level,Married,0.48177,218,358,0.42994,0.53361
 1991,Post-secondary Non-tertiary Level,Single,0.44488,140,358,0.39332,0.49643
 1991,First Stage of Tertiary Education,Married,0.70750,593,714,0.67411,0.74089
@@ -169,14 +181,15 @@ year,pgisced97,marstat,proportion,n,group_size,proportion_lower_confidence,propo
 1991,Second Stage of Tertiary Education,Single,0.16361,196,1656,0.14579,0.18143
 1991,Second Stage of Tertiary Education,Divorced,0.09129,116,1656,0.07741,0.10516
 1991,Second Stage of Tertiary Education,Widowed,0.03457,43,1656,0.02576,0.04337
-1992,Pre-primary Level,Single,0.99210,187,187,0.97938,1.00482
+1992,No answer / don't know,Married,0.44676,94,175,0.37289,0.52063
+1992,No answer / don't know,Single,0.46559,81,175,0.39147,0.53971
 1992,Primary Level,Married,0.59649,464,553,0.55556,0.63742
 1992,Primary Level,Single,0.23360,89,553,0.19831,0.26890
-1992,Lower Secondary Level,Married,0.49309,1512,2783,0.47451,0.51167
-1992,Lower Secondary Level,"Married, living apart",0.01898,59,2783,0.01391,0.02405
-1992,Lower Secondary Level,Single,0.22816,779,2783,0.21257,0.24376
-1992,Lower Secondary Level,Divorced,0.05418,110,2783,0.04577,0.06259
-1992,Lower Secondary Level,Widowed,0.20473,323,2783,0.18973,0.21972
+1992,Lower Secondary Level,Married,0.49351,1512,2783,0.47494,0.51209
+1992,Lower Secondary Level,"Married, living apart",0.01899,59,2783,0.01392,0.02407
+1992,Lower Secondary Level,Single,0.22836,779,2783,0.21276,0.24396
+1992,Lower Secondary Level,Divorced,0.05423,110,2783,0.04581,0.06264
+1992,Lower Secondary Level,Widowed,0.20491,323,2783,0.18991,0.21990
 1992,Upper Secondary Level,Married,0.60834,4452,6721,0.59667,0.62001
 1992,Upper Secondary Level,"Married, living apart",0.01728,100,6721,0.01416,0.02039
 1992,Upper Secondary Level,Single,0.21107,1407,6721,0.20131,0.22083
@@ -191,7 +204,9 @@ year,pgisced97,marstat,proportion,n,group_size,proportion_lower_confidence,propo
 1992,Second Stage of Tertiary Education,Single,0.16706,208,1632,0.14895,0.18516
 1992,Second Stage of Tertiary Education,Divorced,0.08417,110,1632,0.07069,0.09764
 1992,Second Stage of Tertiary Education,Widowed,0.03873,46,1632,0.02937,0.04810
-1993,Pre-primary Level,Single,0.98093,184,184,0.96112,1.00075
+1993,No answer / don't know,Married,0.44489,93,182,0.37249,0.51729
+1993,No answer / don't know,Single,0.46821,89,182,0.39551,0.54090
+1993,Pre-primary Level,Single,0.98281,184,184,0.96397,1.00164
 1993,Primary Level,Married,0.59381,447,531,0.55200,0.63563
 1993,Primary Level,Single,0.23264,84,531,0.19667,0.26861
 1993,Lower Secondary Level,Married,0.49100,1462,2678,0.47207,0.50994
@@ -214,7 +229,8 @@ year,pgisced97,marstat,proportion,n,group_size,proportion_lower_confidence,propo
 1993,Second Stage of Tertiary Education,Single,0.17881,223,1636,0.16023,0.19738
 1993,Second Stage of Tertiary Education,Divorced,0.08470,108,1636,0.07120,0.09820
 1993,Second Stage of Tertiary Education,Widowed,0.03372,43,1636,0.02497,0.04247
-1994,Pre-primary Level,Single,0.99593,239,239,0.98784,1.00402
+1994,No answer / don't know,Married,0.47857,120,204,0.40985,0.54729
+1994,No answer / don't know,Single,0.41280,84,204,0.34507,0.48053
 1994,Primary Level,Married,0.62999,421,489,0.58715,0.67282
 1994,Primary Level,Single,0.20556,68,489,0.16970,0.24141
 1994,Lower Secondary Level,Married,0.49279,1374,2492,0.47315,0.51242
@@ -237,7 +253,9 @@ year,pgisced97,marstat,proportion,n,group_size,proportion_lower_confidence,propo
 1994,Second Stage of Tertiary Education,Single,0.18437,240,1623,0.16550,0.20324
 1994,Second Stage of Tertiary Education,Divorced,0.08362,107,1623,0.07014,0.09709
 1994,Second Stage of Tertiary Education,Widowed,0.03634,45,1623,0.02723,0.04544
-1995,Pre-primary Level,Single,0.99261,286,286,0.98266,1.00255
+1995,No answer / don't know,Married,0.55095,153,245,0.48854,0.61337
+1995,No answer / don't know,Single,0.33535,92,245,0.27611,0.39459
+1995,Pre-primary Level,Single,0.99424,286,286,0.98545,1.00303
 1995,Primary Level,Married,0.64239,415,471,0.59905,0.68572
 1995,Primary Level,Single,0.18796,56,471,0.15264,0.22328
 1995,Lower Secondary Level,Married,0.48540,1378,2492,0.46577,0.50503
@@ -259,6 +277,8 @@ year,pgisced97,marstat,proportion,n,group_size,proportion_lower_confidence,propo
 1995,Second Stage of Tertiary Education,Single,0.19655,273,1725,0.17779,0.21530
 1995,Second Stage of Tertiary Education,Divorced,0.09115,129,1725,0.07756,0.10474
 1995,Second Stage of Tertiary Education,Widowed,0.03408,46,1725,0.02552,0.04265
+1996,No answer / don't know,Married,0.50751,142,239,0.44399,0.57103
+1996,No answer / don't know,Single,0.36000,97,239,0.29902,0.42099
 1996,Pre-primary Level,Single,0.99693,292,292,0.99057,1.00329
 1996,Primary Level,Married,0.63985,374,428,0.59431,0.68538
 1996,Primary Level,Single,0.18515,54,428,0.14831,0.22199
@@ -281,6 +301,8 @@ year,pgisced97,marstat,proportion,n,group_size,proportion_lower_confidence,propo
 1996,Second Stage of Tertiary Education,Single,0.20933,298,1735,0.19018,0.22847
 1996,Second Stage of Tertiary Education,Divorced,0.08736,118,1735,0.07407,0.10065
 1996,Second Stage of Tertiary Education,Widowed,0.03209,47,1735,0.02379,0.04038
+1997,No answer / don't know,Married,0.46904,132,244,0.40629,0.53178
+1997,No answer / don't know,Single,0.43128,112,244,0.36901,0.49355
 1997,Pre-primary Level,Single,0.99754,313,313,0.99204,1.00304
 1997,Primary Level,Married,0.64285,353,397,0.59566,0.69004
 1997,Primary Level,Single,0.14785,44,397,0.11289,0.18281
@@ -304,7 +326,11 @@ year,pgisced97,marstat,proportion,n,group_size,proportion_lower_confidence,propo
 1997,Second Stage of Tertiary Education,Single,0.21686,314,1767,0.19764,0.23608
 1997,Second Stage of Tertiary Education,Divorced,0.08829,121,1767,0.07506,0.10153
 1997,Second Stage of Tertiary Education,Widowed,0.03468,47,1767,0.02614,0.04321
-1998,Pre-primary Level,Single,0.98326,327,327,0.96934,0.99719
+1998,No answer / don't know,Married,0.53631,343,591,0.49608,0.57655
+1998,No answer / don't know,Single,0.26869,175,591,0.23292,0.30446
+1998,No answer / don't know,Divorced,0.07476,38,591,0.05354,0.09598
+1998,No answer / don't know,Widowed,0.09269,35,591,0.06929,0.11609
+1998,Pre-primary Level,Single,0.98631,327,327,0.97370,0.99893
 1998,Primary Level,Married,0.64614,330,377,0.59781,0.69447
 1998,Primary Level,Single,0.14278,47,377,0.10741,0.17814
 1998,Lower Secondary Level,Married,0.46849,1358,2539,0.44908,0.48791
@@ -327,7 +353,9 @@ year,pgisced97,marstat,proportion,n,group_size,proportion_lower_confidence,propo
 1998,Second Stage of Tertiary Education,Single,0.21289,371,1969,0.19481,0.23098
 1998,Second Stage of Tertiary Education,Divorced,0.09314,153,1969,0.08030,0.10599
 1998,Second Stage of Tertiary Education,Widowed,0.03639,53,1969,0.02812,0.04467
-1999,Pre-primary Level,Single,0.98191,312,312,0.96709,0.99672
+1999,No answer / don't know,Married,0.48602,134,254,0.42443,0.54761
+1999,No answer / don't know,Single,0.37498,120,254,0.31532,0.43463
+1999,Pre-primary Level,Single,0.98482,312,312,0.97123,0.99841
 1999,Primary Level,Married,0.64054,316,363,0.59111,0.68997
 1999,Primary Level,Single,0.14150,47,363,0.10559,0.17740
 1999,Lower Secondary Level,Married,0.45565,1272,2439,0.43588,0.47542
@@ -350,15 +378,15 @@ year,pgisced97,marstat,proportion,n,group_size,proportion_lower_confidence,propo
 1999,Second Stage of Tertiary Education,Single,0.21147,373,1959,0.19339,0.22956
 1999,Second Stage of Tertiary Education,Divorced,0.09767,152,1959,0.08452,0.11082
 1999,Second Stage of Tertiary Education,Widowed,0.03804,53,1959,0.02956,0.04651
-2000,Pre-primary Level,Single,0.98250,484,484,0.97081,0.99420
+2000,Pre-primary Level,Single,0.98494,484,484,0.97408,0.99580
 2000,Primary Level,Married,0.63838,271,379,0.58994,0.68681
 2000,Primary Level,Single,0.19589,77,379,0.15588,0.23590
 2000,Primary Level,Widowed,0.09434,31,379,0.06487,0.12380
-2000,Lower Secondary Level,Married,0.46631,1793,3553,0.44991,0.48272
-2000,Lower Secondary Level,"Married, living apart",0.02038,71,3553,0.01574,0.02503
-2000,Lower Secondary Level,Single,0.24895,1014,3553,0.23473,0.26317
-2000,Lower Secondary Level,Divorced,0.06057,173,3553,0.05272,0.06841
-2000,Lower Secondary Level,Widowed,0.20269,502,3553,0.18947,0.21592
+2000,Lower Secondary Level,Married,0.46682,1793,3553,0.45042,0.48323
+2000,Lower Secondary Level,"Married, living apart",0.02041,71,3553,0.01576,0.02505
+2000,Lower Secondary Level,Single,0.24922,1014,3553,0.23499,0.26344
+2000,Lower Secondary Level,Divorced,0.06063,173,3553,0.05279,0.06848
+2000,Lower Secondary Level,Widowed,0.20292,502,3553,0.18969,0.21614
 2000,Upper Secondary Level,Married,0.60333,8228,12799,0.59485,0.61181
 2000,Upper Secondary Level,"Married, living apart",0.02255,281,12799,0.01998,0.02513
 2000,Upper Secondary Level,Single,0.20780,2614,12799,0.20077,0.21483
@@ -368,16 +396,17 @@ year,pgisced97,marstat,proportion,n,group_size,proportion_lower_confidence,propo
 2000,Post-secondary Non-tertiary Level,Single,0.37521,385,1100,0.34659,0.40384
 2000,Post-secondary Non-tertiary Level,Divorced,0.05262,45,1100,0.03942,0.06582
 2000,Post-secondary Non-tertiary Level,Widowed,0.05473,41,1100,0.04128,0.06818
-2000,First Stage of Tertiary Education,Married,0.67422,1374,1881,0.65303,0.69540
-2000,First Stage of Tertiary Education,"Married, living apart",0.02139,38,1881,0.01485,0.02793
-2000,First Stage of Tertiary Education,Single,0.15501,264,1881,0.13865,0.17137
-2000,First Stage of Tertiary Education,Divorced,0.08498,129,1881,0.07237,0.09758
-2000,First Stage of Tertiary Education,Widowed,0.06379,76,1881,0.05274,0.07484
-2000,Second Stage of Tertiary Education,Married,0.63533,2647,3815,0.62006,0.65061
-2000,Second Stage of Tertiary Education,"Married, living apart",0.02468,84,3815,0.01976,0.02960
-2000,Second Stage of Tertiary Education,Single,0.21255,696,3815,0.19956,0.22553
-2000,Second Stage of Tertiary Education,Divorced,0.08942,281,3815,0.08036,0.09847
-2000,Second Stage of Tertiary Education,Widowed,0.03730,107,3815,0.03128,0.04331
+2000,First Stage of Tertiary Education,Married,0.67463,1374,1881,0.65345,0.69581
+2000,First Stage of Tertiary Education,"Married, living apart",0.02140,38,1881,0.01486,0.02795
+2000,First Stage of Tertiary Education,Single,0.15510,264,1881,0.13874,0.17147
+2000,First Stage of Tertiary Education,Divorced,0.08503,129,1881,0.07242,0.09764
+2000,First Stage of Tertiary Education,Widowed,0.06383,76,1881,0.05278,0.07488
+2000,Second Stage of Tertiary Education,Married,0.63579,2647,3815,0.62052,0.65107
+2000,Second Stage of Tertiary Education,"Married, living apart",0.02470,84,3815,0.01977,0.02962
+2000,Second Stage of Tertiary Education,Single,0.21270,696,3815,0.19971,0.22569
+2000,Second Stage of Tertiary Education,Divorced,0.08948,281,3815,0.08042,0.09854
+2000,Second Stage of Tertiary Education,Widowed,0.03733,107,3815,0.03131,0.04334
+2001,No answer / don't know,Single,0.67002,85,85,0.56947,0.77058
 2001,Pre-primary Level,Single,0.99704,538,538,0.99244,1.00163
 2001,Primary Level,Married,0.59883,203,265,0.53971,0.65796
 2001,Primary Level,Single,0.21420,62,265,0.16471,0.26369
@@ -405,6 +434,7 @@ year,pgisced97,marstat,proportion,n,group_size,proportion_lower_confidence,propo
 2001,Second Stage of Tertiary Education,Single,0.21810,644,3550,0.20452,0.23169
 2001,Second Stage of Tertiary Education,Divorced,0.08917,252,3550,0.07980,0.09855
 2001,Second Stage of Tertiary Education,Widowed,0.03531,100,3550,0.02924,0.04138
+2002,No answer / don't know,Single,0.80801,150,150,0.74477,0.87126
 2002,Pre-primary Level,Single,0.99816,610,610,0.99475,1.00156
 2002,Primary Level,Married,0.60586,186,243,0.54429,0.66743
 2002,Primary Level,Single,0.20809,57,243,0.15694,0.25924
@@ -432,7 +462,8 @@ year,pgisced97,marstat,proportion,n,group_size,proportion_lower_confidence,propo
 2002,Second Stage of Tertiary Education,Single,0.21990,714,4559,0.20787,0.23192
 2002,Second Stage of Tertiary Education,Divorced,0.09348,304,4559,0.08503,0.10193
 2002,Second Stage of Tertiary Education,Widowed,0.03695,119,4559,0.03147,0.04242
-2003,Pre-primary Level,Single,0.98545,614,614,0.97597,0.99493
+2003,No answer / don't know,Single,0.85331,207,207,0.80500,0.90163
+2003,Pre-primary Level,Single,0.98975,614,614,0.98178,0.99772
 2003,Primary Level,Married,0.58119,168,229,0.51715,0.64523
 2003,Primary Level,Single,0.23808,61,229,0.18280,0.29337
 2003,Lower Secondary Level,Married,0.44272,1301,2734,0.42409,0.46134
@@ -459,7 +490,8 @@ year,pgisced97,marstat,proportion,n,group_size,proportion_lower_confidence,propo
 2003,Second Stage of Tertiary Education,Single,0.22809,690,4354,0.21563,0.24056
 2003,Second Stage of Tertiary Education,Divorced,0.09210,285,4354,0.08351,0.10069
 2003,Second Stage of Tertiary Education,Widowed,0.03778,122,4354,0.03212,0.04345
-2004,Pre-primary Level,Single,0.99503,637,637,0.98956,1.00049
+2004,No answer / don't know,Single,0.86964,235,235,0.82650,0.91278
+2004,Pre-primary Level,Single,0.99743,637,637,0.99350,1.00136
 2004,Primary Level,Married,0.56878,157,215,0.50243,0.63514
 2004,Primary Level,Single,0.24624,58,215,0.18852,0.30396
 2004,Lower Secondary Level,Married,0.43318,1216,2574,0.41403,0.45233
@@ -486,7 +518,8 @@ year,pgisced97,marstat,proportion,n,group_size,proportion_lower_confidence,propo
 2004,Second Stage of Tertiary Education,Single,0.22937,695,4295,0.21680,0.24195
 2004,Second Stage of Tertiary Education,Divorced,0.09717,287,4295,0.08831,0.10603
 2004,Second Stage of Tertiary Education,Widowed,0.03921,126,4295,0.03340,0.04501
-2005,Pre-primary Level,Single,0.99365,646,646,0.98752,0.99978
+2005,No answer / don't know,Single,0.87273,272,272,0.83305,0.91241
+2005,Pre-primary Level,Single,0.99491,646,646,0.98942,1.00040
 2005,Primary Level,Married,0.56191,149,205,0.49382,0.62999
 2005,Primary Level,Single,0.25998,56,205,0.19979,0.32017
 2005,Lower Secondary Level,Married,0.41914,1109,2391,0.39936,0.43892
@@ -512,19 +545,21 @@ year,pgisced97,marstat,proportion,n,group_size,proportion_lower_confidence,propo
 2005,Second Stage of Tertiary Education,Single,0.23643,701,4166,0.22352,0.24933
 2005,Second Stage of Tertiary Education,Divorced,0.09563,282,4166,0.08670,0.10456
 2005,Second Stage of Tertiary Education,Widowed,0.04079,132,4166,0.03478,0.04679
+2006,No answer / don't know,Married,0.11969,38,317,0.08390,0.15548
+2006,No answer / don't know,Single,0.85007,279,317,0.81071,0.88944
 2006,Pre-primary Level,Single,0.97938,629,629,0.96826,0.99049
 2006,Primary Level,Married,0.53282,138,198,0.46315,0.60249
 2006,Primary Level,Single,0.27386,60,198,0.21159,0.33613
-2006,Lower Secondary Level,Married,0.41524,1162,2534,0.39605,0.43443
-2006,Lower Secondary Level,"Married, living apart",0.02639,65,2534,0.02015,0.03263
-2006,Lower Secondary Level,Single,0.29480,761,2534,0.27704,0.31256
-2006,Lower Secondary Level,Divorced,0.07419,155,2534,0.06399,0.08440
-2006,Lower Secondary Level,Widowed,0.18866,391,2534,0.17343,0.20390
-2006,Upper Secondary Level,Married,0.56178,6840,11086,0.55254,0.57102
-2006,Upper Secondary Level,"Married, living apart",0.02638,248,11086,0.02340,0.02937
-2006,Upper Secondary Level,Single,0.22477,2314,11086,0.21700,0.23254
-2006,Upper Secondary Level,Divorced,0.09748,906,11086,0.09196,0.10300
-2006,Upper Secondary Level,Widowed,0.08945,778,11086,0.08414,0.09476
+2006,Lower Secondary Level,Married,0.41553,1162,2534,0.39634,0.43473
+2006,Lower Secondary Level,"Married, living apart",0.02641,65,2534,0.02016,0.03265
+2006,Lower Secondary Level,Single,0.29501,761,2534,0.27725,0.31277
+2006,Lower Secondary Level,Divorced,0.07425,155,2534,0.06404,0.08446
+2006,Lower Secondary Level,Widowed,0.18880,391,2534,0.17356,0.20404
+2006,Upper Secondary Level,Married,0.56185,6840,11086,0.55262,0.57109
+2006,Upper Secondary Level,"Married, living apart",0.02639,248,11086,0.02340,0.02937
+2006,Upper Secondary Level,Single,0.22480,2314,11086,0.21703,0.23257
+2006,Upper Secondary Level,Divorced,0.09750,906,11086,0.09197,0.10302
+2006,Upper Secondary Level,Widowed,0.08946,778,11086,0.08415,0.09477
 2006,Post-secondary Non-tertiary Level,Married,0.51655,689,1189,0.48813,0.54497
 2006,Post-secondary Non-tertiary Level,Single,0.34739,391,1189,0.32031,0.37446
 2006,Post-secondary Non-tertiary Level,Divorced,0.08153,76,1189,0.06597,0.09709
@@ -539,7 +574,8 @@ year,pgisced97,marstat,proportion,n,group_size,proportion_lower_confidence,propo
 2006,Second Stage of Tertiary Education,Single,0.23893,786,4577,0.22657,0.25128
 2006,Second Stage of Tertiary Education,Divorced,0.09711,329,4577,0.08853,0.10569
 2006,Second Stage of Tertiary Education,Widowed,0.04402,158,4577,0.03808,0.04997
-2007,Pre-primary Level,Single,0.99008,626,626,0.98231,0.99785
+2007,No answer / don't know,Single,0.84761,294,294,0.80646,0.88877
+2007,Pre-primary Level,Single,0.99071,626,626,0.98318,0.99823
 2007,Primary Level,Married,0.57790,129,182,0.50595,0.64985
 2007,Primary Level,Single,0.25009,53,182,0.18700,0.31318
 2007,Lower Secondary Level,Married,0.42324,1032,2256,0.40285,0.44363
@@ -567,6 +603,7 @@ year,pgisced97,marstat,proportion,n,group_size,proportion_lower_confidence,propo
 2007,Second Stage of Tertiary Education,Single,0.24612,753,4389,0.23338,0.25887
 2007,Second Stage of Tertiary Education,Divorced,0.09428,323,4389,0.08564,0.10293
 2007,Second Stage of Tertiary Education,Widowed,0.04229,155,4389,0.03633,0.04824
+2008,No answer / don't know,Single,0.86410,302,302,0.82539,0.90281
 2008,Pre-primary Level,Single,0.99944,553,553,0.99746,1.00142
 2008,Primary Level,Married,0.55878,107,152,0.47958,0.63798
 2008,Primary Level,Single,0.24034,45,152,0.17219,0.30850
@@ -595,13 +632,14 @@ year,pgisced97,marstat,proportion,n,group_size,proportion_lower_confidence,propo
 2008,Second Stage of Tertiary Education,Single,0.25243,732,4192,0.23928,0.26558
 2008,Second Stage of Tertiary Education,Divorced,0.09272,316,4192,0.08394,0.10150
 2008,Second Stage of Tertiary Education,Widowed,0.04509,160,4192,0.03880,0.05137
+2009,No answer / don't know,Single,0.90218,297,297,0.86834,0.93602
 2009,Primary Level,Married,0.57385,100,135,0.49012,0.65758
 2009,Primary Level,Single,0.21156,35,135,0.14241,0.28071
-2009,Lower Secondary Level,Married,0.40541,800,1829,0.38290,0.42791
-2009,Lower Secondary Level,"Married, living apart",0.01726,38,1829,0.01129,0.02324
-2009,Lower Secondary Level,Single,0.30056,550,1829,0.27954,0.32158
-2009,Lower Secondary Level,Divorced,0.08054,130,1829,0.06806,0.09301
-2009,Lower Secondary Level,Widowed,0.19480,311,1829,0.17665,0.21296
+2009,Lower Secondary Level,Married,0.40599,800,1829,0.38347,0.42850
+2009,Lower Secondary Level,"Married, living apart",0.01729,38,1829,0.01131,0.02327
+2009,Lower Secondary Level,Single,0.30099,550,1829,0.27996,0.32202
+2009,Lower Secondary Level,Divorced,0.08065,130,1829,0.06817,0.09314
+2009,Lower Secondary Level,Widowed,0.19508,311,1829,0.17691,0.21325
 2009,Upper Secondary Level,Married,0.53768,5440,9064,0.52742,0.54795
 2009,Upper Secondary Level,"Married, living apart",0.02674,208,9064,0.02342,0.03006
 2009,Upper Secondary Level,Single,0.24248,1930,9064,0.23366,0.25131
@@ -620,107 +658,114 @@ year,pgisced97,marstat,proportion,n,group_size,proportion_lower_confidence,propo
 2009,Second Stage of Tertiary Education,Single,0.26511,746,4035,0.25148,0.27873
 2009,Second Stage of Tertiary Education,Divorced,0.08901,315,4035,0.08023,0.09780
 2009,Second Stage of Tertiary Education,Widowed,0.04438,160,4035,0.03803,0.05074
-2010,Pre-primary Level,Single,0.99920,706,706,0.99711,1.00129
+2010,No answer / don't know,Married,0.06704,34,305,0.03893,0.09515
+2010,No answer / don't know,Single,0.91053,271,305,0.87844,0.94261
+2010,Pre-primary Level,Single,0.99988,706,706,0.99905,1.00070
 2010,Primary Level,Married,0.51936,201,297,0.46244,0.57628
 2010,Primary Level,Single,0.27607,96,297,0.22514,0.32700
-2010,Lower Secondary Level,Married,0.40519,1157,2507,0.38597,0.42441
-2010,Lower Secondary Level,"Married, living apart",0.02195,64,2507,0.01622,0.02769
-2010,Lower Secondary Level,Single,0.30934,788,2507,0.29124,0.32744
-2010,Lower Secondary Level,Divorced,0.07549,202,2507,0.06514,0.08583
-2010,Lower Secondary Level,Widowed,0.18771,296,2507,0.17243,0.20300
-2010,Upper Secondary Level,Married,0.53694,7238,11741,0.52792,0.54596
-2010,Upper Secondary Level,"Married, living apart",0.02420,269,11741,0.02142,0.02698
-2010,Upper Secondary Level,Single,0.24202,2406,11741,0.23427,0.24977
-2010,Upper Secondary Level,Divorced,0.10580,1155,11741,0.10023,0.11136
-2010,Upper Secondary Level,Widowed,0.09081,673,11741,0.08561,0.09601
-2010,Post-secondary Non-tertiary Level,Married,0.52971,1058,1707,0.50603,0.55340
-2010,Post-secondary Non-tertiary Level,"Married, living apart",0.02731,60,1707,0.01957,0.03504
-2010,Post-secondary Non-tertiary Level,Single,0.33465,425,1707,0.31226,0.35705
-2010,Post-secondary Non-tertiary Level,Divorced,0.07053,131,1707,0.05838,0.08268
-2010,Post-secondary Non-tertiary Level,Widowed,0.03739,33,1707,0.02839,0.04639
-2010,First Stage of Tertiary Education,Married,0.62590,1165,1610,0.60226,0.64954
-2010,First Stage of Tertiary Education,"Married, living apart",0.03275,48,1610,0.02405,0.04144
-2010,First Stage of Tertiary Education,Single,0.18864,216,1610,0.16953,0.20776
-2010,First Stage of Tertiary Education,Divorced,0.10396,123,1610,0.08905,0.11888
-2010,First Stage of Tertiary Education,Widowed,0.04839,58,1610,0.03790,0.05888
-2010,Second Stage of Tertiary Education,Married,0.57832,3751,5373,0.56512,0.59153
-2010,Second Stage of Tertiary Education,"Married, living apart",0.03092,146,5373,0.02629,0.03555
-2010,Second Stage of Tertiary Education,Single,0.25914,917,5373,0.24743,0.27086
-2010,Second Stage of Tertiary Education,Divorced,0.08970,396,5373,0.08205,0.09734
-2010,Second Stage of Tertiary Education,Widowed,0.04174,163,5373,0.03639,0.04709
-2011,Pre-primary Level,Single,0.99684,893,893,0.99315,1.00052
+2010,Lower Secondary Level,Married,0.40532,1157,2507,0.38610,0.42454
+2010,Lower Secondary Level,"Married, living apart",0.02196,64,2507,0.01622,0.02770
+2010,Lower Secondary Level,Single,0.30944,788,2507,0.29134,0.32754
+2010,Lower Secondary Level,Divorced,0.07551,202,2507,0.06517,0.08585
+2010,Lower Secondary Level,Widowed,0.18777,296,2507,0.17248,0.20306
+2010,Upper Secondary Level,Married,0.53707,7238,11741,0.52805,0.54609
+2010,Upper Secondary Level,"Married, living apart",0.02421,269,11741,0.02143,0.02699
+2010,Upper Secondary Level,Single,0.24207,2406,11741,0.23433,0.24982
+2010,Upper Secondary Level,Divorced,0.10582,1155,11741,0.10026,0.11138
+2010,Upper Secondary Level,Widowed,0.09083,673,11741,0.08563,0.09603
+2010,Post-secondary Non-tertiary Level,Married,0.52993,1058,1707,0.50625,0.55361
+2010,Post-secondary Non-tertiary Level,"Married, living apart",0.02732,60,1707,0.01958,0.03505
+2010,Post-secondary Non-tertiary Level,Single,0.33479,425,1707,0.31240,0.35719
+2010,Post-secondary Non-tertiary Level,Divorced,0.07056,131,1707,0.05840,0.08271
+2010,Post-secondary Non-tertiary Level,Widowed,0.03740,33,1707,0.02840,0.04641
+2010,First Stage of Tertiary Education,Married,0.62613,1165,1610,0.60248,0.64977
+2010,First Stage of Tertiary Education,"Married, living apart",0.03276,48,1610,0.02406,0.04145
+2010,First Stage of Tertiary Education,Single,0.18871,216,1610,0.16959,0.20783
+2010,First Stage of Tertiary Education,Divorced,0.10400,123,1610,0.08909,0.11892
+2010,First Stage of Tertiary Education,Widowed,0.04841,58,1610,0.03792,0.05889
+2010,Second Stage of Tertiary Education,Married,0.57842,3751,5373,0.56522,0.59163
+2010,Second Stage of Tertiary Education,"Married, living apart",0.03093,146,5373,0.02630,0.03556
+2010,Second Stage of Tertiary Education,Single,0.25919,917,5373,0.24747,0.27091
+2010,Second Stage of Tertiary Education,Divorced,0.08971,396,5373,0.08207,0.09735
+2010,Second Stage of Tertiary Education,Widowed,0.04175,163,5373,0.03640,0.04710
+2011,No answer / don't know,Married,0.16161,150,542,0.13060,0.19263
+2011,No answer / don't know,Single,0.79192,392,542,0.75772,0.82613
 2011,Primary Level,Married,0.45788,216,368,0.40691,0.50885
 2011,Primary Level,Single,0.26840,112,368,0.22306,0.31374
 2011,Primary Level,Divorced,0.11741,40,368,0.08448,0.15035
-2011,Lower Secondary Level,Married,0.42214,1406,3051,0.40461,0.43967
-2011,Lower Secondary Level,"Married, living apart",0.02351,90,3051,0.01813,0.02888
-2011,Lower Secondary Level,Single,0.29281,916,3051,0.27666,0.30896
-2011,Lower Secondary Level,Divorced,0.07983,277,3051,0.07021,0.08944
-2011,Lower Secondary Level,Widowed,0.18133,362,3051,0.16766,0.19501
-2011,Upper Secondary Level,Married,0.53844,8505,13900,0.53015,0.54673
-2011,Upper Secondary Level,"Married, living apart",0.02105,338,13900,0.01866,0.02344
-2011,Upper Secondary Level,Single,0.24679,2765,13900,0.23962,0.25396
-2011,Upper Secondary Level,Divorced,0.10500,1444,13900,0.09990,0.11009
-2011,Upper Secondary Level,Widowed,0.08861,848,13900,0.08389,0.09334
+2011,Lower Secondary Level,Married,0.42230,1406,3051,0.40478,0.43983
+2011,Lower Secondary Level,"Married, living apart",0.02351,90,3051,0.01814,0.02889
+2011,Lower Secondary Level,Single,0.29292,916,3051,0.27677,0.30907
+2011,Lower Secondary Level,Divorced,0.07986,277,3051,0.07024,0.08948
+2011,Lower Secondary Level,Widowed,0.18140,362,3051,0.16773,0.19508
+2011,Upper Secondary Level,Married,0.53850,8505,13900,0.53021,0.54679
+2011,Upper Secondary Level,"Married, living apart",0.02105,338,13900,0.01867,0.02344
+2011,Upper Secondary Level,Single,0.24682,2765,13900,0.23965,0.25398
+2011,Upper Secondary Level,Divorced,0.10501,1444,13900,0.09991,0.11011
+2011,Upper Secondary Level,Widowed,0.08862,848,13900,0.08390,0.09335
 2011,Post-secondary Non-tertiary Level,Married,0.49814,1207,2002,0.47623,0.52004
 2011,Post-secondary Non-tertiary Level,"Married, living apart",0.03385,78,2002,0.02593,0.04178
 2011,Post-secondary Non-tertiary Level,Single,0.35512,501,2002,0.33416,0.37609
 2011,Post-secondary Non-tertiary Level,Divorced,0.08038,177,2002,0.06847,0.09229
 2011,Post-secondary Non-tertiary Level,Widowed,0.03251,39,2002,0.02474,0.04028
-2011,First Stage of Tertiary Education,Married,0.63262,1339,1849,0.61064,0.65460
-2011,First Stage of Tertiary Education,"Married, living apart",0.03471,54,1849,0.02637,0.04306
-2011,First Stage of Tertiary Education,Single,0.19344,242,1849,0.17543,0.21145
-2011,First Stage of Tertiary Education,Divorced,0.09611,151,1849,0.08267,0.10955
-2011,First Stage of Tertiary Education,Widowed,0.04292,63,1849,0.03368,0.05217
-2011,Second Stage of Tertiary Education,Married,0.56576,4281,6211,0.55343,0.57809
-2011,Second Stage of Tertiary Education,"Married, living apart",0.02773,164,6211,0.02365,0.03182
-2011,Second Stage of Tertiary Education,Single,0.26949,1074,6211,0.25846,0.28053
-2011,Second Stage of Tertiary Education,Divorced,0.09025,484,6211,0.08312,0.09737
-2011,Second Stage of Tertiary Education,Widowed,0.04668,208,6211,0.04144,0.05193
+2011,First Stage of Tertiary Education,Married,0.63275,1339,1849,0.61077,0.65472
+2011,First Stage of Tertiary Education,"Married, living apart",0.03472,54,1849,0.02637,0.04306
+2011,First Stage of Tertiary Education,Single,0.19348,242,1849,0.17547,0.21149
+2011,First Stage of Tertiary Education,Divorced,0.09613,151,1849,0.08269,0.10957
+2011,First Stage of Tertiary Education,Widowed,0.04293,63,1849,0.03369,0.05217
+2011,Second Stage of Tertiary Education,Married,0.56581,4281,6211,0.55348,0.57813
+2011,Second Stage of Tertiary Education,"Married, living apart",0.02774,164,6211,0.02365,0.03182
+2011,Second Stage of Tertiary Education,Single,0.26952,1074,6211,0.25848,0.28055
+2011,Second Stage of Tertiary Education,Divorced,0.09026,484,6211,0.08313,0.09738
+2011,Second Stage of Tertiary Education,Widowed,0.04669,208,6211,0.04144,0.05193
+2012,No answer / don't know,Married,0.14201,53,409,0.10814,0.17588
+2012,No answer / don't know,Single,0.82315,356,409,0.78613,0.86017
 2012,Pre-primary Level,Single,0.99737,904,904,0.99403,1.00071
 2012,Primary Level,Married,0.44996,192,348,0.39761,0.50230
 2012,Primary Level,Single,0.28241,116,348,0.23504,0.32977
 2012,Primary Level,Divorced,0.13783,40,348,0.10155,0.17410
-2012,Lower Secondary Level,Married,0.43534,1374,2988,0.41756,0.45312
-2012,Lower Secondary Level,"Married, living apart",0.02422,88,2988,0.01871,0.02974
-2012,Lower Secondary Level,Single,0.29284,904,2988,0.27652,0.30916
-2012,Lower Secondary Level,Divorced,0.08303,286,2988,0.07313,0.09292
-2012,Lower Secondary Level,Widowed,0.16374,336,2988,0.15047,0.17701
-2012,Upper Secondary Level,Married,0.54580,8260,13546,0.53741,0.55418
-2012,Upper Secondary Level,"Married, living apart",0.02098,338,13546,0.01856,0.02339
-2012,Upper Secondary Level,Single,0.24232,2673,13546,0.23511,0.24954
-2012,Upper Secondary Level,Divorced,0.10583,1431,13546,0.10065,0.11101
-2012,Upper Secondary Level,Widowed,0.08475,844,13546,0.08006,0.08944
-2012,Post-secondary Non-tertiary Level,Married,0.49849,1160,1963,0.47637,0.52062
-2012,Post-secondary Non-tertiary Level,"Married, living apart",0.03733,71,1963,0.02894,0.04572
-2012,Post-secondary Non-tertiary Level,Single,0.34678,490,1963,0.32572,0.36784
-2012,Post-secondary Non-tertiary Level,Divorced,0.07755,198,1963,0.06571,0.08938
-2012,Post-secondary Non-tertiary Level,Widowed,0.03866,44,1963,0.03013,0.04720
-2012,First Stage of Tertiary Education,Married,0.62809,1295,1803,0.60577,0.65040
-2012,First Stage of Tertiary Education,"Married, living apart",0.03363,53,1803,0.02531,0.04195
-2012,First Stage of Tertiary Education,Single,0.19926,233,1803,0.18082,0.21771
-2012,First Stage of Tertiary Education,Divorced,0.09606,155,1803,0.08246,0.10967
-2012,First Stage of Tertiary Education,Widowed,0.04214,67,1803,0.03286,0.05142
-2012,Second Stage of Tertiary Education,Married,0.57355,4215,6143,0.56118,0.58592
-2012,Second Stage of Tertiary Education,"Married, living apart",0.02630,158,6143,0.02229,0.03030
-2012,Second Stage of Tertiary Education,Single,0.26544,1060,6143,0.25440,0.27648
-2012,Second Stage of Tertiary Education,Divorced,0.08897,495,6143,0.08185,0.09609
-2012,Second Stage of Tertiary Education,Widowed,0.04521,215,6143,0.04001,0.05041
-2013,Pre-primary Level,Single,0.99636,1065,1065,0.99274,0.99998
+2012,Lower Secondary Level,Married,0.43570,1374,2988,0.41792,0.45348
+2012,Lower Secondary Level,"Married, living apart",0.02424,88,2988,0.01873,0.02976
+2012,Lower Secondary Level,Single,0.29308,904,2988,0.27676,0.30941
+2012,Lower Secondary Level,Divorced,0.08310,286,2988,0.07320,0.09299
+2012,Lower Secondary Level,Widowed,0.16387,336,2988,0.15060,0.17715
+2012,Upper Secondary Level,Married,0.54597,8260,13546,0.53759,0.55436
+2012,Upper Secondary Level,"Married, living apart",0.02098,338,13546,0.01857,0.02340
+2012,Upper Secondary Level,Single,0.24240,2673,13546,0.23518,0.24962
+2012,Upper Secondary Level,Divorced,0.10587,1431,13546,0.10069,0.11105
+2012,Upper Secondary Level,Widowed,0.08478,844,13546,0.08009,0.08947
+2012,Post-secondary Non-tertiary Level,Married,0.49909,1160,1963,0.47696,0.52121
+2012,Post-secondary Non-tertiary Level,"Married, living apart",0.03738,71,1963,0.02898,0.04577
+2012,Post-secondary Non-tertiary Level,Single,0.34719,490,1963,0.32612,0.36825
+2012,Post-secondary Non-tertiary Level,Divorced,0.07764,198,1963,0.06580,0.08948
+2012,Post-secondary Non-tertiary Level,Widowed,0.03871,44,1963,0.03017,0.04725
+2012,First Stage of Tertiary Education,Married,0.62860,1295,1803,0.60629,0.65091
+2012,First Stage of Tertiary Education,"Married, living apart",0.03366,53,1803,0.02533,0.04198
+2012,First Stage of Tertiary Education,Single,0.19943,233,1803,0.18098,0.21788
+2012,First Stage of Tertiary Education,Divorced,0.09614,155,1803,0.08253,0.10975
+2012,First Stage of Tertiary Education,Widowed,0.04217,67,1803,0.03289,0.05145
+2012,Second Stage of Tertiary Education,Married,0.57386,4215,6143,0.56149,0.58623
+2012,Second Stage of Tertiary Education,"Married, living apart",0.02631,158,6143,0.02231,0.03031
+2012,Second Stage of Tertiary Education,Single,0.26558,1060,6143,0.25454,0.27663
+2012,Second Stage of Tertiary Education,Divorced,0.08901,495,6143,0.08189,0.09614
+2012,Second Stage of Tertiary Education,Widowed,0.04523,215,6143,0.04004,0.05043
+2013,No answer / don't know,Married,0.18010,133,536,0.14754,0.21266
+2013,No answer / don't know,Single,0.78329,403,536,0.74837,0.81820
+2013,Pre-primary Level,Single,0.99683,1065,1065,0.99345,1.00021
 2013,Primary Level,Married,0.48790,379,607,0.44811,0.52770
 2013,Primary Level,Single,0.25832,141,607,0.22347,0.29317
 2013,Primary Level,Divorced,0.13772,56,607,0.11028,0.16516
 2013,Primary Level,Widowed,0.07396,31,607,0.05312,0.09479
-2013,Lower Secondary Level,Married,0.44578,1822,3806,0.42998,0.46157
-2013,Lower Secondary Level,"Married, living apart",0.02310,91,3806,0.01833,0.02787
-2013,Lower Secondary Level,Single,0.29728,1242,3806,0.28276,0.31180
-2013,Lower Secondary Level,Divorced,0.07563,323,3806,0.06723,0.08404
-2013,Lower Secondary Level,Widowed,0.15811,328,3806,0.14652,0.16970
-2013,Upper Secondary Level,Married,0.53785,8500,14160,0.52964,0.54606
-2013,Upper Secondary Level,"Married, living apart",0.02307,394,14160,0.02060,0.02554
-2013,Upper Secondary Level,Single,0.24538,2988,14160,0.23829,0.25247
-2013,Upper Secondary Level,Divorced,0.10564,1457,14160,0.10057,0.11070
-2013,Upper Secondary Level,Widowed,0.08789,821,14160,0.08323,0.09256
+2013,Lower Secondary Level,Married,0.44582,1822,3806,0.43003,0.46162
+2013,Lower Secondary Level,"Married, living apart",0.02310,91,3806,0.01833,0.02788
+2013,Lower Secondary Level,Single,0.29731,1242,3806,0.28279,0.31183
+2013,Lower Secondary Level,Divorced,0.07564,323,3806,0.06724,0.08404
+2013,Lower Secondary Level,Widowed,0.15812,328,3806,0.14653,0.16972
+2013,Upper Secondary Level,Married,0.53794,8500,14160,0.52973,0.54615
+2013,Upper Secondary Level,"Married, living apart",0.02307,394,14160,0.02060,0.02555
+2013,Upper Secondary Level,Single,0.24542,2988,14160,0.23833,0.25251
+2013,Upper Secondary Level,Divorced,0.10565,1457,14160,0.10059,0.11072
+2013,Upper Secondary Level,Widowed,0.08791,821,14160,0.08324,0.09257
 2013,Post-secondary Non-tertiary Level,Married,0.48838,1455,2362,0.46822,0.50854
 2013,Post-secondary Non-tertiary Level,"Married, living apart",0.03195,78,2362,0.02485,0.03904
 2013,Post-secondary Non-tertiary Level,Single,0.34259,533,2362,0.32344,0.36173
@@ -731,25 +776,27 @@ year,pgisced97,marstat,proportion,n,group_size,proportion_lower_confidence,propo
 2013,First Stage of Tertiary Education,Single,0.18300,218,1724,0.16474,0.20125
 2013,First Stage of Tertiary Education,Divorced,0.10563,161,1724,0.09112,0.12015
 2013,First Stage of Tertiary Education,Widowed,0.04949,66,1724,0.03925,0.05974
-2013,Second Stage of Tertiary Education,Married,0.56335,4671,6858,0.55161,0.57509
-2013,Second Stage of Tertiary Education,"Married, living apart",0.02679,193,6858,0.02296,0.03061
-2013,Second Stage of Tertiary Education,Single,0.27322,1234,6858,0.26268,0.28377
-2013,Second Stage of Tertiary Education,Divorced,0.09221,544,6858,0.08537,0.09906
-2013,Second Stage of Tertiary Education,Widowed,0.04418,216,6858,0.03932,0.04905
-2014,Pre-primary Level,Single,0.98678,878,878,0.97922,0.99434
+2013,Second Stage of Tertiary Education,Married,0.56349,4671,6858,0.55175,0.57523
+2013,Second Stage of Tertiary Education,"Married, living apart",0.02679,193,6858,0.02297,0.03061
+2013,Second Stage of Tertiary Education,Single,0.27329,1234,6858,0.26274,0.28384
+2013,Second Stage of Tertiary Education,Divorced,0.09224,544,6858,0.08539,0.09909
+2013,Second Stage of Tertiary Education,Widowed,0.04419,216,6858,0.03933,0.04906
+2014,No answer / don't know,Married,0.19745,126,590,0.16530,0.22960
+2014,No answer / don't know,Single,0.76877,464,590,0.73472,0.80282
+2014,Pre-primary Level,Single,0.98789,878,878,0.98065,0.99513
 2014,Primary Level,Married,0.47954,290,467,0.43418,0.52490
 2014,Primary Level,Single,0.27615,127,467,0.23556,0.31675
 2014,Primary Level,Divorced,0.15474,50,467,0.12191,0.18758
-2014,Lower Secondary Level,Married,0.42791,1497,3231,0.41084,0.44497
-2014,Lower Secondary Level,"Married, living apart",0.02817,82,3231,0.02246,0.03387
-2014,Lower Secondary Level,Single,0.30691,1082,3231,0.29100,0.32281
-2014,Lower Secondary Level,Divorced,0.07816,266,3231,0.06890,0.08742
-2014,Lower Secondary Level,Widowed,0.15825,304,3231,0.14566,0.17083
-2014,Upper Secondary Level,Married,0.53359,7520,12547,0.52486,0.54232
+2014,Lower Secondary Level,Married,0.42817,1497,3231,0.41111,0.44524
+2014,Lower Secondary Level,"Married, living apart",0.02818,82,3231,0.02248,0.03389
+2014,Lower Secondary Level,Single,0.30709,1082,3231,0.29119,0.32300
+2014,Lower Secondary Level,Divorced,0.07821,266,3231,0.06895,0.08747
+2014,Lower Secondary Level,Widowed,0.15834,304,3231,0.14575,0.17093
+2014,Upper Secondary Level,Married,0.53362,7520,12547,0.52490,0.54235
 2014,Upper Secondary Level,"Married, living apart",0.02396,314,12547,0.02128,0.02663
-2014,Upper Secondary Level,Single,0.24584,2648,12547,0.23830,0.25337
+2014,Upper Secondary Level,Single,0.24586,2648,12547,0.23832,0.25339
 2014,Upper Secondary Level,Divorced,0.10661,1284,12547,0.10121,0.11201
-2014,Upper Secondary Level,Widowed,0.08994,781,12547,0.08494,0.09495
+2014,Upper Secondary Level,Widowed,0.08995,781,12547,0.08494,0.09496
 2014,Post-secondary Non-tertiary Level,Married,0.48786,1256,2046,0.46620,0.50953
 2014,Post-secondary Non-tertiary Level,"Married, living apart",0.03698,70,2046,0.02880,0.04516
 2014,Post-secondary Non-tertiary Level,Single,0.33858,463,2046,0.31807,0.35909
@@ -760,87 +807,94 @@ year,pgisced97,marstat,proportion,n,group_size,proportion_lower_confidence,propo
 2014,First Stage of Tertiary Education,Single,0.17097,188,1592,0.15247,0.18947
 2014,First Stage of Tertiary Education,Divorced,0.11602,152,1592,0.10029,0.13176
 2014,First Stage of Tertiary Education,Widowed,0.04829,63,1592,0.03775,0.05882
-2014,Second Stage of Tertiary Education,Married,0.55454,4201,6226,0.54219,0.56688
-2014,Second Stage of Tertiary Education,"Married, living apart",0.02655,184,6226,0.02256,0.03055
-2014,Second Stage of Tertiary Education,Single,0.27995,1130,6226,0.26879,0.29110
-2014,Second Stage of Tertiary Education,Divorced,0.09268,496,6226,0.08548,0.09988
-2014,Second Stage of Tertiary Education,Widowed,0.04615,215,6226,0.04094,0.05136
-2015,Pre-primary Level,Single,0.99611,769,769,0.99171,1.00051
-2015,Primary Level,Married,0.44524,292,485,0.40096,0.48952
-2015,Primary Level,Single,0.27757,140,485,0.23768,0.31746
-2015,Primary Level,Divorced,0.16151,53,485,0.12872,0.19429
-2015,Lower Secondary Level,Married,0.41065,1396,3091,0.39331,0.42800
-2015,Lower Secondary Level,"Married, living apart",0.02591,70,3091,0.02031,0.03151
-2015,Lower Secondary Level,Single,0.31219,1074,3091,0.29585,0.32853
-2015,Lower Secondary Level,Divorced,0.08814,269,3091,0.07814,0.09813
-2015,Lower Secondary Level,Widowed,0.16104,282,3091,0.14808,0.17400
-2015,Upper Secondary Level,Married,0.52475,7182,12144,0.51587,0.53363
-2015,Upper Secondary Level,"Married, living apart",0.02438,308,12144,0.02164,0.02713
-2015,Upper Secondary Level,Single,0.24873,2672,12144,0.24104,0.25641
-2015,Upper Secondary Level,Divorced,0.11195,1243,12144,0.10634,0.11756
-2015,Upper Secondary Level,Widowed,0.08929,739,12144,0.08422,0.09436
-2015,Post-secondary Non-tertiary Level,Married,0.50091,1312,2141,0.47973,0.52210
-2015,Post-secondary Non-tertiary Level,"Married, living apart",0.02773,66,2141,0.02077,0.03469
-2015,Post-secondary Non-tertiary Level,Single,0.32501,486,2141,0.30517,0.34486
-2015,Post-secondary Non-tertiary Level,Divorced,0.09339,220,2141,0.08106,0.10572
-2015,Post-secondary Non-tertiary Level,Widowed,0.05044,57,2141,0.04117,0.05971
-2015,First Stage of Tertiary Education,Married,0.61653,1092,1527,0.59214,0.64093
-2015,First Stage of Tertiary Education,"Married, living apart",0.03614,44,1527,0.02677,0.04550
-2015,First Stage of Tertiary Education,Single,0.17797,180,1527,0.15878,0.19716
-2015,First Stage of Tertiary Education,Divorced,0.11993,146,1527,0.10363,0.13623
-2015,First Stage of Tertiary Education,Widowed,0.04910,65,1527,0.03826,0.05994
-2015,Second Stage of Tertiary Education,Married,0.53639,4272,6365,0.52414,0.54864
-2015,Second Stage of Tertiary Education,"Married, living apart",0.02348,170,6365,0.01976,0.02720
-2015,Second Stage of Tertiary Education,Single,0.29857,1219,6365,0.28733,0.30982
-2015,Second Stage of Tertiary Education,Divorced,0.09201,488,6365,0.08491,0.09912
-2015,Second Stage of Tertiary Education,Widowed,0.04530,216,6365,0.04019,0.05040
+2014,Second Stage of Tertiary Education,Married,0.55461,4201,6226,0.54227,0.56696
+2014,Second Stage of Tertiary Education,"Married, living apart",0.02656,184,6226,0.02256,0.03055
+2014,Second Stage of Tertiary Education,Single,0.27998,1130,6226,0.26883,0.29114
+2014,Second Stage of Tertiary Education,Divorced,0.09269,496,6226,0.08549,0.09990
+2014,Second Stage of Tertiary Education,Widowed,0.04615,215,6226,0.04094,0.05137
+2015,No answer / don't know,Married,0.14663,113,618,0.11872,0.17454
+2015,No answer / don't know,Single,0.79856,505,618,0.76691,0.83021
+2015,Pre-primary Level,Single,0.99646,769,769,0.99226,1.00066
+2015,Primary Level,Married,0.44783,292,485,0.40352,0.49213
+2015,Primary Level,Single,0.27918,140,485,0.23922,0.31915
+2015,Primary Level,Divorced,0.16245,53,485,0.12958,0.19531
+2015,Lower Secondary Level,Married,0.41151,1396,3091,0.39415,0.42886
+2015,Lower Secondary Level,"Married, living apart",0.02597,70,3091,0.02036,0.03157
+2015,Lower Secondary Level,Single,0.31284,1074,3091,0.29649,0.32919
+2015,Lower Secondary Level,Divorced,0.08832,269,3091,0.07832,0.09833
+2015,Lower Secondary Level,Widowed,0.16137,282,3091,0.14840,0.17434
+2015,Upper Secondary Level,Married,0.52522,7182,12144,0.51634,0.53410
+2015,Upper Secondary Level,"Married, living apart",0.02441,308,12144,0.02166,0.02715
+2015,Upper Secondary Level,Single,0.24895,2672,12144,0.24126,0.25664
+2015,Upper Secondary Level,Divorced,0.11205,1243,12144,0.10644,0.11766
+2015,Upper Secondary Level,Widowed,0.08937,739,12144,0.08430,0.09445
+2015,Post-secondary Non-tertiary Level,Married,0.50217,1312,2141,0.48099,0.52336
+2015,Post-secondary Non-tertiary Level,"Married, living apart",0.02780,66,2141,0.02084,0.03477
+2015,Post-secondary Non-tertiary Level,Single,0.32583,486,2141,0.30597,0.34569
+2015,Post-secondary Non-tertiary Level,Divorced,0.09363,220,2141,0.08129,0.10597
+2015,Post-secondary Non-tertiary Level,Widowed,0.05057,57,2141,0.04128,0.05985
+2015,First Stage of Tertiary Education,Married,0.61674,1092,1527,0.59234,0.64113
+2015,First Stage of Tertiary Education,"Married, living apart",0.03615,44,1527,0.02678,0.04551
+2015,First Stage of Tertiary Education,Single,0.17803,180,1527,0.15884,0.19722
+2015,First Stage of Tertiary Education,Divorced,0.11997,146,1527,0.10367,0.13627
+2015,First Stage of Tertiary Education,Widowed,0.04912,65,1527,0.03827,0.05996
+2015,Second Stage of Tertiary Education,Married,0.53868,4272,6365,0.52643,0.55093
+2015,Second Stage of Tertiary Education,"Married, living apart",0.02358,170,6365,0.01985,0.02731
+2015,Second Stage of Tertiary Education,Single,0.29985,1219,6365,0.28859,0.31111
+2015,Second Stage of Tertiary Education,Divorced,0.09241,488,6365,0.08529,0.09952
+2015,Second Stage of Tertiary Education,Widowed,0.04549,216,6365,0.04037,0.05061
+2016,No answer / don't know,Married,0.13027,235,784,0.10670,0.15385
+2016,No answer / don't know,Single,0.80681,549,784,0.77916,0.83446
 2016,Pre-primary Level,Single,0.99953,862,862,0.99809,1.00098
-2016,Primary Level,Married,0.50245,951,1441,0.47662,0.52827
-2016,Primary Level,"Married, living apart",0.04228,95,1441,0.03189,0.05267
-2016,Primary Level,Single,0.26437,293,1441,0.24159,0.28715
-2016,Primary Level,Divorced,0.15032,60,1441,0.13186,0.16878
-2016,Primary Level,Widowed,0.03975,42,1441,0.02966,0.04984
-2016,Lower Secondary Level,Married,0.41449,1538,3286,0.39764,0.43133
-2016,Lower Secondary Level,"Married, living apart",0.02305,124,3286,0.01792,0.02818
-2016,Lower Secondary Level,Single,0.32187,1126,3286,0.30589,0.33784
-2016,Lower Secondary Level,Divorced,0.08883,236,3286,0.07911,0.09856
-2016,Lower Secondary Level,Widowed,0.15116,262,3286,0.13891,0.16341
-2016,Upper Secondary Level,Married,0.52126,6851,11539,0.51215,0.53038
-2016,Upper Secondary Level,"Married, living apart",0.02179,313,11539,0.01912,0.02445
-2016,Upper Secondary Level,Single,0.25213,2490,11539,0.24421,0.26005
-2016,Upper Secondary Level,Divorced,0.11479,1170,11539,0.10897,0.12060
-2016,Upper Secondary Level,Widowed,0.08984,715,11539,0.08462,0.09506
-2016,Post-secondary Non-tertiary Level,Married,0.48952,1250,2092,0.46809,0.51094
-2016,Post-secondary Non-tertiary Level,"Married, living apart",0.02997,68,2092,0.02266,0.03728
-2016,Post-secondary Non-tertiary Level,Single,0.34044,493,2092,0.32013,0.36076
-2016,Post-secondary Non-tertiary Level,Divorced,0.09214,223,2092,0.07975,0.10454
+2016,Primary Level,Married,0.50286,951,1441,0.47704,0.52869
+2016,Primary Level,"Married, living apart",0.04232,95,1441,0.03192,0.05271
+2016,Primary Level,Single,0.26459,293,1441,0.24180,0.28737
+2016,Primary Level,Divorced,0.15045,60,1441,0.13198,0.16891
+2016,Primary Level,Widowed,0.03978,42,1441,0.02969,0.04988
+2016,Lower Secondary Level,Married,0.41473,1538,3286,0.39789,0.43158
+2016,Lower Secondary Level,"Married, living apart",0.02307,124,3286,0.01793,0.02820
+2016,Lower Secondary Level,Single,0.32206,1126,3286,0.30608,0.33804
+2016,Lower Secondary Level,Divorced,0.08889,236,3286,0.07916,0.09862
+2016,Lower Secondary Level,Widowed,0.15125,262,3286,0.13900,0.16351
+2016,Upper Secondary Level,Married,0.52136,6851,11539,0.51225,0.53048
+2016,Upper Secondary Level,"Married, living apart",0.02179,313,11539,0.01913,0.02446
+2016,Upper Secondary Level,Single,0.25218,2490,11539,0.24425,0.26010
+2016,Upper Secondary Level,Divorced,0.11481,1170,11539,0.10899,0.12062
+2016,Upper Secondary Level,Widowed,0.08986,715,11539,0.08464,0.09507
+2016,Post-secondary Non-tertiary Level,Married,0.48955,1250,2092,0.46813,0.51098
+2016,Post-secondary Non-tertiary Level,"Married, living apart",0.02998,68,2092,0.02267,0.03728
+2016,Post-secondary Non-tertiary Level,Single,0.34047,493,2092,0.32016,0.36078
+2016,Post-secondary Non-tertiary Level,Divorced,0.09215,223,2092,0.07975,0.10455
 2016,Post-secondary Non-tertiary Level,Widowed,0.04785,58,2092,0.03870,0.05700
-2016,First Stage of Tertiary Education,Married,0.60756,981,1400,0.58198,0.63315
-2016,First Stage of Tertiary Education,"Married, living apart",0.03651,46,1400,0.02668,0.04633
-2016,First Stage of Tertiary Education,Single,0.18153,166,1400,0.16133,0.20173
-2016,First Stage of Tertiary Education,Divorced,0.12419,141,1400,0.10691,0.14147
-2016,First Stage of Tertiary Education,Widowed,0.04972,66,1400,0.03833,0.06111
-2016,Second Stage of Tertiary Education,Married,0.53875,4333,6484,0.52661,0.55088
-2016,Second Stage of Tertiary Education,"Married, living apart",0.03313,214,6484,0.02877,0.03748
-2016,Second Stage of Tertiary Education,Single,0.29366,1244,6484,0.28257,0.30475
-2016,Second Stage of Tertiary Education,Divorced,0.08722,476,6484,0.08035,0.09409
-2016,Second Stage of Tertiary Education,Widowed,0.04635,217,6484,0.04124,0.05147
+2016,First Stage of Tertiary Education,Married,0.60786,981,1400,0.58227,0.63344
+2016,First Stage of Tertiary Education,"Married, living apart",0.03652,46,1400,0.02669,0.04635
+2016,First Stage of Tertiary Education,Single,0.18162,166,1400,0.16142,0.20182
+2016,First Stage of Tertiary Education,Divorced,0.12425,141,1400,0.10696,0.14153
+2016,First Stage of Tertiary Education,Widowed,0.04975,66,1400,0.03835,0.06114
+2016,Second Stage of Tertiary Education,Married,0.53923,4333,6484,0.52709,0.55136
+2016,Second Stage of Tertiary Education,"Married, living apart",0.03316,214,6484,0.02880,0.03752
+2016,Second Stage of Tertiary Education,Single,0.29392,1244,6484,0.28283,0.30501
+2016,Second Stage of Tertiary Education,Divorced,0.08730,476,6484,0.08043,0.09417
+2016,Second Stage of Tertiary Education,Widowed,0.04639,217,6484,0.04127,0.05151
+2017,No answer / don't know,Married,0.16366,259,825,0.13840,0.18892
+2017,No answer / don't know,"Married, living apart",0.02755,32,825,0.01637,0.03872
+2017,No answer / don't know,Single,0.76240,534,825,0.73334,0.79146
 2017,Pre-primary Level,Single,0.99718,911,911,0.99373,1.00062
-2017,Primary Level,Married,0.47431,1231,1927,0.45201,0.49661
-2017,Primary Level,"Married, living apart",0.03926,101,1927,0.03059,0.04793
-2017,Primary Level,Single,0.26567,457,1927,0.24594,0.28540
-2017,Primary Level,Divorced,0.16598,78,1927,0.14936,0.18260
+2017,Primary Level,Married,0.47433,1231,1927,0.45203,0.49663
+2017,Primary Level,"Married, living apart",0.03926,101,1927,0.03059,0.04794
+2017,Primary Level,Single,0.26568,457,1927,0.24595,0.28540
+2017,Primary Level,Divorced,0.16599,78,1927,0.14937,0.18260
 2017,Primary Level,Widowed,0.05474,60,1927,0.04458,0.06490
 2017,Lower Secondary Level,Married,0.41799,1784,3701,0.40209,0.43388
 2017,Lower Secondary Level,"Married, living apart",0.02371,122,3701,0.01881,0.02862
 2017,Lower Secondary Level,Single,0.31939,1274,3701,0.30437,0.33442
 2017,Lower Secondary Level,Divorced,0.09141,259,3701,0.08212,0.10069
 2017,Lower Secondary Level,Widowed,0.14750,262,3701,0.13608,0.15893
-2017,Upper Secondary Level,Married,0.51826,7401,12750,0.50959,0.52694
-2017,Upper Secondary Level,"Married, living apart",0.02361,347,12750,0.02098,0.02625
-2017,Upper Secondary Level,Single,0.25352,2982,12750,0.24597,0.26107
-2017,Upper Secondary Level,Divorced,0.11640,1290,12750,0.11083,0.12197
-2017,Upper Secondary Level,Widowed,0.08775,730,12750,0.08284,0.09266
+2017,Upper Secondary Level,Married,0.51850,7401,12750,0.50983,0.52718
+2017,Upper Secondary Level,"Married, living apart",0.02362,347,12750,0.02099,0.02626
+2017,Upper Secondary Level,Single,0.25363,2982,12750,0.24608,0.26119
+2017,Upper Secondary Level,Divorced,0.11645,1290,12750,0.11088,0.12202
+2017,Upper Secondary Level,Widowed,0.08779,730,12750,0.08288,0.09270
 2017,Post-secondary Non-tertiary Level,Married,0.48817,1354,2312,0.46779,0.50855
 2017,Post-secondary Non-tertiary Level,"Married, living apart",0.02325,66,2312,0.01711,0.02940
 2017,Post-secondary Non-tertiary Level,Single,0.33386,583,2312,0.31464,0.35309
@@ -851,27 +905,29 @@ year,pgisced97,marstat,proportion,n,group_size,proportion_lower_confidence,propo
 2017,First Stage of Tertiary Education,Single,0.19894,212,1527,0.17891,0.21897
 2017,First Stage of Tertiary Education,Divorced,0.11779,148,1527,0.10162,0.13397
 2017,First Stage of Tertiary Education,Widowed,0.05398,69,1527,0.04265,0.06532
-2017,Second Stage of Tertiary Education,Married,0.54140,4822,7243,0.52992,0.55287
-2017,Second Stage of Tertiary Education,"Married, living apart",0.03179,244,7243,0.02774,0.03583
-2017,Second Stage of Tertiary Education,Single,0.29289,1434,7243,0.28241,0.30338
-2017,Second Stage of Tertiary Education,Divorced,0.08543,509,7243,0.07899,0.09186
-2017,Second Stage of Tertiary Education,Widowed,0.04706,234,7243,0.04219,0.05194
-2018,Pre-primary Level,Single,0.99431,769,769,0.98900,0.99963
-2018,Primary Level,Married,0.46241,1120,1833,0.43958,0.48525
-2018,Primary Level,"Married, living apart",0.03516,103,1833,0.02673,0.04360
-2018,Primary Level,Single,0.26907,457,1833,0.24876,0.28937
-2018,Primary Level,Divorced,0.17070,87,1833,0.15347,0.18793
-2018,Primary Level,Widowed,0.06168,66,1833,0.05066,0.07270
+2017,Second Stage of Tertiary Education,Married,0.54217,4822,7243,0.53070,0.55365
+2017,Second Stage of Tertiary Education,"Married, living apart",0.03183,244,7243,0.02779,0.03587
+2017,Second Stage of Tertiary Education,Single,0.29331,1434,7243,0.28283,0.30380
+2017,Second Stage of Tertiary Education,Divorced,0.08555,509,7243,0.07911,0.09199
+2017,Second Stage of Tertiary Education,Widowed,0.04713,234,7243,0.04225,0.05201
+2018,No answer / don't know,Married,0.24221,298,843,0.21327,0.27115
+2018,No answer / don't know,Single,0.71136,545,843,0.68075,0.74196
+2018,Pre-primary Level,Single,0.99480,769,769,0.98971,0.99989
+2018,Primary Level,Married,0.46287,1120,1833,0.44003,0.48570
+2018,Primary Level,"Married, living apart",0.03520,103,1833,0.02676,0.04364
+2018,Primary Level,Single,0.26933,457,1833,0.24902,0.28964
+2018,Primary Level,Divorced,0.17086,87,1833,0.15363,0.18810
+2018,Primary Level,Widowed,0.06174,66,1833,0.05072,0.07276
 2018,Lower Secondary Level,Married,0.40461,1648,3576,0.38852,0.42070
 2018,Lower Secondary Level,"Married, living apart",0.03107,104,3576,0.02539,0.03676
 2018,Lower Secondary Level,Single,0.32358,1292,3576,0.30825,0.33892
 2018,Lower Secondary Level,Divorced,0.09451,284,3576,0.08492,0.10409
 2018,Lower Secondary Level,Widowed,0.14623,248,3576,0.13464,0.15781
-2018,Upper Secondary Level,Married,0.51346,6907,12151,0.50457,0.52234
+2018,Upper Secondary Level,Married,0.51348,6907,12151,0.50459,0.52237
 2018,Upper Secondary Level,"Married, living apart",0.02524,340,12151,0.02245,0.02803
-2018,Upper Secondary Level,Single,0.25454,2904,12151,0.24680,0.26229
-2018,Upper Secondary Level,Divorced,0.11781,1277,12151,0.11208,0.12355
-2018,Upper Secondary Level,Widowed,0.08890,723,12151,0.08384,0.09396
+2018,Upper Secondary Level,Single,0.25455,2904,12151,0.24681,0.26230
+2018,Upper Secondary Level,Divorced,0.11782,1277,12151,0.11209,0.12355
+2018,Upper Secondary Level,Widowed,0.08891,723,12151,0.08385,0.09397
 2018,Post-secondary Non-tertiary Level,Married,0.47695,1276,2212,0.45613,0.49777
 2018,Post-secondary Non-tertiary Level,"Married, living apart",0.02351,58,2212,0.01720,0.02983
 2018,Post-secondary Non-tertiary Level,Single,0.35156,586,2212,0.33165,0.37146
@@ -882,131 +938,144 @@ year,pgisced97,marstat,proportion,n,group_size,proportion_lower_confidence,propo
 2018,First Stage of Tertiary Education,Single,0.19611,206,1446,0.17564,0.21658
 2018,First Stage of Tertiary Education,Divorced,0.12249,141,1446,0.10559,0.13940
 2018,First Stage of Tertiary Education,Widowed,0.05310,72,1446,0.04154,0.06466
-2018,Second Stage of Tertiary Education,Married,0.55736,4612,6976,0.54570,0.56901
+2018,Second Stage of Tertiary Education,Married,0.55736,4612,6976,0.54570,0.56902
 2018,Second Stage of Tertiary Education,"Married, living apart",0.02890,226,6976,0.02497,0.03283
-2018,Second Stage of Tertiary Education,Single,0.28133,1375,6976,0.27078,0.29188
-2018,Second Stage of Tertiary Education,Divorced,0.08693,533,6976,0.08031,0.09354
+2018,Second Stage of Tertiary Education,Single,0.28133,1375,6976,0.27078,0.29189
+2018,Second Stage of Tertiary Education,Divorced,0.08693,533,6976,0.08032,0.09354
 2018,Second Stage of Tertiary Education,Widowed,0.04548,230,6976,0.04059,0.05037
-2019,Pre-primary Level,Single,0.99614,604,604,0.99119,1.00109
-2019,Primary Level,Married,0.48506,1078,1695,0.46126,0.50886
-2019,Primary Level,"Married, living apart",0.03284,85,1695,0.02435,0.04133
-2019,Primary Level,Single,0.26535,398,1695,0.24433,0.28638
-2019,Primary Level,Divorced,0.15541,83,1695,0.13816,0.17266
-2019,Primary Level,Widowed,0.05856,51,1695,0.04737,0.06974
-2019,Lower Secondary Level,Married,0.40698,1474,3205,0.38997,0.42399
-2019,Lower Secondary Level,"Married, living apart",0.02426,91,3205,0.01893,0.02959
-2019,Lower Secondary Level,Single,0.32737,1161,3205,0.31112,0.34362
-2019,Lower Secondary Level,Divorced,0.09767,268,3205,0.08739,0.10795
-2019,Lower Secondary Level,Widowed,0.14298,211,3205,0.13086,0.15510
-2019,Upper Secondary Level,Married,0.50246,6601,11676,0.49339,0.51153
-2019,Upper Secondary Level,"Married, living apart",0.02709,339,11676,0.02414,0.03003
-2019,Upper Secondary Level,Single,0.25599,2745,11676,0.24807,0.26390
-2019,Upper Secondary Level,Divorced,0.12256,1269,11676,0.11661,0.12851
-2019,Upper Secondary Level,Widowed,0.09176,722,11676,0.08652,0.09700
-2019,Post-secondary Non-tertiary Level,Married,0.47797,1319,2253,0.45734,0.49860
-2019,Post-secondary Non-tertiary Level,"Married, living apart",0.02473,54,2253,0.01832,0.03115
-2019,Post-secondary Non-tertiary Level,Single,0.34879,580,2253,0.32910,0.36847
-2019,Post-secondary Non-tertiary Level,Divorced,0.10664,244,2253,0.09389,0.11939
-2019,Post-secondary Non-tertiary Level,Widowed,0.04157,56,2253,0.03333,0.04982
+2019,No answer / don't know,Married,0.19710,303,756,0.16872,0.22547
+2019,No answer / don't know,Single,0.77253,453,756,0.74263,0.80244
+2019,Pre-primary Level,Single,0.99849,604,604,0.99540,1.00159
+2019,Primary Level,Married,0.48641,1078,1695,0.46261,0.51022
+2019,Primary Level,"Married, living apart",0.03293,85,1695,0.02443,0.04143
+2019,Primary Level,Single,0.26609,398,1695,0.24505,0.28714
+2019,Primary Level,Divorced,0.15584,83,1695,0.13857,0.17312
+2019,Primary Level,Widowed,0.05872,51,1695,0.04752,0.06991
+2019,Lower Secondary Level,Married,0.40728,1474,3205,0.39027,0.42430
+2019,Lower Secondary Level,"Married, living apart",0.02428,91,3205,0.01895,0.02961
+2019,Lower Secondary Level,Single,0.32761,1161,3205,0.31136,0.34386
+2019,Lower Secondary Level,Divorced,0.09774,268,3205,0.08746,0.10802
+2019,Lower Secondary Level,Widowed,0.14309,211,3205,0.13096,0.15521
+2019,Upper Secondary Level,Married,0.50253,6601,11676,0.49346,0.51160
+2019,Upper Secondary Level,"Married, living apart",0.02709,339,11676,0.02415,0.03004
+2019,Upper Secondary Level,Single,0.25602,2745,11676,0.24811,0.26394
+2019,Upper Secondary Level,Divorced,0.12258,1269,11676,0.11663,0.12853
+2019,Upper Secondary Level,Widowed,0.09177,722,11676,0.08654,0.09701
+2019,Post-secondary Non-tertiary Level,Married,0.47811,1319,2253,0.45748,0.49874
+2019,Post-secondary Non-tertiary Level,"Married, living apart",0.02474,54,2253,0.01832,0.03115
+2019,Post-secondary Non-tertiary Level,Single,0.34889,580,2253,0.32921,0.36858
+2019,Post-secondary Non-tertiary Level,Divorced,0.10667,244,2253,0.09392,0.11942
+2019,Post-secondary Non-tertiary Level,Widowed,0.04159,56,2253,0.03334,0.04983
 2019,First Stage of Tertiary Education,Married,0.57544,1115,1657,0.55163,0.59924
 2019,First Stage of Tertiary Education,"Married, living apart",0.04314,62,1657,0.03335,0.05293
 2019,First Stage of Tertiary Education,Single,0.20913,236,1657,0.18954,0.22872
 2019,First Stage of Tertiary Education,Divorced,0.12727,176,1657,0.11122,0.14332
 2019,First Stage of Tertiary Education,Widowed,0.04503,68,1657,0.03504,0.05501
-2019,Second Stage of Tertiary Education,Married,0.56501,5029,7570,0.55384,0.57617
-2019,Second Stage of Tertiary Education,"Married, living apart",0.02904,239,7570,0.02526,0.03283
-2019,Second Stage of Tertiary Education,Single,0.27580,1453,7570,0.26574,0.28587
-2019,Second Stage of Tertiary Education,Divorced,0.08491,607,7570,0.07863,0.09119
-2019,Second Stage of Tertiary Education,Widowed,0.04508,242,7570,0.04040,0.04975
-2020,Pre-primary Level,Single,0.99570,746,746,0.99100,1.00040
-2020,Primary Level,Married,0.43758,932,1540,0.41280,0.46237
-2020,Primary Level,"Married, living apart",0.02678,79,1540,0.01872,0.03485
-2020,Primary Level,Single,0.30008,397,1540,0.27718,0.32297
-2020,Primary Level,Divorced,0.14384,93,1540,0.12631,0.16137
-2020,Primary Level,Widowed,0.05769,39,1540,0.04604,0.06934
-2020,Lower Secondary Level,Married,0.39019,1402,3155,0.37316,0.40721
-2020,Lower Secondary Level,"Married, living apart",0.02391,99,3155,0.01858,0.02925
-2020,Lower Secondary Level,Single,0.34521,1174,3155,0.32862,0.36181
-2020,Lower Secondary Level,Divorced,0.10379,281,3155,0.09314,0.11443
-2020,Lower Secondary Level,Widowed,0.13276,199,3155,0.12092,0.14461
-2020,Upper Secondary Level,Married,0.50724,6133,11141,0.49796,0.51653
-2020,Upper Secondary Level,"Married, living apart",0.02560,359,11141,0.02266,0.02853
-2020,Upper Secondary Level,Single,0.25843,2790,11141,0.25030,0.26656
-2020,Upper Secondary Level,Divorced,0.11990,1196,11141,0.11387,0.12593
-2020,Upper Secondary Level,Widowed,0.08728,663,11141,0.08204,0.09252
-2020,Post-secondary Non-tertiary Level,Married,0.48028,1295,2293,0.45983,0.50074
-2020,Post-secondary Non-tertiary Level,"Married, living apart",0.02430,75,2293,0.01799,0.03060
-2020,Post-secondary Non-tertiary Level,Single,0.35797,638,2293,0.33834,0.37760
-2020,Post-secondary Non-tertiary Level,Divorced,0.09608,230,2293,0.08402,0.10815
-2020,Post-secondary Non-tertiary Level,Widowed,0.03677,55,2293,0.02907,0.04448
+2019,Second Stage of Tertiary Education,Married,0.56510,5029,7570,0.55393,0.57626
+2019,Second Stage of Tertiary Education,"Married, living apart",0.02905,239,7570,0.02526,0.03283
+2019,Second Stage of Tertiary Education,Single,0.27585,1453,7570,0.26578,0.28592
+2019,Second Stage of Tertiary Education,Divorced,0.08492,607,7570,0.07864,0.09120
+2019,Second Stage of Tertiary Education,Widowed,0.04509,242,7570,0.04041,0.04976
+2020,No answer / don't know,Married,0.19601,365,993,0.17131,0.22072
+2020,No answer / don't know,"Married, living apart",0.01912,49,993,0.01060,0.02764
+2020,No answer / don't know,Single,0.76386,547,993,0.73743,0.79029
+2020,No answer / don't know,Divorced,0.01111,32,993,0.00459,0.01764
+2020,Pre-primary Level,Single,0.99770,746,746,0.99426,1.00114
+2020,Primary Level,Married,0.45300,932,1540,0.42813,0.47787
+2020,Primary Level,"Married, living apart",0.02773,79,1540,0.01952,0.03593
+2020,Primary Level,Single,0.31065,397,1540,0.28753,0.33377
+2020,Primary Level,Divorced,0.14891,93,1540,0.13112,0.16669
+2020,Primary Level,Widowed,0.05972,39,1540,0.04788,0.07156
+2020,Lower Secondary Level,Married,0.39181,1402,3155,0.37477,0.40884
+2020,Lower Secondary Level,"Married, living apart",0.02401,99,3155,0.01867,0.02936
+2020,Lower Secondary Level,Single,0.34665,1174,3155,0.33004,0.36326
+2020,Lower Secondary Level,Divorced,0.10422,281,3155,0.09355,0.11488
+2020,Lower Secondary Level,Widowed,0.13332,199,3155,0.12145,0.14518
+2020,Upper Secondary Level,Married,0.50803,6133,11141,0.49875,0.51732
+2020,Upper Secondary Level,"Married, living apart",0.02564,359,11141,0.02270,0.02857
+2020,Upper Secondary Level,Single,0.25883,2790,11141,0.25070,0.26696
+2020,Upper Secondary Level,Divorced,0.12009,1196,11141,0.11405,0.12612
+2020,Upper Secondary Level,Widowed,0.08741,663,11141,0.08217,0.09266
+2020,Post-secondary Non-tertiary Level,Married,0.48250,1295,2293,0.46204,0.50296
+2020,Post-secondary Non-tertiary Level,"Married, living apart",0.02441,75,2293,0.01809,0.03073
+2020,Post-secondary Non-tertiary Level,Single,0.35962,638,2293,0.33997,0.37927
+2020,Post-secondary Non-tertiary Level,Divorced,0.09653,230,2293,0.08444,0.10862
+2020,Post-secondary Non-tertiary Level,Widowed,0.03694,55,2293,0.02922,0.04466
 2020,First Stage of Tertiary Education,Married,0.58905,989,1460,0.56381,0.61430
 2020,First Stage of Tertiary Education,"Married, living apart",0.03988,47,1460,0.02984,0.04992
 2020,First Stage of Tertiary Education,Single,0.20877,218,1460,0.18792,0.22963
 2020,First Stage of Tertiary Education,Divorced,0.11658,144,1460,0.10011,0.13304
 2020,First Stage of Tertiary Education,Widowed,0.04572,62,1460,0.03501,0.05644
-2020,Second Stage of Tertiary Education,Married,0.55594,4775,7516,0.54471,0.56718
-2020,Second Stage of Tertiary Education,"Married, living apart",0.02587,241,7516,0.02228,0.02945
-2020,Second Stage of Tertiary Education,Single,0.28812,1686,7516,0.27788,0.29836
-2020,Second Stage of Tertiary Education,Divorced,0.08447,577,7516,0.07818,0.09076
-2020,Second Stage of Tertiary Education,Widowed,0.04327,237,7516,0.03867,0.04787
-2021,Pre-primary Level,Single,0.97588,425,425,0.96128,0.99049
-2021,Primary Level,Married,0.42533,548,852,0.39211,0.45854
-2021,Primary Level,"Married, living apart",0.03520,39,852,0.02282,0.04758
-2021,Primary Level,Single,0.28556,214,852,0.25522,0.31591
-2021,Primary Level,Divorced,0.14296,51,852,0.11945,0.16648
-2021,Lower Secondary Level,Married,0.38593,789,1785,0.36334,0.40852
-2021,Lower Secondary Level,"Married, living apart",0.02278,54,1785,0.01586,0.02971
-2021,Lower Secondary Level,Single,0.33024,661,1785,0.30842,0.35207
-2021,Lower Secondary Level,Divorced,0.12770,163,1785,0.11221,0.14319
-2021,Lower Secondary Level,Widowed,0.12827,118,1785,0.11275,0.14378
-2021,Upper Secondary Level,Married,0.48731,3864,7265,0.47581,0.49880
-2021,Upper Secondary Level,"Married, living apart",0.02201,213,7265,0.01863,0.02538
-2021,Upper Secondary Level,Single,0.27763,1889,7265,0.26733,0.28793
-2021,Upper Secondary Level,Divorced,0.11970,833,7265,0.11223,0.12716
-2021,Upper Secondary Level,Widowed,0.08611,466,7265,0.07965,0.09256
-2021,Post-secondary Non-tertiary Level,Married,0.43172,860,1573,0.40724,0.45621
-2021,Post-secondary Non-tertiary Level,"Married, living apart",0.03498,56,1573,0.02590,0.04407
-2021,Post-secondary Non-tertiary Level,Single,0.37351,442,1573,0.34960,0.39742
-2021,Post-secondary Non-tertiary Level,Divorced,0.10898,179,1573,0.09358,0.12439
-2021,Post-secondary Non-tertiary Level,Widowed,0.04362,36,1573,0.03353,0.05372
-2021,First Stage of Tertiary Education,Married,0.57500,644,998,0.54432,0.60569
-2021,First Stage of Tertiary Education,"Married, living apart",0.03621,38,998,0.02461,0.04780
-2021,First Stage of Tertiary Education,Single,0.19541,147,998,0.17080,0.22002
-2021,First Stage of Tertiary Education,Divorced,0.12666,115,998,0.10601,0.14730
-2021,First Stage of Tertiary Education,Widowed,0.06230,54,998,0.04729,0.07730
-2021,Second Stage of Tertiary Education,Married,0.53405,3471,5542,0.52092,0.54719
-2021,Second Stage of Tertiary Education,"Married, living apart",0.02355,177,5542,0.01956,0.02755
-2021,Second Stage of Tertiary Education,Single,0.30642,1267,5542,0.29428,0.31856
-2021,Second Stage of Tertiary Education,Divorced,0.07927,432,5542,0.07216,0.08639
-2021,Second Stage of Tertiary Education,Widowed,0.04580,195,5542,0.04029,0.05130
-2022,Pre-primary Level,Single,0.87773,443,443,0.84719,0.90827
-2022,Primary Level,Married,0.41727,490,856,0.38422,0.45033
-2022,Primary Level,"Married, living apart",0.03584,41,856,0.02338,0.04830
-2022,Primary Level,Single,0.31420,238,856,0.28308,0.34531
-2022,Primary Level,Divorced,0.13352,56,856,0.11072,0.15632
-2022,Primary Level,Widowed,0.07919,31,856,0.06108,0.09729
-2022,Lower Secondary Level,Married,0.41921,836,1898,0.39700,0.44141
-2022,Lower Secondary Level,"Married, living apart",0.01341,50,1898,0.00823,0.01859
-2022,Lower Secondary Level,Single,0.29455,721,1898,0.27404,0.31507
-2022,Lower Secondary Level,Divorced,0.11829,167,1898,0.10376,0.13283
-2022,Lower Secondary Level,Widowed,0.14977,124,1898,0.13371,0.16583
-2022,Upper Secondary Level,Married,0.49669,4718,9201,0.48647,0.50690
-2022,Upper Secondary Level,"Married, living apart",0.02177,231,9201,0.01879,0.02475
-2022,Upper Secondary Level,Single,0.27208,2770,9201,0.26299,0.28118
-2022,Upper Secondary Level,Divorced,0.11705,977,9201,0.11048,0.12362
-2022,Upper Secondary Level,Widowed,0.08803,505,9201,0.08224,0.09382
-2022,Post-secondary Non-tertiary Level,Married,0.46527,1149,2198,0.44441,0.48613
-2022,Post-secondary Non-tertiary Level,"Married, living apart",0.02322,61,2198,0.01692,0.02952
-2022,Post-secondary Non-tertiary Level,Single,0.37073,753,2198,0.35053,0.39093
-2022,Post-secondary Non-tertiary Level,Divorced,0.10020,191,2198,0.08764,0.11275
-2022,Post-secondary Non-tertiary Level,Widowed,0.03963,44,2198,0.03147,0.04779
-2022,First Stage of Tertiary Education,Married,0.60594,888,1365,0.58001,0.63187
-2022,First Stage of Tertiary Education,"Married, living apart",0.03310,39,1365,0.02361,0.04260
-2022,First Stage of Tertiary Education,Single,0.19946,249,1365,0.17826,0.22067
-2022,First Stage of Tertiary Education,Divorced,0.09895,127,1365,0.08311,0.11480
-2022,First Stage of Tertiary Education,Widowed,0.06079,62,1365,0.04811,0.07347
-2022,Second Stage of Tertiary Education,Married,0.54087,4903,8645,0.53036,0.55137
-2022,Second Stage of Tertiary Education,"Married, living apart",0.02359,266,8645,0.02039,0.02679
-2022,Second Stage of Tertiary Education,Single,0.30142,2684,8645,0.29175,0.31109
-2022,Second Stage of Tertiary Education,Divorced,0.08488,569,8645,0.07900,0.09076
-2022,Second Stage of Tertiary Education,Widowed,0.04511,223,8645,0.04074,0.04949
+2020,Second Stage of Tertiary Education,Married,0.55724,4775,7516,0.54601,0.56847
+2020,Second Stage of Tertiary Education,"Married, living apart",0.02593,241,7516,0.02233,0.02952
+2020,Second Stage of Tertiary Education,Single,0.28879,1686,7516,0.27855,0.29904
+2020,Second Stage of Tertiary Education,Divorced,0.08467,577,7516,0.07837,0.09096
+2020,Second Stage of Tertiary Education,Widowed,0.04337,237,7516,0.03877,0.04798
+2021,No answer / don't know,Married,0.48609,416,679,0.44847,0.52371
+2021,No answer / don't know,Single,0.42605,263,679,0.38882,0.46327
+2021,Pre-primary Level,Single,0.98590,425,425,0.97467,0.99712
+2021,Primary Level,Married,0.44826,548,852,0.41484,0.48167
+2021,Primary Level,"Married, living apart",0.03710,39,852,0.02440,0.04980
+2021,Primary Level,Single,0.30096,214,852,0.27014,0.33178
+2021,Primary Level,Divorced,0.15067,51,852,0.12664,0.17471
+2021,Lower Secondary Level,Married,0.38790,789,1785,0.36529,0.41051
+2021,Lower Secondary Level,"Married, living apart",0.02290,54,1785,0.01596,0.02984
+2021,Lower Secondary Level,Single,0.33193,661,1785,0.31007,0.35378
+2021,Lower Secondary Level,Divorced,0.12835,163,1785,0.11283,0.14387
+2021,Lower Secondary Level,Widowed,0.12892,118,1785,0.11337,0.14447
+2021,Upper Secondary Level,Married,0.49087,3864,7265,0.47937,0.50236
+2021,Upper Secondary Level,"Married, living apart",0.02217,213,7265,0.01878,0.02556
+2021,Upper Secondary Level,Single,0.27966,1889,7265,0.26934,0.28998
+2021,Upper Secondary Level,Divorced,0.12057,833,7265,0.11308,0.12806
+2021,Upper Secondary Level,Widowed,0.08673,466,7265,0.08026,0.09321
+2021,Post-secondary Non-tertiary Level,Married,0.43484,860,1573,0.41034,0.45935
+2021,Post-secondary Non-tertiary Level,"Married, living apart",0.03524,56,1573,0.02612,0.04435
+2021,Post-secondary Non-tertiary Level,Single,0.37621,442,1573,0.35226,0.40016
+2021,Post-secondary Non-tertiary Level,Divorced,0.10977,179,1573,0.09432,0.12522
+2021,Post-secondary Non-tertiary Level,Widowed,0.04394,36,1573,0.03381,0.05407
+2021,First Stage of Tertiary Education,Married,0.57756,644,998,0.54690,0.60822
+2021,First Stage of Tertiary Education,"Married, living apart",0.03637,38,998,0.02475,0.04799
+2021,First Stage of Tertiary Education,Single,0.19628,147,998,0.17163,0.22093
+2021,First Stage of Tertiary Education,Divorced,0.12722,115,998,0.10654,0.14790
+2021,First Stage of Tertiary Education,Widowed,0.06257,54,998,0.04754,0.07761
+2021,Second Stage of Tertiary Education,Married,0.53994,3471,5542,0.52682,0.55306
+2021,Second Stage of Tertiary Education,"Married, living apart",0.02381,177,5542,0.01980,0.02783
+2021,Second Stage of Tertiary Education,Single,0.30980,1267,5542,0.29762,0.32197
+2021,Second Stage of Tertiary Education,Divorced,0.08015,432,5542,0.07300,0.08730
+2021,Second Stage of Tertiary Education,Widowed,0.04630,195,5542,0.04077,0.05184
+2022,No answer / don't know,Married,0.49486,1629,3277,0.47773,0.51198
+2022,No answer / don't know,"Married, living apart",0.01821,95,3277,0.01363,0.02279
+2022,No answer / don't know,Single,0.36000,1270,3277,0.34356,0.37643
+2022,No answer / don't know,Divorced,0.08421,197,3277,0.07470,0.09372
+2022,No answer / don't know,Widowed,0.04273,86,3277,0.03580,0.04965
+2022,Pre-primary Level,Single,0.94153,443,443,0.91965,0.96340
+2022,Primary Level,Married,0.42578,490,856,0.39264,0.45892
+2022,Primary Level,"Married, living apart",0.03657,41,856,0.02399,0.04915
+2022,Primary Level,Single,0.32060,238,856,0.28932,0.35189
+2022,Primary Level,Divorced,0.13625,56,856,0.11325,0.15924
+2022,Primary Level,Widowed,0.08080,31,856,0.06253,0.09907
+2022,Lower Secondary Level,Married,0.42122,836,1898,0.39900,0.44344
+2022,Lower Secondary Level,"Married, living apart",0.01347,50,1898,0.00829,0.01866
+2022,Lower Secondary Level,Single,0.29596,721,1898,0.27542,0.31651
+2022,Lower Secondary Level,Divorced,0.11886,167,1898,0.10430,0.13342
+2022,Lower Secondary Level,Widowed,0.15048,124,1898,0.13439,0.16657
+2022,Upper Secondary Level,Married,0.49887,4718,9201,0.48865,0.50909
+2022,Upper Secondary Level,"Married, living apart",0.02187,231,9201,0.01888,0.02486
+2022,Upper Secondary Level,Single,0.27328,2770,9201,0.26417,0.28238
+2022,Upper Secondary Level,Divorced,0.11757,977,9201,0.11099,0.12415
+2022,Upper Secondary Level,Widowed,0.08842,505,9201,0.08262,0.09422
+2022,Post-secondary Non-tertiary Level,Married,0.46571,1149,2198,0.44485,0.48657
+2022,Post-secondary Non-tertiary Level,"Married, living apart",0.02324,61,2198,0.01694,0.02954
+2022,Post-secondary Non-tertiary Level,Single,0.37108,753,2198,0.35088,0.39128
+2022,Post-secondary Non-tertiary Level,Divorced,0.10029,191,2198,0.08773,0.11285
+2022,Post-secondary Non-tertiary Level,Widowed,0.03967,44,2198,0.03151,0.04783
+2022,First Stage of Tertiary Education,Married,0.60700,888,1365,0.58108,0.63292
+2022,First Stage of Tertiary Education,"Married, living apart",0.03316,39,1365,0.02366,0.04266
+2022,First Stage of Tertiary Education,Single,0.19981,249,1365,0.17859,0.22103
+2022,First Stage of Tertiary Education,Divorced,0.09913,127,1365,0.08327,0.11499
+2022,First Stage of Tertiary Education,Widowed,0.06090,62,1365,0.04821,0.07359
+2022,Second Stage of Tertiary Education,Married,0.54311,4903,8645,0.53261,0.55361
+2022,Second Stage of Tertiary Education,"Married, living apart",0.02369,266,8645,0.02048,0.02690
+2022,Second Stage of Tertiary Education,Single,0.30267,2684,8645,0.29299,0.31236
+2022,Second Stage of Tertiary Education,Divorced,0.08523,569,8645,0.07935,0.09112
+2022,Second Stage of Tertiary Education,Widowed,0.04530,223,8645,0.04091,0.04968

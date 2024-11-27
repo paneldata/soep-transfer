@@ -1,4 +1,6 @@
 year,regtyp,sex,n,mean,mean_lower_confidence,mean_upper_confidence,lower_quartile,boxplot_median,upper_quartile,lower_whisker,upper_whisker,median,median_lower_confidence,median_upper_confidence
+1984,No answer / don't know,male,,,,,,,,,,,,
+1984,No answer / don't know,female,,,,,,,,,,,,
 1985,Urban regions,male,,,,,,,,,,,,
 1985,Urban regions,female,,,,,,,,,,,,
 1985,Rural regions,male,,,,,,,,,,,,
@@ -19,14 +21,21 @@ year,regtyp,sex,n,mean,mean_lower_confidence,mean_upper_confidence,lower_quartil
 1989,Urban regions,female,,,,,,,,,,,,
 1989,Rural regions,male,,,,,,,,,,,,
 1989,Rural regions,female,,,,,,,,,,,,
+1990,No answer / don't know,male,,,,,,,,,,,,
+1990,No answer / don't know,female,,,,,,,,,,,,
+1990,Urban regions,No answer / don't know,,,,,,,,,,,,
 1990,Urban regions,male,,,,,,,,,,,,
 1990,Urban regions,female,,,,,,,,,,,,
 1990,Rural regions,male,,,,,,,,,,,,
 1990,Rural regions,female,,,,,,,,,,,,
+1991,No answer / don't know,male,,,,,,,,,,,,
+1991,No answer / don't know,female,,,,,,,,,,,,
 1991,Urban regions,male,,,,,,,,,,,,
 1991,Urban regions,female,,,,,,,,,,,,
 1991,Rural regions,male,,,,,,,,,,,,
 1991,Rural regions,female,,,,,,,,,,,,
+1992,No answer / don't know,male,,,,,,,,,,,,
+1992,No answer / don't know,female,,,,,,,,,,,,
 1992,Urban regions,male,,,,,,,,,,,,
 1992,Urban regions,female,,,,,,,,,,,,
 1992,Rural regions,male,,,,,,,,,,,,
@@ -47,6 +56,7 @@ year,regtyp,sex,n,mean,mean_lower_confidence,mean_upper_confidence,lower_quartil
 1996,Urban regions,female,,,,,,,,,,,,
 1996,Rural regions,male,,,,,,,,,,,,
 1996,Rural regions,female,,,,,,,,,,,,
+1997,No answer / don't know,female,,,,,,,,,,,,
 1997,Urban regions,male,,,,,,,,,,,,
 1997,Urban regions,female,,,,,,,,,,,,
 1997,Rural regions,male,,,,,,,,,,,,
@@ -71,10 +81,10 @@ year,regtyp,sex,n,mean,mean_lower_confidence,mean_upper_confidence,lower_quartil
 2002,Urban regions,female,,,,,,,,,,,,
 2002,Rural regions,male,,,,,,,,,,,,
 2002,Rural regions,female,,,,,,,,,,,,
-2003,Urban regions,male,6874,4.59371,4.49647,4.69096,2.00000,4.00000,6.00000,0.00000,12.00000,4.00000,4.00000,4.00000
-2003,Urban regions,female,7415,4.45733,4.36785,4.54682,2.00000,4.00000,5.00000,0.00000,9.50000,4.00000,4.00000,4.00000
-2003,Rural regions,male,3469,4.46360,4.32312,4.60408,2.00000,3.00000,5.00000,0.00000,9.50000,3.00000,3.00000,4.00000
-2003,Rural regions,female,3683,4.15714,4.03158,4.28269,2.00000,3.00000,5.00000,0.00000,9.50000,3.00000,3.00000,3.00000
+2003,Urban regions,male,6874,4.59371,4.49647,4.69096,2.00000,4.00000,6.00000,0,12.00000,,,
+2003,Urban regions,female,7415,4.45733,4.36785,4.54682,2.00000,4.00000,5.00000,0,9.50000,,,
+2003,Rural regions,male,3469,4.46360,4.32312,4.60408,2.00000,3.00000,5.00000,0,9.50000,,,
+2003,Rural regions,female,3683,4.15714,4.03158,4.28269,2.00000,3.00000,5.00000,0,9.50000,,,
 2004,Urban regions,male,,,,,,,,,,,,
 2004,Urban regions,female,,,,,,,,,,,,
 2004,Rural regions,male,,,,,,,,,,,,
@@ -91,10 +101,10 @@ year,regtyp,sex,n,mean,mean_lower_confidence,mean_upper_confidence,lower_quartil
 2007,Urban regions,female,,,,,,,,,,,,
 2007,Rural regions,male,,,,,,,,,,,,
 2007,Rural regions,female,,,,,,,,,,,,
-2008,Urban regions,male,5853,4.21282,4.11807,4.30758,2.00000,3.00000,5.00000,0.00000,9.50000,3.00000,3.00000,4.00000
-2008,Urban regions,female,6478,3.93948,3.86006,4.01889,2.00000,3.00000,5.00000,0.00000,9.50000,3.00000,3.00000,3.00000
-2008,Rural regions,male,3059,4.41021,4.27204,4.54839,2.00000,3.00000,6.00000,0.00000,12.00000,3.00000,3.00000,4.00000
-2008,Rural regions,female,3305,3.93868,3.81489,4.06247,2.00000,3.00000,5.00000,0.00000,9.50000,3.00000,3.00000,3.00000
+2008,Urban regions,male,5853,4.21282,4.11807,4.30758,2.00000,3.00000,5.00000,0,9.50000,,,
+2008,Urban regions,female,6478,3.93948,3.86006,4.01889,2.00000,3.00000,5.00000,0,9.50000,,,
+2008,Rural regions,male,3059,4.41021,4.27204,4.54839,2.00000,3.00000,6.00000,0,12.00000,,,
+2008,Rural regions,female,3305,3.93868,3.81489,4.06247,2.00000,3.00000,5.00000,0,9.50000,,,
 2009,Urban regions,male,,,,,,,,,,,,
 2009,Urban regions,female,,,,,,,,,,,,
 2009,Rural regions,male,,,,,,,,,,,,
@@ -103,51 +113,83 @@ year,regtyp,sex,n,mean,mean_lower_confidence,mean_upper_confidence,lower_quartil
 2010,Urban regions,female,,,,,,,,,,,,
 2010,Rural regions,male,,,,,,,,,,,,
 2010,Rural regions,female,,,,,,,,,,,,
-2011,Urban regions,male,6135,4.67516,4.53811,4.81221,2.00000,4.00000,6.00000,0.00000,12.00000,4.00000,3.00000,4.00000
-2011,Urban regions,female,6958,4.36121,4.27712,4.44530,2.00000,4.00000,5.00000,0.00000,9.50000,4.00000,3.00000,4.00000
-2011,Rural regions,male,3425,4.67334,4.50332,4.84335,2.00000,4.00000,6.00000,0.00000,12.00000,4.00000,3.00000,4.00000
-2011,Rural regions,female,3744,4.40724,4.16966,4.64482,2.00000,3.00000,5.00000,0.00000,9.50000,3.00000,3.00000,4.00000
+2011,Urban regions,Implausible value,,,,,,,,,,,,
+2011,Urban regions,No answer / don't know,,,,,,,,,,,,
+2011,Urban regions,male,6135,4.67516,4.53811,4.81221,2.00000,4.00000,6.00000,0,12.00000,,,
+2011,Urban regions,female,6958,4.36121,4.27712,4.44530,2.00000,4.00000,5.00000,0,9.50000,,,
+2011,Rural regions,male,3425,4.67334,4.50332,4.84335,2.00000,4.00000,6.00000,0,12.00000,,,
+2011,Rural regions,female,3744,4.40724,4.16966,4.64482,2.00000,3.00000,5.00000,0,9.50000,,,
+2012,Urban regions,Implausible value,,,,,,,,,,,,
 2012,Urban regions,male,,,,,,,,,,,,
 2012,Urban regions,female,,,,,,,,,,,,
 2012,Rural regions,male,,,,,,,,,,,,
 2012,Rural regions,female,,,,,,,,,,,,
-2013,Urban regions,male,7185,4.28663,4.19690,4.37636,2.00000,3.00000,5.00000,0.00000,9.50000,3.00000,3.00000,4.00000
-2013,Urban regions,female,8838,4.25115,4.18207,4.32022,2.00000,4.00000,5.00000,0.00000,9.50000,4.00000,3.00000,4.00000
-2013,Rural regions,male,4173,4.37026,4.25334,4.48718,2.00000,3.00000,5.00000,0.00000,9.50000,3.00000,3.00000,4.00000
-2013,Rural regions,female,4936,3.99044,3.89625,4.08462,2.00000,3.00000,5.00000,0.00000,9.50000,3.00000,3.00000,3.00000
+2013,Urban regions,Implausible value,,,,,,,,,,,,
+2013,Urban regions,male,7185,4.28663,4.19690,4.37636,2.00000,3.00000,5.00000,0,9.50000,,,
+2013,Urban regions,female,8838,4.25115,4.18207,4.32022,2.00000,4.00000,5.00000,0,9.50000,,,
+2013,Rural regions,male,4173,4.37026,4.25334,4.48718,2.00000,3.00000,5.00000,0,9.50000,,,
+2013,Rural regions,female,4936,3.99044,3.89625,4.08462,2.00000,3.00000,5.00000,0,9.50000,,,
+2014,Urban regions,Implausible value,,,,,,,,,,,,
 2014,Urban regions,male,,,,,,,,,,,,
 2014,Urban regions,female,,,,,,,,,,,,
+2014,Rural regions,No answer / don't know,,,,,,,,,,,,
 2014,Rural regions,male,,,,,,,,,,,,
 2014,Rural regions,female,,,,,,,,,,,,
-2015,Urban regions,male,7924,4.18512,4.09562,4.27462,2.00000,3.00000,5.00000,0.00000,9.50000,3.00000,3.00000,3.00000
-2015,Urban regions,female,9425,4.03161,3.96391,4.09930,2.00000,3.00000,5.00000,0.00000,9.50000,3.00000,3.00000,4.00000
-2015,Rural regions,male,4255,4.26673,4.14800,4.38546,2.00000,3.00000,5.00000,0.00000,9.50000,3.00000,3.00000,3.00000
-2015,Rural regions,female,4926,3.83549,3.74004,3.93094,2.00000,3.00000,5.00000,0.00000,9.50000,3.00000,3.00000,3.00000
+2015,Urban regions,Implausible value,,,,,,,,,,,,
+2015,Urban regions,No answer / don't know,,,,,,,,,,,,
+2015,Urban regions,male,7924,4.18512,4.09562,4.27462,2.00000,3.00000,5.00000,0,9.50000,,,
+2015,Urban regions,female,9425,4.03161,3.96391,4.09930,2.00000,3.00000,5.00000,0,9.50000,,,
+2015,Rural regions,male,4255,4.26673,4.14800,4.38546,2.00000,3.00000,5.00000,0,9.50000,,,
+2015,Rural regions,female,4926,3.83549,3.74004,3.93094,2.00000,3.00000,5.00000,0,9.50000,,,
+2016,Urban regions,Implausible value,,,,,,,,,,,,
+2016,Urban regions,No answer / don't know,,,,,,,,,,,,
 2016,Urban regions,male,,,,,,,,,,,,
 2016,Urban regions,female,,,,,,,,,,,,
+2016,Rural regions,No answer / don't know,,,,,,,,,,,,
 2016,Rural regions,male,,,,,,,,,,,,
 2016,Rural regions,female,,,,,,,,,,,,
-2017,Urban regions,male,7828,4.11065,4.01780,4.20350,2.00000,3.00000,5.00000,0.00000,9.50000,3.00000,3.00000,3.00000
-2017,Urban regions,female,9239,4.00299,3.94184,4.06415,2.00000,3.00000,5.00000,0.00000,9.50000,3.00000,3.00000,3.00000
-2017,Rural regions,male,4338,4.13264,4.01068,4.25460,2.00000,3.00000,5.00000,0.00000,9.50000,3.00000,3.00000,3.00000
-2017,Rural regions,female,4963,3.95012,3.86443,4.03581,2.00000,3.00000,5.00000,0.00000,9.50000,3.00000,3.00000,3.00000
-2018,Urban regions,male,8891,4.37971,4.27663,4.48280,2.00000,3.00000,5.00000,0.00000,9.50000,3.00000,3.00000,4.00000
-2018,Urban regions,female,9891,4.21740,4.14818,4.28663,2.00000,3.00000,5.00000,0.00000,9.50000,3.00000,3.00000,4.00000
-2018,Rural regions,male,4601,4.34502,4.22386,4.46618,2.00000,3.00000,5.00000,0.00000,9.50000,3.00000,3.00000,4.00000
-2018,Rural regions,female,5101,4.01721,3.92211,4.11232,2.00000,3.00000,5.00000,0.00000,9.50000,3.00000,3.00000,3.00000
+2017,Urban regions,Implausible value,,,,,,,,,,,,
+2017,Urban regions,No answer / don't know,,,,,,,,,,,,
+2017,Urban regions,male,7828,4.11065,4.01780,4.20350,2.00000,3.00000,5.00000,0,9.50000,,,
+2017,Urban regions,female,9239,4.00299,3.94184,4.06415,2.00000,3.00000,5.00000,0,9.50000,,,
+2017,Rural regions,male,4338,4.13264,4.01068,4.25460,2.00000,3.00000,5.00000,0,9.50000,,,
+2017,Rural regions,female,4963,3.95012,3.86443,4.03581,2.00000,3.00000,5.00000,0,9.50000,,,
+2018,Urban regions,Implausible value,,,,,,,,,,,,
+2018,Urban regions,No answer / don't know,,,,,,,,,,,,
+2018,Urban regions,male,8891,4.37971,4.27663,4.48280,2.00000,3.00000,5.00000,0,9.50000,,,
+2018,Urban regions,female,9891,4.21740,4.14818,4.28663,2.00000,3.00000,5.00000,0,9.50000,,,
+2018,Rural regions,male,4601,4.34502,4.22386,4.46618,2.00000,3.00000,5.00000,0,9.50000,,,
+2018,Rural regions,female,5101,4.01721,3.92211,4.11232,2.00000,3.00000,5.00000,0,9.50000,,,
+2019,No answer / don't know,Implausible value,,,,,,,,,,,,
+2019,No answer / don't know,male,,,,,,,,,,,,
+2019,No answer / don't know,female,,,,,,,,,,,,
+2019,Urban regions,Implausible value,,,,,,,,,,,,
+2019,Urban regions,No answer / don't know,,,,,,,,,,,,
 2019,Urban regions,male,,,,,,,,,,,,
 2019,Urban regions,female,,,,,,,,,,,,
+2019,Rural regions,No answer / don't know,,,,,,,,,,,,
 2019,Rural regions,male,,,,,,,,,,,,
 2019,Rural regions,female,,,,,,,,,,,,
-2020,Urban regions,male,8063,4.19241,4.08860,4.29622,2.00000,3.00000,5.00000,0.00000,9.50000,3.00000,3.00000,4.00000
-2020,Urban regions,female,8845,4.06347,3.99871,4.12823,2.00000,4.00000,5.00000,0.00000,9.50000,4.00000,3.00000,4.00000
-2020,Rural regions,male,4089,4.23375,4.10279,4.36470,2.00000,3.00000,5.00000,0.00000,9.50000,3.00000,3.00000,4.00000
-2020,Rural regions,female,4454,3.96106,3.87101,4.05110,2.00000,3.00000,5.00000,0.00000,9.50000,3.00000,3.00000,3.00000
-2021,Urban regions,male,5300,4.60604,4.49872,4.71337,2.00000,4.00000,5.00000,0.00000,9.50000,4.00000,4.00000,4.00000
-2021,Urban regions,female,6026,4.42845,4.34756,4.50934,2.00000,4.00000,5.00000,0.00000,9.50000,4.00000,4.00000,4.00000
-2021,Rural regions,male,2721,4.68571,4.52998,4.84143,2.00000,4.00000,6.00000,0.00000,12.00000,4.00000,4.00000,4.00000
-2021,Rural regions,female,3027,4.24732,4.11717,4.37747,2.00000,4.00000,5.00000,0.00000,9.50000,4.00000,3.00000,4.00000
-2022,Urban regions,male,9196,4.92268,4.83149,5.01386,2.00000,4.00000,6.00000,0.00000,12.00000,4.00000,4.00000,4.00000
-2022,Urban regions,female,9530,4.90868,4.82760,4.98975,3.00000,4.00000,6.00000,0.00000,10.50000,4.00000,4.00000,4.00000
-2022,Rural regions,male,4109,4.93461,4.78814,5.08108,2.00000,4.00000,6.00000,0.00000,12.00000,4.00000,4.00000,4.00000
-2022,Rural regions,female,4522,4.53424,4.42799,4.64048,2.00000,4.00000,6.00000,0.00000,12.00000,4.00000,4.00000,4.00000
+2020,Urban regions,Implausible value,,,,,,,,,,,,
+2020,Urban regions,No answer / don't know,,,,,,,,,,,,
+2020,Urban regions,male,8063,4.19241,4.08860,4.29622,2.00000,3.00000,5.00000,0,9.50000,,,
+2020,Urban regions,female,8845,4.06347,3.99871,4.12823,2.00000,4.00000,5.00000,0,9.50000,,,
+2020,Rural regions,No answer / don't know,,,,,,,,,,,,
+2020,Rural regions,male,4089,4.23375,4.10279,4.36470,2.00000,3.00000,5.00000,0,9.50000,,,
+2020,Rural regions,female,4454,3.96106,3.87101,4.05110,2.00000,3.00000,5.00000,0,9.50000,,,
+2021,No answer / don't know,female,,,,,,,,,,,,
+2021,Urban regions,Implausible value,,,,,,,,,,,,
+2021,Urban regions,No answer / don't know,,,,,,,,,,,,
+2021,Urban regions,male,5300,4.60604,4.49872,4.71337,2.00000,4.00000,5.00000,0,9.50000,,,
+2021,Urban regions,female,6026,4.42845,4.34756,4.50934,2.00000,4.00000,5.00000,0,9.50000,,,
+2021,Rural regions,No answer / don't know,,,,,,,,,,,,
+2021,Rural regions,male,2721,4.68571,4.52998,4.84143,2.00000,4.00000,6.00000,0,12.00000,,,
+2021,Rural regions,female,3027,4.24732,4.11717,4.37747,2.00000,4.00000,5.00000,0,9.50000,,,
+2022,Urban regions,Implausible value,,,,,,,,,,,,
+2022,Urban regions,No answer / don't know,,,,,,,,,,,,
+2022,Urban regions,male,9196,4.92268,4.83149,5.01386,2.00000,4.00000,6.00000,0,12.00000,,,
+2022,Urban regions,female,9530,4.90868,4.82760,4.98975,3.00000,4.00000,6.00000,0,10.50000,,,
+2022,Rural regions,Implausible value,,,,,,,,,,,,
+2022,Rural regions,No answer / don't know,,,,,,,,,,,,
+2022,Rural regions,male,4109,4.93461,4.78814,5.08108,2.00000,4.00000,6.00000,0,12.00000,,,
+2022,Rural regions,female,4522,4.53424,4.42799,4.64048,2.00000,4.00000,6.00000,0,12.00000,,,

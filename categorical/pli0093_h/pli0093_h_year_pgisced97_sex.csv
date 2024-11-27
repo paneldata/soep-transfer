@@ -1,736 +1,809 @@
 year,pgisced97,sex,pli0093_h,proportion,n,group_size,proportion_lower_confidence,proportion_upper_confidence
-1990,Pre-primary Level,male,Never,0.24766,32,32,0.09571,0.39961
-1990,Pre-primary Level,female,At least once per week,0.56403,36,36,0.39974,0.72832
-1990,Primary Level,male,Seldom,0.15142,34,231,0.10510,0.19775
-1990,Primary Level,male,Never,0.68052,197,231,0.62026,0.74078
-1990,Primary Level,female,Seldom,0.09086,44,353,0.06084,0.12089
-1990,Primary Level,female,Never,0.80082,309,353,0.75910,0.84255
-1990,Lower Secondary Level,male,At least once per week,0.08845,77,860,0.06946,0.10744
-1990,Lower Secondary Level,male,At least once per month,0.05104,53,860,0.03632,0.06575
-1990,Lower Secondary Level,male,Seldom,0.20696,171,860,0.17986,0.23405
-1990,Lower Secondary Level,male,Never,0.54732,559,860,0.51403,0.58061
-1990,Lower Secondary Level,female,At least once per week,0.06800,126,1589,0.05562,0.08038
-1990,Lower Secondary Level,female,At least once per month,0.07481,140,1589,0.06187,0.08775
-1990,Lower Secondary Level,female,Seldom,0.18501,331,1589,0.16591,0.20410
-1990,Lower Secondary Level,female,Never,0.53974,992,1589,0.51523,0.56426
-1990,Upper Secondary Level,male,At least once per week,0.09044,268,2443,0.07907,0.10182
-1990,Upper Secondary Level,male,At least once per month,0.09571,271,2443,0.08404,0.10738
-1990,Upper Secondary Level,male,Seldom,0.24985,735,2443,0.23268,0.26702
-1990,Upper Secondary Level,male,Never,0.36524,1169,2443,0.34614,0.38433
-1990,Upper Secondary Level,female,At least once per week,0.08787,245,2075,0.07569,0.10006
-1990,Upper Secondary Level,female,At least once per month,0.10832,284,2075,0.09494,0.12169
-1990,Upper Secondary Level,female,Seldom,0.24836,659,2075,0.22976,0.26695
-1990,Upper Secondary Level,female,Never,0.32573,887,2075,0.30556,0.34590
-1990,Post-secondary Non-tertiary Level,male,Seldom,0.25112,48,125,0.17479,0.32745
-1990,Post-secondary Non-tertiary Level,male,Never,0.35165,77,125,0.26761,0.43569
-1990,Post-secondary Non-tertiary Level,female,At least once per week,0.27472,33,106,0.18934,0.36010
-1990,Post-secondary Non-tertiary Level,female,Seldom,0.24632,35,106,0.16390,0.32873
-1990,Post-secondary Non-tertiary Level,female,Never,0.21718,38,106,0.13831,0.29605
-1990,First Stage of Tertiary Education,male,At least once per week,0.10223,36,281,0.06675,0.13772
-1990,First Stage of Tertiary Education,male,At least once per month,0.11096,43,281,0.07417,0.14775
-1990,First Stage of Tertiary Education,male,Seldom,0.25340,98,281,0.20246,0.30435
-1990,First Stage of Tertiary Education,male,Never,0.26888,104,281,0.21694,0.32081
-1990,First Stage of Tertiary Education,female,At least once per week,0.17578,43,231,0.12659,0.22497
-1990,First Stage of Tertiary Education,female,At least once per month,0.13013,36,231,0.08665,0.17361
-1990,First Stage of Tertiary Education,female,Seldom,0.32643,87,231,0.26583,0.38703
-1990,First Stage of Tertiary Education,female,Never,0.30341,65,231,0.24399,0.36282
-1990,Second Stage of Tertiary Education,male,At least once per week,0.14710,97,466,0.11491,0.17930
-1990,Second Stage of Tertiary Education,male,At least once per month,0.13441,88,466,0.10341,0.16541
-1990,Second Stage of Tertiary Education,male,Seldom,0.25427,169,466,0.21469,0.29385
-1990,Second Stage of Tertiary Education,male,Never,0.16272,112,466,0.12917,0.19627
-1990,Second Stage of Tertiary Education,female,At least once per week,0.15613,67,227,0.10881,0.20345
-1990,Second Stage of Tertiary Education,female,At least once per month,0.09675,46,227,0.05821,0.13529
-1990,Second Stage of Tertiary Education,female,Seldom,0.17252,68,227,0.12326,0.22178
-1990,Second Stage of Tertiary Education,female,Never,0.09205,46,227,0.05436,0.12975
+1990,No answer / don't know,male,Never,0.47246,43,43,0.32147,0.62345
+1990,No answer / don't know,female,Never,0.36865,43,43,0.22274,0.51455
+1990,Pre-primary Level,male,Never,0.27438,32,32,0.11731,0.43146
+1990,Pre-primary Level,female,At least once per week,0.61594,36,36,0.45481,0.77708
+1990,Primary Level,male,Seldom,0.16075,34,231,0.11328,0.20822
+1990,Primary Level,male,Never,0.72242,197,231,0.66455,0.78030
+1990,Primary Level,female,Seldom,0.09570,44,353,0.06496,0.12643
+1990,Primary Level,female,Never,0.84342,309,353,0.80546,0.88139
+1990,Lower Secondary Level,male,At least once per week,0.09896,77,860,0.07899,0.11893
+1990,Lower Secondary Level,male,At least once per month,0.05710,53,860,0.04158,0.07262
+1990,Lower Secondary Level,male,Seldom,0.23156,171,860,0.20335,0.25977
+1990,Lower Secondary Level,male,Never,0.61238,559,860,0.57980,0.64496
+1990,Lower Secondary Level,female,At least once per week,0.07838,126,1589,0.06516,0.09160
+1990,Lower Secondary Level,female,At least once per month,0.08623,140,1589,0.07242,0.10004
+1990,Lower Secondary Level,female,Seldom,0.21325,331,1589,0.19310,0.23339
+1990,Lower Secondary Level,female,Never,0.62214,992,1589,0.59829,0.64599
+1990,Upper Secondary Level,male,At least once per week,0.11288,268,2443,0.10033,0.12543
+1990,Upper Secondary Level,male,At least once per month,0.11945,271,2443,0.10659,0.13231
+1990,Upper Secondary Level,male,Seldom,0.31183,735,2443,0.29346,0.33021
+1990,Upper Secondary Level,male,Never,0.45584,1169,2443,0.43609,0.47559
+1990,Upper Secondary Level,female,At least once per week,0.11408,245,2075,0.10040,0.12776
+1990,Upper Secondary Level,female,At least once per month,0.14062,284,2075,0.12566,0.15558
+1990,Upper Secondary Level,female,Seldom,0.32243,659,2075,0.30231,0.34254
+1990,Upper Secondary Level,female,Never,0.42287,887,2075,0.40161,0.44413
+1990,Post-secondary Non-tertiary Level,male,Seldom,0.28958,48,125,0.20975,0.36941
+1990,Post-secondary Non-tertiary Level,male,Never,0.40550,77,125,0.31908,0.49192
+1990,Post-secondary Non-tertiary Level,female,At least once per week,0.31076,33,106,0.22224,0.39928
+1990,Post-secondary Non-tertiary Level,female,Seldom,0.27863,35,106,0.19287,0.36438
+1990,Post-secondary Non-tertiary Level,female,Never,0.24567,38,106,0.16333,0.32801
+1990,First Stage of Tertiary Education,male,At least once per week,0.13900,36,281,0.09848,0.17953
+1990,First Stage of Tertiary Education,male,At least once per month,0.15087,43,281,0.10894,0.19279
+1990,First Stage of Tertiary Education,male,Seldom,0.34455,98,281,0.28888,0.40021
+1990,First Stage of Tertiary Education,male,Never,0.36558,104,281,0.30917,0.42199
+1990,First Stage of Tertiary Education,female,At least once per week,0.18785,43,231,0.13737,0.23833
+1990,First Stage of Tertiary Education,female,At least once per month,0.13906,36,231,0.09435,0.18378
+1990,First Stage of Tertiary Education,female,Seldom,0.34885,87,231,0.28725,0.41044
+1990,First Stage of Tertiary Education,female,Never,0.32424,65,231,0.26375,0.38474
+1990,Second Stage of Tertiary Education,male,At least once per week,0.21060,97,466,0.17354,0.24766
+1990,Second Stage of Tertiary Education,male,At least once per month,0.19243,88,466,0.15660,0.22826
+1990,Second Stage of Tertiary Education,male,Seldom,0.36402,169,466,0.32029,0.40775
+1990,Second Stage of Tertiary Education,male,Never,0.23295,112,466,0.19453,0.27137
+1990,Second Stage of Tertiary Education,female,At least once per week,0.30173,67,227,0.24188,0.36157
+1990,Second Stage of Tertiary Education,female,At least once per month,0.18697,46,227,0.13614,0.23780
+1990,Second Stage of Tertiary Education,female,Seldom,0.33340,68,227,0.27194,0.39487
+1990,Second Stage of Tertiary Education,female,Never,0.17790,46,227,0.12804,0.22776
+1995,No answer / don't know,male,Never,0.63357,73,73,0.52228,0.74487
+1995,No answer / don't know,female,Seldom,0.20148,31,119,0.12911,0.27385
+1995,No answer / don't know,female,Never,0.55419,88,119,0.46451,0.64388
 1995,Pre-primary Level,male,At least once per week,0.29533,36,133,0.21750,0.37315
 1995,Pre-primary Level,male,Seldom,0.22054,35,133,0.14981,0.29127
 1995,Pre-primary Level,male,Never,0.41800,62,133,0.33386,0.50214
-1995,Pre-primary Level,female,At least once per week,0.51810,65,101,0.42016,0.61603
-1995,Pre-primary Level,female,Seldom,0.22685,36,101,0.14477,0.30893
-1995,Primary Level,male,Never,0.80432,180,180,0.74620,0.86244
-1995,Primary Level,female,Seldom,0.10986,40,307,0.07482,0.14490
-1995,Primary Level,female,Never,0.81336,267,307,0.76971,0.85702
-1995,Lower Secondary Level,male,At least once per week,0.08707,68,860,0.06821,0.10592
-1995,Lower Secondary Level,male,At least once per month,0.05541,50,860,0.04011,0.07071
-1995,Lower Secondary Level,male,Seldom,0.17876,145,860,0.15314,0.20438
-1995,Lower Secondary Level,male,Never,0.67007,597,860,0.63863,0.70152
-1995,Lower Secondary Level,female,At least once per week,0.08526,130,1616,0.07164,0.09888
-1995,Lower Secondary Level,female,At least once per month,0.05202,101,1616,0.04119,0.06285
-1995,Lower Secondary Level,female,Seldom,0.19877,319,1616,0.17930,0.21823
-1995,Lower Secondary Level,female,Never,0.65805,1066,1616,0.63491,0.68118
-1995,Upper Secondary Level,male,At least once per week,0.10033,293,3372,0.09018,0.11047
-1995,Upper Secondary Level,male,At least once per month,0.07755,247,3372,0.06852,0.08658
-1995,Upper Secondary Level,male,Seldom,0.29064,985,3372,0.27532,0.30597
-1995,Upper Secondary Level,male,Never,0.52526,1847,3372,0.50840,0.54212
-1995,Upper Secondary Level,female,At least once per week,0.10547,342,3307,0.09500,0.11594
-1995,Upper Secondary Level,female,At least once per month,0.08522,276,3307,0.07570,0.09474
-1995,Upper Secondary Level,female,Seldom,0.31956,1067,3307,0.30366,0.33545
-1995,Upper Secondary Level,female,Never,0.47743,1622,3307,0.46041,0.49446
-1995,Post-secondary Non-tertiary Level,male,Seldom,0.35093,88,198,0.28428,0.41758
-1995,Post-secondary Non-tertiary Level,male,Never,0.43323,110,198,0.36404,0.50243
-1995,Post-secondary Non-tertiary Level,female,At least once per week,0.26827,39,197,0.20624,0.33030
-1995,Post-secondary Non-tertiary Level,female,Seldom,0.27088,75,197,0.20866,0.33309
-1995,Post-secondary Non-tertiary Level,female,Never,0.33115,83,197,0.26526,0.39704
-1995,First Stage of Tertiary Education,male,At least once per week,0.10946,43,472,0.08126,0.13765
-1995,First Stage of Tertiary Education,male,At least once per month,0.10180,45,472,0.07449,0.12910
-1995,First Stage of Tertiary Education,male,Seldom,0.33775,168,472,0.29504,0.38047
-1995,First Stage of Tertiary Education,male,Never,0.44771,216,472,0.40280,0.49262
-1995,First Stage of Tertiary Education,female,At least once per week,0.14529,47,280,0.10394,0.18665
-1995,First Stage of Tertiary Education,female,At least once per month,0.16552,40,280,0.12191,0.20913
-1995,First Stage of Tertiary Education,female,Seldom,0.33959,101,280,0.28402,0.39516
-1995,First Stage of Tertiary Education,female,Never,0.34930,92,280,0.29336,0.40524
-1995,Second Stage of Tertiary Education,male,At least once per week,0.17095,146,954,0.14705,0.19485
-1995,Second Stage of Tertiary Education,male,At least once per month,0.15015,126,954,0.12747,0.17283
-1995,Second Stage of Tertiary Education,male,Seldom,0.35595,352,954,0.32555,0.38635
-1995,Second Stage of Tertiary Education,male,Never,0.32079,330,954,0.29116,0.35043
-1995,Second Stage of Tertiary Education,female,At least once per week,0.22499,149,795,0.19595,0.25404
-1995,Second Stage of Tertiary Education,female,At least once per month,0.15084,111,795,0.12595,0.17573
-1995,Second Stage of Tertiary Education,female,Seldom,0.31052,298,795,0.27833,0.34270
-1995,Second Stage of Tertiary Education,female,Never,0.30634,237,795,0.27427,0.33840
-1998,Pre-primary Level,male,Seldom,0.29448,49,121,0.21293,0.37604
-1998,Pre-primary Level,male,Never,0.40150,72,121,0.31379,0.48920
-1998,Pre-primary Level,female,At least once per week,0.39113,64,142,0.31058,0.47168
-1998,Pre-primary Level,female,Seldom,0.24416,39,142,0.17325,0.31506
-1998,Pre-primary Level,female,Never,0.19997,39,142,0.13395,0.26599
-1998,Primary Level,male,Never,0.80199,162,162,0.74043,0.86355
+1995,Pre-primary Level,female,At least once per week,0.51993,65,101,0.42201,0.61785
+1995,Pre-primary Level,female,Seldom,0.22765,36,101,0.14547,0.30984
+1995,Primary Level,male,Never,0.82792,180,180,0.77262,0.88321
+1995,Primary Level,female,Seldom,0.11157,40,307,0.07629,0.14685
+1995,Primary Level,female,Never,0.82601,267,307,0.78353,0.86848
+1995,Lower Secondary Level,male,At least once per week,0.08783,68,860,0.06890,0.10676
+1995,Lower Secondary Level,male,At least once per month,0.05590,50,860,0.04054,0.07126
+1995,Lower Secondary Level,male,Seldom,0.18032,145,860,0.15461,0.20603
+1995,Lower Secondary Level,male,Never,0.67595,597,860,0.64465,0.70724
+1995,Lower Secondary Level,female,At least once per week,0.08577,130,1616,0.07211,0.09943
+1995,Lower Secondary Level,female,At least once per month,0.05233,101,1616,0.04147,0.06319
+1995,Lower Secondary Level,female,Seldom,0.19995,319,1616,0.18044,0.21945
+1995,Lower Secondary Level,female,Never,0.66195,1066,1616,0.63888,0.68503
+1995,Upper Secondary Level,male,At least once per week,0.10095,293,3372,0.09078,0.11112
+1995,Upper Secondary Level,male,At least once per month,0.07803,247,3372,0.06898,0.08709
+1995,Upper Secondary Level,male,Seldom,0.29246,985,3372,0.27711,0.30782
+1995,Upper Secondary Level,male,Never,0.52855,1847,3372,0.51170,0.54540
+1995,Upper Secondary Level,female,At least once per week,0.10678,342,3307,0.09626,0.11731
+1995,Upper Secondary Level,female,At least once per month,0.08628,276,3307,0.07671,0.09585
+1995,Upper Secondary Level,female,Seldom,0.32355,1067,3307,0.30760,0.33949
+1995,Upper Secondary Level,female,Never,0.48339,1622,3307,0.46635,0.50042
+1995,Post-secondary Non-tertiary Level,male,Seldom,0.35336,88,198,0.28661,0.42012
+1995,Post-secondary Non-tertiary Level,male,Never,0.43623,110,198,0.36698,0.50549
+1995,Post-secondary Non-tertiary Level,female,At least once per week,0.26901,39,197,0.20693,0.33109
+1995,Post-secondary Non-tertiary Level,female,Seldom,0.27162,75,197,0.20935,0.33390
+1995,Post-secondary Non-tertiary Level,female,Never,0.33207,83,197,0.26614,0.39800
+1995,First Stage of Tertiary Education,male,At least once per week,0.10982,43,472,0.08158,0.13805
+1995,First Stage of Tertiary Education,male,At least once per month,0.10213,45,472,0.07478,0.12948
+1995,First Stage of Tertiary Education,male,Seldom,0.33887,168,472,0.29612,0.38161
+1995,First Stage of Tertiary Education,male,Never,0.44919,216,472,0.40426,0.49411
+1995,First Stage of Tertiary Education,female,At least once per week,0.14534,47,280,0.10398,0.18669
+1995,First Stage of Tertiary Education,female,At least once per month,0.16557,40,280,0.12196,0.20919
+1995,First Stage of Tertiary Education,female,Seldom,0.33969,101,280,0.28412,0.39526
+1995,First Stage of Tertiary Education,female,Never,0.34940,92,280,0.29346,0.40535
+1995,Second Stage of Tertiary Education,male,At least once per week,0.17132,146,954,0.14740,0.19524
+1995,Second Stage of Tertiary Education,male,At least once per month,0.15047,126,954,0.12777,0.17317
+1995,Second Stage of Tertiary Education,male,Seldom,0.35672,352,954,0.32631,0.38714
+1995,Second Stage of Tertiary Education,male,Never,0.32149,330,954,0.29183,0.35114
+1995,Second Stage of Tertiary Education,female,At least once per week,0.22665,149,795,0.19753,0.25577
+1995,Second Stage of Tertiary Education,female,At least once per month,0.15195,111,795,0.12698,0.17692
+1995,Second Stage of Tertiary Education,female,Seldom,0.31281,298,795,0.28056,0.34506
+1995,Second Stage of Tertiary Education,female,Never,0.30859,237,795,0.27646,0.34072
+1998,No answer / don't know,male,Seldom,0.17810,54,232,0.12876,0.22744
+1998,No answer / don't know,male,Never,0.61661,178,232,0.55391,0.67931
+1998,No answer / don't know,female,Seldom,0.19998,59,258,0.15108,0.24888
+1998,No answer / don't know,female,Never,0.60914,199,258,0.54948,0.66880
+1998,Pre-primary Level,male,Seldom,0.29777,49,121,0.21595,0.37958
+1998,Pre-primary Level,male,Never,0.40597,72,121,0.31811,0.49384
+1998,Pre-primary Level,female,At least once per week,0.39483,64,142,0.31414,0.47551
+1998,Pre-primary Level,female,Seldom,0.24646,39,142,0.17533,0.31760
+1998,Pre-primary Level,female,Never,0.20186,39,142,0.13560,0.26811
+1998,Primary Level,male,Never,0.81451,162,162,0.75447,0.87455
 1998,Primary Level,female,Never,0.89406,234,234,0.85455,0.93358
-1998,Lower Secondary Level,male,At least once per week,0.08459,62,916,0.06656,0.10262
-1998,Lower Secondary Level,male,At least once per month,0.05588,44,916,0.04099,0.07076
-1998,Lower Secondary Level,male,Seldom,0.16106,149,916,0.13724,0.18488
-1998,Lower Secondary Level,male,Never,0.69079,661,916,0.66084,0.72073
-1998,Lower Secondary Level,female,At least once per week,0.08099,126,1593,0.06759,0.09439
-1998,Lower Secondary Level,female,At least once per month,0.05452,98,1593,0.04337,0.06567
-1998,Lower Secondary Level,female,Seldom,0.17046,286,1593,0.15199,0.18893
-1998,Lower Secondary Level,female,Never,0.67416,1083,1593,0.65113,0.69718
-1998,Upper Secondary Level,male,At least once per week,0.08887,277,3491,0.07943,0.09831
-1998,Upper Secondary Level,male,At least once per month,0.05991,211,3491,0.05204,0.06778
-1998,Upper Secondary Level,male,Seldom,0.26664,908,3491,0.25197,0.28131
-1998,Upper Secondary Level,male,Never,0.57370,2095,3491,0.55729,0.59011
-1998,Upper Secondary Level,female,At least once per week,0.09584,329,3481,0.08606,0.10562
-1998,Upper Secondary Level,female,At least once per month,0.09403,316,3481,0.08433,0.10373
-1998,Upper Secondary Level,female,Seldom,0.30007,1064,3481,0.28484,0.31529
-1998,Upper Secondary Level,female,Never,0.49764,1772,3481,0.48102,0.51425
-1998,Post-secondary Non-tertiary Level,male,Seldom,0.34455,86,185,0.27589,0.41322
-1998,Post-secondary Non-tertiary Level,male,Never,0.43346,99,185,0.36186,0.50506
+1998,Lower Secondary Level,male,At least once per week,0.08525,62,916,0.06715,0.10334
+1998,Lower Secondary Level,male,At least once per month,0.05631,44,916,0.04137,0.07125
+1998,Lower Secondary Level,male,Seldom,0.16231,149,916,0.13842,0.18620
+1998,Lower Secondary Level,male,Never,0.69613,661,916,0.66633,0.72593
+1998,Lower Secondary Level,female,At least once per week,0.08263,126,1593,0.06911,0.09616
+1998,Lower Secondary Level,female,At least once per month,0.05562,98,1593,0.04436,0.06688
+1998,Lower Secondary Level,female,Seldom,0.17392,286,1593,0.15530,0.19253
+1998,Lower Secondary Level,female,Never,0.68783,1083,1593,0.66507,0.71059
+1998,Upper Secondary Level,male,At least once per week,0.08985,277,3491,0.08036,0.09934
+1998,Upper Secondary Level,male,At least once per month,0.06057,211,3491,0.05265,0.06848
+1998,Upper Secondary Level,male,Seldom,0.26957,908,3491,0.25485,0.28430
+1998,Upper Secondary Level,male,Never,0.58001,2095,3491,0.56363,0.59638
+1998,Upper Secondary Level,female,At least once per week,0.09705,329,3481,0.08721,0.10688
+1998,Upper Secondary Level,female,At least once per month,0.09521,316,3481,0.08546,0.10497
+1998,Upper Secondary Level,female,Seldom,0.30384,1064,3481,0.28856,0.31912
+1998,Upper Secondary Level,female,Never,0.50390,1772,3481,0.48729,0.52051
+1998,Post-secondary Non-tertiary Level,male,Seldom,0.34900,86,185,0.28012,0.41787
+1998,Post-secondary Non-tertiary Level,male,Never,0.43905,99,185,0.36734,0.51076
 1998,Post-secondary Non-tertiary Level,female,At least once per week,0.19782,40,265,0.14977,0.24587
 1998,Post-secondary Non-tertiary Level,female,At least once per month,0.13027,32,265,0.08967,0.17087
 1998,Post-secondary Non-tertiary Level,female,Seldom,0.29394,81,265,0.23898,0.34889
 1998,Post-secondary Non-tertiary Level,female,Never,0.37797,112,265,0.31948,0.43646
-1998,First Stage of Tertiary Education,male,At least once per week,0.09278,37,493,0.06714,0.11841
-1998,First Stage of Tertiary Education,male,At least once per month,0.07979,38,493,0.05585,0.10373
-1998,First Stage of Tertiary Education,male,Seldom,0.32880,165,493,0.28729,0.37031
-1998,First Stage of Tertiary Education,male,Never,0.49106,253,493,0.44688,0.53523
-1998,First Stage of Tertiary Education,female,At least once per week,0.13496,52,319,0.09740,0.17251
-1998,First Stage of Tertiary Education,female,At least once per month,0.12359,32,319,0.08742,0.15977
-1998,First Stage of Tertiary Education,female,Seldom,0.35937,119,319,0.30663,0.41211
-1998,First Stage of Tertiary Education,female,Never,0.36767,116,319,0.31467,0.42067
-1998,Second Stage of Tertiary Education,male,At least once per week,0.16481,157,1068,0.14254,0.18707
-1998,Second Stage of Tertiary Education,male,At least once per month,0.13080,129,1068,0.11057,0.15103
-1998,Second Stage of Tertiary Education,male,Seldom,0.31956,365,1068,0.29158,0.34754
-1998,Second Stage of Tertiary Education,male,Never,0.37456,417,1068,0.34552,0.40360
-1998,Second Stage of Tertiary Education,female,At least once per week,0.20829,156,887,0.18155,0.23503
-1998,Second Stage of Tertiary Education,female,At least once per month,0.14246,130,887,0.11945,0.16548
-1998,Second Stage of Tertiary Education,female,Seldom,0.33219,318,887,0.30118,0.36320
-1998,Second Stage of Tertiary Education,female,Never,0.31287,283,887,0.28234,0.34340
-2001,Pre-primary Level,male,At least once per week,0.19397,48,237,0.14352,0.24441
-2001,Pre-primary Level,male,Seldom,0.20052,49,237,0.14944,0.25160
-2001,Pre-primary Level,male,Never,0.53312,140,237,0.46947,0.59677
-2001,Pre-primary Level,female,At least once per week,0.27872,89,281,0.22620,0.33124
-2001,Pre-primary Level,female,At least once per month,0.11862,32,281,0.08075,0.15649
-2001,Pre-primary Level,female,Seldom,0.23536,68,281,0.18567,0.28505
-2001,Pre-primary Level,female,Never,0.35208,92,281,0.29614,0.40802
-2001,Primary Level,male,Never,0.91100,121,121,0.86005,0.96194
-2001,Primary Level,female,Never,0.91441,164,164,0.87146,0.95736
-2001,Lower Secondary Level,male,At least once per week,0.05781,60,965,0.04308,0.07254
-2001,Lower Secondary Level,male,Seldom,0.15559,157,965,0.13271,0.17847
-2001,Lower Secondary Level,male,Never,0.74818,748,965,0.72078,0.77558
-2001,Lower Secondary Level,female,At least once per week,0.06354,140,2046,0.05296,0.07411
-2001,Lower Secondary Level,female,At least once per month,0.03971,81,2046,0.03125,0.04818
-2001,Lower Secondary Level,female,Seldom,0.13409,310,2046,0.11933,0.14886
-2001,Lower Secondary Level,female,Never,0.74008,1515,2046,0.72107,0.75909
-2001,Upper Secondary Level,male,At least once per week,0.05725,310,5583,0.05116,0.06335
-2001,Upper Secondary Level,male,At least once per month,0.04089,230,5583,0.03570,0.04609
-2001,Upper Secondary Level,male,Seldom,0.20139,1133,5583,0.19087,0.21191
-2001,Upper Secondary Level,male,Never,0.68751,3910,5583,0.67535,0.69967
-2001,Upper Secondary Level,female,At least once per week,0.07833,481,5877,0.07146,0.08520
-2001,Upper Secondary Level,female,At least once per month,0.06096,348,5877,0.05484,0.06707
-2001,Upper Secondary Level,female,Seldom,0.22780,1414,5877,0.21708,0.23853
-2001,Upper Secondary Level,female,Never,0.61974,3634,5877,0.60733,0.63215
-2001,Post-secondary Non-tertiary Level,male,At least once per week,0.09141,39,475,0.06546,0.11735
-2001,Post-secondary Non-tertiary Level,male,At least once per month,0.09192,39,475,0.06591,0.11793
-2001,Post-secondary Non-tertiary Level,male,Seldom,0.28024,130,475,0.23981,0.32067
-2001,Post-secondary Non-tertiary Level,male,Never,0.53108,267,475,0.48615,0.57600
-2001,Post-secondary Non-tertiary Level,female,At least once per week,0.12042,68,578,0.09387,0.14698
-2001,Post-secondary Non-tertiary Level,female,At least once per month,0.08366,47,578,0.06107,0.10625
-2001,Post-secondary Non-tertiary Level,female,Seldom,0.28293,166,578,0.24618,0.31968
-2001,Post-secondary Non-tertiary Level,female,Never,0.49191,297,578,0.45112,0.53270
-2001,First Stage of Tertiary Education,male,At least once per week,0.06996,65,951,0.05374,0.08618
-2001,First Stage of Tertiary Education,male,At least once per month,0.06141,53,951,0.04614,0.07667
-2001,First Stage of Tertiary Education,male,Seldom,0.24004,250,951,0.21288,0.26720
-2001,First Stage of Tertiary Education,male,Never,0.60690,583,951,0.57584,0.63796
-2001,First Stage of Tertiary Education,female,At least once per week,0.09057,73,703,0.06934,0.11180
-2001,First Stage of Tertiary Education,female,At least once per month,0.10081,66,703,0.07854,0.12308
-2001,First Stage of Tertiary Education,female,Seldom,0.24464,178,703,0.21284,0.27644
-2001,First Stage of Tertiary Education,female,Never,0.54586,386,703,0.50903,0.58269
-2001,Second Stage of Tertiary Education,male,At least once per week,0.11319,222,1972,0.09920,0.12718
-2001,Second Stage of Tertiary Education,male,At least once per month,0.09409,172,1972,0.08120,0.10698
-2001,Second Stage of Tertiary Education,male,Seldom,0.29514,589,1972,0.27500,0.31527
-2001,Second Stage of Tertiary Education,male,Never,0.48071,989,1972,0.45865,0.50277
-2001,Second Stage of Tertiary Education,female,At least once per week,0.18446,260,1540,0.16508,0.20384
-2001,Second Stage of Tertiary Education,female,At least once per month,0.10981,168,1540,0.09419,0.12544
-2001,Second Stage of Tertiary Education,female,Seldom,0.29142,481,1540,0.26872,0.31412
-2001,Second Stage of Tertiary Education,female,Never,0.40332,631,1540,0.37881,0.42783
-2003,Pre-primary Level,male,At least once per week,0.27292,89,272,0.21988,0.32595
-2003,Pre-primary Level,male,Seldom,0.19084,58,272,0.14405,0.23762
-2003,Pre-primary Level,male,Never,0.39647,125,272,0.33823,0.45471
-2003,Pre-primary Level,female,At least once per week,0.41481,148,315,0.36032,0.46931
-2003,Pre-primary Level,female,At least once per month,0.16897,51,315,0.12752,0.21042
-2003,Pre-primary Level,female,Seldom,0.17781,54,315,0.13552,0.22010
-2003,Pre-primary Level,female,Never,0.23423,62,315,0.18739,0.28108
-2003,Primary Level,male,Never,0.86774,97,97,0.79997,0.93551
-2003,Primary Level,female,Never,0.88051,141,141,0.82678,0.93424
-2003,Lower Secondary Level,male,At least once per week,0.08147,72,903,0.06362,0.09933
-2003,Lower Secondary Level,male,At least once per month,0.04913,42,903,0.03503,0.06324
-2003,Lower Secondary Level,male,Seldom,0.14593,141,903,0.12289,0.16897
-2003,Lower Secondary Level,male,Never,0.71663,648,903,0.68722,0.74604
-2003,Lower Secondary Level,female,At least once per week,0.06203,132,1806,0.05090,0.07315
-2003,Lower Secondary Level,female,At least once per month,0.04581,86,1806,0.03617,0.05546
-2003,Lower Secondary Level,female,Seldom,0.16294,302,1806,0.14591,0.17998
-2003,Lower Secondary Level,female,Never,0.71523,1286,1806,0.69441,0.73605
-2003,Upper Secondary Level,male,At least once per week,0.07735,402,5281,0.07015,0.08456
-2003,Upper Secondary Level,male,At least once per month,0.06195,326,5281,0.05545,0.06845
-2003,Upper Secondary Level,male,Seldom,0.22078,1174,5281,0.20959,0.23197
-2003,Upper Secondary Level,male,Never,0.62991,3379,5281,0.61688,0.64293
-2003,Upper Secondary Level,female,At least once per week,0.09662,628,5753,0.08899,0.10426
-2003,Upper Secondary Level,female,At least once per month,0.08868,532,5753,0.08133,0.09602
-2003,Upper Secondary Level,female,Seldom,0.26417,1575,5753,0.25278,0.27557
-2003,Upper Secondary Level,female,Never,0.54481,3018,5753,0.53194,0.55768
+1998,First Stage of Tertiary Education,male,At least once per week,0.09348,37,493,0.06776,0.11921
+1998,First Stage of Tertiary Education,male,At least once per month,0.08040,38,493,0.05637,0.10443
+1998,First Stage of Tertiary Education,male,Seldom,0.33131,165,493,0.28972,0.37290
+1998,First Stage of Tertiary Education,male,Never,0.49481,253,493,0.45063,0.53899
+1998,First Stage of Tertiary Education,female,At least once per week,0.13693,52,319,0.09915,0.17472
+1998,First Stage of Tertiary Education,female,At least once per month,0.12540,32,319,0.08900,0.16180
+1998,First Stage of Tertiary Education,female,Seldom,0.36462,119,319,0.31172,0.41753
+1998,First Stage of Tertiary Education,female,Never,0.37304,116,319,0.31989,0.42620
+1998,Second Stage of Tertiary Education,male,At least once per week,0.16652,157,1068,0.14416,0.18887
+1998,Second Stage of Tertiary Education,male,At least once per month,0.13216,129,1068,0.11184,0.15248
+1998,Second Stage of Tertiary Education,male,Seldom,0.32288,365,1068,0.29482,0.35094
+1998,Second Stage of Tertiary Education,male,Never,0.37845,417,1068,0.34934,0.40755
+1998,Second Stage of Tertiary Education,female,At least once per week,0.20917,156,887,0.18239,0.23595
+1998,Second Stage of Tertiary Education,female,At least once per month,0.14306,130,887,0.12000,0.16612
+1998,Second Stage of Tertiary Education,female,Seldom,0.33359,318,887,0.30254,0.36463
+1998,Second Stage of Tertiary Education,female,Never,0.31419,283,887,0.28362,0.34475
+2001,No answer / don't know,male,Never,0.70662,40,40,0.56372,0.84952
+2001,No answer / don't know,female,Never,0.76865,40,40,0.63630,0.90100
+2001,Pre-primary Level,male,At least once per week,0.19576,48,237,0.14513,0.24638
+2001,Pre-primary Level,male,Seldom,0.20237,49,237,0.15111,0.25363
+2001,Pre-primary Level,male,Never,0.53804,140,237,0.47443,0.60165
+2001,Pre-primary Level,female,At least once per week,0.28303,89,281,0.23026,0.33579
+2001,Pre-primary Level,female,At least once per month,0.12045,32,281,0.08233,0.15858
+2001,Pre-primary Level,female,Seldom,0.23900,68,281,0.18905,0.28895
+2001,Pre-primary Level,female,Never,0.35752,92,281,0.30138,0.41366
+2001,Primary Level,male,Never,0.92280,121,121,0.87504,0.97056
+2001,Primary Level,female,Never,0.94239,164,164,0.90661,0.97816
+2001,Lower Secondary Level,male,At least once per week,0.05823,60,965,0.04344,0.07301
+2001,Lower Secondary Level,male,Seldom,0.15670,157,965,0.13375,0.17965
+2001,Lower Secondary Level,male,Never,0.75354,748,965,0.72634,0.78075
+2001,Lower Secondary Level,female,At least once per week,0.06501,140,2046,0.05432,0.07569
+2001,Lower Secondary Level,female,At least once per month,0.04063,81,2046,0.03207,0.04919
+2001,Lower Secondary Level,female,Seldom,0.13719,310,2046,0.12228,0.15210
+2001,Lower Secondary Level,female,Never,0.75717,1515,2046,0.73859,0.77576
+2001,Upper Secondary Level,male,At least once per week,0.05801,310,5583,0.05187,0.06414
+2001,Upper Secondary Level,male,At least once per month,0.04143,230,5583,0.03620,0.04666
+2001,Upper Secondary Level,male,Seldom,0.20404,1133,5583,0.19346,0.21461
+2001,Upper Secondary Level,male,Never,0.69653,3910,5583,0.68447,0.70859
+2001,Upper Secondary Level,female,At least once per week,0.07937,481,5877,0.07246,0.08628
+2001,Upper Secondary Level,female,At least once per month,0.06177,348,5877,0.05561,0.06793
+2001,Upper Secondary Level,female,Seldom,0.23084,1414,5877,0.22007,0.24162
+2001,Upper Secondary Level,female,Never,0.62802,3634,5877,0.61566,0.64037
+2001,Post-secondary Non-tertiary Level,male,At least once per week,0.09190,39,475,0.06589,0.11791
+2001,Post-secondary Non-tertiary Level,male,At least once per month,0.09241,39,475,0.06634,0.11848
+2001,Post-secondary Non-tertiary Level,male,Seldom,0.28175,130,475,0.24125,0.32225
+2001,Post-secondary Non-tertiary Level,male,Never,0.53394,267,475,0.48903,0.57885
+2001,Post-secondary Non-tertiary Level,female,At least once per week,0.12302,68,578,0.09622,0.14982
+2001,Post-secondary Non-tertiary Level,female,At least once per month,0.08546,47,578,0.06265,0.10827
+2001,Post-secondary Non-tertiary Level,female,Seldom,0.28902,166,578,0.25203,0.32601
+2001,Post-secondary Non-tertiary Level,female,Never,0.50250,297,578,0.46170,0.54330
+2001,First Stage of Tertiary Education,male,At least once per week,0.07151,65,951,0.05513,0.08790
+2001,First Stage of Tertiary Education,male,At least once per month,0.06277,53,951,0.04734,0.07819
+2001,First Stage of Tertiary Education,male,Seldom,0.24536,250,951,0.21800,0.27273
+2001,First Stage of Tertiary Education,male,Never,0.62035,583,951,0.58949,0.65122
+2001,First Stage of Tertiary Education,female,At least once per week,0.09224,73,703,0.07084,0.11365
+2001,First Stage of Tertiary Education,female,At least once per month,0.10267,66,703,0.08022,0.12513
+2001,First Stage of Tertiary Education,female,Seldom,0.24915,178,703,0.21716,0.28115
+2001,First Stage of Tertiary Education,female,Never,0.55593,386,703,0.51917,0.59269
+2001,Second Stage of Tertiary Education,male,At least once per week,0.11513,222,1972,0.10104,0.12922
+2001,Second Stage of Tertiary Education,male,At least once per month,0.09570,172,1972,0.08272,0.10869
+2001,Second Stage of Tertiary Education,male,Seldom,0.30020,589,1972,0.27997,0.32044
+2001,Second Stage of Tertiary Education,male,Never,0.48896,989,1972,0.46689,0.51103
+2001,Second Stage of Tertiary Education,female,At least once per week,0.18651,260,1540,0.16705,0.20597
+2001,Second Stage of Tertiary Education,female,At least once per month,0.11103,168,1540,0.09534,0.12673
+2001,Second Stage of Tertiary Education,female,Seldom,0.29466,481,1540,0.27188,0.31743
+2001,Second Stage of Tertiary Education,female,Never,0.40780,631,1540,0.38325,0.43235
+2003,No answer / don't know,male,Never,0.61587,77,77,0.50651,0.72522
+2003,No answer / don't know,female,Never,0.53781,61,61,0.41166,0.66397
+2003,Pre-primary Level,male,At least once per week,0.28065,89,272,0.22715,0.33415
+2003,Pre-primary Level,male,Seldom,0.19624,58,272,0.14896,0.24353
+2003,Pre-primary Level,male,Never,0.40771,125,272,0.34920,0.46621
+2003,Pre-primary Level,female,At least once per week,0.41655,148,315,0.36202,0.47108
+2003,Pre-primary Level,female,At least once per month,0.16968,51,315,0.12816,0.21120
+2003,Pre-primary Level,female,Seldom,0.17856,54,315,0.13620,0.22092
+2003,Pre-primary Level,female,Never,0.23521,62,315,0.18830,0.28213
+2003,Primary Level,male,Never,0.88281,97,97,0.81846,0.94715
+2003,Primary Level,female,Never,0.89263,141,141,0.84134,0.94391
+2003,Lower Secondary Level,male,At least once per week,0.08204,72,903,0.06413,0.09994
+2003,Lower Secondary Level,male,At least once per month,0.04947,42,903,0.03532,0.06362
+2003,Lower Secondary Level,male,Seldom,0.14694,141,903,0.12383,0.17004
+2003,Lower Secondary Level,male,Never,0.72156,648,903,0.69231,0.75081
+2003,Lower Secondary Level,female,At least once per week,0.06290,132,1806,0.05170,0.07411
+2003,Lower Secondary Level,female,At least once per month,0.04646,86,1806,0.03675,0.05617
+2003,Lower Secondary Level,female,Seldom,0.16525,302,1806,0.14812,0.18239
+2003,Lower Secondary Level,female,Never,0.72538,1286,1806,0.70479,0.74597
+2003,Upper Secondary Level,male,At least once per week,0.07814,402,5281,0.07090,0.08537
+2003,Upper Secondary Level,male,At least once per month,0.06258,326,5281,0.05604,0.06911
+2003,Upper Secondary Level,male,Seldom,0.22301,1174,5281,0.21179,0.23424
+2003,Upper Secondary Level,male,Never,0.63628,3379,5281,0.62330,0.64925
+2003,Upper Secondary Level,female,At least once per week,0.09718,628,5753,0.08952,0.10483
+2003,Upper Secondary Level,female,At least once per month,0.08919,532,5753,0.08182,0.09655
+2003,Upper Secondary Level,female,Seldom,0.26569,1575,5753,0.25428,0.27711
+2003,Upper Secondary Level,female,Never,0.54794,3018,5753,0.53508,0.56080
 2003,Post-secondary Non-tertiary Level,male,At least once per week,0.11411,56,480,0.08564,0.14259
 2003,Post-secondary Non-tertiary Level,male,At least once per month,0.08917,45,480,0.06365,0.11469
 2003,Post-secondary Non-tertiary Level,male,Seldom,0.27457,129,480,0.23460,0.31454
 2003,Post-secondary Non-tertiary Level,male,Never,0.52214,250,480,0.47741,0.56688
-2003,Post-secondary Non-tertiary Level,female,At least once per week,0.17184,117,667,0.14319,0.20049
-2003,Post-secondary Non-tertiary Level,female,At least once per month,0.12233,82,667,0.09744,0.14721
-2003,Post-secondary Non-tertiary Level,female,Seldom,0.32147,219,667,0.28600,0.35694
-2003,Post-secondary Non-tertiary Level,female,Never,0.36791,249,667,0.33129,0.40454
-2003,First Stage of Tertiary Education,male,At least once per week,0.11881,109,969,0.09842,0.13919
-2003,First Stage of Tertiary Education,male,At least once per month,0.08027,81,969,0.06315,0.09739
-2003,First Stage of Tertiary Education,male,Seldom,0.30582,295,969,0.27680,0.33485
-2003,First Stage of Tertiary Education,male,Never,0.48621,484,969,0.45473,0.51770
-2003,First Stage of Tertiary Education,female,At least once per week,0.13616,108,703,0.11079,0.16153
-2003,First Stage of Tertiary Education,female,At least once per month,0.11362,79,703,0.09015,0.13710
-2003,First Stage of Tertiary Education,female,Seldom,0.27534,212,703,0.24230,0.30839
-2003,First Stage of Tertiary Education,female,Never,0.45583,304,703,0.41899,0.49268
-2003,Second Stage of Tertiary Education,male,At least once per week,0.16891,420,2442,0.15405,0.18377
-2003,Second Stage of Tertiary Education,male,At least once per month,0.12855,314,2442,0.11527,0.14182
-2003,Second Stage of Tertiary Education,male,Seldom,0.30494,784,2442,0.28668,0.32320
-2003,Second Stage of Tertiary Education,male,Never,0.39107,924,2442,0.37171,0.41043
-2003,Second Stage of Tertiary Education,female,At least once per week,0.22296,426,1886,0.20417,0.24175
-2003,Second Stage of Tertiary Education,female,At least once per month,0.13676,275,1886,0.12125,0.15227
-2003,Second Stage of Tertiary Education,female,Seldom,0.31401,619,1886,0.29306,0.33496
-2003,Second Stage of Tertiary Education,female,Never,0.32079,566,1886,0.29971,0.34186
-2005,Pre-primary Level,male,At least once per week,0.22231,82,283,0.17378,0.27084
-2005,Pre-primary Level,male,Seldom,0.23584,75,283,0.18629,0.28539
-2005,Pre-primary Level,male,Never,0.43808,126,283,0.38017,0.49599
-2005,Pre-primary Level,female,At least once per week,0.33447,127,339,0.28418,0.38477
-2005,Pre-primary Level,female,At least once per month,0.14544,44,339,0.10786,0.18303
-2005,Pre-primary Level,female,Seldom,0.24306,76,339,0.19733,0.28879
-2005,Pre-primary Level,female,Never,0.27531,92,339,0.22770,0.32293
-2005,Primary Level,male,Never,0.73681,78,78,0.63844,0.83517
-2005,Primary Level,female,Never,0.89540,129,129,0.84238,0.94842
-2005,Lower Secondary Level,male,At least once per week,0.05913,38,738,0.04210,0.07616
-2005,Lower Secondary Level,male,Seldom,0.18026,140,738,0.15251,0.20802
-2005,Lower Secondary Level,male,Never,0.72046,560,738,0.68806,0.75286
-2005,Lower Secondary Level,female,At least once per week,0.05358,99,1601,0.04254,0.06461
-2005,Lower Secondary Level,female,At least once per month,0.04100,72,1601,0.03128,0.05072
-2005,Lower Secondary Level,female,Seldom,0.18725,310,1601,0.16813,0.20636
-2005,Lower Secondary Level,female,Never,0.70735,1120,1601,0.68506,0.72965
-2005,Upper Secondary Level,male,At least once per week,0.06093,296,4849,0.05420,0.06767
-2005,Upper Secondary Level,male,At least once per month,0.04830,241,4849,0.04226,0.05433
-2005,Upper Secondary Level,male,Seldom,0.24817,1225,4849,0.23601,0.26033
-2005,Upper Secondary Level,male,Never,0.63312,3087,4849,0.61955,0.64668
-2005,Upper Secondary Level,female,At least once per week,0.07293,441,5301,0.06593,0.07993
-2005,Upper Secondary Level,female,At least once per month,0.06653,417,5301,0.05982,0.07324
-2005,Upper Secondary Level,female,Seldom,0.28577,1517,5301,0.27360,0.29793
-2005,Upper Secondary Level,female,Never,0.55940,2926,5301,0.54603,0.57276
-2005,Post-secondary Non-tertiary Level,male,At least once per week,0.09077,39,459,0.06446,0.11708
-2005,Post-secondary Non-tertiary Level,male,At least once per month,0.08682,34,459,0.06103,0.11261
-2005,Post-secondary Non-tertiary Level,male,Seldom,0.30671,149,459,0.26448,0.34895
-2005,Post-secondary Non-tertiary Level,male,Never,0.50171,237,459,0.45592,0.54750
-2005,Post-secondary Non-tertiary Level,female,At least once per week,0.14132,86,658,0.11468,0.16795
-2005,Post-secondary Non-tertiary Level,female,At least once per month,0.10576,71,658,0.08225,0.12928
-2005,Post-secondary Non-tertiary Level,female,Seldom,0.30958,218,658,0.27422,0.34493
-2005,Post-secondary Non-tertiary Level,female,Never,0.42707,283,658,0.38925,0.46490
-2005,First Stage of Tertiary Education,male,At least once per week,0.07352,66,886,0.05632,0.09071
-2005,First Stage of Tertiary Education,male,At least once per month,0.07126,66,886,0.05431,0.08821
-2005,First Stage of Tertiary Education,male,Seldom,0.30524,290,886,0.27490,0.33558
-2005,First Stage of Tertiary Education,male,Never,0.53170,464,886,0.49882,0.56458
-2005,First Stage of Tertiary Education,female,At least once per week,0.11055,73,657,0.08655,0.13454
-2005,First Stage of Tertiary Education,female,At least once per month,0.07341,51,657,0.05345,0.09337
-2005,First Stage of Tertiary Education,female,Seldom,0.31418,215,657,0.27866,0.34970
-2005,First Stage of Tertiary Education,female,Never,0.47960,318,657,0.44137,0.51783
-2005,Second Stage of Tertiary Education,male,At least once per week,0.12109,291,2296,0.10774,0.13444
-2005,Second Stage of Tertiary Education,male,At least once per month,0.09290,227,2296,0.08102,0.10477
-2005,Second Stage of Tertiary Education,male,Seldom,0.34770,822,2296,0.32822,0.36719
-2005,Second Stage of Tertiary Education,male,Never,0.43033,956,2296,0.41008,0.45059
-2005,Second Stage of Tertiary Education,female,At least once per week,0.17301,317,1843,0.15574,0.19029
-2005,Second Stage of Tertiary Education,female,At least once per month,0.13999,249,1843,0.12414,0.15583
-2005,Second Stage of Tertiary Education,female,Seldom,0.33480,654,1843,0.31325,0.35635
-2005,Second Stage of Tertiary Education,female,Never,0.34408,623,1843,0.32238,0.36577
-2007,Pre-primary Level,male,At least once per week,0.09557,41,145,0.04755,0.14359
-2007,Pre-primary Level,male,Seldom,0.12111,37,145,0.06782,0.17440
-2007,Pre-primary Level,male,Never,0.23721,67,145,0.16773,0.30669
-2007,Pre-primary Level,female,At least once per week,0.21038,74,150,0.14494,0.27583
-2007,Pre-primary Level,female,Seldom,0.12952,43,150,0.07560,0.18343
-2007,Pre-primary Level,female,Never,0.11243,33,150,0.06171,0.16315
-2007,Primary Level,male,Never,0.85883,65,65,0.77352,0.94413
-2007,Primary Level,female,Never,0.86691,121,121,0.80613,0.92768
-2007,Lower Secondary Level,male,At least once per week,0.04070,37,650,0.02550,0.05590
-2007,Lower Secondary Level,male,Seldom,0.15417,115,650,0.12639,0.18195
-2007,Lower Secondary Level,male,Never,0.71770,498,650,0.68307,0.75233
-2007,Lower Secondary Level,female,At least once per week,0.05298,96,1497,0.04163,0.06434
-2007,Lower Secondary Level,female,At least once per month,0.03426,65,1497,0.02504,0.04347
-2007,Lower Secondary Level,female,Seldom,0.14601,236,1497,0.12812,0.16390
-2007,Lower Secondary Level,female,Never,0.73051,1100,1497,0.70803,0.75299
-2007,Upper Secondary Level,male,At least once per week,0.06009,319,4850,0.05340,0.06678
-2007,Upper Secondary Level,male,At least once per month,0.04165,226,4850,0.03603,0.04728
-2007,Upper Secondary Level,male,Seldom,0.22712,1134,4850,0.21533,0.23892
-2007,Upper Secondary Level,male,Never,0.65589,3171,4850,0.64252,0.66926
-2007,Upper Secondary Level,female,At least once per week,0.08947,528,5362,0.08183,0.09711
-2007,Upper Secondary Level,female,At least once per month,0.06804,422,5362,0.06130,0.07478
-2007,Upper Secondary Level,female,Seldom,0.25184,1405,5362,0.24022,0.26345
-2007,Upper Secondary Level,female,Never,0.57263,3007,5362,0.55939,0.58587
-2007,Post-secondary Non-tertiary Level,male,At least once per week,0.09047,44,460,0.06423,0.11672
-2007,Post-secondary Non-tertiary Level,male,At least once per month,0.08320,34,460,0.05794,0.10847
-2007,Post-secondary Non-tertiary Level,male,Seldom,0.27088,129,460,0.23022,0.31154
-2007,Post-secondary Non-tertiary Level,male,Never,0.54900,253,460,0.50348,0.59453
-2007,Post-secondary Non-tertiary Level,female,At least once per week,0.12999,92,701,0.10508,0.15490
-2007,Post-secondary Non-tertiary Level,female,At least once per month,0.11024,78,701,0.08703,0.13344
-2007,Post-secondary Non-tertiary Level,female,Seldom,0.29979,221,701,0.26585,0.33373
-2007,Post-secondary Non-tertiary Level,female,Never,0.45108,310,701,0.41422,0.48794
-2007,First Stage of Tertiary Education,male,At least once per week,0.09954,87,894,0.07990,0.11917
-2007,First Stage of Tertiary Education,male,At least once per month,0.07582,63,894,0.05846,0.09319
-2007,First Stage of Tertiary Education,male,Seldom,0.29794,261,894,0.26794,0.32794
-2007,First Stage of Tertiary Education,male,Never,0.52034,483,894,0.48757,0.55310
-2007,First Stage of Tertiary Education,female,At least once per week,0.12642,81,630,0.10045,0.15239
-2007,First Stage of Tertiary Education,female,At least once per month,0.10026,65,630,0.07679,0.12373
-2007,First Stage of Tertiary Education,female,Seldom,0.29136,200,630,0.25585,0.32687
-2007,First Stage of Tertiary Education,female,Never,0.47114,284,630,0.43213,0.51015
-2007,Second Stage of Tertiary Education,male,At least once per week,0.13428,332,2391,0.12061,0.14795
-2007,Second Stage of Tertiary Education,male,At least once per month,0.11633,286,2391,0.10347,0.12918
-2007,Second Stage of Tertiary Education,male,Seldom,0.32215,769,2391,0.30342,0.34089
-2007,Second Stage of Tertiary Education,male,Never,0.42044,1004,2391,0.40065,0.44023
-2007,Second Stage of Tertiary Education,female,At least once per week,0.19268,369,1969,0.17525,0.21010
-2007,Second Stage of Tertiary Education,female,At least once per month,0.12862,265,1969,0.11383,0.14341
-2007,Second Stage of Tertiary Education,female,Seldom,0.32448,671,1969,0.30379,0.34516
-2007,Second Stage of Tertiary Education,female,Never,0.34486,664,1969,0.32386,0.36586
-2008,Pre-primary Level,male,At least once per week,0.24022,74,128,0.16592,0.31453
-2008,Pre-primary Level,male,Never,0.19784,54,128,0.12856,0.26713
-2008,Pre-primary Level,female,At least once per week,0.24200,76,183,0.17977,0.30422
-2008,Pre-primary Level,female,At least once per month,0.12130,36,183,0.07387,0.16874
-2008,Pre-primary Level,female,Seldom,0.15097,40,183,0.09895,0.20298
-2008,Pre-primary Level,female,Never,0.10311,31,183,0.05893,0.14729
-2008,Primary Level,male,Never,0.94243,65,65,0.88537,0.99950
+2003,Post-secondary Non-tertiary Level,female,At least once per week,0.17471,117,667,0.14587,0.20355
+2003,Post-secondary Non-tertiary Level,female,At least once per month,0.12437,82,667,0.09931,0.14944
+2003,Post-secondary Non-tertiary Level,female,Seldom,0.32685,219,667,0.29122,0.36247
+2003,Post-secondary Non-tertiary Level,female,Never,0.37407,249,667,0.33732,0.41082
+2003,First Stage of Tertiary Education,male,At least once per week,0.11987,109,969,0.09941,0.14033
+2003,First Stage of Tertiary Education,male,At least once per month,0.08099,81,969,0.06380,0.09818
+2003,First Stage of Tertiary Education,male,Seldom,0.30857,295,969,0.27947,0.33766
+2003,First Stage of Tertiary Education,male,Never,0.49057,484,969,0.45908,0.52206
+2003,First Stage of Tertiary Education,female,At least once per week,0.13880,108,703,0.11323,0.16438
+2003,First Stage of Tertiary Education,female,At least once per month,0.11583,79,703,0.09215,0.13950
+2003,First Stage of Tertiary Education,female,Seldom,0.28069,212,703,0.24745,0.31393
+2003,First Stage of Tertiary Education,female,Never,0.46468,304,703,0.42779,0.50158
+2003,Second Stage of Tertiary Education,male,At least once per week,0.17002,420,2442,0.15512,0.18492
+2003,Second Stage of Tertiary Education,male,At least once per month,0.12939,314,2442,0.11608,0.14271
+2003,Second Stage of Tertiary Education,male,Seldom,0.30695,784,2442,0.28865,0.32524
+2003,Second Stage of Tertiary Education,male,Never,0.39364,924,2442,0.37426,0.41302
+2003,Second Stage of Tertiary Education,female,At least once per week,0.22419,426,1886,0.20536,0.24302
+2003,Second Stage of Tertiary Education,female,At least once per month,0.13752,275,1886,0.12197,0.15306
+2003,Second Stage of Tertiary Education,female,Seldom,0.31574,619,1886,0.29476,0.33672
+2003,Second Stage of Tertiary Education,female,Never,0.32256,566,1886,0.30145,0.34366
+2005,No answer / don't know,male,Seldom,0.23985,45,135,0.16755,0.31215
+2005,No answer / don't know,male,Never,0.64367,90,135,0.56258,0.72476
+2005,No answer / don't know,female,Seldom,0.22884,39,115,0.15172,0.30595
+2005,No answer / don't know,female,Never,0.55303,76,115,0.46176,0.64430
+2005,Pre-primary Level,male,At least once per week,0.22382,82,283,0.17518,0.27247
+2005,Pre-primary Level,male,Seldom,0.23744,75,283,0.18778,0.28711
+2005,Pre-primary Level,male,Never,0.44106,126,283,0.38311,0.49901
+2005,Pre-primary Level,female,At least once per week,0.33505,127,339,0.28473,0.38537
+2005,Pre-primary Level,female,At least once per month,0.14569,44,339,0.10808,0.18330
+2005,Pre-primary Level,female,Seldom,0.24348,76,339,0.19772,0.28923
+2005,Pre-primary Level,female,Never,0.27579,92,339,0.22814,0.32343
+2005,Primary Level,male,Never,0.74834,78,78,0.65140,0.84527
+2005,Primary Level,female,Never,0.90867,129,129,0.85876,0.95858
+2005,Lower Secondary Level,male,At least once per week,0.05990,38,738,0.04277,0.07703
+2005,Lower Secondary Level,male,Seldom,0.18261,140,738,0.15471,0.21050
+2005,Lower Secondary Level,male,Never,0.72983,560,738,0.69777,0.76189
+2005,Lower Secondary Level,female,At least once per week,0.05416,99,1601,0.04307,0.06525
+2005,Lower Secondary Level,female,At least once per month,0.04145,72,1601,0.03168,0.05122
+2005,Lower Secondary Level,female,Seldom,0.18930,310,1601,0.17010,0.20849
+2005,Lower Secondary Level,female,Never,0.71509,1120,1601,0.69298,0.73721
+2005,Upper Secondary Level,male,At least once per week,0.06152,296,4849,0.05475,0.06828
+2005,Upper Secondary Level,male,At least once per month,0.04876,241,4849,0.04270,0.05482
+2005,Upper Secondary Level,male,Seldom,0.25055,1225,4849,0.23835,0.26274
+2005,Upper Secondary Level,male,Never,0.63918,3087,4849,0.62566,0.65269
+2005,Upper Secondary Level,female,At least once per week,0.07407,441,5301,0.06702,0.08112
+2005,Upper Secondary Level,female,At least once per month,0.06757,417,5301,0.06081,0.07432
+2005,Upper Secondary Level,female,Seldom,0.29023,1517,5301,0.27801,0.30245
+2005,Upper Secondary Level,female,Never,0.56813,2926,5301,0.55480,0.58147
+2005,Post-secondary Non-tertiary Level,male,At least once per week,0.09205,39,459,0.06558,0.11853
+2005,Post-secondary Non-tertiary Level,male,At least once per month,0.08805,34,459,0.06210,0.11400
+2005,Post-secondary Non-tertiary Level,male,Seldom,0.31107,149,459,0.26867,0.35346
+2005,Post-secondary Non-tertiary Level,male,Never,0.50883,237,459,0.46304,0.55461
+2005,Post-secondary Non-tertiary Level,female,At least once per week,0.14365,86,658,0.11683,0.17047
+2005,Post-secondary Non-tertiary Level,female,At least once per month,0.10751,71,658,0.08383,0.13120
+2005,Post-secondary Non-tertiary Level,female,Seldom,0.31470,218,658,0.27919,0.35021
+2005,Post-secondary Non-tertiary Level,female,Never,0.43414,283,658,0.39624,0.47204
+2005,First Stage of Tertiary Education,male,At least once per week,0.07488,66,886,0.05754,0.09223
+2005,First Stage of Tertiary Education,male,At least once per month,0.07259,66,886,0.05550,0.08969
+2005,First Stage of Tertiary Education,male,Seldom,0.31092,290,886,0.28043,0.34142
+2005,First Stage of Tertiary Education,male,Never,0.54160,464,886,0.50877,0.57443
+2005,First Stage of Tertiary Education,female,At least once per week,0.11306,73,657,0.08883,0.13730
+2005,First Stage of Tertiary Education,female,At least once per month,0.07508,51,657,0.05492,0.09525
+2005,First Stage of Tertiary Education,female,Seldom,0.32133,215,657,0.28560,0.35707
+2005,First Stage of Tertiary Education,female,Never,0.49052,318,657,0.45226,0.52877
+2005,Second Stage of Tertiary Education,male,At least once per week,0.12206,291,2296,0.10867,0.13546
+2005,Second Stage of Tertiary Education,male,At least once per month,0.09364,227,2296,0.08172,0.10556
+2005,Second Stage of Tertiary Education,male,Seldom,0.35050,822,2296,0.33098,0.37002
+2005,Second Stage of Tertiary Education,male,Never,0.43379,956,2296,0.41352,0.45407
+2005,Second Stage of Tertiary Education,female,At least once per week,0.17443,317,1843,0.15710,0.19176
+2005,Second Stage of Tertiary Education,female,At least once per month,0.14113,249,1843,0.12524,0.15703
+2005,Second Stage of Tertiary Education,female,Seldom,0.33754,654,1843,0.31595,0.35914
+2005,Second Stage of Tertiary Education,female,Never,0.34689,623,1843,0.32516,0.36863
+2007,No answer / don't know,male,Seldom,0.26469,43,134,0.18971,0.33967
+2007,No answer / don't know,male,Never,0.57035,91,134,0.48622,0.65448
+2007,No answer / don't know,female,Seldom,0.27798,39,126,0.19944,0.35652
+2007,No answer / don't know,female,Never,0.54156,87,126,0.45421,0.62891
+2007,Pre-primary Level,male,At least once per week,0.19473,41,145,0.13005,0.25941
+2007,Pre-primary Level,male,Seldom,0.24677,37,145,0.17636,0.31719
+2007,Pre-primary Level,male,Never,0.48333,67,145,0.40171,0.56495
+2007,Pre-primary Level,female,At least once per week,0.37804,74,150,0.30018,0.45590
+2007,Pre-primary Level,female,Seldom,0.23273,43,150,0.16488,0.30058
+2007,Pre-primary Level,female,Never,0.20203,33,150,0.13756,0.26650
+2007,Primary Level,male,Never,0.86366,65,65,0.77959,0.94773
+2007,Primary Level,female,Never,0.88569,121,121,0.82876,0.94262
+2007,Lower Secondary Level,male,At least once per week,0.04289,37,650,0.02730,0.05848
+2007,Lower Secondary Level,male,Seldom,0.16246,115,650,0.13408,0.19084
+2007,Lower Secondary Level,male,Never,0.75631,498,650,0.72328,0.78934
+2007,Lower Secondary Level,female,At least once per week,0.05498,96,1497,0.04343,0.06653
+2007,Lower Secondary Level,female,At least once per month,0.03555,65,1497,0.02616,0.04493
+2007,Lower Secondary Level,female,Seldom,0.15150,236,1497,0.13333,0.16967
+2007,Lower Secondary Level,female,Never,0.75798,1100,1497,0.73627,0.77968
+2007,Upper Secondary Level,male,At least once per week,0.06102,319,4850,0.05428,0.06776
+2007,Upper Secondary Level,male,At least once per month,0.04230,226,4850,0.03663,0.04796
+2007,Upper Secondary Level,male,Seldom,0.23064,1134,4850,0.21878,0.24250
+2007,Upper Secondary Level,male,Never,0.66604,3171,4850,0.65277,0.67932
+2007,Upper Secondary Level,female,At least once per week,0.09111,528,5362,0.08341,0.09882
+2007,Upper Secondary Level,female,At least once per month,0.06929,422,5362,0.06249,0.07609
+2007,Upper Secondary Level,female,Seldom,0.25646,1405,5362,0.24477,0.26815
+2007,Upper Secondary Level,female,Never,0.58314,3007,5362,0.56994,0.59634
+2007,Post-secondary Non-tertiary Level,male,At least once per week,0.09106,44,460,0.06474,0.11738
+2007,Post-secondary Non-tertiary Level,male,At least once per month,0.08374,34,460,0.05840,0.10908
+2007,Post-secondary Non-tertiary Level,male,Seldom,0.27263,129,460,0.23189,0.31337
+2007,Post-secondary Non-tertiary Level,male,Never,0.55256,253,460,0.50707,0.59805
+2007,Post-secondary Non-tertiary Level,female,At least once per week,0.13116,92,701,0.10615,0.15616
+2007,Post-secondary Non-tertiary Level,female,At least once per month,0.11123,78,701,0.08793,0.13452
+2007,Post-secondary Non-tertiary Level,female,Seldom,0.30248,221,701,0.26846,0.33651
+2007,Post-secondary Non-tertiary Level,female,Never,0.45513,310,701,0.41824,0.49202
+2007,First Stage of Tertiary Education,male,At least once per week,0.10018,87,894,0.08048,0.11987
+2007,First Stage of Tertiary Education,male,At least once per month,0.07631,63,894,0.05890,0.09372
+2007,First Stage of Tertiary Education,male,Seldom,0.29985,261,894,0.26979,0.32990
+2007,First Stage of Tertiary Education,male,Never,0.52367,483,894,0.49091,0.55643
+2007,First Stage of Tertiary Education,female,At least once per week,0.12780,81,630,0.10171,0.15389
+2007,First Stage of Tertiary Education,female,At least once per month,0.10135,65,630,0.07777,0.12494
+2007,First Stage of Tertiary Education,female,Seldom,0.29455,200,630,0.25892,0.33017
+2007,First Stage of Tertiary Education,female,Never,0.47630,284,630,0.43727,0.51533
+2007,Second Stage of Tertiary Education,male,At least once per week,0.13520,332,2391,0.12149,0.14891
+2007,Second Stage of Tertiary Education,male,At least once per month,0.11712,286,2391,0.10423,0.13002
+2007,Second Stage of Tertiary Education,male,Seldom,0.32436,769,2391,0.30559,0.34313
+2007,Second Stage of Tertiary Education,male,Never,0.42332,1004,2391,0.40351,0.44313
+2007,Second Stage of Tertiary Education,female,At least once per week,0.19450,369,1969,0.17701,0.21198
+2007,Second Stage of Tertiary Education,female,At least once per month,0.12984,265,1969,0.11499,0.14469
+2007,Second Stage of Tertiary Education,female,Seldom,0.32754,671,1969,0.30681,0.34828
+2007,Second Stage of Tertiary Education,female,Never,0.34812,664,1969,0.32708,0.36917
+2008,No answer / don't know,male,Seldom,0.23542,34,123,0.16014,0.31071
+2008,No answer / don't know,male,Never,0.52922,89,123,0.44064,0.61779
+2008,No answer / don't know,female,At least once per week,0.13926,33,150,0.08366,0.19485
+2008,No answer / don't know,female,Seldom,0.20546,32,150,0.14058,0.27034
+2008,No answer / don't know,female,Never,0.56803,85,150,0.48849,0.64757
+2008,Pre-primary Level,male,At least once per week,0.42648,74,128,0.34046,0.51249
+2008,Pre-primary Level,male,Never,0.35123,54,128,0.26821,0.43425
+2008,Pre-primary Level,female,At least once per week,0.39198,76,183,0.32105,0.46290
+2008,Pre-primary Level,female,At least once per month,0.19648,36,183,0.13876,0.25421
+2008,Pre-primary Level,female,Seldom,0.24453,40,183,0.18209,0.30698
+2008,Pre-primary Level,female,Never,0.16701,31,183,0.11282,0.22120
+2008,Primary Level,male,Never,0.94426,65,65,0.88805,1.00047
 2008,Primary Level,female,Never,0.83104,94,94,0.75488,0.90720
-2008,Lower Secondary Level,male,At least once per week,0.09251,69,603,0.06936,0.11566
-2008,Lower Secondary Level,male,Seldom,0.13905,107,603,0.11141,0.16669
-2008,Lower Secondary Level,male,Never,0.68718,427,603,0.65014,0.72422
-2008,Lower Secondary Level,female,At least once per week,0.05811,91,1373,0.04573,0.07049
-2008,Lower Secondary Level,female,At least once per month,0.04794,80,1373,0.03663,0.05924
-2008,Lower Secondary Level,female,Seldom,0.16652,235,1373,0.14681,0.18623
-2008,Lower Secondary Level,female,Never,0.69647,967,1373,0.67214,0.72080
-2008,Upper Secondary Level,male,At least once per week,0.09077,408,4586,0.08245,0.09909
-2008,Upper Secondary Level,male,At least once per month,0.05849,268,4586,0.05170,0.06529
-2008,Upper Secondary Level,male,Seldom,0.21558,1034,4586,0.20367,0.22748
-2008,Upper Secondary Level,male,Never,0.62947,2876,4586,0.61549,0.64345
-2008,Upper Secondary Level,female,At least once per week,0.10388,588,5095,0.09550,0.11226
-2008,Upper Secondary Level,female,At least once per month,0.08556,469,5095,0.07788,0.09324
-2008,Upper Secondary Level,female,Seldom,0.27056,1367,5095,0.25836,0.28276
-2008,Upper Secondary Level,female,Never,0.53046,2671,5095,0.51676,0.54417
-2008,Post-secondary Non-tertiary Level,male,At least once per week,0.13649,57,433,0.10411,0.16886
-2008,Post-secondary Non-tertiary Level,male,At least once per month,0.08062,37,433,0.05494,0.10629
-2008,Post-secondary Non-tertiary Level,male,Seldom,0.30320,117,433,0.25985,0.34654
-2008,Post-secondary Non-tertiary Level,male,Never,0.47808,222,433,0.43097,0.52518
-2008,Post-secondary Non-tertiary Level,female,At least once per week,0.17043,116,654,0.14159,0.19927
-2008,Post-secondary Non-tertiary Level,female,At least once per month,0.14059,83,654,0.11393,0.16725
-2008,Post-secondary Non-tertiary Level,female,Seldom,0.31090,203,654,0.27540,0.34641
-2008,Post-secondary Non-tertiary Level,female,Never,0.37564,252,654,0.33850,0.41279
-2008,First Stage of Tertiary Education,male,At least once per week,0.13371,100,828,0.11051,0.15690
-2008,First Stage of Tertiary Education,male,At least once per month,0.07903,58,828,0.06064,0.09741
-2008,First Stage of Tertiary Education,male,Seldom,0.29537,240,828,0.26428,0.32646
-2008,First Stage of Tertiary Education,male,Never,0.48326,430,828,0.44920,0.51732
-2008,First Stage of Tertiary Education,female,At least once per week,0.19072,114,583,0.15880,0.22264
-2008,First Stage of Tertiary Education,female,At least once per month,0.12640,68,583,0.09941,0.15340
-2008,First Stage of Tertiary Education,female,Seldom,0.30031,180,583,0.26307,0.33756
-2008,First Stage of Tertiary Education,female,Never,0.38214,221,583,0.34267,0.42162
-2008,Second Stage of Tertiary Education,male,At least once per week,0.18537,426,2287,0.16944,0.20130
-2008,Second Stage of Tertiary Education,male,At least once per month,0.11099,253,2287,0.09812,0.12387
-2008,Second Stage of Tertiary Education,male,Seldom,0.29126,695,2287,0.27263,0.30988
-2008,Second Stage of Tertiary Education,male,Never,0.40806,913,2287,0.38791,0.42821
-2008,Second Stage of Tertiary Education,female,At least once per week,0.23261,433,1895,0.21359,0.25164
-2008,Second Stage of Tertiary Education,female,At least once per month,0.15889,312,1895,0.14242,0.17535
-2008,Second Stage of Tertiary Education,female,Seldom,0.31582,600,1895,0.29489,0.33675
-2008,Second Stage of Tertiary Education,female,Never,0.29092,550,1895,0.27047,0.31138
-2009,Pre-primary Level,male,At least once per week,0.15006,51,149,0.09252,0.20759
-2009,Pre-primary Level,male,Seldom,0.11715,42,149,0.06534,0.16896
-2009,Pre-primary Level,male,Never,0.28469,56,149,0.21198,0.35739
-2009,Pre-primary Level,female,At least once per week,0.24521,58,89,0.15532,0.33509
-2009,Pre-primary Level,female,Seldom,0.19349,31,89,0.11095,0.27603
+2008,Lower Secondary Level,male,At least once per week,0.09557,69,603,0.07208,0.11905
+2008,Lower Secondary Level,male,Seldom,0.14364,107,603,0.11562,0.17166
+2008,Lower Secondary Level,male,Never,0.70988,427,603,0.67362,0.74613
+2008,Lower Secondary Level,female,At least once per week,0.05997,91,1373,0.04740,0.07253
+2008,Lower Secondary Level,female,At least once per month,0.04947,80,1373,0.03799,0.06094
+2008,Lower Secondary Level,female,Seldom,0.17184,235,1373,0.15188,0.19180
+2008,Lower Secondary Level,female,Never,0.71872,967,1373,0.69493,0.74252
+2008,Upper Secondary Level,male,At least once per week,0.09129,408,4586,0.08295,0.09963
+2008,Upper Secondary Level,male,At least once per month,0.05883,268,4586,0.05202,0.06564
+2008,Upper Secondary Level,male,Seldom,0.21681,1034,4586,0.20488,0.22874
+2008,Upper Secondary Level,male,Never,0.63307,2876,4586,0.61912,0.64702
+2008,Upper Secondary Level,female,At least once per week,0.10488,588,5095,0.09647,0.11330
+2008,Upper Secondary Level,female,At least once per month,0.08638,469,5095,0.07867,0.09410
+2008,Upper Secondary Level,female,Seldom,0.27316,1367,5095,0.26093,0.28540
+2008,Upper Secondary Level,female,Never,0.53557,2671,5095,0.52187,0.54927
+2008,Post-secondary Non-tertiary Level,male,At least once per week,0.13671,57,433,0.10431,0.16910
+2008,Post-secondary Non-tertiary Level,male,At least once per month,0.08075,37,433,0.05506,0.10644
+2008,Post-secondary Non-tertiary Level,male,Seldom,0.30369,117,433,0.26033,0.34705
+2008,Post-secondary Non-tertiary Level,male,Never,0.47885,222,433,0.43175,0.52596
+2008,Post-secondary Non-tertiary Level,female,At least once per week,0.17085,116,654,0.14198,0.19972
+2008,Post-secondary Non-tertiary Level,female,At least once per month,0.14093,83,654,0.11424,0.16762
+2008,Post-secondary Non-tertiary Level,female,Seldom,0.31166,203,654,0.27613,0.34719
+2008,Post-secondary Non-tertiary Level,female,Never,0.37656,252,654,0.33939,0.41372
+2008,First Stage of Tertiary Education,male,At least once per week,0.13487,100,828,0.11159,0.15815
+2008,First Stage of Tertiary Education,male,At least once per month,0.07972,58,828,0.06126,0.09818
+2008,First Stage of Tertiary Education,male,Seldom,0.29794,240,828,0.26677,0.32911
+2008,First Stage of Tertiary Education,male,Never,0.48747,430,828,0.45340,0.52154
+2008,First Stage of Tertiary Education,female,At least once per week,0.19080,114,583,0.15888,0.22272
+2008,First Stage of Tertiary Education,female,At least once per month,0.12646,68,583,0.09945,0.15346
+2008,First Stage of Tertiary Education,female,Seldom,0.30044,180,583,0.26319,0.33769
+2008,First Stage of Tertiary Education,female,Never,0.38230,221,583,0.34282,0.42178
+2008,Second Stage of Tertiary Education,male,At least once per week,0.18617,426,2287,0.17022,0.20213
+2008,Second Stage of Tertiary Education,male,At least once per month,0.11147,253,2287,0.09857,0.12438
+2008,Second Stage of Tertiary Education,male,Seldom,0.29252,695,2287,0.27387,0.31117
+2008,Second Stage of Tertiary Education,male,Never,0.40983,913,2287,0.38967,0.42999
+2008,Second Stage of Tertiary Education,female,At least once per week,0.23302,433,1895,0.21398,0.25206
+2008,Second Stage of Tertiary Education,female,At least once per month,0.15917,312,1895,0.14269,0.17564
+2008,Second Stage of Tertiary Education,female,Seldom,0.31638,600,1895,0.29543,0.33732
+2008,Second Stage of Tertiary Education,female,Never,0.29143,550,1895,0.27097,0.31190
+2009,No answer / don't know,male,Seldom,0.20047,38,134,0.13243,0.26851
+2009,No answer / don't know,male,Never,0.61892,96,134,0.53638,0.70146
+2009,No answer / don't know,female,Seldom,0.29028,44,109,0.20468,0.37589
+2009,No answer / don't know,female,Never,0.42675,65,109,0.33346,0.52003
+2009,Pre-primary Level,male,At least once per week,0.24478,51,149,0.17551,0.31405
+2009,Pre-primary Level,male,Seldom,0.19110,42,149,0.12776,0.25445
+2009,Pre-primary Level,male,Never,0.46441,56,149,0.38406,0.54476
+2009,Pre-primary Level,female,At least once per week,0.38545,58,89,0.28376,0.48714
+2009,Pre-primary Level,female,Seldom,0.30415,31,89,0.20803,0.40027
 2009,Primary Level,male,Never,0.87386,54,54,0.78447,0.96324
-2009,Primary Level,female,Never,0.83149,80,80,0.74894,0.91403
-2009,Lower Secondary Level,male,At least once per week,0.06965,36,520,0.04775,0.09155
-2009,Lower Secondary Level,male,Seldom,0.16850,106,520,0.13630,0.20070
-2009,Lower Secondary Level,male,Never,0.66937,378,520,0.62890,0.70985
-2009,Lower Secondary Level,female,At least once per week,0.05174,73,1218,0.03929,0.06418
-2009,Lower Secondary Level,female,At least once per month,0.06202,67,1218,0.04847,0.07557
-2009,Lower Secondary Level,female,Seldom,0.15656,225,1218,0.13614,0.17697
-2009,Lower Secondary Level,female,Never,0.70105,853,1218,0.67533,0.72677
-2009,Upper Secondary Level,male,At least once per week,0.07279,310,4240,0.06497,0.08061
-2009,Upper Secondary Level,male,At least once per month,0.05190,209,4240,0.04522,0.05858
-2009,Upper Secondary Level,male,Seldom,0.24020,1038,4240,0.22734,0.25306
-2009,Upper Secondary Level,male,Never,0.62293,2683,4240,0.60834,0.63752
-2009,Upper Secondary Level,female,At least once per week,0.08774,438,4737,0.07968,0.09580
-2009,Upper Secondary Level,female,At least once per month,0.07326,350,4737,0.06584,0.08068
-2009,Upper Secondary Level,female,Seldom,0.27281,1344,4737,0.26013,0.28550
-2009,Upper Secondary Level,female,Never,0.54810,2605,4737,0.53392,0.56227
-2009,Post-secondary Non-tertiary Level,male,At least once per week,0.13274,46,358,0.09755,0.16794
-2009,Post-secondary Non-tertiary Level,male,Seldom,0.32347,107,358,0.27494,0.37199
-2009,Post-secondary Non-tertiary Level,male,Never,0.44976,205,358,0.39815,0.50136
-2009,Post-secondary Non-tertiary Level,female,At least once per week,0.09830,73,601,0.07448,0.12213
-2009,Post-secondary Non-tertiary Level,female,At least once per month,0.13515,72,601,0.10779,0.16250
-2009,Post-secondary Non-tertiary Level,female,Seldom,0.29455,189,601,0.25808,0.33103
-2009,Post-secondary Non-tertiary Level,female,Never,0.45792,267,601,0.41805,0.49778
-2009,First Stage of Tertiary Education,male,At least once per week,0.10718,71,776,0.08540,0.12896
-2009,First Stage of Tertiary Education,male,At least once per month,0.06857,50,776,0.05078,0.08637
-2009,First Stage of Tertiary Education,male,Seldom,0.30147,237,776,0.26916,0.33378
-2009,First Stage of Tertiary Education,male,Never,0.50549,418,776,0.47029,0.54069
-2009,First Stage of Tertiary Education,female,At least once per week,0.16220,86,543,0.13117,0.19324
-2009,First Stage of Tertiary Education,female,At least once per month,0.08308,57,543,0.05984,0.10632
-2009,First Stage of Tertiary Education,female,Seldom,0.31826,160,543,0.27904,0.35747
-2009,First Stage of Tertiary Education,female,Never,0.43094,240,543,0.38925,0.47263
-2009,Second Stage of Tertiary Education,male,At least once per week,0.13560,319,2173,0.12120,0.15000
-2009,Second Stage of Tertiary Education,male,At least once per month,0.11060,226,2173,0.09741,0.12379
-2009,Second Stage of Tertiary Education,male,Seldom,0.34663,711,2173,0.32662,0.36665
-2009,Second Stage of Tertiary Education,male,Never,0.39809,917,2173,0.37751,0.41868
-2009,Second Stage of Tertiary Education,female,At least once per week,0.20097,366,1829,0.18260,0.21934
-2009,Second Stage of Tertiary Education,female,At least once per month,0.11489,208,1829,0.10027,0.12951
-2009,Second Stage of Tertiary Education,female,Seldom,0.34155,640,1829,0.31981,0.36329
-2009,Second Stage of Tertiary Education,female,Never,0.33000,615,1829,0.30844,0.35155
-2011,Pre-primary Level,male,At least once per week,0.14325,68,214,0.09620,0.19030
-2011,Pre-primary Level,male,Seldom,0.13173,46,214,0.08631,0.17715
-2011,Pre-primary Level,male,Never,0.20350,100,214,0.14943,0.25757
-2011,Pre-primary Level,female,At least once per week,0.25365,101,239,0.19837,0.30893
-2011,Pre-primary Level,female,At least once per month,0.10584,39,239,0.06676,0.14493
-2011,Pre-primary Level,female,Seldom,0.08831,38,239,0.05226,0.12436
-2011,Pre-primary Level,female,Never,0.15934,61,239,0.11284,0.20583
+2009,Primary Level,female,Never,0.84167,80,80,0.76116,0.92217
+2009,Lower Secondary Level,male,At least once per week,0.07308,36,520,0.05069,0.09548
+2009,Lower Secondary Level,male,Seldom,0.17682,106,520,0.14399,0.20964
+2009,Lower Secondary Level,male,Never,0.70241,378,520,0.66308,0.74175
+2009,Lower Secondary Level,female,At least once per week,0.05326,73,1218,0.04065,0.06588
+2009,Lower Secondary Level,female,At least once per month,0.06385,67,1218,0.05011,0.07759
+2009,Lower Secondary Level,female,Seldom,0.16117,225,1218,0.14051,0.18183
+2009,Lower Secondary Level,female,Never,0.72171,853,1218,0.69653,0.74689
+2009,Upper Secondary Level,male,At least once per week,0.07369,310,4240,0.06582,0.08155
+2009,Upper Secondary Level,male,At least once per month,0.05254,209,4240,0.04582,0.05926
+2009,Upper Secondary Level,male,Seldom,0.24316,1038,4240,0.23025,0.25608
+2009,Upper Secondary Level,male,Never,0.63061,2683,4240,0.61608,0.64514
+2009,Upper Secondary Level,female,At least once per week,0.08936,438,4737,0.08123,0.09748
+2009,Upper Secondary Level,female,At least once per month,0.07461,350,4737,0.06712,0.08209
+2009,Upper Secondary Level,female,Seldom,0.27784,1344,4737,0.26508,0.29060
+2009,Upper Secondary Level,female,Never,0.55820,2605,4737,0.54405,0.57234
+2009,Post-secondary Non-tertiary Level,male,At least once per week,0.13497,46,358,0.09952,0.17041
+2009,Post-secondary Non-tertiary Level,male,Seldom,0.32889,107,358,0.28015,0.37763
+2009,Post-secondary Non-tertiary Level,male,Never,0.45730,205,358,0.40562,0.50898
+2009,Post-secondary Non-tertiary Level,female,At least once per week,0.09971,73,601,0.07573,0.12368
+2009,Post-secondary Non-tertiary Level,female,At least once per month,0.13708,72,601,0.10956,0.16460
+2009,Post-secondary Non-tertiary Level,female,Seldom,0.29876,189,601,0.26213,0.33538
+2009,Post-secondary Non-tertiary Level,female,Never,0.46446,267,601,0.42455,0.50436
+2009,First Stage of Tertiary Education,male,At least once per week,0.10906,71,776,0.08712,0.13101
+2009,First Stage of Tertiary Education,male,At least once per month,0.06978,50,776,0.05184,0.08772
+2009,First Stage of Tertiary Education,male,Seldom,0.30677,237,776,0.27430,0.33924
+2009,First Stage of Tertiary Education,male,Never,0.51438,418,776,0.47920,0.54957
+2009,First Stage of Tertiary Education,female,At least once per week,0.16310,86,543,0.13200,0.19421
+2009,First Stage of Tertiary Education,female,At least once per month,0.08354,57,543,0.06025,0.10684
+2009,First Stage of Tertiary Education,female,Seldom,0.32002,160,543,0.28075,0.35930
+2009,First Stage of Tertiary Education,female,Never,0.43333,240,543,0.39161,0.47505
+2009,Second Stage of Tertiary Education,male,At least once per week,0.13684,319,2173,0.12239,0.15130
+2009,Second Stage of Tertiary Education,male,At least once per month,0.11161,226,2173,0.09837,0.12486
+2009,Second Stage of Tertiary Education,male,Seldom,0.34980,711,2173,0.32975,0.36986
+2009,Second Stage of Tertiary Education,male,Never,0.40174,917,2173,0.38112,0.42236
+2009,Second Stage of Tertiary Education,female,At least once per week,0.20354,366,1829,0.18508,0.22199
+2009,Second Stage of Tertiary Education,female,At least once per month,0.11636,208,1829,0.10166,0.13106
+2009,Second Stage of Tertiary Education,female,Seldom,0.34590,640,1829,0.32410,0.36771
+2009,Second Stage of Tertiary Education,female,Never,0.33421,615,1829,0.31258,0.35583
+2011,No answer / don't know,male,At least once per week,0.07568,40,320,0.04666,0.10471
+2011,No answer / don't know,male,Seldom,0.16822,58,320,0.12717,0.20927
+2011,No answer / don't know,male,Never,0.69793,222,320,0.64754,0.74832
+2011,No answer / don't know,female,At least once per week,0.16440,41,219,0.11520,0.21360
+2011,No answer / don't know,female,Seldom,0.16398,46,219,0.11483,0.21313
+2011,No answer / don't know,female,Never,0.52887,132,219,0.46261,0.59513
+2011,Pre-primary Level,male,At least once per week,0.26592,68,214,0.20659,0.32526
+2011,Pre-primary Level,male,Seldom,0.24454,46,214,0.18682,0.30227
+2011,Pre-primary Level,male,Never,0.37777,100,214,0.31266,0.44288
+2011,Pre-primary Level,female,At least once per week,0.41778,101,239,0.35512,0.48044
+2011,Pre-primary Level,female,At least once per month,0.17433,39,239,0.12613,0.22253
+2011,Pre-primary Level,female,Seldom,0.14545,38,239,0.10066,0.19024
+2011,Pre-primary Level,female,Never,0.26244,61,239,0.20654,0.31833
 2011,Primary Level,male,Never,0.87041,139,139,0.81438,0.92645
 2011,Primary Level,female,Never,0.85719,202,202,0.80882,0.90556
-2011,Lower Secondary Level,male,At least once per week,0.04436,52,900,0.03090,0.05782
-2011,Lower Secondary Level,male,Seldom,0.14844,138,900,0.12520,0.17168
-2011,Lower Secondary Level,male,Never,0.72162,710,900,0.69232,0.75092
-2011,Lower Secondary Level,female,At least once per week,0.05862,128,1998,0.04832,0.06892
-2011,Lower Secondary Level,female,At least once per month,0.03187,81,1998,0.02416,0.03957
-2011,Lower Secondary Level,female,Seldom,0.14514,313,1998,0.12970,0.16059
-2011,Lower Secondary Level,female,Never,0.73395,1476,1998,0.71457,0.75333
-2011,Upper Secondary Level,male,At least once per week,0.07684,475,6127,0.07017,0.08351
-2011,Upper Secondary Level,male,At least once per month,0.04361,271,6127,0.03850,0.04872
-2011,Upper Secondary Level,male,Seldom,0.21961,1272,6127,0.20924,0.22998
-2011,Upper Secondary Level,male,Never,0.64992,4109,6127,0.63798,0.66187
-2011,Upper Secondary Level,female,At least once per week,0.10509,801,7700,0.09824,0.11194
-2011,Upper Secondary Level,female,At least once per month,0.07385,569,7700,0.06801,0.07969
-2011,Upper Secondary Level,female,Seldom,0.24560,1817,7700,0.23598,0.25521
-2011,Upper Secondary Level,female,Never,0.56757,4513,7700,0.55650,0.57864
-2011,Post-secondary Non-tertiary Level,male,At least once per week,0.15102,93,661,0.12371,0.17834
-2011,Post-secondary Non-tertiary Level,male,At least once per month,0.09219,46,661,0.07012,0.11426
-2011,Post-secondary Non-tertiary Level,male,Seldom,0.29006,164,661,0.25544,0.32468
-2011,Post-secondary Non-tertiary Level,male,Never,0.44698,358,661,0.40905,0.48491
-2011,Post-secondary Non-tertiary Level,female,At least once per week,0.15978,210,1329,0.14008,0.17949
-2011,Post-secondary Non-tertiary Level,female,At least once per month,0.09643,117,1329,0.08056,0.11231
-2011,Post-secondary Non-tertiary Level,female,Seldom,0.29693,384,1329,0.27235,0.32150
-2011,Post-secondary Non-tertiary Level,female,Never,0.43840,618,1329,0.41172,0.46509
-2011,First Stage of Tertiary Education,male,At least once per week,0.11931,135,1138,0.10047,0.13816
-2011,First Stage of Tertiary Education,male,At least once per month,0.06886,69,1138,0.05414,0.08358
-2011,First Stage of Tertiary Education,male,Seldom,0.27556,298,1138,0.24959,0.30153
-2011,First Stage of Tertiary Education,male,Never,0.53048,636,1138,0.50147,0.55949
-2011,First Stage of Tertiary Education,female,At least once per week,0.18220,133,703,0.15364,0.21075
-2011,First Stage of Tertiary Education,female,At least once per month,0.07360,61,703,0.05428,0.09292
-2011,First Stage of Tertiary Education,female,Seldom,0.26020,210,703,0.22775,0.29266
-2011,First Stage of Tertiary Education,female,Never,0.46206,299,703,0.42518,0.49894
-2011,Second Stage of Tertiary Education,male,At least once per week,0.15181,508,3194,0.13936,0.16426
-2011,Second Stage of Tertiary Education,male,At least once per month,0.10585,305,3194,0.09518,0.11652
-2011,Second Stage of Tertiary Education,male,Seldom,0.29274,908,3194,0.27695,0.30852
-2011,Second Stage of Tertiary Education,male,Never,0.44575,1473,3194,0.42851,0.46299
-2011,Second Stage of Tertiary Education,female,At least once per week,0.21067,632,2995,0.19606,0.22528
-2011,Second Stage of Tertiary Education,female,At least once per month,0.11315,326,2995,0.10180,0.12450
-2011,Second Stage of Tertiary Education,female,Seldom,0.30546,939,2995,0.28896,0.32196
-2011,Second Stage of Tertiary Education,female,Never,0.36570,1098,2995,0.34845,0.38295
-2013,Pre-primary Level,male,At least once per week,0.12449,78,190,0.07742,0.17156
-2013,Pre-primary Level,male,Seldom,0.10206,52,190,0.05890,0.14522
-2013,Pre-primary Level,male,Never,0.12077,60,190,0.07431,0.16722
-2013,Pre-primary Level,female,At least once per week,0.28137,129,232,0.22338,0.33936
-2013,Pre-primary Level,female,At least once per month,0.05939,32,232,0.02891,0.08987
-2013,Pre-primary Level,female,Seldom,0.07004,34,232,0.03713,0.10295
-2013,Pre-primary Level,female,Never,0.06265,37,232,0.03140,0.09391
-2013,Primary Level,male,Never,0.51218,106,106,0.41657,0.60779
-2013,Primary Level,female,Never,0.45188,127,127,0.36498,0.53878
-2013,Lower Secondary Level,male,At least once per week,0.06274,106,869,0.04661,0.07887
-2013,Lower Secondary Level,male,At least once per month,0.04422,60,869,0.03054,0.05789
-2013,Lower Secondary Level,male,Seldom,0.13645,154,869,0.11362,0.15929
-2013,Lower Secondary Level,male,Never,0.49680,549,869,0.46353,0.53006
-2013,Lower Secondary Level,female,At least once per week,0.07894,195,1715,0.06617,0.09170
-2013,Lower Secondary Level,female,At least once per month,0.05286,129,1715,0.04226,0.06345
-2013,Lower Secondary Level,female,Seldom,0.16418,340,1715,0.14664,0.18172
-2013,Lower Secondary Level,female,Never,0.56264,1051,1715,0.53916,0.58613
-2013,Upper Secondary Level,male,At least once per week,0.09557,599,5437,0.08776,0.10339
-2013,Upper Secondary Level,male,At least once per month,0.06498,391,5437,0.05843,0.07153
-2013,Upper Secondary Level,male,Seldom,0.23278,1280,5437,0.22155,0.24402
-2013,Upper Secondary Level,male,Never,0.52694,3167,5437,0.51367,0.54021
-2013,Upper Secondary Level,female,At least once per week,0.12973,1070,6910,0.12181,0.13766
-2013,Upper Secondary Level,female,At least once per month,0.09313,710,6910,0.08628,0.09998
-2013,Upper Secondary Level,female,Seldom,0.24519,1825,6910,0.23504,0.25533
-2013,Upper Secondary Level,female,Never,0.46197,3305,6910,0.45021,0.47372
-2013,Post-secondary Non-tertiary Level,male,At least once per week,0.13252,98,605,0.10548,0.15956
-2013,Post-secondary Non-tertiary Level,male,At least once per month,0.11333,63,605,0.08805,0.13861
-2013,Post-secondary Non-tertiary Level,male,Seldom,0.21137,155,605,0.17881,0.24393
-2013,Post-secondary Non-tertiary Level,male,Never,0.38064,289,605,0.34192,0.41937
-2013,Post-secondary Non-tertiary Level,female,At least once per week,0.18988,271,1163,0.16733,0.21243
-2013,Post-secondary Non-tertiary Level,female,At least once per month,0.10390,139,1163,0.08636,0.12144
-2013,Post-secondary Non-tertiary Level,female,Seldom,0.26385,369,1163,0.23851,0.28919
-2013,Post-secondary Non-tertiary Level,female,Never,0.28470,384,1163,0.25876,0.31065
-2013,First Stage of Tertiary Education,male,At least once per week,0.14595,152,1027,0.12435,0.16756
-2013,First Stage of Tertiary Education,male,At least once per month,0.10067,89,1027,0.08226,0.11909
-2013,First Stage of Tertiary Education,male,Seldom,0.30284,317,1027,0.27473,0.33096
-2013,First Stage of Tertiary Education,male,Never,0.42698,469,1027,0.39672,0.45725
-2013,First Stage of Tertiary Education,female,At least once per week,0.22066,145,639,0.18848,0.25284
-2013,First Stage of Tertiary Education,female,At least once per month,0.08158,72,639,0.06034,0.10282
-2013,First Stage of Tertiary Education,female,Seldom,0.33943,208,639,0.30269,0.37617
-2013,First Stage of Tertiary Education,female,Never,0.34754,214,639,0.31059,0.38450
-2013,Second Stage of Tertiary Education,male,At least once per week,0.20858,696,2964,0.19395,0.22321
-2013,Second Stage of Tertiary Education,male,At least once per month,0.12237,372,2964,0.11057,0.13417
-2013,Second Stage of Tertiary Education,male,Seldom,0.28118,880,2964,0.26499,0.29736
-2013,Second Stage of Tertiary Education,male,Never,0.31093,1016,2964,0.29427,0.32760
-2013,Second Stage of Tertiary Education,female,At least once per week,0.24262,811,2849,0.22688,0.25836
-2013,Second Stage of Tertiary Education,female,At least once per month,0.14370,433,2849,0.13082,0.15658
-2013,Second Stage of Tertiary Education,female,Seldom,0.27092,838,2849,0.25460,0.28725
-2013,Second Stage of Tertiary Education,female,Never,0.24373,767,2849,0.22796,0.25950
-2015,Pre-primary Level,male,At least once per week,0.11920,44,128,0.06285,0.17556
-2015,Pre-primary Level,male,Never,0.32730,84,128,0.24569,0.40891
-2015,Pre-primary Level,female,At least once per week,0.14894,74,206,0.10020,0.19768
-2015,Pre-primary Level,female,At least once per month,0.10552,33,206,0.06346,0.14757
-2015,Pre-primary Level,female,Seldom,0.10000,36,206,0.05893,0.14106
-2015,Pre-primary Level,female,Never,0.16048,63,206,0.11023,0.21072
+2011,Lower Secondary Level,male,At least once per week,0.04665,52,900,0.03287,0.06044
+2011,Lower Secondary Level,male,Seldom,0.15609,138,900,0.13237,0.17982
+2011,Lower Secondary Level,male,Never,0.75884,710,900,0.73088,0.78681
+2011,Lower Secondary Level,female,At least once per week,0.06046,128,1998,0.05001,0.07091
+2011,Lower Secondary Level,female,At least once per month,0.03287,81,1998,0.02505,0.04069
+2011,Lower Secondary Level,female,Seldom,0.14970,313,1998,0.13405,0.16535
+2011,Lower Secondary Level,female,Never,0.75698,1476,1998,0.73816,0.77579
+2011,Upper Secondary Level,male,At least once per week,0.07762,475,6127,0.07092,0.08432
+2011,Upper Secondary Level,male,At least once per month,0.04405,271,6127,0.03891,0.04919
+2011,Upper Secondary Level,male,Seldom,0.22183,1272,6127,0.21143,0.23224
+2011,Upper Secondary Level,male,Never,0.65650,4109,6127,0.64461,0.66839
+2011,Upper Secondary Level,female,At least once per week,0.10592,801,7700,0.09905,0.11280
+2011,Upper Secondary Level,female,At least once per month,0.07444,569,7700,0.06857,0.08030
+2011,Upper Secondary Level,female,Seldom,0.24755,1817,7700,0.23791,0.25719
+2011,Upper Secondary Level,female,Never,0.57209,4513,7700,0.56103,0.58314
+2011,Post-secondary Non-tertiary Level,male,At least once per week,0.15407,93,661,0.12652,0.18161
+2011,Post-secondary Non-tertiary Level,male,At least once per month,0.09404,46,661,0.07178,0.11631
+2011,Post-secondary Non-tertiary Level,male,Seldom,0.29590,164,661,0.26108,0.33073
+2011,Post-secondary Non-tertiary Level,male,Never,0.45599,358,661,0.41799,0.49399
+2011,Post-secondary Non-tertiary Level,female,At least once per week,0.16115,210,1329,0.14137,0.18092
+2011,Post-secondary Non-tertiary Level,female,At least once per month,0.09726,117,1329,0.08132,0.11319
+2011,Post-secondary Non-tertiary Level,female,Seldom,0.29946,384,1329,0.27482,0.32409
+2011,Post-secondary Non-tertiary Level,female,Never,0.44214,618,1329,0.41543,0.46885
+2011,First Stage of Tertiary Education,male,At least once per week,0.12001,135,1138,0.10112,0.13890
+2011,First Stage of Tertiary Education,male,At least once per month,0.06926,69,1138,0.05450,0.08402
+2011,First Stage of Tertiary Education,male,Seldom,0.27717,298,1138,0.25115,0.30318
+2011,First Stage of Tertiary Education,male,Never,0.53357,636,1138,0.50457,0.56257
+2011,First Stage of Tertiary Education,female,At least once per week,0.18628,133,703,0.15748,0.21509
+2011,First Stage of Tertiary Education,female,At least once per month,0.07525,61,703,0.05574,0.09477
+2011,First Stage of Tertiary Education,female,Seldom,0.26604,210,703,0.23335,0.29873
+2011,First Stage of Tertiary Education,female,Never,0.47242,299,703,0.43549,0.50936
+2011,Second Stage of Tertiary Education,male,At least once per week,0.15240,508,3194,0.13993,0.16486
+2011,Second Stage of Tertiary Education,male,At least once per month,0.10626,305,3194,0.09557,0.11695
+2011,Second Stage of Tertiary Education,male,Seldom,0.29387,908,3194,0.27807,0.30967
+2011,Second Stage of Tertiary Education,male,Never,0.44747,1473,3194,0.43023,0.46472
+2011,Second Stage of Tertiary Education,female,At least once per week,0.21173,632,2995,0.19710,0.22637
+2011,Second Stage of Tertiary Education,female,At least once per month,0.11372,326,2995,0.10235,0.12509
+2011,Second Stage of Tertiary Education,female,Seldom,0.30700,939,2995,0.29048,0.32352
+2011,Second Stage of Tertiary Education,female,Never,0.36754,1098,2995,0.35027,0.38481
+2013,No answer / don't know,male,At least once per week,0.16186,52,228,0.11395,0.20978
+2013,No answer / don't know,male,Seldom,0.19654,50,228,0.14485,0.24824
+2013,No answer / don't know,male,Never,0.58611,126,228,0.52204,0.65018
+2013,No answer / don't know,female,At least once per week,0.27152,63,184,0.20709,0.33596
+2013,No answer / don't know,female,Seldom,0.23639,52,184,0.17483,0.29794
+2013,No answer / don't know,female,Never,0.29339,69,184,0.22742,0.35936
+2013,Pre-primary Level,male,At least once per week,0.31349,78,190,0.24735,0.37963
+2013,Pre-primary Level,male,Seldom,0.25702,52,190,0.19471,0.31932
+2013,Pre-primary Level,male,Never,0.30412,60,190,0.23853,0.36971
+2013,Pre-primary Level,female,At least once per week,0.59429,129,232,0.53097,0.65761
+2013,Pre-primary Level,female,At least once per month,0.12545,32,232,0.08273,0.16816
+2013,Pre-primary Level,female,Seldom,0.14793,34,232,0.10215,0.19371
+2013,Pre-primary Level,female,Never,0.13233,37,232,0.08864,0.17603
+2013,Primary Level,male,Never,0.77162,106,106,0.69132,0.85191
+2013,Primary Level,female,Never,0.65943,127,127,0.57669,0.74218
+2013,Lower Secondary Level,male,At least once per week,0.08476,106,869,0.06623,0.10329
+2013,Lower Secondary Level,male,At least once per month,0.05974,60,869,0.04397,0.07550
+2013,Lower Secondary Level,male,Seldom,0.18435,154,869,0.15855,0.21014
+2013,Lower Secondary Level,male,Never,0.67116,549,869,0.63991,0.70241
+2013,Lower Secondary Level,female,At least once per week,0.09194,195,1715,0.07826,0.10562
+2013,Lower Secondary Level,female,At least once per month,0.06156,129,1715,0.05018,0.07294
+2013,Lower Secondary Level,female,Seldom,0.19121,340,1715,0.17260,0.20983
+2013,Lower Secondary Level,female,Never,0.65529,1051,1715,0.63279,0.67779
+2013,Upper Secondary Level,male,At least once per week,0.10385,599,5437,0.09574,0.11196
+2013,Upper Secondary Level,male,At least once per month,0.07061,391,5437,0.06380,0.07742
+2013,Upper Secondary Level,male,Seldom,0.25295,1280,5437,0.24139,0.26450
+2013,Upper Secondary Level,male,Never,0.57259,3167,5437,0.55944,0.58574
+2013,Upper Secondary Level,female,At least once per week,0.13949,1070,6910,0.13132,0.14766
+2013,Upper Secondary Level,female,At least once per month,0.10014,710,6910,0.09306,0.10722
+2013,Upper Secondary Level,female,Seldom,0.26364,1825,6910,0.25325,0.27403
+2013,Upper Secondary Level,female,Never,0.49673,3305,6910,0.48494,0.50852
+2013,Post-secondary Non-tertiary Level,male,At least once per week,0.15817,98,605,0.12906,0.18727
+2013,Post-secondary Non-tertiary Level,male,At least once per month,0.13526,63,605,0.10799,0.16254
+2013,Post-secondary Non-tertiary Level,male,Seldom,0.25227,155,605,0.21764,0.28691
+2013,Post-secondary Non-tertiary Level,male,Never,0.45430,289,605,0.41459,0.49401
+2013,Post-secondary Non-tertiary Level,female,At least once per week,0.22542,271,1163,0.20140,0.24945
+2013,Post-secondary Non-tertiary Level,female,At least once per month,0.12335,139,1163,0.10444,0.14226
+2013,Post-secondary Non-tertiary Level,female,Seldom,0.31323,369,1163,0.28657,0.33990
+2013,Post-secondary Non-tertiary Level,female,Never,0.33800,384,1163,0.31080,0.36519
+2013,First Stage of Tertiary Education,male,At least once per week,0.14947,152,1027,0.12766,0.17129
+2013,First Stage of Tertiary Education,male,At least once per month,0.10310,89,1027,0.08449,0.12171
+2013,First Stage of Tertiary Education,male,Seldom,0.31015,317,1027,0.28184,0.33845
+2013,First Stage of Tertiary Education,male,Never,0.43728,469,1027,0.40693,0.46763
+2013,First Stage of Tertiary Education,female,At least once per week,0.22307,145,639,0.19076,0.25537
+2013,First Stage of Tertiary Education,female,At least once per month,0.08247,72,639,0.06112,0.10381
+2013,First Stage of Tertiary Education,female,Seldom,0.34313,208,639,0.30629,0.37997
+2013,First Stage of Tertiary Education,female,Never,0.35134,214,639,0.31429,0.38838
+2013,Second Stage of Tertiary Education,male,At least once per week,0.22596,696,2964,0.21091,0.24102
+2013,Second Stage of Tertiary Education,male,At least once per month,0.13257,372,2964,0.12036,0.14478
+2013,Second Stage of Tertiary Education,male,Seldom,0.30461,880,2964,0.28804,0.32119
+2013,Second Stage of Tertiary Education,male,Never,0.33685,1016,2964,0.31983,0.35387
+2013,Second Stage of Tertiary Education,female,At least once per week,0.26929,811,2849,0.25299,0.28558
+2013,Second Stage of Tertiary Education,female,At least once per month,0.15949,433,2849,0.14605,0.17294
+2013,Second Stage of Tertiary Education,female,Seldom,0.30070,838,2849,0.28386,0.31754
+2013,Second Stage of Tertiary Education,female,Never,0.27052,767,2849,0.25420,0.28683
+2015,No answer / don't know,male,At least once per week,0.10761,40,307,0.07289,0.14233
+2015,No answer / don't know,male,Seldom,0.15381,53,307,0.11339,0.19424
+2015,No answer / don't know,male,Never,0.70488,214,307,0.65378,0.75599
+2015,No answer / don't know,female,At least once per week,0.16007,53,314,0.11945,0.20069
+2015,No answer / don't know,female,At least once per month,0.12447,33,314,0.08790,0.16105
+2015,No answer / don't know,female,Seldom,0.21891,54,314,0.17310,0.26472
+2015,No answer / don't know,female,Never,0.49655,174,314,0.44116,0.55195
+2015,Pre-primary Level,male,At least once per week,0.21798,44,128,0.14617,0.28979
+2015,Pre-primary Level,male,Never,0.59853,84,128,0.51328,0.68379
+2015,Pre-primary Level,female,At least once per week,0.28924,74,206,0.22717,0.35131
+2015,Pre-primary Level,female,At least once per month,0.20491,33,206,0.14966,0.26017
+2015,Pre-primary Level,female,Seldom,0.19419,36,206,0.14004,0.24835
+2015,Pre-primary Level,female,Never,0.31165,63,206,0.24825,0.37506
 2015,Primary Level,male,Never,0.82725,176,176,0.77124,0.88326
-2015,Primary Level,female,Never,0.83885,266,266,0.79458,0.88312
-2015,Lower Secondary Level,male,At least once per week,0.05966,74,1172,0.04609,0.07322
-2015,Lower Secondary Level,male,At least once per month,0.05007,61,1172,0.03758,0.06256
-2015,Lower Secondary Level,male,Seldom,0.15194,178,1172,0.13138,0.17250
-2015,Lower Secondary Level,male,Never,0.70347,859,1172,0.67731,0.72963
-2015,Lower Secondary Level,female,At least once per week,0.08042,143,1783,0.06780,0.09305
-2015,Lower Secondary Level,female,At least once per month,0.04170,87,1783,0.03242,0.05098
-2015,Lower Secondary Level,female,Seldom,0.13486,272,1783,0.11900,0.15072
-2015,Lower Secondary Level,female,Never,0.71708,1281,1783,0.69617,0.73799
-2015,Upper Secondary Level,male,At least once per week,0.07564,403,5446,0.06862,0.08267
-2015,Upper Secondary Level,male,At least once per month,0.05174,275,5446,0.04586,0.05763
-2015,Upper Secondary Level,male,Seldom,0.20542,1127,5446,0.19469,0.21615
-2015,Upper Secondary Level,male,Never,0.66214,3641,5446,0.64958,0.67470
-2015,Upper Secondary Level,female,At least once per week,0.11778,772,6664,0.11004,0.12552
-2015,Upper Secondary Level,female,At least once per month,0.07290,502,6664,0.06666,0.07914
-2015,Upper Secondary Level,female,Seldom,0.23377,1575,6664,0.22360,0.24393
-2015,Upper Secondary Level,female,Never,0.56687,3815,6664,0.55497,0.57876
-2015,Post-secondary Non-tertiary Level,male,At least once per week,0.09558,70,807,0.07528,0.11588
-2015,Post-secondary Non-tertiary Level,male,At least once per month,0.08333,53,807,0.06425,0.10241
-2015,Post-secondary Non-tertiary Level,male,Seldom,0.27688,193,807,0.24599,0.30777
-2015,Post-secondary Non-tertiary Level,male,Never,0.54248,491,807,0.50809,0.57688
-2015,Post-secondary Non-tertiary Level,female,At least once per week,0.16071,183,1341,0.14104,0.18037
-2015,Post-secondary Non-tertiary Level,female,At least once per month,0.09644,136,1341,0.08064,0.11225
-2015,Post-secondary Non-tertiary Level,female,Seldom,0.25416,358,1341,0.23085,0.27747
-2015,Post-secondary Non-tertiary Level,female,Never,0.48068,664,1341,0.45393,0.50743
-2015,First Stage of Tertiary Education,male,At least once per week,0.09508,98,943,0.07635,0.11381
-2015,First Stage of Tertiary Education,male,At least once per month,0.05280,46,943,0.03852,0.06708
-2015,First Stage of Tertiary Education,male,Seldom,0.28853,255,943,0.25960,0.31746
-2015,First Stage of Tertiary Education,male,Never,0.55683,544,943,0.52511,0.58855
-2015,First Stage of Tertiary Education,female,At least once per week,0.19149,117,581,0.15947,0.22352
-2015,First Stage of Tertiary Education,female,At least once per month,0.11367,59,581,0.08783,0.13950
-2015,First Stage of Tertiary Education,female,Seldom,0.23867,163,581,0.20398,0.27336
-2015,First Stage of Tertiary Education,female,Never,0.45303,242,581,0.41251,0.49354
-2015,Second Stage of Tertiary Education,male,At least once per week,0.18739,546,3184,0.17384,0.20095
-2015,Second Stage of Tertiary Education,male,At least once per month,0.09141,309,3184,0.08139,0.10142
-2015,Second Stage of Tertiary Education,male,Seldom,0.28702,916,3184,0.27131,0.30274
-2015,Second Stage of Tertiary Education,male,Never,0.42844,1413,3184,0.41124,0.44563
-2015,Second Stage of Tertiary Education,female,At least once per week,0.21926,664,3221,0.20497,0.23355
-2015,Second Stage of Tertiary Education,female,At least once per month,0.10933,364,3221,0.09855,0.12011
-2015,Second Stage of Tertiary Education,female,Seldom,0.29979,944,3221,0.28397,0.31562
-2015,Second Stage of Tertiary Education,female,Never,0.37041,1249,3221,0.35373,0.38709
-2017,Pre-primary Level,male,At least once per week,0.12049,43,186,0.07358,0.16740
-2017,Pre-primary Level,male,Seldom,0.15922,47,186,0.10650,0.21195
-2017,Pre-primary Level,male,Never,0.19960,96,186,0.14201,0.25720
-2017,Pre-primary Level,female,At least once per week,0.22277,89,198,0.16466,0.28087
-2017,Pre-primary Level,female,Seldom,0.12762,46,198,0.08103,0.17422
-2017,Pre-primary Level,female,Never,0.17499,63,198,0.12193,0.22804
-2017,Primary Level,male,At least once per week,0.02656,53,928,0.01621,0.03691
-2017,Primary Level,male,At least once per month,0.02832,41,928,0.01764,0.03900
-2017,Primary Level,male,Seldom,0.14152,142,928,0.11908,0.16396
-2017,Primary Level,male,Never,0.79957,692,928,0.77380,0.82534
-2017,Primary Level,female,At least once per week,0.07516,53,941,0.05830,0.09201
-2017,Primary Level,female,At least once per month,0.04708,31,941,0.03354,0.06063
-2017,Primary Level,female,Seldom,0.10666,115,941,0.08693,0.12640
-2017,Primary Level,female,Never,0.76824,742,941,0.74126,0.79521
-2017,Lower Secondary Level,male,At least once per week,0.08751,110,1523,0.07331,0.10171
-2017,Lower Secondary Level,male,At least once per month,0.04977,90,1523,0.03885,0.06070
-2017,Lower Secondary Level,male,Seldom,0.17552,264,1523,0.15640,0.19463
-2017,Lower Secondary Level,male,Never,0.65050,1059,1523,0.62655,0.67446
-2017,Lower Secondary Level,female,At least once per week,0.07992,205,2012,0.06807,0.09178
-2017,Lower Secondary Level,female,At least once per month,0.06231,116,2012,0.05175,0.07288
-2017,Lower Secondary Level,female,Seldom,0.16733,350,2012,0.15102,0.18365
-2017,Lower Secondary Level,female,Never,0.66814,1341,2012,0.64756,0.68872
-2017,Upper Secondary Level,male,At least once per week,0.08551,519,5831,0.07833,0.09269
-2017,Upper Secondary Level,male,At least once per month,0.05689,342,5831,0.05094,0.06283
-2017,Upper Secondary Level,male,Seldom,0.22464,1219,5831,0.21393,0.23536
-2017,Upper Secondary Level,male,Never,0.62808,3751,5831,0.61568,0.64049
-2017,Upper Secondary Level,female,At least once per week,0.12547,877,6861,0.11763,0.13331
-2017,Upper Secondary Level,female,At least once per month,0.08649,587,6861,0.07984,0.09314
-2017,Upper Secondary Level,female,Seldom,0.25270,1719,6861,0.24241,0.26298
-2017,Upper Secondary Level,female,Never,0.52833,3678,6861,0.51652,0.54014
-2017,Post-secondary Non-tertiary Level,male,At least once per week,0.11825,91,873,0.09682,0.13968
-2017,Post-secondary Non-tertiary Level,male,At least once per month,0.07795,59,873,0.06016,0.09575
-2017,Post-secondary Non-tertiary Level,male,Seldom,0.22582,199,873,0.19807,0.25357
-2017,Post-secondary Non-tertiary Level,male,Never,0.57792,524,873,0.54514,0.61070
-2017,Post-secondary Non-tertiary Level,female,At least once per week,0.14662,215,1437,0.12833,0.16492
-2017,Post-secondary Non-tertiary Level,female,At least once per month,0.10597,138,1437,0.09005,0.12189
-2017,Post-secondary Non-tertiary Level,female,Seldom,0.28228,386,1437,0.25900,0.30556
-2017,Post-secondary Non-tertiary Level,female,Never,0.46389,698,1437,0.43810,0.48968
-2017,First Stage of Tertiary Education,male,At least once per week,0.09023,96,936,0.07186,0.10859
-2017,First Stage of Tertiary Education,male,At least once per month,0.09451,69,936,0.07576,0.11326
-2017,First Stage of Tertiary Education,male,Seldom,0.27446,252,936,0.24585,0.30306
-2017,First Stage of Tertiary Education,male,Never,0.54008,519,936,0.50814,0.57203
-2017,First Stage of Tertiary Education,female,At least once per week,0.18411,118,584,0.15265,0.21557
-2017,First Stage of Tertiary Education,female,At least once per month,0.08445,56,584,0.06188,0.10703
-2017,First Stage of Tertiary Education,female,Seldom,0.30788,178,584,0.27040,0.34535
-2017,First Stage of Tertiary Education,female,Never,0.40990,232,584,0.36997,0.44982
-2017,Second Stage of Tertiary Education,male,At least once per week,0.19051,622,3720,0.17789,0.20313
-2017,Second Stage of Tertiary Education,male,At least once per month,0.08620,337,3720,0.07718,0.09522
-2017,Second Stage of Tertiary Education,male,Seldom,0.29022,1061,3720,0.27564,0.30481
-2017,Second Stage of Tertiary Education,male,Never,0.42767,1700,3720,0.41177,0.44357
-2017,Second Stage of Tertiary Education,female,At least once per week,0.23603,787,3511,0.22199,0.25008
-2017,Second Stage of Tertiary Education,female,At least once per month,0.12498,393,3511,0.11404,0.13592
-2017,Second Stage of Tertiary Education,female,Seldom,0.28698,1015,3511,0.27201,0.30194
-2017,Second Stage of Tertiary Education,female,Never,0.34823,1316,3511,0.33247,0.36399
-2018,Primary Level,male,At least once per week,0.01381,36,605,0.00450,0.02311
-2018,Primary Level,male,At least once per month,0.01329,43,605,0.00416,0.02243
-2018,Primary Level,male,Seldom,0.02587,96,605,0.01321,0.03853
-2018,Primary Level,male,Never,0.09747,430,605,0.07381,0.12112
-2018,Primary Level,female,At least once per week,0.00380,34,520,-0.00149,0.00909
-2018,Primary Level,female,At least once per month,0.00333,31,520,-0.00163,0.00828
-2018,Primary Level,female,Seldom,0.01118,64,520,0.00213,0.02023
-2018,Primary Level,female,Never,0.05506,391,520,0.03543,0.07468
-2018,Lower Secondary Level,male,At least once per week,0.00350,33,366,-0.00256,0.00957
-2018,Lower Secondary Level,male,Seldom,0.00353,74,366,-0.00255,0.00962
-2018,Lower Secondary Level,male,Never,0.01339,259,366,0.00160,0.02519
-2018,Lower Secondary Level,female,Seldom,0.00168,47,212,-0.00385,0.00721
-2018,Lower Secondary Level,female,Never,0.00389,165,212,-0.00451,0.01228
-2018,Upper Secondary Level,male,Seldom,0.00069,72,283,-0.00238,0.00376
-2018,Upper Secondary Level,male,Never,0.00209,211,283,-0.00324,0.00742
-2018,Upper Secondary Level,female,Never,0.00123,154,154,-0.00432,0.00677
-2018,Post-secondary Non-tertiary Level,male,Never,0.00198,31,31,-0.01393,0.01789
-2018,Second Stage of Tertiary Education,male,At least once per month,0.00053,31,352,-0.00187,0.00293
-2018,Second Stage of Tertiary Education,male,Seldom,0.00131,75,352,-0.00248,0.00510
-2018,Second Stage of Tertiary Education,male,Never,0.00501,246,352,-0.00238,0.01240
-2018,Second Stage of Tertiary Education,female,Seldom,0.00038,33,163,-0.00264,0.00340
-2018,Second Stage of Tertiary Education,female,Never,0.00207,130,163,-0.00493,0.00907
-2019,Pre-primary Level,male,At least once per week,0.18541,47,147,0.12237,0.24845
-2019,Pre-primary Level,male,Seldom,0.10666,34,147,0.05659,0.15673
-2019,Pre-primary Level,male,Never,0.23235,66,147,0.16385,0.30086
-2019,Pre-primary Level,female,At least once per week,0.34505,86,120,0.25963,0.43046
-2019,Pre-primary Level,female,Seldom,0.08320,34,120,0.03358,0.13282
-2019,Primary Level,male,At least once per week,0.04786,38,796,0.03302,0.06270
-2019,Primary Level,male,At least once per month,0.02865,56,796,0.01705,0.04024
-2019,Primary Level,male,Seldom,0.17906,130,796,0.15240,0.20571
-2019,Primary Level,male,Never,0.72142,572,796,0.69025,0.75258
-2019,Primary Level,female,At least once per week,0.12605,50,729,0.10194,0.15016
-2019,Primary Level,female,At least once per month,0.03691,33,729,0.02322,0.05061
-2019,Primary Level,female,Seldom,0.11139,81,729,0.08854,0.13424
-2019,Primary Level,female,Never,0.71296,565,729,0.68010,0.74582
-2019,Lower Secondary Level,male,At least once per week,0.12563,149,1378,0.10813,0.14314
-2019,Lower Secondary Level,male,At least once per month,0.06039,95,1378,0.04781,0.07297
-2019,Lower Secondary Level,male,Seldom,0.16705,223,1378,0.14735,0.18676
-2019,Lower Secondary Level,male,Never,0.60834,911,1378,0.58256,0.63412
-2019,Lower Secondary Level,female,At least once per week,0.12498,224,1656,0.10905,0.14092
-2019,Lower Secondary Level,female,At least once per month,0.04580,106,1656,0.03573,0.05588
-2019,Lower Secondary Level,female,Seldom,0.18088,296,1656,0.16233,0.19942
-2019,Lower Secondary Level,female,Never,0.61822,1030,1656,0.59481,0.64163
-2019,Upper Secondary Level,male,At least once per week,0.10995,625,5352,0.10157,0.11833
-2019,Upper Secondary Level,male,At least once per month,0.05937,345,5352,0.05303,0.06570
-2019,Upper Secondary Level,male,Seldom,0.21379,1107,5352,0.20281,0.22478
-2019,Upper Secondary Level,male,Never,0.61264,3275,5352,0.59958,0.62569
-2019,Upper Secondary Level,female,At least once per week,0.15948,1046,6264,0.15041,0.16855
-2019,Upper Secondary Level,female,At least once per month,0.08816,585,6264,0.08114,0.09519
-2019,Upper Secondary Level,female,Seldom,0.26047,1564,6264,0.24960,0.27134
-2019,Upper Secondary Level,female,Never,0.48815,3069,6264,0.47577,0.50053
-2019,Post-secondary Non-tertiary Level,male,At least once per week,0.16426,123,876,0.13971,0.18881
-2019,Post-secondary Non-tertiary Level,male,At least once per month,0.08307,86,876,0.06478,0.10136
-2019,Post-secondary Non-tertiary Level,male,Seldom,0.25131,198,876,0.22257,0.28005
-2019,Post-secondary Non-tertiary Level,male,Never,0.49936,469,876,0.46623,0.53249
+2015,Primary Level,female,Never,0.84447,266,266,0.80083,0.88810
+2015,Lower Secondary Level,male,At least once per week,0.06181,74,1172,0.04802,0.07560
+2015,Lower Secondary Level,male,At least once per month,0.05188,61,1172,0.03917,0.06458
+2015,Lower Secondary Level,male,Seldom,0.15743,178,1172,0.13657,0.17829
+2015,Lower Secondary Level,male,Never,0.72888,859,1172,0.70342,0.75435
+2015,Lower Secondary Level,female,At least once per week,0.08256,143,1783,0.06978,0.09534
+2015,Lower Secondary Level,female,At least once per month,0.04281,87,1783,0.03341,0.05221
+2015,Lower Secondary Level,female,Seldom,0.13845,272,1783,0.12242,0.15449
+2015,Lower Secondary Level,female,Never,0.73618,1281,1783,0.71571,0.75664
+2015,Upper Secondary Level,male,At least once per week,0.07603,403,5446,0.06899,0.08307
+2015,Upper Secondary Level,male,At least once per month,0.05200,275,5446,0.04611,0.05790
+2015,Upper Secondary Level,male,Seldom,0.20646,1127,5446,0.19571,0.21722
+2015,Upper Secondary Level,male,Never,0.66550,3641,5446,0.65297,0.67803
+2015,Upper Secondary Level,female,At least once per week,0.11881,772,6664,0.11104,0.12658
+2015,Upper Secondary Level,female,At least once per month,0.07354,502,6664,0.06727,0.07981
+2015,Upper Secondary Level,female,Seldom,0.23582,1575,6664,0.22562,0.24601
+2015,Upper Secondary Level,female,Never,0.57183,3815,6664,0.55995,0.58371
+2015,Post-secondary Non-tertiary Level,male,At least once per week,0.09574,70,807,0.07543,0.11606
+2015,Post-secondary Non-tertiary Level,male,At least once per month,0.08348,53,807,0.06438,0.10257
+2015,Post-secondary Non-tertiary Level,male,Seldom,0.27736,193,807,0.24645,0.30827
+2015,Post-secondary Non-tertiary Level,male,Never,0.54342,491,807,0.50903,0.57781
+2015,Post-secondary Non-tertiary Level,female,At least once per week,0.16201,183,1341,0.14228,0.18173
+2015,Post-secondary Non-tertiary Level,female,At least once per month,0.09722,136,1341,0.08136,0.11309
+2015,Post-secondary Non-tertiary Level,female,Seldom,0.25621,358,1341,0.23284,0.27959
+2015,Post-secondary Non-tertiary Level,female,Never,0.48456,664,1341,0.45780,0.51132
+2015,First Stage of Tertiary Education,male,At least once per week,0.09572,98,943,0.07694,0.11451
+2015,First Stage of Tertiary Education,male,At least once per month,0.05316,46,943,0.03883,0.06748
+2015,First Stage of Tertiary Education,male,Seldom,0.29049,255,943,0.26150,0.31949
+2015,First Stage of Tertiary Education,male,Never,0.56062,544,943,0.52893,0.59232
+2015,First Stage of Tertiary Education,female,At least once per week,0.19210,117,581,0.16004,0.22416
+2015,First Stage of Tertiary Education,female,At least once per month,0.11402,59,581,0.08816,0.13989
+2015,First Stage of Tertiary Education,female,Seldom,0.23942,163,581,0.20469,0.27415
+2015,First Stage of Tertiary Education,female,Never,0.45445,242,581,0.41393,0.49498
+2015,Second Stage of Tertiary Education,male,At least once per week,0.18848,546,3184,0.17489,0.20206
+2015,Second Stage of Tertiary Education,male,At least once per month,0.09193,309,3184,0.08190,0.10197
+2015,Second Stage of Tertiary Education,male,Seldom,0.28868,916,3184,0.27294,0.30442
+2015,Second Stage of Tertiary Education,male,Never,0.43091,1413,3184,0.41371,0.44811
+2015,Second Stage of Tertiary Education,female,At least once per week,0.21952,664,3221,0.20523,0.23382
+2015,Second Stage of Tertiary Education,female,At least once per month,0.10946,364,3221,0.09868,0.12025
+2015,Second Stage of Tertiary Education,female,Seldom,0.30015,944,3221,0.28432,0.31599
+2015,Second Stage of Tertiary Education,female,Never,0.37086,1249,3221,0.35417,0.38754
+2017,No answer / don't know,male,At least once per week,0.14225,60,436,0.10943,0.17508
+2017,No answer / don't know,male,Seldom,0.15410,74,436,0.12017,0.18803
+2017,No answer / don't know,male,Never,0.64368,302,436,0.59868,0.68869
+2017,No answer / don't know,female,At least once per week,0.14658,56,372,0.11059,0.18257
+2017,No answer / don't know,female,At least once per month,0.18882,39,372,0.14900,0.22865
+2017,No answer / don't know,female,Seldom,0.21271,86,372,0.17107,0.25436
+2017,No answer / don't know,female,Never,0.45189,191,372,0.40125,0.50253
+2017,Pre-primary Level,male,At least once per week,0.23277,43,186,0.17187,0.29367
+2017,Pre-primary Level,male,Seldom,0.30760,47,186,0.24110,0.37411
+2017,Pre-primary Level,male,Never,0.38561,96,186,0.31547,0.45575
+2017,Pre-primary Level,female,At least once per week,0.38650,89,198,0.31850,0.45450
+2017,Pre-primary Level,female,Seldom,0.22143,46,198,0.16345,0.27941
+2017,Pre-primary Level,female,Never,0.30360,63,198,0.23939,0.36781
+2017,Primary Level,male,At least once per week,0.02667,53,928,0.01630,0.03704
+2017,Primary Level,male,At least once per month,0.02843,41,928,0.01773,0.03913
+2017,Primary Level,male,Seldom,0.14209,142,928,0.11962,0.16457
+2017,Primary Level,male,Never,0.80281,692,928,0.77719,0.82842
+2017,Primary Level,female,At least once per week,0.07537,53,941,0.05850,0.09225
+2017,Primary Level,female,At least once per month,0.04722,31,941,0.03366,0.06078
+2017,Primary Level,female,Seldom,0.10697,115,941,0.08721,0.12673
+2017,Primary Level,female,Never,0.77044,742,941,0.74355,0.79732
+2017,Lower Secondary Level,male,At least once per week,0.09084,110,1523,0.07641,0.10528
+2017,Lower Secondary Level,male,At least once per month,0.05167,90,1523,0.04055,0.06279
+2017,Lower Secondary Level,male,Seldom,0.18220,264,1523,0.16281,0.20160
+2017,Lower Secondary Level,male,Never,0.67528,1059,1523,0.65176,0.69881
+2017,Lower Secondary Level,female,At least once per week,0.08175,205,2012,0.06977,0.09372
+2017,Lower Secondary Level,female,At least once per month,0.06373,116,2012,0.05306,0.07441
+2017,Lower Secondary Level,female,Seldom,0.17115,350,2012,0.15469,0.18761
+2017,Lower Secondary Level,female,Never,0.68337,1341,2012,0.66304,0.70370
+2017,Upper Secondary Level,male,At least once per week,0.08593,519,5831,0.07873,0.09312
+2017,Upper Secondary Level,male,At least once per month,0.05717,342,5831,0.05121,0.06313
+2017,Upper Secondary Level,male,Seldom,0.22574,1219,5831,0.21501,0.23648
+2017,Upper Secondary Level,male,Never,0.63116,3751,5831,0.61877,0.64354
+2017,Upper Secondary Level,female,At least once per week,0.12636,877,6861,0.11849,0.13422
+2017,Upper Secondary Level,female,At least once per month,0.08710,587,6861,0.08043,0.09377
+2017,Upper Secondary Level,female,Seldom,0.25448,1719,6861,0.24417,0.26479
+2017,Upper Secondary Level,female,Never,0.53206,3678,6861,0.52025,0.54387
+2017,Post-secondary Non-tertiary Level,male,At least once per week,0.11826,91,873,0.09682,0.13969
+2017,Post-secondary Non-tertiary Level,male,At least once per month,0.07796,59,873,0.06016,0.09575
+2017,Post-secondary Non-tertiary Level,male,Seldom,0.22583,199,873,0.19808,0.25359
+2017,Post-secondary Non-tertiary Level,male,Never,0.57795,524,873,0.54517,0.61073
+2017,Post-secondary Non-tertiary Level,female,At least once per week,0.14680,215,1437,0.12850,0.16511
+2017,Post-secondary Non-tertiary Level,female,At least once per month,0.10610,138,1437,0.09017,0.12203
+2017,Post-secondary Non-tertiary Level,female,Seldom,0.28263,386,1437,0.25934,0.30592
+2017,Post-secondary Non-tertiary Level,female,Never,0.46446,698,1437,0.43867,0.49026
+2017,First Stage of Tertiary Education,male,At least once per week,0.09029,96,936,0.07192,0.10866
+2017,First Stage of Tertiary Education,male,At least once per month,0.09458,69,936,0.07582,0.11334
+2017,First Stage of Tertiary Education,male,Seldom,0.27466,252,936,0.24605,0.30327
+2017,First Stage of Tertiary Education,male,Never,0.54047,519,936,0.50853,0.57242
+2017,First Stage of Tertiary Education,female,At least once per week,0.18666,118,584,0.15503,0.21829
+2017,First Stage of Tertiary Education,female,At least once per month,0.08562,56,584,0.06291,0.10834
+2017,First Stage of Tertiary Education,female,Seldom,0.31214,178,584,0.27453,0.34975
+2017,First Stage of Tertiary Education,female,Never,0.41558,232,584,0.37557,0.45558
+2017,Second Stage of Tertiary Education,male,At least once per week,0.19155,622,3720,0.17890,0.20419
+2017,Second Stage of Tertiary Education,male,At least once per month,0.08666,337,3720,0.07762,0.09571
+2017,Second Stage of Tertiary Education,male,Seldom,0.29180,1061,3720,0.27719,0.30641
+2017,Second Stage of Tertiary Education,male,Never,0.42999,1700,3720,0.41408,0.44590
+2017,Second Stage of Tertiary Education,female,At least once per week,0.23693,787,3511,0.22286,0.25100
+2017,Second Stage of Tertiary Education,female,At least once per month,0.12545,393,3511,0.11450,0.13641
+2017,Second Stage of Tertiary Education,female,Seldom,0.28806,1015,3511,0.27308,0.30305
+2017,Second Stage of Tertiary Education,female,Never,0.34955,1316,3511,0.33378,0.36533
+2018,No answer / don't know,male,Never,0.76055,88,88,0.67088,0.85023
+2018,No answer / don't know,female,Never,0.50611,46,46,0.36003,0.65219
+2018,Primary Level,male,At least once per week,0.09177,36,605,0.06875,0.11480
+2018,Primary Level,male,At least once per month,0.08836,43,605,0.06573,0.11100
+2018,Primary Level,male,Seldom,0.17198,96,605,0.14189,0.20208
+2018,Primary Level,male,Never,0.64788,430,605,0.60979,0.68598
+2018,Primary Level,female,At least once per week,0.05175,34,520,0.03269,0.07081
+2018,Primary Level,female,At least once per month,0.04536,31,520,0.02746,0.06326
+2018,Primary Level,female,Seldom,0.15239,64,520,0.12147,0.18331
+2018,Primary Level,female,Never,0.75050,391,520,0.71327,0.78773
+2018,Lower Secondary Level,male,At least once per week,0.16074,33,366,0.12306,0.19842
+2018,Lower Secondary Level,male,Seldom,0.16208,74,366,0.12427,0.19989
+2018,Lower Secondary Level,male,Never,0.61433,259,366,0.56440,0.66427
+2018,Lower Secondary Level,female,Seldom,0.26081,47,212,0.20156,0.32005
+2018,Lower Secondary Level,female,Never,0.60298,165,212,0.53696,0.66900
+2018,Upper Secondary Level,male,Seldom,0.20412,72,283,0.15708,0.25116
+2018,Upper Secondary Level,male,Never,0.61608,211,283,0.55931,0.67284
+2018,Upper Secondary Level,female,Never,0.66835,154,154,0.59375,0.74295
+2018,Post-secondary Non-tertiary Level,male,Never,0.61199,31,31,0.43761,0.78637
+2018,Second Stage of Tertiary Education,male,At least once per month,0.06916,31,352,0.04261,0.09570
+2018,Second Stage of Tertiary Education,male,Seldom,0.17224,75,352,0.13274,0.21174
+2018,Second Stage of Tertiary Education,male,Never,0.65773,246,352,0.60809,0.70737
+2018,Second Stage of Tertiary Education,female,Seldom,0.12309,33,163,0.07249,0.17368
+2018,Second Stage of Tertiary Education,female,Never,0.66196,130,163,0.58911,0.73480
+2019,No answer / don't know,male,At least once per week,0.13230,61,397,0.09893,0.16567
+2019,No answer / don't know,male,Seldom,0.28911,79,397,0.24446,0.33376
+2019,No answer / don't know,male,Never,0.53710,257,397,0.48799,0.58621
+2019,No answer / don't know,female,At least once per week,0.24629,83,364,0.20196,0.29061
+2019,No answer / don't know,female,At least once per month,0.09626,35,364,0.06592,0.12661
+2019,No answer / don't know,female,Seldom,0.28647,86,364,0.23996,0.33298
+2019,No answer / don't know,female,Never,0.37098,160,364,0.32128,0.42067
+2019,Pre-primary Level,male,At least once per week,0.31690,47,147,0.24143,0.39237
+2019,Pre-primary Level,male,Seldom,0.18229,34,147,0.11967,0.24492
+2019,Pre-primary Level,male,Never,0.39713,66,147,0.31776,0.47650
+2019,Pre-primary Level,female,At least once per week,0.56209,86,120,0.47295,0.65123
+2019,Pre-primary Level,female,Seldom,0.13554,34,120,0.07403,0.19704
+2019,Primary Level,male,At least once per week,0.04899,38,796,0.03398,0.06399
+2019,Primary Level,male,At least once per month,0.02932,56,796,0.01759,0.04105
+2019,Primary Level,male,Seldom,0.18328,130,796,0.15638,0.21017
+2019,Primary Level,male,Never,0.73842,572,796,0.70787,0.76897
+2019,Primary Level,female,At least once per week,0.12767,50,729,0.10343,0.15191
+2019,Primary Level,female,At least once per month,0.03739,33,729,0.02361,0.05117
+2019,Primary Level,female,Seldom,0.11282,81,729,0.08984,0.13580
+2019,Primary Level,female,Never,0.72212,565,729,0.68958,0.75466
+2019,Lower Secondary Level,male,At least once per week,0.13067,149,1378,0.11287,0.14848
+2019,Lower Secondary Level,male,At least once per month,0.06281,95,1378,0.05000,0.07563
+2019,Lower Secondary Level,male,Seldom,0.17376,223,1378,0.15374,0.19377
+2019,Lower Secondary Level,male,Never,0.63275,911,1378,0.60729,0.65822
+2019,Lower Secondary Level,female,At least once per week,0.12886,224,1656,0.11272,0.14501
+2019,Lower Secondary Level,female,At least once per month,0.04723,106,1656,0.03701,0.05745
+2019,Lower Secondary Level,female,Seldom,0.18649,296,1656,0.16773,0.20526
+2019,Lower Secondary Level,female,Never,0.63742,1030,1656,0.61426,0.66058
+2019,Upper Secondary Level,male,At least once per week,0.11042,625,5352,0.10202,0.11882
+2019,Upper Secondary Level,male,At least once per month,0.05962,345,5352,0.05328,0.06596
+2019,Upper Secondary Level,male,Seldom,0.21471,1107,5352,0.20370,0.22571
+2019,Upper Secondary Level,male,Never,0.61525,3275,5352,0.60222,0.62829
+2019,Upper Secondary Level,female,At least once per week,0.16008,1046,6264,0.15100,0.16916
+2019,Upper Secondary Level,female,At least once per month,0.08849,585,6264,0.08146,0.09553
+2019,Upper Secondary Level,female,Seldom,0.26145,1564,6264,0.25057,0.27233
+2019,Upper Secondary Level,female,Never,0.48998,3069,6264,0.47760,0.50236
+2019,Post-secondary Non-tertiary Level,male,At least once per week,0.16459,123,876,0.14002,0.18916
+2019,Post-secondary Non-tertiary Level,male,At least once per month,0.08324,86,876,0.06493,0.10154
+2019,Post-secondary Non-tertiary Level,male,Seldom,0.25181,198,876,0.22305,0.28058
+2019,Post-secondary Non-tertiary Level,male,Never,0.50036,469,876,0.46723,0.53349
 2019,Post-secondary Non-tertiary Level,female,At least once per week,0.22137,287,1375,0.19942,0.24333
 2019,Post-secondary Non-tertiary Level,female,At least once per month,0.12130,169,1375,0.10404,0.13856
 2019,Post-secondary Non-tertiary Level,female,Seldom,0.27500,366,1375,0.25139,0.29861
 2019,Post-secondary Non-tertiary Level,female,Never,0.38233,553,1375,0.35664,0.40803
-2019,First Stage of Tertiary Education,male,At least once per week,0.12247,139,1072,0.10283,0.14210
-2019,First Stage of Tertiary Education,male,At least once per month,0.08627,77,1072,0.06945,0.10308
-2019,First Stage of Tertiary Education,male,Seldom,0.26496,279,1072,0.23852,0.29139
-2019,First Stage of Tertiary Education,male,Never,0.52181,577,1072,0.49189,0.55172
-2019,First Stage of Tertiary Education,female,At least once per week,0.24600,150,575,0.21077,0.28123
-2019,First Stage of Tertiary Education,female,At least once per month,0.10283,69,575,0.07798,0.12768
-2019,First Stage of Tertiary Education,female,Seldom,0.26148,143,575,0.22553,0.29743
-2019,First Stage of Tertiary Education,female,Never,0.38147,213,575,0.34173,0.42120
-2019,Second Stage of Tertiary Education,male,At least once per week,0.22289,821,4014,0.21002,0.23577
-2019,Second Stage of Tertiary Education,male,At least once per month,0.11415,463,4014,0.10432,0.12399
-2019,Second Stage of Tertiary Education,male,Seldom,0.25081,998,4014,0.23740,0.26423
-2019,Second Stage of Tertiary Education,male,Never,0.41073,1732,4014,0.39551,0.42596
-2019,Second Stage of Tertiary Education,female,At least once per week,0.27284,923,3533,0.25815,0.28753
-2019,Second Stage of Tertiary Education,female,At least once per month,0.15254,538,3533,0.14069,0.16440
-2019,Second Stage of Tertiary Education,female,Seldom,0.27103,923,3533,0.25637,0.28569
-2019,Second Stage of Tertiary Education,female,Never,0.30295,1149,3533,0.28780,0.31811
-2021,Pre-primary Level,male,Never,0.31307,38,38,0.16364,0.46250
-2021,Pre-primary Level,female,At least once per week,0.21164,51,51,0.09842,0.32487
-2021,Primary Level,male,Never,0.60023,70,70,0.48465,0.71581
-2021,Primary Level,female,Never,0.56896,65,65,0.44763,0.69029
-2021,Lower Secondary Level,male,At least once per week,0.16109,102,565,0.13075,0.19143
-2021,Lower Secondary Level,male,At least once per month,0.07307,40,565,0.05159,0.09455
-2021,Lower Secondary Level,male,Seldom,0.20056,116,565,0.16751,0.23360
-2021,Lower Secondary Level,male,Never,0.49846,307,565,0.45719,0.53972
-2021,Lower Secondary Level,female,At least once per week,0.13652,157,809,0.11284,0.16019
-2021,Lower Secondary Level,female,At least once per month,0.06855,71,809,0.05113,0.08597
-2021,Lower Secondary Level,female,Seldom,0.19312,148,809,0.16590,0.22034
-2021,Lower Secondary Level,female,Never,0.56681,433,809,0.53265,0.60098
-2021,Upper Secondary Level,male,At least once per week,0.13193,452,3116,0.12004,0.14381
-2021,Upper Secondary Level,male,At least once per month,0.07922,281,3116,0.06974,0.08871
-2021,Upper Secondary Level,male,Seldom,0.21994,657,3116,0.20540,0.23449
-2021,Upper Secondary Level,male,Never,0.55854,1726,3116,0.54110,0.57598
-2021,Upper Secondary Level,female,At least once per week,0.17599,753,3839,0.16394,0.18804
-2021,Upper Secondary Level,female,At least once per month,0.09808,430,3839,0.08867,0.10749
-2021,Upper Secondary Level,female,Seldom,0.24603,892,3839,0.23240,0.25965
-2021,Upper Secondary Level,female,Never,0.47288,1764,3839,0.45708,0.48867
-2021,Post-secondary Non-tertiary Level,male,At least once per week,0.15697,109,579,0.12731,0.18662
-2021,Post-secondary Non-tertiary Level,male,At least once per month,0.13905,74,579,0.11084,0.16726
-2021,Post-secondary Non-tertiary Level,male,Seldom,0.28751,161,579,0.25061,0.32441
-2021,Post-secondary Non-tertiary Level,male,Never,0.40927,235,579,0.36919,0.44936
-2021,Post-secondary Non-tertiary Level,female,At least once per week,0.21811,226,953,0.19187,0.24434
-2021,Post-secondary Non-tertiary Level,female,At least once per month,0.14390,162,953,0.12160,0.16619
-2021,Post-secondary Non-tertiary Level,female,Seldom,0.26563,232,953,0.23757,0.29368
-2021,Post-secondary Non-tertiary Level,female,Never,0.37066,333,953,0.33998,0.40134
-2021,First Stage of Tertiary Education,male,At least once per week,0.14591,91,608,0.11783,0.17400
-2021,First Stage of Tertiary Education,male,At least once per month,0.11552,51,608,0.09009,0.14095
-2021,First Stage of Tertiary Education,male,Seldom,0.27168,153,608,0.23630,0.30707
-2021,First Stage of Tertiary Education,male,Never,0.45760,313,608,0.41797,0.49723
-2021,First Stage of Tertiary Education,female,At least once per week,0.19107,90,389,0.15195,0.23019
-2021,First Stage of Tertiary Education,female,At least once per month,0.14256,57,389,0.10777,0.17735
-2021,First Stage of Tertiary Education,female,Seldom,0.30181,121,389,0.25613,0.34748
-2021,First Stage of Tertiary Education,female,Never,0.36199,121,389,0.31418,0.40981
-2021,Second Stage of Tertiary Education,male,At least once per week,0.23199,617,2693,0.21605,0.24794
-2021,Second Stage of Tertiary Education,male,At least once per month,0.13561,376,2693,0.12267,0.14854
-2021,Second Stage of Tertiary Education,male,Seldom,0.26637,703,2693,0.24967,0.28307
-2021,Second Stage of Tertiary Education,male,Never,0.35564,997,2693,0.33756,0.37372
-2021,Second Stage of Tertiary Education,female,At least once per week,0.28248,742,2609,0.26520,0.29976
-2021,Second Stage of Tertiary Education,female,At least once per month,0.19819,508,2609,0.18289,0.21348
-2021,Second Stage of Tertiary Education,female,Seldom,0.25990,675,2609,0.24307,0.27674
-2021,Second Stage of Tertiary Education,female,Never,0.25292,684,2609,0.23624,0.26961
+2019,First Stage of Tertiary Education,male,At least once per week,0.12302,139,1072,0.10335,0.14269
+2019,First Stage of Tertiary Education,male,At least once per month,0.08666,77,1072,0.06981,0.10351
+2019,First Stage of Tertiary Education,male,Seldom,0.26615,279,1072,0.23969,0.29262
+2019,First Stage of Tertiary Education,male,Never,0.52417,577,1072,0.49426,0.55408
+2019,First Stage of Tertiary Education,female,At least once per week,0.24804,150,575,0.21271,0.28337
+2019,First Stage of Tertiary Education,female,At least once per month,0.10368,69,575,0.07874,0.12862
+2019,First Stage of Tertiary Education,female,Seldom,0.26365,143,575,0.22760,0.29970
+2019,First Stage of Tertiary Education,female,Never,0.38463,213,575,0.34483,0.42443
+2019,Second Stage of Tertiary Education,male,At least once per week,0.22321,821,4014,0.21032,0.23609
+2019,Second Stage of Tertiary Education,male,At least once per month,0.11431,463,4014,0.10447,0.12416
+2019,Second Stage of Tertiary Education,male,Seldom,0.25117,998,4014,0.23775,0.26458
+2019,Second Stage of Tertiary Education,male,Never,0.41131,1732,4014,0.39609,0.42654
+2019,Second Stage of Tertiary Education,female,At least once per week,0.27301,923,3533,0.25832,0.28770
+2019,Second Stage of Tertiary Education,female,At least once per month,0.15264,538,3533,0.14078,0.16450
+2019,Second Stage of Tertiary Education,female,Seldom,0.27120,923,3533,0.25654,0.28587
+2019,Second Stage of Tertiary Education,female,Never,0.30314,1149,3533,0.28799,0.31830
+2021,No answer / don't know,male,At least once per week,0.18279,55,319,0.14031,0.22527
+2021,No answer / don't know,male,At least once per month,0.12353,34,319,0.08737,0.15970
+2021,No answer / don't know,male,Seldom,0.18044,68,319,0.13817,0.22270
+2021,No answer / don't know,male,Never,0.51324,162,319,0.45831,0.56818
+2021,No answer / don't know,female,At least once per week,0.22974,76,297,0.18182,0.27766
+2021,No answer / don't know,female,At least once per month,0.18890,45,297,0.14431,0.23350
+2021,No answer / don't know,female,Seldom,0.23740,79,297,0.18893,0.28587
+2021,No answer / don't know,female,Never,0.34396,97,297,0.28984,0.39807
+2021,Pre-primary Level,male,Never,0.55247,38,38,0.39225,0.71269
+2021,Pre-primary Level,female,At least once per week,0.46451,51,51,0.32626,0.60275
+2021,Primary Level,male,Never,0.80476,70,70,0.71123,0.89829
+2021,Primary Level,female,Never,0.70664,65,65,0.59509,0.81819
+2021,Lower Secondary Level,male,At least once per week,0.17263,102,565,0.14144,0.20382
+2021,Lower Secondary Level,male,At least once per month,0.07831,40,565,0.05613,0.10048
+2021,Lower Secondary Level,male,Seldom,0.21492,116,565,0.18102,0.24882
+2021,Lower Secondary Level,male,Never,0.53415,307,565,0.49298,0.57532
+2021,Lower Secondary Level,female,At least once per week,0.14147,157,809,0.11744,0.16550
+2021,Lower Secondary Level,female,At least once per month,0.07104,71,809,0.05332,0.08875
+2021,Lower Secondary Level,female,Seldom,0.20012,148,809,0.17254,0.22771
+2021,Lower Secondary Level,female,Never,0.58737,433,809,0.55343,0.62132
+2021,Upper Secondary Level,male,At least once per week,0.13331,452,3116,0.12137,0.14525
+2021,Upper Secondary Level,male,At least once per month,0.08005,281,3116,0.07052,0.08958
+2021,Upper Secondary Level,male,Seldom,0.22225,657,3116,0.20765,0.23685
+2021,Upper Secondary Level,male,Never,0.56439,1726,3116,0.54698,0.58180
+2021,Upper Secondary Level,female,At least once per week,0.17723,753,3839,0.16515,0.18931
+2021,Upper Secondary Level,female,At least once per month,0.09878,430,3839,0.08934,0.10822
+2021,Upper Secondary Level,female,Seldom,0.24777,892,3839,0.23411,0.26143
+2021,Upper Secondary Level,female,Never,0.47622,1764,3839,0.46042,0.49202
+2021,Post-secondary Non-tertiary Level,male,At least once per week,0.15810,109,579,0.12836,0.18785
+2021,Post-secondary Non-tertiary Level,male,At least once per month,0.14006,74,579,0.11177,0.16835
+2021,Post-secondary Non-tertiary Level,male,Seldom,0.28959,161,579,0.25262,0.32657
+2021,Post-secondary Non-tertiary Level,male,Never,0.41224,235,579,0.37211,0.45237
+2021,Post-secondary Non-tertiary Level,female,At least once per week,0.21848,226,953,0.19223,0.24473
+2021,Post-secondary Non-tertiary Level,female,At least once per month,0.14414,162,953,0.12183,0.16646
+2021,Post-secondary Non-tertiary Level,female,Seldom,0.26608,232,953,0.23801,0.29415
+2021,Post-secondary Non-tertiary Level,female,Never,0.37130,333,953,0.34060,0.40199
+2021,First Stage of Tertiary Education,male,At least once per week,0.14728,91,608,0.11909,0.17547
+2021,First Stage of Tertiary Education,male,At least once per month,0.11660,51,608,0.09107,0.14213
+2021,First Stage of Tertiary Education,male,Seldom,0.27423,153,608,0.23874,0.30972
+2021,First Stage of Tertiary Education,male,Never,0.46189,313,608,0.42223,0.50155
+2021,First Stage of Tertiary Education,female,At least once per week,0.19156,90,389,0.15240,0.23072
+2021,First Stage of Tertiary Education,female,At least once per month,0.14293,57,389,0.10810,0.17776
+2021,First Stage of Tertiary Education,female,Seldom,0.30258,121,389,0.25687,0.34829
+2021,First Stage of Tertiary Education,female,Never,0.36293,121,389,0.31508,0.41077
+2021,Second Stage of Tertiary Education,male,At least once per week,0.23443,617,2693,0.21842,0.25043
+2021,Second Stage of Tertiary Education,male,At least once per month,0.13703,376,2693,0.12404,0.15002
+2021,Second Stage of Tertiary Education,male,Seldom,0.26917,703,2693,0.25241,0.28592
+2021,Second Stage of Tertiary Education,male,Never,0.35937,997,2693,0.34125,0.37750
+2021,Second Stage of Tertiary Education,female,At least once per week,0.28433,742,2609,0.26702,0.30164
+2021,Second Stage of Tertiary Education,female,At least once per month,0.19948,508,2609,0.18415,0.21482
+2021,Second Stage of Tertiary Education,female,Seldom,0.26161,675,2609,0.24474,0.27847
+2021,Second Stage of Tertiary Education,female,Never,0.25458,684,2609,0.23786,0.27130

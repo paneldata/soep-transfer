@@ -1,4 +1,5 @@
 year,regtyp,sampreg,n,mean,mean_lower_confidence,mean_upper_confidence,lower_quartile,boxplot_median,upper_quartile,lower_whisker,upper_whisker,median,median_lower_confidence,median_upper_confidence
+1984,No answer / don't know,West,,,,,,,,,,,,
 1985,Urban regions,West,,,,,,,,,,,,
 1985,Rural regions,West,,,,,,,,,,,,
 1986,Urban regions,West,,,,,,,,,,,,
@@ -9,14 +10,19 @@ year,regtyp,sampreg,n,mean,mean_lower_confidence,mean_upper_confidence,lower_qua
 1988,Rural regions,West,,,,,,,,,,,,
 1989,Urban regions,West,,,,,,,,,,,,
 1989,Rural regions,West,,,,,,,,,,,,
+1990,No answer / don't know,East,,,,,,,,,,,,
 1990,Urban regions,West,,,,,,,,,,,,
 1990,Urban regions,East,,,,,,,,,,,,
 1990,Rural regions,West,,,,,,,,,,,,
 1990,Rural regions,East,,,,,,,,,,,,
+1991,No answer / don't know,West,,,,,,,,,,,,
+1991,No answer / don't know,East,,,,,,,,,,,,
 1991,Urban regions,West,,,,,,,,,,,,
 1991,Urban regions,East,,,,,,,,,,,,
 1991,Rural regions,West,,,,,,,,,,,,
 1991,Rural regions,East,,,,,,,,,,,,
+1992,No answer / don't know,West,,,,,,,,,,,,
+1992,No answer / don't know,East,,,,,,,,,,,,
 1992,Urban regions,West,,,,,,,,,,,,
 1992,Urban regions,East,,,,,,,,,,,,
 1992,Rural regions,West,,,,,,,,,,,,
@@ -37,6 +43,7 @@ year,regtyp,sampreg,n,mean,mean_lower_confidence,mean_upper_confidence,lower_qua
 1996,Urban regions,East,,,,,,,,,,,,
 1996,Rural regions,West,,,,,,,,,,,,
 1996,Rural regions,East,,,,,,,,,,,,
+1997,No answer / don't know,West,,,,,,,,,,,,
 1997,Urban regions,West,,,,,,,,,,,,
 1997,Urban regions,East,,,,,,,,,,,,
 1997,Rural regions,West,,,,,,,,,,,,
@@ -73,10 +80,10 @@ year,regtyp,sampreg,n,mean,mean_lower_confidence,mean_upper_confidence,lower_qua
 2005,Urban regions,East,,,,,,,,,,,,
 2005,Rural regions,West,,,,,,,,,,,,
 2005,Rural regions,East,,,,,,,,,,,,
-2006,Urban regions,West,12685,7.46096,7.42697,7.49495,7.00000,8.00000,9.00000,4.00000,10.00000,8.00000,8.00000,8.00000
-2006,Urban regions,East,1732,7.25370,7.16343,7.34398,6.00000,8.00000,8.00000,3.00000,10.00000,8.00000,8.00000,8.00000
-2006,Rural regions,West,3918,7.50979,7.44736,7.57223,7.00000,8.00000,9.00000,4.00000,10.00000,8.00000,8.00000,8.00000
-2006,Rural regions,East,3508,7.34119,7.27900,7.40338,6.00000,8.00000,9.00000,1.50000,10.00000,8.00000,8.00000,8.00000
+2006,Urban regions,West,12685,7.46096,7.42697,7.49495,7.00000,8.00000,9.00000,4.00000,10,,,
+2006,Urban regions,East,1732,7.25370,7.16343,7.34398,6.00000,8.00000,8.00000,3.00000,10,,,
+2006,Rural regions,West,3918,7.50979,7.44736,7.57223,7.00000,8.00000,9.00000,4.00000,10,,,
+2006,Rural regions,East,3508,7.34119,7.27900,7.40338,6.00000,8.00000,9.00000,1.50000,10,,,
 2007,Urban regions,West,,,,,,,,,,,,
 2007,Urban regions,East,,,,,,,,,,,,
 2007,Rural regions,West,,,,,,,,,,,,
@@ -93,10 +100,10 @@ year,regtyp,sampreg,n,mean,mean_lower_confidence,mean_upper_confidence,lower_qua
 2010,Urban regions,East,,,,,,,,,,,,
 2010,Rural regions,West,,,,,,,,,,,,
 2010,Rural regions,East,,,,,,,,,,,,
-2011,Urban regions,West,14507,7.59556,7.56408,7.62705,7.00000,8.00000,9.00000,4.00000,10.00000,8.00000,8.00000,8.00000
-2011,Urban regions,East,2020,7.46705,7.38163,7.55247,7.00000,8.00000,9.00000,4.00000,10.00000,8.00000,8.00000,8.00000
-2011,Rural regions,West,5401,7.58592,7.53390,7.63793,7.00000,8.00000,9.00000,4.00000,10.00000,8.00000,8.00000,8.00000
-2011,Rural regions,East,3748,7.50681,7.44719,7.56642,7.00000,8.00000,9.00000,4.00000,10.00000,8.00000,8.00000,8.00000
+2011,Urban regions,West,14507,7.59556,7.56408,7.62705,7.00000,8.00000,9.00000,4.00000,10,,,
+2011,Urban regions,East,2020,7.46705,7.38163,7.55247,7.00000,8.00000,9.00000,4.00000,10,,,
+2011,Rural regions,West,5401,7.58592,7.53390,7.63793,7.00000,8.00000,9.00000,4.00000,10,,,
+2011,Rural regions,East,3748,7.50681,7.44719,7.56642,7.00000,8.00000,9.00000,4.00000,10,,,
 2012,Urban regions,West,,,,,,,,,,,,
 2012,Urban regions,East,,,,,,,,,,,,
 2012,Rural regions,West,,,,,,,,,,,,
@@ -113,10 +120,10 @@ year,regtyp,sampreg,n,mean,mean_lower_confidence,mean_upper_confidence,lower_qua
 2015,Urban regions,East,,,,,,,,,,,,
 2015,Rural regions,West,,,,,,,,,,,,
 2015,Rural regions,East,,,,,,,,,,,,
-2016,Urban regions,West,13850,7.64081,7.61003,7.67160,7.00000,8.00000,9.00000,4.00000,10.00000,8.00000,8.00000,8.00000
-2016,Urban regions,East,1756,7.47798,7.39152,7.56444,7.00000,8.00000,9.00000,4.00000,10.00000,8.00000,8.00000,8.00000
-2016,Rural regions,West,5171,7.69453,7.64706,7.74200,7.00000,8.00000,9.00000,4.00000,10.00000,8.00000,8.00000,8.00000
-2016,Rural regions,East,3240,7.48540,7.42056,7.55025,7.00000,8.00000,9.00000,4.00000,10.00000,8.00000,8.00000,8.00000
+2016,Urban regions,West,13850,7.64081,7.61003,7.67160,7.00000,8.00000,9.00000,4.00000,10,,,
+2016,Urban regions,East,1756,7.47798,7.39152,7.56444,7.00000,8.00000,9.00000,4.00000,10,,,
+2016,Rural regions,West,5171,7.69453,7.64706,7.74200,7.00000,8.00000,9.00000,4.00000,10,,,
+2016,Rural regions,East,3240,7.48540,7.42056,7.55025,7.00000,8.00000,9.00000,4.00000,10,,,
 2017,Urban regions,West,,,,,,,,,,,,
 2017,Urban regions,East,,,,,,,,,,,,
 2017,Rural regions,West,,,,,,,,,,,,
@@ -125,6 +132,9 @@ year,regtyp,sampreg,n,mean,mean_lower_confidence,mean_upper_confidence,lower_qua
 2018,Urban regions,East,,,,,,,,,,,,
 2018,Rural regions,West,,,,,,,,,,,,
 2018,Rural regions,East,,,,,,,,,,,,
+2019,No answer / don't know,Does not apply,,,,,,,,,,,,
+2019,No answer / don't know,West,,,,,,,,,,,,
+2019,No answer / don't know,East,,,,,,,,,,,,
 2019,Urban regions,West,,,,,,,,,,,,
 2019,Urban regions,East,,,,,,,,,,,,
 2019,Rural regions,West,,,,,,,,,,,,
@@ -133,6 +143,7 @@ year,regtyp,sampreg,n,mean,mean_lower_confidence,mean_upper_confidence,lower_qua
 2020,Urban regions,East,,,,,,,,,,,,
 2020,Rural regions,West,,,,,,,,,,,,
 2020,Rural regions,East,,,,,,,,,,,,
+2021,No answer / don't know,West,,,,,,,,,,,,
 2021,Urban regions,West,,,,,,,,,,,,
 2021,Urban regions,East,,,,,,,,,,,,
 2021,Rural regions,West,,,,,,,,,,,,

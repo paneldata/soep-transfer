@@ -35,10 +35,12 @@ year,migback,sex,n,mean,mean_lower_confidence,mean_upper_confidence,lower_quarti
 1989,Direct migration background,female,,,,,,,,,,,,
 1989,Indirect migration background,male,,,,,,,,,,,,
 1989,Indirect migration background,female,,,,,,,,,,,,
+1990,No migration background,No answer / don't know,,,,,,,,,,,,
 1990,No migration background,male,,,,,,,,,,,,
 1990,No migration background,female,,,,,,,,,,,,
 1990,Direct migration background,male,,,,,,,,,,,,
 1990,Direct migration background,female,,,,,,,,,,,,
+1990,Indirect migration background,No answer / don't know,,,,,,,,,,,,
 1990,Indirect migration background,male,,,,,,,,,,,,
 1990,Indirect migration background,female,,,,,,,,,,,,
 1991,No migration background,male,,,,,,,,,,,,
@@ -125,12 +127,12 @@ year,migback,sex,n,mean,mean_lower_confidence,mean_upper_confidence,lower_quarti
 2004,Direct migration background,female,,,,,,,,,,,,
 2004,Indirect migration background,male,,,,,,,,,,,,
 2004,Indirect migration background,female,,,,,,,,,,,,
-2005,No migration background,male,8279,4.39750,4.37186,4.42315,3.66667,4.33333,5.33333,1.16667,7.0,4.3333335,4.33333,4.33333
-2005,No migration background,female,8970,4.52666,4.50116,4.55216,3.66667,4.66667,5.33333,1.16667,7.0,4.6666665,4.66667,4.66667
-2005,Direct migration background,male,1080,4.24701,4.17063,4.32339,3.33333,4.33333,5.00000,1.0,7.0,4.3333335,4.00000,4.33333
-2005,Direct migration background,female,1221,4.35343,4.27972,4.42713,3.66667,4.33333,5.33333,1.16667,7.0,4.3333335,4.33333,4.33333
-2005,Indirect migration background,male,394,4.52958,4.42089,4.63827,4.00000,4.66667,5.33333,2.00000,7.0,4.6666665,4.33333,4.66667
-2005,Indirect migration background,female,422,4.79914,4.68410,4.91418,4.02547,5.00000,5.66667,1.56367,7.0,5.0,4.66667,5.00000
+2005,No migration background,male,8279,4.39750,4.37186,4.42315,3.66667,4.33333,5.33333,1.16667,7.0,,,
+2005,No migration background,female,8970,4.52666,4.50116,4.55216,3.66667,4.66667,5.33333,1.16667,7.0,,,
+2005,Direct migration background,male,1080,4.24701,4.17063,4.32339,3.33333,4.33333,5.00000,1.0,7.0,,,
+2005,Direct migration background,female,1221,4.35343,4.27972,4.42713,3.66667,4.33333,5.33333,1.16667,7.0,,,
+2005,Indirect migration background,male,394,4.52958,4.42089,4.63827,4.00000,4.66667,5.33333,2.00000,7.0,,,
+2005,Indirect migration background,female,422,4.79914,4.68410,4.91418,4.01007,5.00000,5.66667,1.52518,7.0,,,
 2006,No migration background,male,,,,,,,,,,,,
 2006,No migration background,female,,,,,,,,,,,,
 2006,Direct migration background,male,,,,,,,,,,,,
@@ -149,87 +151,123 @@ year,migback,sex,n,mean,mean_lower_confidence,mean_upper_confidence,lower_quarti
 2008,Direct migration background,female,,,,,,,,,,,,
 2008,Indirect migration background,male,,,,,,,,,,,,
 2008,Indirect migration background,female,,,,,,,,,,,,
-2009,No migration background,male,7400,4.29165,4.26517,4.31813,3.66667,4.33333,5.00000,1.66667,7.00000,4.3333335,4.33333,4.33333
-2009,No migration background,female,8006,4.37754,4.35021,4.40486,3.66667,4.33333,5.33333,1.16667,7.0,4.3333335,4.33333,4.33333
-2009,Direct migration background,male,741,4.19200,4.10036,4.28363,3.33333,4.00000,5.00000,1.0,7.0,4.0,4.00000,4.33333
-2009,Direct migration background,female,866,4.35865,4.26702,4.45028,3.33333,4.33333,5.33333,1.0,7.0,4.3333335,4.33333,4.66667
-2009,Indirect migration background,male,335,4.55292,4.43299,4.67285,3.66667,4.66667,5.33333,1.3333334,7.0,4.6666665,4.33333,5.00000
-2009,Indirect migration background,female,366,4.72820,4.60809,4.84830,4.00000,5.00000,5.60756,1.58866,7.0,5.0,4.33333,5.00000
+2009,No migration background,male,7400,4.29165,4.26517,4.31813,3.66667,4.33333,5.00000,1.66667,7.00000,,,
+2009,No migration background,female,8006,4.37754,4.35021,4.40486,3.66667,4.33333,5.33333,1.16667,7.0,,,
+2009,Direct migration background,male,741,4.19200,4.10036,4.28363,3.33333,4.00000,5.00000,1.0,7.0,,,
+2009,Direct migration background,female,866,4.35865,4.26702,4.45028,3.33333,4.33333,5.33333,1.0,7.0,,,
+2009,Indirect migration background,male,335,4.55292,4.43299,4.67285,3.66667,4.66667,5.33333,1.3333334,7.0,,,
+2009,Indirect migration background,female,366,4.72820,4.60809,4.84830,4.00000,5.00000,5.66667,1.50000,7.0,,,
 2010,No migration background,male,,,,,,,,,,,,
 2010,No migration background,female,,,,,,,,,,,,
 2010,Direct migration background,male,,,,,,,,,,,,
 2010,Direct migration background,female,,,,,,,,,,,,
 2010,Indirect migration background,male,,,,,,,,,,,,
 2010,Indirect migration background,female,,,,,,,,,,,,
+2011,No migration background,Implausible value,,,,,,,,,,,,
+2011,No migration background,No answer / don't know,,,,,,,,,,,,
 2011,No migration background,male,,,,,,,,,,,,
 2011,No migration background,female,,,,,,,,,,,,
 2011,Direct migration background,male,,,,,,,,,,,,
 2011,Direct migration background,female,,,,,,,,,,,,
 2011,Indirect migration background,male,,,,,,,,,,,,
 2011,Indirect migration background,female,,,,,,,,,,,,
-2012,No migration background,male,2170,4.51831,4.47146,4.56516,3.66667,4.66667,5.33333,1.16667,7.0,4.6666665,4.33333,4.66667
-2012,No migration background,female,3299,4.67242,4.63206,4.71277,4.00000,4.66667,5.66667,1.50000,7.0,4.6666665,4.66667,4.66667
-2012,Direct migration background,male,503,4.60956,4.50985,4.70927,3.66667,4.66667,5.33333,1.16667,7.0,4.6666665,4.33333,4.66667
-2012,Direct migration background,female,647,4.77509,4.67944,4.87075,4.00000,4.66667,5.66667,1.50000,7.0,4.6666665,4.66667,5.00000
-2012,Indirect migration background,male,179,4.72348,4.54760,4.89936,3.78857,4.66667,5.66667,1.3333334,7.0,4.6666665,4.33333,5.00000
-2012,Indirect migration background,female,240,5.11170,4.95386,5.26954,4.33333,5.33333,6.00000,1.83333,7.0,5.3333335,5.00000,5.66667
-2013,No migration background,male,7630,4.46085,4.43465,4.48705,3.66667,4.33333,5.33333,1.16667,7.0,4.3333335,4.33333,4.34167
-2013,No migration background,female,8535,4.62613,4.60068,4.65157,3.66667,4.66667,5.66667,1.0,7.0,4.6666665,4.66667,4.66667
-2013,Direct migration background,male,737,4.55865,4.46000,4.65730,3.66667,4.66667,5.66667,1.0,7.0,4.6666665,4.33333,5.00000
-2013,Direct migration background,female,963,4.49659,4.41343,4.57975,3.66667,4.66667,5.33333,1.16667,7.0,4.6666665,4.33333,4.66667
-2013,Indirect migration background,male,335,4.76352,4.64522,4.88181,4.00000,4.66667,5.66667,1.50000,7.0,4.6666665,4.33333,5.00000
-2013,Indirect migration background,female,358,4.91279,4.79723,5.02834,4.00000,5.00000,5.66667,1.50000,7.0,5.0,4.66667,5.00000
+2012,No migration background,Implausible value,,,,,,,,,,,,
+2012,No migration background,male,2170,4.51831,4.47146,4.56516,3.66667,4.66667,5.33333,1.16667,7.0,,,
+2012,No migration background,female,3299,4.67242,4.63206,4.71277,4.00000,4.66667,5.66667,1.50000,7.0,,,
+2012,Direct migration background,male,503,4.60956,4.50985,4.70927,3.66667,4.66667,5.33333,1.16667,7.0,,,
+2012,Direct migration background,female,647,4.77509,4.67944,4.87075,4.00000,4.66667,5.66667,1.50000,7.0,,,
+2012,Indirect migration background,male,179,4.72348,4.54760,4.89936,3.74611,4.66667,5.66667,1.3333334,7.0,,,
+2012,Indirect migration background,female,240,5.11170,4.95386,5.26954,4.33333,5.21277,6.00000,1.83333,7.0,,,
+2013,No migration background,Implausible value,,,,,,,,,,,,
+2013,No migration background,male,7630,4.46085,4.43465,4.48705,3.66667,4.33333,5.33333,1.16667,7.0,,,
+2013,No migration background,female,8535,4.62613,4.60068,4.65157,3.66667,4.66667,5.66667,1.0,7.0,,,
+2013,Direct migration background,male,737,4.55865,4.46000,4.65730,3.66667,4.66667,5.66667,1.0,7.0,,,
+2013,Direct migration background,female,963,4.49659,4.41343,4.57975,3.66667,4.66667,5.33333,1.16667,7.0,,,
+2013,Indirect migration background,male,335,4.76352,4.64522,4.88181,4.00000,4.66667,5.66667,1.50000,7.0,,,
+2013,Indirect migration background,female,358,4.91279,4.79723,5.02834,4.00000,5.00000,5.66667,1.50000,7.0,,,
+2014,No migration background,Implausible value,,,,,,,,,,,,
+2014,No migration background,No answer / don't know,,,,,,,,,,,,
 2014,No migration background,male,,,,,,,,,,,,
 2014,No migration background,female,,,,,,,,,,,,
 2014,Direct migration background,male,,,,,,,,,,,,
 2014,Direct migration background,female,,,,,,,,,,,,
 2014,Indirect migration background,male,,,,,,,,,,,,
 2014,Indirect migration background,female,,,,,,,,,,,,
+2015,No migration background,Implausible value,,,,,,,,,,,,
+2015,No migration background,No answer / don't know,,,,,,,,,,,,
 2015,No migration background,male,,,,,,,,,,,,
 2015,No migration background,female,,,,,,,,,,,,
 2015,Direct migration background,male,,,,,,,,,,,,
 2015,Direct migration background,female,,,,,,,,,,,,
+2015,Indirect migration background,No answer / don't know,,,,,,,,,,,,
 2015,Indirect migration background,male,,,,,,,,,,,,
 2015,Indirect migration background,female,,,,,,,,,,,,
+2016,No migration background,Implausible value,,,,,,,,,,,,
+2016,No migration background,No answer / don't know,,,,,,,,,,,,
 2016,No migration background,male,,,,,,,,,,,,
 2016,No migration background,female,,,,,,,,,,,,
+2016,Direct migration background,No answer / don't know,,,,,,,,,,,,
 2016,Direct migration background,male,,,,,,,,,,,,
 2016,Direct migration background,female,,,,,,,,,,,,
+2016,Indirect migration background,No answer / don't know,,,,,,,,,,,,
 2016,Indirect migration background,male,,,,,,,,,,,,
 2016,Indirect migration background,female,,,,,,,,,,,,
-2017,No migration background,male,9274,4.54783,4.52430,4.57135,3.66667,4.66667,5.33333,1.16667,7.0,4.6666665,4.66667,4.66667
-2017,No migration background,female,10640,4.67825,4.65551,4.70098,4.00000,4.66667,5.66667,1.50000,7.0,4.6666665,4.66667,4.66667
-2017,Direct migration background,male,3285,4.63584,4.59377,4.67792,3.66667,4.66667,5.66667,1.0,7.0,4.6666665,4.66667,4.66667
-2017,Direct migration background,female,3391,4.75697,4.71463,4.79930,4.00000,4.66667,5.66667,1.50000,7.0,4.6666665,4.66667,5.00000
-2017,Indirect migration background,male,756,4.64606,4.56148,4.73065,4.00000,4.66667,5.66667,1.50000,7.0,4.6666665,4.33333,5.00000
-2017,Indirect migration background,female,850,5.00668,4.93270,5.08066,4.00000,5.00000,5.66667,1.6666666,7.0,5.0,5.00000,5.33333
+2017,No migration background,Implausible value,,,,,,,,,,,,
+2017,No migration background,male,9274,4.54783,4.52430,4.57135,3.66667,4.66667,5.33333,1.16667,7.0,,,
+2017,No migration background,female,10640,4.67825,4.65551,4.70098,4.00000,4.66667,5.66667,1.50000,7.0,,,
+2017,Direct migration background,male,3285,4.63584,4.59377,4.67792,3.66667,4.66667,5.66667,1.0,7.0,,,
+2017,Direct migration background,female,3391,4.75697,4.71463,4.79930,4.00000,4.66667,5.66667,1.50000,7.0,,,
+2017,Indirect migration background,No answer / don't know,,,,,,,,,,,,
+2017,Indirect migration background,male,756,4.64606,4.56148,4.73065,4.00000,4.66667,5.66667,1.50000,7.0,,,
+2017,Indirect migration background,female,850,5.00668,4.93270,5.08066,4.00000,5.00000,5.66667,1.6666666,7.0,,,
+2018,No migration background,Implausible value,,,,,,,,,,,,
+2018,No migration background,No answer / don't know,,,,,,,,,,,,
 2018,No migration background,male,,,,,,,,,,,,
 2018,No migration background,female,,,,,,,,,,,,
 2018,Direct migration background,male,,,,,,,,,,,,
 2018,Direct migration background,female,,,,,,,,,,,,
+2018,Indirect migration background,No answer / don't know,,,,,,,,,,,,
 2018,Indirect migration background,male,,,,,,,,,,,,
 2018,Indirect migration background,female,,,,,,,,,,,,
-2019,No migration background,male,9610,4.41982,4.39634,4.44331,3.66667,4.33333,5.33333,1.16667,7.0,4.3333335,4.33333,4.33333
-2019,No migration background,female,10255,4.58442,4.56098,4.60786,3.66667,4.66667,5.33333,1.16667,7.0,4.6666665,4.66667,4.66667
-2019,Direct migration background,male,1753,4.50232,4.44422,4.56043,3.66667,4.66667,5.33333,1.16667,7.0,4.6666665,4.33333,4.66667
-2019,Direct migration background,female,2179,4.59538,4.54339,4.64737,3.66667,4.66667,5.66667,1.0,7.0,4.6666665,4.33333,4.66667
-2019,Indirect migration background,male,729,4.68589,4.60115,4.77063,4.00000,4.66667,5.66667,1.50000,7.0,4.6666665,4.66667,5.00000
-2019,Indirect migration background,female,820,4.92295,4.84444,5.00145,4.33333,5.00000,5.66667,2.33333,7.0,5.0,4.66667,5.00000
+2019,No migration background,Implausible value,,,,,,,,,,,,
+2019,No migration background,No answer / don't know,,,,,,,,,,,,
+2019,No migration background,male,9610,4.41982,4.39634,4.44331,3.66667,4.33333,5.33333,1.16667,7.0,,,
+2019,No migration background,female,10255,4.58442,4.56098,4.60786,3.66667,4.66667,5.33333,1.16667,7.0,,,
+2019,Direct migration background,male,1753,4.50232,4.44422,4.56043,3.66667,4.66667,5.33333,1.16667,7.0,,,
+2019,Direct migration background,female,2179,4.59538,4.54339,4.64737,3.66667,4.66667,5.66667,1.0,7.0,,,
+2019,Indirect migration background,No answer / don't know,,,,,,,,,,,,
+2019,Indirect migration background,male,729,4.68589,4.60115,4.77063,4.00000,4.66667,5.66667,1.50000,7.0,,,
+2019,Indirect migration background,female,820,4.92295,4.84444,5.00145,4.33333,5.00000,5.66667,2.33333,7.0,,,
+2020,No migration background,Implausible value,,,,,,,,,,,,
+2020,No migration background,No answer / don't know,,,,,,,,,,,,
 2020,No migration background,male,,,,,,,,,,,,
 2020,No migration background,female,,,,,,,,,,,,
+2020,Direct migration background,No answer / don't know,,,,,,,,,,,,
 2020,Direct migration background,male,,,,,,,,,,,,
 2020,Direct migration background,female,,,,,,,,,,,,
+2020,Indirect migration background,No answer / don't know,,,,,,,,,,,,
 2020,Indirect migration background,male,,,,,,,,,,,,
 2020,Indirect migration background,female,,,,,,,,,,,,
+2021,No migration background,Implausible value,,,,,,,,,,,,
+2021,No migration background,No answer / don't know,,,,,,,,,,,,
 2021,No migration background,male,,,,,,,,,,,,
 2021,No migration background,female,,,,,,,,,,,,
 2021,Direct migration background,male,,,,,,,,,,,,
 2021,Direct migration background,female,,,,,,,,,,,,
 2021,Indirect migration background,male,,,,,,,,,,,,
 2021,Indirect migration background,female,,,,,,,,,,,,
+2022,No answer / don't know,No answer / don't know,,,,,,,,,,,,
+2022,No answer / don't know,male,,,,,,,,,,,,
+2022,No answer / don't know,female,,,,,,,,,,,,
+2022,No migration background,Implausible value,,,,,,,,,,,,
+2022,No migration background,No answer / don't know,,,,,,,,,,,,
 2022,No migration background,male,,,,,,,,,,,,
 2022,No migration background,female,,,,,,,,,,,,
+2022,Direct migration background,Implausible value,,,,,,,,,,,,
+2022,Direct migration background,No answer / don't know,,,,,,,,,,,,
 2022,Direct migration background,male,,,,,,,,,,,,
 2022,Direct migration background,female,,,,,,,,,,,,
+2022,Indirect migration background,Implausible value,,,,,,,,,,,,
+2022,Indirect migration background,No answer / don't know,,,,,,,,,,,,
 2022,Indirect migration background,male,,,,,,,,,,,,
 2022,Indirect migration background,female,,,,,,,,,,,,
